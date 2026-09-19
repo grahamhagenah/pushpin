@@ -1,0 +1,388 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · MIT
+X-WR-CALDESC:What’s coming up at MIT\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:14ed7f9bba4d544d8980b0a27e0da0fa6a303581@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260922T210000Z
+DTEND:20260922T230000Z
+SUMMARY:John Gallagher: “Students still think they write better than the 
+ machines: A study of undergrad self-perceptions of Generative AI and writi
+ ng skills”
+LOCATION:MIT\, 32 VASSAR ST\, Cambridge\, MA 02139
+DESCRIPTION:Since ChatGPT arrived\, surveys suggest that 86% of students us
+ e GenAI in their academic work. But what do students really think about th
+ ese tools\, and about their own writing? In this talk\, I share findings f
+ rom a large-scale survey (n=342) of University of Illinois undergraduates 
+ conducted in spring 2026. These students occupy a unique moment in history
+ : they learned to write before GenAI existed\, which makes them well posit
+ ioned to compare their own abilities to a machine’s. The results may sur
+ prise you. Students report high familiarity with AI but lukewarm trust. Ne
+ arly half of humanities students say they never use these tools at all\, w
+ hile business and STEM students use and trust them the most. When asked to
+  compare their writing to GenAI\, students overwhelmingly judged their own
+  work superior\, insisting that their ideas are better. Along the way\, sp
+ eaker John Gallagher discusses research that shows GenAI erodes writing ab
+ ility over time by making us less persistent. Whether you use AI every day
+ \, avoid it entirely\, or simply wonder what it means for how we write and
+  think\, this conversation is for you.\nhttps://calendar.mit.edu/event/joh
+ n-gallagher-undergrad-self-perceptions-generative-ai-writing-skills\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/john-gallagher-undergrad-self-perception
+ s-generative-ai-writing-skills
+END:VEVENT
+BEGIN:VEVENT
+UID:a85b22dbbd876dc140cc280b8f75f4d4f479464b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260922T230000Z
+DTEND:20260923T010000Z
+SUMMARY:Should assisted death be legal?
+LOCATION:MIT\, 182 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:Join Kathleen Stock (author of Do Not Go Gentle: The Case Again
+ st Assisted Death) and Jessica Flanigan (University of Richmond)\, to disc
+ uss the case for and against assisted death.\nhttps://calendar.mit.edu/eve
+ nt/should-assisted-death-be-legal\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://calendar.mit.edu/event/should-assisted-death-be-legal
+END:VEVENT
+BEGIN:VEVENT
+UID:2cf8843cccfa40b54c89ece549a8bf128d8562a3@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260923T210000Z
+DTEND:20260923T230000Z
+SUMMARY:MIT Music Tech Speaker Series Presents: Mari Kimura
+LOCATION:MIT\, 160 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:Mastery over Novelty: MUGIC® - a lasting tool for musicianship
+  This lecture explores a pivotal shift in the relationship between technol
+ ogy and the performing arts—from chasing novelty to cultivating mastery.
+  Violinist\, composer\, and technologist Mari Kimura presents MUGIC® (Mus
+ ic/User Gesture Interface Control)\, a groundbreaking motion sensor design
+ ed to deepen\, not replace\, musicianship. Unlike many fleeting tech innov
+ ations\, MUGIC® is a lightweight\, wearable device that captures expressi
+ ve gestures in real time\, converting them into control data for sound\, v
+ isuals\, and interactive media. Designed with performers in mind\, it emph
+ asizes expressivity\, accessibility\, and longevity—offering a sustainab
+ le model for integrating technology into the arts\, education\, and therap
+ eutic practices. Drawing from over a decade of development and real-world 
+ application—from interdisciplinary curricula to stages such as Lincoln C
+ enter\, the Venice Biennale\, and Expo 2025 Osaka—Kimura showcases how m
+ astering a robust\, intuitive tool fosters deeper expression and long-term
+  artistic growth.\nhttps://calendar.mit.edu/event/mit-music-tech-speaker-s
+ eries-presents-mari-kimura\nFrom Pushpin Boston: https://pushpin.city/bost
+ on/
+URL:https://calendar.mit.edu/event/mit-music-tech-speaker-series-presents-m
+ ari-kimura
+END:VEVENT
+BEGIN:VEVENT
+UID:da64b7f3ed6c288ba3e81cf11317d9ea6f28c02b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260923T220000Z
+DTEND:20260924T000000Z
+SUMMARY:Art21 Screening with Josh Kline
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Join MIT List Visual Arts Center for a screening of the upcomin
+ g season of Art21 followed by a closing conversation with featured artist\
+ , Josh Kline.\nhttps://calendar.mit.edu/event/art21-screening-with-josh-kl
+ ine\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/art21-screening-with-josh-kline
+END:VEVENT
+BEGIN:VEVENT
+UID:374d5f96683d11fa1f621930aa1b654b1ad95648@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260924T130000Z
+DTEND:20260924T150000Z
+SUMMARY:SHASS 75th Anniversary Symposium
+LOCATION:MIT\, 201 Amherst Street\, Cambridge\, MA 02142
+DESCRIPTION:The SHASS 75th Anniversary Symposium is a two-day celebration b
+ eing held September 24-25\, 2026 in the Edward and Joyce Linde Music Build
+ ing’s Thomas Tull Concert Hall. The symposium will feature topical facul
+ ty panel discussions\, student performances\, and alumni talks. Between se
+ ssions\, attendees will have opportunities for connecting and networking.\
+ nhttps://calendar.mit.edu/event/shass-75th-anniversary-symposium\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/shass-75th-anniversary-symposium
+END:VEVENT
+BEGIN:VEVENT
+UID:50aab239a3866a64f899b27bb55151a9247fb089@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260924T160000Z
+DTEND:20260924T180000Z
+SUMMARY:A.J. Bauer\, “Beyond Bias”
+LOCATION:MIT\, 160 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:Drawing from his book Making the Liberal Media: How Conservativ
+ es Built a Movement Against the Press (Columbia\, 2026)\, A.J. Bauer track
+ s the rightward shift of structural media criticism in the United States i
+ n the late 1940s and early 1950s. He contends that bias discourse—attemp
+ ts to theoretically or empirically prove or disprove media bias—relies o
+ n an unwarranted faith in exposure. Bias claims assert that political disa
+ greement is fundamentally an epistemological problem—that if only people
+  had “the facts” they would see the world\, and share the political in
+ terests\, of the claimant.\nhttps://calendar.mit.edu/event/aj-bauer-beyond
+ -bias\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/aj-bauer-beyond-bias
+END:VEVENT
+BEGIN:VEVENT
+UID:515baf7cca40ec519545bd486bf87d2680c38351@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260924T160000Z
+DTEND:20260924T180000Z
+SUMMARY:What Happened to Liberal Democracy? with Daron Acemoglu and Michael
+  Sandel
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:Join the Stone Center on Inequality and Shaping the Future of W
+ ork and the Leadership Now Project for a fireside chat with Daron Acemoglu
+  and Michael Sandel on Acemoglu's new book\, What Happened to Liberal Demo
+ cracy?\nhttps://calendar.mit.edu/event/what-happened-to-liberal-democracy-
+ with-daron-acemoglu-and-michael-sandel\nFrom Pushpin Boston: https://pushp
+ in.city/boston/
+URL:https://calendar.mit.edu/event/what-happened-to-liberal-democracy-with-
+ daron-acemoglu-and-michael-sandel
+END:VEVENT
+BEGIN:VEVENT
+UID:52997c8217d65ae7cf6a765049dfde842aa73c55@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260924T200000Z
+DTEND:20260924T220000Z
+SUMMARY:Overburden with Gregg Mitman
+LOCATION:MIT\, 292 MAIN ST\, Cambridge\, MA 02142
+DESCRIPTION:Founded in the wake of war\, the East Nimba Nature Reserve shel
+ ters some of West Africa’s most endangered species. With exclusive\, on-
+ the-ground access\, OVERBURDEN follows rangers\, scientists\, and forest d
+ efenders\, including ranger Moses Darpey\, biologist Grace Kotee Zansi\, c
+ hief park warden Catherine Kuku Dolo\, and community leaders Saye Thompson
+  and Dada Konkah\, who tend the land\, protecting endangered species and s
+ ustaining livelihoods as a billion-dollar company falls short of promised 
+ support. They are joined by Shadrach Kerwillain\, a Liberian conservation 
+ biologist and Mnqobi Mamba\, a bat scientist from Eswatini\, who navigate 
+ the tangled frontier where mining meets conservation and where memory\, sc
+ ience\, and power collide.\nhttps://calendar.mit.edu/event/overburden-with
+ -gregg-mitman\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/overburden-with-gregg-mitman
+END:VEVENT
+BEGIN:VEVENT
+UID:c788e18586502789524e12c99c3bd43f9c454f16@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260925T130000Z
+DTEND:20260925T150000Z
+SUMMARY:SHASS 75th Anniversary Symposium
+LOCATION:MIT\, 201 Amherst Street\, Cambridge\, MA 02142
+DESCRIPTION:The SHASS 75th Anniversary Symposium is a two-day celebration b
+ eing held September 24-25\, 2026 in the Edward and Joyce Linde Music Build
+ ing’s Thomas Tull Concert Hall. The symposium will feature topical facul
+ ty panel discussions\, student performances\, and alumni talks. Between se
+ ssions\, attendees will have opportunities for connecting and networking.\
+ nhttps://calendar.mit.edu/event/shass-75th-anniversary-symposium\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/shass-75th-anniversary-symposium
+END:VEVENT
+BEGIN:VEVENT
+UID:888043f025544aca472e40c92358f38d2a1cf868@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260926T140000Z
+DTEND:20260926T160000Z
+SUMMARY:25th anniversary MIT Great Glass Pumpkin Patch fundraiser
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Over 2000 glass pumpkins of all sizes\, shapes and colors are f
+ or sale on Kresge Oval to fund ongoing operations of the MIT Glass Lab.. P
+ review opening (no sales at the proview) is Friday\, September 25th from 5
+ PM to 8PM and the sale is on Saturday\, September 26th from 10AM to 3PM. T
+ he sale is open to the public and admission is free.\nhttps://calendar.mit
+ .edu/event/25th-anniversary-mit-great-glass-pumpkin-patch-fundraiser\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/25th-anniversary-mit-great-glass-pumpkin
+ -patch-fundraiser
+END:VEVENT
+BEGIN:VEVENT
+UID:10dca97ea951b74f1fa3d6a99e57939960e9e5c7@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260928T210000Z
+DTEND:20260928T230000Z
+SUMMARY:Starr Forum: Housing the World: Inequality\, Informality\, and the 
+ Future of Cities
+LOCATION:MIT\, 25 AMES ST\, Cambridge\, MA 02139
+DESCRIPTION:Anacláudia Rossbach\, Executive Director\, United Nations Huma
+ n Settlements Programme (UN-Habitat).\nhttps://calendar.mit.edu/event/hous
+ ing-the-world-inequality-informality-and-the-future-of-cities\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/housing-the-world-inequality-informality
+ -and-the-future-of-cities
+END:VEVENT
+BEGIN:VEVENT
+UID:5ac5cbf082ea50f0dec188b6ad31a836f32eb141@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260928T211500Z
+DTEND:20260928T231500Z
+SUMMARY:Global France Seminar presents\, Doyle Calhoun “The Suicide Archi
+ ve: Reading for resistance from the time of slavery to the ‘Arab Spring'
+ ”
+LOCATION:MIT\, 160 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:Assistant Professor of Francophone Postcolonial Studies in the 
+ Faculty of Modern & Medieval Languages and Linguistics\, University of Cam
+ bridge When: Monday\, September 28 @ 5:15 PM Where: Building 14\, 14E-304 
+ (map)* Abstract: From the time of slavery to the Algerian war for independ
+ ence to the “Arab Spring\,” people have responded to enslavement\, col
+ onisation and oppression through acts of suicide. While often occluded fro
+ m or obscured in colonial archives\, self-killing has long been at the cen
+ tre of African and Caribbean engagements with the colonial past. Reading a
+ cross literature\, film\, oral history\, archival documents\, legal histor
+ y\, and scientific texts\, The Suicide Archive (2024) shows how aesthetic 
+ forms (literature\, film\, visual art\, performance) preserve powerful his
+ tories of resistance and loss. In so doing\, the book offers an innovative
+  reading of African\, Caribbean\, French and global literary history\nhttp
+ s://calendar.mit.edu/event/global-france-seminar-presents-doyle-calhoun-th
+ e-suicide-archive-reading-for-resistance-from-the-time-of-slavery-to-the-a
+ rab-spring\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/global-france-seminar-presents-doyle-cal
+ houn-the-suicide-archive-reading-for-resistance-from-the-time-of-slavery-t
+ o-the-arab-spring
+END:VEVENT
+BEGIN:VEVENT
+UID:8c2bc3cdbebdf00ba92f8d31713180797f242752@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261002T213000Z
+DTEND:20261002T233000Z
+SUMMARY:Artist Performance: INVISIBLETOWHOM Arc 2
+LOCATION:MIT\, 20 Ames Street\, Cambridge\, MA 02139
+DESCRIPTION:Pap Souleye Fall’s performance INVISIBLETOWHOM Arc 2 (2026) e
+ merges from the world of DEAD PIXEL (2020–ongoing)\, a narrative the art
+ ist articulates through installation\, performance\, drawing\, sculpture\,
+  video\, and comics.\nhttps://calendar.mit.edu/event/artist-performance-in
+ visibletowhom-arc-2\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/artist-performance-invisibletowhom-arc-2
+END:VEVENT
+BEGIN:VEVENT
+UID:096ac597db3216fdb49fce4d0831616b974a8063@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261003T140000Z
+DTEND:20261003T160000Z
+SUMMARY:MET Warehouse Public Open House
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:The MIT School of Architecture and Planning has moved to the ME
+ T Warehouse. On Saturday\, October 3\, as part of MIT Future Fest\, SA+P w
+ ill open the MET to the MIT community and general public for the first tim
+ e. From 10am–4pm\, exhibitions\, tours\, talks\, workshops\, and hands-o
+ n experiences will showcase work from across SA+P and MIT.\nhttps://calend
+ ar.mit.edu/event/met-warehouse-public-open-house\nFrom Pushpin Boston: htt
+ ps://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/met-warehouse-public-open-house
+END:VEVENT
+BEGIN:VEVENT
+UID:1c408640fa3ca5a06ff2dacc53f785417e8c7060@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261006T211500Z
+DTEND:20261006T231500Z
+SUMMARY:Knighthood and the Realities of War in Medieval Germany
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:Military history as a subfield within medieval studies has suff
+ ered considerably from the fact that both medieval authors and modern scho
+ lars have seen warfare as a nasty element of the human experience\, that i
+ s better condemned or even ignored than studied. As a consequence\, the ex
+ amination of warfare is often treated as an adjunct to other areas of inqu
+ iry\, with the result that many well-meaning historians continue to pass a
+ long shibboleths long-since discarded by the relatively small number of sp
+ ecialists in medieval military history. This is particularly true with reg
+ ard to scholarship dealing with the German kingdom because very few non-Ge
+ rman speaking historians do much work on Germany\, and German-speaking his
+ torians\, with some notable exceptions\, particularly in Switzerland and A
+ ustria\, have eschewed the study of military matters in the period since t
+ he Second World War. One particularly important shibboleth\, which still p
+ ermeates studies of the German kingdom\, is the notion that warfare was do
+ minated by small numbers of warrior aristocrats who fought on horseback. I
+ n this paper\, I will be addressing four major themes that are intended to
+  illuminate the bankruptcy of this model. These are “knighthood” as a 
+ problem of military history\, the reality of warfare in pre-crusade Europe
+ \, the centrality of sieges and fortifications to warfare\, and finally th
+ e implications of this third fact for our understanding of the scope and s
+ cale of warfare\, and the concomitant nature of governmental organization.
+ \nhttps://calendar.mit.edu/event/knighthood-and-the-realities-of-war-in-me
+ dieval-germany\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/knighthood-and-the-realities-of-war-in-m
+ edieval-germany
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb4d5eda3db199ca92c9e0616e4f18ecaa23e1d@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261006T223000Z
+DTEND:20261007T003000Z
+SUMMARY:MIT / French Library Author Series: Emily Eakin presents The French
+  Men\, Or My Life in Theory
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:When Emily Eakin arrived at Harvard in the late 1980s\, she fel
+ l under the spell of French theory. In her acclaimed new book\, she intert
+ wines her own youthful fascination with theory with the remarkable story o
+ f its rise in American intellectual and cultural life.\nhttps://calendar.m
+ it.edu/event/mit-frenc-library-author-series-emily-eakin-presents-the-fren
+ ch-men-or-my-life-in-theory\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://calendar.mit.edu/event/mit-frenc-library-author-series-emily-ea
+ kin-presents-the-french-men-or-my-life-in-theory
+END:VEVENT
+BEGIN:VEVENT
+UID:5c1acbc209140f3cd92c37af4c75dbd90ee0def2@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261008T220000Z
+DTEND:20261009T000000Z
+SUMMARY:TAKK—Mireia Luzárraga
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:TAKK—Mireia Luzárraga (in collaboration with the MIT Morning
+ side Academy for Design)\nhttps://calendar.mit.edu/event/takkmireia-luzarr
+ aga\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/takkmireia-luzarraga
+END:VEVENT
+BEGIN:VEVENT
+UID:3a4f4b92fbeaf7cdc653c25635d1e288cc747118@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261015T203000Z
+DTEND:20261015T223000Z
+SUMMARY:Starr Forum: What Would the US Do in a Middle Power Order?
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:Anne-Marie Slaughter\, Incoming Dean of Public Policy at the Lo
+ ndon School of Economics A globally recognized scholar\, policy innovator\
+ , and public leader\, Anne-Marie Slaughter is the incoming dean of public 
+ policy at the London School of Economics\, and had previously served as th
+ e CEO of New America\, and as the director of policy planning at the US St
+ ate Department.\nhttps://calendar.mit.edu/event/starr-forum-75th-what-woul
+ d-the-us-do-in-a-middle-power-order\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://calendar.mit.edu/event/starr-forum-75th-what-would-the-us-do-in
+ -a-middle-power-order
+END:VEVENT
+BEGIN:VEVENT
+UID:150ee62d93da5e1dbce53f0e2ce858bd43ce28c3@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261015T220000Z
+DTEND:20261016T000000Z
+SUMMARY:Studio Ossidiana—Giovanni Bellotti and Alessandra Covini
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Studio Ossidiana—Giovanni Bellotti and Alessandra Covini Part
+  of the MIT Fall 2026 Architecture Lecture Series.\nhttps://calendar.mit.e
+ du/event/studio-ossidianagiovanni-bellotti-and-alessandra-covini\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/studio-ossidianagiovanni-bellotti-and-al
+ essandra-covini
+END:VEVENT
+BEGIN:VEVENT
+UID:0190294b606e0856016947565d083b050c1318ad@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261017T170000Z
+DTEND:20261017T190000Z
+SUMMARY:MIT / French Library Author Series: Before I Forget with Anne Pauly
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Anne Pauly is a Paris-based French writer and winner of the Pri
+ x du Livre Inter and Prix Robert Walser. Her debut novel\, Before I Forget
+ \, was also shortlisted for the Prix Goncourt\, Prix Femina\, and Prix Wep
+ ler. Before turning to fiction\, she worked as a journalist and wrote on m
+ usic\, feminism\, queer culture\, and literature.\nhttps://calendar.mit.ed
+ u/event/mit-french-library-author-series-before-i-forget-with-anne-pauly\n
+ From Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/mit-french-library-author-series-before-
+ i-forget-with-anne-pauly
+END:VEVENT
+END:VCALENDAR

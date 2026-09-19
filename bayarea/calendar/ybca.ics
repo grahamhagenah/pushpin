@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Bay Area//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Bay Area · YBCA
+X-WR-CALDESC:What’s coming up at YBCA\, from Pushpin Bay Area.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:86597c8866a6eb71221a6f0210a7fa90bc493a2d@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T210000Z
+DTEND:20260919T230000Z
+SUMMARY:Trouble in Paradise
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:See Ernst Lubitsch’s “Trouble in Paradise” (1932) as part
+  of a weekly film series exploring voyeurism and theatricality\, cocktail 
+ charm and social taboos.\nhttps://ybca.org/event/trouble-in-paradise-throu
+ gh-an-open-window-film-series/\nFrom Pushpin Bay Area: https://pushpin.cit
+ y/bayarea/
+URL:https://ybca.org/event/trouble-in-paradise-through-an-open-window-film-
+ series/
+END:VEVENT
+BEGIN:VEVENT
+UID:d5f459a94c54b2cceec4190f8af4a3ec4a3e9722@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260923T210000Z
+DTEND:20260923T230000Z
+SUMMARY:Free Art Workshop: Still Life Watercolor Painting
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Create a watercolor painting through observation of still life 
+ objects.\nhttps://ybca.org/event/free-art-workshop-still-life-watercolor-p
+ ainting-9-23-26/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/free-art-workshop-still-life-watercolor-painting
+ -9-23-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:a932f0adf0744f30346ef49584a7750f611e7a6b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260924T000000Z
+DTEND:20260924T020000Z
+SUMMARY:Pressing Matters: Hands-on Printmaking with Creativity Explored
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:A hands-on\, family-friendly activity for the public with Creat
+ ivity Explored artists and staff demonstrating the basics of printmaking.\
+ nhttps://ybca.org/event/pressing-matters-hands-on-printmaking-with-creativ
+ ity-explored/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/pressing-matters-hands-on-printmaking-with-creat
+ ivity-explored/
+END:VEVENT
+BEGIN:VEVENT
+UID:b150eca49d6c834ef72c7cf8148861e051984263@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260926T010000Z
+DTEND:20260926T030000Z
+SUMMARY:Opening Celebration for “The Body Politic” and “Prototypes an
+ d Provocations”
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Meet the artists and curator\, enjoy cocktails at our cash bar\
+ , and be among the first to see new work at YBCA.\nhttps://ybca.org/event/
+ opening-celebration-for-the-body-politic-and-prototypes-and-provocations/\
+ nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/opening-celebration-for-the-body-politic-and-pro
+ totypes-and-provocations/
+END:VEVENT
+BEGIN:VEVENT
+UID:0e3609c19984ddb303a9c2e540cb94f23a5347d9@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260926T210000Z
+DTEND:20260926T230000Z
+SUMMARY:Yourself and Yours
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:See Hong Sang-soo’s “Yourself and Yours” (2016) as part o
+ f a weekly film series exploring voyeurism and theatricality\, cocktail ch
+ arm and social taboos.\nhttps://ybca.org/event/yourself-and-yours-through-
+ an-open-window-film-series/\nFrom Pushpin Bay Area: https://pushpin.city/b
+ ayarea/
+URL:https://ybca.org/event/yourself-and-yours-through-an-open-window-film-s
+ eries/
+END:VEVENT
+BEGIN:VEVENT
+UID:75d8f884b3a51e8c631c00f1af208d12fafb4974@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260930T210000Z
+DTEND:20260930T230000Z
+SUMMARY:Free Art Workshop: 3D Paper Flowers
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Incorporate dimensionality into your colorful flower creation.\
+ nhttps://ybca.org/event/free-art-workshop-3d-paper-flowers-9-30-26/\nFrom 
+ Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/free-art-workshop-3d-paper-flowers-9-30-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26e85253c5b0482109b573cff3a855fd58db83@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260930T230000Z
+DTEND:20261001T010000Z
+SUMMARY:Gallery Tour & Sketching Activity: Behind the Curtain
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:A guided tour and sketching activity inspired by the exhibition
+  “Gahee Park: Behind the Curtain.”\nhttps://ybca.org/event/gallery-tou
+ r-sketching-activity-behind-the-curtain-9-30-26/\nFrom Pushpin Bay Area: h
+ ttps://pushpin.city/bayarea/
+URL:https://ybca.org/event/gallery-tour-sketching-activity-behind-the-curta
+ in-9-30-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:d07301a149f922eb712b59642b837ae650a11252@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261002T030000Z
+DTEND:20261002T050000Z
+SUMMARY:The Nexus Party: The Official Party of SF/Bay Area Black Art Week
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Join artists\, cultural leaders\, and art lovers from across th
+ e Bay Area for an unforgettable celebration.\nhttps://ybca.org/event/the-n
+ exus-party-the-official-party-of-sf-bay-area-black-art-week/\nFrom Pushpin
+  Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/the-nexus-party-the-official-party-of-sf-bay-are
+ a-black-art-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:4bad5781f7d5810609510b15a116ca6b61d1b291@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261003T200000Z
+DTEND:20261003T220000Z
+SUMMARY:Art as Resistance: A Conversation with Dread Scott\, Emory Douglas 
+ & Orlando Smith
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Explore how art translates political urgency into image\, how h
+ istory and truth are constructed and dismantled\, and how graphic storytel
+ ling becomes a tool for change.\nhttps://ybca.org/event/art-as-resistance-
+ a-conversation-with-dread-scott-emory-douglas-orlando-smith-10-3-26/\nFrom
+  Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/art-as-resistance-a-conversation-with-dread-scot
+ t-emory-douglas-orlando-smith-10-3-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:f212557a25c5f856c71ac8e08efa423019342e53@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261003T210000Z
+DTEND:20261003T230000Z
+SUMMARY:A New Leaf
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:See Elaine May’s “A New Leaf” (1971) as part of a weekly 
+ film series exploring voyeurism and theatricality\, cocktail charm and soc
+ ial taboos.\nhttps://ybca.org/event/a-new-leaf-through-an-open-window-film
+ -series/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/a-new-leaf-through-an-open-window-film-series/
+END:VEVENT
+BEGIN:VEVENT
+UID:7fce6e902ad26001773da56591b5bac7ac7bd85b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261004T200000Z
+DTEND:20261004T220000Z
+SUMMARY:Indie Film Screenings + TECH TALK: Filmmaking
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Presented as part of Nexus\, join us for a screening of indepen
+ dent films and a discussion.\nhttps://ybca.org/event/indie-film-screenings
+ -tech-talk-filmmaking-nexus-10-4-26/\nFrom Pushpin Bay Area: https://pushp
+ in.city/bayarea/
+URL:https://ybca.org/event/indie-film-screenings-tech-talk-filmmaking-nexus
+ -10-4-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d61d1fc737051b4dcc64bb82afa5b45a458656@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261008T020000Z
+DTEND:20261008T040000Z
+SUMMARY:Traveling Shoes
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Join DVT for a live performance of their album Traveling Shoes 
+ inside the exhibition “Dread Scott: The Body Politic.”\nhttps://ybca.o
+ rg/event/traveling-shoes-in-gallery-performance-10-7-26/\nFrom Pushpin Bay
+  Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/traveling-shoes-in-gallery-performance-10-7-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:a627ea8fc6fd45db81154764538681f4b48b1e80@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261010T210000Z
+DTEND:20261010T230000Z
+SUMMARY:The Music Room
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:See Satyajit Ray’s “The Music Room (Jalsaghar)” (1958) as
+  part of a weekly film series exploring voyeurism and theatricality\, cock
+ tail charm and social taboos.\nhttps://ybca.org/event/the-music-room-throu
+ gh-an-open-window-film-series/\nFrom Pushpin Bay Area: https://pushpin.cit
+ y/bayarea/
+URL:https://ybca.org/event/the-music-room-through-an-open-window-film-serie
+ s/
+END:VEVENT
+BEGIN:VEVENT
+UID:306040d6dfb69dea98d252a4b804fb6050d8c406@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261015T000000Z
+DTEND:20261015T020000Z
+SUMMARY:Making Faces: A Puppet Crafting Workshop with Creativity Explored
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Join Creativity Explored artists for a hands-on\, drop-in works
+ hop to build your very own hand or stick puppet.\nhttps://ybca.org/event/m
+ aking-faces-a-puppet-crafting-workshop-with-creativity-explored/\nFrom Pus
+ hpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/making-faces-a-puppet-crafting-workshop-with-cre
+ ativity-explored/
+END:VEVENT
+BEGIN:VEVENT
+UID:f1192cbb6657bc40a469fba3ee080066af0783c5@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261017T210000Z
+DTEND:20261017T230000Z
+SUMMARY:The Ceremony
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:See Nagisa Ōshima’s “The Ceremony” (1971) as part of a w
+ eekly film series exploring voyeurism and theatricality\, cocktail charm a
+ nd social taboos.\nhttps://ybca.org/event/the-ceremony-through-an-open-win
+ dow-film-series/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/the-ceremony-through-an-open-window-film-series/
+END:VEVENT
+BEGIN:VEVENT
+UID:62b052577e6ac5a6da94d8f64050f009066c2c8e@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T020000Z
+DTEND:20261018T040000Z
+SUMMARY:Let Her Sing 2026: A Celebration of Female Voices
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:An evening of exciting music and solidarity for the female voic
+ e.\nhttps://ybca.org/event/let-her-sing-2026-a-celebration-of-female-voice
+ s/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/let-her-sing-2026-a-celebration-of-female-voices
+ /
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Somerville Theatre
+X-WR-CALDESC:What’s coming up at Somerville Theatre\, from Pushpin Boston
+ .
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:8754ffab8476a6809c3e2a5218082a1557d6076a@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261009T230000Z
+DTEND:20261010T010000Z
+SUMMARY:Oteil Burbridge with LaMP - Wish Benefit Tour
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Oteil Burbridge Performing with LaMP ft. Russ Lawton\, Scott Me
+ tzger & Ray Paczkowski. Wish Benefit Tour\, for Make-A-Wish Vermont & Nort
+ heast New York and Make-A-Wish Massachusetts & Rhode Island. Presented by 
+ Fiddlehead Brewing Company.\nhttps://www.ticketmaster.com/oteil-burbridge-
+ with-lamp-wish-benefit-somerville-massachusetts-10-09-2026/event/010064F6C
+ 9B04778\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketmaster.com/oteil-burbridge-with-lamp-wish-benefit-som
+ erville-massachusetts-10-09-2026/event/010064F6C9B04778
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee23dadf1e2e3ea2c34b5abb812f2723eb08b4b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261025T233000Z
+DTEND:20261026T013000Z
+SUMMARY:CLAUDIO SIMONETTI'S GOBLIN / TENEBRE
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Composer Claudio Simonetti has written and recorded some of the
+  most influential scores and soundtracks in horror\, including Suspiria\, 
+ Dawn of the Dead\, Deep Red Profondo Rosso\, Demons\, and many others\, wi
+ th his seminal work still informing the genre to this day. This year\, Sim
+ onettis Goblin celebrates Dario Argentos 1982 critically acclaimed classic
+ \, Tenebre\, with a live performance of the score set to a screening of th
+ e film. Following the finale of the movie\, the collective will return aft
+ er a brief intermission to deliver an additional performance of quintessen
+ tial Goblin material and best of songs and scores set to their cinematic c
+ ounterparts\nhttps://www.ticketmaster.com/claudio-simonettis-goblin-tenebr
+ e-somerville-massachusetts-10-25-2026/event/0100650DD82FA483\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://www.ticketmaster.com/claudio-simonettis-goblin-tenebre-somervil
+ le-massachusetts-10-25-2026/event/0100650DD82FA483
+END:VEVENT
+BEGIN:VEVENT
+UID:a4462b928a2b0f1acf25072d99620a66aced413f@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261026T230000Z
+DTEND:20261027T010000Z
+SUMMARY:Watsky x Infinity
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:In 2016\, Watsky\, a genre-bending rapper and poet known for ve
+ rbal gymnastics\, capped his creatively ambitious record x Infinity with a
+  visual album comprised of 18 interconnected music videos. To celebrate it
+ s tenth birthday\, Watsky performs the album in its entirely alongside a s
+ ynced projection of the album film.\nhttps://www.ticketmaster.com/watsky-x
+ -infinity-somerville-massachusetts-10-26-2026/event/010064B2C3F8EE2D\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketmaster.com/watsky-x-infinity-somerville-massachusetts
+ -10-26-2026/event/010064B2C3F8EE2D
+END:VEVENT
+BEGIN:VEVENT
+UID:7363646805621c293dcd20d1603115a0bc019a81@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261108T010000Z
+DTEND:20261108T030000Z
+SUMMARY:Le Vent Du Nord
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Global Arts Live presents Le Vent du Nord\nhttps://www.ticketma
+ ster.com/le-vent-du-nord-somerville-massachusetts-11-07-2026/event/010064C
+ 1BAF93FB7\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketmaster.com/le-vent-du-nord-somerville-massachusetts-1
+ 1-07-2026/event/010064C1BAF93FB7
+END:VEVENT
+BEGIN:VEVENT
+UID:6a59701b2ec7ece5d2d0a1f7e432fbbbbdaeac00@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261112T010000Z
+DTEND:20261112T030000Z
+SUMMARY:Hamilton Leithauser + Rostam - The Joint Tour
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:All Seats Reserved. All Ages.\nhttps://www.ticketmaster.com/ham
+ ilton-leithauser-rostam-the-joint-tour-somerville-massachusetts-11-11-2026
+ /event/0100652A30E9812A\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketmaster.com/hamilton-leithauser-rostam-the-joint-tour-
+ somerville-massachusetts-11-11-2026/event/0100652A30E9812A
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Mahaiwe
+X-WR-CALDESC:What’s coming up at Mahaiwe\, from Pushpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:2a8099ee95ceea43e07b2d52b43ed57e4e267dae@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T000000Z
+DTEND:20260920T020000Z
+SUMMARY:Nine Days Acoustic
+LOCATION:Mahaiwe\, 20 Castle Street\, Great Barrington\, MA
+DESCRIPTION:Indigo Room\n$35 General Admission\nhttps://mahaiwe.org/event/n
+ ine-days-acoustic/\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://mahaiwe.org/event/nine-days-acoustic/
+END:VEVENT
+BEGIN:VEVENT
+UID:184f5ca59c27365a1e470d4f89b17c3ecbc75154@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260926T000000Z
+DTEND:20260926T020000Z
+SUMMARY:Los Lonely Boys
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$34 – $69 (plus processing fees)\nhttps://mahaiwe.org/event/l
+ os-lonely-boys/\nFrom Pushpin Western Mass: https://pushpin.city/westernma
+ /
+URL:https://mahaiwe.org/event/los-lonely-boys/
+END:VEVENT
+BEGIN:VEVENT
+UID:87603431ea57f1395763868c96bc31d9febc2999@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260926T230000Z
+DTEND:20260927T010000Z
+SUMMARY:César Orozco & SonAhead
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:FREE\, Reservations required\nhttps://mahaiwe.org/event/cesar-o
+ rozco-sonahead/\nFrom Pushpin Western Mass: https://pushpin.city/westernma
+ /
+URL:https://mahaiwe.org/event/cesar-orozco-sonahead/
+END:VEVENT
+BEGIN:VEVENT
+UID:500518f09701e8f1fffd14671c99234e527eb13f@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261001T213000Z
+DTEND:20261001T233000Z
+SUMMARY:Scott Eyerly’s Virtual Met Opera Lecture: Mozart's Così fan tutt
+ e
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:FREE\nhttps://mahaiwe.org/event/scott-eyerlys-virtual-met-opera
+ -lecture-tchaikovskys-eugene-onegin-duplicate-1/\nFrom Pushpin Western Mas
+ s: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/scott-eyerlys-virtual-met-opera-lecture-tchai
+ kovskys-eugene-onegin-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:b205a64646bddfc166da6a106225c379e8d9215c@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261002T230000Z
+DTEND:20261003T010000Z
+SUMMARY:London’s National Theatre in HD: The Playboy of the Western World
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$17 / $10 ages 21 and under (plus processing fees)\nhttps://mah
+ aiwe.org/event/londons-national-theatre-in-hd-the-playboy-of-the-western-w
+ orld/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/londons-national-theatre-in-hd-the-playboy-of
+ -the-western-world/
+END:VEVENT
+BEGIN:VEVENT
+UID:057c11b30498ec8e11ebe1f36d61dcd2d9d885af@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261003T213000Z
+DTEND:20261003T233000Z
+SUMMARY:Nicole Zuraitis Quartet
+LOCATION:Mahaiwe\, 20 Castle Street\, Great Barrington\, MA
+DESCRIPTION:Times: 5:30pm\, 8:30pm\nIndigo Room\n$65 General Admission (plu
+ s processing fees)\nhttps://mahaiwe.org/event/nicole-zuraitis-quartet/2026
+ -10-03/3/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/nicole-zuraitis-quartet/2026-10-03/3/
+END:VEVENT
+BEGIN:VEVENT
+UID:c86ad6ac8c4206ce9f97a1dc8dbf4d6f78f9127e@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261004T170000Z
+DTEND:20261004T190000Z
+SUMMARY:Met Opera Live in HD: Mozart’s Così fan tutte
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:TICKETS–\nhttps://mahaiwe.org/event/met-opera-live-in-hd-moza
+ rts-cosi-fan-tutte/\nFrom Pushpin Western Mass: https://pushpin.city/weste
+ rnma/
+URL:https://mahaiwe.org/event/met-opera-live-in-hd-mozarts-cosi-fan-tutte/
+END:VEVENT
+BEGIN:VEVENT
+UID:a6efa27d198f4906ed4b0230cd74b1bfc3cb9fb8@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261010T000000Z
+DTEND:20261010T020000Z
+SUMMARY:VOCES8
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$39 to $69 (plus processing fees)\nhttps://mahaiwe.org/event/vo
+ ces8/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/voces8/
+END:VEVENT
+BEGIN:VEVENT
+UID:8588997a8d94713a9aeb3179e304775e1c61c756@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261010T213000Z
+DTEND:20261010T233000Z
+SUMMARY:Raul Midón
+LOCATION:Mahaiwe\, 20 Castle Street\, Great Barrington\, MA
+DESCRIPTION:Times: 5:30pm\, 8:30pm\nIndigo Room\n$49 General Admission (plu
+ s processing fees)\nhttps://mahaiwe.org/event/raul-midon/2026-10-10/3/\nFr
+ om Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/raul-midon/2026-10-10/3/
+END:VEVENT
+BEGIN:VEVENT
+UID:385d38d2109d151a1102e18940b61cadedcaaac2@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261015T213000Z
+DTEND:20261015T233000Z
+SUMMARY:Scott Eyerly’s Virtual Met Opera Lecture: Verdi's Macbeth
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:FREE\nhttps://mahaiwe.org/event/scott-eyerlys-virtual-met-opera
+ -lecture-mozarts-cosi-fan-tutte-duplicate-1/\nFrom Pushpin Western Mass: h
+ ttps://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/scott-eyerlys-virtual-met-opera-lecture-mozar
+ ts-cosi-fan-tutte-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:300913ea504c2d2b3e03db2f11e499b88ea75886@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261016T233000Z
+DTEND:20261017T013000Z
+SUMMARY:Vitamin String Quartet & Girl Named Tom
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$54 to $84 (plus processing fees)\nhttps://mahaiwe.org/event/vi
+ tamin-string-quartet-girl-named-tom/\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://mahaiwe.org/event/vitamin-string-quartet-girl-named-tom/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a5c3fe4f8fee618160b369cbb55d8b9c4b80068@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261017T230000Z
+DTEND:20261018T010000Z
+SUMMARY:The Guthrie Center presents: Arlo Guthrie – An Unscripted Convers
+ ation
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$40 – $150 (plus processing fees)\nhttps://mahaiwe.org/event/
+ the-guthrie-center-presents-arlo-guthrie-an-unscripted-conversation/\nFrom
+  Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/the-guthrie-center-presents-arlo-guthrie-an-u
+ nscripted-conversation/
+END:VEVENT
+BEGIN:VEVENT
+UID:e7dd4b39090e2e490cf117a65baeaf45a5755e31@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T170000Z
+DTEND:20261018T190000Z
+SUMMARY:Met Opera Live in HD: Verdi’s Macbeth
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$25 / $10 ages 21 and under (plus processing fees)\nhttps://mah
+ aiwe.org/event/met-opera-live-in-hd-verdis-macbeth/\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/met-opera-live-in-hd-verdis-macbeth/
+END:VEVENT
+BEGIN:VEVENT
+UID:0e4b9fcf18bc74f85b7ffc92daca47c3b4275656@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261023T233000Z
+DTEND:20261024T013000Z
+SUMMARY:A.J. Croce: Croce Plays Croce
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$45 to $70 (plus processing fees)\nhttps://mahaiwe.org/event/a-
+ j-croce-croce-plays-croce/\nFrom Pushpin Western Mass: https://pushpin.cit
+ y/westernma/
+URL:https://mahaiwe.org/event/a-j-croce-croce-plays-croce/
+END:VEVENT
+BEGIN:VEVENT
+UID:8c26d5c2b8031e2dabbeb6bf4a5a1408d89b87a7@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261024T213000Z
+DTEND:20261024T233000Z
+SUMMARY:Kate Kortum Quartet
+LOCATION:Mahaiwe\, 20 Castle Street\, Great Barrington\, MA
+DESCRIPTION:Times: 5:30pm\, 8:30pm\nIndigo Room\n$65 General Admission (plu
+ s processing fees)\nhttps://mahaiwe.org/event/kate-kortum-quartet/2026-10-
+ 24/3/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/kate-kortum-quartet/2026-10-24/3/
+END:VEVENT
+BEGIN:VEVENT
+UID:c0d433171787223c63d998bda19fc2b1958f1742@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261030T233000Z
+DTEND:20261031T013000Z
+SUMMARY:Jeff Tweedy Solo with special guest Case Oats
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$55 to $85 (plus processing fees)\nhttps://mahaiwe.org/event/je
+ ff-tweedy-with-special-guest-case-oats/\nFrom Pushpin Western Mass: https:
+ //pushpin.city/westernma/
+URL:https://mahaiwe.org/event/jeff-tweedy-with-special-guest-case-oats/
+END:VEVENT
+BEGIN:VEVENT
+UID:ecd7b360993f4fd6010f3cf0fd26d9bac64365f2@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261101T210000Z
+DTEND:20261101T230000Z
+SUMMARY:Close Encounters With Music: Saluting the Clarinet – Mozart\, Bee
+ thoven\, Bartok and Gershwin
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$35 Balcony / $60 Orchestra (plus processing fees)\nhttps://mah
+ aiwe.org/event/close-encounters-with-music-saluting-the-clarinet-mozart-be
+ ethoven-bartok-and-gershwin/\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://mahaiwe.org/event/close-encounters-with-music-saluting-the-clar
+ inet-mozart-beethoven-bartok-and-gershwin/
+END:VEVENT
+BEGIN:VEVENT
+UID:54093b97a6cb2b2163fb09567d5b1616b19c36c9@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+SUMMARY:Cowboy Junkies - Celebrating 40 Years and Beyond
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$40 to $65 (plus processing fees)\nhttps://mahaiwe.org/event/co
+ wboy-junkies-celebrating-40-years-and-beyond/\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/cowboy-junkies-celebrating-40-years-and-beyon
+ d/
+END:VEVENT
+END:VCALENDAR

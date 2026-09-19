@@ -1,0 +1,703 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Bay Area//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Bay Area · Art & talks
+X-WR-CALDESC:Art & talks around San Francisco\, Oakland and Berkeley\, from
+  Pushpin Bay Area.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:70c00e0156e9dd0f98f51be6efd06ef72ff4ea5d@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260918T233000Z
+DTEND:20260919T013000Z
+SUMMARY:Fall Teacher Night
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Calling all teachers! In celebration of our school communities\
+ , teachers and principals are invited to join us for OMCA’s Annual Fall 
+ Teacher Night.\nhttps://museumca.org/event/fall-teacher-night-2026/\nFrom 
+ Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/fall-teacher-night-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fee7fc9eb1ace091755a8ee20b90aa62f8c3b28c@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T000000Z
+DTEND:20260919T020000Z
+SUMMARY:Friday Nights at OMCA with Kiyomi & Cal Raijin Taiko
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Live Performance by Cal Raijin Taiko\, Live Music by Kiyomi\, M
+ usic Set by DJ Dailo Mac\, Live Figure Drawing with Sketchboard Co.\, Annu
+ al Fall Teacher Night\, ScholarMatch\, and Gallery Chats Celebrate the ope
+ ning week of BeHere/1942: A New Lens on the Japanese American Incarceratio
+ n this Friday Night at OMCA with an evening of music\, culture\, and commu
+ nity. The Garden Stage features two dynamic performances\, beginning with 
+ Cal Raijin Taiko\, whose original compositions blend the tradition of Japa
+ nese taiko drumming with contemporary influences. Following\, Bay Area sin
+ ger-songwriter Kiyomi brings her soulful alternative R&B sound to the stag
+ e\, weaving rich harmonies\, live looping\, and heartfelt storytelling int
+ o an intimate performance that invites audiences to slow down and connect.
+ \nhttps://museumca.org/event/friday-nights-at-omca-with-kiyomi-cal-raijin-
+ taiko/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/friday-nights-at-omca-with-kiyomi-cal-raijin
+ -taiko/
+END:VEVENT
+BEGIN:VEVENT
+UID:d67f4f89e222a41c36b3a506471f8bf4e567cf6b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T200000Z
+DTEND:20260919T220000Z
+SUMMARY:Curators’ Conversation: Natalia Brizuela and Julia Bryan-Wilson o
+ n Lotty Rosenfield: Disobedient Spaces
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Tickets required. Gallery admission included with ticket purcha
+ se.\nhttps://bampfa.org/event/curators-conversation-natalia-brizuela-and-j
+ ulia-bryan-wilson-lotty\nFrom Pushpin Bay Area: https://pushpin.city/bayar
+ ea/
+URL:https://bampfa.org/event/curators-conversation-natalia-brizuela-and-jul
+ ia-bryan-wilson-lotty
+END:VEVENT
+BEGIN:VEVENT
+UID:2e21c88e5d1b96606d1aa830cf64a5b6aac94ee0@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T210000Z
+DTEND:20260919T230000Z
+SUMMARY:Artist’s Conversation: Marcel Pardo Ariza
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Tickets required. Gallery admission included with ticket purcha
+ se.\nhttps://bampfa.org/event/artists-conversation-marcel-pardo-ariza\nFro
+ m Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/artists-conversation-marcel-pardo-ariza
+END:VEVENT
+BEGIN:VEVENT
+UID:f41e08a03e123981018897c324a1439c446a1231@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T210000Z
+DTEND:20260919T230000Z
+SUMMARY:Graciela Iturbide and Enrique Chagoya in Conversation
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Artist Talk\nhttps://www.sfmoma.org/event/graciela-iturbide-and
+ -enrique-chagoya-in-conversation/\nFrom Pushpin Bay Area: https://pushpin.
+ city/bayarea/
+URL:https://www.sfmoma.org/event/graciela-iturbide-and-enrique-chagoya-in-c
+ onversation/
+END:VEVENT
+BEGIN:VEVENT
+UID:7f7b72bb49742ad53f854d57677a6f6bed4ebe6b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T180000Z
+DTEND:20260920T200000Z
+SUMMARY:Kite Making with Mariel Paat
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Program\nhttps://www.sfmoma.org/event/kite-making-with-m
+ ariel-paat/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/kite-making-with-mariel-paat/
+END:VEVENT
+BEGIN:VEVENT
+UID:40f943a051ffa69d250de92b7a73e3cbb8cd36c5@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T200000Z
+DTEND:20260920T220000Z
+SUMMARY:Curator’s Tour: Margot Norton on Maren Hassinger: Living Moving G
+ rowing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Join Chief Curator Margot Norton\, co-curator with Senior Curat
+ or Anthony Graham\, for a walkthrough of the exhibition\, featuring Hassin
+ ger's material experiments in sculpture\, her long-standing engagement wit
+ h movement and performance\, and her work with the moving image.\nhttps://
+ bampfa.org/event/curator-tour-margot-norton-maren-hassinger\nFrom Pushpin 
+ Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/curator-tour-margot-norton-maren-hassinger
+END:VEVENT
+BEGIN:VEVENT
+UID:8b8f46e55c6a3030f4f728148d0bdfcb26bf4737@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T200000Z
+DTEND:20260920T220000Z
+SUMMARY:Spotlight Sundays: Alice Street Screening with Malonga Arts Dance a
+ nd Drums
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Your browser does not support the video tag.\nhttps://museumca.
+ org/event/spotlight-sundays-alice-street-screening-with-malonga-arts-dance
+ -and-drums/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/spotlight-sundays-alice-street-screening-wit
+ h-malonga-arts-dance-and-drums/
+END:VEVENT
+BEGIN:VEVENT
+UID:a2d1a16a1d73ae5b191d649aac6ae3676bba09f2@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T210000Z
+DTEND:20260920T230000Z
+SUMMARY:Pink Trash at Crescent Lawn\, UC Berkeley
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Co-presented by the UC Berkeley Environmental Arts and Humaniti
+ es Initiative\nhttps://bampfa.org/event/pink-trash-crescent-lawn-uc-berkel
+ ey\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/pink-trash-crescent-lawn-uc-berkeley
+END:VEVENT
+BEGIN:VEVENT
+UID:c5e432aa31cb339e7470b0c34030ad230439a672@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T210000Z
+DTEND:20260920T230000Z
+SUMMARY:Watercolor Workshop: Feeling First\, a Matisse Study
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/watercolor-workshop-feeling-first-
+ a-matisse-study-9-20/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea
+ /
+URL:https://www.sfmoma.org/event/watercolor-workshop-feeling-first-a-matiss
+ e-study-9-20/
+END:VEVENT
+BEGIN:VEVENT
+UID:90d31fc365d4df88c94fb0417230c4ba4bb58992@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260923T191500Z
+DTEND:20260923T211500Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:d5f459a94c54b2cceec4190f8af4a3ec4a3e9722@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260923T210000Z
+DTEND:20260923T230000Z
+SUMMARY:Free Art Workshop: Still Life Watercolor Painting
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Create a watercolor painting through observation of still life 
+ objects.\nhttps://ybca.org/event/free-art-workshop-still-life-watercolor-p
+ ainting-9-23-26/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/free-art-workshop-still-life-watercolor-painting
+ -9-23-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:a932f0adf0744f30346ef49584a7750f611e7a6b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260924T000000Z
+DTEND:20260924T020000Z
+SUMMARY:Pressing Matters: Hands-on Printmaking with Creativity Explored
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:A hands-on\, family-friendly activity for the public with Creat
+ ivity Explored artists and staff demonstrating the basics of printmaking.\
+ nhttps://ybca.org/event/pressing-matters-hands-on-printmaking-with-creativ
+ ity-explored/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/pressing-matters-hands-on-printmaking-with-creat
+ ivity-explored/
+END:VEVENT
+BEGIN:VEVENT
+UID:542db0f89f653ab74b16240b408e4def359b6e6e@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260925T010000Z
+DTEND:20260925T030000Z
+SUMMARY:Ear Hustle Live!
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/ear-hustle-live/\nFrom Pushpin Bay
+  Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/ear-hustle-live/
+END:VEVENT
+BEGIN:VEVENT
+UID:b8feca5fe33f6c1502addb42fd2d24db8719cc79@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260925T010000Z
+DTEND:20260925T030000Z
+SUMMARY:Works on Paper Book Club: Gertrude Stein: An Afterlife by Francesca
+  Wade
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/works-on-paper-book-club-gertrude-
+ stein-an-afterlife-by-francesca-wade/\nFrom Pushpin Bay Area: https://push
+ pin.city/bayarea/
+URL:https://www.sfmoma.org/event/works-on-paper-book-club-gertrude-stein-an
+ -afterlife-by-francesca-wade/
+END:VEVENT
+BEGIN:VEVENT
+UID:32ff6f9feb35218fbde2fa56dbd649a1bbb49080@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260926T000000Z
+DTEND:20260926T020000Z
+SUMMARY:Friday Nights at OMCA with Los Tranquilos
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Live Music by Los Tranquilos\, Disco Dance Lesson with Soulchil
+ d\, Caja Mágica’s All-Vinyl DJ Set\, Bike East Bay Community Tabling\, 
+ and Gallery Chats Step into an evening of nostalgic rhythms\, movement\, a
+ nd community connection this Friday Night at OMCA. The Garden Stage comes 
+ alive with Los Tranquilos\, a California group blending the romantic soul\
+ , psychedelia\, and classic grooves of 1960s and ’70s Latin America. Wit
+ h soulful melodies\, rock influences\, and timeless rhythms\, their perfor
+ mance celebrates the rich musical traditions that continue to inspire gene
+ rations.\nhttps://museumca.org/event/friday-nights-at-omca-with-los-tranqu
+ ilos/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/friday-nights-at-omca-with-los-tranquilos/
+END:VEVENT
+BEGIN:VEVENT
+UID:b150eca49d6c834ef72c7cf8148861e051984263@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260926T010000Z
+DTEND:20260926T030000Z
+SUMMARY:Opening Celebration for “The Body Politic” and “Prototypes an
+ d Provocations”
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Meet the artists and curator\, enjoy cocktails at our cash bar\
+ , and be among the first to see new work at YBCA.\nhttps://ybca.org/event/
+ opening-celebration-for-the-body-politic-and-prototypes-and-provocations/\
+ nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/opening-celebration-for-the-body-politic-and-pro
+ totypes-and-provocations/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5cc86a4e761eae48d3bda0146e7a89632a314a6@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260926T200000Z
+DTEND:20260926T220000Z
+SUMMARY:Contemplative Salt Bath
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission. Space is limited\; first come\, first 
+ served.\nhttps://bampfa.org/event/contemplative-salt-bath\nFrom Pushpin Ba
+ y Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/contemplative-salt-bath
+END:VEVENT
+BEGIN:VEVENT
+UID:9e90dad953eb4b8a1dec1c6e0fdde3d692f6f4db@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260927T003000Z
+DTEND:20260927T023000Z
+SUMMARY:Conversation: Rasha Salti and Natalia Brizuela
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Tickets required. Gallery admission included with ticket purcha
+ se.\nhttps://bampfa.org/event/conversation-rasha-salti-and-natalia-brizuel
+ a\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/conversation-rasha-salti-and-natalia-brizuela
+END:VEVENT
+BEGIN:VEVENT
+UID:25bddff9309305d5d7b6e6aab3736dfb156968af@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260927T170000Z
+DTEND:20260927T190000Z
+SUMMARY:Family Studio: Crochet Jam with Ramekon O’Arwisters
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Program\nhttps://www.sfmoma.org/event/family-studio-croc
+ het-jam-with-ramekon-oarwisters/\nFrom Pushpin Bay Area: https://pushpin.c
+ ity/bayarea/
+URL:https://www.sfmoma.org/event/family-studio-crochet-jam-with-ramekon-oar
+ wisters/
+END:VEVENT
+BEGIN:VEVENT
+UID:9839d52ed750352e24fe2b06ae26857ce4c21efc@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260927T200000Z
+DTEND:20260927T220000Z
+SUMMARY:Wrenching News Workshops
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/wrenching-ne
+ ws-workshops\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/wrenching-news-workshops
+END:VEVENT
+BEGIN:VEVENT
+UID:988010c817c7c71cf0af7b8352e2210432a2f8ea@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260927T210000Z
+DTEND:20260927T230000Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:75d8f884b3a51e8c631c00f1af208d12fafb4974@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260930T210000Z
+DTEND:20260930T230000Z
+SUMMARY:Free Art Workshop: 3D Paper Flowers
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Incorporate dimensionality into your colorful flower creation.\
+ nhttps://ybca.org/event/free-art-workshop-3d-paper-flowers-9-30-26/\nFrom 
+ Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/free-art-workshop-3d-paper-flowers-9-30-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26e85253c5b0482109b573cff3a855fd58db83@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260930T230000Z
+DTEND:20261001T010000Z
+SUMMARY:Gallery Tour & Sketching Activity: Behind the Curtain
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:A guided tour and sketching activity inspired by the exhibition
+  “Gahee Park: Behind the Curtain.”\nhttps://ybca.org/event/gallery-tou
+ r-sketching-activity-behind-the-curtain-9-30-26/\nFrom Pushpin Bay Area: h
+ ttps://pushpin.city/bayarea/
+URL:https://ybca.org/event/gallery-tour-sketching-activity-behind-the-curta
+ in-9-30-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:f0bdebb9739bddca104d49fd7816d23cfbe0ce8d@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261001T190000Z
+DTEND:20261001T210000Z
+SUMMARY:Member Previews — RM x SFMOMA: Between You and Me
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Member Event\nhttps://www.sfmoma.org/event/member-previews-rm-x
+ -sfmoma-between-you-and-me/\nFrom Pushpin Bay Area: https://pushpin.city/b
+ ayarea/
+URL:https://www.sfmoma.org/event/member-previews-rm-x-sfmoma-between-you-an
+ d-me/
+END:VEVENT
+BEGIN:VEVENT
+UID:754dbd14782dd8e3b8d563eac864ffe31ab80312@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261001T201500Z
+DTEND:20261001T221500Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:da2bfa7be6f35d19399925739856be51e3a98f91@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261001T230000Z
+DTEND:20261002T010000Z
+SUMMARY:The Living Earth Show Presents: Bucket List
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/the-living-earth-show-presents-buc
+ ket-list/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/the-living-earth-show-presents-bucket-list
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:d07301a149f922eb712b59642b837ae650a11252@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261002T030000Z
+DTEND:20261002T050000Z
+SUMMARY:The Nexus Party: The Official Party of SF/Bay Area Black Art Week
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Join artists\, cultural leaders\, and art lovers from across th
+ e Bay Area for an unforgettable celebration.\nhttps://ybca.org/event/the-n
+ exus-party-the-official-party-of-sf-bay-area-black-art-week/\nFrom Pushpin
+  Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/the-nexus-party-the-official-party-of-sf-bay-are
+ a-black-art-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:49d4966b648adacdcee3f5b110b8f400465a143e@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261003T000000Z
+DTEND:20261003T020000Z
+SUMMARY:Friday Nights at OMCA with Shanté
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Live Music by Shanté\, Music Set by DJ Shell Heart\, Drag Stor
+ ytime with Per Sia\, Mini House Making\, Nexus Black Art Week Panel Discus
+ sion\, and Gallery Chats This Friday Night at OMCA\, Oakland singer-songwr
+ iter Shanté brings her soulful sound to the Garden Stage with a powerful 
+ live performance. Blending smooth R&B\, heartfelt storytelling\, and uplif
+ ting messages of resilience\, faith\, and self-discovery\, the East Oaklan
+ d artist delivers an intimate yet energetic set that invites audiences to 
+ sing along\, reflect\, and leave inspired.\nhttps://museumca.org/event/fri
+ day-nights-at-omca-with-shante/\nFrom Pushpin Bay Area: https://pushpin.ci
+ ty/bayarea/
+URL:https://museumca.org/event/friday-nights-at-omca-with-shante/
+END:VEVENT
+BEGIN:VEVENT
+UID:b3bde6134db5ea393ba100ecd0ae005114360dd4@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261003T003000Z
+DTEND:20261003T023000Z
+SUMMARY:Special Guest Gallery Chat: Mildred Howard and Adrian Burrell
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Special Guest Gallery Chat: Mildred Howard and Adrian Burrell |
+  MoAD Nexus Black Art Week In celebration of MoAD Nexus Black Art Week\, w
+ e invite you to a Special Guest Gallery Chat with artists Mildred Howard a
+ nd Adrian Burrell (featured in former OMCA Special Exhibition Black Spaces
+ : Reclaim & Remain). Moderated by OMCA’s Senior Director of Marketing\, 
+ Advancement\, Engagement\, Autumn King\, this engaging conversation brings
+  together the two artists to share their creative practices and perspectiv
+ es. Presented in partnership with MoAD Nexus Black Art Week\, the conversa
+ tion offers an opportunity to connect with the artists and explore their w
+ ork in conversation with the Museum community.\nhttps://museumca.org/event
+ /special-guest-gallery-chat-mildred-howard-and-adrian-burrell/\nFrom Pushp
+ in Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/special-guest-gallery-chat-mildred-howard-an
+ d-adrian-burrell/
+END:VEVENT
+BEGIN:VEVENT
+UID:4bad5781f7d5810609510b15a116ca6b61d1b291@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261003T200000Z
+DTEND:20261003T220000Z
+SUMMARY:Art as Resistance: A Conversation with Dread Scott\, Emory Douglas 
+ & Orlando Smith
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Explore how art translates political urgency into image\, how h
+ istory and truth are constructed and dismantled\, and how graphic storytel
+ ling becomes a tool for change.\nhttps://ybca.org/event/art-as-resistance-
+ a-conversation-with-dread-scott-emory-douglas-orlando-smith-10-3-26/\nFrom
+  Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/art-as-resistance-a-conversation-with-dread-scot
+ t-emory-douglas-orlando-smith-10-3-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:05d1d00bcf942c699adee2dcb956c6c88c0f41fa@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261003T200000Z
+DTEND:20261003T220000Z
+SUMMARY:Art as Resistance: A Conversation with Emory Douglas\, Dread Scott\
+ , and Orlando Smith
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Artist Talk\nhttps://www.sfmoma.org/event/art-as-resistance-a-c
+ onversation-with-emory-douglas-dread-scott-and-orlando-smith/\nFrom Pushpi
+ n Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/art-as-resistance-a-conversation-with-emor
+ y-douglas-dread-scott-and-orlando-smith/
+END:VEVENT
+BEGIN:VEVENT
+UID:7e0bb85eea0d727e5a5ca4665574e6ede3f949f9@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261004T200000Z
+DTEND:20261004T220000Z
+SUMMARY:OMCA Architecture Walk and Talk
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Walk through OMCA’s landmark building and gardens with member
+ s of the Council on Architecture\, and learn about the history\, design\, 
+ and evolution of this award-winning structure with guides who are passiona
+ te about OMCA and Oakland.\nhttps://museumca.org/event/omca-architecture-w
+ alk-and-talk-6/2026-10-04/\nFrom Pushpin Bay Area: https://pushpin.city/ba
+ yarea/
+URL:https://museumca.org/event/omca-architecture-walk-and-talk-6/2026-10-04
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:9e45e82f10d50bcf3195cf9b9819fdb10389c0d4@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261004T210000Z
+DTEND:20261004T230000Z
+SUMMARY:Awesome Sauce Pop-up with June Jo and Philip Lee
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Program\nhttps://www.sfmoma.org/event/awesome-sauce-pop-
+ up-with-june-jo-and-philip-lee/\nFrom Pushpin Bay Area: https://pushpin.ci
+ ty/bayarea/
+URL:https://www.sfmoma.org/event/awesome-sauce-pop-up-with-june-jo-and-phil
+ ip-lee/
+END:VEVENT
+BEGIN:VEVENT
+UID:5c5d8f5a1fb8c57af7fda7c1d4a771860fa6ab95@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261004T210000Z
+DTEND:20261004T230000Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d61d1fc737051b4dcc64bb82afa5b45a458656@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261008T020000Z
+DTEND:20261008T040000Z
+SUMMARY:Traveling Shoes
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Join DVT for a live performance of their album Traveling Shoes 
+ inside the exhibition “Dread Scott: The Body Politic.”\nhttps://ybca.o
+ rg/event/traveling-shoes-in-gallery-performance-10-7-26/\nFrom Pushpin Bay
+  Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/traveling-shoes-in-gallery-performance-10-7-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:2668e96e245fb24319bbf57d1be4cbe32b2784b9@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261009T010000Z
+DTEND:20261009T030000Z
+SUMMARY:It Will Be More Beautiful Than You Could Ever Imagine: Susan O'Mall
+ ey and Friends
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/susan-omalley-and-friends/\nFrom P
+ ushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/susan-omalley-and-friends/
+END:VEVENT
+BEGIN:VEVENT
+UID:a93d35fd913e8f8344a4d2a787b718d7c85bdbc9@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261010T000000Z
+DTEND:20261010T020000Z
+SUMMARY:Friday Nights at OMCA with CHIKA DI
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Live Music by CHIKA DI\, Dance Lesson and Showcase with Hustle 
+ By the Lake\, DJ set by BLOOM\, and Gallery Chats This Friday Night at OMC
+ A\, Colombian-American singer-songwriter CHIKA DI brings her vibrant sound
+  to the Garden Stage with a high-energy bilingual performance. Blending Af
+ ro-Latin rhythms\, Cumbia pop\, electronic influences\, and heartfelt stor
+ ytelling\, her joyful set celebrates culture and connection while inviting
+  audiences to dance\, sing\, and celebrate together.\nhttps://museumca.org
+ /event/friday-nights-at-omca-with-chika-di/\nFrom Pushpin Bay Area: https:
+ //pushpin.city/bayarea/
+URL:https://museumca.org/event/friday-nights-at-omca-with-chika-di/
+END:VEVENT
+BEGIN:VEVENT
+UID:9942f197dd2d70de41d3b3c1bca349efb5729412@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261010T200000Z
+DTEND:20261010T220000Z
+SUMMARY:SOMA PILIPINAS PRIDE: MAKIBEKI
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/soma-pilipinas-pride-makibeki/\nFr
+ om Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/soma-pilipinas-pride-makibeki/
+END:VEVENT
+BEGIN:VEVENT
+UID:c511ddc796637ac0a6b31d02a82af34a8e202279@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261014T191500Z
+DTEND:20261014T211500Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:306040d6dfb69dea98d252a4b804fb6050d8c406@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261015T000000Z
+DTEND:20261015T020000Z
+SUMMARY:Making Faces: A Puppet Crafting Workshop with Creativity Explored
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Join Creativity Explored artists for a hands-on\, drop-in works
+ hop to build your very own hand or stick puppet.\nhttps://ybca.org/event/m
+ aking-faces-a-puppet-crafting-workshop-with-creativity-explored/\nFrom Pus
+ hpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/making-faces-a-puppet-crafting-workshop-with-cre
+ ativity-explored/
+END:VEVENT
+BEGIN:VEVENT
+UID:5da6f5e9867015b95ae27e05e47c262b86ea57e4@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261016T000000Z
+DTEND:20261016T020000Z
+SUMMARY:Art Making: Your Own Way
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/art-making-your-own-way/\nFrom Pus
+ hpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/art-making-your-own-way/
+END:VEVENT
+BEGIN:VEVENT
+UID:0a630a9c6730583982740a07684108db633565b6@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261017T000000Z
+DTEND:20261017T020000Z
+SUMMARY:Friday Nights at OMCA with MacArthur Maze | 60th Anniversary of the
+  Black Panther Party
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Live Performance by MacArthur Maze\, Music Set by DJ Black Woma
+ n™\, Live Figure Drawing with Sketchboard Co.\, and Gallery Chats This F
+ riday Night at OMCA\, the Museum is excited to be part of a series of prog
+ ramming celebrating the 60th Anniversary of the Black Panther Party\, brin
+ ging together music\, film\, storytelling\, and community throughout the e
+ vening. On the Garden Stage\, East Bay Hip-Hop ensemble MacArthur Maze tak
+ es the stage. Featuring four emcees and special guests Loove Moore and DJ 
+ Kream\, the group delivers a distinctly Bay Area sound rooted in real-life
+  storytelling\, love\, and community.\nhttps://museumca.org/event/friday-n
+ ights-at-omca-with-macarthur-maze-60th-anniversary-of-the-black-panther-pa
+ rty/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/friday-nights-at-omca-with-macarthur-maze-60
+ th-anniversary-of-the-black-panther-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:0b9c41483d98991f05d633e1816aff95d1ee025c@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261017T220000Z
+DTEND:20261018T000000Z
+SUMMARY:Wrenching News Workshops
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/wrenching-ne
+ ws-workshops\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/wrenching-news-workshops
+END:VEVENT
+BEGIN:VEVENT
+UID:62b052577e6ac5a6da94d8f64050f009066c2c8e@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T020000Z
+DTEND:20261018T040000Z
+SUMMARY:Let Her Sing 2026: A Celebration of Female Voices
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:An evening of exciting music and solidarity for the female voic
+ e.\nhttps://ybca.org/event/let-her-sing-2026-a-celebration-of-female-voice
+ s/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/let-her-sing-2026-a-celebration-of-female-voices
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:3bef9ea8ae895ffe77d2c78fabde9a3bbf0a715c@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+SUMMARY:Family Studio: Spiders
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/family-studio-spiders/\nFrom Pushp
+ in Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/family-studio-spiders/
+END:VEVENT
+BEGIN:VEVENT
+UID:98756eb1ddbd0df87e0abcc40531c380a2ceb1ac@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T190000Z
+DTEND:20261018T210000Z
+SUMMARY:Spooky Art: Spiders and More!
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Tour\nhttps://www.sfmoma.org/event/spooky-art-spiders-an
+ d-more/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/spooky-art-spiders-and-more/
+END:VEVENT
+BEGIN:VEVENT
+UID:906b2c9ca88097a3108c815a8fb9423bf03d4d75@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T200000Z
+DTEND:20261018T220000Z
+SUMMARY:Improvisational Screenprinting
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Space is limited\; RSVP required.\nhttps://bampfa.org/event/imp
+ rovisational-screenprinting\nFrom Pushpin Bay Area: https://pushpin.city/b
+ ayarea/
+URL:https://bampfa.org/event/improvisational-screenprinting
+END:VEVENT
+BEGIN:VEVENT
+UID:7a45719aaf97dd24dee37b032112055b455577f2@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T200000Z
+DTEND:20261018T220000Z
+SUMMARY:Spotlight Sundays: Roadsongs for Dorothea Lange
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Your browser does not support the video tag.\nhttps://museumca.
+ org/event/spotlight-sundays-roadsongs-for-dorothea-lange/\nFrom Pushpin Ba
+ y Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/spotlight-sundays-roadsongs-for-dorothea-lan
+ ge/
+END:VEVENT
+BEGIN:VEVENT
+UID:285aa5502b3aff24c698c59358eaf4e496b48747@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T210000Z
+DTEND:20261018T230000Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+END:VCALENDAR

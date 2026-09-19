@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Bay Area//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Bay Area · SFMOMA
+X-WR-CALDESC:What’s coming up at SFMOMA\, from Pushpin Bay Area.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:f41e08a03e123981018897c324a1439c446a1231@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T210000Z
+DTEND:20260919T230000Z
+SUMMARY:Graciela Iturbide and Enrique Chagoya in Conversation
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Artist Talk\nhttps://www.sfmoma.org/event/graciela-iturbide-and
+ -enrique-chagoya-in-conversation/\nFrom Pushpin Bay Area: https://pushpin.
+ city/bayarea/
+URL:https://www.sfmoma.org/event/graciela-iturbide-and-enrique-chagoya-in-c
+ onversation/
+END:VEVENT
+BEGIN:VEVENT
+UID:7f7b72bb49742ad53f854d57677a6f6bed4ebe6b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T180000Z
+DTEND:20260920T200000Z
+SUMMARY:Kite Making with Mariel Paat
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Program\nhttps://www.sfmoma.org/event/kite-making-with-m
+ ariel-paat/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/kite-making-with-mariel-paat/
+END:VEVENT
+BEGIN:VEVENT
+UID:c5e432aa31cb339e7470b0c34030ad230439a672@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T210000Z
+DTEND:20260920T230000Z
+SUMMARY:Watercolor Workshop: Feeling First\, a Matisse Study
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/watercolor-workshop-feeling-first-
+ a-matisse-study-9-20/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea
+ /
+URL:https://www.sfmoma.org/event/watercolor-workshop-feeling-first-a-matiss
+ e-study-9-20/
+END:VEVENT
+BEGIN:VEVENT
+UID:542db0f89f653ab74b16240b408e4def359b6e6e@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260925T010000Z
+DTEND:20260925T030000Z
+SUMMARY:Ear Hustle Live!
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/ear-hustle-live/\nFrom Pushpin Bay
+  Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/ear-hustle-live/
+END:VEVENT
+BEGIN:VEVENT
+UID:b8feca5fe33f6c1502addb42fd2d24db8719cc79@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260925T010000Z
+DTEND:20260925T030000Z
+SUMMARY:Works on Paper Book Club: Gertrude Stein: An Afterlife by Francesca
+  Wade
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/works-on-paper-book-club-gertrude-
+ stein-an-afterlife-by-francesca-wade/\nFrom Pushpin Bay Area: https://push
+ pin.city/bayarea/
+URL:https://www.sfmoma.org/event/works-on-paper-book-club-gertrude-stein-an
+ -afterlife-by-francesca-wade/
+END:VEVENT
+BEGIN:VEVENT
+UID:25bddff9309305d5d7b6e6aab3736dfb156968af@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260927T170000Z
+DTEND:20260927T190000Z
+SUMMARY:Family Studio: Crochet Jam with Ramekon O’Arwisters
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Program\nhttps://www.sfmoma.org/event/family-studio-croc
+ het-jam-with-ramekon-oarwisters/\nFrom Pushpin Bay Area: https://pushpin.c
+ ity/bayarea/
+URL:https://www.sfmoma.org/event/family-studio-crochet-jam-with-ramekon-oar
+ wisters/
+END:VEVENT
+BEGIN:VEVENT
+UID:f0bdebb9739bddca104d49fd7816d23cfbe0ce8d@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261001T190000Z
+DTEND:20261001T210000Z
+SUMMARY:Member Previews — RM x SFMOMA: Between You and Me
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Member Event\nhttps://www.sfmoma.org/event/member-previews-rm-x
+ -sfmoma-between-you-and-me/\nFrom Pushpin Bay Area: https://pushpin.city/b
+ ayarea/
+URL:https://www.sfmoma.org/event/member-previews-rm-x-sfmoma-between-you-an
+ d-me/
+END:VEVENT
+BEGIN:VEVENT
+UID:da2bfa7be6f35d19399925739856be51e3a98f91@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261001T230000Z
+DTEND:20261002T010000Z
+SUMMARY:The Living Earth Show Presents: Bucket List
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/the-living-earth-show-presents-buc
+ ket-list/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/the-living-earth-show-presents-bucket-list
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:05d1d00bcf942c699adee2dcb956c6c88c0f41fa@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261003T200000Z
+DTEND:20261003T220000Z
+SUMMARY:Art as Resistance: A Conversation with Emory Douglas\, Dread Scott\
+ , and Orlando Smith
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Artist Talk\nhttps://www.sfmoma.org/event/art-as-resistance-a-c
+ onversation-with-emory-douglas-dread-scott-and-orlando-smith/\nFrom Pushpi
+ n Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/art-as-resistance-a-conversation-with-emor
+ y-douglas-dread-scott-and-orlando-smith/
+END:VEVENT
+BEGIN:VEVENT
+UID:9e45e82f10d50bcf3195cf9b9819fdb10389c0d4@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261004T210000Z
+DTEND:20261004T230000Z
+SUMMARY:Awesome Sauce Pop-up with June Jo and Philip Lee
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Program\nhttps://www.sfmoma.org/event/awesome-sauce-pop-
+ up-with-june-jo-and-philip-lee/\nFrom Pushpin Bay Area: https://pushpin.ci
+ ty/bayarea/
+URL:https://www.sfmoma.org/event/awesome-sauce-pop-up-with-june-jo-and-phil
+ ip-lee/
+END:VEVENT
+BEGIN:VEVENT
+UID:73919ea8a5076cf913c4300db9c0e4f8ab31f1d7@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261004T230000Z
+DTEND:20261005T010000Z
+SUMMARY:Black Is Beautiful: The Kwame Brathwaite Story — Film Screening a
+ nd Conversation
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/black-is-beautiful-the-kwame-brath
+ waite-story-film-screening-and-conversation/\nFrom Pushpin Bay Area: https
+ ://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/black-is-beautiful-the-kwame-brathwaite-st
+ ory-film-screening-and-conversation/
+END:VEVENT
+BEGIN:VEVENT
+UID:2668e96e245fb24319bbf57d1be4cbe32b2784b9@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261009T010000Z
+DTEND:20261009T030000Z
+SUMMARY:It Will Be More Beautiful Than You Could Ever Imagine: Susan O'Mall
+ ey and Friends
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/susan-omalley-and-friends/\nFrom P
+ ushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/susan-omalley-and-friends/
+END:VEVENT
+BEGIN:VEVENT
+UID:9942f197dd2d70de41d3b3c1bca349efb5729412@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261010T200000Z
+DTEND:20261010T220000Z
+SUMMARY:SOMA PILIPINAS PRIDE: MAKIBEKI
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/soma-pilipinas-pride-makibeki/\nFr
+ om Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/soma-pilipinas-pride-makibeki/
+END:VEVENT
+BEGIN:VEVENT
+UID:5da6f5e9867015b95ae27e05e47c262b86ea57e4@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261016T000000Z
+DTEND:20261016T020000Z
+SUMMARY:Art Making: Your Own Way
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/art-making-your-own-way/\nFrom Pus
+ hpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/art-making-your-own-way/
+END:VEVENT
+BEGIN:VEVENT
+UID:3bef9ea8ae895ffe77d2c78fabde9a3bbf0a715c@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+SUMMARY:Family Studio: Spiders
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/family-studio-spiders/\nFrom Pushp
+ in Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/family-studio-spiders/
+END:VEVENT
+BEGIN:VEVENT
+UID:98756eb1ddbd0df87e0abcc40531c380a2ceb1ac@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T190000Z
+DTEND:20261018T210000Z
+SUMMARY:Spooky Art: Spiders and More!
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Tour\nhttps://www.sfmoma.org/event/spooky-art-spiders-an
+ d-more/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/spooky-art-spiders-and-more/
+END:VEVENT
+BEGIN:VEVENT
+UID:250de7bcc4d9cb63203a26cddb102c6082c88174@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T210000Z
+DTEND:20261018T230000Z
+SUMMARY:Studio 8 Film Festival: No Nothing Cinema + George Kuchar
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/studio-8-film-festival-no-nothing-
+ cinema-george-kuchar/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea
+ /
+URL:https://www.sfmoma.org/event/studio-8-film-festival-no-nothing-cinema-g
+ eorge-kuchar/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,696 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Bay Area//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Bay Area · BAMPFA
+X-WR-CALDESC:What’s coming up at BAMPFA\, from Pushpin Bay Area.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:23aced809913daa933edda6ce6390642cd3d33b6@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T020000Z
+DTEND:20260919T040000Z
+SUMMARY:Senegalese Meet Sene-Gallic
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Free admission. Tickets available at the admissions desk at 6 P
+ M.\nhttps://bampfa.org/event/senegalese-meet-sene-gallic\nFrom Pushpin Bay
+  Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/senegalese-meet-sene-gallic
+END:VEVENT
+BEGIN:VEVENT
+UID:d67f4f89e222a41c36b3a506471f8bf4e567cf6b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T200000Z
+DTEND:20260919T220000Z
+SUMMARY:Curators’ Conversation: Natalia Brizuela and Julia Bryan-Wilson o
+ n Lotty Rosenfield: Disobedient Spaces
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Tickets required. Gallery admission included with ticket purcha
+ se.\nhttps://bampfa.org/event/curators-conversation-natalia-brizuela-and-j
+ ulia-bryan-wilson-lotty\nFrom Pushpin Bay Area: https://pushpin.city/bayar
+ ea/
+URL:https://bampfa.org/event/curators-conversation-natalia-brizuela-and-jul
+ ia-bryan-wilson-lotty
+END:VEVENT
+BEGIN:VEVENT
+UID:2e21c88e5d1b96606d1aa830cf64a5b6aac94ee0@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T210000Z
+DTEND:20260919T230000Z
+SUMMARY:Artist’s Conversation: Marcel Pardo Ariza
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Tickets required. Gallery admission included with ticket purcha
+ se.\nhttps://bampfa.org/event/artists-conversation-marcel-pardo-ariza\nFro
+ m Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/artists-conversation-marcel-pardo-ariza
+END:VEVENT
+BEGIN:VEVENT
+UID:edcd8728286ee1ebc223b599da6a6a9c4920689c@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T233000Z
+DTEND:20260920T013000Z
+SUMMARY:Contempt
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:4K Digital Restoration\nhttps://bampfa.org/event/contempt\nFrom
+  Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/contempt
+END:VEVENT
+BEGIN:VEVENT
+UID:b313b7b81ef4fac75ea784dbcfb7023b402acf9c@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T020000Z
+DTEND:20260920T040000Z
+SUMMARY:The Hole
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:New 35mm Print\nhttps://bampfa.org/event/hole\nFrom Pushpin Bay
+  Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/hole
+END:VEVENT
+BEGIN:VEVENT
+UID:40f943a051ffa69d250de92b7a73e3cbb8cd36c5@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T200000Z
+DTEND:20260920T220000Z
+SUMMARY:Curator’s Tour: Margot Norton on Maren Hassinger: Living Moving G
+ rowing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Join Chief Curator Margot Norton\, co-curator with Senior Curat
+ or Anthony Graham\, for a walkthrough of the exhibition\, featuring Hassin
+ ger's material experiments in sculpture\, her long-standing engagement wit
+ h movement and performance\, and her work with the moving image.\nhttps://
+ bampfa.org/event/curator-tour-margot-norton-maren-hassinger\nFrom Pushpin 
+ Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/curator-tour-margot-norton-maren-hassinger
+END:VEVENT
+BEGIN:VEVENT
+UID:a2d1a16a1d73ae5b191d649aac6ae3676bba09f2@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T210000Z
+DTEND:20260920T230000Z
+SUMMARY:Pink Trash at Crescent Lawn\, UC Berkeley
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Co-presented by the UC Berkeley Environmental Arts and Humaniti
+ es Initiative\nhttps://bampfa.org/event/pink-trash-crescent-lawn-uc-berkel
+ ey\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/pink-trash-crescent-lawn-uc-berkeley
+END:VEVENT
+BEGIN:VEVENT
+UID:928819aa3528987c904d51deb6e7d3f0b814245e@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T233000Z
+DTEND:20260921T013000Z
+SUMMARY:Bellissima
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:4K Digital Restoration\nhttps://bampfa.org/event/bellissima\nFr
+ om Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/bellissima
+END:VEVENT
+BEGIN:VEVENT
+UID:18483907a442894c29e11113ca13784622f5fa11@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260921T020000Z
+DTEND:20260921T040000Z
+SUMMARY:The Last Waltz
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:4K Digital Restoration\nhttps://bampfa.org/event/last-waltz\nFr
+ om Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/last-waltz
+END:VEVENT
+BEGIN:VEVENT
+UID:90d31fc365d4df88c94fb0417230c4ba4bb58992@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260923T191500Z
+DTEND:20260923T211500Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:d76e4fa04774f39338932f85471e7b8981f84ba4@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260924T020000Z
+DTEND:20260924T040000Z
+SUMMARY:It Will Be Better Before and Temo Re
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Keto Kipiani’s It Will Be Better Before revisits images filme
+ d five years earlier and begins a new correspondence with her then-codirec
+ tor\, Nicolas Kunisz. Temo Re\, Anka Gujabidze’s poignant photo adventur
+ e shot in Tbilisi\, reveals the rough edges of urban life and moments of b
+ eauty.\nhttps://bampfa.org/event/it-will-be-better-and-temo-re\nFrom Pushp
+ in Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/it-will-be-better-and-temo-re
+END:VEVENT
+BEGIN:VEVENT
+UID:a384766a055e25fc328747e94b0d080d302db558@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260925T020000Z
+DTEND:20260925T040000Z
+SUMMARY:Blackbird Blackbird Blackberry
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:“A near-death experience sparks an existential and sexual awa
+ kening for taciturn shop owner Etero in Elene Naveriani’s enchanting fil
+ m” (Arjun Sajip\, Sight and Sound).\nhttps://bampfa.org/event/blackbird-
+ blackbird-blackberry\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/blackbird-blackbird-blackberry
+END:VEVENT
+BEGIN:VEVENT
+UID:a98beb97214e46d1ad2ba6dafbad5646c95bb1fa@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260925T220000Z
+DTEND:20260926T000000Z
+SUMMARY:A Tunnel
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:An old railway platform in a remote valley of Georgia suddenly 
+ becomes a site for change in this wonderful documentary about the New Silk
+  Road\, a high-speed rail development project between China and Europe.\nh
+ ttps://bampfa.org/event/tunnel\nFrom Pushpin Bay Area: https://pushpin.cit
+ y/bayarea/
+URL:https://bampfa.org/event/tunnel
+END:VEVENT
+BEGIN:VEVENT
+UID:472f882d7eee4ae0b8e22ee1718d44440ae95430@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260926T020000Z
+DTEND:20260926T040000Z
+SUMMARY:Taming the Garden
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:The opening shot of this striking environmental tale captures a
+  tree as tall as a fifteen-story building floating on a barge across the v
+ ast Black Sea. Its destination lies in a garden countless miles away\, pri
+ vately owned by a wealthy and anonymous man.\nhttps://bampfa.org/event/tam
+ ing-garden\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/taming-garden
+END:VEVENT
+BEGIN:VEVENT
+UID:472a7cfcb259b963833ea61799f119031ac8e94b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260926T183000Z
+DTEND:20260926T203000Z
+SUMMARY:Georgian Cinema Now Symposium—Activism in Authoritarian Times: Th
+ e Republic of Georgia as a Case Study
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Free Admission Copresented by the Berkeley Art Museum and Pacif
+ ic Film Archive and the Institute of Slavic\, East European\, and Eurasian
+  Studies at UC Berkeley Promotional partner: Center for Russian\, East Eur
+ opean\, and Eurasian Studies at Stanford University\nhttps://bampfa.org/ev
+ ent/georgian-cinema-now-symposium\nFrom Pushpin Bay Area: https://pushpin.
+ city/bayarea/
+URL:https://bampfa.org/event/georgian-cinema-now-symposium
+END:VEVENT
+BEGIN:VEVENT
+UID:a5cc86a4e761eae48d3bda0146e7a89632a314a6@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260926T200000Z
+DTEND:20260926T220000Z
+SUMMARY:Contemplative Salt Bath
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission. Space is limited\; first come\, first 
+ served.\nhttps://bampfa.org/event/contemplative-salt-bath\nFrom Pushpin Ba
+ y Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/contemplative-salt-bath
+END:VEVENT
+BEGIN:VEVENT
+UID:9e90dad953eb4b8a1dec1c6e0fdde3d692f6f4db@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260927T003000Z
+DTEND:20260927T023000Z
+SUMMARY:Conversation: Rasha Salti and Natalia Brizuela
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Tickets required. Gallery admission included with ticket purcha
+ se.\nhttps://bampfa.org/event/conversation-rasha-salti-and-natalia-brizuel
+ a\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/conversation-rasha-salti-and-natalia-brizuela
+END:VEVENT
+BEGIN:VEVENT
+UID:a72c7f4ebf6e56a1625377171a5c0d13bd054dd7@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260927T023000Z
+DTEND:20260927T043000Z
+SUMMARY:Crossing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:A Georgian woman heads to Istanbul in search of her estranged t
+ rans niece in this elegant\, politically resonant feature from Swedish Geo
+ rgian director Levan Akin.\nhttps://bampfa.org/event/crossing\nFrom Pushpi
+ n Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/crossing
+END:VEVENT
+BEGIN:VEVENT
+UID:9839d52ed750352e24fe2b06ae26857ce4c21efc@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260927T200000Z
+DTEND:20260927T220000Z
+SUMMARY:Wrenching News Workshops
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/wrenching-ne
+ ws-workshops\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/wrenching-news-workshops
+END:VEVENT
+BEGIN:VEVENT
+UID:63543ae40bdc302276e256b6f123cfc5381f81d9@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260927T203000Z
+DTEND:20260927T223000Z
+SUMMARY:English Teacher and Bakhmaro 2050
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:These two creative documentaries that ruminate on issues facing
+  Georgian society are both set far from city life. English Teacher present
+ s the challenges of the “linguistic revolution” initiative\, while Bak
+ hmaro 2050 is a meditation on the encroaching commercial development in a 
+ mountainous resort town.\nhttps://bampfa.org/event/english-teacher-and-bak
+ hmaro-2050\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/english-teacher-and-bakhmaro-2050
+END:VEVENT
+BEGIN:VEVENT
+UID:988010c817c7c71cf0af7b8352e2210432a2f8ea@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260927T210000Z
+DTEND:20260927T230000Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:cc7dba8b41a7ebb68933cf32b6018b6a48a3152b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260927T233000Z
+DTEND:20260928T013000Z
+SUMMARY:An Incomplete Day in the History of Georgia 10.06.93.
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Archival video documentation from a 1993 parliamentary session 
+ related to the introduction of the Georgian coupon\, a national currency t
+ o replace the Russian ruble\, offers a history lesson in the sometimes fle
+ eting nature of democracy.\nhttps://bampfa.org/event/incomplete-day-histor
+ y-georgia-100693\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/incomplete-day-history-georgia-100693
+END:VEVENT
+BEGIN:VEVENT
+UID:97a76d4c62b2893701a5be661b08c05919644aed@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260930T191500Z
+DTEND:20260930T211500Z
+SUMMARY:Our Sister Hedy
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/our-sister-h
+ edy\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/our-sister-hedy
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e7cbf435aa50b3de0fa2f16d034ef6c86edf5d@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260930T191500Z
+DTEND:20260930T211500Z
+SUMMARY:Self-Portrait Along the Borderline
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/self-portrai
+ t-along-borderline\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/self-portrait-along-borderline
+END:VEVENT
+BEGIN:VEVENT
+UID:754dbd14782dd8e3b8d563eac864ffe31ab80312@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261001T201500Z
+DTEND:20261001T221500Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:8baf74a264db795192482ceed89bb3537e31385a@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261002T020000Z
+DTEND:20261002T040000Z
+SUMMARY:Italianamerican and American Boy: A Profile of Steven Prince
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Two fascinating documentaries offer portals to the heart of wha
+ t inspires Martin Scorsese: the lives and stories of real-life characters\
+ , like his parents and his friend and colleague Steven Prince.\nhttps://ba
+ mpfa.org/event/italianamerican-and-american-boy-profile-steven-prince\nFro
+ m Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/italianamerican-and-american-boy-profile-steve
+ n-prince
+END:VEVENT
+BEGIN:VEVENT
+UID:a49873b1c322857310bf794001b76611a63873cf@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261003T020000Z
+DTEND:20261003T040000Z
+SUMMARY:Wet Sand
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:“Set against the backdrop of church-sanctioned\, far-right po
+ litical protests attacking LGBTQ anti-discrimination laws\, director/cowri
+ ter [Elene] Naveriani works steadfastly to break the cycle through a colle
+ ctive reckoning that simultaneously destroys and creates” (SFFILM).\nhtt
+ ps://bampfa.org/event/wet-sand\nFrom Pushpin Bay Area: https://pushpin.cit
+ y/bayarea/
+URL:https://bampfa.org/event/wet-sand
+END:VEVENT
+BEGIN:VEVENT
+UID:a518d03c16abec605a2a5a85b638de19c03ee363@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261003T200000Z
+DTEND:20261003T220000Z
+SUMMARY:My Undesirable Friends: Part 2—Exile
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Presented with 60-min intermission\nhttps://bampfa.org/event/my
+ -undesirable-friends-part-2-exile\nFrom Pushpin Bay Area: https://pushpin.
+ city/bayarea/
+URL:https://bampfa.org/event/my-undesirable-friends-part-2-exile
+END:VEVENT
+BEGIN:VEVENT
+UID:e79824b9d47742d61c1d8f0a31c877be070b7242@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261004T200000Z
+DTEND:20261004T220000Z
+SUMMARY:Band of Outsiders
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Digital Restoration\nhttps://bampfa.org/event/band-outsiders\nF
+ rom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/band-outsiders
+END:VEVENT
+BEGIN:VEVENT
+UID:5c5d8f5a1fb8c57af7fda7c1d4a771860fa6ab95@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261004T210000Z
+DTEND:20261004T230000Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:7dc85ba1705ad6b68956856ec1f1e08c1f6ab127@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261004T230000Z
+DTEND:20261005T010000Z
+SUMMARY:La Gradiva
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:French teenagers take a summer class trip to Naples\, Italy\, i
+ n this marvelously subtle\, mysterious\, and intelligent coming-of-age fil
+ m. Marine Atlan’s feature debut garnered the Cannes Film Festival Critic
+ s Week Best Picture award.\nhttps://bampfa.org/event/la-gradiva\nFrom Push
+ pin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/la-gradiva
+END:VEVENT
+BEGIN:VEVENT
+UID:f910e0e1ecfacc5981b8596a75884ed0c3bb050c@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261007T191500Z
+DTEND:20261007T211500Z
+SUMMARY:Our Sister Hedy
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/our-sister-h
+ edy\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/our-sister-hedy
+END:VEVENT
+BEGIN:VEVENT
+UID:ea2e221c7a4c2e5535ec33ccad3d1f9c8e3f5687@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261009T020000Z
+DTEND:20261009T040000Z
+SUMMARY:Union Town
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Legendary documentary filmmaker Barbara Kopple completes the wo
+ rkers’ trilogy she began fifty years ago with this vivid\, on-the-ground
+  look at often rancorous labor struggles in the era of delivery apps and t
+ he gig economy.\nhttps://bampfa.org/event/union-town\nFrom Pushpin Bay Are
+ a: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/union-town
+END:VEVENT
+BEGIN:VEVENT
+UID:e333069102caa07db616e12acea17d1a458531a2@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261009T223000Z
+DTEND:20261010T003000Z
+SUMMARY:When a Witness Recants
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Former lawyer and veteran documentarian Dawn Porter revisits th
+ e case of the Harlem Park Three\, whose wrongful convictions as teenagers 
+ led to thirty-six years behind bars and exposed profound failures within t
+ he American justice system.\nhttps://bampfa.org/event/when-witness-recants
+ \nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/when-witness-recants
+END:VEVENT
+BEGIN:VEVENT
+UID:84fde125cdbcd8fc5f70b9c1e6d4d46d14f98f56@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261010T020000Z
+DTEND:20261010T040000Z
+SUMMARY:Elephants in the Fog
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:In the forests of southern Nepal\, a mother searches for her mi
+ ssing daughter as wild elephants roam the night in a haunting and tender s
+ tory of chosen family\, belonging\, and survival.\nhttps://bampfa.org/even
+ t/elephants-fog\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/elephants-fog
+END:VEVENT
+BEGIN:VEVENT
+UID:d5e5887a147a641d26cb6934f49749cf30ed69d6@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261010T200000Z
+DTEND:20261010T220000Z
+SUMMARY:Sad Girlz
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:While preparing for an upcoming swimming trip to Brazil\, best 
+ friends La Maestra and Paula see their bright futures upended one fateful 
+ night. First-time feature director Fernanda Tovar crafts a moving coming-o
+ f-age drama in this Berlinale award winner.\nhttps://bampfa.org/event/sad-
+ girlz\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/sad-girlz
+END:VEVENT
+BEGIN:VEVENT
+UID:d3c0ae3e181c62737489aa41a18e3ae3ccf1afa1@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261010T223000Z
+DTEND:20261011T003000Z
+SUMMARY:Minotaur
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Andrey Zvyagintsev’s first feature in a decade\, this chillin
+ g reimagining of La femme infidèle and Unfaithful masterfully explores th
+ e depths of corruption in Vladimir Putin’s Russia through a story of cri
+ me and infidelity.\nhttps://bampfa.org/event/minotaur\nFrom Pushpin Bay Ar
+ ea: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/minotaur
+END:VEVENT
+BEGIN:VEVENT
+UID:0d9ea9f8d2d8ccc7e0cb97fe4954d7a49b129a6e@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261011T020000Z
+DTEND:20261011T040000Z
+SUMMARY:On Behalf of My Son
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:After losing her son in a tragic accident\, a mother travels fr
+ om one family to another carrying an apology that may be impossible to acc
+ ept\, in Gabriel Martins’s delicate\, deeply human meditation on grief a
+ nd forgiveness.\nhttps://bampfa.org/event/behalf-my-son\nFrom Pushpin Bay 
+ Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/behalf-my-son
+END:VEVENT
+BEGIN:VEVENT
+UID:98df804d97e3730555bc72d065c148385d898d82@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261011T200000Z
+DTEND:20261011T220000Z
+SUMMARY:Jean-Luc Godard's Early Short Films
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:A glimpse of Jean-Luc Godard in the process of becoming Godard.
+  This program of the director’s first shorts includes Opération béton\
+ , All the Boys Are Called Patrick\, Une histoire d’eau\, and Charlotte e
+ t son Jules.\nhttps://bampfa.org/event/jean-luc-godards-early-short-films\
+ nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/jean-luc-godards-early-short-films
+END:VEVENT
+BEGIN:VEVENT
+UID:ddb0d0fdc8b9f66a5a27aca9ebbc46a6a881cc12@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261011T210000Z
+DTEND:20261011T230000Z
+SUMMARY:Our Sister Hedy
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/our-sister-h
+ edy\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/our-sister-hedy
+END:VEVENT
+BEGIN:VEVENT
+UID:161b33d69a1ae6f9b48ef0158c836206705f1d7e@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261012T013000Z
+DTEND:20261012T033000Z
+SUMMARY:The Dreamed Adventure
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:A Bulgarian archaeologist investigates the disappearance of a f
+ ormer lover in this absorbing Cannes Film Festival prizewinner. German dir
+ ector Valeska Grisebach worked with a nonprofessional cast to create a slo
+ w-burn thriller with the grit of a Western and the scope of Chinatown.\nht
+ tps://bampfa.org/event/dreamed-adventure\nFrom Pushpin Bay Area: https://p
+ ushpin.city/bayarea/
+URL:https://bampfa.org/event/dreamed-adventure
+END:VEVENT
+BEGIN:VEVENT
+UID:c511ddc796637ac0a6b31d02a82af34a8e202279@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261014T191500Z
+DTEND:20261014T211500Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:8a433dcce2cbd0a42abdf3729fa7ec9a2cf5b4d9@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261015T020000Z
+DTEND:20261015T040000Z
+SUMMARY:Remembering Harun Farocki
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:This is a new restoration of Claudia von Alemann and Reinold E.
+  Thiel’s documentary on the legendary experimental film festival of Knok
+ ke\, Belgium\, featuring political filmmaker Harun Farocki in action. Show
+ n with three short films by Farocki\, including Inextinguishable Fire.\nht
+ tps://bampfa.org/event/remembering-harun-farocki\nFrom Pushpin Bay Area: h
+ ttps://pushpin.city/bayarea/
+URL:https://bampfa.org/event/remembering-harun-farocki
+END:VEVENT
+BEGIN:VEVENT
+UID:d6a9d0e9ec1a715866506df53e236effccaff50d@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261016T020000Z
+DTEND:20261016T040000Z
+SUMMARY:Collaborations with Cairo’s Cimatheque
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Stefanie Schulte Strathaus has worked closely with Cairo’s Ci
+ matheque – Alternative Film Centre\, and she shares two recent restorati
+ ons completed by the archive\, as well as a selection of Egyptian home mov
+ ies.\nhttps://bampfa.org/event/collaborations-cairos-cimatheque\nFrom Push
+ pin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/collaborations-cairos-cimatheque
+END:VEVENT
+BEGIN:VEVENT
+UID:9e7b2a6a0a50b9f8ac31c205a596ff4688bc4226@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261016T223000Z
+DTEND:20261017T003000Z
+SUMMARY:Mosse Lecture–Stefanie Schulte Strathaus: Curating Living Archive
+ s
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Free admission. Tickets available at the admissions desk beginn
+ ing at 2:30 PM.\nhttps://bampfa.org/event/mosse-lecture%E2%80%93stefanie-s
+ chulte-strathaus-curating-living-archives\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/mosse-lecture%E2%80%93stefanie-schulte-stratha
+ us-curating-living-archives
+END:VEVENT
+BEGIN:VEVENT
+UID:3ca7b6c53b6c79dc5697f3c0388707672d527c17@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261017T020000Z
+DTEND:20261017T040000Z
+SUMMARY:Raging Bull
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:4K Digital Restoration\nhttps://bampfa.org/event/raging-bull\nF
+ rom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/raging-bull
+END:VEVENT
+BEGIN:VEVENT
+UID:cb9968228fba580e4d7ef9b35f9f39b0f69ddc4b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261017T210000Z
+DTEND:20261017T230000Z
+SUMMARY:La maison des bois: Episodes 1–3
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:4K Digital Restoration\nhttps://bampfa.org/event/maison-des-boi
+ s-episodes-1-3\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/maison-des-bois-episodes-1-3
+END:VEVENT
+BEGIN:VEVENT
+UID:0b9c41483d98991f05d633e1816aff95d1ee025c@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261017T220000Z
+DTEND:20261018T000000Z
+SUMMARY:Wrenching News Workshops
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/wrenching-ne
+ ws-workshops\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/wrenching-news-workshops
+END:VEVENT
+BEGIN:VEVENT
+UID:68028370ee542363d72c717d28e25071340fc2f0@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T013000Z
+DTEND:20261018T033000Z
+SUMMARY:White Nights
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:4K Digital Restoration\nhttps://bampfa.org/event/white-nights\n
+ From Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/white-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:906b2c9ca88097a3108c815a8fb9423bf03d4d75@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T200000Z
+DTEND:20261018T220000Z
+SUMMARY:Improvisational Screenprinting
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Space is limited\; RSVP required.\nhttps://bampfa.org/event/imp
+ rovisational-screenprinting\nFrom Pushpin Bay Area: https://pushpin.city/b
+ ayarea/
+URL:https://bampfa.org/event/improvisational-screenprinting
+END:VEVENT
+BEGIN:VEVENT
+UID:285aa5502b3aff24c698c59358eaf4e496b48747@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T210000Z
+DTEND:20261018T230000Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:8655d44134f741b7ba71e7fb5d51c7af4c9c14e3@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T220000Z
+DTEND:20261019T000000Z
+SUMMARY:Shaihu Umar
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Digital Restoration\nhttps://bampfa.org/event/shaihu-umar\nFrom
+  Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/shaihu-umar
+END:VEVENT
+BEGIN:VEVENT
+UID:7d587d4a3b5d3f7dfc207b3055f76ee1d74a75d6@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261019T020000Z
+DTEND:20261019T040000Z
+SUMMARY:The King of Comedy
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:A crazed would-be stand-up comic (Robert De Niro) becomes obses
+ sed with a talk-show host (Jerry Lewis) in Martin Scorsese’s prescient m
+ editation on the American cult of celebrity.\nhttps://bampfa.org/event/kin
+ g-comedy\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/king-comedy
+END:VEVENT
+END:VCALENDAR

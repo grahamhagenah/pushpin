@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · UMass Fine Arts Center
+X-WR-CALDESC:What’s coming up at UMass Fine Arts Center\, from Pushpin We
+ stern Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:a900b5922af6a1f454bbf75c4a78fb6185ac221a@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260925T233000Z
+DTEND:20260926T013000Z
+SUMMARY:The Carpenters Songbook
+LOCATION:UMass Fine Arts Center
+DESCRIPTION:Frederick C. Tillis Performance Hall\nA love letter to the quie
+ t magic of Karen and Richard Carpenter from the creative team behind "The 
+ Simon & Garfunkel Story." Featuring a full band paired with heartfelt stor
+ ytelling\nhttps://arts.umass.edu/performing-arts/events/2026-2027/carpente
+ rs-songbook\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/carpenters-song
+ book
+END:VEVENT
+BEGIN:VEVENT
+UID:a63c237a67b836479d0152312878a7d14b70bb15@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261002T000000Z
+DTEND:20261002T020000Z
+SUMMARY:Insun Park & Generals
+LOCATION:UMass Fine Arts Center
+DESCRIPTION:The Drake\nInsun Park & Generals blend Korean traditional music
+  with contemporary pop forms. And Park adds elements of Gangnyeong Talchum
+  (mask dance) to create an engrossing stage show.\nhttps://arts.umass.edu/
+ performing-arts/events/2026-2027/insun-park-generals\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/insun-park-gene
+ rals
+END:VEVENT
+BEGIN:VEVENT
+UID:6e8f1858737a0ac6ab87918fbf9a926503b79eb4@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261007T233000Z
+DTEND:20261008T013000Z
+SUMMARY:Craig Taborn Trio
+LOCATION:UMass Fine Arts Center
+DESCRIPTION:Bowker Auditorium\nA performance by the Craig Taborn Trio is an
+  evening-length conversation between musicians at the top of their art for
+ m. The only thing an audience member can predict is that you’ll be swept
+  away.\nhttps://arts.umass.edu/performing-arts/events/2026-2027/craig-tabo
+ rn-trio\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/craig-taborn-tr
+ io
+END:VEVENT
+BEGIN:VEVENT
+UID:cd8b360084cbaa323789b82b4cdbf7104582f1b0@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261017T233000Z
+DTEND:20261018T013000Z
+SUMMARY:Jeremy Denk
+LOCATION:UMass Fine Arts Center
+DESCRIPTION:Cassical pianist Jeremy Denk is known for performances of vast 
+ imagination\, beauty\, profundity\, and wit. Tickets available via Music a
+ t Amherst.\nhttps://arts.umass.edu/performing-arts/events/2026-2027/jeremy
+ -denk\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/jeremy-denk
+END:VEVENT
+BEGIN:VEVENT
+UID:3fcd0df053192ba773ac14ee57b1f34b7889247e@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261022T233000Z
+DTEND:20261023T013000Z
+SUMMARY:Christian McBride and Ursa Major
+LOCATION:UMass Fine Arts Center
+DESCRIPTION:Bowker Auditorium\nEleven-time Grammy winner Christian McBride 
+ and a band of rising star musicians play a style of jazz seasoned with ele
+ ments of R&B\, soul\, funk\, and disco.\nhttps://arts.umass.edu/performing
+ -arts/events/2026-2027/christian-mcbride-ursa-major\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/christian-mcbri
+ de-ursa-major
+END:VEVENT
+BEGIN:VEVENT
+UID:07d9d74cb4a1ae06165355b87b83804d4dc2e7cb@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261106T003000Z
+DTEND:20261106T023000Z
+SUMMARY:Ruby Ibarra
+LOCATION:UMass Fine Arts Center
+DESCRIPTION:Bowker Auditorium\nExtraordinary Filipino American rapper Ruby 
+ Ibarra hits UMass with a band that includes pioneering guitarist (and west
+ ern Massachusetts resident) June Millington!\nhttps://arts.umass.edu/perfo
+ rming-arts/events/2026-2027/ruby-ibarra\nFrom Pushpin Western Mass: https:
+ //pushpin.city/westernma/
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/ruby-ibarra
+END:VEVENT
+BEGIN:VEVENT
+UID:1f9bbbe90c36c1fbd88771d626fbd07bed607c0b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261108T200000Z
+DTEND:20261108T220000Z
+SUMMARY:Sugar Skull! A Día de Muertos Musical Adventure!
+LOCATION:UMass Fine Arts Center
+DESCRIPTION:Bowker Auditorium\nFamily matinee! Sugar Skull! A Día de Muert
+ os Musical Adventure! is a bilingual/bicultural musical for young audience
+ s and families featuring traditional music and dance from Mexico.\nhttps:/
+ /arts.umass.edu/performing-arts/events/2026-2027/sugar-skull\nFrom Pushpin
+  Western Mass: https://pushpin.city/westernma/
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/sugar-skull
+END:VEVENT
+BEGIN:VEVENT
+UID:953b1da66a8458ca0b138fc8719b181f9ca323cd@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261111T010000Z
+DTEND:20261111T030000Z
+SUMMARY:Maryna Krut
+LOCATION:UMass Fine Arts Center
+DESCRIPTION:The Iron Horse\nSinger-songwriter Maryna Krut pairs her etherea
+ l voice with virtuoso command of the sixty-five-string bandura\, the natio
+ nal instrument of her native Ukraine.\nhttps://arts.umass.edu/performing-a
+ rts/events/2026-2027/maryna-krut\nFrom Pushpin Western Mass: https://pushp
+ in.city/westernma/
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/maryna-krut
+END:VEVENT
+END:VCALENDAR

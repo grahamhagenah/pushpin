@@ -1,0 +1,599 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Bay Area//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Bay Area · The Chapel
+X-WR-CALDESC:What’s coming up at The Chapel\, from Pushpin Bay Area.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:5657342cd1f75cc97e41c2db29b3b88fb0a8d72d@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T040000Z
+DTEND:20260919T060000Z
+SUMMARY:Shawn James
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Gravedancer\nDoors 8pm\nhttps://wl.seetickets.us/event/sha
+ wn-james/696157?afflky=TheChapel\nFrom Pushpin Bay Area: https://pushpin.c
+ ity/bayarea/
+URL:https://wl.seetickets.us/event/shawn-james/696157?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:d81b6f0a0eb367112475d397ac9482b06b5a0f41@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T040000Z
+DTEND:20260920T060000Z
+SUMMARY:Geneva Jacuzzi
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Ex-Heir\, Diesel Dudes\, Nick Moss (DJ Set)\nDoors 8pm\nht
+ tps://wl.seetickets.us/event/geneva-jacuzzi/701181?afflky=TheChapel\nFrom 
+ Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/geneva-jacuzzi/701181?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:c6363cae2172c50c468d9709c5d14364cf90bc98@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T210000Z
+DTEND:20260920T230000Z
+SUMMARY:LOVE SUPREME Summer Day Party Series
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 2pm\nhttps://wl.seetickets.us/event/LOVE-SUPREME-Summer-D
+ ay-Party-Series/697838?afflky=TheChapel\nFrom Pushpin Bay Area: https://pu
+ shpin.city/bayarea/
+URL:https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697
+ 838?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:35670271d8f354290d028f565044beafd3a270ac@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260922T030000Z
+DTEND:20260922T050000Z
+SUMMARY:MOVED TO THE 4 STAR THEATER: Marlon Magnée (of La Femme)
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Future Twin\nDoors 7pm\nhttps://wl.seetickets.us/event/mov
+ ed-to-the-4-star-theater-marlon-magnee-of-la-femme/670503?afflky=TheChapel
+ \nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/moved-to-the-4-star-theater-marlon-magne
+ e-of-la-femme/670503?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:8b71feedddd3664ae4ba9f4a774e76760df4e721@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260923T030000Z
+DTEND:20260923T050000Z
+SUMMARY:Temples: The BLISS Tour
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Poppy Jean Crawford\, Visuals by Zach Rodell\nDoors 7pm\nh
+ ttps://wl.seetickets.us/event/temples-the-bliss-tour/687358?afflky=TheChap
+ el\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/temples-the-bliss-tour/687358?afflky=The
+ Chapel
+END:VEVENT
+BEGIN:VEVENT
+UID:ee602e5de3e5951f4345c26d7949c5164c97d1d7@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260924T030000Z
+DTEND:20260924T050000Z
+SUMMARY:Temples: The BLISS Tour
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Poppy Jean Crawford\, Visuals by Zach Rodell\nDoors 7pm\nh
+ ttps://wl.seetickets.us/event/temples-the-bliss-tour/687377?afflky=TheChap
+ el\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/temples-the-bliss-tour/687377?afflky=The
+ Chapel
+END:VEVENT
+BEGIN:VEVENT
+UID:49e7c76bb3f40d7fd8c9175a3c7970d742db115b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260925T030000Z
+DTEND:20260925T050000Z
+SUMMARY:Femmes\, Thems\, And Friends: A Folsom Kickoff Party
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with The Furious Tits\, 37 Houses\, Black Gold Sun\nDoors 7pm\n
+ https://wl.seetickets.us/event/femmes-thems-and-friends-a-folsom-kickoff-p
+ arty/702095?afflky=TheChapel\nFrom Pushpin Bay Area: https://pushpin.city/
+ bayarea/
+URL:https://wl.seetickets.us/event/femmes-thems-and-friends-a-folsom-kickof
+ f-party/702095?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:e5bb5fa3e723357caf9aa02ec5754534303d1878@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260926T040000Z
+DTEND:20260926T060000Z
+SUMMARY:Rose City Band
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Rain Parade\, Light Fantastic\, Visuals by Zachary Rodell\
+ nDoors 8pm\nhttps://wl.seetickets.us/event/rose-city-band/699837?afflky=Th
+ eChapel\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/rose-city-band/699837?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:7ca918c9d2b9ed2c7e1fd0e30d3914b12c72e708@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260927T040000Z
+DTEND:20260927T060000Z
+SUMMARY:Rose City Band
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Møtrik\, Jas Stade\, Visuals by Zachary Rodell\nDoors 8pm
+ \nhttps://wl.seetickets.us/event/rose-city-band/699842?afflky=TheChapel\nF
+ rom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/rose-city-band/699842?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:2f79f1497999149ab96afd92a78a8ef9be29e09d@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260928T020000Z
+DTEND:20260928T040000Z
+SUMMARY:Dollygrass\, A Tribute ft. Godman\, Tucker\, Lewis & Gates
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Liz Lewis & Crying Uncle\, The Jimmy Touzel Bluegrass Expl
+ osion\nDoors 6pm\nhttps://wl.seetickets.us/event/dollygrass-a-tribute-ft-g
+ odman-tucker-lewis-and-gates/705521?afflky=TheChapel\nFrom Pushpin Bay Are
+ a: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/dollygrass-a-tribute-ft-godman-tucker-le
+ wis-and-gates/705521?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:4b0ec298531d394c24b3677d2aebfb6ce1a2bc02@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260930T030000Z
+DTEND:20260930T050000Z
+SUMMARY:CANCELED: Sophie Truax
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Sasha Cee\nDoors 7pm\nhttps://wl.seetickets.us/event/cance
+ led-sophie-truax/697003?afflky=TheChapel\nFrom Pushpin Bay Area: https://p
+ ushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/canceled-sophie-truax/697003?afflky=TheC
+ hapel
+END:VEVENT
+BEGIN:VEVENT
+UID:43016dea4b0327b5f533c876d00055942699bb86@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261001T030000Z
+DTEND:20261001T050000Z
+SUMMARY:FAILURE: Rising Skyline 2026
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with quannnic\nDoors 7pm\nhttps://wl.seetickets.us/event/failur
+ e-rising-skyline-2026/688890?afflky=TheChapel\nFrom Pushpin Bay Area: http
+ s://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/failure-rising-skyline-2026/688890?afflk
+ y=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:b1ca83ad89d7b9bd8ceeb4afed06e1a41ad147a7@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261002T030000Z
+DTEND:20261002T050000Z
+SUMMARY:Soda Blonde
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Marika Christine\nDoors 7pm\nhttps://wl.seetickets.us/even
+ t/soda-blonde/681807?afflky=TheChapel\nFrom Pushpin Bay Area: https://push
+ pin.city/bayarea/
+URL:https://wl.seetickets.us/event/soda-blonde/681807?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:18ca705c5d8268b7bab12572701ccfaf211aa56f@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261003T040000Z
+DTEND:20261003T060000Z
+SUMMARY:Lyrics Born
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 8pm\nhttps://wl.seetickets.us/event/lyrics-born/698388?af
+ flky=TheChapel\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/lyrics-born/698388?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:ec39a45788b4ce45433b529c1a7436561a5256a6@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261005T030000Z
+DTEND:20261005T050000Z
+SUMMARY:Rum Jungle
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Trestles\nDoors 7pm\nhttps://wl.seetickets.us/event/rum-ju
+ ngle/689221?afflky=TheChapel\nFrom Pushpin Bay Area: https://pushpin.city/
+ bayarea/
+URL:https://wl.seetickets.us/event/rum-jungle/689221?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:89f335c0ac3ee8e8be8c058d6b280feeabfbc737@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261007T030000Z
+DTEND:20261007T050000Z
+SUMMARY:Lilyisthatyou
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with James the Seventh\nDoors 7pm\nhttps://wl.seetickets.us/eve
+ nt/lilyisthatyou/689080?afflky=TheChapel\nFrom Pushpin Bay Area: https://p
+ ushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/lilyisthatyou/689080?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:44bf64fbcd3944dd3838eed83abf07a7c080cc1b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261008T030000Z
+DTEND:20261008T050000Z
+SUMMARY:An Evening With Lloyd Cole (Solo Electric)
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 7pm\nhttps://wl.seetickets.us/event/an-evening-with-lloyd
+ -cole-solo-electric/687528?afflky=TheChapel\nFrom Pushpin Bay Area: https:
+ //pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/an-evening-with-lloyd-cole-solo-electric
+ /687528?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:f9f901409dece3cb68448ab7d857bc2c2a6428a7@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261009T030000Z
+DTEND:20261009T050000Z
+SUMMARY:Y La Bamba - 10 Years of Ojos Del Sol
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 7pm\nhttps://wl.seetickets.us/event/y-la-bamba-10-years-o
+ f-ojos-del-sol/703013?afflky=TheChapel\nFrom Pushpin Bay Area: https://pus
+ hpin.city/bayarea/
+URL:https://wl.seetickets.us/event/y-la-bamba-10-years-of-ojos-del-sol/7030
+ 13?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:0ad6641832edff8f8142b80ecf3a484f3b048d2a@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261010T040000Z
+DTEND:20261010T060000Z
+SUMMARY:Cobweb Cabaret
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 8pm\nhttps://wl.seetickets.us/event/Cobweb-Cabaret/703371
+ ?afflky=TheChapel\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/Cobweb-Cabaret/703371?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:0bb58f66469a91c6256c5c7867f5d926040549c1@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261012T030000Z
+DTEND:20261012T050000Z
+SUMMARY:Derya Yildirim & Grup Şimşek\, Thee Marloes
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 7pm\nhttps://wl.seetickets.us/event/derya-yildirim-and-gr
+ up-simsek-thee-marloes/702768?afflky=TheChapel\nFrom Pushpin Bay Area: htt
+ ps://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/derya-yildirim-and-grup-simsek-thee-marl
+ oes/702768?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:8d88c99b2bec32bfd9a3170cd329596c2699a0cc@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261014T020000Z
+DTEND:20261014T040000Z
+SUMMARY:Militarie Gun
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Softcult\, Shady Nasty\, Dazy\nDoors 6pm\nhttps://wl.seeti
+ ckets.us/event/militarie-gun/693468?afflky=TheChapel\nFrom Pushpin Bay Are
+ a: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/militarie-gun/693468?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:1dfd45a1f12a090a845f85395a226540039b8ee4@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261015T023000Z
+DTEND:20261015T043000Z
+SUMMARY:Dummy
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Golomb\, figure eight\, sachi's mirror\nDoors 7pm\nhttps:/
+ /wl.seetickets.us/event/dummy/700215?afflky=TheChapel\nFrom Pushpin Bay Ar
+ ea: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/dummy/700215?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:ac1930cb07d8c8c123d8b81781ca7c43fd0b2013@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261016T030000Z
+DTEND:20261016T050000Z
+SUMMARY:Hot Flash Heat Wave
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Carpool Tunnel\, Starzdust\nDoors 7pm\nhttps://wl.seeticke
+ ts.us/event/hot-flash-heat-wave/693459?afflky=TheChapel\nFrom Pushpin Bay 
+ Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/hot-flash-heat-wave/693459?afflky=TheCha
+ pel
+END:VEVENT
+BEGIN:VEVENT
+UID:d698aed1066f78be8dd690f5503a4a6603aad8b6@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261017T040000Z
+DTEND:20261017T060000Z
+SUMMARY:Amélie Farren\, Lilith Max\, Rabbitology
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 8pm\nhttps://wl.seetickets.us/event/amelie-farren-lilith-
+ max-rabbitology/695956?afflky=TheChapel\nFrom Pushpin Bay Area: https://pu
+ shpin.city/bayarea/
+URL:https://wl.seetickets.us/event/amelie-farren-lilith-max-rabbitology/695
+ 956?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:380e51ae04dc8d56da99f66371b8d2550ef2a7ff@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T210000Z
+DTEND:20261018T230000Z
+SUMMARY:LOVE SUPREME Summer Day Party Series
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 2pm\nhttps://wl.seetickets.us/event/LOVE-SUPREME-Summer-D
+ ay-Party-Series/697839?afflky=TheChapel\nFrom Pushpin Bay Area: https://pu
+ shpin.city/bayarea/
+URL:https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697
+ 839?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:d47891dc23e0968a93656d29bfb50ac17087bee5@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261020T030000Z
+DTEND:20261020T050000Z
+SUMMARY:Hovvdy
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Emma Ogier\nDoors 7pm\nhttps://wl.seetickets.us/event/hovv
+ dy/691044?afflky=TheChapel\nFrom Pushpin Bay Area: https://pushpin.city/ba
+ yarea/
+URL:https://wl.seetickets.us/event/hovvdy/691044?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:0bfa8f95ad8b3b53b10ddb3869e72500d0e55cff@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261021T030000Z
+DTEND:20261021T050000Z
+SUMMARY:The Devil Makes Three
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Two Runner\nDoors 7pm\nhttps://wl.seetickets.us/event/the-
+ devil-makes-three/693372?afflky=TheChapel\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/the-devil-makes-three/693372?afflky=TheC
+ hapel
+END:VEVENT
+BEGIN:VEVENT
+UID:8c2aedc5fa98c50b6504868a61d88e6282fb7ec4@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261022T030000Z
+DTEND:20261022T050000Z
+SUMMARY:The Devil Makes Three
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Two Runner\nDoors 7pm\nhttps://wl.seetickets.us/event/the-
+ devil-makes-three/693375?afflky=TheChapel\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/the-devil-makes-three/693375?afflky=TheC
+ hapel
+END:VEVENT
+BEGIN:VEVENT
+UID:fa44ec3116553e9262deb16903ade64c97d6542e@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261023T030000Z
+DTEND:20261023T050000Z
+SUMMARY:Justin Nozuka
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 7pm\nhttps://wl.seetickets.us/event/justin-nozuka/691473?
+ afflky=TheChapel\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/justin-nozuka/691473?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:099a5326131b56b00be0b458b5a8ebb51909d33d@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261024T030000Z
+DTEND:20261024T050000Z
+SUMMARY:Haunted Riot with Frightwig
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 7pm\nhttps://www.tixr.com/groups/kqed/events/haunted-riot
+ -with-frightwig-an-alt-punk-show-204363\nFrom Pushpin Bay Area: https://pu
+ shpin.city/bayarea/
+URL:https://www.tixr.com/groups/kqed/events/haunted-riot-with-frightwig-an-
+ alt-punk-show-204363
+END:VEVENT
+BEGIN:VEVENT
+UID:3139534d964144910b56a07945aeabb7bee09c87@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261025T040000Z
+DTEND:20261025T060000Z
+SUMMARY:Weatherday: Hornet Disaster Tour 2026
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Founders Day\, Hit me\, Harold\nDoors 8pm\nhttps://wl.seet
+ ickets.us/event/weatherday-hornet-disaster-tour-2026/687518?afflky=TheChap
+ el\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/weatherday-hornet-disaster-tour-2026/687
+ 518?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:782915a3ef244dc93aa7923d0b162f650505bf21@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261027T030000Z
+DTEND:20261027T050000Z
+SUMMARY:The War And Treaty
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 7pm\nhttps://wl.seetickets.us/event/the-war-and-treaty/69
+ 4221?afflky=TheChapel\nFrom Pushpin Bay Area: https://pushpin.city/bayarea
+ /
+URL:https://wl.seetickets.us/event/the-war-and-treaty/694221?afflky=TheChap
+ el
+END:VEVENT
+BEGIN:VEVENT
+UID:a75a2cff7730c57bc76d0932320021dd7907aec3@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261029T030000Z
+DTEND:20261029T050000Z
+SUMMARY:Theo Katzman (Solo)
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 7pm\nhttps://wl.seetickets.us/event/theo-katzman-solo/690
+ 498?afflky=TheChapel\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/theo-katzman-solo/690498?afflky=TheChape
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:b74e4baa5ad5993edff94c8c87cf120ccedd9e1b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261030T030000Z
+DTEND:20261030T050000Z
+SUMMARY:Katie Pruitt
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Olivia Barton\nDoors 7pm\nhttps://wl.seetickets.us/event/k
+ atie-pruitt/695190?afflky=TheChapel\nFrom Pushpin Bay Area: https://pushpi
+ n.city/bayarea/
+URL:https://wl.seetickets.us/event/katie-pruitt/695190?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:721da4578177292c2a147acf39b74c6efd2b206b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261031T033000Z
+DTEND:20261031T053000Z
+SUMMARY:A Night of the Living Dead
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Lebo\, Holly Bowling\, Wally Ingram\, Elliott Peck\, Danny
+  Luehring\, Steve Adams\nDoors 7:30pm\nhttps://wl.seetickets.us/event/a-ni
+ ght-of-the-living-dead/705528?afflky=TheChapel\nFrom Pushpin Bay Area: htt
+ ps://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/a-night-of-the-living-dead/705528?afflky
+ =TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:ea34f12129e09958e1b1d3576d9844937e6c54bb@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261101T040000Z
+DTEND:20261101T060000Z
+SUMMARY:The Paul Simon Halloween Ball Performed by Bone Diggers
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Reed Mathis\, Lebo\, Holly Bowling\, Scott Rager\nDoors 8p
+ m\nhttps://wl.seetickets.us/event/the-paul-simon-halloween-ball-performed-
+ by-bone-diggers/705531?afflky=TheChapel\nFrom Pushpin Bay Area: https://pu
+ shpin.city/bayarea/
+URL:https://wl.seetickets.us/event/the-paul-simon-halloween-ball-performed-
+ by-bone-diggers/705531?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:0b9bf07459f603a2f087eaf9fcc767ede2848ac7@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261101T230000Z
+DTEND:20261102T010000Z
+SUMMARY:ChapelMania
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 2pm\nhttps://wl.seetickets.us/event/chapelmania/705677?af
+ flky=TheChapel\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/chapelmania/705677?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:e8ac67de80d73692cac82458d3fb27ad9d0c3084@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261106T040000Z
+DTEND:20261106T060000Z
+SUMMARY:Squirrel Flower
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Sour Widows\nDoors 7pm\nhttps://wl.seetickets.us/event/squ
+ irrel-flower/691286?afflky=TheChapel\nFrom Pushpin Bay Area: https://pushp
+ in.city/bayarea/
+URL:https://wl.seetickets.us/event/squirrel-flower/691286?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:8f81b80d435d7d76117df05a815a04d2a075f71f@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261107T050000Z
+DTEND:20261107T070000Z
+SUMMARY:An Evening With Legend Zeppelin
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 8pm\nhttps://wl.seetickets.us/event/an-evening-with-legen
+ d-zeppelin/699678?afflky=TheChapel\nFrom Pushpin Bay Area: https://pushpin
+ .city/bayarea/
+URL:https://wl.seetickets.us/event/an-evening-with-legend-zeppelin/699678?a
+ fflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:518d90f1881ae7e7523b5f5b949161a262ebe668@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261108T050000Z
+DTEND:20261108T070000Z
+SUMMARY:Alex Cameron
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Josh da Costa\nDoors 8pm\nhttps://wl.seetickets.us/event/a
+ lex-cameron/691429?afflky=TheChapel\nFrom Pushpin Bay Area: https://pushpi
+ n.city/bayarea/
+URL:https://wl.seetickets.us/event/alex-cameron/691429?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:bfa4989ba83f0615773e909e7d12c7841dcb4ece@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261111T040000Z
+DTEND:20261111T060000Z
+SUMMARY:Celebrating 50 Years of Buzzcocks
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Modern English\, Grade 2\nDoors 7pm\nhttps://wl.seetickets
+ .us/event/celebrating-50-years-of-buzzcocks/695312?afflky=TheChapel\nFrom 
+ Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/celebrating-50-years-of-buzzcocks/695312
+ ?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:6886c1753c52fe104cad3a94c925b6b314da8c03@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261112T040000Z
+DTEND:20261112T060000Z
+SUMMARY:Celebrating 50 Years of Buzzcocks
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Modern English\, Grade 2\nDoors 7pm\nhttps://wl.seetickets
+ .us/event/celebrating-50-years-of-buzzcocks/695321?afflky=TheChapel\nFrom 
+ Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/celebrating-50-years-of-buzzcocks/695321
+ ?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:303a75a87181744359243d0b1b900968761c8bd1@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261113T040000Z
+DTEND:20261113T060000Z
+SUMMARY:Marc Broussard
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 7pm\nhttps://wl.seetickets.us/event/marc-broussard/694235
+ ?afflky=TheChapel\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/marc-broussard/694235?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:f9aab63660ee5c388bfa48e1e7d572345c0bab94@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261114T050000Z
+DTEND:20261114T070000Z
+SUMMARY:Other Lives
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 8pm\nhttps://wl.seetickets.us/event/other-lives/691433?af
+ flky=TheChapel\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/other-lives/691433?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:88fb78c7ec80979c0a7fd654b51f99d34aef1cf6@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261115T050000Z
+DTEND:20261115T070000Z
+SUMMARY:The Cactus Blossoms
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Margo Cilker\nDoors 8pm\nhttps://wl.seetickets.us/event/th
+ e-cactus-blossoms/697167?afflky=TheChapel\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/the-cactus-blossoms/697167?afflky=TheCha
+ pel
+END:VEVENT
+BEGIN:VEVENT
+UID:12e4a6189e2b91124224f3742048581870a97b89@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261116T040000Z
+DTEND:20261116T060000Z
+SUMMARY:An Evening With Craig Finn & The Band of Forgiveness
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:Doors 7pm\nhttps://wl.seetickets.us/event/an-evening-with-craig
+ -finn-and-the-band-of-forgiveness/695580?afflky=TheChapel\nFrom Pushpin Ba
+ y Area: https://pushpin.city/bayarea/
+URL:https://wl.seetickets.us/event/an-evening-with-craig-finn-and-the-band-
+ of-forgiveness/695580?afflky=TheChapel
+END:VEVENT
+BEGIN:VEVENT
+UID:c619ca39fae20676c41e425d9cfedf130e7e854d@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261117T040000Z
+DTEND:20261117T060000Z
+SUMMARY:Margaret Glaspy
+LOCATION:The Chapel\, 777 Valencia St\, San Francisco\, CA 94110
+DESCRIPTION:with Anna Tivel\nDoors 7pm\nhttps://wl.seetickets.us/event/marg
+ aret-glaspy/693371?afflky=TheChapel\nFrom Pushpin Bay Area: https://pushpi
+ n.city/bayarea/
+URL:https://wl.seetickets.us/event/margaret-glaspy/693371?afflky=TheChapel
+END:VEVENT
+END:VCALENDAR

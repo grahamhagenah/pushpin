@@ -1,0 +1,891 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Amherst Cinema
+X-WR-CALDESC:What’s coming up at Amherst Cinema\, from Pushpin Western Ma
+ ss.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:65be4b77d1d2273afe79c59f36b401558320db42@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260918T174500Z
+DTEND:20260918T194500Z
+SUMMARY:The Marching Band
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had—a school cafeteria worker who plays trombone in a local m
+ arching band. Detecting his brother's exceptional musical talent\, he take
+ s it upon himself to rectify the injustice of fate.\nhttps://amherstcinema
+ .org/films-and-events/marching-band\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:d4608f2659e887690117cc2f8382a8bbc08770cc@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260918T175500Z
+DTEND:20260918T195500Z
+SUMMARY:The Weight
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:55pm\, 4:35pm\, 7:15pm\, 9:35pm\nWhen Samuel (Ethan Ha
+ wke) is torn from his daughter and sent to a brutal prison\, Warden Clancy
+  (Russell Crowe) offers him a high-stakes proposition: smuggle gold out of
+  a remote mine with a dangerous crew of prisoners and he’ll win his free
+ dom.\nhttps://amherstcinema.org/films-and-events/weight\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:611624175971e91f6621c177c56cd85bfa06eb49@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260918T180500Z
+DTEND:20260918T200500Z
+SUMMARY:Bernstein's Wall
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:05pm\, 7:25pm\nThe legendary maestro Leonard Bernstein
+ —celebrity conductor\, composer\, and political activist—is thrillingl
+ y captured in this archival documentary portrait by Douglas Tirola (DRUNK 
+ STONED BRILLIANT DEAD).\nhttps://amherstcinema.org/films-and-events/bernst
+ eins-wall\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:f14d4128de3e1fbe1203622ff66d15a5bb38e8f2@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260918T202000Z
+DTEND:20260918T222000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:In 1977\, PK\, a 23-year-old Delhi street artist from a poor\, 
+ ‘untouchable’ family\, picked up a handful of paintbrushes and a secon
+ d-hand bicycle and set off on a 6000-mile cross-continent mission—to fin
+ d Lotta\, the woman who had captured his heart.\nhttps://amherstcinema.org
+ /films-and-events/cycle-love\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:01dd8f58047db67f310553a830560b0c238dd060@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260918T204500Z
+DTEND:20260918T224500Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:45pm\, 7pm\, 9:50pm\nAfter years of slapdash sequels a
+ nd waning fandom\, the Camp Miasma slasher franchise is handed over to an 
+ enthusiastic young director for resurrection.\nhttps://amherstcinema.org/f
+ ilms-and-events/camp-miasma\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b43e9f8f47fe5451d49988463d8cd1f80e11df@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T014500Z
+DTEND:20260919T034500Z
+SUMMARY:The Red Spectacles
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nNew 4K restoration.\nhttps://amherstcinema.org/fil
+ ms-and-events/red-spectacles\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/red-spectacles
+END:VEVENT
+BEGIN:VEVENT
+UID:fe4d54b71b4fca6486144657fd8fdc4fd608c38b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T174500Z
+DTEND:20260919T194500Z
+SUMMARY:The Marching Band
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had—a school cafeteria worker who plays trombone in a local m
+ arching band. Detecting his brother's exceptional musical talent\, he take
+ s it upon himself to rectify the injustice of fate.\nhttps://amherstcinema
+ .org/films-and-events/marching-band\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:dc98bc9e0f4bbafad3bb06f0e6e6e5ed8ba8b60a@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T175500Z
+DTEND:20260919T195500Z
+SUMMARY:The Weight
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:55pm\, 4:35pm\, 7:15pm\, 9:35pm\nWhen Samuel (Ethan Ha
+ wke) is torn from his daughter and sent to a brutal prison\, Warden Clancy
+  (Russell Crowe) offers him a high-stakes proposition: smuggle gold out of
+  a remote mine with a dangerous crew of prisoners and he’ll win his free
+ dom.\nhttps://amherstcinema.org/films-and-events/weight\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:9713608ca0bb36d64db90b469d5e0121eb2ce8d9@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T180500Z
+DTEND:20260919T200500Z
+SUMMARY:Bernstein's Wall
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:05pm\, 7:25pm\, 9:45pm\nThe legendary maestro Leonard 
+ Bernstein—celebrity conductor\, composer\, and political activist—is t
+ hrillingly captured in this archival documentary portrait by Douglas Tirol
+ a (DRUNK STONED BRILLIANT DEAD).\nhttps://amherstcinema.org/films-and-even
+ ts/bernsteins-wall\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://amherstcinema.org/films-and-events/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:b47440d32949fc229fb6e76670e8bd533b82a301@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T202000Z
+DTEND:20260919T222000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:In 1977\, PK\, a 23-year-old Delhi street artist from a poor\, 
+ ‘untouchable’ family\, picked up a handful of paintbrushes and a secon
+ d-hand bicycle and set off on a 6000-mile cross-continent mission—to fin
+ d Lotta\, the woman who had captured his heart.\nhttps://amherstcinema.org
+ /films-and-events/cycle-love\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:5b1ff94fdee26d0b0cae6b8b0976caf47f4ffa34@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260919T204500Z
+DTEND:20260919T224500Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:45pm\, 7pm\, 9:50pm\nAfter years of slapdash sequels a
+ nd waning fandom\, the Camp Miasma slasher franchise is handed over to an 
+ enthusiastic young director for resurrection.\nhttps://amherstcinema.org/f
+ ilms-and-events/camp-miasma\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:6d70a430488ccf549c21f1b39ec9b18f4b11c89a@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T151000Z
+DTEND:20260920T171000Z
+SUMMARY:The Weight
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 11:10am\, 1:55pm\, 4:35pm\, 7:15pm\nWhen Samuel (Ethan H
+ awke) is torn from his daughter and sent to a brutal prison\, Warden Clanc
+ y (Russell Crowe) offers him a high-stakes proposition: smuggle gold out o
+ f a remote mine with a dangerous crew of prisoners and he’ll win his fre
+ edom.\nhttps://amherstcinema.org/films-and-events/weight\nFrom Pushpin Wes
+ tern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:928ef2db9fe4681176488bd35a18afa50fea6e6b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T152000Z
+DTEND:20260920T172000Z
+SUMMARY:Bernstein's Wall
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 11:20am\, 2:05pm\, 7:25pm\nThe legendary maestro Leonard
+  Bernstein—celebrity conductor\, composer\, and political activist—is 
+ thrillingly captured in this archival documentary portrait by Douglas Tiro
+ la (DRUNK STONED BRILLIANT DEAD).\nhttps://amherstcinema.org/films-and-eve
+ nts/bernsteins-wall\nFrom Pushpin Western Mass: https://pushpin.city/weste
+ rnma/
+URL:https://amherstcinema.org/films-and-events/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:8bcf2dc81849a506f8d780933ce3bf4417182d7f@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T153000Z
+DTEND:20260920T173000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 11:30am\, 4:20pm\nIn 1977\, PK\, a 23-year-old Delhi str
+ eet artist from a poor\, ‘untouchable’ family\, picked up a handful of
+  paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-c
+ ontinent mission—to find Lotta\, the woman who had captured his heart.\n
+ https://amherstcinema.org/films-and-events/cycle-love\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:532c72f19349adb114c666c2e0b3e1e7ffcd4a2b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T174500Z
+DTEND:20260920T194500Z
+SUMMARY:The Marching Band
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had—a school cafeteria worker who plays trombone in a local m
+ arching band. Detecting his brother's exceptional musical talent\, he take
+ s it upon himself to rectify the injustice of fate.\nhttps://amherstcinema
+ .org/films-and-events/marching-band\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:d217de321497a83719c3a027dbc2ae467e446124@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T204500Z
+DTEND:20260920T224500Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:After years of slapdash sequels and waning fandom\, the Camp Mi
+ asma slasher franchise is handed over to an enthusiastic young director fo
+ r resurrection.\nhttps://amherstcinema.org/films-and-events/camp-miasma\nF
+ rom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:771d5c38aebf1c88bf57349adc4d921e1c7a4d33@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260920T233000Z
+DTEND:20260921T013000Z
+SUMMARY:The Room with Greg Sestero
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Join us for a screening of hit cult classic THE ROOM\, featurin
+ g a pre-film meet and greet and a post-screening Q&A with Greg Sestero.\nh
+ ttps://amherstcinema.org/films-and-events/room-greg-sestero\nFrom Pushpin 
+ Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/room-greg-sestero
+END:VEVENT
+BEGIN:VEVENT
+UID:bedf2b054bf1e71f56f621f172bb63c32c2abb0c@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260921T174500Z
+DTEND:20260921T194500Z
+SUMMARY:The Marching Band
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had—a school cafeteria worker who plays trombone in a local m
+ arching band. Detecting his brother's exceptional musical talent\, he take
+ s it upon himself to rectify the injustice of fate.\nhttps://amherstcinema
+ .org/films-and-events/marching-band\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:0f13bdeab2937bf9dc2c93ec06c25430cc87397d@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260921T175500Z
+DTEND:20260921T195500Z
+SUMMARY:The Weight
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:55pm\, 4:35pm\, 7:15pm\, 9:35pm\nWhen Samuel (Ethan Ha
+ wke) is torn from his daughter and sent to a brutal prison\, Warden Clancy
+  (Russell Crowe) offers him a high-stakes proposition: smuggle gold out of
+  a remote mine with a dangerous crew of prisoners and he’ll win his free
+ dom.\nhttps://amherstcinema.org/films-and-events/weight\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:4986848191e63ba5e7cc5adc4ebac95772c58965@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260921T180500Z
+DTEND:20260921T200500Z
+SUMMARY:Bernstein's Wall
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:05pm\, 7:25pm\, 9:45pm\nThe legendary maestro Leonard 
+ Bernstein—celebrity conductor\, composer\, and political activist—is t
+ hrillingly captured in this archival documentary portrait by Douglas Tirol
+ a (DRUNK STONED BRILLIANT DEAD).\nhttps://amherstcinema.org/films-and-even
+ ts/bernsteins-wall\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://amherstcinema.org/films-and-events/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:5a371918cd2c5485915df2648873c9ba29bb9c15@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260921T202000Z
+DTEND:20260921T222000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:In 1977\, PK\, a 23-year-old Delhi street artist from a poor\, 
+ ‘untouchable’ family\, picked up a handful of paintbrushes and a secon
+ d-hand bicycle and set off on a 6000-mile cross-continent mission—to fin
+ d Lotta\, the woman who had captured his heart.\nhttps://amherstcinema.org
+ /films-and-events/cycle-love\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:670c8bbca319d7e8b34c5a197656265886b0a39f@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260921T204500Z
+DTEND:20260921T224500Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:45pm\, 7pm\, 9:50pm\nAfter years of slapdash sequels a
+ nd waning fandom\, the Camp Miasma slasher franchise is handed over to an 
+ enthusiastic young director for resurrection.\nhttps://amherstcinema.org/f
+ ilms-and-events/camp-miasma\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:d3ab9c6e41ab0e8991d79c411bac344ad8a980f0@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260922T174500Z
+DTEND:20260922T194500Z
+SUMMARY:The Marching Band
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had—a school cafeteria worker who plays trombone in a local m
+ arching band. Detecting his brother's exceptional musical talent\, he take
+ s it upon himself to rectify the injustice of fate.\nhttps://amherstcinema
+ .org/films-and-events/marching-band\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:365e97024a9205096acc136df9f1f261939dcdfe@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260922T175500Z
+DTEND:20260922T195500Z
+SUMMARY:The Weight
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:55pm\, 4:35pm\, 7:15pm\, 9:35pm\nWhen Samuel (Ethan Ha
+ wke) is torn from his daughter and sent to a brutal prison\, Warden Clancy
+  (Russell Crowe) offers him a high-stakes proposition: smuggle gold out of
+  a remote mine with a dangerous crew of prisoners and he’ll win his free
+ dom.\nhttps://amherstcinema.org/films-and-events/weight\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:b6e34d723161c121074a2b520d573223e69e4d5b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260922T180500Z
+DTEND:20260922T200500Z
+SUMMARY:Bernstein's Wall
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:05pm\, 7:25pm\, 9:45pm\nThe legendary maestro Leonard 
+ Bernstein—celebrity conductor\, composer\, and political activist—is t
+ hrillingly captured in this archival documentary portrait by Douglas Tirol
+ a (DRUNK STONED BRILLIANT DEAD).\nhttps://amherstcinema.org/films-and-even
+ ts/bernsteins-wall\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://amherstcinema.org/films-and-events/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:2677b2ac11db69267c9cbf65f3787b575cea6baf@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260922T202000Z
+DTEND:20260922T222000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:In 1977\, PK\, a 23-year-old Delhi street artist from a poor\, 
+ ‘untouchable’ family\, picked up a handful of paintbrushes and a secon
+ d-hand bicycle and set off on a 6000-mile cross-continent mission—to fin
+ d Lotta\, the woman who had captured his heart.\nhttps://amherstcinema.org
+ /films-and-events/cycle-love\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:a24e6f325b52167799f72154128db76570695df7@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260922T204500Z
+DTEND:20260922T224500Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:45pm\, 9:50pm\nAfter years of slapdash sequels and wan
+ ing fandom\, the Camp Miasma slasher franchise is handed over to an enthus
+ iastic young director for resurrection.\nhttps://amherstcinema.org/films-a
+ nd-events/camp-miasma\nFrom Pushpin Western Mass: https://pushpin.city/wes
+ ternma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:e774113a4a5a7849a2a837b844aaf15b55ecf5bb@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260922T230000Z
+DTEND:20260923T010000Z
+SUMMARY:CatVideoFest 2026
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Oscilloscope Laboratories presents CatVideoFest 2026\, a compil
+ ation of the latest and best cat videos culled from countless hours of uni
+ que submissions and sourced animations\, music videos\, and classic intern
+ et powerhouses.\nhttps://amherstcinema.org/films-and-events/catvideofest-2
+ 026\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/catvideofest-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:5ba6e0b55f02cf6f66fcce8741213e552cb493da@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260923T202000Z
+DTEND:20260923T222000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:In 1977\, PK\, a 23-year-old Delhi street artist from a poor\, 
+ ‘untouchable’ family\, picked up a handful of paintbrushes and a secon
+ d-hand bicycle and set off on a 6000-mile cross-continent mission—to fin
+ d Lotta\, the woman who had captured his heart.\nhttps://amherstcinema.org
+ /films-and-events/cycle-love\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:002a1831afa2bdd685f89b1e13929a5e2ad55704@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260923T203500Z
+DTEND:20260923T223500Z
+SUMMARY:The Weight
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:35pm\, 7:15pm\nWhen Samuel (Ethan Hawke) is torn from 
+ his daughter and sent to a brutal prison\, Warden Clancy (Russell Crowe) o
+ ffers him a high-stakes proposition: smuggle gold out of a remote mine wit
+ h a dangerous crew of prisoners and he’ll win his freedom.\nhttps://amhe
+ rstcinema.org/films-and-events/weight\nFrom Pushpin Western Mass: https://
+ pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:4a1edd4176346599057bf80ba67a92c404e4d312@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260923T204500Z
+DTEND:20260923T224500Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:45pm\, 7pm\nAfter years of slapdash sequels and waning
+  fandom\, the Camp Miasma slasher franchise is handed over to an enthusias
+ tic young director for resurrection.\nhttps://amherstcinema.org/films-and-
+ events/camp-miasma\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:b13420fc59c58816c1cc5d29cd14ba5554bc863c@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260923T232500Z
+DTEND:20260924T012500Z
+SUMMARY:Bernstein's Wall
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:The legendary maestro Leonard Bernstein—celebrity conductor\,
+  composer\, and political activist—is thrillingly captured in this archi
+ val documentary portrait by Douglas Tirola (DRUNK STONED BRILLIANT DEAD).\
+ nhttps://amherstcinema.org/films-and-events/bernsteins-wall\nFrom Pushpin 
+ Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:53632ab58b09365ab5e14a444df0bac5d7f312f9@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260924T174500Z
+DTEND:20260924T194500Z
+SUMMARY:The Marching Band
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:A world-famous orchestra conductor discovers the brother he nev
+ er knew he had—a school cafeteria worker who plays trombone in a local m
+ arching band. Detecting his brother's exceptional musical talent\, he take
+ s it upon himself to rectify the injustice of fate.\nhttps://amherstcinema
+ .org/films-and-events/marching-band\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/marching-band
+END:VEVENT
+BEGIN:VEVENT
+UID:58794c3f53a700bd4f46f2bc236cac6d2f789238@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260924T175500Z
+DTEND:20260924T195500Z
+SUMMARY:The Weight
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:55pm\, 4:35pm\, 7:15pm\, 9:45pm\nWhen Samuel (Ethan Ha
+ wke) is torn from his daughter and sent to a brutal prison\, Warden Clancy
+  (Russell Crowe) offers him a high-stakes proposition: smuggle gold out of
+  a remote mine with a dangerous crew of prisoners and he’ll win his free
+ dom.\nhttps://amherstcinema.org/films-and-events/weight\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:e633164cf13338d9c2898fbab6ea212004a1e441@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260924T180500Z
+DTEND:20260924T200500Z
+SUMMARY:Bernstein's Wall
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:05pm\, 7:25pm\nThe legendary maestro Leonard Bernstein
+ —celebrity conductor\, composer\, and political activist—is thrillingl
+ y captured in this archival documentary portrait by Douglas Tirola (DRUNK 
+ STONED BRILLIANT DEAD).\nhttps://amherstcinema.org/films-and-events/bernst
+ eins-wall\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/bernsteins-wall
+END:VEVENT
+BEGIN:VEVENT
+UID:e997aa30c658eb94ac1841f6fc14679343ca7209@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260924T202000Z
+DTEND:20260924T222000Z
+SUMMARY:The Cycle of Love
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:In 1977\, PK\, a 23-year-old Delhi street artist from a poor\, 
+ ‘untouchable’ family\, picked up a handful of paintbrushes and a secon
+ d-hand bicycle and set off on a 6000-mile cross-continent mission—to fin
+ d Lotta\, the woman who had captured his heart.\nhttps://amherstcinema.org
+ /films-and-events/cycle-love\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/cycle-love
+END:VEVENT
+BEGIN:VEVENT
+UID:f1e65ac6b7a285f58be128ef566fd81622880531@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260924T204500Z
+DTEND:20260924T224500Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:45pm\, 9:50pm\nAfter years of slapdash sequels and wan
+ ing fandom\, the Camp Miasma slasher franchise is handed over to an enthus
+ iastic young director for resurrection.\nhttps://amherstcinema.org/films-a
+ nd-events/camp-miasma\nFrom Pushpin Western Mass: https://pushpin.city/wes
+ ternma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:e00d81c8b5f36cb7c12184cb5de1911ec8d5f81e@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260924T230000Z
+DTEND:20260925T010000Z
+SUMMARY:NT Live: The Misanthrope
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:National Theatre Live\nGolden Globe winner Sandra Oh (Killing E
+ ve\, Grey's Anatomy) plays the title role in this razor-sharp reimagining 
+ of Molière’s classic dark comedy.\nhttps://amherstcinema.org/films-and-
+ events/nt-live-misanthrope\nFrom Pushpin Western Mass: https://pushpin.cit
+ y/westernma/
+URL:https://amherstcinema.org/films-and-events/nt-live-misanthrope
+END:VEVENT
+BEGIN:VEVENT
+UID:2c3c091cc82c2f42604eda592df1362c3151c32b@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Ha-Chan\, Shake Your Booty!
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Opens Friday 9/25.\nhttps://amherstcinema.org/films-and-events/
+ ha-chan-shake-your-booty\nFrom Pushpin Western Mass: https://pushpin.city/
+ westernma/
+URL:https://amherstcinema.org/films-and-events/ha-chan-shake-your-booty
+END:VEVENT
+BEGIN:VEVENT
+UID:c5d2aebe26c676a9800c4c4684115a913a53cf61@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260926T014500Z
+DTEND:20260926T034500Z
+SUMMARY:We're All Going to the World's Fair
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nLate on a cold night somewhere in the US\, teenage
+  Casey sits alone in her attic bedroom\, scrolling the Internet under the 
+ glow-in-the-dark stars and black-light posters that blanket the ceiling. S
+ he has finally decided to take the World’s Fair Challenge\, an online ro
+ le-playing horror game\, and embrace the uncertainty it promises. After th
+ e initiation\, she documents the changes that may or may not be happening 
+ to her\, adding her experiences to the shuffle of online clips available f
+ or the world to see.\nhttps://amherstcinema.org/films-and-events/were-all-
+ going-worlds-fair\nFrom Pushpin Western Mass: https://pushpin.city/western
+ ma/
+URL:https://amherstcinema.org/films-and-events/were-all-going-worlds-fair
+END:VEVENT
+BEGIN:VEVENT
+UID:a36a9156db9588dbfb0f8703af87c33fa84778fe@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260926T173000Z
+DTEND:20260926T193000Z
+SUMMARY:James McNeill Whistler
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Exhibition On Screen\nIn an era of great change and great beaut
+ y emerged the character of James McNeill Whistler. Considered by some to b
+ e one of the great innovators of 19th century art\, he was a contemporary 
+ of the Impressionists\, much admired by Van Gogh and Manet. Boldly experim
+ ental and famously witty\, Whistler disrupted the strict conventions of Vi
+ ctorian society in pursuit of a new cult of beauty\, creating “art for a
+ rt’s sake” and earning himself a place in the history of great art. He
+  found a parallel between painting and music\, and entitled many of his pa
+ intings “arrangements\,” “harmonies\,” and “nocturnes\,” empha
+ sizing the importance of tonal harmony in his work.\nhttps://amherstcinema
+ .org/films-and-events/whistler\nFrom Pushpin Western Mass: https://pushpin
+ .city/westernma/
+URL:https://amherstcinema.org/films-and-events/whistler
+END:VEVENT
+BEGIN:VEVENT
+UID:2ac8d365f24ac95cc85db58f262085d5c88a4946@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260927T173000Z
+DTEND:20260927T193000Z
+SUMMARY:I Shot Andy Warhol
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Restorations & Rediscoveries\nNew 4K restoration.\nhttps://amhe
+ rstcinema.org/films-and-events/i-shot-andy-warhol\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/i-shot-andy-warhol
+END:VEVENT
+BEGIN:VEVENT
+UID:263f27585e5c4f6c887c84eb9011fc4de3f76b9e@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260928T210000Z
+DTEND:20260928T230000Z
+SUMMARY:I Love Boosters with Boots Riley
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 5pm\, 8:45pm\nCommunity Nights\nPlease note: Presales fo
+ r both screenings are now sold out. Additional tickets will be released th
+ e day of the show\, available only in person at the Amherst Cinema Box off
+ ice\, which will open at 12pm.\nhttps://amherstcinema.org/films-and-events
+ /i-love-boosters\nFrom Pushpin Western Mass: https://pushpin.city/westernm
+ a/
+URL:https://amherstcinema.org/films-and-events/i-love-boosters
+END:VEVENT
+BEGIN:VEVENT
+UID:9ac60082b95e96e0c3da86976dae83a08eaf0244@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20260929T230000Z
+DTEND:20260930T010000Z
+SUMMARY:I Shot Andy Warhol
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Restorations & Rediscoveries\nNew 4K restoration.\nhttps://amhe
+ rstcinema.org/films-and-events/i-shot-andy-warhol\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/i-shot-andy-warhol
+END:VEVENT
+BEGIN:VEVENT
+UID:e88a74947dcab1768dea00d9703f321f13f95c76@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:The History of Concrete
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Opening Friday 10/2.\nhttps://amherstcinema.org/films-and-event
+ s/history-concrete\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://amherstcinema.org/films-and-events/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:938784d8bb939bff3d36a88580905f81177c9519@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261003T014500Z
+DTEND:20261003T034500Z
+SUMMARY:Jennifer's Body
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nPlease note that passes cannot be redeemed for thi
+ s screening.\nhttps://amherstcinema.org/films-and-events/jennifers-body\nF
+ rom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/jennifers-body
+END:VEVENT
+BEGIN:VEVENT
+UID:07d9aaa0c8bab447f5579f2e7e57935b06fd7dfb@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261003T163000Z
+DTEND:20261003T183000Z
+SUMMARY:NT Live: Hamlet (2026)
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:National Theatre Live\nOlivier Award-winner Hiran Abeysekera (L
+ ife of Pi) is Hamlet in this fearless\, contemporary take on Shakespeare
+ ’s famous tragedy.\nhttps://amherstcinema.org/films-and-events/nt-live-h
+ amlet-2026\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/nt-live-hamlet-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:136da9dd1843167dbd1c6dadf3e021e7107a152a@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261005T230000Z
+DTEND:20261006T010000Z
+SUMMARY:Dread Beat An Blood
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Sound and Vision\n“The regal dub poet” (Anderson Tepper\, T
+ he New York Times) Linton Kwesi Johnson (LKJ) is a living legend. Born in 
+ 1952 in Chapelton\, a small town in rural Jamaica\, he moved to Britain as
+  a boy in 1963\, joined the British Black Panthers in 1970\, and became th
+ e voice for British African-Caribbean young people\, creating a genre call
+ ed dub poetry: militant passionate verse about the Black liberation strugg
+ le in Britain set to heavy dub.\nhttps://amherstcinema.org/films-and-event
+ s/dread-beat-an-blood\nFrom Pushpin Western Mass: https://pushpin.city/wes
+ ternma/
+URL:https://amherstcinema.org/films-and-events/dread-beat-an-blood
+END:VEVENT
+BEGIN:VEVENT
+UID:370c143ac312761278e4548b60c9726918064fa3@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261006T230000Z
+DTEND:20261007T010000Z
+SUMMARY:Some Like It Hot
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Billy Wilder presented by Nina Kleinberg\nJoin us this fall for
+  three films by Billy Wilder\, featuring introductions by local film exper
+ t Nina Kleinberg.\nhttps://amherstcinema.org/films-and-events/some-like-it
+ -hot\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/some-like-it-hot
+END:VEVENT
+BEGIN:VEVENT
+UID:90b7c2dfacc0725b2d36d2c146bd33b624b6638e@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261008T233000Z
+DTEND:20261009T013000Z
+SUMMARY:Zodiac Killer Project
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Bellwether\nDirector Charlie Shackleton joins us for a post-fil
+ m discussion.\nhttps://amherstcinema.org/films-and-events/zodiac-killer-pr
+ oject\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/zodiac-killer-project
+END:VEVENT
+BEGIN:VEVENT
+UID:00a5ebcc99ea98a5ca386c0382828296cfb14ccd@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261010T014500Z
+DTEND:20261010T034500Z
+SUMMARY:Twins of Evil
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nBefore BRAM STOKER'S DRACULA and Robert Eggers's N
+ OSFERATU\, there was TWINS OF EVIL.\nhttps://amherstcinema.org/films-and-e
+ vents/twins-evil\nFrom Pushpin Western Mass: https://pushpin.city/westernm
+ a/
+URL:https://amherstcinema.org/films-and-events/twins-evil
+END:VEVENT
+BEGIN:VEVENT
+UID:1f933f6ffca0289bf366f391ce9f163352410fa8@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261010T164500Z
+DTEND:20261010T184500Z
+SUMMARY:Encanto Sing-Along
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:$5 Family Films\nPlease note that passes cannot be redeemed for
+  this screening.\nhttps://amherstcinema.org/films-and-events/encanto-sing-
+ along\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/encanto-sing-along
+END:VEVENT
+BEGIN:VEVENT
+UID:2d215aa765ad9d0059363c6a00697dfb40a5a600@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261011T173000Z
+DTEND:20261011T193000Z
+SUMMARY:Manhunter: The Final Cut
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Restorations & Rediscoveries\nNew 4K restoration.\nhttps://amhe
+ rstcinema.org/films-and-events/manhunter-final-cut\nFrom Pushpin Western M
+ ass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/manhunter-final-cut
+END:VEVENT
+BEGIN:VEVENT
+UID:cb54542f07c1bb8d8c40052f2eb0c2d80d923178@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261013T230000Z
+DTEND:20261014T010000Z
+SUMMARY:Manhunter: The Final Cut
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Restorations & Rediscoveries\nNew 4K restoration.\nhttps://amhe
+ rstcinema.org/films-and-events/manhunter-final-cut\nFrom Pushpin Western M
+ ass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/manhunter-final-cut
+END:VEVENT
+BEGIN:VEVENT
+UID:0c3f106454ce98e307cc9c4183b0e109030ad65e@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261014T230000Z
+DTEND:20261015T010000Z
+SUMMARY:Cinema Ephemera: The Human Machine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Join us for The Human Machine\, the first installment of a new 
+ film series presented by Cinema Ephemera. Rich Remsberg and Shawn Rosenhei
+ m have curated an evening of ephemeral films: vintage classroom instructio
+ n\, industrial animations\, forgotten children’s TV shows\, declassified
+  military training films\, religious movies\, scraps of stock footage\, an
+ d a bunch of weird science stuff.\nhttps://amherstcinema.org/films-and-eve
+ nts/cinema-ephemera-human-machine\nFrom Pushpin Western Mass: https://push
+ pin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/cinema-ephemera-human-machin
+ e
+END:VEVENT
+BEGIN:VEVENT
+UID:402f5a7207f97c165c16336bff8eca911e3fa5f8@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261015T231000Z
+DTEND:20261016T011000Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 7:10pm\, 9:45pm\nAn enduring masterpiece of cinema starr
+ ing Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S THE DEVILS is a pre
+ scient epic of obsession and corruption—and a defining work of art from 
+ seminal filmmaker Ken Russell.\nhttps://amherstcinema.org/films-and-events
+ /ken-russells-devils\nFrom Pushpin Western Mass: https://pushpin.city/west
+ ernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:64ae268973edbf6b7acc8fb5a644e0401e277ef0@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261016T174500Z
+DTEND:20261016T194500Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:10pm\, 9:45pm\nAn enduring masterpie
+ ce of cinema starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S T
+ HE DEVILS is a prescient epic of obsession and corruption—and a defining
+  work of art from seminal filmmaker Ken Russell.\nhttps://amherstcinema.or
+ g/films-and-events/ken-russells-devils\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:6d4ad1debb9b5b8f0fea94d22b14b2650be37df7@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261017T014500Z
+DTEND:20261017T034500Z
+SUMMARY:Ken Russell's The Devils (Late Nights)
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nThis screening of KEN RUSSELL'S THE DEVILS is pres
+ ented as part of the Amherst Cinema Late Nights series. To see the film's 
+ full week-long schedule\, click here.\nhttps://amherstcinema.org/films-and
+ -events/ken-russells-devils-late-nights\nFrom Pushpin Western Mass: https:
+ //pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils-late-nig
+ hts
+END:VEVENT
+BEGIN:VEVENT
+UID:34bafb0bf9dff94462f633184c399ad7565032b4@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261017T163000Z
+DTEND:20261017T183000Z
+SUMMARY:NT Live: The Misanthrope
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:National Theatre Live\nGolden Globe winner Sandra Oh (Killing E
+ ve\, Grey's Anatomy) plays the title role in this razor-sharp reimagining 
+ of Molière’s classic dark comedy.\nhttps://amherstcinema.org/films-and-
+ events/nt-live-misanthrope\nFrom Pushpin Western Mass: https://pushpin.cit
+ y/westernma/
+URL:https://amherstcinema.org/films-and-events/nt-live-misanthrope
+END:VEVENT
+BEGIN:VEVENT
+UID:736fd14b0bb9ef11ad40cdd29afc111fc51b8cf4@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261017T174500Z
+DTEND:20261017T194500Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:10pm\, 9:45pm\nAn enduring masterpie
+ ce of cinema starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S T
+ HE DEVILS is a prescient epic of obsession and corruption—and a defining
+  work of art from seminal filmmaker Ken Russell.\nhttps://amherstcinema.or
+ g/films-and-events/ken-russells-devils\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:1f5c9269a95f84c8adfb3cfd5c19f4c54f934061@pushpin.city
+DTSTAMP:20260919T013100Z
+DTSTART:20261018T150000Z
+DTEND:20261018T170000Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 11am\, 1:45pm\, 4:30pm\, 7:10pm\nAn enduring masterpiece
+  of cinema starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S THE
+  DEVILS is a prescient epic of obsession and corruption—and a defining w
+ ork of art from seminal filmmaker Ken Russell.\nhttps://amherstcinema.org/
+ films-and-events/ken-russells-devils\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+END:VCALENDAR
