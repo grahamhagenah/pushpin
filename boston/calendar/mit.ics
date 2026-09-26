@@ -1,0 +1,422 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · MIT
+X-WR-CALDESC:What’s coming up at MIT\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:888043f025544aca472e40c92358f38d2a1cf868@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T140000Z
+DTEND:20260926T160000Z
+SUMMARY:25th anniversary MIT Great Glass Pumpkin Patch fundraiser
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:The 2026 in-person MIT Great Glass Pumpkin Patch has been postp
+ oned due to potentially dangerous weather conditions this coming Saturday.
+  The ONLINE MIT Great Glass Pumpkin Patch will proceed as originally sched
+ uled\, Saturday\, September 26th from 10AM to 10PM at This event will be u
+ pdated when an alternate date for the in-person event has been secured.\nh
+ ttps://calendar.mit.edu/event/25th-anniversary-mit-great-glass-pumpkin-pat
+ ch-fundraiser\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/25th-anniversary-mit-great-glass-pumpkin
+ -patch-fundraiser
+END:VEVENT
+BEGIN:VEVENT
+UID:a7eb57bab5d814edde028f585305deedcd0ac2d8@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:The Aga Khan Program Fall 2026: An Evening With Lecture Series pres
+ ents Ali Karimi\, hosted jointly with the Urbanism Group
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:“Two Thousand Years of Non-Urban History”\nhttps://calendar
+ .mit.edu/event/the-aga-khan-program-fall-2026-an-evening-with-lecture-seri
+ es-presents-ali-karimi-hosted-jointly-with-the-urbanism-group\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/the-aga-khan-program-fall-2026-an-evenin
+ g-with-lecture-series-presents-ali-karimi-hosted-jointly-with-the-urbanism
+ -group
+END:VEVENT
+BEGIN:VEVENT
+UID:10dca97ea951b74f1fa3d6a99e57939960e9e5c7@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T210000Z
+DTEND:20260928T230000Z
+SUMMARY:Starr Forum: Housing the World: Inequality\, Informality\, and the 
+ Future of Cities
+LOCATION:MIT\, 25 AMES ST\, Cambridge\, MA 02139
+DESCRIPTION:Anacláudia Rossbach\, Executive Director\, United Nations Huma
+ n Settlements Programme (UN-Habitat).\nhttps://calendar.mit.edu/event/hous
+ ing-the-world-inequality-informality-and-the-future-of-cities\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/housing-the-world-inequality-informality
+ -and-the-future-of-cities
+END:VEVENT
+BEGIN:VEVENT
+UID:5ac5cbf082ea50f0dec188b6ad31a836f32eb141@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T211500Z
+DTEND:20260928T231500Z
+SUMMARY:Global France Seminar presents\, Doyle Calhoun “The Suicide Archi
+ ve: Reading for resistance from the time of slavery to the ‘Arab Spring'
+ ”
+LOCATION:MIT\, 160 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:Assistant Professor of Francophone Postcolonial Studies in the 
+ Faculty of Modern & Medieval Languages and Linguistics\, University of Cam
+ bridge When: Monday\, September 28 @ 5:15 PM Where: Building 14\, 14E-304 
+ (map)* Abstract: From the time of slavery to the Algerian war for independ
+ ence to the “Arab Spring\,” people have responded to enslavement\, col
+ onisation and oppression through acts of suicide. While often occluded fro
+ m or obscured in colonial archives\, self-killing has long been at the cen
+ tre of African and Caribbean engagements with the colonial past. Reading a
+ cross literature\, film\, oral history\, archival documents\, legal histor
+ y\, and scientific texts\, The Suicide Archive (2024) shows how aesthetic 
+ forms (literature\, film\, visual art\, performance) preserve powerful his
+ tories of resistance and loss. In so doing\, the book offers an innovative
+  reading of African\, Caribbean\, French and global literary history\nhttp
+ s://calendar.mit.edu/event/global-france-seminar-presents-doyle-calhoun-th
+ e-suicide-archive-reading-for-resistance-from-the-time-of-slavery-to-the-a
+ rab-spring\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/global-france-seminar-presents-doyle-cal
+ houn-the-suicide-archive-reading-for-resistance-from-the-time-of-slavery-t
+ o-the-arab-spring
+END:VEVENT
+BEGIN:VEVENT
+UID:8c2bc3cdbebdf00ba92f8d31713180797f242752@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T213000Z
+DTEND:20261002T233000Z
+SUMMARY:Artist Performance: INVISIBLETOWHOM Arc 2
+LOCATION:MIT\, 20 Ames Street\, Cambridge\, MA 02139
+DESCRIPTION:Pap Souleye Fall’s performance INVISIBLETOWHOM Arc 2 (2026) e
+ merges from the world of DEAD PIXEL (2020–ongoing)\, a narrative the art
+ ist articulates through installation\, performance\, drawing\, sculpture\,
+  video\, and comics.\nhttps://calendar.mit.edu/event/artist-performance-in
+ visibletowhom-arc-2\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/artist-performance-invisibletowhom-arc-2
+END:VEVENT
+BEGIN:VEVENT
+UID:096ac597db3216fdb49fce4d0831616b974a8063@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T140000Z
+DTEND:20261003T160000Z
+SUMMARY:MET Warehouse Public Open House
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:The MIT School of Architecture and Planning has moved to the ME
+ T Warehouse. On Saturday\, October 3\, as part of MIT Future Fest\, SA+P w
+ ill open the MET to the MIT community and general public for the first tim
+ e. From 10am–4pm\, exhibitions\, tours\, talks\, workshops\, and hands-o
+ n experiences will showcase work from across SA+P and MIT.\nhttps://calend
+ ar.mit.edu/event/met-warehouse-public-open-house\nFrom Pushpin Boston: htt
+ ps://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/met-warehouse-public-open-house
+END:VEVENT
+BEGIN:VEVENT
+UID:1c408640fa3ca5a06ff2dacc53f785417e8c7060@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261006T211500Z
+DTEND:20261006T231500Z
+SUMMARY:Knighthood and the Realities of War in Medieval Germany
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:Military history as a subfield within medieval studies has suff
+ ered considerably from the fact that both medieval authors and modern scho
+ lars have seen warfare as a nasty element of the human experience\, that i
+ s better condemned or even ignored than studied. As a consequence\, the ex
+ amination of warfare is often treated as an adjunct to other areas of inqu
+ iry\, with the result that many well-meaning historians continue to pass a
+ long shibboleths long-since discarded by the relatively small number of sp
+ ecialists in medieval military history. This is particularly true with reg
+ ard to scholarship dealing with the German kingdom because very few non-Ge
+ rman speaking historians do much work on Germany\, and German-speaking his
+ torians\, with some notable exceptions\, particularly in Switzerland and A
+ ustria\, have eschewed the study of military matters in the period since t
+ he Second World War. One particularly important shibboleth\, which still p
+ ermeates studies of the German kingdom\, is the notion that warfare was do
+ minated by small numbers of warrior aristocrats who fought on horseback. I
+ n this paper\, I will be addressing four major themes that are intended to
+  illuminate the bankruptcy of this model. These are “knighthood” as a 
+ problem of military history\, the reality of warfare in pre-crusade Europe
+ \, the centrality of sieges and fortifications to warfare\, and finally th
+ e implications of this third fact for our understanding of the scope and s
+ cale of warfare\, and the concomitant nature of governmental organization.
+ \nhttps://calendar.mit.edu/event/knighthood-and-the-realities-of-war-in-me
+ dieval-germany\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/knighthood-and-the-realities-of-war-in-m
+ edieval-germany
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb4d5eda3db199ca92c9e0616e4f18ecaa23e1d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261006T223000Z
+DTEND:20261007T003000Z
+SUMMARY:MIT / French Library Author Series: Emily Eakin presents The French
+  Men\, Or My Life in Theory
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:When Emily Eakin arrived at Harvard in the late 1980s\, she fel
+ l under the spell of French theory. In her acclaimed new book\, she intert
+ wines her own youthful fascination with theory with the remarkable story o
+ f its rise in American intellectual and cultural life.\nhttps://calendar.m
+ it.edu/event/mit-frenc-library-author-series-emily-eakin-presents-the-fren
+ ch-men-or-my-life-in-theory\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://calendar.mit.edu/event/mit-frenc-library-author-series-emily-ea
+ kin-presents-the-french-men-or-my-life-in-theory
+END:VEVENT
+BEGIN:VEVENT
+UID:5c1acbc209140f3cd92c37af4c75dbd90ee0def2@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261008T220000Z
+DTEND:20261009T000000Z
+SUMMARY:TAKK—Mireia Luzárraga
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:TAKK—Mireia Luzárraga (in collaboration with the MIT Morning
+ side Academy for Design)\nhttps://calendar.mit.edu/event/takkmireia-luzarr
+ aga\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/takkmireia-luzarraga
+END:VEVENT
+BEGIN:VEVENT
+UID:f1a0dfe9dffdac10095bac14df0115c507bf66bb@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261009T190000Z
+DTEND:20261009T210000Z
+SUMMARY:Rapid Prototyping: Beyond 3D Printing
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Join Jessie Liu\, president of xTool\, a global leader in deskt
+ op laser fabrication\, to discover how desktop laser engraving and printin
+ g has grown to complement 3D printing.\nhttps://calendar.mit.edu/event/rap
+ id-prototyping-beyond-3d-printing\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://calendar.mit.edu/event/rapid-prototyping-beyond-3d-printing
+END:VEVENT
+BEGIN:VEVENT
+UID:316dff07dcc5659042732529fa1dfa0a8fb3a64b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261013T220000Z
+DTEND:20261014T000000Z
+SUMMARY:An Ocean (Re)Introduction
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Emmy Award-winning storyteller and explorer Richard Vevers invi
+ tes you to see the ocean in a completely new way.\nhttps://calendar.mit.ed
+ u/event/an-ocean-reintroduction\nFrom Pushpin Boston: https://pushpin.city
+ /boston/
+URL:https://calendar.mit.edu/event/an-ocean-reintroduction
+END:VEVENT
+BEGIN:VEVENT
+UID:3a4f4b92fbeaf7cdc653c25635d1e288cc747118@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261015T203000Z
+DTEND:20261015T223000Z
+SUMMARY:Starr Forum: What Would the US Do in a Middle Power Order?
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:Anne-Marie Slaughter\, Incoming Dean of Public Policy at the Lo
+ ndon School of Economics A globally recognized scholar\, policy innovator\
+ , and public leader\, Anne-Marie Slaughter is the incoming dean of public 
+ policy at the London School of Economics\, and had previously served as th
+ e CEO of New America\, and as the director of policy planning at the US St
+ ate Department.\nhttps://calendar.mit.edu/event/starr-forum-75th-what-woul
+ d-the-us-do-in-a-middle-power-order\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://calendar.mit.edu/event/starr-forum-75th-what-would-the-us-do-in
+ -a-middle-power-order
+END:VEVENT
+BEGIN:VEVENT
+UID:150ee62d93da5e1dbce53f0e2ce858bd43ce28c3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261015T220000Z
+DTEND:20261016T000000Z
+SUMMARY:Studio Ossidiana—Giovanni Bellotti and Alessandra Covini
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Studio Ossidiana—Giovanni Bellotti and Alessandra Covini Part
+  of the MIT Fall 2026 Architecture Lecture Series.\nhttps://calendar.mit.e
+ du/event/studio-ossidianagiovanni-bellotti-and-alessandra-covini\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/studio-ossidianagiovanni-bellotti-and-al
+ essandra-covini
+END:VEVENT
+BEGIN:VEVENT
+UID:0190294b606e0856016947565d083b050c1318ad@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261017T170000Z
+DTEND:20261017T190000Z
+SUMMARY:MIT / French Library Author Series: Before I Forget with Anne Pauly
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Anne Pauly is a Paris-based French writer and winner of the Pri
+ x du Livre Inter and Prix Robert Walser. Her debut novel\, Before I Forget
+ \, was also shortlisted for the Prix Goncourt\, Prix Femina\, and Prix Wep
+ ler. Before turning to fiction\, she worked as a journalist and wrote on m
+ usic\, feminism\, queer culture\, and literature.\nhttps://calendar.mit.ed
+ u/event/mit-french-library-author-series-before-i-forget-with-anne-pauly\n
+ From Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/mit-french-library-author-series-before-
+ i-forget-with-anne-pauly
+END:VEVENT
+BEGIN:VEVENT
+UID:a331208455538ff29eaf1cdfb5c871dcc96524d6@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261019T211500Z
+DTEND:20261019T231500Z
+SUMMARY:Undoing Gender in French Literature
+LOCATION:MIT\, 160 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:The French modernist canon has been read has a key site for sex
+ ual dissidence\, but what about gender? In this talk\, Mat Fournier presen
+ ts his book\, Dysphoric Modernism\, and questions the entanglements of the
+  modern gender binary with state power and colonial history. Through readi
+ ngs of Gide\, Genet\, Colette\, and others\, Fournier explores how narrati
+ ves of sexual dissidence both deconstruct and reinforce mutually exclusive
+  definitions of masculinity and femininity and racial discriminations. In 
+ this web of contradictions\, modern gender appears as inherently dysphoric
+ \, imposing untenable positions and perpetuating systemic hierarchies. Ult
+ imately\, tracking the dysphoria traversing modernist writings offers a pe
+ rspective into gender’s complicity with historical and contemporary fasc
+ isms\, and offers strategies of resistance.\nhttps://calendar.mit.edu/even
+ t/undoing-gender-in-french-literature\nFrom Pushpin Boston: https://pushpi
+ n.city/boston/
+URL:https://calendar.mit.edu/event/undoing-gender-in-french-literature
+END:VEVENT
+BEGIN:VEVENT
+UID:514436c04ff588e359fddf42241f69a8819070db@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261020T220000Z
+DTEND:20261021T000000Z
+SUMMARY:Eleni Sikelianos and Julie Carr: the William Corbett Poetry Series
+LOCATION:MIT\, 182 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:Born into a family of bohemians\, poets\, tree workers\, ne’e
+ r-do-wells\, visionaries\, and smalltime sort-of hustlers\, Eleni Sikelian
+ os is a poet\, writer\, collaborator\, and “master of mixing genres” (
+ according to TimeOut). Kirkus has called her most recent book\, Memory Reh
+ earsal (City Lights\, 2026\; the third book in her trilogy of ancestral en
+ counters) “a moving family memoir and a triumph of cultural archaeology.
+ ” Deeply engaged with ecopoetics\, her work takes up urgent concerns of 
+ environmental precarity and ancestral lineages. Her tenth book of poetry\,
+  Your Kingdom came out in 2023. Her work has been translated into a dozen 
+ languages\, and she has in turn translated works by Jacques Roubaud\, Sabi
+ ne Macher\, and\, most recently\, Mohamed Leftah. She grew up in earshot o
+ f the ocean\, in small coastal towns near Goleta\, and has since lived in 
+ San Francisco\, New York\, Paris\, Athens (Greece)\, Boulder (Colorado)\, 
+ and Providence.\nhttps://calendar.mit.edu/event/eleni-sikelianos-and-julie
+ -carr-the-william-corbett-poetry-series\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://calendar.mit.edu/event/eleni-sikelianos-and-julie-carr-the-will
+ iam-corbett-poetry-series
+END:VEVENT
+BEGIN:VEVENT
+UID:1e0f77dda848bc3389fee2e705cefac9498682fc@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261021T220000Z
+DTEND:20261022T000000Z
+SUMMARY:From Brooklyn to the North Pole: An Illustrated Journey with Photog
+ rapher Leonard Sussman
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Experience the polar regions through the lens of photographer L
+ eonard Sussman.\nhttps://calendar.mit.edu/event/from-brooklyn-to-the-north
+ -pole-an-illustrated-journey-with-photographer-leonard-sussman\nFrom Pushp
+ in Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/from-brooklyn-to-the-north-pole-an-illus
+ trated-journey-with-photographer-leonard-sussman
+END:VEVENT
+BEGIN:VEVENT
+UID:a4659317bef0d27080deb873ed44e81ab3ba3f41@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261022T220000Z
+DTEND:20261023T000000Z
+SUMMARY:Carrie McKnelly
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Part of the MIT Fall 2026 Architecture Lecture Series.\nhttps:/
+ /calendar.mit.edu/event/carrie-mcknelly\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://calendar.mit.edu/event/carrie-mcknelly
+END:VEVENT
+BEGIN:VEVENT
+UID:32bbfc85469f8914326a2712fa54372bb0af1565@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:What Are People For: Design Philosophy by Patrick Whitney
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:What Are People For: Design Philosophy by Patrick Whitney Bosto
+ n-Cambridge Premiere of Gary Hustwit’s New Film and Interactive Design W
+ orkshop Join the Morningside Academy of Design for the Boston-Cambridge Pr
+ emiere of What Are People For: Design Philosophy by Patrick Whitney\, the 
+ latest short film by acclaimed design documentarian Gary Hutwit (Helvetica
+ \, Objectified\, Urbanized\, Eno)\, and interactive design workshop on Oct
+ ober 24th. Explore how design can address today's most complex challenges 
+ from 2-5pm with a hands-on workshop led by Evan Chan and André Nogueira. 
+ Chan and Nogueira will introduce the Whole View model\, a systems design a
+ pproach for reframing problems\, surfacing the perspectives of diverse sta
+ keholders\, and finding new pathways forward in situations where expertise
+  is abundant but fragmented. The session is designed for cross-sector lead
+ ers grappling with problems too complex for any one discipline to solve al
+ one.\nhttps://calendar.mit.edu/event/what-are-people-for\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/what-are-people-for
+END:VEVENT
+BEGIN:VEVENT
+UID:7017538a66f37d7e8d3a610192396b05ca79f51a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Rescheduled 2026 MIT Great Glass Pumpkin Patch
+LOCATION:MIT\, 77 Massachusetts Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Originally scheduled for Saturday 9/26\, and now rescheduled fo
+ r Saturday 10/24\, the 25th annual MIT Great Glass Pumpkin Patch offers gl
+ ass pumpkins of all colors\, shapes and sizes for sale to the general publ
+ ic. Proceeds from this event fund the ongoing operations of the MIT Glass 
+ Lab\, a program that teaches classes in team-based glassblowing to members
+  of the MIT community.\nhttps://calendar.mit.edu/event/rescheduled-2026-mi
+ t-great-glass-pumpkin-patch\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://calendar.mit.edu/event/rescheduled-2026-mit-great-glass-pumpkin
+ -patch
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ae17b7bd33a53a37b2f5b901c923305fd3c5c4@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261026T200000Z
+DTEND:20261026T220000Z
+SUMMARY:Arthur Miller Lecture on Science and Ethics
+LOCATION:MIT\, 292 Main St\, Cambridge\, MA 02142
+DESCRIPTION:The Program in Science\, Technology\, and Society invites you t
+ o the annual Arthur Miller Lecture in Science and Ethics on Monday\, Octob
+ er 26th from 4:00-5:30 pm in the MIT Welcome Center\, for a panel lecture 
+ on the use of chatbots in children's toys. The panel features Professor Mi
+ mi Ito\, Director of the Connected Learning Lab\, Professor Sherry Turkle\
+ , founding director of the MIT Initiative on Technology and Self\, and Mik
+ e Rizkalla\, CEO & Founder of Snorble\, a visionary leader in AI\, consume
+ r robotics\, humanoid robotics\, and children's technology.\nhttps://calen
+ dar.mit.edu/event/arthur-miller-lecture-on-science-and-ethics-chatbots-in-
+ childrens-toys-a-natural-progression-or-an-existential-crisis\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/arthur-miller-lecture-on-science-and-eth
+ ics-chatbots-in-childrens-toys-a-natural-progression-or-an-existential-cri
+ sis
+END:VEVENT
+BEGIN:VEVENT
+UID:23257f2b827adf9c5b5baed37248b05a99d8926a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261026T203000Z
+DTEND:20261026T223000Z
+SUMMARY:Innovation on Steroids:  What are We Learning from the Ukraine War?
+LOCATION:MIT\, 33 MASSACHUSETTS AVE\, Cambridge\, MA 02139
+DESCRIPTION:Erik Lin Greenberg\, associate professor of political science\;
+  co-director\, Wargaming Lab\, MIT Security Studies Program Erik Lin Green
+ berg's research examines how emerging military technology affects conflict
+  dynamics and the regulation and use of force. His book\, The Remote Revol
+ ution: Drones and Modern Statecraft (Cornell University Press)\, explores 
+ how remote warfighting technologies are reshaping international politics. 
+ In other ongoing projects\, he explores how technology and public opinion 
+ influence international politics and decisions on the use of force. He is 
+ also interested in the international politics of food and the use of warga
+ ming as a tool of scholarly inquiry. Before entering academia\, he was an 
+ active duty officer in the United States Air Force and completed assignmen
+ ts in operational units\, Headquarters Air Force\, and the Joint Staff. He
+  currently commands a squadron in the Air Force Reserve.\nhttps://calendar
+ .mit.edu/event/focus-on-eurasia-innovation-on-steroids-what-are-we-learnin
+ g-from-the-ukraine-war\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/focus-on-eurasia-innovation-on-steroids-
+ what-are-we-learning-from-the-ukraine-war
+END:VEVENT
+END:VCALENDAR

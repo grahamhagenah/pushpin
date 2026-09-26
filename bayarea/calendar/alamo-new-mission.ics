@@ -1,0 +1,1138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Bay Area//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Bay Area · Alamo New Mission
+X-WR-CALDESC:What’s coming up at Alamo New Mission\, from Pushpin Bay Are
+ a.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:1c13c0f02182b55288e7bf5c366f0dec39df9962@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T221000Z
+DTEND:20260927T001000Z
+SUMMARY:Primetime
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 3:10pm\, 6:20pm\, 9:30pm\nRobert Pattinson stars in this
+  thriller about To Catch a Predator\nhttps://drafthouse.com/sf/show/primet
+ ime\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:00d2f161e9e28d3e5e81398e8cd1691322ead820@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T222000Z
+DTEND:20260927T002000Z
+SUMMARY:Resident Evil (2026)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 3:20pm\, 7:10pm\, 9pm\nZach Cregger heads to Raccoon Cit
+ y\nhttps://drafthouse.com/sf/show/resident-evil-2026\nFrom Pushpin Bay Are
+ a: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/resident-evil-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:38898024138eae151c83a207e2d93711a484fd8d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T223000Z
+DTEND:20260927T003000Z
+SUMMARY:Practical Magic 2
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 3:30pm\, 6:45pm\, 10pm\nThere's still a little witch in 
+ all of us\nhttps://drafthouse.com/sf/show/practical-magic-2\nFrom Pushpin 
+ Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:eb3964db5c1957e6b6a2c6193c117567c5a09c37@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T230000Z
+DTEND:20260927T010000Z
+SUMMARY:Give It a Shot
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:A global race to develop a new male contraceptive.\nhttps://dra
+ fthouse.com/sf/show/live-q-a-give-it-a-shot\nFrom Pushpin Bay Area: https:
+ //pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/live-q-a-give-it-a-shot
+END:VEVENT
+BEGIN:VEVENT
+UID:702060c0622079183cc14c1d981104216b20b1fb@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T011000Z
+DTEND:20260927T031000Z
+SUMMARY:The History of Concrete
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:John Wilson uses the Hallmark movie formula to make a documenta
+ ry about concrete\nhttps://drafthouse.com/sf/show/the-history-of-concrete\
+ nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:6a20a1bf4964c097b9c9bd496e4d7df3811a3fa6@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T032000Z
+DTEND:20260927T052000Z
+SUMMARY:Hope (2026)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:A haunting South Korean thriller about fear\, conflict\, and co
+ smic disaster\nhttps://drafthouse.com/sf/show/hope-2026\nFrom Pushpin Bay 
+ Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/hope-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:5ad5b4420295c1b216a94f2a00fed15c5f6242f7@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T050000Z
+DTEND:20260927T070000Z
+SUMMARY:NOFX: 40 Years of Fuckin' Up
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:The history of one of punk’s loudest and most stubbornly inde
+ pendent bands\nhttps://drafthouse.com/sf/show/nofx-40-years-of-fuckin-up\n
+ From Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/nofx-40-years-of-fuckin-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bee3337278e6161f2a2be17ecd88152d0f3fd373@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T190000Z
+DTEND:20260927T210000Z
+SUMMARY:Destroy All Monsters
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:https://drafthouse.com/sf/show/destroy-all-monsters\nFrom Pushp
+ in Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/destroy-all-monsters
+END:VEVENT
+BEGIN:VEVENT
+UID:a091f207fed5e6cd40f1acddb7bcb636b3107dcb@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T191500Z
+DTEND:20260927T211500Z
+SUMMARY:Practical Magic 2
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 12:15pm\, 3:30pm\, 6:45pm\nThere's still a little witch 
+ in all of us\nhttps://drafthouse.com/sf/show/practical-magic-2\nFrom Pushp
+ in Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:90feea63e08c232a2c404867bf1e0bedc34e7c3d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T192000Z
+DTEND:20260927T212000Z
+SUMMARY:Resident Evil (2026)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 12:20pm\, 3:10pm\, 6:30pm\nZach Cregger heads to Raccoon
+  City\nhttps://drafthouse.com/sf/show/resident-evil-2026\nFrom Pushpin Bay
+  Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/resident-evil-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:1b706f7a471601e898b73272184ef49c92bb4f84@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T193000Z
+DTEND:20260927T213000Z
+SUMMARY:Primetime
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 12:30pm\, 3:40pm\, 5:40pm\, 6pm\nRobert Pattinson stars 
+ in this thriller about To Catch a Predator\nhttps://drafthouse.com/sf/show
+ /primetime\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:37de03d9fd4d86f39c8a78643eb7858c15d2931a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T195000Z
+DTEND:20260927T215000Z
+SUMMARY:The History of Concrete
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 12:50pm\, 3:40pm\nJohn Wilson uses the Hallmark movie fo
+ rmula to make a documentary about concrete\nhttps://drafthouse.com/sf/show
+ /the-history-of-concrete\nFrom Pushpin Bay Area: https://pushpin.city/baya
+ rea/
+URL:https://drafthouse.com/sf/show/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:533644f897a7f029e1caf2e1dcf23af8e8410b71@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T214500Z
+DTEND:20260927T234500Z
+SUMMARY:Nacho Libre
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:He's not lean. He's not mean. He's nacho average hero.\nhttps:/
+ /drafthouse.com/sf/show/movie-party-nacho-libre\nFrom Pushpin Bay Area: ht
+ tps://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/movie-party-nacho-libre
+END:VEVENT
+BEGIN:VEVENT
+UID:7bff51c1800084141a4a4414ca52835730a8690f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T020000Z
+DTEND:20260928T040000Z
+SUMMARY:Your Mother Your Mother Your Mother
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:A hitman with a conscience and everything to lose\nhttps://draf
+ thouse.com/sf/show/special-event-your-mother-your-mother-your-mother-pre-r
+ ecorded-q-a-and-performance\nFrom Pushpin Bay Area: https://pushpin.city/b
+ ayarea/
+URL:https://drafthouse.com/sf/show/special-event-your-mother-your-mother-yo
+ ur-mother-pre-recorded-q-a-and-performance
+END:VEVENT
+BEGIN:VEVENT
+UID:ac5da76b6d44b654ac00d286e5a63e85ca227340@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T215000Z
+DTEND:20260928T235000Z
+SUMMARY:Primetime
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 2:50pm\, 6pm\, 9:10pm\nRobert Pattinson stars in this th
+ riller about To Catch a Predator\nhttps://drafthouse.com/sf/show/primetime
+ \nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:17194bbb953a2f2434283925c4e38f038c7f7699@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T220000Z
+DTEND:20260929T000000Z
+SUMMARY:Practical Magic 2
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 3pm\, 6:15pm\, 9:30pm\nThere's still a little witch in a
+ ll of us\nhttps://drafthouse.com/sf/show/practical-magic-2\nFrom Pushpin B
+ ay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:80fcf2d8f67b6ce5b9b5cb897df6c8ac7ceefcdf@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T230000Z
+DTEND:20260929T010000Z
+SUMMARY:Destroy All Monsters
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:https://drafthouse.com/sf/show/destroy-all-monsters\nFrom Pushp
+ in Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/destroy-all-monsters
+END:VEVENT
+BEGIN:VEVENT
+UID:36293ccf8fb7771f15c255e146ebd90860e2d507@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T231000Z
+DTEND:20260929T011000Z
+SUMMARY:Resident Evil (2026)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 4:10pm\, 6:30pm\, 10:10pm\nZach Cregger heads to Raccoon
+  City\nhttps://drafthouse.com/sf/show/resident-evil-2026\nFrom Pushpin Bay
+  Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/resident-evil-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bcc40fe5136b16f7b9287cc4d0108835994289df@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T233000Z
+DTEND:20260929T013000Z
+SUMMARY:The History of Concrete
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 4:30pm\, 7:20pm\nJohn Wilson uses the Hallmark movie for
+ mula to make a documentary about concrete\nhttps://drafthouse.com/sf/show/
+ the-history-of-concrete\nFrom Pushpin Bay Area: https://pushpin.city/bayar
+ ea/
+URL:https://drafthouse.com/sf/show/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:d116745d28e93c0101dfb4d7996b34e41b157a0f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T020000Z
+DTEND:20260929T040000Z
+SUMMARY:The Birdcage
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Robin Williams and Nathan Lane try to play it straight\nhttps:/
+ /drafthouse.com/sf/show/queer-film-theory-101-the-birdcage\nFrom Pushpin B
+ ay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/queer-film-theory-101-the-birdcage
+END:VEVENT
+BEGIN:VEVENT
+UID:a3f668ade324216d47e9f79b14dd4351baf64503@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T041000Z
+DTEND:20260929T061000Z
+SUMMARY:Hope (2026)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:A haunting South Korean thriller about fear\, conflict\, and co
+ smic disaster\nhttps://drafthouse.com/sf/show/hope-2026\nFrom Pushpin Bay 
+ Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/hope-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:39db7e7fc4c0ef1332688cc70c5c45894da21e8f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T051500Z
+DTEND:20260929T071500Z
+SUMMARY:Nacho Libre
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:He's not lean. He's not mean. He's nacho average hero.\nhttps:/
+ /drafthouse.com/sf/show/nacho-libre\nFrom Pushpin Bay Area: https://pushpi
+ n.city/bayarea/
+URL:https://drafthouse.com/sf/show/nacho-libre
+END:VEVENT
+BEGIN:VEVENT
+UID:5e9ad9d52253cadfb651103fb313a0f836cc1d16@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T214500Z
+DTEND:20260929T234500Z
+SUMMARY:Practical Magic 2
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 2:45pm\, 6pm\, 9:15pm\nThere's still a little witch in a
+ ll of us\nhttps://drafthouse.com/sf/show/practical-magic-2\nFrom Pushpin B
+ ay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:daa077664ae6f3dc6f029e5c04be9202b98adc14@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T221000Z
+DTEND:20260930T001000Z
+SUMMARY:Primetime
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 3:10pm\, 6:20pm\nRobert Pattinson stars in this thriller
+  about To Catch a Predator\nhttps://drafthouse.com/sf/show/primetime\nFrom
+  Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:9588d5d20fc7afea22db69659db68b8e963f7c69@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T223000Z
+DTEND:20260930T003000Z
+SUMMARY:Resident Evil (2026)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 3:30pm\, 6:15pm\, 9:50pm\nZach Cregger heads to Raccoon 
+ City\nhttps://drafthouse.com/sf/show/resident-evil-2026\nFrom Pushpin Bay 
+ Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/resident-evil-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:849f92c073b008de5f029be6c5567db186c35ac8@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T223000Z
+DTEND:20260930T003000Z
+SUMMARY:Terminator 2: Judgment Day
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Schwarzenegger is a killing machine\, but he’s nice now\nhttp
+ s://drafthouse.com/sf/show/terminator-2-judgment-day\nFrom Pushpin Bay Are
+ a: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/terminator-2-judgment-day
+END:VEVENT
+BEGIN:VEVENT
+UID:b0f94ff10ded20e83a188916fddb59ad1e4f09e4@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T232000Z
+DTEND:20260930T012000Z
+SUMMARY:The History of Concrete
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 4:20pm\, 7:10pm\nJohn Wilson uses the Hallmark movie for
+ mula to make a documentary about concrete\nhttps://drafthouse.com/sf/show/
+ the-history-of-concrete\nFrom Pushpin Bay Area: https://pushpin.city/bayar
+ ea/
+URL:https://drafthouse.com/sf/show/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:2f2912069987960e95d28ba6da9a09b39584696a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T020000Z
+DTEND:20260930T040000Z
+SUMMARY:Deathgasm 2: Goremageddon
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:The long-awaited sequel to the 2015 cult classic\nhttps://draft
+ house.com/sf/show/deathgasm-2-goremageddon\nFrom Pushpin Bay Area: https:/
+ /pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/deathgasm-2-goremageddon
+END:VEVENT
+BEGIN:VEVENT
+UID:283c51c93fe945c686a1b774a9bd12ddad4fac37@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T040000Z
+DTEND:20260930T060000Z
+SUMMARY:Hope (2026)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:A haunting South Korean thriller about fear\, conflict\, and co
+ smic disaster\nhttps://drafthouse.com/sf/show/hope-2026\nFrom Pushpin Bay 
+ Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/hope-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:92f06b27cec7e3ecda6cfddbeb1199c61a8f3f4e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T043000Z
+DTEND:20260930T063000Z
+SUMMARY:Ice Cream Man (1995)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:I scream\, you scream\, we all scream for the...\nhttps://draft
+ house.com/sf/show/terror-tuesday-ice-cream-man-1995\nFrom Pushpin Bay Area
+ : https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/terror-tuesday-ice-cream-man-1995
+END:VEVENT
+BEGIN:VEVENT
+UID:037aad3b3f2d12a4c88e5344db53f80542b568a6@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T050000Z
+DTEND:20260930T070000Z
+SUMMARY:Destroy All Monsters
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:https://drafthouse.com/sf/show/destroy-all-monsters\nFrom Pushp
+ in Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/destroy-all-monsters
+END:VEVENT
+BEGIN:VEVENT
+UID:b03f217be8eb568254059e523674a1fa7b56da07@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T214500Z
+DTEND:20260930T234500Z
+SUMMARY:Practical Magic 2
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 2:45pm\, 6pm\, 9:15pm\nThere's still a little witch in a
+ ll of us\nhttps://drafthouse.com/sf/show/practical-magic-2\nFrom Pushpin B
+ ay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
+UID:cabe3562a4ce4aed2a92f797905f04a96a3dfa35@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T221000Z
+DTEND:20261001T001000Z
+SUMMARY:Primetime
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 3:10pm\, 6:40pm\, 9:45pm\nRobert Pattinson stars in this
+  thriller about To Catch a Predator\nhttps://drafthouse.com/sf/show/primet
+ ime\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:cc92e575520e97789f818ce191d29b3dabe9975e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T223000Z
+DTEND:20261001T003000Z
+SUMMARY:The History of Concrete
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 3:30pm\, 6:15pm\nJohn Wilson uses the Hallmark movie for
+ mula to make a documentary about concrete\nhttps://drafthouse.com/sf/show/
+ the-history-of-concrete\nFrom Pushpin Bay Area: https://pushpin.city/bayar
+ ea/
+URL:https://drafthouse.com/sf/show/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:c73564710ffecae776a55eb97d3a0e901f051e4a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T230000Z
+DTEND:20261001T010000Z
+SUMMARY:Destroy All Monsters
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:https://drafthouse.com/sf/show/destroy-all-monsters\nFrom Pushp
+ in Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/destroy-all-monsters
+END:VEVENT
+BEGIN:VEVENT
+UID:9af8b8c954ceb152d2173894bccbb5eb092d778b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T233000Z
+DTEND:20261001T013000Z
+SUMMARY:Resident Evil (2026)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 4:30pm\, 7:15pm\, 10pm\nZach Cregger heads to Raccoon Ci
+ ty\nhttps://drafthouse.com/sf/show/resident-evil-2026\nFrom Pushpin Bay Ar
+ ea: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/resident-evil-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:ca85078dc65cac34d207bcffa5b7622007ebfacd@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T012000Z
+DTEND:20261001T032000Z
+SUMMARY:The Terminator
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:James Cameron's pop masterpiece\, newly restored\nhttps://draft
+ house.com/sf/show/the-terminator-1984\nFrom Pushpin Bay Area: https://push
+ pin.city/bayarea/
+URL:https://drafthouse.com/sf/show/the-terminator-1984
+END:VEVENT
+BEGIN:VEVENT
+UID:9b7d94a8db6fe86e5c451e74b22f03f4e81de199@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T040000Z
+DTEND:20261001T060000Z
+SUMMARY:Hope (2026)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:A haunting South Korean thriller about fear\, conflict\, and co
+ smic disaster\nhttps://drafthouse.com/sf/show/hope-2026\nFrom Pushpin Bay 
+ Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/hope-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:cc419a0a97d9ddd6736ca4ccbec64b090217dcfa@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T043000Z
+DTEND:20261001T063000Z
+SUMMARY:Prime Cut
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Lee Marvin vs. Gene Hackman in a peculiar American crime pictur
+ e.\nhttps://drafthouse.com/sf/show/weird-wednesday-prime-cut\nFrom Pushpin
+  Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/weird-wednesday-prime-cut
+END:VEVENT
+BEGIN:VEVENT
+UID:c0c7aef3d012ae9d4801237b0222221df96ea06f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T221000Z
+DTEND:20261002T001000Z
+SUMMARY:Digger
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 3:10pm\, 6:45pm\nA fat-suited Tom Cruise faces a global 
+ disaster\nhttps://drafthouse.com/sf/show/digger\nFrom Pushpin Bay Area: ht
+ tps://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/digger
+END:VEVENT
+BEGIN:VEVENT
+UID:1115e87048ea151b6dcdcea1be7b09f3e5ff294c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T010000Z
+DTEND:20261002T030000Z
+SUMMARY:Terminator 2: Judgment Day
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Schwarzenegger is a killing machine\, but he’s nice now\nhttp
+ s://drafthouse.com/sf/show/terminator-2-judgment-day\nFrom Pushpin Bay Are
+ a: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/terminator-2-judgment-day
+END:VEVENT
+BEGIN:VEVENT
+UID:0b9810b0f6914b1b69c703c6765ab2634410fd33@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T043000Z
+DTEND:20261002T063000Z
+SUMMARY:Dire Duplicity
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:The latest film from Neil Breen.\nhttps://drafthouse.com/sf/sho
+ w/dire-duplicity\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/dire-duplicity
+END:VEVENT
+BEGIN:VEVENT
+UID:d95cf689dafe450e63412ab7782f435d4b582078@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T212000Z
+DTEND:20261002T232000Z
+SUMMARY:Digger
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 2:20pm\, 6pm\nA fat-suited Tom Cruise faces a global dis
+ aster\nhttps://drafthouse.com/sf/show/digger\nFrom Pushpin Bay Area: https
+ ://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/digger
+END:VEVENT
+BEGIN:VEVENT
+UID:ee5564cb52fcb803ef09ffba38f086d46d40351b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T212000Z
+DTEND:20261003T232000Z
+SUMMARY:Digger
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 2:20pm\, 6pm\nA fat-suited Tom Cruise faces a global dis
+ aster\nhttps://drafthouse.com/sf/show/digger\nFrom Pushpin Bay Area: https
+ ://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/digger
+END:VEVENT
+BEGIN:VEVENT
+UID:caac45bf2af1574ca15226d3cb968093bce25a43@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261004T190000Z
+DTEND:20261004T210000Z
+SUMMARY:Blue Velvet
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:David Lynch vs. the idyllic America that never really existed\n
+ https://drafthouse.com/sf/show/alamo-drafthouse-movie-book-club-blue-velve
+ t\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/alamo-drafthouse-movie-book-club-blue-ve
+ lvet
+END:VEVENT
+BEGIN:VEVENT
+UID:003c0c286a891d9a3a69238a10963b0ad3fb485e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261004T212000Z
+DTEND:20261004T232000Z
+SUMMARY:Digger
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 2:20pm\, 6pm\nA fat-suited Tom Cruise faces a global dis
+ aster\nhttps://drafthouse.com/sf/show/digger\nFrom Pushpin Bay Area: https
+ ://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/digger
+END:VEVENT
+BEGIN:VEVENT
+UID:fe1edb77f62733cf16c06649637e94a7d08dca9a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261004T230000Z
+DTEND:20261005T010000Z
+SUMMARY:Ghost in the Cell
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Rival gangs unite to battle a ghost at a high-security prison.\
+ nhttps://drafthouse.com/sf/show/ghost-in-the-cell\nFrom Pushpin Bay Area: 
+ https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/ghost-in-the-cell
+END:VEVENT
+BEGIN:VEVENT
+UID:980a727202a9f524afafd568ac86293ceb38e934@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261005T210000Z
+DTEND:20261005T230000Z
+SUMMARY:Casino Royale (2006)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:The Pawn. The Con. The Bond.\nhttps://drafthouse.com/sf/show/ca
+ sino-royale\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/casino-royale
+END:VEVENT
+BEGIN:VEVENT
+UID:f235d3f4653be123c1260cfc2bb65b689ac836d1@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261006T043000Z
+DTEND:20261006T063000Z
+SUMMARY:Beetlejuice
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:We dare you to say his name three times\nhttps://drafthouse.com
+ /sf/show/beetlejuice\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/beetlejuice
+END:VEVENT
+BEGIN:VEVENT
+UID:88074a79645cf20f747eaab047937219c76b6d17@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261006T231000Z
+DTEND:20261007T011000Z
+SUMMARY:Union County
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Two brothers go through rehab in a rural town hit hard by the o
+ pioid epidemic\nhttps://drafthouse.com/sf/show/union-county\nFrom Pushpin 
+ Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/union-county
+END:VEVENT
+BEGIN:VEVENT
+UID:503b96aa76085397085f9db8a26b6a1f23c2edc0@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261007T020000Z
+DTEND:20261007T040000Z
+SUMMARY:The History of Concrete
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:John Wilson uses the Hallmark movie formula to make a documenta
+ ry about concrete\nhttps://drafthouse.com/sf/show/the-history-of-concrete\
+ nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:61a558fd14a92badf080ac463ad9c87fe2673d41@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261007T043000Z
+DTEND:20261007T063000Z
+SUMMARY:The Silence of the Lambs
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Do you still hear the lambs screaming?\nhttps://drafthouse.com/
+ sf/show/terror-tuesday-the-silence-of-the-lambs-35mm\nFrom Pushpin Bay Are
+ a: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/terror-tuesday-the-silence-of-the-lambs-
+ 35mm
+END:VEVENT
+BEGIN:VEVENT
+UID:80b0850b73dd714f50f2773e1c341858420e6aed@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261007T233000Z
+DTEND:20261008T013000Z
+SUMMARY:Union County
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Two brothers go through rehab in a rural town hit hard by the o
+ pioid epidemic\nhttps://drafthouse.com/sf/show/union-county\nFrom Pushpin 
+ Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/union-county
+END:VEVENT
+BEGIN:VEVENT
+UID:cd6d10004b9b0bbfbd823a65a74337bea5027742@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261008T020000Z
+DTEND:20261008T040000Z
+SUMMARY:Ghost in the Cell
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Rival gangs unite to battle a ghost at a high-security prison.\
+ nhttps://drafthouse.com/sf/show/ghost-in-the-cell\nFrom Pushpin Bay Area: 
+ https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/ghost-in-the-cell
+END:VEVENT
+BEGIN:VEVENT
+UID:d55abf4f8c9fcdd46ce1f6b02b09e3272a29fa37@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261008T043000Z
+DTEND:20261008T063000Z
+SUMMARY:The Hole (1998)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:https://drafthouse.com/sf/show/weird-wednesday-the-hole-1998\nF
+ rom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/weird-wednesday-the-hole-1998
+END:VEVENT
+BEGIN:VEVENT
+UID:71dbb8bf14091de22b23d925dfe24c68056a7078@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261008T230000Z
+DTEND:20261009T010000Z
+SUMMARY:The Social Reckoning
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 4pm\, 7:10pm\nhttps://drafthouse.com/sf/show/the-social-
+ reckoning\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/the-social-reckoning
+END:VEVENT
+BEGIN:VEVENT
+UID:43b5c4f1d8a717cce0990f09c5dcf33e6b77781a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261009T225000Z
+DTEND:20261010T005000Z
+SUMMARY:The Social Reckoning
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 3:50pm\, 6:45pm\nhttps://drafthouse.com/sf/show/the-soci
+ al-reckoning\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/the-social-reckoning
+END:VEVENT
+BEGIN:VEVENT
+UID:2df749c0f54e249183688af0a7a16d66039e6a14@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261009T230000Z
+DTEND:20261010T010000Z
+SUMMARY:Naza
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 4pm\, 6:30pm\nAn investigation into Israel's mass killin
+ gs of Palestinian civilians in Gaza\nhttps://drafthouse.com/sf/show/naza\n
+ From Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/naza
+END:VEVENT
+BEGIN:VEVENT
+UID:ddedae222500a56af4fccb20814c31e4838d3f3f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T010000Z
+DTEND:20261010T030000Z
+SUMMARY:Your Mother Your Mother Your Mother
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 6pm\, 9:10pm\nA hitman with a conscience and everything 
+ to lose\nhttps://drafthouse.com/sf/show/your-mother-your-mother-your-mothe
+ r\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/your-mother-your-mother-your-mother
+END:VEVENT
+BEGIN:VEVENT
+UID:b9fb2731f3985ebc19dd98934e9a36f7f25e22cc@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T020000Z
+DTEND:20261010T040000Z
+SUMMARY:Hellraiser (1987)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Demon to some. Angel to others.\nhttps://drafthouse.com/sf/show
+ /hellraiser\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/hellraiser
+END:VEVENT
+BEGIN:VEVENT
+UID:0868f2d43f3620c03eb8fb6f9f24a8efdfb1c08c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T185000Z
+DTEND:20261010T205000Z
+SUMMARY:Your Mother Your Mother Your Mother
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:A hitman with a conscience and everything to lose\nhttps://draf
+ thouse.com/sf/show/your-mother-your-mother-your-mother\nFrom Pushpin Bay A
+ rea: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/your-mother-your-mother-your-mother
+END:VEVENT
+BEGIN:VEVENT
+UID:f4f6685cf2c540abf3e360e638de9ae0b9a76731@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T215000Z
+DTEND:20261010T235000Z
+SUMMARY:The Social Reckoning
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 2:50pm\, 6pm\nhttps://drafthouse.com/sf/show/the-social-
+ reckoning\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/the-social-reckoning
+END:VEVENT
+BEGIN:VEVENT
+UID:3cf3dea14207d6ce4b67561bdf0ad277af7ee730@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T220000Z
+DTEND:20261011T000000Z
+SUMMARY:Dismember the Alamo 2026 - New Mission
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:https://drafthouse.com/sf/show/dismember-the-alamo-2026-new-mis
+ sion\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/dismember-the-alamo-2026-new-mission
+END:VEVENT
+BEGIN:VEVENT
+UID:3e3e34ec3cf197f3c5ef11beff9a661e2fc1a230@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T230000Z
+DTEND:20261011T010000Z
+SUMMARY:Naza
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 4pm\, 6:30pm\nAn investigation into Israel's mass killin
+ gs of Palestinian civilians in Gaza\nhttps://drafthouse.com/sf/show/naza\n
+ From Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/naza
+END:VEVENT
+BEGIN:VEVENT
+UID:d78b94e2e6b5fe604d2df06fcd3e3d6a0ebbd5d3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261011T220000Z
+DTEND:20261012T000000Z
+SUMMARY:The Social Reckoning
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 3pm\, 7:20pm\nhttps://drafthouse.com/sf/show/the-social-
+ reckoning\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/the-social-reckoning
+END:VEVENT
+BEGIN:VEVENT
+UID:1565540a45f348c209fe0e488bffb927132fbb76@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261011T223000Z
+DTEND:20261012T003000Z
+SUMMARY:DEVO: RESTORATIONS AND REVELATIONS - Collected Film Works 1976-1984
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:https://drafthouse.com/sf/show/devo-restorations-and-revelation
+ s-collected-film-works-1976-1984\nFrom Pushpin Bay Area: https://pushpin.c
+ ity/bayarea/
+URL:https://drafthouse.com/sf/show/devo-restorations-and-revelations-collec
+ ted-film-works-1976-1984
+END:VEVENT
+BEGIN:VEVENT
+UID:e404ac800a12ffe51da226b027bc00900a9de4dc@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261011T230000Z
+DTEND:20261012T010000Z
+SUMMARY:Showgirls
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Paul Verhoeven's high glam & camp satire\nhttps://drafthouse.co
+ m/sf/show/alamo-drafthouse-movie-book-club-showgirls\nFrom Pushpin Bay Are
+ a: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/alamo-drafthouse-movie-book-club-showgir
+ ls
+END:VEVENT
+BEGIN:VEVENT
+UID:14965b9eab421eb033e026f0864c89a43b43c009@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261011T233000Z
+DTEND:20261012T013000Z
+SUMMARY:Naza
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 4:30pm\, 7pm\nAn investigation into Israel's mass killin
+ gs of Palestinian civilians in Gaza\nhttps://drafthouse.com/sf/show/naza\n
+ From Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/naza
+END:VEVENT
+BEGIN:VEVENT
+UID:d5b063976f6c56168b6c1cfcc75aa59d2b18b8f3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261012T012000Z
+DTEND:20261012T032000Z
+SUMMARY:Your Mother Your Mother Your Mother
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:A hitman with a conscience and everything to lose\nhttps://draf
+ thouse.com/sf/show/your-mother-your-mother-your-mother\nFrom Pushpin Bay A
+ rea: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/your-mother-your-mother-your-mother
+END:VEVENT
+BEGIN:VEVENT
+UID:54a94f3d483d3323eec3fd931f3a4e5c43a5f5ff@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261012T221500Z
+DTEND:20261013T001500Z
+SUMMARY:Your Mother Your Mother Your Mother
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:A hitman with a conscience and everything to lose\nhttps://draf
+ thouse.com/sf/show/your-mother-your-mother-your-mother\nFrom Pushpin Bay A
+ rea: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/your-mother-your-mother-your-mother
+END:VEVENT
+BEGIN:VEVENT
+UID:69651d408943e5c9f6026b79328739ce77031d19@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261012T233000Z
+DTEND:20261013T013000Z
+SUMMARY:Naza
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 4:30pm\, 7pm\nAn investigation into Israel's mass killin
+ gs of Palestinian civilians in Gaza\nhttps://drafthouse.com/sf/show/naza\n
+ From Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/naza
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e38edac2057ab9fe351082aa1f2ca44443fc04@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261013T013000Z
+DTEND:20261013T033000Z
+SUMMARY:The Texas Chain Saw Massacre (1974)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Get revved up for the nerve-shredding horror classic\nhttps://d
+ rafthouse.com/sf/show/the-texas-chainsaw-massacre-1974\nFrom Pushpin Bay A
+ rea: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/the-texas-chainsaw-massacre-1974
+END:VEVENT
+BEGIN:VEVENT
+UID:7690b7534a451026b60bc63d56bc66c0c06eb0f7@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261013T214500Z
+DTEND:20261013T234500Z
+SUMMARY:Your Mother Your Mother Your Mother
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 2:45pm\, 6pm\nA hitman with a conscience and everything 
+ to lose\nhttps://drafthouse.com/sf/show/your-mother-your-mother-your-mothe
+ r\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/your-mother-your-mother-your-mother
+END:VEVENT
+BEGIN:VEVENT
+UID:e0ab10a43d33868cd39f55a64e96cd516438a67d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261013T230000Z
+DTEND:20261014T010000Z
+SUMMARY:Naza
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:An investigation into Israel's mass killings of Palestinian civ
+ ilians in Gaza\nhttps://drafthouse.com/sf/show/naza\nFrom Pushpin Bay Area
+ : https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/naza
+END:VEVENT
+BEGIN:VEVENT
+UID:b1784557eb6e11ef2f7a14b0bb93edcea7235ad9@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261014T020000Z
+DTEND:20261014T040000Z
+SUMMARY:Repo! The Genetic Opera
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:https://drafthouse.com/sf/show/movie-party-repo-the-genetic-ope
+ ra\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/movie-party-repo-the-genetic-opera
+END:VEVENT
+BEGIN:VEVENT
+UID:7df21bdb6487f89516f7b581939114e995991d67@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261014T041500Z
+DTEND:20261014T061500Z
+SUMMARY:Ginger Snaps
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:They don't call it the curse for nothing\nhttps://drafthouse.co
+ m/sf/show/terror-tuesday-ginger-snaps\nFrom Pushpin Bay Area: https://push
+ pin.city/bayarea/
+URL:https://drafthouse.com/sf/show/terror-tuesday-ginger-snaps
+END:VEVENT
+BEGIN:VEVENT
+UID:b51f11ad0b8f9c70f3fbee2dda070ddb9d2053e7@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261014T220000Z
+DTEND:20261015T000000Z
+SUMMARY:Your Mother Your Mother Your Mother
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 3pm\, 6:10pm\nA hitman with a conscience and everything 
+ to lose\nhttps://drafthouse.com/sf/show/your-mother-your-mother-your-mothe
+ r\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/your-mother-your-mother-your-mother
+END:VEVENT
+BEGIN:VEVENT
+UID:0c6201c6263ac81820b739a290a4e997a69b8709@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261014T230000Z
+DTEND:20261015T010000Z
+SUMMARY:Naza
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 4pm\, 6:30pm\nAn investigation into Israel's mass killin
+ gs of Palestinian civilians in Gaza\nhttps://drafthouse.com/sf/show/naza\n
+ From Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/naza
+END:VEVENT
+BEGIN:VEVENT
+UID:59bbe8b35bb3603d00a1dcd4ea8d9abeb533758f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261015T042000Z
+DTEND:20261015T062000Z
+SUMMARY:Lisztomania
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:The surreal life of rock star composer Franz Liszt\nhttps://dra
+ fthouse.com/sf/show/weird-wednesday-lisztomania\nFrom Pushpin Bay Area: ht
+ tps://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/weird-wednesday-lisztomania
+END:VEVENT
+BEGIN:VEVENT
+UID:d4c5d3d2167984b707ff8ad6ff22b82d6001f1d5@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261015T230000Z
+DTEND:20261016T010000Z
+SUMMARY:Naza
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 4pm\, 6:30pm\nAn investigation into Israel's mass killin
+ gs of Palestinian civilians in Gaza\nhttps://drafthouse.com/sf/show/naza\n
+ From Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/naza
+END:VEVENT
+BEGIN:VEVENT
+UID:60da0ba62430e3d070ff82574d04b169e8082317@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261016T020000Z
+DTEND:20261016T040000Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Experience the uncut version\, newly restored and remastered in
+  4K\nhttps://drafthouse.com/sf/show/ken-russells-the-devils\nFrom Pushpin 
+ Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/ken-russells-the-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:a8d02314d5d2adc4b9e0e30ad246b85f3fc24dde@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261016T214500Z
+DTEND:20261016T234500Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 2:45pm\, 6pm\, 9:15pm\nExperience the uncut version\, ne
+ wly restored and remastered in 4K\nhttps://drafthouse.com/sf/show/ken-russ
+ ells-the-devils\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/ken-russells-the-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:10e9c3a2421f9e95521fba7d2efb87ad381f8930@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261017T020000Z
+DTEND:20261017T040000Z
+SUMMARY:Hellbound: Hellraiser II
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Clive Barker takes us on a decent into Hell\nhttps://drafthouse
+ .com/sf/show/hellbound-hellraiser-ii\nFrom Pushpin Bay Area: https://pushp
+ in.city/bayarea/
+URL:https://drafthouse.com/sf/show/hellbound-hellraiser-ii
+END:VEVENT
+BEGIN:VEVENT
+UID:4b8fa0d6803157809e2485d2e121efe7ed28426a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261017T183000Z
+DTEND:20261017T203000Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 11:30am\, 2:45pm\, 6pm\, 9:15pm\nExperience the uncut ve
+ rsion\, newly restored and remastered in 4K\nhttps://drafthouse.com/sf/sho
+ w/ken-russells-the-devils\nFrom Pushpin Bay Area: https://pushpin.city/bay
+ area/
+URL:https://drafthouse.com/sf/show/ken-russells-the-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:9b52ee0511833617c8bd34b91fc71306d8e987d9@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261018T190000Z
+DTEND:20261018T210000Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 12pm\, 3:15pm\, 6:30pm\nExperience the uncut version\, n
+ ewly restored and remastered in 4K\nhttps://drafthouse.com/sf/show/ken-rus
+ sells-the-devils\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/ken-russells-the-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:5e0422bd920a090966596e9d748c5d0265a54863@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261020T023000Z
+DTEND:20261020T043000Z
+SUMMARY:Yuri!!! on Ice (Subtitled)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:The first five episodes of the classic series\nhttps://drafthou
+ se.com/sf/show/crunchyroll-anime-nights-yuri-on-ice-subtitled-10th-anniver
+ sary\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/crunchyroll-anime-nights-yuri-on-ice-sub
+ titled-10th-anniversary
+END:VEVENT
+BEGIN:VEVENT
+UID:0b82712d97fc7afc3c00f66d802222c31b69a4b5@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261021T020000Z
+DTEND:20261021T040000Z
+SUMMARY:The Cycle
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:https://drafthouse.com/sf/show/the-cycle\nFrom Pushpin Bay Area
+ : https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/the-cycle
+END:VEVENT
+BEGIN:VEVENT
+UID:68f2059252cfa64596b6b443d38fa024a9c456d6@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261021T041500Z
+DTEND:20261021T061500Z
+SUMMARY:The Curse of the Werewolf (1961)
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Oliver Reed goes fangs out for this overlooked British treasure
+ .\nhttps://drafthouse.com/sf/show/terror-tuesday-the-curse-of-the-werewolf
+ -1961-2\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/terror-tuesday-the-curse-of-the-werewolf
+ -1961-2
+END:VEVENT
+BEGIN:VEVENT
+UID:1c634b8545d579f79b7dde3682627c51cf56fe97@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261022T014000Z
+DTEND:20261022T034000Z
+SUMMARY:A Tale of Two Sisters
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Every family has its dark secrets\nhttps://drafthouse.com/sf/sh
+ ow/sad-girl-cinema-club-a-tale-of-two-sisters\nFrom Pushpin Bay Area: http
+ s://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/sad-girl-cinema-club-a-tale-of-two-siste
+ rs
+END:VEVENT
+BEGIN:VEVENT
+UID:eaa233aa7467fb536429ee3ecb9c68caa0adc411@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261022T045000Z
+DTEND:20261022T065000Z
+SUMMARY:Manos: The Hands of Fate
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:https://drafthouse.com/sf/show/weird-wednesday-manos-the-hands-
+ of-fate\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/weird-wednesday-manos-the-hands-of-fate
+END:VEVENT
+BEGIN:VEVENT
+UID:0237a26a02bdd2ace6f5e7d60177caba8c1e3c76@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261025T043000Z
+DTEND:20261025T063000Z
+SUMMARY:NOFX: 40 Years of Fuckin' Up
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:The history of one of punk’s loudest and most stubbornly inde
+ pendent bands\nhttps://drafthouse.com/sf/show/nofx-40-years-of-fuckin-up\n
+ From Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/nofx-40-years-of-fuckin-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dffd18d3e42ad16fa6c840eaa35681fd2ea53b2b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261025T190000Z
+DTEND:20261025T210000Z
+SUMMARY:Godzilla vs. Megalon
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:https://drafthouse.com/sf/show/godzilla-vs-megalon\nFrom Pushpi
+ n Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/godzilla-vs-megalon
+END:VEVENT
+BEGIN:VEVENT
+UID:786b7881cffb16b2a604b9b989b99ab69144346d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261027T020000Z
+DTEND:20261027T040000Z
+SUMMARY:Daughters of Darkness
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:They are waiting for you...they thrive on blood!\nhttps://draft
+ house.com/sf/show/queer-film-theory-101-daughters-of-darkness\nFrom Pushpi
+ n Bay Area: https://pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/queer-film-theory-101-daughters-of-darkn
+ ess
+END:VEVENT
+BEGIN:VEVENT
+UID:e74726855b2350ecfc2dd716b0b72f0348497f50@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261027T021500Z
+DTEND:20261027T041500Z
+SUMMARY:Littermates
+LOCATION:Alamo New Mission\, 2550 Mission St\, San Francisco\, CA 94110
+DESCRIPTION:Times: 7:15pm\, 10pm\nhttps://drafthouse.com/sf/show/fantastic-
+ fest-presents-littermates-advance-screening\nFrom Pushpin Bay Area: https:
+ //pushpin.city/bayarea/
+URL:https://drafthouse.com/sf/show/fantastic-fest-presents-littermates-adva
+ nce-screening
+END:VEVENT
+END:VCALENDAR

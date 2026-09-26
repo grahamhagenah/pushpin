@@ -1,0 +1,271 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Shea Theater
+X-WR-CALDESC:What’s coming up at Shea Theater\, from Pushpin Western Mass
+ .
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:6befa89f74b94c706836ee09deb6ff8804c37085@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T150000Z
+DTEND:20260926T170000Z
+SUMMARY:Spirit and Song: A Psychic Medium Fair and Concert
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Presented by the National Spirit Alliance. Join us for an inspi
+ ring day where music\, healing\, creativity\, history\, and community come
+  together under one roof. Psychic Fair by day and Concert by night!\nhttps
+ ://sheatheater.org/d/23314/Spirit-and-Song-A-Psychic-Medium-Fair-and-Conce
+ rt\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23314/Spirit-and-Song-A-Psychic-Medium-Fair-a
+ nd-Concert
+END:VEVENT
+BEGIN:VEVENT
+UID:fb2db8b3d72d616516f4803b01a9a315c7af3dc3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T000000Z
+DTEND:20261003T020000Z
+SUMMARY:Sam Grisman Project
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Sam Grisman Project debuts at the Shea on Friday 10.02.26! Gene
+ ral Admission Seated and General Admission Standing tickets on sale NOW.\n
+ https://sheatheater.org/d/23292/Shea-Presents-Sam-Grisman-Project\nFrom Pu
+ shpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23292/Shea-Presents-Sam-Grisman-Project
+END:VEVENT
+BEGIN:VEVENT
+UID:efbed817942b7d98052f74e8d5fd7c73b7680a6f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261011T000000Z
+DTEND:20261011T020000Z
+SUMMARY:A Farewell 2 Kings- Rush tribute
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:We had such a great time hosting AF2K back in January we though
+ t we should have them back again in October! They will be performing Movin
+ g Pictures in its entirety!\nhttps://sheatheater.org/d/23301/Shea-Presents
+ -A-Farewell-2-Kings--Rush-tribute\nFrom Pushpin Western Mass: https://push
+ pin.city/westernma/
+URL:https://sheatheater.org/d/23301/Shea-Presents-A-Farewell-2-Kings--Rush-
+ tribute
+END:VEVENT
+BEGIN:VEVENT
+UID:d933d95250697ae66dc40635144c67d1dab2d0e5@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261017T000000Z
+DTEND:20261017T020000Z
+SUMMARY:Ladies of the 80s Night Out at the Shea
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Get ready to rewind\, relive\, and rock the night away! The ult
+ imate decade of decadence is back for one night only at the Ladies of the 
+ 80s Night Out\, featuring the sensational\, NYC-based 80s tribute show.\nh
+ ttps://sheatheater.org/d/23321/Ladies-of-the-80s-Night-Out-at-the-Shea\nFr
+ om Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23321/Ladies-of-the-80s-Night-Out-at-the-Shea
+END:VEVENT
+BEGIN:VEVENT
+UID:7910bc4a25eb095b63246e4f55ea68a53c06bc2a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261018T000000Z
+DTEND:20261018T020000Z
+SUMMARY:Tim Palmieri and Friends present “Steely Beck”
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:A Tribute to Steely Dan and Jeff Beck\nhttps://sheatheater.org/
+ d/23326/Shea-Presents-Tim-Palmieri-and-Friends-present-Steely-Beck\nFrom P
+ ushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23326/Shea-Presents-Tim-Palmieri-and-Friends-
+ present-Steely-Beck
+END:VEVENT
+BEGIN:VEVENT
+UID:d83e02ca694b6db1f32dfbbacd7fed7dc7bbc651@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261019T000000Z
+DTEND:20261019T020000Z
+SUMMARY:Dustbowl Revival
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:We are super thrilled to welcome back Dustbowl Revival to the S
+ hea stage in October! It’s been a long 3 years since they last played he
+ re in the sweltering summer of 2023. Let's rock the house this foliage sea
+ son!\nhttps://sheatheater.org/d/23300/Shea-Presents-Dustbowl-Revival\nFrom
+  Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23300/Shea-Presents-Dustbowl-Revival
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a8c683cf1c2bff4f1e70a097617d5d27d8fea7@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261021T233000Z
+DTEND:20261022T013000Z
+SUMMARY:Troy Ramey at the Shea
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:After a near sell out performance in 2025\, we are thrilled to 
+ welcome back Troy Ramey on Wednesday\, 10/21! Over 25 million Spotify stre
+ ams and his underground hit song “Woman” becoming a wedding favorite!\
+ nhttps://sheatheater.org/d/23320/Troy-Ramey-at-the-Shea\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23320/Troy-Ramey-at-the-Shea
+END:VEVENT
+BEGIN:VEVENT
+UID:dbe0a907c3721ae87778c0e687992f10164fcd1c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261022T230000Z
+DTEND:20261023T010000Z
+SUMMARY:FAR OUT- Screening and Discussion
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Back by Popular Demand! This screening and Q and A sold out las
+ t time\, so grab your tickets now! Please join Charles Light\, and Dan Kel
+ ler\, filmmakers as well as Sam Lovejoy\, anti-nuclear activist and commun
+ e resident and Patty Carpenter\nhttps://sheatheater.org/d/23335/Shea-Prese
+ nts-FAR-OUT--Screening-and-Discussion\nFrom Pushpin Western Mass: https://
+ pushpin.city/westernma/
+URL:https://sheatheater.org/d/23335/Shea-Presents-FAR-OUT--Screening-and-Di
+ scussion
+END:VEVENT
+BEGIN:VEVENT
+UID:65eadab9ce3029d56b2f7a5f0e0faa63dc7c1cd3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261024T000000Z
+DTEND:20261024T020000Z
+SUMMARY:Vapors of Morphine
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Vapors of Morphine return to the Shea on Friday 10.23! They’l
+ l be joined by local heroes King Saison\nhttps://sheatheater.org/d/23322/S
+ hea-Presents-Vapors-of-Morphine\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://sheatheater.org/d/23322/Shea-Presents-Vapors-of-Morphine
+END:VEVENT
+BEGIN:VEVENT
+UID:46fec1ba8443afa65cc82dcb2765d58f6e1cec87@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261025T000000Z
+DTEND:20261025T020000Z
+SUMMARY:Harvest and Rust- Neil Young Experience
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Harvest & Rust Neil Young experience returns to the Shea on Oct
+ ober 24th! Hear all your favorite Neil songs from his time in Buffalo Spri
+ ngfield to “Rockin’ in the Free World” and beyond!\nhttps://sheathea
+ ter.org/d/23319/Shea-Presents-Harvest-and-Rust--Neil-Young-Experience\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23319/Shea-Presents-Harvest-and-Rust--Neil-Yo
+ ung-Experience
+END:VEVENT
+BEGIN:VEVENT
+UID:762f963388ca69f65bbaa3a6d37dc07b152c898f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261030T220000Z
+DTEND:20261031T000000Z
+SUMMARY:A HAPPENING VI- SALVAGE
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Times: 6pm\, 8:30pm\nCloudgaze Productions presents\nOn Hallowe
+ en weekend\, October 30 and 31\, Cloudgaze Productions presents “A Happe
+ ning VI: SALVAGE”\, a fully explorable\, spectacular\, theatrical world.
+  VIP ACCESS is exclusive from 6:00-6:30. General Entry is from 6:30-8:00.\
+ nhttps://sheatheater.org/d/23328/Cloudgaze-Productions-Presents-A-HAPPENIN
+ G-VI--SALVAGE\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23328/Cloudgaze-Productions-Presents-A-HAPPEN
+ ING-VI--SALVAGE
+END:VEVENT
+BEGIN:VEVENT
+UID:85eb39ea1f461e554571429e2845081e5c5d1d9a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:A HAPPENING VI- SALVAGE
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Times: 6pm\, 8:30pm\nCloudgaze Productions presents\nOn Hallowe
+ en weekend\, October 30 and 31\, Cloudgaze Productions presents “A Happe
+ ning VI: SALVAGE”\, a fully explorable\, spectacular\, theatrical world.
+  VIP ACCESS is exclusive from 6:00-6:30. General Entry is from 6:30-8:00.\
+ nhttps://sheatheater.org/d/23331/Cloudgaze-Productions-Presents-A-HAPPENIN
+ G-VI--SALVAGE\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23331/Cloudgaze-Productions-Presents-A-HAPPEN
+ ING-VI--SALVAGE
+END:VEVENT
+BEGIN:VEVENT
+UID:67751d0e61ef71d894489884338fd2139841869a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261107T010000Z
+DTEND:20261107T030000Z
+SUMMARY:Dead Man's Waltz
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:The Shea Theater is pleased to present an evening of Dead Man
+ ’s Waltz\, a triple tribute to The Grateful Dead\, The Band\, and The Al
+ lman Brothers Band\, on Friday\, November 6th.\nhttps://sheatheater.org/d/
+ 23317/Shea-Presents-Dead-Mans-Waltz\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://sheatheater.org/d/23317/Shea-Presents-Dead-Mans-Waltz
+END:VEVENT
+BEGIN:VEVENT
+UID:743acbaf4f665ddda3f78dfd640bcc33fe492898@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261108T010000Z
+DTEND:20261108T030000Z
+SUMMARY:Wooden Horse- a tribute to America and CSNY
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:#GETTOTHESHEA on Saturday\, November 7th 2026 for a night of th
+ e beautiful music of America and CSNY ? Wooden Horse at the Shea Theater A
+ rts Center in Turners Falls\nhttps://sheatheater.org/d/23315/Shea-Presents
+ -Wooden-Horse--a-tribute-to-America-and-CSNY\nFrom Pushpin Western Mass: h
+ ttps://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23315/Shea-Presents-Wooden-Horse--a-tribute-t
+ o-America-and-CSNY
+END:VEVENT
+BEGIN:VEVENT
+UID:4636c59fe7d93e670234d8756b8a6ccaf67c1f42@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261114T010000Z
+DTEND:20261114T030000Z
+SUMMARY:Upstate
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:The Shea Theater is pleased to welcome back Upstate from Hudson
+  Valley\, NY on Friday\, November 13th for their Abalone Tour.\nhttps://sh
+ eatheater.org/d/23313/Shea-Presents-Upstate\nFrom Pushpin Western Mass: ht
+ tps://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23313/Shea-Presents-Upstate
+END:VEVENT
+BEGIN:VEVENT
+UID:5af0aef240434139fdd11e65345d1e51102daf72@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+SUMMARY:Little Lies- A Tribute to Fleetwood Mac
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:We would never break the chain\, so we are pleased to once agai
+ n welcome Little Lies in November! Their last two performances were sellou
+ ts so don’t wait to get your tickets- or else you’ll be never going ba
+ ck again!\nhttps://sheatheater.org/d/23327/Shea-Presents-Little-Lies--A-Tr
+ ibute-to-Fleetwood-Mac\nFrom Pushpin Western Mass: https://pushpin.city/we
+ sternma/
+URL:https://sheatheater.org/d/23327/Shea-Presents-Little-Lies--A-Tribute-to
+ -Fleetwood-Mac
+END:VEVENT
+BEGIN:VEVENT
+UID:ec53ef271f8ea5477dfde1001f65424ed643e1e4@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261121T010000Z
+DTEND:20261121T030000Z
+SUMMARY:Mamma Mania!
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:You asked\, we delivered! MAMMA MANIA! is returning to the Shea
+  in November! Dress to impress on 11.20.26!\nhttps://sheatheater.org/d/233
+ 18/Shea-Presents-Mamma-Mania\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://sheatheater.org/d/23318/Shea-Presents-Mamma-Mania
+END:VEVENT
+BEGIN:VEVENT
+UID:35da8d093e3ef64d3dac253423ecfbfa3867eadf@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:Donna The Buffalo
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:We had such a great time hosting Donna The Buffalo last year we
+  all decided it would be most prudent to have it all happen again this com
+ ing November! Plenty of dance floor plus seated options. Tickets are on sa
+ le now!\nhttps://sheatheater.org/d/23293/Shea-Presents-Donna-The-Buffalo\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23293/Shea-Presents-Donna-The-Buffalo
+END:VEVENT
+END:VCALENDAR

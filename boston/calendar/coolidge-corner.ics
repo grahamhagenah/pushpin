@@ -1,0 +1,930 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Coolidge Corner
+X-WR-CALDESC:What’s coming up at Coolidge Corner\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:735a304c5844f979d8bb36fd86b70bd7676c7572@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T150000Z
+DTEND:20260926T170000Z
+SUMMARY:Ha-Chan\, Shake Your Booty!
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11am\, 1:30pm\, 4pm\, 6:50pm\nA film by Josef Kubota Wla
+ dyka\, starring Rinko Kikuchi.\nhttps://coolidge.org/films/ha-chan-shake-y
+ our-booty\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/ha-chan-shake-your-booty
+END:VEVENT
+BEGIN:VEVENT
+UID:63c473b0e83180a0c953006dbd333bc766168c53@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T151000Z
+DTEND:20260926T171000Z
+SUMMARY:Primetime
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:10am\, 1:40pm\, 4:30pm\, 7:15pm\, 9:45pm\nThe debut n
+ arrative feature from Lance Oppenheim\, starring Robert Pattinson as Chris
+  Hansen.\nhttps://coolidge.org/films/primetime\nFrom Pushpin Boston: https
+ ://pushpin.city/boston/
+URL:https://coolidge.org/films/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:355d291b91971f8b85838c24842d428bc939d02b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T152000Z
+DTEND:20260926T172000Z
+SUMMARY:Union County
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:20am\, 9:15pm\nWill Poulter and Noah Centineo deliver
+  pitch-perfect performances as brothers Cody and Jack Parsons\, each navig
+ ating a court-mandated drug rehabilitation program in a pocket of rural Oh
+ io hit hard by the opioid epidemic.\nhttps://coolidge.org/films/union-coun
+ ty\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/union-county
+END:VEVENT
+BEGIN:VEVENT
+UID:09261c054c03b19df7142185312ef861fce52992@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T154000Z
+DTEND:20260926T174000Z
+SUMMARY:The History of Concrete
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:40am\, 2:15pm\, 4:45pm\, 7:30pm\, 9:55pm\nDocumentari
+ an John Wilson applies lessons from a Hallmark movie writing workshop to p
+ itch a documentary about concrete.\nhttps://coolidge.org/films/history-con
+ crete\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:8f3824d457e7e6a5a032b4871dd13114ff029f3c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T155000Z
+DTEND:20260926T175000Z
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:50am\, 1:50pm\nFrom the creators of Wallace and Gromi
+ t and Chicken Run.\nhttps://coolidge.org/films/shaun-sheep-beast-mossy-bot
+ tom\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/shaun-sheep-beast-mossy-bottom
+END:VEVENT
+BEGIN:VEVENT
+UID:f742fa70641c7a617906d101fbfb96ac9c0dd66a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T173500Z
+DTEND:20260926T193500Z
+SUMMARY:American Doctor
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 1:35pm\, 4:10pm\, 6:30pm\nDirector Poh Si Teng will join
+  us for post-film discussions following our 7:15pm screenings on 9/17 & 18
+ .\nhttps://coolidge.org/films/american-doctor\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://coolidge.org/films/american-doctor
+END:VEVENT
+BEGIN:VEVENT
+UID:3152e80fff5fcedc142485286369a9bae859fa92@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T180000Z
+DTEND:20260926T200000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 2pm\, 4:20pm\, 6:40pm\nThe movie ACME didn't want you to
+  see!\nhttps://coolidge.org/films/coyote-vs-acme\nFrom Pushpin Boston: htt
+ ps://pushpin.city/boston/
+URL:https://coolidge.org/films/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:a0f736294086fbaf1becb8e1030aa60126d4b030@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T194500Z
+DTEND:20260926T214500Z
+SUMMARY:Tony (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:45pm\, 6:15pm\, 8:45pm\nFrom director Matt Johnson (Ni
+ rvanna the Band the Show the Movie)\, starring Dominic Sessa (The Holdover
+ s).\nhttps://coolidge.org/films/tony-2026\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://coolidge.org/films/tony-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:16bc384dbf233dac29f3380d5062b4e13ffca3cc@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T010000Z
+DTEND:20260927T030000Z
+SUMMARY:Hope (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:2hrs 40mins\nhttps://coolidge.org/films/hope-2026\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/hope-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:4e7f0762c227c65af7309e6cf758095edffe66a2@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T013000Z
+DTEND:20260927T033000Z
+SUMMARY:The Weight
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:The feature debut of director Padraic McKinley\, starring Ethan
+  Hawke and Russell Crowe.\nhttps://coolidge.org/films/weight\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:62d4b2e67cccca06eb9ea55f0bacae9e0b68805a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T035900Z
+DTEND:20260927T055900Z
+SUMMARY:Cannibal Holocaust (4K Restoration)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:The mother of all cannibal films.\nhttps://coolidge.org/films/c
+ annibal-holocaust-4k-restoration\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://coolidge.org/films/cannibal-holocaust-4k-restoration
+END:VEVENT
+BEGIN:VEVENT
+UID:1de9cb86f180a85dff817ddd37aa3243d92e6c16@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T150000Z
+DTEND:20260927T170000Z
+SUMMARY:Ha-Chan\, Shake Your Booty!
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11am\, 1:30pm\, 4pm\, 6:50pm\nA film by Josef Kubota Wla
+ dyka\, starring Rinko Kikuchi.\nhttps://coolidge.org/films/ha-chan-shake-y
+ our-booty\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/ha-chan-shake-your-booty
+END:VEVENT
+BEGIN:VEVENT
+UID:cc555f1afaf0d46651975da9921e443819c5954d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T151000Z
+DTEND:20260927T171000Z
+SUMMARY:Primetime
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:10am\, 2:30pm\, 5pm\, 7:15pm\, 9:45pm\nThe debut narr
+ ative feature from Lance Oppenheim\, starring Robert Pattinson as Chris Ha
+ nsen.\nhttps://coolidge.org/films/primetime\nFrom Pushpin Boston: https://
+ pushpin.city/boston/
+URL:https://coolidge.org/films/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:57312112ef3b6b72650f6020736c42585c37c486@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T152000Z
+DTEND:20260927T172000Z
+SUMMARY:Union County
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:20am\, 9:15pm\nWill Poulter and Noah Centineo deliver
+  pitch-perfect performances as brothers Cody and Jack Parsons\, each navig
+ ating a court-mandated drug rehabilitation program in a pocket of rural Oh
+ io hit hard by the opioid epidemic.\nhttps://coolidge.org/films/union-coun
+ ty\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/union-county
+END:VEVENT
+BEGIN:VEVENT
+UID:70ee74dfd927c97590a264fef07fe7ac0082d93c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T154000Z
+DTEND:20260927T174000Z
+SUMMARY:The History of Concrete
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:40am\, 2:15pm\, 4:30pm\, 7:30pm\, 9:55pm\nDocumentari
+ an John Wilson applies lessons from a Hallmark movie writing workshop to p
+ itch a documentary about concrete.\nhttps://coolidge.org/films/history-con
+ crete\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:57cf4e05cc41819d9a9a47cad247c694663c00cc@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T155000Z
+DTEND:20260927T175000Z
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:50am\, 1:50pm\nFrom the creators of Wallace and Gromi
+ t and Chicken Run.\nhttps://coolidge.org/films/shaun-sheep-beast-mossy-bot
+ tom\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/shaun-sheep-beast-mossy-bottom
+END:VEVENT
+BEGIN:VEVENT
+UID:5d7820f9a88e74a04712c9585f3a69743f538b7a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T173500Z
+DTEND:20260927T193500Z
+SUMMARY:American Doctor
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 1:35pm\, 4:10pm\, 6:30pm\nDirector Poh Si Teng will join
+  us for post-film discussions following our 7:15pm screenings on 9/17 & 18
+ .\nhttps://coolidge.org/films/american-doctor\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://coolidge.org/films/american-doctor
+END:VEVENT
+BEGIN:VEVENT
+UID:40c80b632a8987084480c80aec4276bf31399a13@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T180000Z
+DTEND:20260927T200000Z
+SUMMARY:Uncle Boonmee Who Can Recall His Past Lives
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Apichatpong Weerasethakul's Palme d'Or winning film.\nhttps://c
+ oolidge.org/films/uncle-boonmee-who-can-recall-his-past-lives\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/uncle-boonmee-who-can-recall-his-past-lives
+END:VEVENT
+BEGIN:VEVENT
+UID:7b1fce0992fe92690bf706134bb6f87c3708f25c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T194500Z
+DTEND:20260927T214500Z
+SUMMARY:Tony (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:45pm\, 6:15pm\, 8:45pm\nFrom director Matt Johnson (Ni
+ rvanna the Band the Show the Movie)\, starring Dominic Sessa (The Holdover
+ s).\nhttps://coolidge.org/films/tony-2026\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://coolidge.org/films/tony-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:d29f9cf5e5db9e13464e1596c2270ceaf5b2baeb@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T204500Z
+DTEND:20260927T224500Z
+SUMMARY:Monty Python and the Holy Grail
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Another film completely different from some of the other films 
+ which aren't quite the same as this one is.\nhttps://coolidge.org/films/mo
+ nty-python-and-holy-grail\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://coolidge.org/films/monty-python-and-holy-grail
+END:VEVENT
+BEGIN:VEVENT
+UID:217de156f7bab6074c38bc8b15b32feeafed13ba@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T224000Z
+DTEND:20260928T004000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:The movie ACME didn't want you to see!\nhttps://coolidge.org/fi
+ lms/coyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:0a35163e8493b5b493dd7f75451520d67734552e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T010000Z
+DTEND:20260928T030000Z
+SUMMARY:Akira (4K Restoration)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Katsuhiro Otomo's landmark cyberpunk classic\, the definitive a
+ nime masterpiece!\nhttps://coolidge.org/films/akira-4k-restoration\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/akira-4k-restoration
+END:VEVENT
+BEGIN:VEVENT
+UID:476086a201ef8cde8ce45af7a3afd438b7d239bf@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T013000Z
+DTEND:20260928T033000Z
+SUMMARY:The Weight
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:The feature debut of director Padraic McKinley\, starring Ethan
+  Hawke and Russell Crowe.\nhttps://coolidge.org/films/weight\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:388508c0b826640f86e02162fdd1a009c715e86f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T194500Z
+DTEND:20260928T214500Z
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:From the creators of Wallace and Gromit and Chicken Run.\nhttps
+ ://coolidge.org/films/shaun-sheep-beast-mossy-bottom\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://coolidge.org/films/shaun-sheep-beast-mossy-bottom
+END:VEVENT
+BEGIN:VEVENT
+UID:ae6e601a11b430040742d71f0230d0785a4167ad@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T200000Z
+DTEND:20260928T220000Z
+SUMMARY:Ha-Chan\, Shake Your Booty!
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4pm\, 6:30pm\nA film by Josef Kubota Wladyka\, starring 
+ Rinko Kikuchi.\nhttps://coolidge.org/films/ha-chan-shake-your-booty\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/ha-chan-shake-your-booty
+END:VEVENT
+BEGIN:VEVENT
+UID:19687874d96f52a08830baac3297a36880d5f372@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T201000Z
+DTEND:20260928T221000Z
+SUMMARY:American Doctor
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:10pm\, 6:40pm\nDirector Poh Si Teng will join us for p
+ ost-film discussions following our 7:15pm screenings on 9/17 & 18.\nhttps:
+ //coolidge.org/films/american-doctor\nFrom Pushpin Boston: https://pushpin
+ .city/boston/
+URL:https://coolidge.org/films/american-doctor
+END:VEVENT
+BEGIN:VEVENT
+UID:453c4bf56e95a9be2d9b14f5d3cca564f76c9f08@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T202000Z
+DTEND:20260928T222000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:The movie ACME didn't want you to see!\nhttps://coolidge.org/fi
+ lms/coyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:8574e7920e2d4f3a7db48cc446ccf658ef718fdd@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T203000Z
+DTEND:20260928T223000Z
+SUMMARY:Primetime
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:30pm\, 7:15pm\, 9:45pm\nThe debut narrative feature fr
+ om Lance Oppenheim\, starring Robert Pattinson as Chris Hansen.\nhttps://c
+ oolidge.org/films/primetime\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://coolidge.org/films/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:f252f4a03b302a645c8aea94437e3e74d667ed6f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T204500Z
+DTEND:20260928T224500Z
+SUMMARY:The History of Concrete
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:45pm\, 6:50pm\, 9:55pm\nDocumentarian John Wilson appl
+ ies lessons from a Hallmark movie writing workshop to pitch a documentary 
+ about concrete.\nhttps://coolidge.org/films/history-concrete\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:37fd104e5f8f556524298221b5cdb7c5a6a800cb@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T221500Z
+DTEND:20260929T001500Z
+SUMMARY:Seminar: Strictly Ballroom
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Taught by poet\, film curator and essayist Tova Gannana.\nhttps
+ ://coolidge.org/events/seminar-strictly-ballroom\nFrom Pushpin Boston: htt
+ ps://pushpin.city/boston/
+URL:https://coolidge.org/events/seminar-strictly-ballroom
+END:VEVENT
+BEGIN:VEVENT
+UID:c6f2f8ef3e5540bbf3142ec289f08c0e02b0e63a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T221500Z
+DTEND:20260929T001500Z
+SUMMARY:Tony (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 6:15pm\, 8:45pm\nFrom director Matt Johnson (Nirvanna th
+ e Band the Show the Movie)\, starring Dominic Sessa (The Holdovers).\nhttp
+ s://coolidge.org/films/tony-2026\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://coolidge.org/films/tony-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:9d74b19aca60a5fc8b06a26c09f439be7d85e31a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T230000Z
+DTEND:20260929T010000Z
+SUMMARY:Strictly Ballroom
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:There's something in the air. It might be love... but it isn't.
+ \nhttps://coolidge.org/films/strictly-ballroom\nFrom Pushpin Boston: https
+ ://pushpin.city/boston/
+URL:https://coolidge.org/films/strictly-ballroom
+END:VEVENT
+BEGIN:VEVENT
+UID:e73690dd60a7bd056d7357adcd23994552ba014d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T010000Z
+DTEND:20260929T030000Z
+SUMMARY:Hope (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:2hrs 40mins\nhttps://coolidge.org/films/hope-2026\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/hope-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bf885faf6e8272ca3212cae9f5480df561865feb@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T011500Z
+DTEND:20260929T031500Z
+SUMMARY:Union County
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Will Poulter and Noah Centineo deliver pitch-perfect performanc
+ es as brothers Cody and Jack Parsons\, each navigating a court-mandated dr
+ ug rehabilitation program in a pocket of rural Ohio hit hard by the opioid
+  epidemic.\nhttps://coolidge.org/films/union-county\nFrom Pushpin Boston: 
+ https://pushpin.city/boston/
+URL:https://coolidge.org/films/union-county
+END:VEVENT
+BEGIN:VEVENT
+UID:5a217d4addded88b73cff455120fd15be244c50e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T013000Z
+DTEND:20260929T033000Z
+SUMMARY:The Weight
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:The feature debut of director Padraic McKinley\, starring Ethan
+  Hawke and Russell Crowe.\nhttps://coolidge.org/films/weight\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:6120ab08a5f811651fcb5011eab47e3fcb0492d5@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T140000Z
+DTEND:20260929T160000Z
+SUMMARY:Voting Counts: Elections in Film (Tuesday Section)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:A new film class from Judi Freeman.\nhttps://coolidge.org/event
+ s/voting-counts-elections-film-tuesday-section\nFrom Pushpin Boston: https
+ ://pushpin.city/boston/
+URL:https://coolidge.org/events/voting-counts-elections-film-tuesday-sectio
+ n
+END:VEVENT
+BEGIN:VEVENT
+UID:9ede1be64c11b95b47b15e7a6a001db17381806e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T193000Z
+DTEND:20260929T213000Z
+SUMMARY:American Doctor
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:30pm\, 6:40pm\nDirector Poh Si Teng will join us for p
+ ost-film discussions following our 7:15pm screenings on 9/17 & 18.\nhttps:
+ //coolidge.org/films/american-doctor\nFrom Pushpin Boston: https://pushpin
+ .city/boston/
+URL:https://coolidge.org/films/american-doctor
+END:VEVENT
+BEGIN:VEVENT
+UID:781b45bda6c816105921af649c6f3e3eeef82673@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T194500Z
+DTEND:20260929T214500Z
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:From the creators of Wallace and Gromit and Chicken Run.\nhttps
+ ://coolidge.org/films/shaun-sheep-beast-mossy-bottom\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://coolidge.org/films/shaun-sheep-beast-mossy-bottom
+END:VEVENT
+BEGIN:VEVENT
+UID:daaa02fee61aa4e51124d3fc29c398e6ba4777b1@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T200000Z
+DTEND:20260929T220000Z
+SUMMARY:Ha-Chan\, Shake Your Booty!
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4pm\, 6:15pm\nA film by Josef Kubota Wladyka\, starring 
+ Rinko Kikuchi.\nhttps://coolidge.org/films/ha-chan-shake-your-booty\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/ha-chan-shake-your-booty
+END:VEVENT
+BEGIN:VEVENT
+UID:42958ede0ee1752332526be6b37019ff33cc884d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T202000Z
+DTEND:20260929T222000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:The movie ACME didn't want you to see!\nhttps://coolidge.org/fi
+ lms/coyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:056f8b208d998e771ce419d972a637ce6acfeb18@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T203000Z
+DTEND:20260929T223000Z
+SUMMARY:Primetime
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:30pm\, 7:15pm\, 9:45pm\nThe debut narrative feature fr
+ om Lance Oppenheim\, starring Robert Pattinson as Chris Hansen.\nhttps://c
+ oolidge.org/films/primetime\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://coolidge.org/films/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:16a5e8f0cf48bcb9777418ff4b88e54094ee478e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T204500Z
+DTEND:20260929T224500Z
+SUMMARY:The History of Concrete
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:45pm\, 6:50pm\, 10:05pm\nDocumentarian John Wilson app
+ lies lessons from a Hallmark movie writing workshop to pitch a documentary
+  about concrete.\nhttps://coolidge.org/films/history-concrete\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:9cd46979db808767ef90c20b66d102fd416788bd@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T221500Z
+DTEND:20260930T001500Z
+SUMMARY:Prints of Darkness
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:A new Coolidge Eduction class from Alex Svensson!\nhttps://cool
+ idge.org/events/prints-darkness\nFrom Pushpin Boston: https://pushpin.city
+ /boston/
+URL:https://coolidge.org/events/prints-darkness
+END:VEVENT
+BEGIN:VEVENT
+UID:f7df45e59194bc42fbff3e09ecc05beee3b27b7b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T230000Z
+DTEND:20260930T010000Z
+SUMMARY:Häxan
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Grave robbing\, torture\, possessed nuns\, and a satanic Sabbat
+ h\nhttps://coolidge.org/films/haxan\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://coolidge.org/films/haxan
+END:VEVENT
+BEGIN:VEVENT
+UID:2c8d980bae55a00dd74b281320d9715daca7c5eb@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T004500Z
+DTEND:20260930T024500Z
+SUMMARY:Akira (4K Restoration)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Katsuhiro Otomo's landmark cyberpunk classic\, the definitive a
+ nime masterpiece!\nhttps://coolidge.org/films/akira-4k-restoration\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/akira-4k-restoration
+END:VEVENT
+BEGIN:VEVENT
+UID:2e59515b582e131090d3776f7a0fdd1922cdeef1@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T010000Z
+DTEND:20260930T030000Z
+SUMMARY:Tony (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:From director Matt Johnson (Nirvanna the Band the Show the Movi
+ e)\, starring Dominic Sessa (The Holdovers).\nhttps://coolidge.org/films/t
+ ony-2026\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/tony-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:c2d8799393ffa9dfcf24d1eee483c1b7942f7c66@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T013000Z
+DTEND:20260930T033000Z
+SUMMARY:The Weight
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:The feature debut of director Padraic McKinley\, starring Ethan
+  Hawke and Russell Crowe.\nhttps://coolidge.org/films/weight\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:01721a349a961716df49b2c3badeb6a9c02c4383@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T015500Z
+DTEND:20260930T035500Z
+SUMMARY:Union County
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Will Poulter and Noah Centineo deliver pitch-perfect performanc
+ es as brothers Cody and Jack Parsons\, each navigating a court-mandated dr
+ ug rehabilitation program in a pocket of rural Ohio hit hard by the opioid
+  epidemic.\nhttps://coolidge.org/films/union-county\nFrom Pushpin Boston: 
+ https://pushpin.city/boston/
+URL:https://coolidge.org/films/union-county
+END:VEVENT
+BEGIN:VEVENT
+UID:f4ff7cd9503aa6de8a307f5a335c664167872b89@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T140000Z
+DTEND:20260930T160000Z
+SUMMARY:Voting Counts: Elections in Film (Wednesday Section)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:A new film class from Judi Freeman.\nhttps://coolidge.org/event
+ s/voting-counts-elections-film-wednesday-section\nFrom Pushpin Boston: htt
+ ps://pushpin.city/boston/
+URL:https://coolidge.org/events/voting-counts-elections-film-wednesday-sect
+ ion
+END:VEVENT
+BEGIN:VEVENT
+UID:54ca2eeb390399f3bcad152dafcc81184252eda8@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T194500Z
+DTEND:20260930T214500Z
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:From the creators of Wallace and Gromit and Chicken Run.\nhttps
+ ://coolidge.org/films/shaun-sheep-beast-mossy-bottom\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://coolidge.org/films/shaun-sheep-beast-mossy-bottom
+END:VEVENT
+BEGIN:VEVENT
+UID:45623971c120964ea2ce524ca8e6b69c305c06ac@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T200000Z
+DTEND:20260930T220000Z
+SUMMARY:Ha-Chan\, Shake Your Booty!
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4pm\, 6:15pm\nA film by Josef Kubota Wladyka\, starring 
+ Rinko Kikuchi.\nhttps://coolidge.org/films/ha-chan-shake-your-booty\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/ha-chan-shake-your-booty
+END:VEVENT
+BEGIN:VEVENT
+UID:a9369683f970e54c833fd16bcbad437967a8bc16@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T201000Z
+DTEND:20260930T221000Z
+SUMMARY:American Doctor
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:10pm\, 6:40pm\nDirector Poh Si Teng will join us for p
+ ost-film discussions following our 7:15pm screenings on 9/17 & 18.\nhttps:
+ //coolidge.org/films/american-doctor\nFrom Pushpin Boston: https://pushpin
+ .city/boston/
+URL:https://coolidge.org/films/american-doctor
+END:VEVENT
+BEGIN:VEVENT
+UID:75002212d604849c81c83d6d94fccdc3cd5668e3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T202000Z
+DTEND:20260930T222000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:The movie ACME didn't want you to see!\nhttps://coolidge.org/fi
+ lms/coyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:4492507dfae3b724eded7ad50428a8e44c3baa63@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T203000Z
+DTEND:20260930T223000Z
+SUMMARY:Primetime
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:30pm\, 6:50pm\, 9:45pm\nThe debut narrative feature fr
+ om Lance Oppenheim\, starring Robert Pattinson as Chris Hansen.\nhttps://c
+ oolidge.org/films/primetime\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://coolidge.org/films/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:43d85235d2f2180ce56696b600a12091895860ab@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T204500Z
+DTEND:20260930T224500Z
+SUMMARY:The History of Concrete
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:45pm\, 6:30pm\, 9:55pm\nDocumentarian John Wilson appl
+ ies lessons from a Hallmark movie writing workshop to pitch a documentary 
+ about concrete.\nhttps://coolidge.org/films/history-concrete\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:f7ec9d43ce61858f5a1b836608a12368c3fddc87@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T230000Z
+DTEND:20261001T010000Z
+SUMMARY:CineFest Latino Boston: American Pachuco: The Legend of Luis Valdez
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Opening night film of the 2026 CineFest Latino Boston\, with di
+ rector David Alvarado in-person!\nhttps://coolidge.org/films/cinefest-lati
+ no-boston-american-pachuco-legend-luis-valdez\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://coolidge.org/films/cinefest-latino-boston-american-pachuco-lege
+ nd-luis-valdez
+END:VEVENT
+BEGIN:VEVENT
+UID:290b4600269705a6a8f85e3330e839fbd3d8761c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T230000Z
+DTEND:20261001T010000Z
+SUMMARY:Nostalghia
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:2hrs 5mins\nhttps://coolidge.org/films/nostalghia\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/nostalghia
+END:VEVENT
+BEGIN:VEVENT
+UID:7b4871b29401a494b335bc5d06a63035439e1c12@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T004500Z
+DTEND:20261001T024500Z
+SUMMARY:Akira (4K Restoration)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Katsuhiro Otomo's landmark cyberpunk classic\, the definitive a
+ nime masterpiece!\nhttps://coolidge.org/films/akira-4k-restoration\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/akira-4k-restoration
+END:VEVENT
+BEGIN:VEVENT
+UID:dd8a63ccd49502005fed9d07e552593adae4c627@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T010000Z
+DTEND:20261001T030000Z
+SUMMARY:Tony (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:From director Matt Johnson (Nirvanna the Band the Show the Movi
+ e)\, starring Dominic Sessa (The Holdovers).\nhttps://coolidge.org/films/t
+ ony-2026\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/tony-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:57ec85ff7cab59c8e7e1b4a973c70cd366e550f0@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T011500Z
+DTEND:20261001T031500Z
+SUMMARY:Union County
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Will Poulter and Noah Centineo deliver pitch-perfect performanc
+ es as brothers Cody and Jack Parsons\, each navigating a court-mandated dr
+ ug rehabilitation program in a pocket of rural Ohio hit hard by the opioid
+  epidemic.\nhttps://coolidge.org/films/union-county\nFrom Pushpin Boston: 
+ https://pushpin.city/boston/
+URL:https://coolidge.org/films/union-county
+END:VEVENT
+BEGIN:VEVENT
+UID:68f5b76da0fdcdce9e62e1ef2aacd7adf08b1c76@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T013000Z
+DTEND:20261001T033000Z
+SUMMARY:The Weight
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:The feature debut of director Padraic McKinley\, starring Ethan
+  Hawke and Russell Crowe.\nhttps://coolidge.org/films/weight\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:fc632084f6bc467b2c756c1a059623e3fc8b3fbb@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T164500Z
+DTEND:20261001T184500Z
+SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:From the creators of Wallace and Gromit and Chicken Run.\nhttps
+ ://coolidge.org/films/shaun-sheep-beast-mossy-bottom\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://coolidge.org/films/shaun-sheep-beast-mossy-bottom
+END:VEVENT
+BEGIN:VEVENT
+UID:6f18ef36b75cff65d9886486d8ce9ddb87627409@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T170000Z
+DTEND:20261001T190000Z
+SUMMARY:Primetime
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 1pm\, 3:30pm\, 6:50pm\, 10:05pm\nThe debut narrative fea
+ ture from Lance Oppenheim\, starring Robert Pattinson as Chris Hansen.\nht
+ tps://coolidge.org/films/primetime\nFrom Pushpin Boston: https://pushpin.c
+ ity/boston/
+URL:https://coolidge.org/films/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:fdc51a9f2849e8abdfdbf0f06602ac1981cffe9f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T171500Z
+DTEND:20261001T191500Z
+SUMMARY:American Doctor
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 1:15pm\, 4:10pm\, 6:40pm\nDirector Poh Si Teng will join
+  us for post-film discussions following our 7:15pm screenings on 9/17 & 18
+ .\nhttps://coolidge.org/films/american-doctor\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://coolidge.org/films/american-doctor
+END:VEVENT
+BEGIN:VEVENT
+UID:5f653f3ccd3667c55c36363e50db42122c94ec2b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T173000Z
+DTEND:20261001T193000Z
+SUMMARY:Ha-Chan\, Shake Your Booty!
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 1:30pm\, 4pm\, 6:15pm\nA film by Josef Kubota Wladyka\, 
+ starring Rinko Kikuchi.\nhttps://coolidge.org/films/ha-chan-shake-your-boo
+ ty\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/ha-chan-shake-your-booty
+END:VEVENT
+BEGIN:VEVENT
+UID:d247ade1cbfa3745008d2d614ee22d748134abf4@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T180000Z
+DTEND:20261001T200000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 2pm\, 4:20pm\nThe movie ACME didn't want you to see!\nht
+ tps://coolidge.org/films/coyote-vs-acme\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://coolidge.org/films/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:e089fa9c8593aab7516b873dee68b3adcc26bdf8@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T181500Z
+DTEND:20261001T201500Z
+SUMMARY:The History of Concrete
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 2:15pm\, 4:45pm\, 6:30pm\, 9:55pm\nDocumentarian John Wi
+ lson applies lessons from a Hallmark movie writing workshop to pitch a doc
+ umentary about concrete.\nhttps://coolidge.org/films/history-concrete\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb4c84c74e044ccab729c6297d418200285ae0c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T194500Z
+DTEND:20261001T214500Z
+SUMMARY:Tony (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:45pm\, 9pm\nFrom director Matt Johnson (Nirvanna the B
+ and the Show the Movie)\, starring Dominic Sessa (The Holdovers).\nhttps:/
+ /coolidge.org/films/tony-2026\nFrom Pushpin Boston: https://pushpin.city/b
+ oston/
+URL:https://coolidge.org/films/tony-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:334b5187487da9f6f383e79a54b3e74cd1aa92b8@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T230000Z
+DTEND:20261002T010000Z
+SUMMARY:Witness
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:A big city cop. A small country boy. They have nothing in commo
+ n...but a murder.\nhttps://coolidge.org/films/witness\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://coolidge.org/films/witness
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d90175be9b52094714e41cabf26d10705a0e97@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T004500Z
+DTEND:20261002T024500Z
+SUMMARY:Akira (4K Restoration)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Katsuhiro Otomo's landmark cyberpunk classic\, the definitive a
+ nime masterpiece!\nhttps://coolidge.org/films/akira-4k-restoration\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/akira-4k-restoration
+END:VEVENT
+BEGIN:VEVENT
+UID:47b5983d5e7d53b4b05c8ec22d3b3ecfde3aefd4@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T011500Z
+DTEND:20261002T031500Z
+SUMMARY:Union County
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Will Poulter and Noah Centineo deliver pitch-perfect performanc
+ es as brothers Cody and Jack Parsons\, each navigating a court-mandated dr
+ ug rehabilitation program in a pocket of rural Ohio hit hard by the opioid
+  epidemic.\nhttps://coolidge.org/films/union-county\nFrom Pushpin Boston: 
+ https://pushpin.city/boston/
+URL:https://coolidge.org/films/union-county
+END:VEVENT
+BEGIN:VEVENT
+UID:2906d3a40866336cec675973738103eec50c8516@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T013000Z
+DTEND:20261002T033000Z
+SUMMARY:The Weight
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:The feature debut of director Padraic McKinley\, starring Ethan
+  Hawke and Russell Crowe.\nhttps://coolidge.org/films/weight\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/weight
+END:VEVENT
+BEGIN:VEVENT
+UID:144219393ed64cb83fa14d0dfd9d760ff7d9254b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T154500Z
+DTEND:20261002T174500Z
+SUMMARY:Digger in VistaVision
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:45am\, 3:15pm\, 6:45pm\, 9:55pm\nAll Moviehouse 1 scr
+ eenings presented in VistaVision!\nhttps://coolidge.org/films/digger-vista
+ vision\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/digger-vistavision
+END:VEVENT
+BEGIN:VEVENT
+UID:b2d3a01f66ba4a3ff05ed48c0d019cf80b1e6570@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T035900Z
+DTEND:20261003T055900Z
+SUMMARY:Parents (1989)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:There's A New Name For Terror...\nhttps://coolidge.org/films/pa
+ rents-1989\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/parents-1989
+END:VEVENT
+END:VCALENDAR

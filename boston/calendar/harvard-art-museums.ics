@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Harvard Art Museums
+X-WR-CALDESC:What’s coming up at Harvard Art Museums\, from Pushpin Bosto
+ n.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:0034691b0414fda2c21e92b2fc81a1ffdf74aa0a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T220000Z
+DTEND:20261001T000000Z
+SUMMARY:Exhibition Opening Program for The Way We Never Were: Barbara Norfl
+ eet and Photography at Harvard
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join us for a roundtable conversation reflecting on Barbara Nor
+ fleet’s enduring impact as artist\, teacher\, curator\, and collector.\n
+ https://harvardartmuseums.org/calendar/exhibition-opening-program-for-the-
+ way-we-never-were-barbara-norfleet-and-photography-at-harvard\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/exhibition-opening-program-for-t
+ he-way-we-never-were-barbara-norfleet-and-photography-at-harvard
+END:VEVENT
+BEGIN:VEVENT
+UID:f0ed187df3f7bdd84b3ed97721b6c8824d4c89f3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T163000Z
+DTEND:20261001T183000Z
+SUMMARY:Gallery Talk: Crafting Perfect Portraits with Photographic Proof Pr
+ ints
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Madison Brown\, co-curator of _The Way We Never Were_\, fo
+ r a discussion on proof prints and the craft of producing polished studio 
+ portraits.\nhttps://harvardartmuseums.org/calendar/gallery-talk-crafting-p
+ erfect-portraits-with-photographic-proof-prints\nFrom Pushpin Boston: http
+ s://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/gallery-talk-crafting-perfect-po
+ rtraits-with-photographic-proof-prints
+END:VEVENT
+BEGIN:VEVENT
+UID:44c094ceda344e2b3e49af6de98ebe0133d7bf14@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T180000Z
+DTEND:20261002T200000Z
+SUMMARY:First/Hand Fridays: Power and Desire in Ancient Art
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Calling all Harvard students! Explore with a museum staff membe
+ r works of ancient art that shaped status\, memory\, and desire.\nhttps://
+ harvardartmuseums.org/calendar/first-hand-fridays-power-and-desire-in-anci
+ ent-art\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/first-hand-fridays-power-and-des
+ ire-in-ancient-art
+END:VEVENT
+BEGIN:VEVENT
+UID:d631eb4895fc0ae67b435b40fd1f9069eaa1c657@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T173000Z
+DTEND:20261003T193000Z
+SUMMARY:Film Screening and Conversation: The Atomic Cafe
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:This film screening and discussion will explore how the America
+ n media managed public fear and promoted conformity during the atomic age.
+ \nhttps://harvardartmuseums.org/calendar/film-screening-and-conversation-t
+ he-atomic-cafe\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/film-screening-and-conversation-
+ the-atomic-cafe
+END:VEVENT
+BEGIN:VEVENT
+UID:e0536fb742224e9dda69587de12174c5cef737e1@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261007T220000Z
+DTEND:20261008T000000Z
+SUMMARY:American Art Curators in Conversation
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:This year’s Coolidge Lecture celebrates the contributions of 
+ three womxn to the field of American art.\nhttps://harvardartmuseums.org/c
+ alendar/american-art-curators-in-conversation\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/american-art-curators-in-convers
+ ation
+END:VEVENT
+BEGIN:VEVENT
+UID:daf71a1d397e9ffb2704a32db8b8c63a5ec98cf1@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261008T163000Z
+DTEND:20261008T183000Z
+SUMMARY:Gallery Talk: On Location: Drawing the Outdoors
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Learn about the tools 19th-century European artists used to acc
+ urately depict the landscapes around them.\nhttps://harvardartmuseums.org/
+ calendar/gallery-talk-on-location-drawing-the-outdoors\nFrom Pushpin Bosto
+ n: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/gallery-talk-on-location-drawing
+ -the-outdoors
+END:VEVENT
+BEGIN:VEVENT
+UID:edbe4a16249478ef4d12d411484b607ebb07acff@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261013T220000Z
+DTEND:20261014T000000Z
+SUMMARY:Pınar Öğrenci: Good Luck in Germany
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Berlin-based artist and filmmaker Pınar Öğrenci\, whose work
+  is featured in a current exhibition\, will reflect on memory\, labor\, an
+ d belonging.\nhttps://harvardartmuseums.org/calendar/pinar-oegrenci-good-l
+ uck-in-germany\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/pinar-oegrenci-good-luck-in-germ
+ any
+END:VEVENT
+BEGIN:VEVENT
+UID:453d4a05516e9b43c6b194295e138dbecfb2c0e3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261016T150000Z
+DTEND:20261016T170000Z
+SUMMARY:Art Study Center Seminar: A Closer Look at the Forbes Pigment Colle
+ ction
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Alison Cariens for an exploration of the history of the pi
+ gments in our famed Forbes Pigment Collection.\nhttps://harvardartmuseums.
+ org/calendar/art-study-center-seminar-a-closer-look-at-the-forbes-pigment-
+ collection-3\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/art-study-center-seminar-a-close
+ r-look-at-the-forbes-pigment-collection-3
+END:VEVENT
+BEGIN:VEVENT
+UID:dea96c6b651b242c32426b15303345faa8651447@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261020T160000Z
+DTEND:20261020T180000Z
+SUMMARY:Art + Science: Papermaking
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:In this session\, learn about the history of paper and papermak
+ ing with conservator Penley Knipe.\nhttps://harvardartmuseums.org/calendar
+ /art-science-papermaking\nFrom Pushpin Boston: https://pushpin.city/boston
+ /
+URL:https://harvardartmuseums.org/calendar/art-science-papermaking
+END:VEVENT
+BEGIN:VEVENT
+UID:b96c4db3b9cb0509c0752ebf9a2dfe3a1155e988@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261021T163000Z
+DTEND:20261021T183000Z
+SUMMARY:Gallery Talk: Charlotte Moorman\, Nam June Paik\, and Their Avant-G
+ arde Circle
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Ken Hakuta\, nephew of renowned experimental artist Nam Ju
+ ne Paik\, as he shares memories of Moorman and Paik’s history-making per
+ formances.\nhttps://harvardartmuseums.org/calendar/gallery-talk-charlotte-
+ moorman-nam-june-paik-and-their-avant-garde-circle\nFrom Pushpin Boston: h
+ ttps://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/gallery-talk-charlotte-moorman-n
+ am-june-paik-and-their-avant-garde-circle
+END:VEVENT
+END:VCALENDAR

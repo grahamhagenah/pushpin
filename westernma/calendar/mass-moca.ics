@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Mass MoCA
+X-WR-CALDESC:What’s coming up at Mass MoCA\, from Pushpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:66c23fd8daaae802cef614dceafeb5a8f5e25216@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T000000Z
+DTEND:20261003T020000Z
+SUMMARY:Lucinda Williams and her band
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:FreshGrass Presents\nMultiple Grammy-winning singer-songwriter 
+ Lucinda Williams and her band take to the Hunter Center stage on tour with
+  their latest record\, World’s Gone Wrong MASS MoCA Member Pre-Sale begi
+ ns Wednesday\, July 15 at 10am General On-Sale begins Friday\, July 17 at 
+ 10am “My dad\, as a poet\, always told me to never censor myself – tha
+ t’s one of his cardinal rules of creative writing\,” Williams says. 
+ “That became my motto which I’ve stuck by all these years.” Miller W
+ illiams’ advice clearly is born out on Lucinda’s powerful eighteenth s
+ tudio album\, the provocative World’s Gone Wrong. “I felt a sense of u
+ rgency in making this record\,” she adds.\nhttps://massmoca.org/event/fr
+ eshgrass-presents-lucinda-williams/\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://massmoca.org/event/freshgrass-presents-lucinda-williams/
+END:VEVENT
+BEGIN:VEVENT
+UID:80799c01d083af8175d440748fadb469e27cdb92@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T210000Z
+DTEND:20261003T230000Z
+SUMMARY:Two Birds One Stone
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Maggie O’Brien\nA conversation with Maggie O’Brien and Bern
+ ie Rhie to celebrate and discuss the launch of Two Birds One Stone\, O’B
+ rien’s debut memoir that breaks industry convention and questions the fa
+ bric of reality.\nhttps://massmoca.org/event/two-birds-one-stonemaggie-obr
+ ien/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/two-birds-one-stonemaggie-obrien/
+END:VEVENT
+BEGIN:VEVENT
+UID:cdb3fc9859c68f90f0741555dc674c146057be90@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261004T160000Z
+DTEND:20261004T180000Z
+SUMMARY:Eden Robins (of Birdie Horne) & Andrea Hairston
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:A reading and conversation celebrating the release of two unrel
+ ated works of fiction that combine mystery and humor (and dogs!) in unexpe
+ cted and refreshing ways.\nhttps://massmoca.org/event/eden-robins-of-birdi
+ e-horne-andrea-hairston/\nFrom Pushpin Western Mass: https://pushpin.city/
+ westernma/
+URL:https://massmoca.org/event/eden-robins-of-birdie-horne-andrea-hairston/
+END:VEVENT
+BEGIN:VEVENT
+UID:57b246544ef84bb1585e74434fe6bcb5bc70e56d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T000000Z
+DTEND:20261010T020000Z
+SUMMARY:HUG: Devendra Banhart
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Witness a special musical collaboration in action as the trio b
+ ehind Hug brings their deeply intuitive creative partnership to the stage.
+ \nhttps://massmoca.org/event/hug-devendra-banhart/\nFrom Pushpin Western M
+ ass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/hug-devendra-banhart/
+END:VEVENT
+BEGIN:VEVENT
+UID:9589e188afcd75e478f21e9537f86db47bb6d5e9@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T163000Z
+DTEND:20261010T183000Z
+SUMMARY:Hacia Cuando: An Opera
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Hacia Cuando: An Opera is a cross-geographical experimental ope
+ ra-performance created in the mode of an exquisite corpse. The work brings
+  together the creative practices of Jenny Olivia Johnson\, composer and so
+ und artist based in Los Angeles\; Javier Bustos\, Argentinian experimental
+  luthier and sound artist\; Sebastián Muirhead\, Chilean opera singer and
+  stage director\; and Chilean-American visual artist Daniela Rivera.\nhttp
+ s://massmoca.org/event/hacia-cuando-an-opera/\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://massmoca.org/event/hacia-cuando-an-opera/
+END:VEVENT
+BEGIN:VEVENT
+UID:67a796ef95e5555e788709d6d841a60a95ebea7d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T180000Z
+DTEND:20261010T200000Z
+SUMMARY:In Conversation: Daniela Rivera
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Join us in the Research and Development Store for a conversatio
+ n between Daniela Rivera\, Chilean-American visual artist of Hacia Cuando 
+ (To When)\; Evan Garza\, Curator\; Jenny Olivia Johnson\, composer and sou
+ nd artist based in Los Angeles\; Javier Bustos\, Argentinian experimental 
+ luthier and sound artist\; Sebastián Muirhead\, Chilean opera singer and 
+ stage director.\nhttps://massmoca.org/event/in-conversation-daniela-rivera
+ /\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/in-conversation-daniela-rivera/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffc670b9f378f04c3c0ec9923b77527f3bffe595@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261016T220000Z
+DTEND:20261017T000000Z
+SUMMARY:My ’90s Rock Photographs
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Melissa Auf der Maur\nAn intimate conversation with alt-rock ba
+ ssist Melissa Auf der Maur — of Hole and Smashing Pumpkins fame — as s
+ he walks us through Even the Good Girls Will Cry: A ’90s Rock Memoir (Da
+  Capo) and shares images from Melissa Auf der Maur: My ’90s Rock Photogr
+ aphs (DelMonico Books)\, the catalog to her exhibition at Art Gallery of O
+ ntario that doubles as a photographic love letter to the last analog decad
+ e.\nhttps://massmoca.org/event/my-90s-rock-photographsmelissa-auf-der-maur
+ /\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/my-90s-rock-photographsmelissa-auf-der-maur/
+END:VEVENT
+BEGIN:VEVENT
+UID:4b73a7f4ad372c8e234214444bb8b8c1a8a8be69@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261017T230000Z
+DTEND:20261018T010000Z
+SUMMARY:Roz Chast & Jason Adam Katzenstein
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:“I don’t think I’ve ever laughed so hard. Everyone not na
+ med Martha Stewart will recognize themselves in The Two Saddest Kitchens
+ ” — Ruth Reichl Two hilarious\, celebrated cartoonists visit MASS MoCA
+  to discuss a highly relatable subject — kitchen anxiety: Roz Chast and 
+ Jason Adam Katzenstein are both longtime New Yorker cartoonists with their
+  own unique drawing styles\, huge followings\,and legions of loyal fans. C
+ hast’s Can’t We Talk About Something More Pleasant? spent over a hundr
+ ed weeks on the NYT bestseller list and sold more than 150\,000 hardcovers
+ \; Katzenstein’s fan base pulls from his magazine work as well as TV and
+  graphic novels.\nhttps://massmoca.org/event/roz-chast-jason-adam-katzenst
+ ein/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/roz-chast-jason-adam-katzenstein/
+END:VEVENT
+BEGIN:VEVENT
+UID:7ed115d2017bcedaa419f9745d48f8c6db169f22@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261021T000000Z
+DTEND:20261021T020000Z
+SUMMARY:Earl Sweatshirt + MIKE
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Home on the Range Tour\nWith harrison (SURF GANG) & Anysia Kym 
+ “Indie rap’s favorite friendship” (NPR) takes the Hunter Center stag
+ e for one unforgettable night after the release of their collaborative alb
+ um Pompeii // Utility with support from harrison (SURF GANG) and Anysia Ky
+ m For over a decade\, Earl Sweatshirt has captivated fans with his virtuos
+ ic storytelling\, lyrical depth\, and generous vulnerability. Emerging at 
+ just 16 from the incendiary Odd Future collective\, he quickly distinguish
+ ed himself through dense introspection\, off-kilter cadences\, and a brood
+ ing intellect that belied his youth. Across critically acclaimed albums li
+ ke Doris\, I Don’t Like Shit\, I Don’t Go Outside\, Some Rap Songs\, S
+ ick!\, and Voir Dire\, Earl has cemented himself as a definitive poet chro
+ nicling growth\, self-discovery\, and the moods of a generation. His new a
+ lbum Live Laugh Love (LLL) reflects a profound inner shift and meditative 
+ processing of his life as a father and artist in his 30s\, weaving spiritu
+ al symbolism\, personal responsibility\, and poetic nuance into a surreali
+ st contemplation of chaos and connection. Through steady\, palpable growth
+  and moments of joy and laughter\, LLL boldly confirms Earl’s evolution 
+ into an artist embracing his journey\, however imperfect\, and grounding h
+ imself in resilience\, creativity\, and enduring honesty.\nhttps://massmoc
+ a.org/event/earl-sweatshirt-mike-home-on-the-range-tour-with-harrison-surf
+ -gang-alysia-kym/\nFrom Pushpin Western Mass: https://pushpin.city/western
+ ma/
+URL:https://massmoca.org/event/earl-sweatshirt-mike-home-on-the-range-tour-
+ with-harrison-surf-gang-alysia-kym/
+END:VEVENT
+BEGIN:VEVENT
+UID:f3bdf625dd092e6145e2e15de0c3a346c3f4e298@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+SUMMARY:Endea Owens & The Cookout
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Known as one of jazz’s most vibrant emerging artists\, Endea 
+ Owens is a Detroit-raised recording artist\, bassist\, and composer. She h
+ as been mentored by jazz icons the likes of Marcus Belgrave\, Rodney Whita
+ ker\, and Ron Carter. She has toured and performed with Wynton Marsalis\, 
+ Jennifer Holliday\, Diana Ross\, Rhonda Ross\, Solange\, Jon Batiste\, Jaz
+ zmeia Horn\, Dee Dee Bridgewater\, and Cyrus Chestnut\, to name a few.\nht
+ tps://massmoca.org/event/endea-owens-the-cookout/\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/endea-owens-the-cookout/
+END:VEVENT
+END:VCALENDAR

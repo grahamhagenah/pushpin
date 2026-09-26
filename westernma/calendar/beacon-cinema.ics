@@ -1,0 +1,913 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Beacon Cinema
+X-WR-CALDESC:What’s coming up at Beacon Cinema\, from Pushpin Western Mas
+ s.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:3547d7aeed570a7ef75932f1527ac1b6d5a56136@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T220000Z
+DTEND:20260927T000000Z
+SUMMARY:Heart of the Beast
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 6pm\, 8:15pm\, 10:30pm\nAfter a harrowing plane crash\, 
+ Special Forces officer James Belmont (Brad Pitt) and his combat dog\, Odin
+ \, find themselves stranded deep in the Alaskan wilderness. Together\, the
+ y are forced into a brutal fight for survival against the elements. From a
+ cclaimed filmmaker David Ayer\, Heart of the Beast is an intense adventure
+  thriller that explores the unbreakable bond between a man and his best fr
+ iend as they face their greatest battle yet.\nhttps://www.phoenixmovies.ne
+ t/movies/heart-of-the-beast/HO00001760\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/heart-of-the-beast/HO00001760
+END:VEVENT
+BEGIN:VEVENT
+UID:23a3fa1085b37a379e321732fe2b5980dea88efc@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T222000Z
+DTEND:20260927T002000Z
+SUMMARY:Resident Evil
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 6:20pm\, 8:30pm\, 10:40pm\nFrom the mind of visionary fi
+ lmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terri
+ fying — reinvention of the Resident Evil franchise.\nhttps://www.phoenix
+ movies.net/movies/resident-evil/HO00001751\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/resident-evil/HO00001751
+END:VEVENT
+BEGIN:VEVENT
+UID:553b4d7b8ba3cca1f1cd3944590b94a9e51b56ab@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T224000Z
+DTEND:20260927T004000Z
+SUMMARY:Practical Magic 2
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 6:40pm\, 9:25pm\nStarring Sandra Bullock and Nicole Kidm
+ an\, Practical Magic 2 returns to a world steeped in moonlit mischief and 
+ powerful ancestral magic\, as the Owens sisters must confront the dark cur
+ se that threatens to unravel their family once and for all in a must-see c
+ inematic event of fun\, magic and mayhem.\nhttps://www.phoenixmovies.net/m
+ ovies/practical-magic-2/HO00001750\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/practical-magic-2/HO00001750
+END:VEVENT
+BEGIN:VEVENT
+UID:290556ea0cffdb37030d993ecb1d21b4c85a69f3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T230000Z
+DTEND:20260927T010000Z
+SUMMARY:Avengers: Endgame - Encore
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 7pm\, 10:40pm\nThe grave course of events set in motion 
+ by Thanos that wiped out half the universe and fractured the Avengers rank
+ s compels the remaining Avengers to take one final stand in Marvel Studios
+ ' grand conclusion to twenty-two films\, "Avengers: Endgame."\nhttps://www
+ .phoenixmovies.net/movies/avengers:-endgame---encore/HO00001768\nFrom Push
+ pin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/avengers:-endgame---encore/HO00001
+ 768
+END:VEVENT
+BEGIN:VEVENT
+UID:178df6acbfd4cce9a1a1414705aa3cca2aa92510@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T232000Z
+DTEND:20260927T012000Z
+SUMMARY:Forgotten Island
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 7:20pm\, 9:45pm\nWhile celebrating their last night toge
+ ther\, Jo and Raissa stumble upon a mysterious portal that transports them
+  to the fantastical island of Nakali\, packed with magical and mythologica
+ l creatures they grew up hearing stories about from their Filipino familie
+ s.\nhttps://www.phoenixmovies.net/movies/forgotten-island/HO00001764\nFrom
+  Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/forgotten-island/HO00001764
+END:VEVENT
+BEGIN:VEVENT
+UID:6fbb162994c36a5b50e054a5927c58dcb8683faf@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T233000Z
+DTEND:20260927T013000Z
+SUMMARY:Primetime
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 7:30pm\, 9:55pm\nIn 2006\, To Catch a Predator host Chri
+ s Hansen sets out to make television history.\nhttps://www.phoenixmovies.n
+ et/movies/primetime/HO00001771\nFrom Pushpin Western Mass: https://pushpin
+ .city/westernma/
+URL:https://www.phoenixmovies.net/movies/primetime/HO00001771
+END:VEVENT
+BEGIN:VEVENT
+UID:964352a0ad8a058ab90eafeb3e589239054ecd27@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:Forgotten Island
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 9:40am\, 12pm\, 2:30pm\, 4:55pm\, 7:20pm\, 9:45pm\
+ nWhile celebrating their last night together\, Jo and Raissa stumble upon 
+ a mysterious portal that transports them to the fantastical island of Naka
+ li\, packed with magical and mythological creatures they grew up hearing s
+ tories about from their Filipino families.\nhttps://www.phoenixmovies.net/
+ movies/forgotten-island/HO00001764\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/forgotten-island/HO00001764
+END:VEVENT
+BEGIN:VEVENT
+UID:40b4731f995468a2abc3d6ed7dd3627a37822509@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:Heart of the Beast
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:15am\, 1:30pm\, 3:45pm\, 6pm\, 8:15pm\, 10:30pm
+ \nAfter a harrowing plane crash\, Special Forces officer James Belmont (Br
+ ad Pitt) and his combat dog\, Odin\, find themselves stranded deep in the 
+ Alaskan wilderness. Together\, they are forced into a brutal fight for sur
+ vival against the elements. From acclaimed filmmaker David Ayer\, Heart of
+  the Beast is an intense adventure thriller that explores the unbreakable 
+ bond between a man and his best friend as they face their greatest battle 
+ yet.\nhttps://www.phoenixmovies.net/movies/heart-of-the-beast/HO00001760\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/heart-of-the-beast/HO00001760
+END:VEVENT
+BEGIN:VEVENT
+UID:31483744efc96b375f32496014919c69d4d86351@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T134000Z
+DTEND:20260927T154000Z
+SUMMARY:Resident Evil
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:40am\, 11:50am\, 2pm\, 4:10pm\, 6:20pm\, 8:30pm\, 10:4
+ 0pm\nFrom the mind of visionary filmmaker Zach Cregger (Weapons\, Barbaria
+ n) comes a thrilling — and terrifying — reinvention of the Resident Ev
+ il franchise.\nhttps://www.phoenixmovies.net/movies/resident-evil/HO000017
+ 51\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/resident-evil/HO00001751
+END:VEVENT
+BEGIN:VEVENT
+UID:3e8b999b6aaf3f740fdc02cdda5dead1c44dc88f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T134500Z
+DTEND:20260927T154500Z
+SUMMARY:Primetime
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:45am\, 12:15pm\, 2:40pm\, 5:05pm\, 7:30pm\, 9:55pm\nIn
+  2006\, To Catch a Predator host Chris Hansen sets out to make television 
+ history.\nhttps://www.phoenixmovies.net/movies/primetime/HO00001771\nFrom 
+ Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/primetime/HO00001771
+END:VEVENT
+BEGIN:VEVENT
+UID:a2e61933cbf1a273d3e6d0a5af6cd31308752c30@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T142500Z
+DTEND:20260927T162500Z
+SUMMARY:Practical Magic 2
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 10:25am\, 1:10pm\, 3:55pm\, 6:40pm\, 9:25pm\nStarring Sa
+ ndra Bullock and Nicole Kidman\, Practical Magic 2 returns to a world stee
+ ped in moonlit mischief and powerful ancestral magic\, as the Owens sister
+ s must confront the dark curse that threatens to unravel their family once
+  and for all in a must-see cinematic event of fun\, magic and mayhem.\nhtt
+ ps://www.phoenixmovies.net/movies/practical-magic-2/HO00001750\nFrom Pushp
+ in Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/practical-magic-2/HO00001750
+END:VEVENT
+BEGIN:VEVENT
+UID:d833f30ccf34b2fadf37e217df18ef02fbd9aa99@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T154000Z
+DTEND:20260927T174000Z
+SUMMARY:Avengers: Endgame - Encore
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 11:40am\, 3:20pm\, 7pm\, 10:40pm\nThe grave course of ev
+ ents set in motion by Thanos that wiped out half the universe and fracture
+ d the Avengers ranks compels the remaining Avengers to take one final stan
+ d in Marvel Studios' grand conclusion to twenty-two films\, "Avengers: End
+ game."\nhttps://www.phoenixmovies.net/movies/avengers:-endgame---encore/HO
+ 00001768\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/avengers:-endgame---encore/HO00001
+ 768
+END:VEVENT
+BEGIN:VEVENT
+UID:7fe15f194eb44c17e36bc403e00cc9d713fcdeaf@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T130000Z
+DTEND:20260928T150000Z
+SUMMARY:Forgotten Island
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 9:40am\, 12pm\, 2:30pm\, 4:55pm\, 7:20pm\, 9:45pm\
+ nWhile celebrating their last night together\, Jo and Raissa stumble upon 
+ a mysterious portal that transports them to the fantastical island of Naka
+ li\, packed with magical and mythological creatures they grew up hearing s
+ tories about from their Filipino families.\nhttps://www.phoenixmovies.net/
+ movies/forgotten-island/HO00001764\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/forgotten-island/HO00001764
+END:VEVENT
+BEGIN:VEVENT
+UID:7aed7a29a8c13ab029a547bc80b231d5d9743f10@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T130000Z
+DTEND:20260928T150000Z
+SUMMARY:Heart of the Beast
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:15am\, 1:30pm\, 3:45pm\, 6pm\, 8:15pm\, 10:30pm
+ \nAfter a harrowing plane crash\, Special Forces officer James Belmont (Br
+ ad Pitt) and his combat dog\, Odin\, find themselves stranded deep in the 
+ Alaskan wilderness. Together\, they are forced into a brutal fight for sur
+ vival against the elements. From acclaimed filmmaker David Ayer\, Heart of
+  the Beast is an intense adventure thriller that explores the unbreakable 
+ bond between a man and his best friend as they face their greatest battle 
+ yet.\nhttps://www.phoenixmovies.net/movies/heart-of-the-beast/HO00001760\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/heart-of-the-beast/HO00001760
+END:VEVENT
+BEGIN:VEVENT
+UID:12b5df2986c289146b7710fc1d7ecd3ffac55a2a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T134000Z
+DTEND:20260928T154000Z
+SUMMARY:Resident Evil
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:40am\, 11:50am\, 2pm\, 4:10pm\, 6:20pm\, 8:30pm\, 10:4
+ 0pm\nFrom the mind of visionary filmmaker Zach Cregger (Weapons\, Barbaria
+ n) comes a thrilling — and terrifying — reinvention of the Resident Ev
+ il franchise.\nhttps://www.phoenixmovies.net/movies/resident-evil/HO000017
+ 51\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/resident-evil/HO00001751
+END:VEVENT
+BEGIN:VEVENT
+UID:fda21a3a1f8901293d4abe04470cf095f744f7e6@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T134500Z
+DTEND:20260928T154500Z
+SUMMARY:Primetime
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:45am\, 12:15pm\, 2:40pm\, 5:05pm\, 7:30pm\, 9:55pm\nIn
+  2006\, To Catch a Predator host Chris Hansen sets out to make television 
+ history.\nhttps://www.phoenixmovies.net/movies/primetime/HO00001771\nFrom 
+ Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/primetime/HO00001771
+END:VEVENT
+BEGIN:VEVENT
+UID:3fd3ece94c724cc5d328dd91133753fa1fb5c5c8@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T142500Z
+DTEND:20260928T162500Z
+SUMMARY:Practical Magic 2
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 10:25am\, 1:10pm\, 3:55pm\, 6:40pm\, 9:25pm\nStarring Sa
+ ndra Bullock and Nicole Kidman\, Practical Magic 2 returns to a world stee
+ ped in moonlit mischief and powerful ancestral magic\, as the Owens sister
+ s must confront the dark curse that threatens to unravel their family once
+  and for all in a must-see cinematic event of fun\, magic and mayhem.\nhtt
+ ps://www.phoenixmovies.net/movies/practical-magic-2/HO00001750\nFrom Pushp
+ in Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/practical-magic-2/HO00001750
+END:VEVENT
+BEGIN:VEVENT
+UID:8c157437cf5a94201dcc31a2265b6d5766787849@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T154000Z
+DTEND:20260928T174000Z
+SUMMARY:Avengers: Endgame - Encore
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 11:40am\, 3:20pm\, 7pm\, 10:40pm\nThe grave course of ev
+ ents set in motion by Thanos that wiped out half the universe and fracture
+ d the Avengers ranks compels the remaining Avengers to take one final stan
+ d in Marvel Studios' grand conclusion to twenty-two films\, "Avengers: End
+ game."\nhttps://www.phoenixmovies.net/movies/avengers:-endgame---encore/HO
+ 00001768\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/avengers:-endgame---encore/HO00001
+ 768
+END:VEVENT
+BEGIN:VEVENT
+UID:b3ff2bdcc810c837b0f0cf9ea9e975666d32c7cd@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T130000Z
+DTEND:20260929T150000Z
+SUMMARY:Forgotten Island
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 9:40am\, 12pm\, 2:30pm\, 4:55pm\, 7:20pm\, 9:45pm\
+ nWhile celebrating their last night together\, Jo and Raissa stumble upon 
+ a mysterious portal that transports them to the fantastical island of Naka
+ li\, packed with magical and mythological creatures they grew up hearing s
+ tories about from their Filipino families.\nhttps://www.phoenixmovies.net/
+ movies/forgotten-island/HO00001764\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/forgotten-island/HO00001764
+END:VEVENT
+BEGIN:VEVENT
+UID:ff8e54892bf3c237120d8cbb66a7fa91fd014078@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T130000Z
+DTEND:20260929T150000Z
+SUMMARY:Heart of the Beast
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:15am\, 1:30pm\, 3:45pm\, 6pm\, 8:15pm\, 10:30pm
+ \nAfter a harrowing plane crash\, Special Forces officer James Belmont (Br
+ ad Pitt) and his combat dog\, Odin\, find themselves stranded deep in the 
+ Alaskan wilderness. Together\, they are forced into a brutal fight for sur
+ vival against the elements. From acclaimed filmmaker David Ayer\, Heart of
+  the Beast is an intense adventure thriller that explores the unbreakable 
+ bond between a man and his best friend as they face their greatest battle 
+ yet.\nhttps://www.phoenixmovies.net/movies/heart-of-the-beast/HO00001760\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/heart-of-the-beast/HO00001760
+END:VEVENT
+BEGIN:VEVENT
+UID:5e165fd2d4be31041b3e522907622ecbf96210f2@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T134000Z
+DTEND:20260929T154000Z
+SUMMARY:Resident Evil
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:40am\, 11:50am\, 2pm\, 4:10pm\, 6:20pm\, 8:30pm\, 10:4
+ 0pm\nFrom the mind of visionary filmmaker Zach Cregger (Weapons\, Barbaria
+ n) comes a thrilling — and terrifying — reinvention of the Resident Ev
+ il franchise.\nhttps://www.phoenixmovies.net/movies/resident-evil/HO000017
+ 51\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/resident-evil/HO00001751
+END:VEVENT
+BEGIN:VEVENT
+UID:a22bdebf6252596cf3b4b7e056012cff0a93a494@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T134500Z
+DTEND:20260929T154500Z
+SUMMARY:Primetime
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:45am\, 12:15pm\, 2:40pm\, 5:05pm\, 7:30pm\, 9:55pm\nIn
+  2006\, To Catch a Predator host Chris Hansen sets out to make television 
+ history.\nhttps://www.phoenixmovies.net/movies/primetime/HO00001771\nFrom 
+ Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/primetime/HO00001771
+END:VEVENT
+BEGIN:VEVENT
+UID:b6ee971ae38e6ab1d72eb2ef85d9f2976b472f54@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T142500Z
+DTEND:20260929T162500Z
+SUMMARY:Practical Magic 2
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 10:25am\, 1:10pm\, 3:55pm\, 6:40pm\, 9:25pm\nStarring Sa
+ ndra Bullock and Nicole Kidman\, Practical Magic 2 returns to a world stee
+ ped in moonlit mischief and powerful ancestral magic\, as the Owens sister
+ s must confront the dark curse that threatens to unravel their family once
+  and for all in a must-see cinematic event of fun\, magic and mayhem.\nhtt
+ ps://www.phoenixmovies.net/movies/practical-magic-2/HO00001750\nFrom Pushp
+ in Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/practical-magic-2/HO00001750
+END:VEVENT
+BEGIN:VEVENT
+UID:4dc11da7f9854427ba21dd16b39a3ae32e226d9b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T154000Z
+DTEND:20260929T174000Z
+SUMMARY:Avengers: Endgame - Encore
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 11:40am\, 3:20pm\, 7pm\, 10:40pm\nThe grave course of ev
+ ents set in motion by Thanos that wiped out half the universe and fracture
+ d the Avengers ranks compels the remaining Avengers to take one final stan
+ d in Marvel Studios' grand conclusion to twenty-two films\, "Avengers: End
+ game."\nhttps://www.phoenixmovies.net/movies/avengers:-endgame---encore/HO
+ 00001768\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/avengers:-endgame---encore/HO00001
+ 768
+END:VEVENT
+BEGIN:VEVENT
+UID:75e88a5eadb9ccb8ea19c8894d110e5741f2ebd1@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T130000Z
+DTEND:20260930T150000Z
+SUMMARY:Forgotten Island
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 9:40am\, 12pm\, 2:30pm\, 4:55pm\, 7:20pm\, 9:45pm\
+ nWhile celebrating their last night together\, Jo and Raissa stumble upon 
+ a mysterious portal that transports them to the fantastical island of Naka
+ li\, packed with magical and mythological creatures they grew up hearing s
+ tories about from their Filipino families.\nhttps://www.phoenixmovies.net/
+ movies/forgotten-island/HO00001764\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/forgotten-island/HO00001764
+END:VEVENT
+BEGIN:VEVENT
+UID:3e1318aabd4ec1c990ba93790e87f1ce7afbc9f9@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T130000Z
+DTEND:20260930T150000Z
+SUMMARY:Heart of the Beast
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:15am\, 1:30pm\, 3:45pm\, 6pm\, 8:15pm\, 10:30pm
+ \nAfter a harrowing plane crash\, Special Forces officer James Belmont (Br
+ ad Pitt) and his combat dog\, Odin\, find themselves stranded deep in the 
+ Alaskan wilderness. Together\, they are forced into a brutal fight for sur
+ vival against the elements. From acclaimed filmmaker David Ayer\, Heart of
+  the Beast is an intense adventure thriller that explores the unbreakable 
+ bond between a man and his best friend as they face their greatest battle 
+ yet.\nhttps://www.phoenixmovies.net/movies/heart-of-the-beast/HO00001760\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/heart-of-the-beast/HO00001760
+END:VEVENT
+BEGIN:VEVENT
+UID:3706883f6d1e1c68cfafa14c40e117b7b50f5496@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T134000Z
+DTEND:20260930T154000Z
+SUMMARY:Resident Evil
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:40am\, 11:50am\, 1:50pm\, 3:45pm\, 9pm\, 11pm\nFrom th
+ e mind of visionary filmmaker Zach Cregger (Weapons\, Barbarian) comes a t
+ hrilling — and terrifying — reinvention of the Resident Evil franchise
+ .\nhttps://www.phoenixmovies.net/movies/resident-evil/HO00001751\nFrom Pus
+ hpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/resident-evil/HO00001751
+END:VEVENT
+BEGIN:VEVENT
+UID:14f7d71d01cf7bc803513b7f0e9dab6303afd8aa@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T134500Z
+DTEND:20260930T154500Z
+SUMMARY:Primetime
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:45am\, 12:15pm\, 2:40pm\, 5:05pm\, 7:30pm\, 9:55pm\nIn
+  2006\, To Catch a Predator host Chris Hansen sets out to make television 
+ history.\nhttps://www.phoenixmovies.net/movies/primetime/HO00001771\nFrom 
+ Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/primetime/HO00001771
+END:VEVENT
+BEGIN:VEVENT
+UID:38d172bd86474919d6f5d68c222c73804d3beae9@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T142500Z
+DTEND:20260930T162500Z
+SUMMARY:Practical Magic 2
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 10:25am\, 1:10pm\, 3:55pm\, 9:25pm\nStarring Sandra Bull
+ ock and Nicole Kidman\, Practical Magic 2 returns to a world steeped in mo
+ onlit mischief and powerful ancestral magic\, as the Owens sisters must co
+ nfront the dark curse that threatens to unravel their family once and for 
+ all in a must-see cinematic event of fun\, magic and mayhem.\nhttps://www.
+ phoenixmovies.net/movies/practical-magic-2/HO00001750\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/practical-magic-2/HO00001750
+END:VEVENT
+BEGIN:VEVENT
+UID:2dae553cadc5fcb4977e54df8f3e569ec0bef7bd@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T154000Z
+DTEND:20260930T174000Z
+SUMMARY:Avengers: Endgame - Encore
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 11:40am\, 3:20pm\, 7pm\, 10:40pm\nThe grave course of ev
+ ents set in motion by Thanos that wiped out half the universe and fracture
+ d the Avengers ranks compels the remaining Avengers to take one final stan
+ d in Marvel Studios' grand conclusion to twenty-two films\, "Avengers: End
+ game."\nhttps://www.phoenixmovies.net/movies/avengers:-endgame---encore/HO
+ 00001768\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/avengers:-endgame---encore/HO00001
+ 768
+END:VEVENT
+BEGIN:VEVENT
+UID:53a94a9e884c8df8f45a8e79399cc820ec152268@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T230000Z
+DTEND:20261001T010000Z
+SUMMARY:Verity - Early Access Screening
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Adapted from Colleen Hoover's best-selling novel\, this seducti
+ ve\, psychological thriller follows renowned author Verity Crawford (Anne 
+ Hathaway) and Lowen Ashleigh (Dakota Johnson)\, a struggling writer who re
+ locates to the remote Crawford estate to ghostwrite for Verity. After Lowe
+ n uncovers what appears to be Verity's chilling autobiographical notes\, s
+ he wrestles with the disturbing and twisted confessions about Verity’s h
+ usband Jeremy (Josh Hartnett)\, and finds it hard to separate fiction from
+  reality\, manipulation from attraction\, and opportunity from obsession.\
+ nhttps://www.phoenixmovies.net/movies/verity---early-access-screening/HO00
+ 001775\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/verity---early-access-screening/HO
+ 00001775
+END:VEVENT
+BEGIN:VEVENT
+UID:b7620cab6e9baff3dae35b0578d4e465b9f59cfd@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T130000Z
+DTEND:20261001T150000Z
+SUMMARY:Forgotten Island
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 9:40am\, 12pm\, 2:30pm\, 4:55pm\, 7:20pm\nWhile ce
+ lebrating their last night together\, Jo and Raissa stumble upon a mysteri
+ ous portal that transports them to the fantastical island of Nakali\, pack
+ ed with magical and mythological creatures they grew up hearing stories ab
+ out from their Filipino families.\nhttps://www.phoenixmovies.net/movies/fo
+ rgotten-island/HO00001764\nFrom Pushpin Western Mass: https://pushpin.city
+ /westernma/
+URL:https://www.phoenixmovies.net/movies/forgotten-island/HO00001764
+END:VEVENT
+BEGIN:VEVENT
+UID:9a35b9dcec90922be3d0f4f53e8ddcaefec6b450@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T130000Z
+DTEND:20261001T150000Z
+SUMMARY:Heart of the Beast
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:15am\, 1:30pm\, 3:45pm\, 6pm\, 8:15pm\, 10:30pm
+ \nAfter a harrowing plane crash\, Special Forces officer James Belmont (Br
+ ad Pitt) and his combat dog\, Odin\, find themselves stranded deep in the 
+ Alaskan wilderness. Together\, they are forced into a brutal fight for sur
+ vival against the elements. From acclaimed filmmaker David Ayer\, Heart of
+  the Beast is an intense adventure thriller that explores the unbreakable 
+ bond between a man and his best friend as they face their greatest battle 
+ yet.\nhttps://www.phoenixmovies.net/movies/heart-of-the-beast/HO00001760\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/heart-of-the-beast/HO00001760
+END:VEVENT
+BEGIN:VEVENT
+UID:11caf16c4d249716eaa1f7e1649bb8410bdb135e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T130000Z
+DTEND:20261001T150000Z
+SUMMARY:Practical Magic 2
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:40am\nStarring Sandra Bullock and Nicole Kidman
+ \, Practical Magic 2 returns to a world steeped in moonlit mischief and po
+ werful ancestral magic\, as the Owens sisters must confront the dark curse
+  that threatens to unravel their family once and for all in a must-see cin
+ ematic event of fun\, magic and mayhem.\nhttps://www.phoenixmovies.net/mov
+ ies/practical-magic-2/HO00001750\nFrom Pushpin Western Mass: https://pushp
+ in.city/westernma/
+URL:https://www.phoenixmovies.net/movies/practical-magic-2/HO00001750
+END:VEVENT
+BEGIN:VEVENT
+UID:ecf7f7ae8f5fc96d6ce01b4571048abfaf0126c5@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T134000Z
+DTEND:20261001T154000Z
+SUMMARY:Resident Evil
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:40am\, 11:50am\, 2pm\, 9:55pm\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and
+  terrifying — reinvention of the Resident Evil franchise.\nhttps://www.p
+ hoenixmovies.net/movies/resident-evil/HO00001751\nFrom Pushpin Western Mas
+ s: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/resident-evil/HO00001751
+END:VEVENT
+BEGIN:VEVENT
+UID:d546f8bc4b0c52b4e804e2ce1a2657a3b956872b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T134500Z
+DTEND:20261001T154500Z
+SUMMARY:Primetime
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:45am\, 12:15pm\, 2:40pm\, 5:05pm\, 7:40pm\, 10:10pm\nI
+ n 2006\, To Catch a Predator host Chris Hansen sets out to make television
+  history.\nhttps://www.phoenixmovies.net/movies/primetime/HO00001771\nFrom
+  Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/primetime/HO00001771
+END:VEVENT
+BEGIN:VEVENT
+UID:0d58f33422e8568d5c5006580ad4cfbf58330d31@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T152000Z
+DTEND:20261001T172000Z
+SUMMARY:Avengers: Endgame - Encore
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 11:20am\, 3pm\, 6:40pm\, 10:20pm\nThe grave course of ev
+ ents set in motion by Thanos that wiped out half the universe and fracture
+ d the Avengers ranks compels the remaining Avengers to take one final stan
+ d in Marvel Studios' grand conclusion to twenty-two films\, "Avengers: End
+ game."\nhttps://www.phoenixmovies.net/movies/avengers:-endgame---encore/HO
+ 00001768\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/avengers:-endgame---encore/HO00001
+ 768
+END:VEVENT
+BEGIN:VEVENT
+UID:c7d06745d0393d4c953d2d20291652c90448b8bf@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T182500Z
+DTEND:20261001T202500Z
+SUMMARY:Verity
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 2:25pm\, 5pm\, 7:30pm\, 10pm\nAdapted from Colleen Hoove
+ r's best-selling novel\, this seductive\, psychological thriller follows r
+ enowned author Verity Crawford (Anne Hathaway) and Lowen Ashleigh (Dakota 
+ Johnson)\, a struggling writer who relocates to the remote Crawford estate
+  to ghostwrite for Verity. After Lowen uncovers what appears to be Verity'
+ s chilling autobiographical notes\, she wrestles with the disturbing and t
+ wisted confessions about Verity’s husband Jeremy (Josh Hartnett)\, and f
+ inds it hard to separate fiction from reality\, manipulation from attracti
+ on\, and opportunity from obsession.\nhttps://www.phoenixmovies.net/movies
+ /verity/HO00001763\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://www.phoenixmovies.net/movies/verity/HO00001763
+END:VEVENT
+BEGIN:VEVENT
+UID:3f854397fe71292fffbaf57406ab5cdb43edbc45@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T201000Z
+DTEND:20261001T221000Z
+SUMMARY:Digger
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 4:10pm\, 7pm\, 9:45pm\nThe most powerful man in the worl
+ d embarks on a frantic mission to prove he is humanity's saviour before th
+ e disaster he’s unleashed destroys everything.\nhttps://www.phoenixmovie
+ s.net/movies/digger/HO00001762\nFrom Pushpin Western Mass: https://pushpin
+ .city/westernma/
+URL:https://www.phoenixmovies.net/movies/digger/HO00001762
+END:VEVENT
+BEGIN:VEVENT
+UID:04e51dfb5d3cfd3efd48afd9ea2402406797a144@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T132000Z
+DTEND:20261002T152000Z
+SUMMARY:Verity
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:20am\, 11:50am\, 2:25pm\, 5pm\, 7:30pm\, 10pm\nAdapted
+  from Colleen Hoover's best-selling novel\, this seductive\, psychological
+  thriller follows renowned author Verity Crawford (Anne Hathaway) and Lowe
+ n Ashleigh (Dakota Johnson)\, a struggling writer who relocates to the rem
+ ote Crawford estate to ghostwrite for Verity. After Lowen uncovers what ap
+ pears to be Verity's chilling autobiographical notes\, she wrestles with t
+ he disturbing and twisted confessions about Verity’s husband Jeremy (Jos
+ h Hartnett)\, and finds it hard to separate fiction from reality\, manipul
+ ation from attraction\, and opportunity from obsession.\nhttps://www.phoen
+ ixmovies.net/movies/verity/HO00001763\nFrom Pushpin Western Mass: https://
+ pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/verity/HO00001763
+END:VEVENT
+BEGIN:VEVENT
+UID:37d71787915b07c176be62fe00fdd6337a90bbcf@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T144000Z
+DTEND:20261002T164000Z
+SUMMARY:Digger
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 10:40am\, 1:25pm\, 4:10pm\, 9:45pm\nThe most powerful ma
+ n in the world embarks on a frantic mission to prove he is humanity's savi
+ our before the disaster he’s unleashed destroys everything.\nhttps://www
+ .phoenixmovies.net/movies/digger/HO00001762\nFrom Pushpin Western Mass: ht
+ tps://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/digger/HO00001762
+END:VEVENT
+BEGIN:VEVENT
+UID:fde5abc55dd273663cccd3801ba7cf5a09192fe3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T132000Z
+DTEND:20261003T152000Z
+SUMMARY:Verity
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:20am\, 11:50am\, 2:25pm\, 5pm\, 7:30pm\, 10pm\nAdapted
+  from Colleen Hoover's best-selling novel\, this seductive\, psychological
+  thriller follows renowned author Verity Crawford (Anne Hathaway) and Lowe
+ n Ashleigh (Dakota Johnson)\, a struggling writer who relocates to the rem
+ ote Crawford estate to ghostwrite for Verity. After Lowen uncovers what ap
+ pears to be Verity's chilling autobiographical notes\, she wrestles with t
+ he disturbing and twisted confessions about Verity’s husband Jeremy (Jos
+ h Hartnett)\, and finds it hard to separate fiction from reality\, manipul
+ ation from attraction\, and opportunity from obsession.\nhttps://www.phoen
+ ixmovies.net/movies/verity/HO00001763\nFrom Pushpin Western Mass: https://
+ pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/verity/HO00001763
+END:VEVENT
+BEGIN:VEVENT
+UID:b14c2d127bbafb11d98212de3c0be35a3a53e08e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T144000Z
+DTEND:20261003T164000Z
+SUMMARY:Digger
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 10:40am\, 1:25pm\, 4:10pm\, 7pm\, 9:45pm\nThe most power
+ ful man in the world embarks on a frantic mission to prove he is humanity'
+ s saviour before the disaster he’s unleashed destroys everything.\nhttps
+ ://www.phoenixmovies.net/movies/digger/HO00001762\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/digger/HO00001762
+END:VEVENT
+BEGIN:VEVENT
+UID:70a5a80710cfbf1c31295b58e6adeee5c11fe49d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T170000Z
+DTEND:20261003T190000Z
+SUMMARY:The Metropolitan Opera: Così fan tutte (2026)
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:The Met: Live in HD season continues with Mozart’s satirical 
+ comedy of fickle young love. Phelim McDermott’s “colorful\, inventive
+ ” (The New York Times) staging\, inspired by Coney Island in the 1950s\,
+  sets the uproarious story at a boardwalk amusement park\, where the two p
+ airs of lovers at the heart of the tale find themselves on one emotional
+ —and literal—thrill ride after another. Soprano Federica Lombardi and 
+ mezzo-soprano Samantha Hankey sing Fiordiligi and Dorabella\, opposite ten
+ or Duke Kim and baritone Andrey Zhilikhovsky as Ferrando and Guglielmo. Ba
+ ss-baritone Gerald Finley reprises his portrayal of the cynical Don Alfons
+ o\, with soprano Ana María Martínez as the witty maid Despina.\nhttps://
+ www.phoenixmovies.net/movies/the-metropolitan-opera:-così-fan-tutte-(2026
+ )/HO00001736\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/the-metropolitan-opera:-così-fan-
+ tutte-(2026)/HO00001736
+END:VEVENT
+BEGIN:VEVENT
+UID:3fa8387ac03476119e7dd4933f71f57d1eaf50a1@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261004T132000Z
+DTEND:20261004T152000Z
+SUMMARY:Verity
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:20am\, 11:50am\, 2:25pm\, 5pm\, 7:30pm\, 10pm\nAdapted
+  from Colleen Hoover's best-selling novel\, this seductive\, psychological
+  thriller follows renowned author Verity Crawford (Anne Hathaway) and Lowe
+ n Ashleigh (Dakota Johnson)\, a struggling writer who relocates to the rem
+ ote Crawford estate to ghostwrite for Verity. After Lowen uncovers what ap
+ pears to be Verity's chilling autobiographical notes\, she wrestles with t
+ he disturbing and twisted confessions about Verity’s husband Jeremy (Jos
+ h Hartnett)\, and finds it hard to separate fiction from reality\, manipul
+ ation from attraction\, and opportunity from obsession.\nhttps://www.phoen
+ ixmovies.net/movies/verity/HO00001763\nFrom Pushpin Western Mass: https://
+ pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/verity/HO00001763
+END:VEVENT
+BEGIN:VEVENT
+UID:b7f44521c57264df7dad8f549e236fff423331be@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261004T144000Z
+DTEND:20261004T164000Z
+SUMMARY:Digger
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 10:40am\, 1:25pm\, 4:10pm\, 7pm\, 9:45pm\nThe most power
+ ful man in the world embarks on a frantic mission to prove he is humanity'
+ s saviour before the disaster he’s unleashed destroys everything.\nhttps
+ ://www.phoenixmovies.net/movies/digger/HO00001762\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/digger/HO00001762
+END:VEVENT
+BEGIN:VEVENT
+UID:0780f09f8c9677ff9eefe1576006b16529ba6fc3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261005T132000Z
+DTEND:20261005T152000Z
+SUMMARY:Verity
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:20am\, 11:50am\, 2:25pm\, 5pm\, 7:30pm\, 10pm\nAdapted
+  from Colleen Hoover's best-selling novel\, this seductive\, psychological
+  thriller follows renowned author Verity Crawford (Anne Hathaway) and Lowe
+ n Ashleigh (Dakota Johnson)\, a struggling writer who relocates to the rem
+ ote Crawford estate to ghostwrite for Verity. After Lowen uncovers what ap
+ pears to be Verity's chilling autobiographical notes\, she wrestles with t
+ he disturbing and twisted confessions about Verity’s husband Jeremy (Jos
+ h Hartnett)\, and finds it hard to separate fiction from reality\, manipul
+ ation from attraction\, and opportunity from obsession.\nhttps://www.phoen
+ ixmovies.net/movies/verity/HO00001763\nFrom Pushpin Western Mass: https://
+ pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/verity/HO00001763
+END:VEVENT
+BEGIN:VEVENT
+UID:2202c612fb2d77601be72df5eb0b42d525da4f25@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261005T144000Z
+DTEND:20261005T164000Z
+SUMMARY:Digger
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 10:40am\, 1:25pm\, 4:10pm\, 7pm\, 9:45pm\nThe most power
+ ful man in the world embarks on a frantic mission to prove he is humanity'
+ s saviour before the disaster he’s unleashed destroys everything.\nhttps
+ ://www.phoenixmovies.net/movies/digger/HO00001762\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/digger/HO00001762
+END:VEVENT
+BEGIN:VEVENT
+UID:5c2dbeadaea19c18d31c5a07f1a2e5ac2d75bdc3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261006T132000Z
+DTEND:20261006T152000Z
+SUMMARY:Verity
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:20am\, 11:50am\, 2:25pm\, 5pm\, 7:30pm\, 10pm\nAdapted
+  from Colleen Hoover's best-selling novel\, this seductive\, psychological
+  thriller follows renowned author Verity Crawford (Anne Hathaway) and Lowe
+ n Ashleigh (Dakota Johnson)\, a struggling writer who relocates to the rem
+ ote Crawford estate to ghostwrite for Verity. After Lowen uncovers what ap
+ pears to be Verity's chilling autobiographical notes\, she wrestles with t
+ he disturbing and twisted confessions about Verity’s husband Jeremy (Jos
+ h Hartnett)\, and finds it hard to separate fiction from reality\, manipul
+ ation from attraction\, and opportunity from obsession.\nhttps://www.phoen
+ ixmovies.net/movies/verity/HO00001763\nFrom Pushpin Western Mass: https://
+ pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/verity/HO00001763
+END:VEVENT
+BEGIN:VEVENT
+UID:d429b525c4d8c338ef560ace5e493f99ceba1079@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261006T144000Z
+DTEND:20261006T164000Z
+SUMMARY:Digger
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 10:40am\, 1:25pm\, 4:10pm\, 7pm\, 9:45pm\nThe most power
+ ful man in the world embarks on a frantic mission to prove he is humanity'
+ s saviour before the disaster he’s unleashed destroys everything.\nhttps
+ ://www.phoenixmovies.net/movies/digger/HO00001762\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/digger/HO00001762
+END:VEVENT
+BEGIN:VEVENT
+UID:b8f73a86fdc568c92c0ad14f25c06a104c05be03@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261007T132000Z
+DTEND:20261007T152000Z
+SUMMARY:Verity
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:20am\, 11:50am\, 2:25pm\, 5pm\, 7:30pm\, 10pm\nAdapted
+  from Colleen Hoover's best-selling novel\, this seductive\, psychological
+  thriller follows renowned author Verity Crawford (Anne Hathaway) and Lowe
+ n Ashleigh (Dakota Johnson)\, a struggling writer who relocates to the rem
+ ote Crawford estate to ghostwrite for Verity. After Lowen uncovers what ap
+ pears to be Verity's chilling autobiographical notes\, she wrestles with t
+ he disturbing and twisted confessions about Verity’s husband Jeremy (Jos
+ h Hartnett)\, and finds it hard to separate fiction from reality\, manipul
+ ation from attraction\, and opportunity from obsession.\nhttps://www.phoen
+ ixmovies.net/movies/verity/HO00001763\nFrom Pushpin Western Mass: https://
+ pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/verity/HO00001763
+END:VEVENT
+BEGIN:VEVENT
+UID:e437f8e02e7021d482d5a4b82ac0599edfc2e532@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261007T144000Z
+DTEND:20261007T164000Z
+SUMMARY:Digger
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 10:40am\, 1:25pm\, 4:10pm\, 7pm\, 9:45pm\nThe most power
+ ful man in the world embarks on a frantic mission to prove he is humanity'
+ s saviour before the disaster he’s unleashed destroys everything.\nhttps
+ ://www.phoenixmovies.net/movies/digger/HO00001762\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/digger/HO00001762
+END:VEVENT
+BEGIN:VEVENT
+UID:f7f34c9bea0731fa9a7dba622e2f4c04deddce84@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261008T132000Z
+DTEND:20261008T152000Z
+SUMMARY:Verity
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:20am\, 11:50am\, 2:25pm\, 5pm\, 7:30pm\, 10pm\nAdapted
+  from Colleen Hoover's best-selling novel\, this seductive\, psychological
+  thriller follows renowned author Verity Crawford (Anne Hathaway) and Lowe
+ n Ashleigh (Dakota Johnson)\, a struggling writer who relocates to the rem
+ ote Crawford estate to ghostwrite for Verity. After Lowen uncovers what ap
+ pears to be Verity's chilling autobiographical notes\, she wrestles with t
+ he disturbing and twisted confessions about Verity’s husband Jeremy (Jos
+ h Hartnett)\, and finds it hard to separate fiction from reality\, manipul
+ ation from attraction\, and opportunity from obsession.\nhttps://www.phoen
+ ixmovies.net/movies/verity/HO00001763\nFrom Pushpin Western Mass: https://
+ pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/verity/HO00001763
+END:VEVENT
+BEGIN:VEVENT
+UID:da0b7336f1a775883dec4778732843431e36f83c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261008T144000Z
+DTEND:20261008T164000Z
+SUMMARY:Digger
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 10:40am\, 1:25pm\, 4:10pm\, 7pm\, 9:45pm\nThe most power
+ ful man in the world embarks on a frantic mission to prove he is humanity'
+ s saviour before the disaster he’s unleashed destroys everything.\nhttps
+ ://www.phoenixmovies.net/movies/digger/HO00001762\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/digger/HO00001762
+END:VEVENT
+BEGIN:VEVENT
+UID:6a7f24a8dce6ee2e3017c34377a77d77ffac56f6@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261008T180000Z
+DTEND:20261008T200000Z
+SUMMARY:Other Mommy
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 2pm\, 4:10pm\, 6:20pm\, 8:30pm\, 10:40pm\nBela\, an 8-ye
+ ar-old girl living in a home with marital problems\, confronts a sinister 
+ entity that comes out of her closet. The presence\, whom she calls "Other 
+ Mommy\," becomes increasingly threatening to her and her family.\nhttps://
+ www.phoenixmovies.net/movies/other-mommy/HO00001773\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/other-mommy/HO00001773
+END:VEVENT
+BEGIN:VEVENT
+UID:8fc39ace19cf8c84d79cf39fdea4c711698778c4@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261009T134000Z
+DTEND:20261009T154000Z
+SUMMARY:Other Mommy
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:40am\, 11:50am\, 2pm\, 4:10pm\, 6:20pm\, 8:30pm\, 10:4
+ 0pm\nBela\, an 8-year-old girl living in a home with marital problems\, co
+ nfronts a sinister entity that comes out of her closet. The presence\, who
+ m she calls "Other Mommy\," becomes increasingly threatening to her and he
+ r family.\nhttps://www.phoenixmovies.net/movies/other-mommy/HO00001773\nFr
+ om Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/other-mommy/HO00001773
+END:VEVENT
+END:VCALENDAR

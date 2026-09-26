@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · ICA
+X-WR-CALDESC:What’s coming up at ICA\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:9e311c6b1c2c69a7a5e802d40ba38b0d881cf710@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T213000Z
+DTEND:20261002T233000Z
+SUMMARY:First Fridays: Pumpkin Patch
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:There’s a chill in the air! Toss on some flannel\, your best 
+ dancing boots\, and line dance your way down to the ICA county fair for bl
+ ue-ribbon worthy drinks\, dancing\, and contemporary art.\nhttps://www.ica
+ boston.org/events/first-fridays-pumpkin-patch/\nFrom Pushpin Boston: https
+ ://pushpin.city/boston/
+URL:https://www.icaboston.org/events/first-fridays-pumpkin-patch/
+END:VEVENT
+BEGIN:VEVENT
+UID:4c06d3ec0fb70cb9ad2beb33d05e65033cceb594@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261009T230000Z
+DTEND:20261010T010000Z
+SUMMARY:TCB: The Toni Cade Bambara School of Organizing
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:The ICA\, in partnership with the Boston Ujima Project\, presen
+ ts a special screening of TCB: The Toni Cade Bambara School of Organizing\
+ , a biography of the influential writer\, filmmaker and cultural worker\, 
+ who with humor and deep insight\, inspired a generation of artists to dedi
+ cate themselves to community empowerment. The film is structured as a seri
+ es of lessons on cultural organizing\, gleaned from Bambara’s life and s
+ hared by her friends\, colleagues and students.\nhttps://www.icaboston.org
+ /events/tcb-the-toni-cade-bambara-school-of-organizing/\nFrom Pushpin Bost
+ on: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/tcb-the-toni-cade-bambara-school-of-or
+ ganizing/
+END:VEVENT
+BEGIN:VEVENT
+UID:1b2e391d14ae09d77fc8ebfc3799b6c4262a4e8d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261015T230000Z
+DTEND:20261016T010000Z
+SUMMARY:The Artist’s Voice: Tony Oursler with Susan Goldberg\, Meghan Cla
+ re Considine\, and Nora Burnett Abrams
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:What does access to art look like? Today\, anyone with an inter
+ net connection can explore art from around the world in seconds. But long 
+ before streaming and social media transformed how we can experience cultur
+ e\, a collaboration in Boston was already imagining a new way to bring con
+ temporary art into people’s homes.\nhttps://www.icaboston.org/events/the
+ -artists-voice-tony-oursler-with-susan-goldberg-meghan-clare-considine-and
+ -nora-burnett-abrams/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/the-artists-voice-tony-oursler-with-su
+ san-goldberg-meghan-clare-considine-and-nora-burnett-abrams/
+END:VEVENT
+BEGIN:VEVENT
+UID:6d2b16770cd0ad2196744ec7aab9ce418a2e4479@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261017T180000Z
+DTEND:20261017T200000Z
+SUMMARY:Book Talk: Melissa Auf der Maur with Naomi Yang
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:*Event price waived with online book pre-purchase\; books are a
+ vailable from the ICA Store.\nhttps://www.icaboston.org/events/book-talk-m
+ elissa-auf-der-maur-with-naomi-yang/\nFrom Pushpin Boston: https://pushpin
+ .city/boston/
+URL:https://www.icaboston.org/events/book-talk-melissa-auf-der-maur-with-na
+ omi-yang/
+END:VEVENT
+BEGIN:VEVENT
+UID:6806fb0d72876ff0843debe0810c0be4de6616e4@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+SUMMARY:Gallery Talk: Meghan Clare Considine on Cynthia Daignault: Valley
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:What does it mean to be alive at a specific point in time?\nhtt
+ ps://www.icaboston.org/events/gallery-talk-meghan-clare-considine-on-cynth
+ ia-daignault-valley/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/gallery-talk-meghan-clare-considine-on
+ -cynthia-daignault-valley/
+END:VEVENT
+BEGIN:VEVENT
+UID:87f6221b081535dbc55bf478aac60e0f9216f178@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261024T000000Z
+DTEND:20261024T020000Z
+SUMMARY:MIDDAY Movement Series and ICA/Boston present: Braiding Futures
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Rough Drafts\, a program of MIDDAY Movement Series\, is a chore
+ ographic lab and teaching residency that supports three emerging Boston-ba
+ sed artists working in contemporary dance. “Braiding Futures\,” the ar
+ tists’ culminating showcase presented at the ICA\, explores the themes o
+ f cultural resistance and resilience through contemporary movement practic
+ es. This year’s Rough Drafts cycle features artists Mira Göksel\, Aiden
+  Marshall\, and Simon Montalvo\, who will each present new and reimagined 
+ work developed throughout their residency period.\nhttps://www.icaboston.o
+ rg/events/midday-movement-series-and-ica-boston-present-braiding-futures/\
+ nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/midday-movement-series-and-ica-boston-
+ present-braiding-futures/
+END:VEVENT
+BEGIN:VEVENT
+UID:1e1c83aa26eed3932e66b302b8488cc2cbacc712@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261109T000000Z
+DTEND:20261109T020000Z
+SUMMARY:The Boston Symphony Orchestra and ICA/Boston present Sudan Archives
+ : Any Shape I Want
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Sudan Archives brings a new performance to the Institute of Con
+ temporary Art/Boston in a co-production with the Boston Symphony Orchestra
+  as part of the BSO’s Creation Festival. The New York Times has called h
+ er “an artist in a league of her own\,” and Pitchfork praised her “t
+ hrillingly original” fusion of sound and storytelling.\nhttps://www.icab
+ oston.org/events/boston-symphony-orchestra-ica-boston-sudan-archives-any-s
+ hape-i-want/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/boston-symphony-orchestra-ica-boston-s
+ udan-archives-any-shape-i-want/
+END:VEVENT
+END:VCALENDAR

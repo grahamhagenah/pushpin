@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Bay Area//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Bay Area · YBCA
+X-WR-CALDESC:What’s coming up at YBCA\, from Pushpin Bay Area.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:0e3609c19984ddb303a9c2e540cb94f23a5347d9@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T210000Z
+DTEND:20260926T230000Z
+SUMMARY:Yourself and Yours
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:See Hong Sang-soo’s “Yourself and Yours” (2016) as part o
+ f a weekly film series exploring voyeurism and theatricality\, cocktail ch
+ arm and social taboos.\nhttps://ybca.org/event/yourself-and-yours-through-
+ an-open-window-film-series/\nFrom Pushpin Bay Area: https://pushpin.city/b
+ ayarea/
+URL:https://ybca.org/event/yourself-and-yours-through-an-open-window-film-s
+ eries/
+END:VEVENT
+BEGIN:VEVENT
+UID:75d8f884b3a51e8c631c00f1af208d12fafb4974@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T210000Z
+DTEND:20260930T230000Z
+SUMMARY:Free Art Workshop: 3D Paper Flowers
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Incorporate dimensionality into your colorful flower creation.\
+ nhttps://ybca.org/event/free-art-workshop-3d-paper-flowers-9-30-26/\nFrom 
+ Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/free-art-workshop-3d-paper-flowers-9-30-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26e85253c5b0482109b573cff3a855fd58db83@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T230000Z
+DTEND:20261001T010000Z
+SUMMARY:Gallery Tour & Sketching Activity: Behind the Curtain
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:A guided tour and sketching activity inspired by the exhibition
+  “Gahee Park: Behind the Curtain.”\nhttps://ybca.org/event/gallery-tou
+ r-sketching-activity-behind-the-curtain-9-30-26/\nFrom Pushpin Bay Area: h
+ ttps://pushpin.city/bayarea/
+URL:https://ybca.org/event/gallery-tour-sketching-activity-behind-the-curta
+ in-9-30-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:d07301a149f922eb712b59642b837ae650a11252@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T030000Z
+DTEND:20261002T050000Z
+SUMMARY:The Nexus Party: The Official Party of SF/Bay Area Black Art Week
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Join artists\, cultural leaders\, and art lovers from across th
+ e Bay Area for an unforgettable celebration.\nhttps://ybca.org/event/the-n
+ exus-party-the-official-party-of-sf-bay-area-black-art-week/\nFrom Pushpin
+  Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/the-nexus-party-the-official-party-of-sf-bay-are
+ a-black-art-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:4bad5781f7d5810609510b15a116ca6b61d1b291@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T200000Z
+DTEND:20261003T220000Z
+SUMMARY:Art as Resistance: A Conversation with Dread Scott\, Emory Douglas 
+ & Orlando Smith
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Explore how art translates political urgency into image\, how h
+ istory and truth are constructed and dismantled\, and how graphic storytel
+ ling becomes a tool for change.\nhttps://ybca.org/event/art-as-resistance-
+ a-conversation-with-dread-scott-emory-douglas-orlando-smith-10-3-26/\nFrom
+  Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/art-as-resistance-a-conversation-with-dread-scot
+ t-emory-douglas-orlando-smith-10-3-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:f212557a25c5f856c71ac8e08efa423019342e53@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T210000Z
+DTEND:20261003T230000Z
+SUMMARY:A New Leaf
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:See Elaine May’s “A New Leaf” (1971) as part of a weekly 
+ film series exploring voyeurism and theatricality\, cocktail charm and soc
+ ial taboos.\nhttps://ybca.org/event/a-new-leaf-through-an-open-window-film
+ -series/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/a-new-leaf-through-an-open-window-film-series/
+END:VEVENT
+BEGIN:VEVENT
+UID:7fce6e902ad26001773da56591b5bac7ac7bd85b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261004T200000Z
+DTEND:20261004T220000Z
+SUMMARY:Indie Film Screenings + TECH TALK: Filmmaking
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Presented as part of Nexus\, join us for a screening of indepen
+ dent films and a discussion.\nhttps://ybca.org/event/indie-film-screenings
+ -tech-talk-filmmaking-nexus-10-4-26/\nFrom Pushpin Bay Area: https://pushp
+ in.city/bayarea/
+URL:https://ybca.org/event/indie-film-screenings-tech-talk-filmmaking-nexus
+ -10-4-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:5a86199ea080b368b28086ab66f070aaf9f2f468@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261007T210000Z
+DTEND:20261007T230000Z
+SUMMARY:Free Art Workshop: Clay Vessel Sculpture
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Sculpt experimental clay vessels and learn techniques such as p
+ inching and coiling.\nhttps://ybca.org/event/free-art-workshop-clay-vessel
+ -sculpture-10-7-26/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/free-art-workshop-clay-vessel-sculpture-10-7-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d61d1fc737051b4dcc64bb82afa5b45a458656@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261008T020000Z
+DTEND:20261008T040000Z
+SUMMARY:Traveling Shoes
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Join DVT for a live performance of their album Traveling Shoes 
+ inside the exhibition “Dread Scott: The Body Politic.”\nhttps://ybca.o
+ rg/event/traveling-shoes-in-gallery-performance-10-7-26/\nFrom Pushpin Bay
+  Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/traveling-shoes-in-gallery-performance-10-7-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:a627ea8fc6fd45db81154764538681f4b48b1e80@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T210000Z
+DTEND:20261010T230000Z
+SUMMARY:The Music Room
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:See Satyajit Ray’s “The Music Room (Jalsaghar)” (1958) as
+  part of a weekly film series exploring voyeurism and theatricality\, cock
+ tail charm and social taboos.\nhttps://ybca.org/event/the-music-room-throu
+ gh-an-open-window-film-series/\nFrom Pushpin Bay Area: https://pushpin.cit
+ y/bayarea/
+URL:https://ybca.org/event/the-music-room-through-an-open-window-film-serie
+ s/
+END:VEVENT
+BEGIN:VEVENT
+UID:540288aef246c73bbeff8f61eac675bafa68556a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261014T210000Z
+DTEND:20261014T230000Z
+SUMMARY:Free Art Workshop: Hand Print Art
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Design a mixed-media hand print art using watercolor and collag
+ e.\nhttps://ybca.org/event/free-art-workshop-hand-print-art-10-14-26/\nFro
+ m Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/free-art-workshop-hand-print-art-10-14-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:306040d6dfb69dea98d252a4b804fb6050d8c406@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261015T000000Z
+DTEND:20261015T020000Z
+SUMMARY:Making Faces: A Puppet Crafting Workshop with Creativity Explored
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Join Creativity Explored artists for a hands-on\, drop-in works
+ hop to build your very own hand or stick puppet.\nhttps://ybca.org/event/m
+ aking-faces-a-puppet-crafting-workshop-with-creativity-explored/\nFrom Pus
+ hpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/making-faces-a-puppet-crafting-workshop-with-cre
+ ativity-explored/
+END:VEVENT
+BEGIN:VEVENT
+UID:f1192cbb6657bc40a469fba3ee080066af0783c5@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261017T210000Z
+DTEND:20261017T230000Z
+SUMMARY:The Ceremony
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:See Nagisa Ōshima’s “The Ceremony” (1971) as part of a w
+ eekly film series exploring voyeurism and theatricality\, cocktail charm a
+ nd social taboos.\nhttps://ybca.org/event/the-ceremony-through-an-open-win
+ dow-film-series/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/the-ceremony-through-an-open-window-film-series/
+END:VEVENT
+BEGIN:VEVENT
+UID:62b052577e6ac5a6da94d8f64050f009066c2c8e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261018T020000Z
+DTEND:20261018T040000Z
+SUMMARY:Let Her Sing 2026: A Celebration of Female Voices
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:An evening of exciting music and solidarity for the female voic
+ e.\nhttps://ybca.org/event/let-her-sing-2026-a-celebration-of-female-voice
+ s/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/let-her-sing-2026-a-celebration-of-female-voices
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:b7669fc53ee90877cc454ff7781380528768fbe8@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261022T013000Z
+DTEND:20261022T033000Z
+SUMMARY:Artificial Intimacy: Sherry Turkle and AI
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Join author Sherry Turkle and cartoonist Amy Kurzweil in conver
+ sation.\nhttps://ybca.org/event/litquake-festival-sherry-turkle-artificial
+ -intimacy-10-21-26/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/litquake-festival-sherry-turkle-artificial-intim
+ acy-10-21-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:d792b06e5b81478afdba4598abb9e644ba4e699e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261024T193000Z
+DTEND:20261024T213000Z
+SUMMARY:Murals & Monuments Tour
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:A walking tour through San Francisco’s Civic Center\, Mid-Mar
+ ket\, and SoMa\, exploring murals\, monuments\, and other forms of public 
+ art.\nhttps://ybca.org/event/murals-monuments-tour-10-24-26/\nFrom Pushpin
+  Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/murals-monuments-tour-10-24-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:d89c4c927357dd32ea884e943b8f603c24fe99a8@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261024T210000Z
+DTEND:20261024T230000Z
+SUMMARY:Silent Shorts Program
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:This program of silent shorts features three multi-hyphenate ar
+ tists-filmmakers-performers influential to GaHee Park’s work.\nhttps://y
+ bca.org/event/silent-shorts-program-through-an-open-window-film-series/\nF
+ rom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/silent-shorts-program-through-an-open-window-fil
+ m-series/
+END:VEVENT
+END:VCALENDAR

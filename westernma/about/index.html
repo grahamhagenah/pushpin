@@ -1,0 +1,576 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#000000">
+<meta name="apple-mobile-web-app-title" content="Pushpin Western Mass">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="icon" href="/westernma/favicon.ico" sizes="48x48">
+<link rel="icon" href="/westernma/favicon.svg?pin3" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/westernma/apple-touch-icon.png?pin3">
+<link rel="canonical" href="https://pushpin.city/westernma/about/">
+<meta name="description" content="What Pushpin Western Mass is, how to use it, the venues it lists around the Pioneer Valley and the Berkshires, and questions about it.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Pushpin Western Mass">
+<meta property="og:title" content="About · Pushpin Western Mass">
+<meta property="og:description" content="What Pushpin Western Mass is, how to use it, the venues it lists around the Pioneer Valley and the Berkshires, and questions about it.">
+<meta property="og:url" content="https://pushpin.city/westernma/about/">
+<meta property="og:image" content="https://pushpin.city/westernma/share/home.png?pin">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Pushpin Western Mass: Concerts, films, and talks around the Pioneer Valley and the Berkshires, aggregated from select venues.">
+<meta name="twitter:card" content="summary_large_image">
+<script data-goatcounter="https://hagenah.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Who makes this?","acceptedAnswer":{"@type":"Answer","text":"I’m Graham Hagenah. I grew up in Western Mass, and I love supporting its theaters and concert venues. I wanted an easier way to track what’s coming up than relying on Google or visiting each venue’s website."}},{"@type":"Question","name":"Why isn’t my favorite venue here?","acceptedAnswer":{"@type":"Answer","text":"It may not publish its calendar in a way that can be read automatically, or I may not have found it yet. Tell me about it and I’ll take a look."}},{"@type":"Question","name":"Will you make this for my city?","acceptedAnswer":{"@type":"Answer","text":"I’d rather keep it to places I know well. I add every venue one by one, and curating a list of cool spots would be challenging if I’m not a local. But if there’s enough interest in another city or area, I’ll look into starting one there, and it would go much faster with help from someone who knows its venues. If that’s you, get in touch."}},{"@type":"Question","name":"How often is it updated?","acceptedAnswer":{"@type":"Answer","text":"Every few hours, from each venue’s own calendar. Shows added or changed since then appear with the next update, so check the venue’s page before you go."}},{"@type":"Question","name":"Why do some listings have no time?","acceptedAnswer":{"@type":"Answer","text":"Some venues post only the date, or only when their doors open, not when the show starts. The listing links to the venue’s page, which usually has the rest."}},{"@type":"Question","name":"Does it track me?","acceptedAnswer":{"@type":"Answer","text":"Only anonymously. It counts visits, and which listings are opened, followed to their venues, and shared, with GoatCounter, which uses no cookies and keeps nothing personal, so I can tell whether people are using it. There are no ads and no accounts, and your venue and search choices live only in the page’s address."}}]}</script>
+<title>About · Pushpin Western Mass</title>
+<style>
+  html { background: #000; }
+  /* Nothing scrolls the page sideways on a phone, whatever runs wide. */
+  body { margin: 0; padding: 2rem 1.25rem 4rem; overflow-x: clip; color: #fff; background: #000;
+         font: 17px/1.45 -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+  main { max-width: 46rem; margin: 0 auto; }
+  header { display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-bottom: 2rem; }
+  .header-note { color: #666; font-size: .8rem; white-space: nowrap; }
+  .header-note time { margin: 0; font-size: inherit; }
+  /* The newsfeed and the events page, as a pair: the one you're on in white, the other a gray link to it. */
+  .sites { display: flex; gap: .9rem; }
+  .sites a, .sites a:visited { color: #555; font-size: 1.15rem; font-weight: 700; letter-spacing: -.01em; text-decoration: none; }
+  .sites a:hover { color: #999; }
+  .sites a[aria-current], .sites a[aria-current]:hover { color: #fff; }
+
+  /* Its choices at the top of the row, as a link sits, so a page whose choices are buttons (which center
+     their text in the row's height, set by the menu and search) puts them at the same height as one of links. */
+  .filter { display: flex; flex-wrap: wrap; align-items: flex-start; gap: .4rem 1.1rem; margin: -.75rem 0 1.75rem; }
+  .filter button, .filter a { padding: 0; border: 0; background: none; color: #666; font: inherit; font-size: .8rem;
+                              text-decoration: none; cursor: pointer; }
+  .filter button:hover, .filter a:hover { color: #999; text-decoration: none; }
+  .filter button[aria-pressed="true"], .filter a[aria-current="page"] { color: #fff; }
+  .filter .icon { margin-right: .4em; vertical-align: -1px; }
+  @media (max-width: 34rem) { .filter { column-gap: .9rem; } .filter button, .filter a { font-size: .95rem; } }
+  /* Whatever the filter and pager hide stays hidden, however specific the rules that lay it out. */
+  [hidden] { display: none !important; }
+  ul { margin: 0; padding: 0; list-style: none; }
+  /* Rows: the headline first, led by its kind's icon and one line tall, with its details after it, and where it's
+     from at the end of the row, where those line up down the page to be scanned. The parts are set down with
+     spaces between them, which the columns ignore and a phone's line of text breaks at. */
+  .row { position: relative; display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: .6rem; align-items: baseline;
+         padding: .4rem 0; }
+  .row > .icon { align-self: center; }
+  .symbols { position: absolute; width: 0; height: 0; overflow: hidden; }
+  .icon { flex: none; width: 12px; height: 12px; }
+  .source { display: flex; justify-content: flex-end; align-items: center; min-width: 0; max-width: 14rem; color: #666;
+            font-size: .8em; text-align: right; }
+  .source > span { min-width: 0; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+  .headline { display: flex; align-items: baseline; min-width: 0; position: relative; }
+  .headline .title { min-width: 0; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+  /* A headline's preview, opening under it (or over it, near the bottom of the window) after a short hover. */
+  .preview { position: absolute; z-index: 1; top: calc(100% + .5rem); left: -1rem; width: min(34rem, calc(100% + 1rem));
+             box-sizing: border-box; padding: .9rem 1rem; background: #000; border: 1px solid #333; border-radius: 6px;
+             color: #bbb; font-size: .85em; font-weight: normal; line-height: 1.5; white-space: normal; pointer-events: none;
+             visibility: hidden; opacity: 0; transition: opacity .1s, visibility 0s .1s; }
+  .preview.above { top: auto; bottom: calc(100% + .5rem); }
+  .preview p { margin: 0 0 .7em; }
+  .preview p:last-child { margin-bottom: 0; }
+  .preview .full-title { display: none; color: #fff; }
+  .truncated .preview .full-title { display: block; }
+  .headline:not(.truncated) .preview.title-only { display: none; }
+  .headline .title:hover ~ .preview { visibility: visible; opacity: 1; transition: opacity .1s .4s, visibility 0s .4s; }
+  @media (hover: none), (max-width: 34rem) { .preview { display: none; } }
+  /* The search, at the end of the filter's row and as quiet as the filter. */
+  .search { margin-left: auto; width: 10rem; padding: 0 0 .15rem; border: 0; border-bottom: 1px solid #333;
+            border-radius: 0; background: none; color: #fff; font: inherit; font-size: .8rem; outline: none;
+            -webkit-appearance: none; appearance: none; }
+  .search::placeholder { color: #555; }
+  .search:focus { border-bottom-color: #777; }
+  .search::-webkit-search-cancel-button { display: none; }
+  /* A menu beside it (the events' venues, the newsfeed's sources), as quiet as the filter: a small arrow
+     after it, and white once something's chosen. As wide as what's chosen, where the browser can size it so. */
+  .pick { max-width: 12rem; padding: 0 1.05em 0 0; border: 0; border-radius: 0; color: #666;
+          background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%23666' stroke-width='1.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right center / .6em;
+          font: inherit; font-size: .8rem; text-overflow: ellipsis; cursor: pointer; field-sizing: content;
+          -webkit-appearance: none; appearance: none; }
+  .pick:hover { color: #999; }
+  .pick.chosen { color: #fff; }
+  .pick:focus-visible { outline: 1px solid #444; outline-offset: 3px; }
+  .pick option { background: #000; color: #fff; }
+  /* The menu and the search, together at the end of the filter's row. On a phone they're on a line of their
+     own under it, from the left, the search taking the rest of it, at 16px, since iPhones zoom in on a smaller
+     field when it's tapped. Neither may push the line wider than the screen: a long name ends in "…" past 60%
+     of it, and the search takes whatever's left. */
+  .finders { display: flex; align-items: baseline; gap: 1.4rem; margin-left: auto; }
+  .finders .search { margin-left: 0; }
+  @media (max-width: 34rem) {
+    .finders { flex-basis: 100%; min-width: 0; gap: 1.1rem; margin: .4rem 0 0; }
+    .finders .search { flex: 1 1 0; min-width: 3rem; width: 0; font-size: 1rem; }
+    .pick { flex: 0 1 auto; min-width: 0; max-width: 60%; font-size: 1rem; }
+  }
+  .pager { display: flex; justify-content: space-between; margin-top: 2.5rem; color: #666; font-size: .8rem; }
+  .pager a, .pager a:visited { color: #999; }
+  .empty { color: #666; font-size: .9rem; }
+  /* Back to the top: a quiet arrow in the corner, faded in once the page has been scrolled a screen or so. */
+  .to-top { position: fixed; z-index: 2; right: max(1.5rem, env(safe-area-inset-right)); bottom: max(1.5rem, env(safe-area-inset-bottom));
+            display: grid; place-items: center; width: 2.25rem; height: 2.25rem; padding: 0; border: 1px solid #262626;
+            border-radius: 50%; background: rgba(0, 0, 0, .8); color: #777; cursor: pointer;
+            opacity: 0; visibility: hidden; transition: opacity .2s, visibility 0s .2s, color .15s, border-color .15s; }
+  .to-top.shown { opacity: 1; visibility: visible; transition: opacity .2s, color .15s, border-color .15s; }
+  .to-top:hover, .to-top:focus-visible { color: #ddd; border-color: #444; outline: none; }
+  .to-top svg { width: 14px; height: 14px; }
+  @media (max-width: 34rem) { .to-top { right: max(1rem, env(safe-area-inset-right)); bottom: max(1rem, env(safe-area-inset-bottom)); } }
+  a { color: #fff; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  footer { margin-top: 4rem; color: #666; font-size: .8em; }
+  footer p { margin: .4rem 0; }
+  footer a, footer a:visited { color: #999; text-decoration: underline; text-decoration-color: #555; text-underline-offset: .2em; }
+  @media (max-width: 34rem) {
+    /* Too narrow for columns, so a row reads as a line instead, wrapping where a sentence would, with the icon
+       in a slot at the left edge beside its first line: a size that holds its own beside the headline, a clear
+       space after it, and set by the middle of the letters rather than the middle of the line, which sits low
+       by the depth of a descender. The spaces between the parts are where the line breaks, so the room after the
+       headline goes at its end, out of sight when the line breaks there; the small grey parts after it are
+       spaced by their spaces alone. */
+    .row { display: block; padding-left: calc(14px + .7em); }
+    .row > .icon { position: absolute; left: 0; width: 14px; height: 14px; top: calc(.4rem + .72em - 7px); }
+    .headline, .headline .title { display: inline; }
+    .headline .title { white-space: normal; }
+    .headline > .title { margin-right: .3em; }
+    .source { display: inline; max-width: none; text-align: left; }
+    .source > span { display: inline; overflow: visible; white-space: normal; }
+  }
+
+  /* Category colors, for the marks in the list and on the filter: violet music, amber film, blue art & talks. */
+  :root { --music: #a78bfa; --film: #fbbf24; --art: #60a5fa; }
+  .icon { color: var(--dot); }
+  [data-show="music"], [data-category="music"] { --dot: var(--music); }
+  [data-show="film"], [data-category="film"] { --dot: var(--film); }
+  [data-show="art"], [data-category="art"] { --dot: var(--art); }
+  h2 { margin: 2.25rem 0 .5rem; color: #777; font-size: .75rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; }
+  /* A day's heading stays at the top of the window while its events scroll under it, until the next day's
+     pushes it up and takes its place. The space around it is padding, where it's black, so the events passing
+     under are hidden there too; the same space as before, in all. */
+  .day > h2 { position: sticky; top: 0; z-index: 1; margin: 1.6rem 0 0; padding: .65rem 0 .5rem; background: #000;
+              transition: box-shadow .15s; }
+  /* While it's pinned there, a faint line under it (the same as above the footer), marking where the events
+     go under; the script tells when it's pinned. */
+  .day > h2.pinned { box-shadow: 0 1px 0 rgba(255, 255, 255, .09); }
+  /* Until the script picks the page, show the first two days, about a page, so the whole month never flashes up. */
+  main:not(.paged) .day:nth-of-type(n+3) { display: none; }
+  .relative:not(:empty) { color: #fff; margin-right: .6em; }
+  /* The day of the week in white, as Today and Tomorrow are; after those, it's in gray with the date. */
+  .weekday { color: #fff; }
+  .relative:not(:empty) + .date .weekday { color: inherit; }
+  /* A source that didn't load, at the foot of the page, marked by a small circled exclamation point. */
+  .notice { display: flex; align-items: baseline; gap: .45em; }
+  .notice .icon { flex: none; align-self: center; width: 11px; height: 11px; color: #777; }
+  /* A film at several theaters lays out its summary as a row does (shared/site.py): the same columns, and on a
+     phone the same line, which reads The Odyssey from 11:15am at 2 theaters. */
+  .combined > details > summary { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: .6rem;
+                                  align-items: baseline; }
+  .combined > details > summary > .icon { align-self: center; }
+  @media (max-width: 34rem) {
+    .combined > details > summary { display: block; }
+    .combined > details > summary > .icon { position: absolute; left: 0; width: 14px; height: 14px; top: calc(.4rem + .72em - 7px); }
+    .tail { display: inline; }
+    .headline > .when, .headline > .times, .headline > .detail, .headline .tail .times { margin-left: 0; }
+    .row .source::before { content: "at "; }
+  }
+  .times, .detail { margin-left: .6em; color: #666; font-size: .8em; white-space: nowrap; }
+  .times { flex: none; }
+  /* A sold-out time, struck through; a listing with nothing left, a quiet tag after its times. */
+  .times time.sold { color: #555; text-decoration: line-through; text-decoration-color: #555; }
+  .sold-tag { flex: none; display: inline-block; align-self: center; margin-left: .6em; padding: .05rem .45rem; border: 1px solid #333; border-radius: 999px; color: #999;
+              font-size: .72rem; font-weight: 500; line-height: 1.4; white-space: nowrap; }
+  /* Just announced, a line above the list on the home page: one of the newest, and the way to the rest. */
+  .fresh { display: flex; align-items: baseline; gap: .6rem; margin: 0 0 2rem; padding: .5rem 0; font-size: .85rem;
+           border-top: 1px solid #1c1c1c; border-bottom: 1px solid #1c1c1c; }
+  .fresh + .filter { margin-top: 0; }
+  @media (max-width: 34rem) {
+    /* A thumb's targets: the kinds a size up, with a little more to press above and below each than shows, and
+       the venue menu and search set further off under them, so a press meant for one doesn't land on the other. */
+    .filter button, .filter a { font-size: 1.05rem; padding: .2rem 0; }
+    .finders { margin-top: 1rem; }
+  }
+  .fresh-tag { flex: none; color: #6e6e6e; font-size: .72rem; font-weight: 400; letter-spacing: .07em; text-transform: uppercase; }
+  .spark-mark { width: 12px; height: 12px; margin-right: .45em; vertical-align: -1px; }
+  .fresh-one { min-width: 0; overflow: hidden; color: #999; text-overflow: ellipsis; white-space: nowrap; }
+  .fresh-one b { color: #fff; font-weight: 500; }
+  .fresh-none { color: #666; }
+  .fresh-more { flex: none; margin-left: auto; color: #888; }
+  .fresh-more:hover, .fresh-one:hover { color: #fff; text-decoration: none; }
+  .fresh-one:hover b { text-decoration: underline; }
+  @media (max-width: 34rem) {
+    /* The words over the listing and the way to the rest, which share the line under them. */
+    .fresh { display: grid; grid-template-columns: 1fr auto; gap: .1rem .6rem; }
+    .fresh-tag { grid-column: 1 / -1; }
+    .fresh-more { margin-left: 0; }
+  }
+  /* On Just announced, where a heading is the day a listing turned up, each says the day it's on. */
+  .when { flex: none; margin-left: .6em; color: #aaa; font-size: .9em; white-space: nowrap; }
+  /* A listing opens its own view (below) wherever it's clicked. */
+  .day > ul > li.row { cursor: pointer; }
+  /* The row under the pointer, lit just enough to follow across a wide line. Where a pointer hovers only:
+     on a touch screen a "hover" is the last thing tapped, and would stay lit behind the view. The band
+     reaches a little past the text on both sides, taken back out of the margin so nothing else moves. */
+  @media (hover: hover) and (pointer: fine) {
+    .day > ul > li.row { margin: 0 -.6rem; padding-left: .6rem; padding-right: .6rem; border-radius: 6px;
+                         transition: background-color .12s; }
+    .day > ul > li.row:hover { background: #0e0e0e; }
+    /* The whole band is the one target, so the name answers wherever on it the pointer is — between the
+       times and the venue as much as on the name itself. */
+    .day > ul > li.row:hover .title { text-decoration: underline; }
+  }
+  /* A narrow window with a pointer has both: the band's room at the edge and the icon's slot after it. The
+     band's padding would otherwise stand in for the slot, and the icon, still at the edge, sit on the name. */
+  @media (hover: hover) and (pointer: fine) and (max-width: 34rem) {
+    .day > ul > li.row { padding-left: calc(.6rem + 14px + .7em); }
+    .day > ul > li.row > .icon, .day > ul > li.combined > details > summary > .icon { left: .6rem; }
+  }
+  .detail { min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+  /* A listing's own view: a panel in from the right on a wide screen, a sheet up from the bottom on a phone. Its
+     way to the venue's page (for tickets) first and plainest; its times, each adding that showing to a calendar. */
+  body.viewing { overflow: hidden; }
+  /* Down the side of the screen, so it's the same size whatever's in it and stepping through the list doesn't
+     move it around; what doesn't fit scrolls inside it, under the buttons at its top. */
+  dialog.event { width: min(32rem, 100%); height: 100dvh; max-height: none; margin: 0 0 0 auto; box-sizing: border-box;
+                 overflow: hidden;
+                 padding: 0; border: 0; border-left: 1px solid #262626; border-radius: 0; background: #0b0b0b; color: #ddd;
+                 box-shadow: -1px 0 40px rgba(0, 0, 0, .5); font-size: .95rem; line-height: 1.5; }
+  .event-body { flex: 1; min-height: 0; overflow: auto; display: flex; flex-direction: column; padding: 1.4rem 1.5rem 1.5rem; }
+  /* With no picture for the buttons to lie over, they need the top of the view to themselves. */
+  dialog.event:not(.shows-picture) .event-body { padding-top: 3.4rem; }
+  /* What's in it keeps its size and the body scrolls past it: a column squashes what it can to fit otherwise,
+     and the picture, sized by its shape rather than its content, is squashed to nothing. */
+  .event-body > * { flex: none; }
+  dialog.event::backdrop { background: rgba(0, 0, 0, .6); }
+  /* Laid out only while it's open. A dialog is display: none when it's shut, and saying how to lay this one
+     out without saying when undid that: shut, it stood a screen tall at the foot of every page. */
+  dialog.event[open] { display: flex; flex-direction: column; animation: slide .22s ease-out; }
+  @keyframes slide { from { transform: translateX(100%); } }
+  @keyframes appear { from { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { dialog.event[open] { animation: appear .15s ease-out; } }
+  /* The way out of the view, and the way through the list from inside it, together at the top of it. */
+  .event-said { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden;
+                clip-path: inset(50%); white-space: nowrap; }
+  .event-tools { position: absolute; top: .85rem; right: .85rem; z-index: 1; display: flex; gap: .2rem; }
+  .event-steps { display: flex; gap: .2rem; }
+  /* A press that drifts is a press, not the start of a selection: dragging off a button used to take the
+     picture and half the panel into a highlight. */
+  .event-tools, .event-copy, .event-more, .event-image, .event-foot { user-select: none; -webkit-user-select: none; }
+  .event-tools button { display: grid; place-items: center; width: 2rem; height: 2rem; padding: 0; border: 0;
+                        border-radius: 50%; background: none; color: #888; cursor: pointer;
+                        transition: background-color .15s, color .15s; }
+  .event-tools button:hover, .event-tools button:focus-visible { background: #262626; color: #fff; outline: none; }
+  .event-tools button:focus-visible { box-shadow: 0 0 0 2px #888; }
+  /* At either end of the list, the way on in that direction goes rather than greying: a button you can't press
+     is only in the way. Hidden, not removed, so it keeps its place and nothing beside it moves; and at once, so
+     a circle left lit by the pointer doesn't fade out after it. */
+  .event-tools button:disabled { visibility: hidden; transition: none; }
+  .step-mark { width: 16px; height: 16px; }
+  .close-mark { width: 14px; height: 14px; }
+  /* Its picture across the top, edge to edge; a tall or square one whole, on grey. */
+  .event-image { aspect-ratio: 16 / 9; margin: -1.4rem -1.5rem 1.1rem; overflow: hidden; background: #151515; }
+  .event-image img { display: block; width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity .35s ease-out; }
+  .event-image.loaded img { opacity: 1; }
+  .event-image:not(.loaded) { background: linear-gradient(100deg, #151515 40%, #1d1d1d 50%, #151515 60%) 0 0 / 250% 100%;
+                              animation: shimmer 1.6s linear infinite; }
+  @keyframes shimmer { from { background-position: 100% 0; } to { background-position: 0 0; } }
+  @media (prefers-reduced-motion: reduce) {
+    .event-image img { transition: none; }
+    .event-image:not(.loaded) { animation: none; }
+  }
+  /* A poster or a square flyer whole, and either side of it, the same picture blown up, blurred and darkened:
+     its own colours carried out to the edges of the frame rather than grey bars, and dark enough that the
+     picture itself stays what you look at. */
+  /* Its own stacking context, so the picture lifted over its blurred copy stays inside the frame's layer, rather
+     than rising over the view's buttons, which sit at the same level on top of it. */
+  .event-image { position: relative; isolation: isolate; }
+  .event-image .event-backdrop { display: none; }
+  .event-image.whole img:first-child { position: relative; z-index: 1; object-fit: contain; }
+  .event-image.whole .event-backdrop { display: block; position: absolute; inset: 0; object-fit: cover;
+                                       filter: blur(24px) brightness(.45) saturate(1.15); transform: scale(1.3); }
+  dialog.event.shows-picture .event-tools button { background: rgba(0, 0, 0, .6); color: #fff; }
+  dialog.event.shows-picture .event-tools button:hover:not(:disabled),
+  dialog.event.shows-picture .event-tools button:focus-visible { background: rgba(0, 0, 0, .9); }
+  .event-facts { display: flex; flex-wrap: wrap; gap: .4rem; margin: .45rem 0 .5rem; }
+  .event-facts:empty { display: none; }
+  .event-fact { padding: .15rem .6rem; border-radius: 999px; background: #1c1c1c; color: #eee; font-size: .8rem; font-weight: 600;
+                font-variant-numeric: tabular-nums; }
+  /* Set as the days are over the list, so the echo is meant rather than nearly. */
+  .event-where { margin: 0 2.5rem .4rem 0; color: #888; font-size: .72rem; font-weight: 600; letter-spacing: .08em;
+                 text-transform: uppercase; }
+  /* The kind's mark before the name, level with its first line, a hanging indent so a name that wraps stays
+     square under itself. */
+  .event-title { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: .5em; align-items: baseline; }
+  .event-title .icon { width: 18px; height: 18px; transform: translateY(2px); }
+  .event-title { margin: 0 2rem .3rem 0; color: #fff; font-size: 1.35rem; font-weight: 700; letter-spacing: -.01em;
+                 line-height: 1.25; text-transform: none; }
+  .event-detail, .event-note { margin: 0 0 .3rem; color: #999; font-size: .85rem; }
+  .event-detail:empty, .event-note:empty, .event-place:empty, .event-also:empty, .event-places:empty { display: none; }
+  .event-note { color: #bbb; }
+  /* Each place it's at, a link to its page (for tickets), with its times to the right, going on to another line
+     there, not under it, when there are more than fit. */
+  .event-time { color: #ddd; font-size: .9rem; font-variant-numeric: tabular-nums; }
+  .event-time.sold { color: #666; text-decoration: line-through; }
+  .event-fact.sold { background: none; box-shadow: inset 0 0 0 1px #3a3a3a; color: #bbb; }
+  .event-places { margin: 1.1rem 0 1rem; }
+  .event-group { display: flex; flex-wrap: wrap; gap: .2rem .9rem; }
+  .event-places li { display: grid; grid-template-columns: auto 1fr; align-items: baseline; gap: .45rem .75rem; padding: .55rem 0;
+                     border-top: 1px solid #1c1c1c; }
+  .event-places .event-group { justify-content: flex-end; }
+  .event-places li:last-child { border-bottom: 1px solid #1c1c1c; }
+  .event-places a { color: #fff; font-weight: 600; }
+  .event-about p { margin: 0 0 .8em; color: #bbb; }
+  .event-about.clamped { max-height: 7.5em; overflow: hidden; /* About five lines. */
+                         -webkit-mask-image: linear-gradient(#000 calc(100% - 3em), transparent);
+                         mask-image: linear-gradient(#000 calc(100% - 3em), transparent); }
+  /* Room under it before the address: it ends what's above it, and shouldn't read as the head of what's below. */
+  .event-more { display: block; margin: -.1rem 0 1rem; padding: 0; border: 0; background: none; color: #ccc; font: inherit;
+                font-size: .85rem; text-decoration: underline; text-decoration-color: #555; text-underline-offset: .2em; cursor: pointer; }
+  .event-more:hover, .event-more:focus-visible { color: #fff; text-decoration-color: #aaa; outline: none; }
+  .event-place, .event-also { margin: .9rem 0 0; color: #888; font-size: .85rem; }
+  .event-place a, .event-also a { color: #ccc; text-decoration: underline; text-decoration-color: #555; text-underline-offset: .2em; }
+  /* Last, at the foot of the view: the padding keeps it clear of the text above, the auto margin drops it to the
+     bottom when a short listing leaves room. */
+  .event-foot { margin-top: auto; padding-top: 1.2rem; }
+  .event-copy { display: inline-flex; align-items: center; gap: .35rem;
+                padding: .4rem .9rem; border: 1px solid #333;
+                border-radius: 999px; background: none; color: #ddd; font: inherit; font-size: .9rem; cursor: pointer; }
+  .event-copy:hover, .event-copy:focus-visible, .event-copy.copied { border-color: #888; color: #fff; outline: none; }
+  .link-mark, .check-mark { width: 15px; height: 15px; }
+  .event-copy .check-mark, .event-copy.copied .link-mark { display: none; }
+  .event-copy.copied .check-mark { display: block; color: #4ade80; }
+  @media (max-width: 34rem) {
+    /* A sheet up from the bottom, as tall as it needs: a phone's screen is the frame that steadies it. */
+    dialog.event { width: 100%; max-width: 100%; height: auto; max-height: 88dvh; margin: auto 0 0;
+                   border: 1px solid #262626; border-width: 1px 0 0; border-radius: 16px 16px 0 0; }
+    .event-body { padding: 1.25rem 1.25rem 1.5rem; }
+    .event-image { margin: -1.25rem -1.25rem 1rem; border-radius: 15px 15px 0 0; }  /* Inside the sheet's own corners. */
+    /* Bigger targets for a thumb, and the width of the sheet between the way on and the way out: side by side
+       they're a mis-tap away from closing what you meant to step through. */
+    /* All three in the corner together, with the arrows kept a clear finger's width from ×: side by side at
+       this size, a miss on the way on costs you the listing and your place in the list. */
+    .event-tools { top: .75rem; right: .75rem; gap: .9rem; }
+    .event-steps { gap: .25rem; }
+    .event-tools button { width: 2.5rem; height: 2.5rem; }
+    .close-mark { width: 17px; height: 17px; }
+    .step-mark { width: 19px; height: 19px; }
+    dialog.event[open] { animation: sheet .22s ease-out; }
+    @keyframes sheet { from { transform: translateY(100%); } }
+    @media (prefers-reduced-motion: reduce) { dialog.event[open] { animation: appear .15s ease-out; } }
+  }
+  /* That a listing sent in a link has passed: a note at the foot of the window for a moment. */
+  .toast { position: fixed; z-index: 3; left: 50%; bottom: 1.5rem; margin: 0; padding: .5rem .9rem; transform: translate(-50%, .5rem);
+           border: 1px solid #333; border-radius: 999px; background: #111; color: #ddd; font-size: .85rem;
+           opacity: 0; pointer-events: none; transition: opacity .15s, transform .15s; }
+  .toast.shown { opacity: 1; transform: translate(-50%, 0); }
+  /* A film at several places: the row opens to each place's times, with a › that turns when it's open. */
+  .row.combined { display: block; }
+  .combined summary { display: grid; grid-template-columns: 10rem 1fr; gap: 1.25rem; align-items: baseline;
+                      list-style: none; cursor: pointer; }
+  .combined summary::-webkit-details-marker { display: none; }
+  .combined summary:hover .title { text-decoration: underline; }
+  /* No preview on hover: a click opens the listing's view, which has it all. Rows keep theirs, unseen, for the
+     view to show at once and for the search. */
+  .day .preview { display: none; }
+  /* The first time and the ›, together, so a narrow screen never leaves the › alone on a line. */
+  .tail, .tail .times { flex: none; white-space: nowrap; }
+  .showings { margin: .35rem 0 .2rem calc(10rem + 1.25rem); }
+  .showings li { display: flex; align-items: baseline; gap: .6em; padding: .15rem 0; font-size: .9em; }
+  .showings a { flex: none; color: #ccc; }
+  .showings .times { margin-left: 0; white-space: normal; }
+  @media (max-width: 34rem) {
+    .combined summary { grid-template-columns: 1fr; gap: 0; }
+    .showings { margin-left: 0; }
+    .times, .detail { white-space: normal; }
+  }
+
+  /* Its name in the header: Pushpin as the site's, the city after it lighter. */
+  .sites .city { font-weight: 400; }
+  /* The page it is, after the name: "/ Film", in white. */
+  .sites .here { color: #fff; font-size: 1.15rem; font-weight: 700; letter-spacing: -.01em; }
+  .sites .here::before { content: "/"; margin-right: .5em; color: #444; font-weight: 400; }
+  /* Each whole, never broken over a line: on the narrowest phones the page's name goes under the site's. On a
+     phone, a page with its name there leaves out when it was updated, which the home page still says. */
+  .sites { flex-wrap: wrap; gap: .15rem .55rem; }
+  .sites a, .sites .here { white-space: nowrap; }
+  @media (max-width: 34rem) { header:has(.here:not([hidden])) .header-note { display: none; } }
+  .sites a[aria-current] .city { color: #8c8c8c; }
+
+  .sites .pin { width: 1.05em; height: 1.05em; margin-right: .3em; vertical-align: -.16em; }  /* In the name's own color. */
+  h1.tagline { margin: -1rem 0 1.6rem; color: #888; font-size: .9rem; font-weight: normal; line-height: 1.45; }
+  h1.tagline + .filter { margin-top: 0; }  /* The filter's own pull-up would leave the line on top of it. */
+
+  /* What the page is, in a line over its listings; and what the site is, in full at the foot of every page,
+     where a repeat visitor won't have to read it. */
+  footer .tagline { margin: 0 0 1.4rem; max-width: 34rem; color: #888; font-size: .9rem; line-height: 1.45; }
+  /* A weekend page's way to the other weekend, where the pager goes on the others: next on the right, back on the left. */
+  .weekends { display: flex; justify-content: space-between; margin-top: 2.5rem; color: #666; font-size: .8rem; }
+  .weekends a, .weekends a:visited { color: #999; }
+  .prose { max-width: 34rem; color: #ccc; }
+  .prose p { margin: 0 0 1em; }
+  .prose a { color: #fff; text-decoration: underline; text-decoration-color: #555; text-underline-offset: .2em; }
+  .prose h2 { margin-top: 2rem; }
+  .prose h2 + p { margin-top: -.25rem; }
+  /* How to use it: short lines, bulleted, a little apart. */
+  .tips { padding-left: 1.15em; list-style: disc; }
+  .tips li { margin: 0 0 .6em; padding-left: .2em; }
+  .tips li::marker { color: #555; }
+  /* Each kind's mark before its name, as in the filter: over its venues, and in place of a bullet before its calendar. */
+  .prose h2 .icon, .feeds .icon { margin-right: .45em; vertical-align: -1px; }
+  .tips.feeds { padding-left: 0; list-style: none; }
+  /* The venues, each a link to its events, with how many it has coming up after it in gray; in two columns,
+     down the first and then the second, so they read in order. */
+  .venues { columns: 13rem 2; column-gap: 1.5rem; }
+  .venues li { margin-bottom: .35rem; break-inside: avoid; }
+  .venues + p { margin-top: 2rem; }
+  /* The questions: one to a line between faint rules, each opening to its answer, with a › that turns. */
+  .faq { margin: .75rem 0 2rem; border-bottom: 1px solid #1c1c1c; }
+  .faq details { border-top: 1px solid #1c1c1c; }
+  .faq summary { display: flex; justify-content: space-between; gap: 1rem; padding: .75rem 0; color: #fff;
+                 list-style: none; cursor: pointer; }
+  .faq summary::-webkit-details-marker { display: none; }
+  .faq summary::after { content: "›"; color: #666; transition: transform .15s; }
+  .faq details[open] summary::after { transform: rotate(90deg); }
+  .faq summary:hover::after { color: #bbb; }
+  .faq details p { margin: -.25rem 0 .9rem; color: #bbb; }
+  .prose .venues a { text-decoration: none; }
+  .prose .venues a:hover { text-decoration: underline; text-decoration-color: #555; }
+  .venues .count { margin-left: .35em; color: #666; font-size: .8em; }
+
+  .contact { display: grid; gap: 1.1rem; margin-top: 1.5rem; }
+  .contact label { display: grid; gap: .35rem; color: #888; font-size: .8rem; }
+  .contact input, .contact textarea { padding: .5rem .6rem; border: 1px solid #333; border-radius: 4px; background: #0a0a0a;
+                                      color: #fff; font: inherit; font-size: .95rem; }
+  .contact input:focus, .contact textarea:focus { border-color: #777; outline: none; }
+  /* The form's button, and after sending, the way home, which looks the same. */
+  .contact button, .sent .home { justify-self: start; padding: .45rem 1.2rem; border: 1px solid #555; border-radius: 999px;
+                    background: none; color: #ddd; font: inherit; font-size: .85rem; font-weight: 600; cursor: pointer;
+                    transition: border-color .15s, color .15s, background-color .15s; }
+  .contact button:hover, .contact button:focus-visible, .sent .home:hover, .sent .home:focus-visible {
+    border-color: #ccc; background: #151515; color: #fff; text-decoration: none; outline: none; }
+  .contact button:active, .sent .home:active { background: #222; }
+  .sent .home { display: inline-block; margin-top: .6rem; text-decoration: none; }
+  .contact .honey { display: none; }
+
+  /* The footer, set off from the page by a faint line. */
+  footer { margin-top: 3.5rem; padding-top: 2.25rem; border-top: 1px solid rgba(255, 255, 255, .09); }
+  /* The footer's lists of the site's pages: three short columns (two on a phone), under small, faint headings. */
+  .site-links { display: grid; grid-template-columns: repeat(3, minmax(0, 11rem)); gap: 1.75rem 2.5rem; margin: .5rem 0 2rem; }
+  .site-links h2 { margin: 0 0 .7rem; color: #555; font-size: .65rem; font-weight: 500; letter-spacing: .1em; }
+  .site-links ul { display: grid; gap: .45rem; }
+  footer .site-links a, footer .site-links a:visited { color: #999; font-size: .95rem; text-decoration: none; }
+  footer .site-links a:hover { color: #fff; }
+  footer .site-links a[aria-current="page"] { color: #fff; }
+  @media (max-width: 34rem) { .site-links { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+</style>
+</head>
+<body>
+<svg class="symbols" aria-hidden="true"><symbol id="icon-notice" viewBox="0 0 16 16"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="6.25"/><path d="M8 4.75v3.5"/><circle cx="8" cy="11" r=".5" fill="currentColor"/></g></symbol><symbol id="icon-art" viewBox="0 0 16 16"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2.5" width="12" height="11" rx="1.5"/><path d="M4.5 11l2.75-3 2 2 1.25-1.25 1.5 2.25"/><circle cx="10.5" cy="5.75" r="1" fill="currentColor"/></g></symbol><symbol id="icon-music" viewBox="0 0 16 16"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5.5 12.5V4l8-2v8.5"/><circle cx="3.75" cy="12.5" r="1.75" fill="currentColor"/><circle cx="11.75" cy="10.5" r="1.75" fill="currentColor"/></g></symbol><symbol id="icon-film" viewBox="0 0 16 16"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="12" height="12" rx="1.5"/><path d="M5 2v12M11 2v12M2 5.5h3M2 10.5h3M11 5.5h3M11 10.5h3"/></g></symbol></svg>
+<main>
+<header><nav class="sites" aria-label="Sites"><a href="/westernma/"><svg class="pin" viewBox="0 0 24 24" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 4.5l-4 4l-4 1.5l-1.5 1.5l7 7l1.5 -1.5l1.5 -4l4 -4"/><path d="M9 15l-4.5 4.5"/><path d="M14.5 4l5.5 5.5"/></g></svg>Pushpin <span class="city">Western Mass</span></a><span class="here">About</span></nav></header>
+<div class="prose">
+<p>Pushpin Western Mass puts concerts, films, and talks from venues across the Pioneer Valley and the Berkshires on one page,
+day by day: concerts two months ahead, films and talks one month.</p>
+<p>This is a curated feed, with an emphasis on independent venues.</p>
+<p>Event info is gathered from select venues every few hours. Times and details can change, so check with the
+venue before you go: every listing links back to the original source where you can confirm times or buy
+tickets.</p>
+<p>No algorithms, no ads, no accounts.</p>
+<h2>How to use it</h2>
+<ul class="tips">
+<li>Tap a listing for more: a picture, the price, every showtime, what it’s about, the address, its other
+dates, and a link to copy and send.</li>
+<li><a href="/westernma/tonight/">Tonight</a> and <a href="/westernma/weekend/">This weekend</a> filter the list down to just
+those days.</li>
+<li>Pick a venue from the menu to show only its events. The browser’s address keeps your choice, so you can share
+it with friends.</li>
+<li>Search matches names, venues, and descriptions: a band, a director, “35mm”. On a keyboard, press slash to jump
+to it.</li>
+<li>A showtime struck through is sold out, and a listing with nothing left says so.</li>
+<li>Subscribe to a calendar (below) to have new listings show up on their own.</li>
+</ul>
+<h2 id="calendars">Calendars</h2>
+<p>Subscribe in your calendar app, and new listings appear there on their own, updated every few hours.</p>
+<ul class="tips feeds">
+<li data-category="music"><svg class="icon" aria-hidden="true"><use href="#icon-music"/></svg>Music: <a class="subscribe-kind" href="webcal://pushpin.city/westernma/calendar/music.ics">Apple Calendar</a> · <a href="https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fpushpin.city%2Fwesternma%2Fcalendar%2Fmusic.ics">Google Calendar</a></li><li data-category="film"><svg class="icon" aria-hidden="true"><use href="#icon-film"/></svg>Film: <a class="subscribe-kind" href="webcal://pushpin.city/westernma/calendar/film.ics">Apple Calendar</a> · <a href="https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fpushpin.city%2Fwesternma%2Fcalendar%2Ffilm.ics">Google Calendar</a></li><li data-category="art"><svg class="icon" aria-hidden="true"><use href="#icon-art"/></svg>Art &amp; talks: <a class="subscribe-kind" href="webcal://pushpin.city/westernma/calendar/talks.ics">Apple Calendar</a> · <a href="https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fpushpin.city%2Fwesternma%2Fcalendar%2Ftalks.ics">Google Calendar</a></li>
+</ul>
+<h2>Venues</h2>
+<p>Every venue in the feed, with how many listings each one has coming up.</p>
+<h2 data-category="music"><svg class="icon" aria-hidden="true"><use href="#icon-music"/></svg>Music</h2>
+<ul class="venues"><li><a href="/westernma/?venue=Academy+of+Music">Academy of Music</a> <span class="count">16</span></li><li><a href="/westernma/?venue=Colonial+Theatre">Colonial Theatre</a> <span class="count">8</span></li><li><a href="/westernma/?venue=The+Drake">The Drake</a> <span class="count">35</span></li><li><a href="/westernma/?venue=Iron+Horse">Iron Horse</a> <span class="count">42</span></li><li><a href="/westernma/?venue=Mahaiwe">Mahaiwe</a> <span class="count">11</span></li><li><a href="/westernma/?venue=Mass+MoCA">Mass MoCA</a> <span class="count">4</span></li><li><a href="/westernma/?venue=Parlor+Room">Parlor Room</a> <span class="count">35</span></li><li><a href="/westernma/?venue=Shea+Theater">Shea Theater</a> <span class="count">17</span></li><li><a href="/westernma/?venue=UMass+Fine+Arts+Center">UMass Fine Arts Center</a> <span class="count">8</span></li></ul>
+<h2 data-category="film"><svg class="icon" aria-hidden="true"><use href="#icon-film"/></svg>Film</h2>
+<ul class="venues"><li><a href="/westernma/?venue=Amherst+Cinema">Amherst Cinema</a> <span class="count">55</span></li><li><a href="/westernma/?venue=Beacon+Cinema">Beacon Cinema</a> <span class="count">56</span></li><li><a href="/westernma/?venue=Images+Cinema">Images Cinema</a> <span class="count">101</span></li><li><a href="/westernma/?venue=Mahaiwe">Mahaiwe</a> <span class="count">3</span></li><li><a href="/westernma/?venue=Shea+Theater">Shea Theater</a> <span class="count">1</span></li><li><a href="/westernma/?venue=Triplex+Cinema">Triplex Cinema</a> <span class="count">73</span></li></ul>
+<h2 data-category="art"><svg class="icon" aria-hidden="true"><use href="#icon-art"/></svg>Art &amp; talks</h2>
+<ul class="venues"><li><a href="/westernma/?venue=Academy+of+Music">Academy of Music</a> <span class="count">3</span></li><li><a href="/westernma/?venue=Colonial+Theatre">Colonial Theatre</a> <span class="count">1</span></li><li><a href="/westernma/?venue=Mahaiwe">Mahaiwe</a> <span class="count">3</span></li><li><a href="/westernma/?venue=Mass+MoCA">Mass MoCA</a> <span class="count">6</span></li></ul>
+
+<h2>Questions</h2>
+<div class="faq">
+<details><summary>Who makes this?</summary><p>I’m <a href="https://grahamhagenah.com">Graham Hagenah</a>. I grew up in Western Mass, and I love supporting its theaters and concert venues. I wanted an easier way to track what’s coming up than relying on Google or visiting each venue’s website.</p></details>
+<details><summary>Why isn’t my favorite venue here?</summary><p>It may not publish its calendar in a way that can be read automatically, or I may not have found it yet. <a href="/contact/">Tell me about it</a> and I’ll take a look.</p></details>
+<details><summary>Will you make this for my city?</summary><p>I’d rather keep it to places I know well. I add every venue one by one, and curating a list of cool spots would be challenging if I’m not a local. But if there’s enough interest in another city or area, I’ll look into starting one there, and it would go much faster with help from someone who knows its venues. If that’s you, <a href="/contact/">get in touch</a>.</p></details>
+<details><summary>How often is it updated?</summary><p>Every few hours, from each venue’s own calendar. Shows added or changed since then appear with the next update, so check the venue’s page before you go.</p></details>
+<details><summary>Why do some listings have no time?</summary><p>Some venues post only the date, or only when their doors open, not when the show starts. The listing links to the venue’s page, which usually has the rest.</p></details>
+<details><summary>Does it track me?</summary><p>Only anonymously. It counts visits, and which listings are opened, followed to their venues, and shared, with <a href="https://www.goatcounter.com">GoatCounter</a>, which uses no cookies and keeps nothing personal, so I can tell whether people are using it. There are no ads and no accounts, and your venue and search choices live only in the page’s address.</p></details>
+</div>
+<p>Know a venue that should be here, or spotted a mistake? <a href="/contact/">Get in touch</a>.</p>
+</div>
+<footer>
+<p class="tagline">Concerts, films, and talks around the Pioneer Valley and the Berkshires, aggregated from select venues.</p>
+<nav class="site-links" aria-label="Pushpin Western Mass"><div><h2>Browse</h2><ul><li><a href="/westernma/">All events</a></li><li><a href="/westernma/music/">Music</a></li><li><a href="/westernma/film/">Film</a></li><li><a href="/westernma/talks/">Art &amp; talks</a></li><li><a href="/westernma/new/">Just announced</a></li></ul></div><div><h2>When</h2><ul><li><a href="/westernma/tonight/">Tonight</a></li><li><a href="/westernma/weekend/">This weekend</a></li><li><a href="/westernma/weekend/next/">Next weekend</a></li></ul></div><div><h2>Pushpin Western Mass</h2><ul><li><a href="/westernma/about/" aria-current="page">About</a></li><li><a href="/westernma/about/#calendars">Calendars</a></li><li><a href="/contact/">Contact</a></li><li><a href="/">All cities</a></li></ul></div></nav>
+</footer>
+
+</main>
+<button class="to-top" type="button" aria-label="Back to top"><svg viewBox="0 0 16 16" aria-hidden="true"><path
+  d="M8 13V3.5M3.5 8L8 3.5 12.5 8" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+  stroke-linejoin="round"/></svg></button>
+<script>
+  {
+    const button = document.querySelector(".to-top");
+    const place = () => button.classList.toggle("shown", scrollY > innerHeight);
+    addEventListener("scroll", place, {passive: true});
+    place();
+    button.addEventListener("click", event => {
+      const still = matchMedia("(prefers-reduced-motion: reduce)").matches;
+      scrollTo({top: 0, behavior: still ? "auto" : "smooth"});
+      if (event.detail === 0) document.querySelector("header a")?.focus({preventScroll: true});
+    });
+  }
+</script>
+<script>
+  for (const t of document.querySelectorAll("time[datetime]")) {
+    const s = Math.max(60, (Date.now() - new Date(t.dateTime)) / 1000);
+    const age = s < 3600 ? Math.round(s / 60) + "m" : s < 86400 ? Math.round(s / 3600) + "h" : Math.round(s / 86400) + "d";
+    t.textContent = t.matches(".updated, .ago") ? age + " ago" : age;
+  }
+</script>
+<script>
+  for (const title of document.querySelectorAll(".headline .title")) {
+    title.addEventListener("mouseenter", () => {
+      const headline = title.closest(".headline");
+      headline.classList.toggle("truncated", title.scrollWidth > title.clientWidth);
+      const preview = headline.querySelector(".preview");
+      if (preview) preview.classList.toggle("above", title.getBoundingClientRect().bottom + preview.offsetHeight + 24 > innerHeight);
+    });
+  }
+</script>
+<script>
+  {
+    const search = document.querySelector(".search");
+    if (search) document.addEventListener("keydown", event => {
+      if (event.key === "/" && document.activeElement !== search && !event.metaKey && !event.ctrlKey
+          && search.offsetParent && !document.querySelector("dialog[open]")) {
+        event.preventDefault();
+        search.focus();
+      } else if (event.key === "Escape" && document.activeElement === search && search.value) {
+        search.value = "";
+        search.dispatchEvent(new Event("input"));
+      }
+    });
+  }
+</script>
+</body>
+</html>

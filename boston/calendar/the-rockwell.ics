@@ -1,0 +1,528 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · The Rockwell
+X-WR-CALDESC:What’s coming up at The Rockwell\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:952b517e216ca6eb85150804d6a318f2d94c68cf@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T230000Z
+DTEND:20260928T010000Z
+SUMMARY:the booyah! kids
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Genre: Indie Rock\, Bedroom Pop\, Synth\, Pop Presented by Get 
+ To The Gig & MassConcerts Ages: Show age differs by the day. Shows are All
+  Ages Sundays-Thursdays & 21+ Fridays and Saturdays Valid ID required for 
+ Entry on Fridays & Saturdays Doors 7:00 PM Show 8:00 PM Refund Policy: REF
+ UNDS DETERMINED BY GET TO THE GIG ADA Accessibility: The Rockwell is parti
+ ally ADA Accessible with an elevator and restrooms in saloon wide enough f
+ or wheelchair use.\nhttps://therockwell.org/calendar/the-booyah-kids/\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/the-booyah-kids/
+END:VEVENT
+BEGIN:VEVENT
+UID:14df9ecab5446fe97cd26fdacddb8b52ab65b11a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T230000Z
+DTEND:20260929T010000Z
+SUMMARY:Dumpster Demons Tour feat. Candi Carpenter and Moselle
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Dumpster Demons Tour feat. Candi Carpenter and Moselle Join Can
+ di Carpenter and Moselle for an evening of indie and alternative pop music
+  celebrating Candi’s latest EP\, Biblically Accurate Angel\, and Moselle
+ ’s forthcoming album\, Gargoyle. Through powerhouse vocals and fearless 
+ storytelling\, both artists explore themes of toxic religion\, trauma\, id
+ entity\, and self-discovery with equal parts vulnerability\, humor\, and h
+ eart. Expect an unforgettable evening of cathartic songs\, intimate moment
+ s\, and dynamic performances that invite audiences to laugh\, heal\, and c
+ elebrate the beautifully messy human experience.\nhttps://therockwell.org/
+ calendar/dumpster-demons-tour/\nFrom Pushpin Boston: https://pushpin.city/
+ boston/
+URL:https://therockwell.org/calendar/dumpster-demons-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:03a4b1de64cf0ceb863ae0f499abbfcbb15178df@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T230000Z
+DTEND:20261001T010000Z
+SUMMARY:Deceits
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Presented by Get To The Gig & MassConcerts Doors 7:00 PM Show 8
+ :00 PM Age Limit: This event is All Ages ID: Valid ID required for Alcohol
+  Consumption Start Time: Performances will begin no later than 15 minutes 
+ after stated show time.\nhttps://therockwell.org/calendar/deceits/\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/deceits/
+END:VEVENT
+BEGIN:VEVENT
+UID:fc32af6bdb5a8da1e5e7ee29098631c9e1b0c050@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T230000Z
+DTEND:20261002T010000Z
+SUMMARY:Rocketship
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Presented by Get To The Gig & MassConcerts Ages: Show age diffe
+ rs by the day. Shows are All Ages Sundays-Thursdays & 21+ Fridays and Satu
+ rdays Valid ID required for Entry on Fridays & Saturdays Doors 7:00 PM Sho
+ w 8:00 PM Refund Policy: REFUNDS DETERMINED BY GET TO THE GIG ADA Accessib
+ ility: The Rockwell is partially ADA Accessible with an elevator and restr
+ ooms in saloon wide enough for wheelchair use.\nhttps://therockwell.org/ca
+ lendar/rocketship/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/rocketship/
+END:VEVENT
+BEGIN:VEVENT
+UID:ec41bb849bcc819a2888c5591d6a0484e6fff2ec@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261004T230000Z
+DTEND:20261005T010000Z
+SUMMARY:The Schizophonics
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Amps screaming. No exit in sight.\nhttps://therockwell.org/cale
+ ndar/the-schizophonics-2/\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://therockwell.org/calendar/the-schizophonics-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:9302bf735df44f60b9f015294aa43542c3baa82b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261006T230000Z
+DTEND:20261007T010000Z
+SUMMARY:she’s green
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:With support from: Witches Exist\, smush Genre: Indie Rock\, Dr
+ eam Vocals Presented by Get To The Gig & MassConcerts Ages: All Ages Doors
+  7:00 PM Show 8:00 PM Refund Policy: REFUNDS DETERMINED BY GET TO THE GIG 
+ ADA Accessibility: The Rockwell is partially ADA Accessible with an elevat
+ or and restrooms in saloon wide enough for wheelchair use.\nhttps://theroc
+ kwell.org/calendar/shes-green/\nFrom Pushpin Boston: https://pushpin.city/
+ boston/
+URL:https://therockwell.org/calendar/shes-green/
+END:VEVENT
+BEGIN:VEVENT
+UID:c7d1d2560aae05fb953715be35ebe01f4e2fa26a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261007T230000Z
+DTEND:20261008T010000Z
+SUMMARY:Fraxiom w/ Battlemode
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Presented by Get To The Gig & MassConcerts Doors 7:00 PM Show 8
+ :00 PM Age Limit: This event is All Ages ID: Valid ID required for Alcohol
+  Consumption/Entry Start Time: Performances will begin no later than 15 mi
+ nutes after stated show time.\nhttps://therockwell.org/calendar/fraxiom-w-
+ battlemode/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/fraxiom-w-battlemode/
+END:VEVENT
+BEGIN:VEVENT
+UID:9a3289a02404c2351da94cb08a9589c61fe2e1dc@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261008T230000Z
+DTEND:20261009T010000Z
+SUMMARY:Michael Kameron
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:SHOW DESCRIPTION: Michael Kameron celebrates his biggest headli
+ ne show to date. An alternative pop artist from a small town in Wisconsin\
+ , Michael Kameron makes music that turns everyday chaos\, vulnerability\, 
+ and confession into something that feels like a movie soundtrack. Built al
+ ongside his best friend in a bedroom studio\, his music lives somewhere be
+ tween crashouts and clarity\, late-night honesty and emotional release.\nh
+ ttps://therockwell.org/calendar/michael-kameron/\nFrom Pushpin Boston: htt
+ ps://pushpin.city/boston/
+URL:https://therockwell.org/calendar/michael-kameron/
+END:VEVENT
+BEGIN:VEVENT
+UID:83f941309409ce1fba19ece8541cd686f9723f8a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261009T230000Z
+DTEND:20261010T010000Z
+SUMMARY:Big Special
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Presented by Get To The Gig & MassConcerts Ages: Show age diffe
+ rs by the day. Shows are All Ages Sundays-Thursdays & 21+ Fridays and Satu
+ rdays Valid ID required for Entry on Fridays & Saturdays Doors 7:00 PM Sho
+ w 8:00 PM Refund Policy: REFUNDS DETERMINED BY GET TO THE GIG ADA Accessib
+ ility: The Rockwell is partially ADA Accessible with an elevator and restr
+ ooms in Saloon wide enough for wheelchair use.\nhttps://therockwell.org/ca
+ lendar/big-special-2/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/big-special-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:67a8aa0ebb758f2ac3e7a795948a8eca9502d0d0@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261011T230000Z
+DTEND:20261012T010000Z
+SUMMARY:Griffin Benton\, Andro Queen\, & Friends
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Griffin Benton\, Andro Queen\, & Friends ARTIST INSTAGRAMS: @gr
+ iffin.benton / @androqueen / @merejane333 / @sunbear1000 DOORS: 7:00 PM SH
+ OW: 8:00 PM Age Limit: This event is All Ages ID: Valid ID required for Al
+ cohol Consumption Start Time: Performances will begin no later than 15 min
+ utes after stated show time.\nhttps://therockwell.org/calendar/andro-queen
+ -and-co/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/andro-queen-and-co/
+END:VEVENT
+BEGIN:VEVENT
+UID:b0be07104db6ec77cd68163a8decb00474c66b84@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261014T230000Z
+DTEND:20261015T010000Z
+SUMMARY:Jiwon\, Sally Boy\, & Jazz Cuti
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Jiwon\, Sally Boy\, & Jazz Cuti ARTIST BIO: jiwon is from nyc a
+ nd grew up immersed in a diverse musical environment. proficient in piano\
+ , cello\, bass guitar\, and drums\, Jiwon found music to be his expressive
+  refuge. his style\, an eclectic mix inspired by artists like Lou Reed and
+  Jai Paul\, defies easy categorization. while studying philosophy at harva
+ rd\, he deepened his musical commitment\, and during the pandemic\, major 
+ label interest affirmed his career choice. jiwon’s recent single “tele
+ phone” received critical acclaim for its introspective and authentic sou
+ nd. as he continues to innovate\, jiwon remains dedicated to his craft\, d
+ istinguishing himself with genuine passion and sincerity in a crowded musi
+ cal landscape.\nhttps://therockwell.org/calendar/jiwon-sallyboy-jazzcuti/\
+ nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/jiwon-sallyboy-jazzcuti/
+END:VEVENT
+BEGIN:VEVENT
+UID:55b5521971a89396f36c0f894de54471cdb31fe4@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261015T230000Z
+DTEND:20261016T010000Z
+SUMMARY:Jamie Webster
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Music with rare meaning\, ‘people’s poet’ Jamie Webster h
+ as built a movement around songcraft that distils struggle\, finds hope an
+ d the tugs at the ties that bind. Creating pin-sharp pictures of people he
+  sees around him striving and failing\, through no fault of their own\, to
+  make better lives\, Webster’s motivations and inspirations are unambigu
+ ous.\nhttps://therockwell.org/calendar/jamie-webster/\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/jamie-webster/
+END:VEVENT
+BEGIN:VEVENT
+UID:8f58660a6b4062636abae28a1bd376785ceb9fe5@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261017T230000Z
+DTEND:20261018T010000Z
+SUMMARY:Sex Mex
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:The first few years of Sex Mex were very unstable. It see sawed
+  from the desire to have a band\, to the desire to get rid of everybody in
+  a moments notice. The only solution was to have the band without having a
+  band. No sound compromise. No people compromise. A completely digital ban
+ d made up of digital Clark’s. At the end of the day\, Sex Mex is just an
+  extension of Clark. The very loud\, obnoxious extension of an otherwise\,
+  shy\, quiet person.\nhttps://therockwell.org/calendar/sex-mex/\nFrom Push
+ pin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/sex-mex/
+END:VEVENT
+BEGIN:VEVENT
+UID:46a1166ba1f4eba8ece9f3f52653f7cac7db4c9a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261018T230000Z
+DTEND:20261019T010000Z
+SUMMARY:Laura Cortese
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Laura Cortese is a singer-songwriter\, fiddler\, and musical in
+ stigator whose work bridges folk tradition and bold contemporary sound. Sh
+ e is the bandleader\, principal songwriter\, and lead singer of Laura Cort
+ ese & the Dance Cards\, performs an intimate\, high-energy solo show\, and
+  plays in duo with her partner Bert Ruymbeek. Now based in Belgium\, she i
+ s a recipient of the Flanders Folk Award.\nhttps://therockwell.org/calenda
+ r/laura-cortese/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/laura-cortese/
+END:VEVENT
+BEGIN:VEVENT
+UID:b80aaaba3e5cf9db16d0ba58fedfb1ac355224fe@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261022T230000Z
+DTEND:20261023T010000Z
+SUMMARY:ONELOUDDRAWING
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Jonah / onelinedrawing with a full band doing Far’s Tin Cans 
+ on its 30th anniversary\, plust stuff from New End’s Thriller & the new 
+ onelinedrawing album RAINBOWMACHINE ARTIST BIO: onelinedrawing is Jonah Ma
+ tranga of Far\, Gratitude\, New End Original\, and more. On September 18\,
+  Iodine Recordings will release RAINBOWMACHINE\, the new album from onelin
+ edrawing. The album was produced by Jay Maas. It’s the loudest\, wildest
+  onelinedrawing record yet. The tracks above are from the album. There wil
+ l also be the first full-band onelinedrawing shows in forever in September
+  and October\, celebrating the 30th anniversary of Far’s TIn Cans With S
+ trings To You\, the 25th anniversary of Thriller\, and of course the new a
+ lbum.\nhttps://therockwell.org/calendar/onelouddrawing/\nFrom Pushpin Bost
+ on: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/onelouddrawing/
+END:VEVENT
+BEGIN:VEVENT
+UID:e794dbd86a665672ab97177874108a90bfcc8a59@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261023T230000Z
+DTEND:20261024T010000Z
+SUMMARY:The Snuts
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Presented by Get To The Gig & MassConcerts Ages: Show age diffe
+ rs by the day. Shows are All Ages Sundays-Thursdays & 21+ Fridays and Satu
+ rdays Valid ID required for Entry on Fridays & Saturdays Doors 7:00 PM Sho
+ w 8:00 PM Refund Policy: REFUNDS DETERMINED BY GET TO THE GIG ADA Accessib
+ ility: The Rockwell is partially ADA Accessible with an elevator and restr
+ ooms in saloon wide enough for wheelchair use.\nhttps://therockwell.org/ca
+ lendar/the-snuts/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/the-snuts/
+END:VEVENT
+BEGIN:VEVENT
+UID:47364087a158921217ba42fe5b5919290e3f8900@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261024T230000Z
+DTEND:20261025T010000Z
+SUMMARY:Rachel Bochner | The “Sorry If It’s Selfish” Tour
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Rachel Bochner | The “Sorry If It’s Selfish” Tour With sp
+ ecial guests to be announced!\nhttps://therockwell.org/calendar/rachel-boc
+ hner-the-sorry-if-its-selfish-tour/\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://therockwell.org/calendar/rachel-bochner-the-sorry-if-its-selfis
+ h-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:b7fb0c398d58db6af619730b3685b06d47b65c9f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261027T230000Z
+DTEND:20261028T010000Z
+SUMMARY:Emma Moreau with Haley Montelaro & Alexis Cao
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Join us at The Rockwell for an evening of curated Alt-Pop\, fea
+ turing Emma Moreau\, with special guests Haley Montelaro and Alexis Cao AR
+ TIST BIO: TBD SOCIAL MEDIA: @emmamoreau.music / @haleymontelaro / @alexisc
+ ao_ Presented by The Rockwell DOORS: 7:00 PM SHOW: 8:00 PM Age Limit: This
+  event is All Ages ID: Valid ID required for Alcohol Consumption/Entry Sta
+ rt Time: Performances will begin no later than 15 minutes after stated sho
+ w time.\nhttps://therockwell.org/calendar/emma-moreau/\nFrom Pushpin Bosto
+ n: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/emma-moreau/
+END:VEVENT
+BEGIN:VEVENT
+UID:83e2fe2c7810d6dd80d95c5c5c0eeb3582f0c2a1@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261028T230000Z
+DTEND:20261029T010000Z
+SUMMARY:Hunter Flynn: Back to My Roots Tour
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Hunter Flynn: Back to My Roots Tour With special guest Evan Cyo
+ te Presented by The Rockwell and Peachtree Entertainment.\nhttps://therock
+ well.org/calendar/hunter-flynn/\nFrom Pushpin Boston: https://pushpin.city
+ /boston/
+URL:https://therockwell.org/calendar/hunter-flynn/
+END:VEVENT
+BEGIN:VEVENT
+UID:6c13727773fdc90593cd8a15baa12e9119668158@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261029T230000Z
+DTEND:20261030T010000Z
+SUMMARY:Dent May
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Dent May is a singer\, songwriter and producer from Jackson\, M
+ ississippi\, now based in Los Angeles\, California.\nhttps://therockwell.o
+ rg/calendar/dent-may/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/dent-may/
+END:VEVENT
+BEGIN:VEVENT
+UID:aa5e746dd333a49a49a2c950fd77f52173156955@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261030T230000Z
+DTEND:20261031T010000Z
+SUMMARY:Skalloween + Haunt
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:ONCE x The Rockwell Presents: Skalloween\, Plus a HALLOWEEN HAU
+ NT (as you enter\, the alley will be SCARY!)\nhttps://therockwell.org/cale
+ ndar/skalloween-5/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/skalloween-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:5f8f6f1004c5b54c3755548e71419de80243cdb0@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261031T223000Z
+DTEND:20261101T003000Z
+SUMMARY:Fright Night at The Rockwell!
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:It’s Fright Night at The Rockwell and this Halloween\, we’v
+ e got it ALL: haunted hallways\, live music\, and of course we have a cost
+ ume contest\, so dress to impress!\nhttps://therockwell.org/calendar/rockw
+ ell-fright-night/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/rockwell-fright-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:41a739e0fb51e8a991588f20e76fdd838c69f212@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261103T003000Z
+DTEND:20261103T023000Z
+SUMMARY:Menopunks Live!
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:AWARD WINNING FILMMAKER/PHOTOGRAPHER Alicia has directed over 3
+  dozen MUSIC VIDEOS FOR ARTISTS LIKE FIRST AID KIT\, CAKE and BOB MOULD as
+  well as VISUALLY BRANDING popular bands like THE DECEMBERISTS and many ot
+ hers with her imaginative portraiture. Her unique sense of visual style\, 
+ grounded humor and snappy storytelling enables her to deliver authentic na
+ rratives that resonate deeply with viewers. Her hit web series THE BENEFIT
+ S OF GUSBANDRY received wide acclaim from press outlets like THE NEW YORK 
+ TIMES and ENTERTAINMENT WEEKLY. Her feature directorial debut A KADDISH FO
+ R BERNIE MADOFF won multiple awards and is widely available. She is curren
+ tly helming Jewish feminist discovery episodic GIRLS IN TROUBLE: THE SERIE
+ S. Rose is also noted lifelong musician with a storied history as a colleg
+ e radio DJ\, tastemaking rock show promoter and indie music distribution b
+ usiness leader.\nhttps://therockwell.org/calendar/menopunks/\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/menopunks/
+END:VEVENT
+BEGIN:VEVENT
+UID:036db901eadcc09ee2835aeeebf6b8ee77044743@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261104T000000Z
+DTEND:20261104T020000Z
+SUMMARY:Yana
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Presented by Get To The Gig & MassConcerts\nhttps://therockwell
+ .org/calendar/yana/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/yana/
+END:VEVENT
+BEGIN:VEVENT
+UID:387b8c4234f8ea9cf9907a3993f9d26eb91a049f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261106T000000Z
+DTEND:20261106T020000Z
+SUMMARY:Jackie Evans
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Jackie Evans – SOLD OUT!\nhttps://therockwell.org/calendar/ja
+ ckie-evans/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/jackie-evans/
+END:VEVENT
+BEGIN:VEVENT
+UID:6ed08cf32bdef621aa160c8f7bdce927e2a621a7@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261109T000000Z
+DTEND:20261109T020000Z
+SUMMARY:Diles Que No Me Maten
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Presented by Get To The Gig & MassConcerts Ages: Show age diffe
+ rs by the day. Shows are All Ages Sundays-Thursdays & 21+ Fridays and Satu
+ rdays Valid ID required for Entry on Fridays & Saturdays Doors 7:00 PM Sho
+ w 8:00 PM Refund Policy: REFUNDS DETERMINED BY GET TO THE GIG ADA Accessib
+ ility: The Rockwell is partially ADA Accessible with an elevator and restr
+ ooms in saloon wide enough for wheelchair use.\nhttps://therockwell.org/ca
+ lendar/diles-que-no-me-maten/\nFrom Pushpin Boston: https://pushpin.city/b
+ oston/
+URL:https://therockwell.org/calendar/diles-que-no-me-maten/
+END:VEVENT
+BEGIN:VEVENT
+UID:2ccc098c667b2d7cd253444c0ca78b0d8007a3f9@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261111T000000Z
+DTEND:20261111T020000Z
+SUMMARY:The Saint Cecilia
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:ARTIST BIO: From the outside\, Saint Cecilia is a collection of
+  emotional images\, love\, art\, power\, passion\, lust and verve. They ar
+ e a driven and unique band from all over the northern hemisphere.\nhttps:/
+ /therockwell.org/calendar/the-saint-cecilia/\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://therockwell.org/calendar/the-saint-cecilia/
+END:VEVENT
+BEGIN:VEVENT
+UID:312d12415b9324ab4f1a9edc26509257e09cc60a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+SUMMARY:Jake Klar with Noble Dust & Hayley Sabella
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Join us at The Rockwell for a curated evening of Folk Rock and 
+ Alt-Country\, celebrating Jake Klar’s album release\, with special guest
+ s Noble Dust and Hayley Sabella.\nhttps://therockwell.org/calendar/jake-kl
+ ar/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/jake-klar/
+END:VEVENT
+BEGIN:VEVENT
+UID:6a087f966cb4069c75a5013f8e123cc26dd42e40@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+SUMMARY:Ms. Ezra Furman Doing What She Wants
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:Ms. Ezra Furman Doing What She Wants SHOW DESCRIPTION: Ezra Fur
+ man will perform music\, poetry\, or anything she wishes\, with or without
+  other performers\, depending on how she feels.\nhttps://therockwell.org/c
+ alendar/ms-ezra-furman-2/\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://therockwell.org/calendar/ms-ezra-furman-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:054d7cc0230786e56d02aa621042d38aa9fe3dc2@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:Worst Party Ever / Equipment
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:with support from Ogbert The Nerd Presented by Get To The Gig &
+  MassConcerts Doors 7:00 PM Show 8:00 PM Age Limit: This event is All Ages
+  ID: Valid ID required for Alcohol Consumption Start Time: Performances wi
+ ll begin no later than 15 minutes after stated show time.\nhttps://therock
+ well.org/calendar/worst-party-ever-equipment/\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://therockwell.org/calendar/worst-party-ever-equipment/
+END:VEVENT
+BEGIN:VEVENT
+UID:370f57d991cf4b1352c854c9de883e0e99035f6f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:GKit & Magnificent Danger
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:SHOW DESCRIPTION: Join us for a night of reimagined arrangement
+ s of both classic and underrated video game music\, brought to you by fusi
+ on big band GKit and renowned brass band Magnificent Danger.\nhttps://ther
+ ockwell.org/calendar/gkit-magnificent-danger/\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://therockwell.org/calendar/gkit-magnificent-danger/
+END:VEVENT
+BEGIN:VEVENT
+UID:70f8f70232f1a62b0f4c3b623589ec036a77a8a4@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261123T000000Z
+DTEND:20261123T020000Z
+SUMMARY:Julia Minkin
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:SHOW DESCRIPTION: Chicago-based singer-songwriter Julia Minkin 
+ is joined by Boston favorites Bowling Shoes and Cate Yoder for an evening 
+ of inventive indie music\, compelling storytelling\, and rich\, genre-bend
+ ing sounds. From shimmering synth-pop and art-rock experimentation to inti
+ mate folk melodies\, this lineup offers music that’s as intelligent as i
+ t is fun.\nhttps://therockwell.org/calendar/julia-minkin/\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/julia-minkin/
+END:VEVENT
+BEGIN:VEVENT
+UID:562c780d72f3a319f6ec51a3593589aa8f74751d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:GHOSTWOMAN
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:GHOSTWOMAN itself only exists because Uschenko and van Dessel w
+ ere the ones “stupid enough to commit to it”. Conceived by Uschenko af
+ ter cutting his teeth as a touring multi-instrumentalist\, the project was
+  brought to life in an abandoned farmhouse in Diamond City\, Alberta. Ther
+ e\, for two months\, he would make the self-released\, self-titled debut a
+ lbum which was produced and dubbed directly to custom-made cassette tapes.
+  The music has always been beautifully inhospitable\, earned only by those
+  curious enough to seek it out. — Dine Alone Records Presented by Get To
+  The Gig & MassConcerts Ages: Show age differs by the day. Shows are All A
+ ges Sundays-Thursdays & 21+ Fridays and Saturdays Valid ID required for En
+ try on Fridays & Saturdays Doors 7:00 PM Show 8:00 PM Refund Policy: REFUN
+ DS DETERMINED BY GET TO THE GIG ADA Accessibility: The Rockwell is partial
+ ly ADA Accessible with an elevator and restrooms in saloon wide enough for
+  wheelchair use.\nhttps://therockwell.org/calendar/ghostwoman/\nFrom Pushp
+ in Boston: https://pushpin.city/boston/
+URL:https://therockwell.org/calendar/ghostwoman/
+END:VEVENT
+END:VCALENDAR

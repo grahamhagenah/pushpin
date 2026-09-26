@@ -1,0 +1,684 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Midway Cafe
+X-WR-CALDESC:What’s coming up at Midway Cafe\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:83c89026457530a3d1c023ef9074c5bc1fb9b823@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T000000Z
+DTEND:20260927T020000Z
+SUMMARY:CANCELLED**Smug Brothers | Human Mascot | Merry Brigade | Frogs
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 8:00pm · Show at 8:30pm · 21+ · $10 cover · cash o
+ nly venue\nhttps://tockify.com/midwaycafejp/detail/2702/1790467200000\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2702/1790467200000
+END:VEVENT
+BEGIN:VEVENT
+UID:d1c7b546b882cec63a50c5b125ea84e47e268dd4@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T190000Z
+DTEND:20260927T210000Z
+SUMMARY:JB & the Weather Machine | The Visitors | JRTRAINER | Chef
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 3:00pm · Show at 3:30pm · ALL AGES · $10 cover\nhtt
+ ps://tockify.com/midwaycafejp/detail/2707/1790535600000\nFrom Pushpin Bost
+ on: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2707/1790535600000
+END:VEVENT
+BEGIN:VEVENT
+UID:64b7f95293de726d306dcceefb37defc62713de6@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T233000Z
+DTEND:20260929T013000Z
+SUMMARY:A Nuclear Design | Eddie Emerson | Linsy Clark | Aidan Gittings
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 7:30pm · Show at 8:00pm · 21+ · $10 Cover · cash o
+ nly venue\nhttps://tockify.com/midwaycafejp/detail/2704/1790638200000\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2704/1790638200000
+END:VEVENT
+BEGIN:VEVENT
+UID:8fa54921b2d0d47a6ea8328027cd6ab7002b6bd4@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T233000Z
+DTEND:20261001T013000Z
+SUMMARY:Fluxus | Poor Yorick | Lyle Hutchins | Ren McLean
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 7:30 pm · Show at 8:00 pm · 21+ · $10 cover · cash
+  only venue\nhttps://tockify.com/midwaycafejp/detail/2708/1790811000000\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2708/1790811000000
+END:VEVENT
+BEGIN:VEVENT
+UID:193db6001c60dea5330b127634b71ed5a0c1bc00@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T220000Z
+DTEND:20261002T000000Z
+SUMMARY:Justin Arena | Aria | Emi McSwain
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 6 pm | 21+ | $10 cover\nhttps://tockify.com/midwaycafe
+ jp/detail/2719/1790892000000\nFrom Pushpin Boston: https://pushpin.city/bo
+ ston/
+URL:https://tockify.com/midwaycafejp/detail/2719/1790892000000
+END:VEVENT
+BEGIN:VEVENT
+UID:1c5a2eb78bc2e397d6f47c108ef57086b60d7265@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T223000Z
+DTEND:20261003T003000Z
+SUMMARY:Hippie Hour with the Owsley's Owls!
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 6:30 PM | 21+ | $10 cover The music of the Grateful De
+ ad & more!\nhttps://tockify.com/midwaycafejp/detail/991/1790980200000\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/991/1790980200000
+END:VEVENT
+BEGIN:VEVENT
+UID:e17139c07b9605caa2b618ad26444690ad3cef7b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T013000Z
+DTEND:20261003T033000Z
+SUMMARY:Marianne Toilet and the Runs + more TBA
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 9:30 pm · Show at 10:15 pm · 21+ · $10 cover · cas
+ h only venue\nhttps://tockify.com/midwaycafejp/detail/2715/1790991000000\n
+ From Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2715/1790991000000
+END:VEVENT
+BEGIN:VEVENT
+UID:043591791af301b1e7e4eb5105bf7f5dd35ab8bf@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T190000Z
+DTEND:20261003T210000Z
+SUMMARY:The Spackles | Zipper | IdleSquire | Billy Squire
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 3:00pm · Show at 3:30pm · ALL AGES · $10 cover · C
+ ash only venue\nhttps://tockify.com/midwaycafejp/detail/2706/1791054000000
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2706/1791054000000
+END:VEVENT
+BEGIN:VEVENT
+UID:4209cde382d757c28bec70d8534bf14d7b3d4968@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261004T000000Z
+DTEND:20261004T020000Z
+SUMMARY:APIC | Miss Bones | Oodelally | Deccan Traps
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 8:00pm · Show at 8:30pm · 21+ · $10 cover · cash o
+ nly venue\nhttps://tockify.com/midwaycafejp/detail/2705/1791072000000\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2705/1791072000000
+END:VEVENT
+BEGIN:VEVENT
+UID:64f2868e415b84fab1bdefda986f9908c122ea20@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261004T190000Z
+DTEND:20261004T210000Z
+SUMMARY:Martin / Morell / Fredette with John Hovorka Band + Hummingbird Syn
+ dicate
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 3 pm | All Ages | $10 cover Every 1st Sunday of the mo
+ nth see Martin / Morell / Fredette live at Midway Cafe!\nhttps://tockify.c
+ om/midwaycafejp/detail/1474/1791140400000\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/1474/1791140400000
+END:VEVENT
+BEGIN:VEVENT
+UID:d54fc984f2181710e4c12a2719f006143624c2ec@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261007T000000Z
+DTEND:20261007T020000Z
+SUMMARY:Bars Over Bars Hip Hop Showcase
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors 8:00 pm - 21+ - $10 cover Every first Tuesday Bars Over B
+ ars Presents a hip hop showcase featuring local artists!\nhttps://tockify.
+ com/midwaycafejp/detail/1248/1791331200000\nFrom Pushpin Boston: https://p
+ ushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/1248/1791331200000
+END:VEVENT
+BEGIN:VEVENT
+UID:30c73cd82bf803b974e61f9d8a1bb7d4472c9098@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261007T230000Z
+DTEND:20261008T010000Z
+SUMMARY:The Jug Nuts - JP Jug Band Jam
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:7:00-9:00pm · 21+ · Free\nhttps://tockify.com/midwaycafejp/de
+ tail/2606/1791414000000\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2606/1791414000000
+END:VEVENT
+BEGIN:VEVENT
+UID:00a2d9d4a58366e5bd2d34b386eb32dbf270c170@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261008T010000Z
+DTEND:20261008T030000Z
+SUMMARY:Boston Compass Vinyl Night w/ DJ GroanMan
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:9pm-11pm · 21+ · Free (cash only bar)\nhttps://tockify.com/mi
+ dwaycafejp/detail/2609/1791421200000\nFrom Pushpin Boston: https://pushpin
+ .city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2609/1791421200000
+END:VEVENT
+BEGIN:VEVENT
+UID:40d5055c233255be1983dcf922c7c415a870f554@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261009T223000Z
+DTEND:20261010T003000Z
+SUMMARY:Hippie Hour w/ Catfish
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 6:30 pm · Show at 7:00 pm · 21+ · $10 cover · cash
+  only venue\nhttps://tockify.com/midwaycafejp/detail/2595/1791585000000\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2595/1791585000000
+END:VEVENT
+BEGIN:VEVENT
+UID:e54fbf538efd1613b31bd43b13a7ab160b7056fb@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T013000Z
+DTEND:20261010T033000Z
+SUMMARY:A Gay Old Time Presents: Boosical Theatre (Drag Tribute to Creepy M
+ usical Theatre)
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 9:30pm · Show at 10:15pm · 21+ · $10 cover · cash 
+ only venue\nhttps://tockify.com/midwaycafejp/detail/2722/1791595800000\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2722/1791595800000
+END:VEVENT
+BEGIN:VEVENT
+UID:91fa2492953dd00f0d98ad3beb2b6161d853de28@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T200000Z
+DTEND:20261010T220000Z
+SUMMARY:Chandler Travis Philharmonic
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 4:00 pm · Show at 4:30 pm · All Ages · $15 cover ·
+  cash only venue\nhttps://tockify.com/midwaycafejp/detail/2698/17916624000
+ 00\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2698/1791662400000
+END:VEVENT
+BEGIN:VEVENT
+UID:83edfca9a13853b6a7ff5756cfd0a9ec0088c182@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261011T000000Z
+DTEND:20261011T020000Z
+SUMMARY:Soraia | The Downhauls | Bad Idea USA
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 8:00pm · Show at 8:30pm · 21+ · $10 cover (cash onl
+ y venue)\nhttps://tockify.com/midwaycafejp/detail/2677/1791676800000\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2677/1791676800000
+END:VEVENT
+BEGIN:VEVENT
+UID:cba85023e64a1aa8a7a0f83d528e435240afcfed@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261013T000000Z
+DTEND:20261013T020000Z
+SUMMARY:PUNK ROCKIN' AND PASTIE POPPIN' - Boston's Monthly Bad-ass Burlesqu
+ e Punk Rock Dance Party!!!
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:$10.00\, Doors at 8:00 PM\, 21+ PUNK ROCKIN' AND PASTIE POPPIN'
+  Boston's Monthly Bad-ass Burlesque Punk Rock Dance Party!!!\nhttps://tock
+ ify.com/midwaycafejp/detail/45/1791849600000\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/45/1791849600000
+END:VEVENT
+BEGIN:VEVENT
+UID:a2f57649adb0bdfd404f87c2e3713ef14a35ba4f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261015T000000Z
+DTEND:20261015T020000Z
+SUMMARY:Fully Celebrated Orchestra with Persistent Fools + Fenno Street Jaz
+ z
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 8:00 pm | 21+ | $10 cover Fully Celebrated Orchestra\n
+ https://tockify.com/midwaycafejp/detail/384/1792022400000\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/384/1792022400000
+END:VEVENT
+BEGIN:VEVENT
+UID:6ea45d6ad5d43ba4d8cb3843bb3cef563f392743@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261016T223000Z
+DTEND:20261017T003000Z
+SUMMARY:Third Fridays are DEAD (Hippie hour!)
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 6:30 pm | 21+ | $10 cover The music of the Grateful De
+ ad & more!\nhttps://tockify.com/midwaycafejp/detail/2105/1792189800000\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2105/1792189800000
+END:VEVENT
+BEGIN:VEVENT
+UID:b2d8998bcac565a39923da484e2bed27c1a1ecf3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261017T013000Z
+DTEND:20261017T033000Z
+SUMMARY:Felicity's Hubris
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 9:30pm · Show at 10:15pm · 21+ · $10 cover · Cash 
+ only venue\nhttps://tockify.com/midwaycafejp/detail/2727/1792200600000\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2727/1792200600000
+END:VEVENT
+BEGIN:VEVENT
+UID:629a75c56e59ab22fa72330f09489b5d0622600f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261017T190000Z
+DTEND:20261017T210000Z
+SUMMARY:Louder Than Milk | Everfine | Slow Boat Home
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 3:00pm · Show at 3:30pm · 21+ · $10 cover · cash o
+ nly venue\nhttps://tockify.com/midwaycafejp/detail/2728/1792263600000\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2728/1792263600000
+END:VEVENT
+BEGIN:VEVENT
+UID:5ed677ad0b4e558efa5bee0ddc38ae0d306c79a0@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261018T000000Z
+DTEND:20261018T020000Z
+SUMMARY:Saint Christopher | The Ruckus | Spare Parts | Great Wide Open
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 8:00pm · Show at 8:30pm · 21+ · $10 cover · cash o
+ nly venue\nhttps://tockify.com/midwaycafejp/detail/2721/1792281600000\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2721/1792281600000
+END:VEVENT
+BEGIN:VEVENT
+UID:e15b4d6a1cab8ae2daa3200e44204665c577af50@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261018T190000Z
+DTEND:20261018T210000Z
+SUMMARY:Graveyard of the Atlantic | The Instamatics | Field Day | The Zip-U
+ ps
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 3:00pm · Show at 3:30pm · ALL AGES · $10 cover · c
+ ash only venue\nhttps://tockify.com/midwaycafejp/detail/2720/1792350000000
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2720/1792350000000
+END:VEVENT
+BEGIN:VEVENT
+UID:e1e261d018875b1a975f5048effed0659fc2055d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261020T000000Z
+DTEND:20261020T020000Z
+SUMMARY:Chamber: Goth & Industrial Night
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 8:00 pm · 21+ · $10 cover · cash only venue\nhttps:
+ //tockify.com/midwaycafejp/detail/2494/1792454400000\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2494/1792454400000
+END:VEVENT
+BEGIN:VEVENT
+UID:0a11c0388c47a5da5d26500832143c30910459a2@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261020T233000Z
+DTEND:20261021T013000Z
+SUMMARY:Just Friends | The Hip(!) Replacements | Keep the Changes
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 7:30 pm · Show at 8:00 pm · 21+ · $10 cover · cash
+  only venue\nhttps://tockify.com/midwaycafejp/detail/2738/1792539000000\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2738/1792539000000
+END:VEVENT
+BEGIN:VEVENT
+UID:2dfc3830fd7e0cbf2580cdb1e67f61fd0bdab141@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261022T000000Z
+DTEND:20261022T020000Z
+SUMMARY:The Rocky Horror Picture Show (Film showing / Giveaways / Costume C
+ ontest)
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:October 21\, 2026\nhttps://tockify.com/midwaycafejp/detail/2740
+ /1792627200000\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2740/1792627200000
+END:VEVENT
+BEGIN:VEVENT
+UID:d7a7303c2a20abddcf3249fdfe38d29b596dd60d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261023T223000Z
+DTEND:20261024T003000Z
+SUMMARY:Hippie Hour / The Reckoning Crew
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 6:30 pm · Show at 7:00 pm · 21+ · $10 cover · cash
+  only venue\nhttps://tockify.com/midwaycafejp/detail/2596/1792794600000\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2596/1792794600000
+END:VEVENT
+BEGIN:VEVENT
+UID:0dcd6a4f9ab10f20139cc8e114d0a3b26e542646@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261024T013000Z
+DTEND:20261024T033000Z
+SUMMARY:Emo Night w/ Smile Lines (emo & pop punk covers)
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 9:30 pm | 21+ | $10 cover Enjoy pop-punk & emo covers 
+ performed live by Smile Lines every 4th Friday at Midway Cafe!\nhttps://to
+ ckify.com/midwaycafejp/detail/1924/1792805400000\nFrom Pushpin Boston: htt
+ ps://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/1924/1792805400000
+END:VEVENT
+BEGIN:VEVENT
+UID:508cb8e2f1f275a423ad57bf371fbdfc0b78b218@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261024T190000Z
+DTEND:20261024T210000Z
+SUMMARY:Osis | Mirrormen | The Sandy Clams | Mirror Stars
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 3:00pm · Show at 3:30pm · ALL AGES · $10 cover · c
+ ash only venue\nhttps://tockify.com/midwaycafejp/detail/2714/1792868400000
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2714/1792868400000
+END:VEVENT
+BEGIN:VEVENT
+UID:aef1a7fbb22591abc6c0ec69a108dc060e0aef78@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261025T000000Z
+DTEND:20261025T020000Z
+SUMMARY:Femme Gaze: Sapphic Burlesque for the Fall
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 8:00 pm · Show at 8:30 pm · 21+ · $15 cover · cash
+  only venue\nhttps://tockify.com/midwaycafejp/detail/2729/1792886400000\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2729/1792886400000
+END:VEVENT
+BEGIN:VEVENT
+UID:08ec24441bc860be6c071635393b9f794148b051@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261025T190000Z
+DTEND:20261025T210000Z
+SUMMARY:Fat Ram's Pumpkin Tattoo 25th Anniversary Party
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 3 pm | All Ages | $10 cover\nhttps://tockify.com/midwa
+ ycafejp/detail/2724/1792954800000\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://tockify.com/midwaycafejp/detail/2724/1792954800000
+END:VEVENT
+BEGIN:VEVENT
+UID:799a21f7cd88c9e136bc172177de610d3f5a0233@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261027T000000Z
+DTEND:20261027T020000Z
+SUMMARY:Great Vibes Entertainment Showcase
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 8:00 pm · Show at 8:30 pm · 21+ · $10 cover · cash
+  only venue · 401Rawri\nhttps://tockify.com/midwaycafejp/detail/2734/1793
+ 059200000\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2734/1793059200000
+END:VEVENT
+BEGIN:VEVENT
+UID:90caceb923bace3067a44fe041a802416f0aa648@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261028T233000Z
+DTEND:20261029T013000Z
+SUMMARY:Diamond Blues Jam (Jerry Garcia Band Tribute)
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 7:30 pm · Music 8-11pm · 21+ · $10 cover · cash on
+ ly venue\nhttps://tockify.com/midwaycafejp/detail/1326/1793230200000\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/1326/1793230200000
+END:VEVENT
+BEGIN:VEVENT
+UID:1f7e675e978e191299eae444774571e3c1fdda11@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261030T223000Z
+DTEND:20261031T003000Z
+SUMMARY:Hippie Hour w/ Mystical Misfits
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 6:30 pm - 21+ - $10 cover Every Friday night 6:30-9:30
+  pm featuring music from the likes of Grateful Dead\, Jerry Garcia Band\, 
+ Phish & more!\nhttps://tockify.com/midwaycafejp/detail/1415/1793399400000\
+ nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/1415/1793399400000
+END:VEVENT
+BEGIN:VEVENT
+UID:1e255136bde7b69466b5cd2bd56838d6a6240a6d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261031T013000Z
+DTEND:20261031T033000Z
+SUMMARY:Halloween Freakshow Takeover ft Merry Merry\, Zagnutt\, Kungiz
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 9:30 pm · Show at 10:15 pm · 21+ · $10 cover · cas
+ h only venue\nhttps://tockify.com/midwaycafejp/detail/2739/1793410200000\n
+ From Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2739/1793410200000
+END:VEVENT
+BEGIN:VEVENT
+UID:c7c440b29c5ae21ca85fac7885fc729e4a8d60dd@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+SUMMARY:Martin / Morell / Fredette (monthly residency) with Bob Bradshaw + 
+ NAP
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 3 pm | All Ages | $10 cover Every 1st Sunday of the mo
+ nth see Martin / Morell / Fredette live at Midway Cafe!\nhttps://tockify.c
+ om/midwaycafejp/detail/1474/1793563200000\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/1474/1793563200000
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd183aa21f44354363ae05ec792466b7c08fb5a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261104T010000Z
+DTEND:20261104T030000Z
+SUMMARY:Bars Over Bars Hip Hop Showcase
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors 8:00 pm - 21+ - $10 cover Every first Tuesday Bars Over B
+ ars Presents a hip hop showcase featuring local artists!\nhttps://tockify.
+ com/midwaycafejp/detail/1248/1793754000000\nFrom Pushpin Boston: https://p
+ ushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/1248/1793754000000
+END:VEVENT
+BEGIN:VEVENT
+UID:12c1fceb9c9e360664cad25e741d31975a11ea4e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:The Jug Nuts - JP Jug Band Jam
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:7:00-9:00pm · 21+ · Free\nhttps://tockify.com/midwaycafejp/de
+ tail/2606/1793836800000\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2606/1793836800000
+END:VEVENT
+BEGIN:VEVENT
+UID:c223973b0dedcb0678e733f004032d5fcc4f0c8e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261105T020000Z
+DTEND:20261105T040000Z
+SUMMARY:Boston Compass Vinyl Night w/ DJ GroanMan
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:9pm-11pm · 21+ · Free (cash only bar)\nhttps://tockify.com/mi
+ dwaycafejp/detail/2609/1793844000000\nFrom Pushpin Boston: https://pushpin
+ .city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2609/1793844000000
+END:VEVENT
+BEGIN:VEVENT
+UID:3ec3315953ab00fcfe46bc89e258603433f5b4ec@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261106T233000Z
+DTEND:20261107T013000Z
+SUMMARY:Hippie Hour with the Owsley's Owls!
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 6:30 PM | 21+ | $10 cover The music of the Grateful De
+ ad & more!\nhttps://tockify.com/midwaycafejp/detail/991/1794007800000\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/991/1794007800000
+END:VEVENT
+BEGIN:VEVENT
+UID:ccdcb7c72e54794c72302558f1cf9a0bd9dcc3c3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261107T023000Z
+DTEND:20261107T043000Z
+SUMMARY:Betty Goo w/ The Weisstronauts
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 9:30pm · Show at 10:15pm · 2!+ · $10 cover · cash 
+ only venue\nhttps://tockify.com/midwaycafejp/detail/2736/1794018600000\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2736/1794018600000
+END:VEVENT
+BEGIN:VEVENT
+UID:2c20e1870f48d854b97093e5a90f40a6cd03d304@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261107T200000Z
+DTEND:20261107T220000Z
+SUMMARY:Postmoral | Jesse Eliza Band | Moonshot | Sean Madden
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 3:00pm · Show at 3:30pm · ALL AGES · $10 cover · c
+ ash only venue\nhttps://tockify.com/midwaycafejp/detail/2697/1794081600000
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2697/1794081600000
+END:VEVENT
+BEGIN:VEVENT
+UID:c1695c1ebae9d855dd3931604d4812f4b7967219@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261108T200000Z
+DTEND:20261108T220000Z
+SUMMARY:Unnatural Axe | Warthog | The Spackles | The Sonic Wavelength
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 3:00 pm · Show at 3:30 pm · ALL AGES · $15 cover ·
+  cash only venue\nhttps://tockify.com/midwaycafejp/detail/2718/17941680000
+ 00\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2718/1794168000000
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba2f29487accd008ae33a90072e75dd2edda29f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261110T010000Z
+DTEND:20261110T030000Z
+SUMMARY:PUNK ROCKIN' AND PASTIE POPPIN' - Boston's Monthly Bad-ass Burlesqu
+ e Punk Rock Dance Party!!!
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:$10.00\, Doors at 8:00 PM\, 21+ PUNK ROCKIN' AND PASTIE POPPIN'
+  Boston's Monthly Bad-ass Burlesque Punk Rock Dance Party!!!\nhttps://tock
+ ify.com/midwaycafejp/detail/45/1794272400000\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/45/1794272400000
+END:VEVENT
+BEGIN:VEVENT
+UID:99530ba7e1a4601776201a1869086b31b8c04191@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261112T010000Z
+DTEND:20261112T030000Z
+SUMMARY:Fully Celebrated Orchestra with Le Prestige + Seth Meicht Quartet
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 8:00 pm | 21+ | $10 cover Fully Celebrated Orchestra a
+ nd special guests\nhttps://tockify.com/midwaycafejp/detail/384/17944452000
+ 00\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/384/1794445200000
+END:VEVENT
+BEGIN:VEVENT
+UID:de9041fc942ab3474c4ca3a8078a9f42a10f2bfa@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261113T233000Z
+DTEND:20261114T013000Z
+SUMMARY:Hippie Hour w/ Catfish
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 6:30 pm · Show at 7:00 pm · 21+ · $10 cover · cash
+  only venue\nhttps://tockify.com/midwaycafejp/detail/2595/1794612600000\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2595/1794612600000
+END:VEVENT
+BEGIN:VEVENT
+UID:943c69884c4b9500f865404cb1b6aa6e8623f80c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261114T200000Z
+DTEND:20261114T220000Z
+SUMMARY:Hixxsgiving w/ Hixx\, Zagnutt\, Sex Zombies\, Tj Welch & The Wasted
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 3:00pm · Show at 3:30pm · 21+ · $10 cover · cash o
+ nly venue\nhttps://tockify.com/midwaycafejp/detail/2723/1794686400000\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2723/1794686400000
+END:VEVENT
+BEGIN:VEVENT
+UID:0b0db1e4dbfbc1896a284a4a1c99e22e2a9be12a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261115T200000Z
+DTEND:20261115T220000Z
+SUMMARY:Stop Calling Me Frank | Ape Hangers | Dogmatics
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 3:00pm · Show at 4:00pm · ALL AGES · $15 cover · c
+ ash only venue\nhttps://tockify.com/midwaycafejp/detail/2725/1794772800000
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2725/1794772800000
+END:VEVENT
+BEGIN:VEVENT
+UID:405e43da8389d4a2c8c2f5cf0d8048d791e68386@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261119T003000Z
+DTEND:20261119T023000Z
+SUMMARY:Matt Charette | Matt Woods | Coffin Salesman | Mic Harrison
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 7:30pm · Show at 8:00pm · 21+ · $10 cover · cash o
+ nly venue\nhttps://tockify.com/midwaycafejp/detail/2737/1795048200000\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2737/1795048200000
+END:VEVENT
+BEGIN:VEVENT
+UID:73a5a9881b34d9af5a2d24cd9f6ea2b9f9409599@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261120T233000Z
+DTEND:20261121T013000Z
+SUMMARY:Third Fridays are DEAD (Hippie hour!)
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 6:30 pm | 21+ | $10 cover The music of the Grateful De
+ ad & more!\nhttps://tockify.com/midwaycafejp/detail/2105/1795217400000\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2105/1795217400000
+END:VEVENT
+BEGIN:VEVENT
+UID:1ed38e1aa513043a814893b66b6d087928768b2c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261121T023000Z
+DTEND:20261121T043000Z
+SUMMARY:The Femmes
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 9:30 pm | 21+ | $15 cover Enjoy two sets by The Femmes
+ !\nhttps://tockify.com/midwaycafejp/detail/2107/1795228200000\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2107/1795228200000
+END:VEVENT
+BEGIN:VEVENT
+UID:1a1721bfae45bfe280a6073db7b8b9fddfe4f741@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
+SUMMARY:Ghost Painted Sky | Bloodx3 | Architrave | Hidden Fountain
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 3:00pm · Show at 3:30pm · ALL AGES · $10 cover · c
+ ash only venue\nhttps://tockify.com/midwaycafejp/detail/2694/1795377600000
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2694/1795377600000
+END:VEVENT
+BEGIN:VEVENT
+UID:32fea89ea6716fb8892a82ea72664adcaa29fb98@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261124T003000Z
+DTEND:20261124T023000Z
+SUMMARY:SilverHorizon | The Emotional Rollercoaster | A Nuclear Design
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 7:30pm · Show at 8:00pm · 21+ · $10 cover · cash o
+ nly venue\nhttps://tockify.com/midwaycafejp/detail/2726/1795480200000\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/2726/1795480200000
+END:VEVENT
+BEGIN:VEVENT
+UID:d97e8e6cd5bf47daaef06a9801f5c54abcfe721d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261126T003000Z
+DTEND:20261126T023000Z
+SUMMARY:Diamond Blues Jam (Jerry Garcia Band Tribute)
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:Doors at 7:30 pm · Music 8-11pm · 21+ · $10 cover · cash on
+ ly venue\nhttps://tockify.com/midwaycafejp/detail/1326/1795653000000\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://tockify.com/midwaycafejp/detail/1326/1795653000000
+END:VEVENT
+END:VCALENDAR

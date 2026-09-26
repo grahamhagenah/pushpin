@@ -1,0 +1,177 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Bay Area//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Bay Area · Oakland Museum
+X-WR-CALDESC:What’s coming up at Oakland Museum\, from Pushpin Bay Area.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:369c8f408709d15620ce70ebc0ab4be599eb6f1c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T000000Z
+DTEND:20261003T020000Z
+SUMMARY:Friday Nights at OMCA with Shanté | Nexus Black Art Week
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Live Music by Shanté\, Music Set by DJ Moteef\, Drag Storytime
+  with Per Sia\, Mini House Making\, Nexus Black Art Week Panel Discussion\
+ , and Gallery Chats This Friday Night at OMCA\, Oakland singer-songwriter 
+ Shanté brings her soulful sound to the Garden Stage with a powerful live 
+ performance. Blending smooth R&B\, heartfelt storytelling\, and uplifting 
+ messages of resilience\, faith\, and self-discovery\, the East Oakland art
+ ist delivers an intimate yet energetic set that invites audiences to sing 
+ along\, reflect\, and leave inspired.\nhttps://museumca.org/event/friday-n
+ ights-at-omca-with-shante/\nFrom Pushpin Bay Area: https://pushpin.city/ba
+ yarea/
+URL:https://museumca.org/event/friday-nights-at-omca-with-shante/
+END:VEVENT
+BEGIN:VEVENT
+UID:b3bde6134db5ea393ba100ecd0ae005114360dd4@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T003000Z
+DTEND:20261003T023000Z
+SUMMARY:Special Guest Gallery Chat: Mildred Howard and Adrian Burrell
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Special Guest Gallery Chat: Mildred Howard and Adrian Burrell |
+  MoAD Nexus Black Art Week In celebration of MoAD Nexus Black Art Week\, w
+ e invite you to a Special Guest Gallery Chat with artists Mildred Howard a
+ nd Adrian Burrell (featured in former OMCA Special Exhibition Black Spaces
+ : Reclaim & Remain). Moderated by OMCA’s Senior Director of Marketing\, 
+ Advancement\, Engagement\, Autumn King\, this engaging conversation brings
+  together the two artists to share their creative practices and perspectiv
+ es. Presented in partnership with MoAD Nexus Black Art Week\, the conversa
+ tion offers an opportunity to connect with the artists and explore their w
+ ork in conversation with the Museum community.\nhttps://museumca.org/event
+ /special-guest-gallery-chat-mildred-howard-and-adrian-burrell/\nFrom Pushp
+ in Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/special-guest-gallery-chat-mildred-howard-an
+ d-adrian-burrell/
+END:VEVENT
+BEGIN:VEVENT
+UID:7e0bb85eea0d727e5a5ca4665574e6ede3f949f9@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261004T200000Z
+DTEND:20261004T220000Z
+SUMMARY:OMCA Architecture Walk and Talk
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Walk through OMCA’s landmark building and gardens with member
+ s of the Council on Architecture\, and learn about the history\, design\, 
+ and evolution of this award-winning structure with guides who are passiona
+ te about OMCA and Oakland.\nhttps://museumca.org/event/omca-architecture-w
+ alk-and-talk-6/2026-10-04/\nFrom Pushpin Bay Area: https://pushpin.city/ba
+ yarea/
+URL:https://museumca.org/event/omca-architecture-walk-and-talk-6/2026-10-04
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:a93d35fd913e8f8344a4d2a787b718d7c85bdbc9@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T000000Z
+DTEND:20261010T020000Z
+SUMMARY:Friday Nights at OMCA with CHIKA DI
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Live Music by CHIKA DI\, Dance Lesson and Showcase with Hustle 
+ By The Lake\, DJ set by BLOOM\, and Gallery Chats This Friday Night at OMC
+ A\, Colombian-American singer-songwriter CHIKA DI brings her vibrant sound
+  to the Garden Stage with a high-energy bilingual performance. Blending Af
+ ro-Latin rhythms\, Cumbia pop\, electronic influences\, and heartfelt stor
+ ytelling\, her joyful set celebrates culture and connection while inviting
+  audiences to dance\, sing\, and celebrate together.\nhttps://museumca.org
+ /event/friday-nights-at-omca-with-chika-di/\nFrom Pushpin Bay Area: https:
+ //pushpin.city/bayarea/
+URL:https://museumca.org/event/friday-nights-at-omca-with-chika-di/
+END:VEVENT
+BEGIN:VEVENT
+UID:0a630a9c6730583982740a07684108db633565b6@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261017T000000Z
+DTEND:20261017T020000Z
+SUMMARY:Friday Nights at OMCA with MacArthur Maze | 60th Anniversary of the
+  Black Panther Party
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Live Performance by MacArthur Maze\, Music Set by DJ Black Woma
+ n™\, Live Figure Drawing with Sketchboard Co.\, and Gallery Chats This F
+ riday Night at OMCA\, the Museum is excited to be part of a series of prog
+ ramming celebrating the 60th Anniversary of the Black Panther Party\, brin
+ ging together music\, film\, storytelling\, and community throughout the e
+ vening. On the Garden Stage\, East Bay Hip-Hop ensemble MacArthur Maze tak
+ es the stage. Featuring four emcees and special guests Loove Moore and DJ 
+ Kream\, the group delivers a distinctly Bay Area sound rooted in real-life
+  storytelling\, love\, and community.\nhttps://museumca.org/event/friday-n
+ ights-at-omca-with-macarthur-maze-60th-anniversary-of-the-black-panther-pa
+ rty/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/friday-nights-at-omca-with-macarthur-maze-60
+ th-anniversary-of-the-black-panther-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a45719aaf97dd24dee37b032112055b455577f2@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261018T200000Z
+DTEND:20261018T220000Z
+SUMMARY:Spotlight Sundays: Roadsongs for Dorothea Lange
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Your browser does not support the video tag.\nhttps://museumca.
+ org/event/spotlight-sundays-roadsongs-for-dorothea-lange/\nFrom Pushpin Ba
+ y Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/spotlight-sundays-roadsongs-for-dorothea-lan
+ ge/
+END:VEVENT
+BEGIN:VEVENT
+UID:73c306cb469403324a681fadd3fee1ac4b49d331@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261024T000000Z
+DTEND:20261024T020000Z
+SUMMARY:Friday Nights at OMCA with DATANAGAN
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Live Music by DATANAGAN\, DJ Set by MAMA SAN\, K-Pop Dance Less
+ on with Ronnie\, Community Tabling: YOUth Decide\, and Gallery Chats Frida
+ y Nights at OMCA brings a fresh\, genre-fluid sound to the Garden Stage as
+  Bay Area singer-songwriter Victoria Datanagan leads DATANAGAN in an elect
+ ric live performance of all-original music. Blending raw\, melodic storyte
+ lling with a massive\, danceable sound\, the Filipina artist creates a com
+ munal and deeply alive experience that invites audiences to connect\, move
+ \, and let loose.\nhttps://museumca.org/event/friday-nights-at-omca-with-d
+ atanagan/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/friday-nights-at-omca-with-datanagan/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d47622b63dea378988fe36833401c0383866e41@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+SUMMARY:32nd Annual Día de los Muertos Community Celebration
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Your browser does not support the video tag.\nhttps://museumca.
+ org/event/32nd-annual-dia-de-los-muertos-community-celebration/\nFrom Push
+ pin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/32nd-annual-dia-de-los-muertos-community-cel
+ ebration/
+END:VEVENT
+BEGIN:VEVENT
+UID:d774b149e048e3ffbfa3719aff6485544fe48b19@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:Special Guest Gallery Chat with Traditional Medicine Practitioner B
+ atul True Heart
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Special Guest Gallery Chat with Traditional Medicine Practition
+ er Batul True Heart As part of this year’s Día de los Muertos Community
+  Celebration\, come sit with Batul True Heart (they/them) in OMCA’s Gall
+ ery of Natural Science as they share their personal experience of practici
+ ng traditional medicine in times of mourning. In this 30-minute talk\, Bat
+ ul will speak about what has brought them to the path of earth-based ances
+ tral medicine\, and what has been most supportive for them during times of
+  deep emotional pain. You will learn about feelings from an Indigenous per
+ spective and gain practical ways to connect with emotions\, the earth\, an
+ d all the elements. Honoring the traditions and practices of Día de los M
+ uertos\, Batul will also introduce their favorite flower\, cempoalxóchitl
+ \, and how to work with it when grieving.\nhttps://museumca.org/event/spec
+ ial-guest-gallery-chat-with-traditional-medicine-practitioner-batul-true-h
+ eart/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/special-guest-gallery-chat-with-traditional-
+ medicine-practitioner-batul-true-heart/
+END:VEVENT
+END:VCALENDAR

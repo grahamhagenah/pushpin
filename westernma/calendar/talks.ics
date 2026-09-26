@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Art & talks
+X-WR-CALDESC:Art & talks around the Pioneer Valley and the Berkshires\, fro
+ m Pushpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:500518f09701e8f1fffd14671c99234e527eb13f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T213000Z
+DTEND:20261001T233000Z
+SUMMARY:Scott Eyerly’s Virtual Met Opera Lecture: Mozart's Così fan tutt
+ e
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:Scott Eyerly will offer a free opera talk via Zoom the Thursday
+  prior to the Metropolitan Opera’s broadcast the following weekend.\nhtt
+ ps://mahaiwe.org/event/eyerly-cosi/\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://mahaiwe.org/event/eyerly-cosi/
+END:VEVENT
+BEGIN:VEVENT
+UID:0b0348e12069d1a993549b662933e66bea7a1702@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T233000Z
+DTEND:20261002T013000Z
+SUMMARY:An Evening with David Sedaris
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:With sardonic wit and incisive social observation\, David Sedar
+ is has become one of America’s preeminent humor writers. Beloved for his
+  personal essays and short stories\, Sedaris is the bestselling author of 
+ Barrel Fever\, Holidays on Ice\, Naked\, Me Talk Pretty One Day\, Dress Yo
+ ur Family in Corduroy and Denim\, When You Are Engulfed in Flames\, Let’
+ s Explore Diabetes with Owls\, Calypso\, The Best of Me and Happy-Go-Lucky
+ \, among others. His books have sold more than 16 million copies worldwide
+  and been translated into 32 languages.\nhttps://www.berkshiretheatregroup
+ .org/event/an-evening-with-david-sedaris/\nFrom Pushpin Western Mass: http
+ s://pushpin.city/westernma/
+URL:https://www.berkshiretheatregroup.org/event/an-evening-with-david-sedar
+ is/
+END:VEVENT
+BEGIN:VEVENT
+UID:80799c01d083af8175d440748fadb469e27cdb92@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261003T210000Z
+DTEND:20261003T230000Z
+SUMMARY:Two Birds One Stone
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Maggie O’Brien\nA conversation with Maggie O’Brien and Bern
+ ie Rhie to celebrate and discuss the launch of Two Birds One Stone\, O’B
+ rien’s debut memoir that breaks industry convention and questions the fa
+ bric of reality.\nhttps://massmoca.org/event/two-birds-one-stonemaggie-obr
+ ien/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/two-birds-one-stonemaggie-obrien/
+END:VEVENT
+BEGIN:VEVENT
+UID:915ae2c6d9d0b28167f50d21d682c4305a532d31@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261004T000000Z
+DTEND:20261004T020000Z
+SUMMARY:Ira Glass: Stories for a Saturday Night
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:NEPM’s Smart and Funny People Series Presents presents\nhttps
+ ://aomtheatre.com/aom_event/an-evening-with-ira-glass/\nFrom Pushpin Weste
+ rn Mass: https://pushpin.city/westernma/
+URL:https://aomtheatre.com/aom_event/an-evening-with-ira-glass/
+END:VEVENT
+BEGIN:VEVENT
+UID:cdb3fc9859c68f90f0741555dc674c146057be90@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261004T160000Z
+DTEND:20261004T180000Z
+SUMMARY:Eden Robins (of Birdie Horne) & Andrea Hairston
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:A reading and conversation celebrating the release of two unrel
+ ated works of fiction that combine mystery and humor (and dogs!) in unexpe
+ cted and refreshing ways.\nhttps://massmoca.org/event/eden-robins-of-birdi
+ e-horne-andrea-hairston/\nFrom Pushpin Western Mass: https://pushpin.city/
+ westernma/
+URL:https://massmoca.org/event/eden-robins-of-birdie-horne-andrea-hairston/
+END:VEVENT
+BEGIN:VEVENT
+UID:d6beb1b3fa682158022730c39c2a6d91a026ac76@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261008T220000Z
+DTEND:20261009T000000Z
+SUMMARY:Wimpy & Wumpy: A Spooktacular Evening! with Jeff Kinney & Tony DiTe
+ rlizzi
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:High Five Books & BOMBYX presents\nWimpy & Wumpy: A Spooktacula
+ r Evening! with Jeff Kinney & Tony DiTerlizzi From 6-7pm\, young readers a
+ re invited to the reveal of two creepy new middle-grade books: ‘The Wump
+ ’ by Tony DiTerlizzi\, whose ‘Spiderwick Chronicles’ books have sold
+  more than 20 million copies\, and ‘Rowley Jefferson’s Awesome Friendl
+ y Spooky Stories 2’ by Jeff Kinney\, whose ‘Diary of a Wimpy Kid’ se
+ ries have sold millions of copies worldwide.\nhttps://aomtheatre.com/aom_e
+ vent/wimpy-wumpy-a-spooktacular-evening-with-jeff-kinney-tony-diterlizzi/\
+ nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://aomtheatre.com/aom_event/wimpy-wumpy-a-spooktacular-evening-wit
+ h-jeff-kinney-tony-diterlizzi/
+END:VEVENT
+BEGIN:VEVENT
+UID:9589e188afcd75e478f21e9537f86db47bb6d5e9@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T163000Z
+DTEND:20261010T183000Z
+SUMMARY:Hacia Cuando: An Opera
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Hacia Cuando: An Opera is a cross-geographical experimental ope
+ ra-performance created in the mode of an exquisite corpse. The work brings
+  together the creative practices of Jenny Olivia Johnson\, composer and so
+ und artist based in Los Angeles\; Javier Bustos\, Argentinian experimental
+  luthier and sound artist\; Sebastián Muirhead\, Chilean opera singer and
+  stage director\; and Chilean-American visual artist Daniela Rivera.\nhttp
+ s://massmoca.org/event/hacia-cuando-an-opera/\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://massmoca.org/event/hacia-cuando-an-opera/
+END:VEVENT
+BEGIN:VEVENT
+UID:67a796ef95e5555e788709d6d841a60a95ebea7d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T180000Z
+DTEND:20261010T200000Z
+SUMMARY:In Conversation: Daniela Rivera
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Join us in the Research and Development Store for a conversatio
+ n between Daniela Rivera\, Chilean-American visual artist of Hacia Cuando 
+ (To When)\; Evan Garza\, Curator\; Jenny Olivia Johnson\, composer and sou
+ nd artist based in Los Angeles\; Javier Bustos\, Argentinian experimental 
+ luthier and sound artist\; Sebastián Muirhead\, Chilean opera singer and 
+ stage director.\nhttps://massmoca.org/event/in-conversation-daniela-rivera
+ /\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/in-conversation-daniela-rivera/
+END:VEVENT
+BEGIN:VEVENT
+UID:385d38d2109d151a1102e18940b61cadedcaaac2@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261015T213000Z
+DTEND:20261015T233000Z
+SUMMARY:Scott Eyerly’s Virtual Met Opera Lecture: Verdi's Macbeth
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:FREE\nhttps://mahaiwe.org/event/scott-eyerlys-virtual-met-opera
+ -lecture-mozarts-cosi-fan-tutte-duplicate-1/\nFrom Pushpin Western Mass: h
+ ttps://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/scott-eyerlys-virtual-met-opera-lecture-mozar
+ ts-cosi-fan-tutte-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffc670b9f378f04c3c0ec9923b77527f3bffe595@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261016T220000Z
+DTEND:20261017T000000Z
+SUMMARY:My ’90s Rock Photographs
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Melissa Auf der Maur\nAn intimate conversation with alt-rock ba
+ ssist Melissa Auf der Maur — of Hole and Smashing Pumpkins fame — as s
+ he walks us through Even the Good Girls Will Cry: A ’90s Rock Memoir (Da
+  Capo) and shares images from Melissa Auf der Maur: My ’90s Rock Photogr
+ aphs (DelMonico Books)\, the catalog to her exhibition at Art Gallery of O
+ ntario that doubles as a photographic love letter to the last analog decad
+ e.\nhttps://massmoca.org/event/my-90s-rock-photographsmelissa-auf-der-maur
+ /\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/my-90s-rock-photographsmelissa-auf-der-maur/
+END:VEVENT
+BEGIN:VEVENT
+UID:4b73a7f4ad372c8e234214444bb8b8c1a8a8be69@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261017T230000Z
+DTEND:20261018T010000Z
+SUMMARY:Roz Chast & Jason Adam Katzenstein
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:“I don’t think I’ve ever laughed so hard. Everyone not na
+ med Martha Stewart will recognize themselves in The Two Saddest Kitchens
+ ” — Ruth Reichl Two hilarious\, celebrated cartoonists visit MASS MoCA
+  to discuss a highly relatable subject — kitchen anxiety: Roz Chast and 
+ Jason Adam Katzenstein are both longtime New Yorker cartoonists with their
+  own unique drawing styles\, huge followings\,and legions of loyal fans. C
+ hast’s Can’t We Talk About Something More Pleasant? spent over a hundr
+ ed weeks on the NYT bestseller list and sold more than 150\,000 hardcovers
+ \; Katzenstein’s fan base pulls from his magazine work as well as TV and
+  graphic novels.\nhttps://massmoca.org/event/roz-chast-jason-adam-katzenst
+ ein/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/roz-chast-jason-adam-katzenstein/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a5c3fe4f8fee618160b369cbb55d8b9c4b80068@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261017T230000Z
+DTEND:20261018T010000Z
+SUMMARY:The Guthrie Center presents: Arlo Guthrie – An Unscripted Convers
+ ation
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$40 – $150 (plus processing fees)\nhttps://mahaiwe.org/event/
+ the-guthrie-center-presents-arlo-guthrie-an-unscripted-conversation/\nFrom
+  Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/the-guthrie-center-presents-arlo-guthrie-an-u
+ nscripted-conversation/
+END:VEVENT
+BEGIN:VEVENT
+UID:190e84086fdb5fc3ad5d145a2096abce0eefd873@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261021T230000Z
+DTEND:20261022T010000Z
+SUMMARY:Cirque Us Stories
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:Wednesday\, October 21st\, 2026 at 7:00 pm Doors at 6:30 pm $28
+ .20 – $60.90 After Fees Purchase online at any time of the day using the
+  button on the top or bottom of the page.\nhttps://aomtheatre.com/aom_even
+ t/cirque-us-stories/\nFrom Pushpin Western Mass: https://pushpin.city/west
+ ernma/
+URL:https://aomtheatre.com/aom_event/cirque-us-stories/
+END:VEVENT
+END:VCALENDAR

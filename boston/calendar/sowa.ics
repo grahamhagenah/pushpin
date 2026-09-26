@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · SoWa
+X-WR-CALDESC:What’s coming up at SoWa\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:a8f8cda728e882747bdb52614b28d6e23e0f95a1@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T210000Z
+DTEND:20261002T230000Z
+SUMMARY:First Friday
+LOCATION:SoWa\, 450 Harrison Ave\, Boston\, MA 02118
+DESCRIPTION:On the First Friday of every month\, the artists\, galleries\, 
+ shops and showrooms of the SoWa Art + Design District in the South End ope
+ n their doors to the public for an evening of art\, culture and inspiratio
+ n. Meet the artists in their element\, view the latest gallery exhibitions
+ \, shop small\, and dine at one of SoWa’s world-class restaurants.\nhttp
+ s://www.sowaboston.com/event/first-friday-38/\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://www.sowaboston.com/event/first-friday-38/
+END:VEVENT
+BEGIN:VEVENT
+UID:9b7aa1c6718b7100391d0020eec85c3997a41120@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:5th Annual SoWa Design Day
+LOCATION:SoWa\, 450 Harrison Ave\, Boston\, MA 02118
+DESCRIPTION:Join industry colleagues for a day of education\, inspiration a
+ nd celebration in the SoWa Art + Design District\, the largest concentrati
+ on of interior designers\, architects\, showrooms\, artist studios and gal
+ leries in New England.\nhttps://www.sowaboston.com/event/5th-annual-sowa-d
+ esign-day/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sowaboston.com/event/5th-annual-sowa-design-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:3f5667bfd8870b537f60d83a6142b1f5c278ed9f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Affordable Art Fair Boston
+LOCATION:SoWa\, 450 Harrison Ave\, Boston\, MA 02118
+DESCRIPTION:After a hugely successful first edition in 2025\, Affordable Ar
+ t Fair is thrilled to be returning to Boston in Fall 2026! Join us at SoWa
+  Power Station for our spectacular second edition. The fair will showcase 
+ galleries from Boston and beyond with a mixture of emerging and establishe
+ d artists. With thousands of artworks for sale – all priced under $12\,0
+ 00 – we’re sure you’ll find something to suit your taste\, space and
+  budget.\nhttps://www.sowaboston.com/event/affordable-art-fair-boston/\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sowaboston.com/event/affordable-art-fair-boston/
+END:VEVENT
+END:VCALENDAR

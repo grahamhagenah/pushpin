@@ -1,0 +1,260 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · The Middle East
+X-WR-CALDESC:What’s coming up at The Middle East\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:88d8f85c13c32c5b14d0d87734cece121b518426@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T230000Z
+DTEND:20260927T010000Z
+SUMMARY:Nitzer Ebb\, Josephine Olivia\, Hexx Head
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/nitzer-ebb-josephine-olivia-hex
+ x-middle-east-downstairs-tickets/15024443?pl=mideastclub&REFID=clientsitew
+ p\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/nitzer-ebb-josephine-olivia-hexx-middle
+ -east-downstairs-tickets/15024443?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:224c25e9d8998b44d95a45e63f5bb356f3746c99@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T000000Z
+DTEND:20260927T020000Z
+SUMMARY:Pertinence\, CÉSAR
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/pertinence-csar-middle-east-ups
+ tairs-tickets/14858863?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/pertinence-csar-middle-east-upstairs-ti
+ ckets/14858863?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd8dafdc7c19ead1b931a5a2a0f9901b4ec6352@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T010000Z
+DTEND:20260927T030000Z
+SUMMARY:Mourning Night – RAWR
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/mourning-night-rawr-sonia-ticke
+ ts/14282764?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://www.ticketweb.com/event/mourning-night-rawr-sonia-tickets/14282
+ 764?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:f9516825824c012cb3aba4a016ac8da0b87a2f86@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T010000Z
+DTEND:20260927T030000Z
+SUMMARY:SC3N3 QU33N S3PT3MB3R
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/sc3n3-qu33n-s3pt3mb3r-middle-ea
+ st-cornerbakery-tickets/14298364?pl=mideastclub&REFID=clientsitewp\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/sc3n3-qu33n-s3pt3mb3r-middle-east-corne
+ rbakery-tickets/14298364?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:d702409755c652fd197d7d4732cdf22f6233eaa3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T013000Z
+DTEND:20260927T033000Z
+SUMMARY:Eye of the Storm ft. See.DJ
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/eye-of-the-storm-ft-middle-east
+ -cornerbakery-tickets/14345394?pl=mideastclub&REFID=clientsitewp\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/eye-of-the-storm-ft-middle-east-cornerb
+ akery-tickets/14345394?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:ef0c2cedfbad3d5635e802ca78d77c158d57b756@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T020000Z
+DTEND:20260927T040000Z
+SUMMARY:Select
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/select-middle-east-zuzu-tickets
+ /14336974?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: https://
+ pushpin.city/boston/
+URL:https://www.ticketweb.com/event/select-middle-east-zuzu-tickets/1433697
+ 4?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:360416db23d3dbec0d6a1fcdd5b2a2efd8e6ba4c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+SUMMARY:Company Car Booking & Assbeaters Anonymous present Pathogenic\, My 
+ hands
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/company-car-booking-assbeaters-
+ middle-east-upstairs-tickets/14300874?pl=mideastclub&REFID=clientsitewp\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/company-car-booking-assbeaters-middle-e
+ ast-upstairs-tickets/14300874?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:c46a54d2abfdbf889612f88e85aee71622602040@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T210000Z
+DTEND:20260927T230000Z
+SUMMARY:Ollie Gullick
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/-ollie-gullick-middle-east-corn
+ erbakery-tickets/14323284?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin 
+ Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/-ollie-gullick-middle-east-cornerbakery
+ -tickets/14323284?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:8e2fd172ef289f4314b5198a085eebf6693da844@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T230000Z
+DTEND:20260928T010000Z
+SUMMARY:The Holdup\, Cydeways\, Dylan Reese
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-holdup-cydeways-dylan-reese
+ -middle-east-upstairs-tickets/14985143?pl=mideastclub&REFID=clientsitewp\n
+ From Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/the-holdup-cydeways-dylan-reese-middle-
+ east-upstairs-tickets/14985143?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:8e17951bc2b7fae789b6d08e0dfa9ed9594502ff@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T000000Z
+DTEND:20260928T020000Z
+SUMMARY:The Freestyle Clinic w/ Seti Tzu
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-freestyle-clinic-w-seti-mid
+ dle-east-cornerbakery-tickets/14118934?pl=mideastclub&REFID=clientsitewp\n
+ From Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/the-freestyle-clinic-w-seti-middle-east
+ -cornerbakery-tickets/14118934?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:ba885d4413abea50dd7d751e49fdd97c3dddbc54@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T010000Z
+DTEND:20260928T030000Z
+SUMMARY:MetaFaction\, Andey Samhain\,  Militia Rashad\, Hate Incarnate\, Ga
+ lush
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/andey-samhain-metafaction-milit
+ ia-middle-east-zuzu-tickets/14089454?pl=mideastclub&REFID=clientsitewp\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/andey-samhain-metafaction-militia-middl
+ e-east-zuzu-tickets/14089454?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:8c9bf7834fe470b22f7a1bb512e465ee9039438f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T230000Z
+DTEND:20260930T010000Z
+SUMMARY:Hot Flash Heat Wave\, High\, Pinklids
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/hot-flash-heat-wave-high-middle
+ -east-upstairs-tickets/14978593?pl=mideastclub&REFID=clientsitewp\nFrom Pu
+ shpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/hot-flash-heat-wave-high-middle-east-up
+ stairs-tickets/14978593?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:9440613b79b7f91840db36dfb2507c9083c4d1e4@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T010000Z
+DTEND:20260930T030000Z
+SUMMARY:Hipocampo
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/hipocampo-middle-east-zuzu-tick
+ ets/14339554?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: https
+ ://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/hipocampo-middle-east-zuzu-tickets/1433
+ 9554?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:5f53c832028dc90d1597416b6340847e8b8c9385@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T013000Z
+DTEND:20260930T033000Z
+SUMMARY:Mood
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-t
+ ickets/14031744?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: ht
+ tps://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-tickets/1
+ 4031744?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:7a34e361313aa2d5ae928694da454ee086847e33@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T230000Z
+DTEND:20261001T010000Z
+SUMMARY:Lady Heroine\,  Don't Tell Iris\,  Jermaine Kelly\, Tiffy
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/lady-heroine-dont-tell-sonia-ti
+ ckets/14308914?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: htt
+ ps://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/lady-heroine-dont-tell-sonia-tickets/14
+ 308914?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:70d2d70a0170784d3f5f28248becb87da211adc9@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T230000Z
+DTEND:20261001T010000Z
+SUMMARY:Tōth\, Sean Nicholas Savage
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/tth-sean-nicholas-savage-middle
+ -east-upstairs-tickets/14954153?pl=mideastclub&REFID=clientsitewp\nFrom Pu
+ shpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/tth-sean-nicholas-savage-middle-east-up
+ stairs-tickets/14954153?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:31cdfec893e0d36f040d20d242dda27ccbb5ff76@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T010000Z
+DTEND:20261001T030000Z
+SUMMARY:So Fine
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/so-fine-middle-east-zuzu-ticket
+ s/14323534?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://www.ticketweb.com/event/so-fine-middle-east-zuzu-tickets/143235
+ 34?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:49ad82e066c8b0556999bdbea735ee74aa7a50c4@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T230000Z
+DTEND:20261002T010000Z
+SUMMARY:Grayskull Booking Presents: Unsane\, Sexless Marriage\, Alreckque
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/grayskull-booking-presents-unsa
+ ne-sexless-middle-east-upstairs-tickets/14786043?pl=mideastclub&REFID=clie
+ ntsitewp\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/grayskull-booking-presents-unsane-sexle
+ ss-middle-east-upstairs-tickets/14786043?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:d63863af0117cf2528a6a98584133819850d841e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T230000Z
+DTEND:20261002T010000Z
+SUMMARY:The Tear Garden (The Legendary Pink Dots\, cEvin Key)
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-tear-garden-the-legendary-m
+ iddle-east-downstairs-tickets/14904083?pl=mideastclub&REFID=clientsitewp\n
+ From Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/the-tear-garden-the-legendary-middle-ea
+ st-downstairs-tickets/14904083?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

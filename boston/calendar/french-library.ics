@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · French Library
+X-WR-CALDESC:What’s coming up at French Library\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:d248e39ee7880a35ab207f0eb82b9233d27d23c6@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T230000Z
+DTEND:20260929T010000Z
+SUMMARY:Leïla Slimani: I’ll Take the Fire
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Join us at Harvard Book Store for a conversation with Leïla Sl
+ imani\, bestselling and Prix Goncourt–winning author of The Perfect Nann
+ y\, about her new novel\, I’ll Take the Fire.\nhttps://frenchlibrary.org
+ /events/leila-slimani-harvard-bookstore-2026/\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://frenchlibrary.org/events/leila-slimani-harvard-bookstore-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:247a9db845b69b433868c50cdaf4cba57b25af09@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261006T223000Z
+DTEND:20261007T003000Z
+SUMMARY:The Frenchmen: French Theory from Paris to America
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Join critic and essayist Emily Eakin and MIT professor Bruno Pe
+ rreau for a lively conversation about The Frenchmen and how French theory 
+ captivated America\, transformed intellectual life\, and continues to shap
+ e today’s culture wars.\nhttps://frenchlibrary.org/events/the-frenchmen-
+ eakin-perreau-2026/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://frenchlibrary.org/events/the-frenchmen-eakin-perreau-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:cd998218a35dcd4397d764531ad6f0981b953be7@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261013T220000Z
+DTEND:20261014T000000Z
+SUMMARY:Ciné-Club: Maigret and the Dead Lover by Pascal Bonitzer
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Pascal Bonitzer takes on one of France’s most beloved charact
+ ers\, Inspector Maigret\, portrayed by the equally legendary Denis Podalyd
+ ès.\nhttps://frenchlibrary.org/events/maigret-pascal-bonizter-2026/\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://frenchlibrary.org/events/maigret-pascal-bonizter-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:f06cdb1e1a495868cbe5578a8c946c98875eac38@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:French Voices at the Boston Book Festival
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:This exciting day of author talks offers a unique chance for re
+ aders\, literature enthusiasts\, and Francophiles to engage directly with 
+ some of today’s most celebrated French and Francophone voices\, while al
+ so honoring the art and essential role of literary translation.\nhttps://f
+ renchlibrary.org/events/boston-book-festival-2026/\nFrom Pushpin Boston: h
+ ttps://pushpin.city/boston/
+URL:https://frenchlibrary.org/events/boston-book-festival-2026/
+END:VEVENT
+END:VCALENDAR

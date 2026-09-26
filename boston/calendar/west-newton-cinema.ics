@@ -1,0 +1,801 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · West Newton Cinema
+X-WR-CALDESC:What’s coming up at West Newton Cinema\, from Pushpin Boston
+ .
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:9f63f0a3864db8d7ea2e0f8dffd08c0c783ffe2e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T215000Z
+DTEND:20260926T235000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5:50pm\, 7:30pm\nAfter decades of being blown to bits by
+  bombs\, demolished by dynamite\, mangled by magnets\, battered by boulder
+ s\, trampled by trains\, tricked by tunnels\, sprung by springs\, steamrol
+ led by steamrollers\, maligned by misfires\, bedeviled by bungees\, rattle
+ d by rockets\, backstabbed by bat suits\, rocked by rocket skates\, upende
+ d by unicycles\, quaked by quake pills\, rubberized by rogue bands\, and h
+ urled headlong off every cliff in the Southwest\, Wile E. Coyote (Genius) 
+ finally fights back. Teaming up with billboard accident lawyer Kevin Avery
+  (Will Forte)\, he takes on slick corporate counsel Buddy Crane (John Cena
+ ) and ACME\, Inc.\, the profit-obsessed conglomerate behind every one of t
+ he Coyote’s chaotic catastrophes.\nhttps://www.westnewtoncinema.com/movi
+ e/coyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:78125b55896622e8ecc37447dca352f688da7634@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T233000Z
+DTEND:20260927T013000Z
+SUMMARY:Forgotten Island
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:While celebrating their last night together\, Jo and Raissa stu
+ mble upon a mysterious portal that transports them to the fantastical isla
+ nd of Nakali\, packed with magical and mythological creatures they grew up
+  hearing stories about from their Filipino families.\nhttps://www.westnewt
+ oncinema.com/movie/forgotten-island\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://www.westnewtoncinema.com/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:cd649fc25abf33c15e216d54a0c646b225f6d577@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T233000Z
+DTEND:20260927T013000Z
+SUMMARY:Ha-Chan\, Shake Your Booty!
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Haru and Luis love competing in Tokyo’s ballroom dance scene\
+ , but after tragedy strikes\, Haru withdraws into isolation. When friends 
+ coax her back to the studio\, she develops an infatuation with the new ins
+ tructor. She must face what comes next as sparks fly.\nhttps://www.westnew
+ toncinema.com/movie/ha-chan-shake-your-booty\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/ha-chan-shake-your-booty
+END:VEVENT
+BEGIN:VEVENT
+UID:61b47984a58c90198a8f6a0e1c0020637451ca0d@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T234000Z
+DTEND:20260927T014000Z
+SUMMARY:Primetime
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:In 2006\, To Catch a Predator host Chris Hansen sets out to mak
+ e television history.\nhttps://www.westnewtoncinema.com/movie/primetime\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:2f04b833253adf426046745670b5b1d281407c49@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260926T234000Z
+DTEND:20260927T014000Z
+SUMMARY:You Had to Be There
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Martin Short\, Eugene Levy\, Gilda Radner\, Victor Garber\, Pau
+ l Shaffer\, and other entertainment icons got their start in a 1972 Toront
+ o production of the musical Godspell. Featuring interviews with the surviv
+ ing cast members\, Lin-Manuel Miranda\, Mike Myers\, and more\, the film r
+ ecounts a pivotal moment in comedy history\, in hilarious\, moving\, and i
+ nspiring detail. Executive produced by Judd Apatow.\nhttps://www.westnewto
+ ncinema.com/movie/you-had-to-be-there\nFrom Pushpin Boston: https://pushpi
+ n.city/boston/
+URL:https://www.westnewtoncinema.com/movie/you-had-to-be-there
+END:VEVENT
+BEGIN:VEVENT
+UID:39d3c47a89f6a38deb4f9f768f85ff1445002999@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T162000Z
+DTEND:20260927T182000Z
+SUMMARY:Ha-Chan\, Shake Your Booty!
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:20pm\, 2:50pm\, 5:10pm\, 7:30pm\nHaru and Luis love c
+ ompeting in Tokyo’s ballroom dance scene\, but after tragedy strikes\, H
+ aru withdraws into isolation. When friends coax her back to the studio\, s
+ he develops an infatuation with the new instructor. She must face what com
+ es next as sparks fly.\nhttps://www.westnewtoncinema.com/movie/ha-chan-sha
+ ke-your-booty\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/ha-chan-shake-your-booty
+END:VEVENT
+BEGIN:VEVENT
+UID:3c3bfcd64f283a0caef23fcd73a7213bec5bd30a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T163000Z
+DTEND:20260927T183000Z
+SUMMARY:Primetime
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:30pm\, 3pm\, 5:20pm\, 7:40pm\nIn 2006\, To Catch a Pr
+ edator host Chris Hansen sets out to make television history.\nhttps://www
+ .westnewtoncinema.com/movie/primetime\nFrom Pushpin Boston: https://pushpi
+ n.city/boston/
+URL:https://www.westnewtoncinema.com/movie/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:53741241d87251f254dd5db381129b6b1475dcaa@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T164000Z
+DTEND:20260927T184000Z
+SUMMARY:You Had to Be There
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:40pm\, 3pm\, 5:20pm\, 7:40pm\nMartin Short\, Eugene L
+ evy\, Gilda Radner\, Victor Garber\, Paul Shaffer\, and other entertainmen
+ t icons got their start in a 1972 Toronto production of the musical Godspe
+ ll. Featuring interviews with the surviving cast members\, Lin-Manuel Mira
+ nda\, Mike Myers\, and more\, the film recounts a pivotal moment in comedy
+  history\, in hilarious\, moving\, and inspiring detail. Executive produce
+ d by Judd Apatow.\nhttps://www.westnewtoncinema.com/movie/you-had-to-be-th
+ ere\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/you-had-to-be-there
+END:VEVENT
+BEGIN:VEVENT
+UID:f2182bcde229876cf0e6c65f4fb11020b89e9342@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T164500Z
+DTEND:20260927T184500Z
+SUMMARY:Forgotten Island
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:45pm\, 2:50pm\, 5:10pm\, 7:30pm\nWhile celebrating th
+ eir last night together\, Jo and Raissa stumble upon a mysterious portal t
+ hat transports them to the fantastical island of Nakali\, packed with magi
+ cal and mythological creatures they grew up hearing stories about from the
+ ir Filipino families.\nhttps://www.westnewtoncinema.com/movie/forgotten-is
+ land\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:ea30e5e6895b785665ca62448b2f5034ae873e2c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T170000Z
+DTEND:20260927T190000Z
+SUMMARY:The Boston Bulldogs
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:“The Boston Bulldogs” is a documentary film interviewing 5 
+ people from a running club for addiction recovery\, interconnected by one 
+ woman’s story from finishing the Boston Marathon after her first full ye
+ ar of sobriety to her relapse 24 hours later\, and now her recovery 10 yea
+ rs later.\nhttps://www.westnewtoncinema.com/movie/the-boston-bulldogs\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-boston-bulldogs
+END:VEVENT
+BEGIN:VEVENT
+UID:774c1ecc5ac247afbd7246ae140cef88a6f459b0@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T193000Z
+DTEND:20260927T213000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 3:30pm\, 5:40pm\, 7:50pm\nAfter decades of being blown t
+ o bits by bombs\, demolished by dynamite\, mangled by magnets\, battered b
+ y boulders\, trampled by trains\, tricked by tunnels\, sprung by springs\,
+  steamrolled by steamrollers\, maligned by misfires\, bedeviled by bungees
+ \, rattled by rockets\, backstabbed by bat suits\, rocked by rocket skates
+ \, upended by unicycles\, quaked by quake pills\, rubberized by rogue band
+ s\, and hurled headlong off every cliff in the Southwest\, Wile E. Coyote 
+ (Genius) finally fights back. Teaming up with billboard accident lawyer Ke
+ vin Avery (Will Forte)\, he takes on slick corporate counsel Buddy Crane (
+ John Cena) and ACME\, Inc.\, the profit-obsessed conglomerate behind every
+  one of the Coyote’s chaotic catastrophes.\nhttps://www.westnewtoncinema
+ .com/movie/coyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:4ae0537acd25cd0765414f4fc6a41ee5e75fba8b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260927T232000Z
+DTEND:20260928T012000Z
+SUMMARY:Tony
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:A 19-year-old Anthony Bourdain travels to Provincetown and stum
+ bles into the chaotic world of a restaurant kitchen\, setting off a summer
+  that will shape the course of his life.\nhttps://www.westnewtoncinema.com
+ /movie/tony\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:10c2d97ab42c5b76ce7b92b1fc0048415382c281@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T201500Z
+DTEND:20260928T221500Z
+SUMMARY:Ha-Chan\, Shake Your Booty!
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:15pm\, 7pm\nHaru and Luis love competing in Tokyo’s 
+ ballroom dance scene\, but after tragedy strikes\, Haru withdraws into iso
+ lation. When friends coax her back to the studio\, she develops an infatua
+ tion with the new instructor. She must face what comes next as sparks fly.
+ \nhttps://www.westnewtoncinema.com/movie/ha-chan-shake-your-booty\nFrom Pu
+ shpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/ha-chan-shake-your-booty
+END:VEVENT
+BEGIN:VEVENT
+UID:60eb3bb21b407f18092156a0f0ea353456553399@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T203000Z
+DTEND:20260928T223000Z
+SUMMARY:Forgotten Island
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:30pm\, 7pm\nWhile celebrating their last night togethe
+ r\, Jo and Raissa stumble upon a mysterious portal that transports them to
+  the fantastical island of Nakali\, packed with magical and mythological c
+ reatures they grew up hearing stories about from their Filipino families.\
+ nhttps://www.westnewtoncinema.com/movie/forgotten-island\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:67770de6d2fff30a629b44607cf72bdad9caee69@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T204500Z
+DTEND:20260928T224500Z
+SUMMARY:Filipiñana
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Amid stifling heat and pervasive drought\, Isabel (Jorrybell Ag
+ oto)\, a 17-year-old Ilokana from the rural north\, works at a posh countr
+ y club outside Manila\, lining up golf balls for powerful men to drive int
+ o the verdant horizon. New to the job\, she wanders the immaculate grounds
+  sampling its luxuries as members\, including an industrialist and his exp
+ atriate niece\, the club president and his pampered wife\, and a slew of C
+ hinese tourists\, engage in a complex dance with the club’s doting and s
+ ubservient staff. But something is rotting beneath the pristine fairways o
+ f the elite resort\, as Isabel discovers when she tries to return a mislai
+ d golf club to its patriarchal director\, Dr. Palanca (Teroy Guzman). The 
+ deeper she journeys into its most exclusive corners\, the closer she gets 
+ to the violent truths of the club\, her native Philippines\, and her own p
+ ast..\nhttps://www.westnewtoncinema.com/movie/filipiana\nFrom Pushpin Bost
+ on: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/filipiana
+END:VEVENT
+BEGIN:VEVENT
+UID:efc174ae576b75ea2f48cc12536a80b11245f0a0@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T210000Z
+DTEND:20260928T230000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:15pm\nAfter decades of being blown to bits by bo
+ mbs\, demolished by dynamite\, mangled by magnets\, battered by boulders\,
+  trampled by trains\, tricked by tunnels\, sprung by springs\, steamrolled
+  by steamrollers\, maligned by misfires\, bedeviled by bungees\, rattled b
+ y rockets\, backstabbed by bat suits\, rocked by rocket skates\, upended b
+ y unicycles\, quaked by quake pills\, rubberized by rogue bands\, and hurl
+ ed headlong off every cliff in the Southwest\, Wile E. Coyote (Genius) fin
+ ally fights back. Teaming up with billboard accident lawyer Kevin Avery (W
+ ill Forte)\, he takes on slick corporate counsel Buddy Crane (John Cena) a
+ nd ACME\, Inc.\, the profit-obsessed conglomerate behind every one of the 
+ Coyote’s chaotic catastrophes.\nhttps://www.westnewtoncinema.com/movie/c
+ oyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:113bab8653cde53dc2fed672cc4be19365feffa7@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T210000Z
+DTEND:20260928T230000Z
+SUMMARY:You Had to Be There
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:20pm\nMartin Short\, Eugene Levy\, Gilda Radner\
+ , Victor Garber\, Paul Shaffer\, and other entertainment icons got their s
+ tart in a 1972 Toronto production of the musical Godspell. Featuring inter
+ views with the surviving cast members\, Lin-Manuel Miranda\, Mike Myers\, 
+ and more\, the film recounts a pivotal moment in comedy history\, in hilar
+ ious\, moving\, and inspiring detail. Executive produced by Judd Apatow.\n
+ https://www.westnewtoncinema.com/movie/you-had-to-be-there\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/you-had-to-be-there
+END:VEVENT
+BEGIN:VEVENT
+UID:5000bd887cacc85cf3df2c416bc33515fd82c487@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T212000Z
+DTEND:20260928T232000Z
+SUMMARY:Primetime
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5:20pm\, 7:40pm\nIn 2006\, To Catch a Predator host Chri
+ s Hansen sets out to make television history.\nhttps://www.westnewtoncinem
+ a.com/movie/primetime\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:e8527554778b483e097d927c3f661cc9cb652ffa@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260928T230000Z
+DTEND:20260929T010000Z
+SUMMARY:Tony
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:A 19-year-old Anthony Bourdain travels to Provincetown and stum
+ bles into the chaotic world of a restaurant kitchen\, setting off a summer
+  that will shape the course of his life.\nhttps://www.westnewtoncinema.com
+ /movie/tony\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:d2272c0675853e5a3d54f16b9326871f240eda18@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T201500Z
+DTEND:20260929T221500Z
+SUMMARY:Ha-Chan\, Shake Your Booty!
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:15pm\, 7pm\nHaru and Luis love competing in Tokyo’s 
+ ballroom dance scene\, but after tragedy strikes\, Haru withdraws into iso
+ lation. When friends coax her back to the studio\, she develops an infatua
+ tion with the new instructor. She must face what comes next as sparks fly.
+ \nhttps://www.westnewtoncinema.com/movie/ha-chan-shake-your-booty\nFrom Pu
+ shpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/ha-chan-shake-your-booty
+END:VEVENT
+BEGIN:VEVENT
+UID:350294a9598ce40b7f71ff079c0c78d2f9a666cb@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T203000Z
+DTEND:20260929T223000Z
+SUMMARY:Forgotten Island
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:30pm\, 7pm\nWhile celebrating their last night togethe
+ r\, Jo and Raissa stumble upon a mysterious portal that transports them to
+  the fantastical island of Nakali\, packed with magical and mythological c
+ reatures they grew up hearing stories about from their Filipino families.\
+ nhttps://www.westnewtoncinema.com/movie/forgotten-island\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:243834531b8eb25f5a539995df90858f5056bb8a@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T204500Z
+DTEND:20260929T224500Z
+SUMMARY:Filipiñana
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Amid stifling heat and pervasive drought\, Isabel (Jorrybell Ag
+ oto)\, a 17-year-old Ilokana from the rural north\, works at a posh countr
+ y club outside Manila\, lining up golf balls for powerful men to drive int
+ o the verdant horizon. New to the job\, she wanders the immaculate grounds
+  sampling its luxuries as members\, including an industrialist and his exp
+ atriate niece\, the club president and his pampered wife\, and a slew of C
+ hinese tourists\, engage in a complex dance with the club’s doting and s
+ ubservient staff. But something is rotting beneath the pristine fairways o
+ f the elite resort\, as Isabel discovers when she tries to return a mislai
+ d golf club to its patriarchal director\, Dr. Palanca (Teroy Guzman). The 
+ deeper she journeys into its most exclusive corners\, the closer she gets 
+ to the violent truths of the club\, her native Philippines\, and her own p
+ ast..\nhttps://www.westnewtoncinema.com/movie/filipiana\nFrom Pushpin Bost
+ on: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/filipiana
+END:VEVENT
+BEGIN:VEVENT
+UID:b0cc363d904e2c124d9f90ab1e721675b627b98c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T210000Z
+DTEND:20260929T230000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:15pm\nAfter decades of being blown to bits by bo
+ mbs\, demolished by dynamite\, mangled by magnets\, battered by boulders\,
+  trampled by trains\, tricked by tunnels\, sprung by springs\, steamrolled
+  by steamrollers\, maligned by misfires\, bedeviled by bungees\, rattled b
+ y rockets\, backstabbed by bat suits\, rocked by rocket skates\, upended b
+ y unicycles\, quaked by quake pills\, rubberized by rogue bands\, and hurl
+ ed headlong off every cliff in the Southwest\, Wile E. Coyote (Genius) fin
+ ally fights back. Teaming up with billboard accident lawyer Kevin Avery (W
+ ill Forte)\, he takes on slick corporate counsel Buddy Crane (John Cena) a
+ nd ACME\, Inc.\, the profit-obsessed conglomerate behind every one of the 
+ Coyote’s chaotic catastrophes.\nhttps://www.westnewtoncinema.com/movie/c
+ oyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:d732d975bf7c9f8c383a50a4a0fc904bb6b4b000@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T210000Z
+DTEND:20260929T230000Z
+SUMMARY:You Had to Be There
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:20pm\nMartin Short\, Eugene Levy\, Gilda Radner\
+ , Victor Garber\, Paul Shaffer\, and other entertainment icons got their s
+ tart in a 1972 Toronto production of the musical Godspell. Featuring inter
+ views with the surviving cast members\, Lin-Manuel Miranda\, Mike Myers\, 
+ and more\, the film recounts a pivotal moment in comedy history\, in hilar
+ ious\, moving\, and inspiring detail. Executive produced by Judd Apatow.\n
+ https://www.westnewtoncinema.com/movie/you-had-to-be-there\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/you-had-to-be-there
+END:VEVENT
+BEGIN:VEVENT
+UID:c779db2b55f230f509af77ac26fa4cbc4e7e5be9@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T212000Z
+DTEND:20260929T232000Z
+SUMMARY:Primetime
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5:20pm\, 7:40pm\nIn 2006\, To Catch a Predator host Chri
+ s Hansen sets out to make television history.\nhttps://www.westnewtoncinem
+ a.com/movie/primetime\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:3dc62d32d82d68d2fbd62ec32ae9f47c8c5448cc@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260929T230000Z
+DTEND:20260930T010000Z
+SUMMARY:Tony
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:A 19-year-old Anthony Bourdain travels to Provincetown and stum
+ bles into the chaotic world of a restaurant kitchen\, setting off a summer
+  that will shape the course of his life.\nhttps://www.westnewtoncinema.com
+ /movie/tony\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:3bcbeb4cab40ade927f9a57e062ca055547f1cae@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T201500Z
+DTEND:20260930T221500Z
+SUMMARY:Ha-Chan\, Shake Your Booty!
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:15pm\, 7pm\nHaru and Luis love competing in Tokyo’s 
+ ballroom dance scene\, but after tragedy strikes\, Haru withdraws into iso
+ lation. When friends coax her back to the studio\, she develops an infatua
+ tion with the new instructor. She must face what comes next as sparks fly.
+ \nhttps://www.westnewtoncinema.com/movie/ha-chan-shake-your-booty\nFrom Pu
+ shpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/ha-chan-shake-your-booty
+END:VEVENT
+BEGIN:VEVENT
+UID:4d01e63190cfc6c9d1c7a2054fca73429532772b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T203000Z
+DTEND:20260930T223000Z
+SUMMARY:Forgotten Island
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:30pm\, 7pm\nWhile celebrating their last night togethe
+ r\, Jo and Raissa stumble upon a mysterious portal that transports them to
+  the fantastical island of Nakali\, packed with magical and mythological c
+ reatures they grew up hearing stories about from their Filipino families.\
+ nhttps://www.westnewtoncinema.com/movie/forgotten-island\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:cd0447c7121d6b4c5918bf4c50ca307c32573d46@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T204500Z
+DTEND:20260930T224500Z
+SUMMARY:Filipiñana
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Amid stifling heat and pervasive drought\, Isabel (Jorrybell Ag
+ oto)\, a 17-year-old Ilokana from the rural north\, works at a posh countr
+ y club outside Manila\, lining up golf balls for powerful men to drive int
+ o the verdant horizon. New to the job\, she wanders the immaculate grounds
+  sampling its luxuries as members\, including an industrialist and his exp
+ atriate niece\, the club president and his pampered wife\, and a slew of C
+ hinese tourists\, engage in a complex dance with the club’s doting and s
+ ubservient staff. But something is rotting beneath the pristine fairways o
+ f the elite resort\, as Isabel discovers when she tries to return a mislai
+ d golf club to its patriarchal director\, Dr. Palanca (Teroy Guzman). The 
+ deeper she journeys into its most exclusive corners\, the closer she gets 
+ to the violent truths of the club\, her native Philippines\, and her own p
+ ast..\nhttps://www.westnewtoncinema.com/movie/filipiana\nFrom Pushpin Bost
+ on: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/filipiana
+END:VEVENT
+BEGIN:VEVENT
+UID:9a095d459c51c11a0c98ecce94e074daade402ef@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T210000Z
+DTEND:20260930T230000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:After decades of being blown to bits by bombs\, demolished by d
+ ynamite\, mangled by magnets\, battered by boulders\, trampled by trains\,
+  tricked by tunnels\, sprung by springs\, steamrolled by steamrollers\, ma
+ ligned by misfires\, bedeviled by bungees\, rattled by rockets\, backstabb
+ ed by bat suits\, rocked by rocket skates\, upended by unicycles\, quaked 
+ by quake pills\, rubberized by rogue bands\, and hurled headlong off every
+  cliff in the Southwest\, Wile E. Coyote (Genius) finally fights back. Tea
+ ming up with billboard accident lawyer Kevin Avery (Will Forte)\, he takes
+  on slick corporate counsel Buddy Crane (John Cena) and ACME\, Inc.\, the 
+ profit-obsessed conglomerate behind every one of the Coyote’s chaotic ca
+ tastrophes.\nhttps://www.westnewtoncinema.com/movie/coyote-vs-acme\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:8c7aee515dd7948ab95e44f484a869cdcaadfe44@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T210000Z
+DTEND:20260930T230000Z
+SUMMARY:You Had to Be There
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Martin Short\, Eugene Levy\, Gilda Radner\, Victor Garber\, Pau
+ l Shaffer\, and other entertainment icons got their start in a 1972 Toront
+ o production of the musical Godspell. Featuring interviews with the surviv
+ ing cast members\, Lin-Manuel Miranda\, Mike Myers\, and more\, the film r
+ ecounts a pivotal moment in comedy history\, in hilarious\, moving\, and i
+ nspiring detail. Executive produced by Judd Apatow.\nhttps://www.westnewto
+ ncinema.com/movie/you-had-to-be-there\nFrom Pushpin Boston: https://pushpi
+ n.city/boston/
+URL:https://www.westnewtoncinema.com/movie/you-had-to-be-there
+END:VEVENT
+BEGIN:VEVENT
+UID:cb58ab4ed942fa9a72c62f92f9b94361a3fb72a4@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T212000Z
+DTEND:20260930T232000Z
+SUMMARY:Primetime
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5:20pm\, 7:40pm\nIn 2006\, To Catch a Predator host Chri
+ s Hansen sets out to make television history.\nhttps://www.westnewtoncinem
+ a.com/movie/primetime\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:4f26b88f89fb91ecf2ade239c93e9a6a27bf4e63@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20260930T230000Z
+DTEND:20261001T010000Z
+SUMMARY:Tony
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:A 19-year-old Anthony Bourdain travels to Provincetown and stum
+ bles into the chaotic world of a restaurant kitchen\, setting off a summer
+  that will shape the course of his life.\nhttps://www.westnewtoncinema.com
+ /movie/tony\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/tony
+END:VEVENT
+BEGIN:VEVENT
+UID:a5126d798da8625577fdcf3392ea0912afa6ee41@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T201500Z
+DTEND:20261001T221500Z
+SUMMARY:Ha-Chan\, Shake Your Booty!
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:15pm\, 7pm\nHaru and Luis love competing in Tokyo’s 
+ ballroom dance scene\, but after tragedy strikes\, Haru withdraws into iso
+ lation. When friends coax her back to the studio\, she develops an infatua
+ tion with the new instructor. She must face what comes next as sparks fly.
+ \nhttps://www.westnewtoncinema.com/movie/ha-chan-shake-your-booty\nFrom Pu
+ shpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/ha-chan-shake-your-booty
+END:VEVENT
+BEGIN:VEVENT
+UID:fa3a6b517a76c4159d43b6e719a648f3a1e5730e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T203000Z
+DTEND:20261001T223000Z
+SUMMARY:Forgotten Island
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:30pm\, 7:15pm\nWhile celebrating their last night toge
+ ther\, Jo and Raissa stumble upon a mysterious portal that transports them
+  to the fantastical island of Nakali\, packed with magical and mythologica
+ l creatures they grew up hearing stories about from their Filipino familie
+ s.\nhttps://www.westnewtoncinema.com/movie/forgotten-island\nFrom Pushpin 
+ Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:80d9da1bbfb4aa54a7fd222c6d3f571e19e33d9e@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T204500Z
+DTEND:20261001T224500Z
+SUMMARY:Filipiñana
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Amid stifling heat and pervasive drought\, Isabel (Jorrybell Ag
+ oto)\, a 17-year-old Ilokana from the rural north\, works at a posh countr
+ y club outside Manila\, lining up golf balls for powerful men to drive int
+ o the verdant horizon. New to the job\, she wanders the immaculate grounds
+  sampling its luxuries as members\, including an industrialist and his exp
+ atriate niece\, the club president and his pampered wife\, and a slew of C
+ hinese tourists\, engage in a complex dance with the club’s doting and s
+ ubservient staff. But something is rotting beneath the pristine fairways o
+ f the elite resort\, as Isabel discovers when she tries to return a mislai
+ d golf club to its patriarchal director\, Dr. Palanca (Teroy Guzman). The 
+ deeper she journeys into its most exclusive corners\, the closer she gets 
+ to the violent truths of the club\, her native Philippines\, and her own p
+ ast..\nhttps://www.westnewtoncinema.com/movie/filipiana\nFrom Pushpin Bost
+ on: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/filipiana
+END:VEVENT
+BEGIN:VEVENT
+UID:168abce8a82baf5eb8dbde5fda5590dfbdd51c27@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T210000Z
+DTEND:20261001T230000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:15pm\nAfter decades of being blown to bits by bo
+ mbs\, demolished by dynamite\, mangled by magnets\, battered by boulders\,
+  trampled by trains\, tricked by tunnels\, sprung by springs\, steamrolled
+  by steamrollers\, maligned by misfires\, bedeviled by bungees\, rattled b
+ y rockets\, backstabbed by bat suits\, rocked by rocket skates\, upended b
+ y unicycles\, quaked by quake pills\, rubberized by rogue bands\, and hurl
+ ed headlong off every cliff in the Southwest\, Wile E. Coyote (Genius) fin
+ ally fights back. Teaming up with billboard accident lawyer Kevin Avery (W
+ ill Forte)\, he takes on slick corporate counsel Buddy Crane (John Cena) a
+ nd ACME\, Inc.\, the profit-obsessed conglomerate behind every one of the 
+ Coyote’s chaotic catastrophes.\nhttps://www.westnewtoncinema.com/movie/c
+ oyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:79b525a90cfc7f103b7891359cc55a48b0c2f982@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T210000Z
+DTEND:20261001T230000Z
+SUMMARY:You Had to Be There
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:20pm\nMartin Short\, Eugene Levy\, Gilda Radner\
+ , Victor Garber\, Paul Shaffer\, and other entertainment icons got their s
+ tart in a 1972 Toronto production of the musical Godspell. Featuring inter
+ views with the surviving cast members\, Lin-Manuel Miranda\, Mike Myers\, 
+ and more\, the film recounts a pivotal moment in comedy history\, in hilar
+ ious\, moving\, and inspiring detail. Executive produced by Judd Apatow.\n
+ https://www.westnewtoncinema.com/movie/you-had-to-be-there\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/you-had-to-be-there
+END:VEVENT
+BEGIN:VEVENT
+UID:534ee3eb7a437ea04fdc2fcd26259d2ca0a312ae@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T212000Z
+DTEND:20261001T232000Z
+SUMMARY:Primetime
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5:20pm\, 7:40pm\nIn 2006\, To Catch a Predator host Chri
+ s Hansen sets out to make television history.\nhttps://www.westnewtoncinem
+ a.com/movie/primetime\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:abb9be55807ee16ed9fbaf778024c63d6c5c9d8b@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261001T230000Z
+DTEND:20261002T010000Z
+SUMMARY:Director Spotlight: Situations
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Join us on October 1 to watch SITUATIONS and stay after for a Q
+ &A with the Director\, Greg Vrotsos.\nhttps://www.westnewtoncinema.com/mov
+ ie/director-spotlight-situations\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.westnewtoncinema.com/movie/director-spotlight-situations
+END:VEVENT
+BEGIN:VEVENT
+UID:d542174a9dd6369ca1990c32f707df1d83595bfb@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261002T223000Z
+DTEND:20261003T003000Z
+SUMMARY:THE AIRWAVES BELONGED TO THE PEOPLE: WBCN AND THE
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:"I watched the movie with awe…" — Ty Burr\, The Boston Glob
+ e THE AIRWAVES BELONGED TO THE PEOPLE: WBCN AND THE AMERICAN REVOLUTION te
+ lls the story of the legendary Boston rock station that transformed broadc
+ asting through groundbreaking music\, fearless journalism\, and the counte
+ rculture that shaped a generation. Built from rare photographs\, unseen fo
+ otage\, and never-before-heard broadcasts\, the film captures WBCN-FM from
+  1968 to 1974: Bruce Springsteen's first radio interview\, Patti Smith's f
+ irst live radio broadcast\, Jane Fonda and Abbie Hoffman in the thick of t
+ he era\, and a time when three dollars got you into the Boston Tea Party t
+ o see The Who\, the Velvet Underground\, or Led Zeppelin. More than rock &
+  roll history\, it's an entertaining\, music-filled journey through journa
+ lism\, activism\, and free expression—whose themes could not be more tim
+ ely.\nhttps://www.westnewtoncinema.com/movie/the-airwaves-belonged-to-the-
+ people-wbcn-and-the\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-airwaves-belonged-to-the-peo
+ ple-wbcn-and-the
+END:VEVENT
+BEGIN:VEVENT
+UID:6b56f9e06ee133210bb79201009e87fecb19874f@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261007T223000Z
+DTEND:20261008T003000Z
+SUMMARY:BrainStorm
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:BrainStorm follows six compelling people living with bipolar on
+  their journeys from devastation to recovery. The film connects their expe
+ riences with the latest bipolar brain science to shed light on potential c
+ auses and successful treatments. The film closes with a message of hope\, 
+ showing that it is possible to thrive while living on the bipolar spectrum
+ .\nhttps://www.westnewtoncinema.com/movie/brainstorm\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/brainstorm
+END:VEVENT
+BEGIN:VEVENT
+UID:eefcf24d360a1482496b6ec3eff155039f9499c3@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261008T223000Z
+DTEND:20261009T003000Z
+SUMMARY:Ty Burr's Film Club: Bringing Up Baby
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Screwball comedy\, classic Hollywood’s most inspired inventio
+ n\, came of age in the years immediately after the Great Depression had tu
+ rned everything topsy-turvy\; consequently\, everything feels backward. Th
+ e rich are boobs\, the butlers went to Harvard\, dying girls get socked on
+  the jaw\, Cary Grant’s a nerd. Screwball inverts the accepted class str
+ ucture of American society and turns gender roles inside out\; it rockets 
+ along with a cynicism that feels both liberating and earned. And Bringing 
+ Up Baby is the most extreme and extremely funny example of the form.\nhttp
+ s://www.westnewtoncinema.com/movie/ty-burrs-film-club-bringing-up-baby\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/ty-burrs-film-club-bringing-up-b
+ aby
+END:VEVENT
+BEGIN:VEVENT
+UID:197409ae9f85400a768cb184e73637a3b8bb17b7@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261010T170000Z
+DTEND:20261010T190000Z
+SUMMARY:Tommy
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Tommy (Roger Daltrey) is a “deaf\, dumb and blind boy” whos
+ e life’s journey goes in many different directions. From sadistic cousin
+ s to Marilyn Monroe-worshiping healers\, acid queens to pinball wizards\, 
+ Tommy meets a lot of characters on his way to becoming a messiah… and th
+ ey come bearing songs.\nhttps://www.westnewtoncinema.com/movie/tommy\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/tommy
+END:VEVENT
+BEGIN:VEVENT
+UID:7b38085d1fec7c68c8788aace7cfa3cb9223be0c@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Au Revoir les Enfants
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:In 1943\, Julien is a student at a French boarding school. When
+  three new students arrive\, including Jean Bonnet\, Julien believes they 
+ are no different from the other boys. What Julien doesn't know is that the
+  boys are actually Jews who are evading capture by the Nazis. While Julien
+  doesn't care for Jean at first\, the boys develop a tight bond -- while t
+ he head of the school\, Père Jean\, works to protect the boys from the Ho
+ locaust.\nhttps://www.westnewtoncinema.com/movie/au-revoir-les-enfants\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/au-revoir-les-enfants
+END:VEVENT
+BEGIN:VEVENT
+UID:605a7bbef615c967e8cb20b04016e7862a541109@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261015T223000Z
+DTEND:20261016T003000Z
+SUMMARY:Producer's Circle: Untitled RV Family Documentary
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:As her family travels America in an RV\, teenage Leilani comes 
+ of age torn between her father’s dream of freedom and desire to live a n
+ ormal teenage life.\nhttps://www.westnewtoncinema.com/movie/producers-circ
+ le-untitled-rv-family-documentary\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://www.westnewtoncinema.com/movie/producers-circle-untitled-rv-fam
+ ily-documentary
+END:VEVENT
+BEGIN:VEVENT
+UID:016180cef34f385f35596065839148f8d018f7d6@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261016T200000Z
+DTEND:20261016T220000Z
+SUMMARY:A World of 3 Zeros
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Join us on October 16 to watch A World of 3 Zeros and stay afte
+ r for a Zoom Q&A with the Co-Directors\, Áine Clark and Michel Van Der Ve
+ ken.\nhttps://www.westnewtoncinema.com/movie/a-world-of-3-zeros\nFrom Push
+ pin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/a-world-of-3-zeros
+END:VEVENT
+BEGIN:VEVENT
+UID:e04e7f6a2c76bbab86caa009a7a0cbf8dcb532dc@pushpin.city
+DTSTAMP:20260926T213057Z
+DTSTART:20261025T170000Z
+DTEND:20261025T190000Z
+SUMMARY:Behind the Screen: Friday Night Lights
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Based on H.G. Bissinger's book\, which profiled the economicall
+ y depressed town of Odessa\, Texas and their heroic high school football t
+ eam\, The Permian High Panthers.\nhttps://www.westnewtoncinema.com/movie/b
+ ehind-the-screen-friday-night-lights\nFrom Pushpin Boston: https://pushpin
+ .city/boston/
+URL:https://www.westnewtoncinema.com/movie/behind-the-screen-friday-night-l
+ ights
+END:VEVENT
+END:VCALENDAR
