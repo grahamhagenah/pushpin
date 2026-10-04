@@ -1,0 +1,259 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · The Middle East
+X-WR-CALDESC:What’s coming up at The Middle East\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:f4269dcc61525d50a618a27234dd769c1fc792cd@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261003T210000Z
+DTEND:20261003T230000Z
+SUMMARY:Taha Gazipour
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/taha-gazipour-middle-east-corne
+ rbakery-tickets/14323584?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/taha-gazipour-middle-east-cornerbakery-
+ tickets/14323584?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:8516e8aba1c9236dd8a38289088b349cf7814553@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261003T230000Z
+DTEND:20261004T010000Z
+SUMMARY:Sub Urban\, Golden Cats
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/sub-urban-golden-cats-sonia-tic
+ kets/14821443?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: http
+ s://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/sub-urban-golden-cats-sonia-tickets/148
+ 21443?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:9874a3165586975ce55b21b3501b6ce2c3ebd1df@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T000000Z
+DTEND:20261004T020000Z
+SUMMARY:Taylor Bickett\, Corrina\, Mariam Kubursi
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/taylor-bickett-corrina-mariam-k
+ ubursi-middle-east-upstairs-tickets/14870763?pl=mideastclub&REFID=clientsi
+ tewp\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/taylor-bickett-corrina-mariam-kubursi-m
+ iddle-east-upstairs-tickets/14870763?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:4954908c8bc661545203134bf1ae2a88743a94e7@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T003000Z
+DTEND:20261004T023000Z
+SUMMARY:NOYZE\, DJ Tone Terra\, BMO the Prince
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/noyze-dj-tone-terra-bmo-middle-
+ east-downstairs-tickets/15021943?pl=mideastclub&REFID=clientsitewp\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/noyze-dj-tone-terra-bmo-middle-east-dow
+ nstairs-tickets/15021943?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:1d13c8707041ae71ac8a7aa28b7a9d285a3284ae@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T010000Z
+DTEND:20261004T030000Z
+SUMMARY:GLOBAL ENTRY
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/global-entry-middle-east-corner
+ bakery-tickets/14031924?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/global-entry-middle-east-cornerbakery-t
+ ickets/14031924?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:5dba2c9cf03c1e8dbd49423736cd336f905f0c68@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T020000Z
+DTEND:20261004T040000Z
+SUMMARY:Disco Fatale
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/disco-fatale-middle-east-zuzu-t
+ ickets/15043953?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: ht
+ tps://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/disco-fatale-middle-east-zuzu-tickets/1
+ 5043953?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:2bd9f3a1f3de2823aeb59c31c1ed4c893ee416b9@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T210000Z
+DTEND:20261004T230000Z
+SUMMARY:Bellydance w/ Cheryl Kalilia
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/bellydance-w-cheryl-kalilia-mid
+ dle-east-cornerbakery-tickets/14059544?pl=mideastclub&REFID=clientsitewp\n
+ From Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/bellydance-w-cheryl-kalilia-middle-east
+ -cornerbakery-tickets/14059544?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:fe181675865ad5fd56632109a87c3be0f296b5b2@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T230000Z
+DTEND:20261005T010000Z
+SUMMARY:BENEFIT FOR SCRAPPY AND HIS FAMILY
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/benefit-for-scrappy-and-his-son
+ ia-tickets/14349554?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/benefit-for-scrappy-and-his-sonia-ticke
+ ts/14349554?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:128bb79656c5bbd94d0238bbedd6d75375abd4e0@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T230000Z
+DTEND:20261005T010000Z
+SUMMARY:Crystal Spiders\, Insomniac\, Mean Green\, Blood of the Earth
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/crystal-spiders-insomniac-mean-
+ green-middle-east-upstairs-tickets/14260364?pl=mideastclub&REFID=clientsit
+ ewp\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/crystal-spiders-insomniac-mean-green-mi
+ ddle-east-upstairs-tickets/14260364?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:0bb8c7b39629b34e4200caf05e36253c65b8139b@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261005T010000Z
+DTEND:20261005T030000Z
+SUMMARY:Mr. EyesLee's Playground Presents: Field Trip
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/mr-eyeslees-playground-presents
+ -field-middle-east-zuzu-tickets/14709973?pl=mideastclub&REFID=clientsitewp
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/mr-eyeslees-playground-presents-field-m
+ iddle-east-zuzu-tickets/14709973?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:b5f340a1eedc37315d241e132c2335c151265111@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261005T010000Z
+DTEND:20261005T030000Z
+SUMMARY:Rainbow Rave Presents: Quest4Color\, a Jaded Flame & Friends Releas
+ e Par
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/rainbow-rave-presents-quest4col
+ or-a-middle-east-cornerbakery-tickets/14360784?pl=mideastclub&REFID=client
+ sitewp\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/rainbow-rave-presents-quest4color-a-mid
+ dle-east-cornerbakery-tickets/14360784?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:02b06f0e6f9cce423a8f231886862eb5a3707015@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261005T230000Z
+DTEND:20261006T010000Z
+SUMMARY:The Royston Club\, Clifford
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-royston-club-clifford-middl
+ e-east-upstairs-tickets/14244674?pl=mideastclub&REFID=clientsitewp\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/the-royston-club-clifford-middle-east-u
+ pstairs-tickets/14244674?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:cdfe14344e1bd9572aeb8dd5101650229424a6de@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261006T230000Z
+DTEND:20261007T010000Z
+SUMMARY:Supersuckers\, The Rumours\, Freedloader
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/supersuckers-the-rumours-middle
+ -east-upstairs-tickets/14200414?pl=mideastclub&REFID=clientsitewp\nFrom Pu
+ shpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/supersuckers-the-rumours-middle-east-up
+ stairs-tickets/14200414?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:4467f1d9bd42d60a26d2f5845382f7ebac6723c7@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261007T013000Z
+DTEND:20261007T033000Z
+SUMMARY:Mood
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-t
+ ickets/14031704?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: ht
+ tps://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-tickets/1
+ 4031704?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:05c4403d85a485e81759c7d4bce19b71d143420e@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261007T013000Z
+DTEND:20261007T033000Z
+SUMMARY:Zach Morgan Presents: Hard Travelin’
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/zach-morgan-presents-hard-trave
+ lin-middle-east-zuzu-tickets/14330994?pl=mideastclub&REFID=clientsitewp\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/zach-morgan-presents-hard-travelin-midd
+ le-east-zuzu-tickets/14330994?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:94a352d8f91f3a72abf9e34ac2a21f86b61b1d29@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261007T230000Z
+DTEND:20261008T010000Z
+SUMMARY:Bombargo \, Fudge
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/bombargo-fudge-middle-east-upst
+ airs-tickets/14972723?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bost
+ on: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/bombargo-fudge-middle-east-upstairs-tic
+ kets/14972723?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:f2f0a29e102bacbeec81a6c59209cbb841f81b82@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261008T010000Z
+DTEND:20261008T030000Z
+SUMMARY:The Ooze\, Carlo Sine\, shrz\, Dabu
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-ooze-carlo-sine-shrz-middle
+ -east-zuzu-tickets/14020774?pl=mideastclub&REFID=clientsitewp\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/the-ooze-carlo-sine-shrz-middle-east-zu
+ zu-tickets/14020774?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:ace4be42ed8c6b852ea3c2c3aa9e43331cba442b@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261008T223000Z
+DTEND:20261009T003000Z
+SUMMARY:Cardinal Bloom – Burn the House Tour
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/cardinal-bloom-burn-middle-east
+ -upstairs-tickets/14219314?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/cardinal-bloom-burn-middle-east-upstair
+ s-tickets/14219314?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:7456498c51b18cb72d2d61b731d1e9b2894e67d8@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261008T230000Z
+DTEND:20261009T010000Z
+SUMMARY:Scenic NYC Presents: Panopticon\, Catharsis
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/scenic-nyc-presents-panopticon-
+ catharsis-sonia-tickets/14758243?pl=mideastclub&REFID=clientsitewp\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/scenic-nyc-presents-panopticon-catharsi
+ s-sonia-tickets/14758243?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

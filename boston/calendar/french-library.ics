@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · French Library
+X-WR-CALDESC:What’s coming up at French Library\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:abc5ebc64f9792d784c606dc33aad1cb67850d17@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261006T210000Z
+DTEND:20261006T230000Z
+SUMMARY:May ‘68 in Posters: Art\, Protest\, and Ideas
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Discover the art and aspirations of May ’68 through original 
+ protest posters on view in our gallery. Curated by Emily Ternynck\, this e
+ xhibition explores a movement that challenged authority and imagined a new
+  society.\nhttps://frenchlibrary.org/events/poster-exhibit-may-68-2026/\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://frenchlibrary.org/events/poster-exhibit-may-68-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:247a9db845b69b433868c50cdaf4cba57b25af09@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261006T223000Z
+DTEND:20261007T003000Z
+SUMMARY:The Frenchmen: French Theory from Paris to America
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Join critic and essayist Emily Eakin and MIT professor Bruno Pe
+ rreau for a lively conversation about The Frenchmen and how French theory 
+ captivated America\, transformed intellectual life\, and continues to shap
+ e today’s culture wars.\nhttps://frenchlibrary.org/events/the-frenchmen-
+ eakin-perreau-2026/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://frenchlibrary.org/events/the-frenchmen-eakin-perreau-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:cd998218a35dcd4397d764531ad6f0981b953be7@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261013T220000Z
+DTEND:20261014T000000Z
+SUMMARY:Ciné-Club: Maigret and the Dead Lover by Pascal Bonitzer
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Pascal Bonitzer takes on one of France’s most beloved charact
+ ers\, Inspector Maigret\, portrayed by the equally legendary Denis Podalyd
+ ès.\nhttps://frenchlibrary.org/events/maigret-pascal-bonizter-2026/\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://frenchlibrary.org/events/maigret-pascal-bonizter-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:f06cdb1e1a495868cbe5578a8c946c98875eac38@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:French Voices at the Boston Book Festival
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:This exciting day of author talks offers a unique chance for re
+ aders\, literature enthusiasts\, and Francophiles to engage directly with 
+ some of today’s most celebrated French and Francophone voices\, while al
+ so honoring the art and essential role of literary translation.\nhttps://f
+ renchlibrary.org/events/boston-book-festival-2026/\nFrom Pushpin Boston: h
+ ttps://pushpin.city/boston/
+URL:https://frenchlibrary.org/events/boston-book-festival-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:eeb7223df2e7c0c78a0c2b9c63855ca8cb23411d@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261027T220000Z
+DTEND:20261028T000000Z
+SUMMARY:RESCHEDULED Picasso: The Revolutionary Artist
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Presented alongside the MFA's Picasso\, Miró\, Dalí: Unbound 
+ exhibition\, discover how Picasso transformed the course of modern art and
+  continues to inspire artists today.\nhttps://frenchlibrary.org/events/con
+ ference-picasso-cernuschi-2026/\nFrom Pushpin Boston: https://pushpin.city
+ /boston/
+URL:https://frenchlibrary.org/events/conference-picasso-cernuschi-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:6f19b736576cff56b1c8f22f06ea9b20aa6c111a@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261029T223000Z
+DTEND:20261030T003000Z
+SUMMARY:Portrait of an Unknown Woman: From a Stolen Klimt to a Literary Mys
+ tery
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Discover the story behind Camille de Peretti’s bestselling no
+ vel\, a sweeping family saga inspired by the remarkable history of a long-
+ lost Klimt painting.\nhttps://frenchlibrary.org/events/camille-de-peretti-
+ portrait-2026-2/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://frenchlibrary.org/events/camille-de-peretti-portrait-2026-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:634826e2432d7d73ea47f2b321f00f9592386935@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261030T220000Z
+DTEND:20261031T000000Z
+SUMMARY:A Halloween Special : The Fall of the House of Usher (1928) by Jean
+  Epstein
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Experience silent cinema as it was meant to be seen\; with live
+  music.\nhttps://frenchlibrary.org/events/house-of-usher-epsein-2026/\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://frenchlibrary.org/events/house-of-usher-epsein-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Bay Area//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Bay Area · Oakland Museum
+X-WR-CALDESC:What’s coming up at Oakland Museum\, from Pushpin Bay Area.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:7e0bb85eea0d727e5a5ca4665574e6ede3f949f9@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T200000Z
+DTEND:20261004T220000Z
+SUMMARY:OMCA Architecture Walk and Talk
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Walk through OMCA’s landmark building and gardens with member
+ s of the Council on Architecture\, and learn about the history\, design\, 
+ and evolution of this award-winning structure with guides who are passiona
+ te about OMCA and Oakland.\nhttps://museumca.org/event/omca-architecture-w
+ alk-and-talk-6/2026-10-04/\nFrom Pushpin Bay Area: https://pushpin.city/ba
+ yarea/
+URL:https://museumca.org/event/omca-architecture-walk-and-talk-6/2026-10-04
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:a93d35fd913e8f8344a4d2a787b718d7c85bdbc9@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261010T000000Z
+DTEND:20261010T020000Z
+SUMMARY:Friday Nights at OMCA with CHIKA DI
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Live Music by CHIKA DI\, Dance Lesson and Showcase with Hustle 
+ By The Lake\, DJ set by BLOOM\, and Gallery Chats This Friday Night at OMC
+ A\, Colombian-American singer-songwriter CHIKA DI brings her vibrant sound
+  to the Garden Stage with a high-energy bilingual performance. Blending Af
+ ro-Latin rhythms\, Cumbia pop\, electronic influences\, and heartfelt stor
+ ytelling\, her joyful set celebrates culture and connection while inviting
+  audiences to dance\, sing\, and celebrate together.\nhttps://museumca.org
+ /event/friday-nights-at-omca-with-chika-di/\nFrom Pushpin Bay Area: https:
+ //pushpin.city/bayarea/
+URL:https://museumca.org/event/friday-nights-at-omca-with-chika-di/
+END:VEVENT
+BEGIN:VEVENT
+UID:0a630a9c6730583982740a07684108db633565b6@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261017T000000Z
+DTEND:20261017T020000Z
+SUMMARY:Friday Nights at OMCA with MacArthur Maze | 60th Anniversary of the
+  Black Panther Party
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Live Performance by MacArthur Maze\, Music Set by DJ Black Woma
+ n™\, Live Figure Drawing with Sketchboard Co.\, and Gallery Chats This F
+ riday Night at OMCA\, the Museum is excited to be part of a series of prog
+ ramming celebrating the 60th Anniversary of the Black Panther Party\, brin
+ ging together music\, film\, storytelling\, and community throughout the e
+ vening. On the Garden Stage\, East Bay Hip-Hop ensemble MacArthur Maze tak
+ es the stage. Featuring four emcees and special guests Loove Moore and DJ 
+ Kream\, the group delivers a distinctly Bay Area sound rooted in real-life
+  storytelling\, love\, and community.\nhttps://museumca.org/event/friday-n
+ ights-at-omca-with-macarthur-maze-60th-anniversary-of-the-black-panther-pa
+ rty/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/friday-nights-at-omca-with-macarthur-maze-60
+ th-anniversary-of-the-black-panther-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a45719aaf97dd24dee37b032112055b455577f2@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Spotlight Sundays: Roadsongs for Dorothea Lange
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Your browser does not support the video tag.\nhttps://museumca.
+ org/event/spotlight-sundays-roadsongs-for-dorothea-lange/\nFrom Pushpin Ba
+ y Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/spotlight-sundays-roadsongs-for-dorothea-lan
+ ge/
+END:VEVENT
+BEGIN:VEVENT
+UID:73c306cb469403324a681fadd3fee1ac4b49d331@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261024T000000Z
+DTEND:20261024T020000Z
+SUMMARY:Friday Nights at OMCA with DATANAGAN
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Live Music by DATANAGAN\, DJ Set by MAMA SAN\, K-Pop Dance Less
+ on with Ronnie\, Community Tabling: YOUth Decide\, and Gallery Chats Frida
+ y Nights at OMCA brings a fresh\, genre-fluid sound to the Garden Stage as
+  Bay Area singer-songwriter Victoria Datanagan leads DATANAGAN in an elect
+ ric live performance of all-original music. Blending raw\, melodic storyte
+ lling with a massive\, danceable sound\, the Filipina artist creates a com
+ munal and deeply alive experience that invites audiences to connect\, move
+ \, and let loose.\nhttps://museumca.org/event/friday-nights-at-omca-with-d
+ atanagan/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/friday-nights-at-omca-with-datanagan/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d47622b63dea378988fe36833401c0383866e41@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+SUMMARY:32nd Annual Día de los Muertos Community Celebration
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Your browser does not support the video tag.\nhttps://museumca.
+ org/event/32nd-annual-dia-de-los-muertos-community-celebration/\nFrom Push
+ pin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/32nd-annual-dia-de-los-muertos-community-cel
+ ebration/
+END:VEVENT
+BEGIN:VEVENT
+UID:d774b149e048e3ffbfa3719aff6485544fe48b19@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:Special Guest Gallery Chat with Traditional Medicine Practitioner B
+ atul True Heart
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Special Guest Gallery Chat with Traditional Medicine Practition
+ er Batul True Heart As part of this year’s Día de los Muertos Community
+  Celebration\, come sit with Batul True Heart (they/them) in OMCA’s Gall
+ ery of Natural Science as they share their personal experience of practici
+ ng traditional medicine in times of mourning. In this 30-minute talk\, Bat
+ ul will speak about what has brought them to the path of earth-based ances
+ tral medicine\, and what has been most supportive for them during times of
+  deep emotional pain. You will learn about feelings from an Indigenous per
+ spective and gain practical ways to connect with emotions\, the earth\, an
+ d all the elements. Honoring the traditions and practices of Día de los M
+ uertos\, Batul will also introduce their favorite flower\, cempoalxóchitl
+ \, and how to work with it when grieving.\nhttps://museumca.org/event/spec
+ ial-guest-gallery-chat-with-traditional-medicine-practitioner-batul-true-h
+ eart/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/special-guest-gallery-chat-with-traditional-
+ medicine-practitioner-batul-true-heart/
+END:VEVENT
+BEGIN:VEVENT
+UID:e95bfd7fd4efdeb0b6384367ebe70c476a1e26cd@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261031T000000Z
+DTEND:20261031T020000Z
+SUMMARY:Friday Nights at OMCA with LA GENTE SF
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Live Music by LA GENTE SF\, DJ Set by mare.e.fresh\, and Galler
+ y Chats Friday Night at OMCA brings an infectious global sound to the Gard
+ en Stage as San Francisco’s LA GENTE SF delivers a high-energy live perf
+ ormance blending Cumbia\, Salsa\, and Reggaeton. Led by singer-songwriter 
+ Rafa Sarria Bustamante\, the group fuses rhythms and cultural influences f
+ rom across Latin America and the Caribbean with a distinct San Francisco f
+ lavor\, creating a joyful dance party that brings audiences together.\nhtt
+ ps://museumca.org/event/friday-nights-at-omca-with-la-gente-sf/\nFrom Push
+ pin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/friday-nights-at-omca-with-la-gente-sf/
+END:VEVENT
+BEGIN:VEVENT
+UID:79a016f99986bd3dfd5b76d61e568b524c26f646@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261101T210000Z
+DTEND:20261101T230000Z
+SUMMARY:OMCA Architecture Walk and Talk
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Walk through OMCA’s landmark building and gardens with member
+ s of the Council on Architecture\, and learn about the history\, design\, 
+ and evolution of this award-winning structure with guides who are passiona
+ te about OMCA and Oakland.\nhttps://museumca.org/event/omca-architecture-w
+ alk-and-talk-6/2026-11-01/\nFrom Pushpin Bay Area: https://pushpin.city/ba
+ yarea/
+URL:https://museumca.org/event/omca-architecture-walk-and-talk-6/2026-11-01
+ /
+END:VEVENT
+END:VCALENDAR

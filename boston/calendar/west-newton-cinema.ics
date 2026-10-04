@@ -1,0 +1,661 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · West Newton Cinema
+X-WR-CALDESC:What’s coming up at West Newton Cinema\, from Pushpin Boston
+ .
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:8da356eb30513e1274092f234d2bad55b695951e@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T141500Z
+DTEND:20261004T161500Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 10:15am\, 12:45pm\, 3:20pm\, 5:30pm\, 7:40pm\nAfter deca
+ des of being blown to bits by bombs\, demolished by dynamite\, mangled by 
+ magnets\, battered by boulders\, trampled by trains\, tricked by tunnels\,
+  sprung by springs\, steamrolled by steamrollers\, maligned by misfires\, 
+ bedeviled by bungees\, rattled by rockets\, backstabbed by bat suits\, roc
+ ked by rocket skates\, upended by unicycles\, quaked by quake pills\, rubb
+ erized by rogue bands\, and hurled headlong off every cliff in the Southwe
+ st\, Wile E. Coyote (Genius) finally fights back. Teaming up with billboar
+ d accident lawyer Kevin Avery (Will Forte)\, he takes on slick corporate c
+ ounsel Buddy Crane (John Cena) and ACME\, Inc.\, the profit-obsessed congl
+ omerate behind every one of the Coyote’s chaotic catastrophes.\nhttps://
+ www.westnewtoncinema.com/movie/coyote-vs-acme\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:5102c93e8091dc7bec2494a396bd13ab2f54199e@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T141500Z
+DTEND:20261004T161500Z
+SUMMARY:The Incomer
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 10:15am\, 12:30pm\, 2:45pm\, 5pm\, 7:20pm\nOn an Orkney 
+ isle\, siblings Isla and Sandy hunt birds and talk to mythical beings whil
+ e fighting off outsiders. Their lives change when Daniel\, an awkward offi
+ cial\, arrives to relocate them.\nhttps://www.westnewtoncinema.com/movie/t
+ he-incomer\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-incomer
+END:VEVENT
+BEGIN:VEVENT
+UID:08c5b6081b24392501b939c39f262c62e83b5723@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T143000Z
+DTEND:20261004T163000Z
+SUMMARY:Forgotten Island
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 10:30am\, 3pm\, 5:20pm\nWhile celebrating their last nig
+ ht together\, Jo and Raissa stumble upon a mysterious portal that transpor
+ ts them to the fantastical island of Nakali\, packed with magical and myth
+ ological creatures they grew up hearing stories about from their Filipino 
+ families.\nhttps://www.westnewtoncinema.com/movie/forgotten-island\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:9dac4ce7eda844b264562f491fca5298ad7f43c5@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T143000Z
+DTEND:20261004T163000Z
+SUMMARY:Primetime
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 10:30am\, 1:30pm\, 7:30pm\nIn 2006\, To Catch a Predator
+  host Chris Hansen sets out to make television history.\nhttps://www.westn
+ ewtoncinema.com/movie/primetime\nFrom Pushpin Boston: https://pushpin.city
+ /boston/
+URL:https://www.westnewtoncinema.com/movie/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:86da72bdfbc1c57cd4f605bdc4aa531b409d3387@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T143000Z
+DTEND:20261004T163000Z
+SUMMARY:The History of Concrete
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 10:30am\, 12:45pm\, 3pm\, 5:15pm\, 7:30pm\nA filmmaker a
+ pplies lessons from a Hallmark movie writing workshop to pitch a documenta
+ ry about concrete.\nhttps://www.westnewtoncinema.com/movie/the-history-of-
+ concrete\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:dcd0434c347b1ffe3911f735d6595adb6b412a10@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T170000Z
+DTEND:20261004T190000Z
+SUMMARY:Digger
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 1pm\, 4pm\, 7pm\nThe most powerful man in the world emba
+ rks on a frantic mission to prove he is humanity's saviour before the disa
+ ster he’s unleashed destroys everything.\nhttps://www.westnewtoncinema.c
+ om/movie/digger\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/digger
+END:VEVENT
+BEGIN:VEVENT
+UID:824109b3d76e0ca37968a54457e15239dd46b6ba@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T234000Z
+DTEND:20261005T014000Z
+SUMMARY:Situations
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Three months after a painful breakup\, a Los Angeles based phot
+ ographer drifts through Silverlake’s creative chaos—dodging well-meani
+ ng friends\, career pressures\, and fleeting flings—until an unexpected 
+ connection forces him to confront what he truly wants from love\, art\, an
+ d himself.\nhttps://www.westnewtoncinema.com/movie/situations\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/situations
+END:VEVENT
+BEGIN:VEVENT
+UID:0dae77aaf1f288fda41ec68b9d590aecf5ad1d1c@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261005T200000Z
+DTEND:20261005T220000Z
+SUMMARY:Digger
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4pm\, 7pm\nThe most powerful man in the world embarks on
+  a frantic mission to prove he is humanity's saviour before the disaster h
+ e’s unleashed destroys everything.\nhttps://www.westnewtoncinema.com/mov
+ ie/digger\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/digger
+END:VEVENT
+BEGIN:VEVENT
+UID:30720d945f3cf203d44e8ee93c10200044b2943b@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261005T203000Z
+DTEND:20261005T223000Z
+SUMMARY:Forgotten Island
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:While celebrating their last night together\, Jo and Raissa stu
+ mble upon a mysterious portal that transports them to the fantastical isla
+ nd of Nakali\, packed with magical and mythological creatures they grew up
+  hearing stories about from their Filipino families.\nhttps://www.westnewt
+ oncinema.com/movie/forgotten-island\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://www.westnewtoncinema.com/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:eeee646b92f3b00c2a0d30b578eed984a5500119@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261005T204500Z
+DTEND:20261005T224500Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:45pm\, 7pm\nAfter decades of being blown to bits by bo
+ mbs\, demolished by dynamite\, mangled by magnets\, battered by boulders\,
+  trampled by trains\, tricked by tunnels\, sprung by springs\, steamrolled
+  by steamrollers\, maligned by misfires\, bedeviled by bungees\, rattled b
+ y rockets\, backstabbed by bat suits\, rocked by rocket skates\, upended b
+ y unicycles\, quaked by quake pills\, rubberized by rogue bands\, and hurl
+ ed headlong off every cliff in the Southwest\, Wile E. Coyote (Genius) fin
+ ally fights back. Teaming up with billboard accident lawyer Kevin Avery (W
+ ill Forte)\, he takes on slick corporate counsel Buddy Crane (John Cena) a
+ nd ACME\, Inc.\, the profit-obsessed conglomerate behind every one of the 
+ Coyote’s chaotic catastrophes.\nhttps://www.westnewtoncinema.com/movie/c
+ oyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:5d3e6247b5b684fb6e01a03dd0479a207d293c02@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261005T204500Z
+DTEND:20261005T224500Z
+SUMMARY:Primetime
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:45pm\, 7:30pm\nIn 2006\, To Catch a Predator host Chri
+ s Hansen sets out to make television history.\nhttps://www.westnewtoncinem
+ a.com/movie/primetime\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:323feae18dbcfad3d8f05dcf0f7df8f032b56f0f@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261005T204500Z
+DTEND:20261005T224500Z
+SUMMARY:The Incomer
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:45pm\, 7:40pm\nOn an Orkney isle\, siblings Isla and S
+ andy hunt birds and talk to mythical beings while fighting off outsiders. 
+ Their lives change when Daniel\, an awkward official\, arrives to relocate
+  them.\nhttps://www.westnewtoncinema.com/movie/the-incomer\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-incomer
+END:VEVENT
+BEGIN:VEVENT
+UID:594a924723df4e093618d58aaf81945b85262f35@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261005T210000Z
+DTEND:20261005T230000Z
+SUMMARY:The History of Concrete
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:30pm\nA filmmaker applies lessons from a Hallmar
+ k movie writing workshop to pitch a documentary about concrete.\nhttps://w
+ ww.westnewtoncinema.com/movie/the-history-of-concrete\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:4f3e216e9632d8688e7644590385158756eb9d88@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261005T230000Z
+DTEND:20261006T010000Z
+SUMMARY:Situations
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Three months after a painful breakup\, a Los Angeles based phot
+ ographer drifts through Silverlake’s creative chaos—dodging well-meani
+ ng friends\, career pressures\, and fleeting flings—until an unexpected 
+ connection forces him to confront what he truly wants from love\, art\, an
+ d himself.\nhttps://www.westnewtoncinema.com/movie/situations\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/situations
+END:VEVENT
+BEGIN:VEVENT
+UID:4e5e4ff420dee49a0b8fd8c9cf39cd50a80b9157@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261006T193000Z
+DTEND:20261006T213000Z
+SUMMARY:Digger
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 3:30pm\, 7pm\nThe most powerful man in the world embarks
+  on a frantic mission to prove he is humanity's saviour before the disaste
+ r he’s unleashed destroys everything.\nhttps://www.westnewtoncinema.com/
+ movie/digger\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/digger
+END:VEVENT
+BEGIN:VEVENT
+UID:48e92155176093a5b153e3e6c14f40fdf88a1e75@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261006T203000Z
+DTEND:20261006T223000Z
+SUMMARY:Forgotten Island
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:While celebrating their last night together\, Jo and Raissa stu
+ mble upon a mysterious portal that transports them to the fantastical isla
+ nd of Nakali\, packed with magical and mythological creatures they grew up
+  hearing stories about from their Filipino families.\nhttps://www.westnewt
+ oncinema.com/movie/forgotten-island\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://www.westnewtoncinema.com/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:8821081cdc8820bc2e1644a0d724954621d8b3e5@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261006T204500Z
+DTEND:20261006T224500Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:45pm\, 7pm\nAfter decades of being blown to bits by bo
+ mbs\, demolished by dynamite\, mangled by magnets\, battered by boulders\,
+  trampled by trains\, tricked by tunnels\, sprung by springs\, steamrolled
+  by steamrollers\, maligned by misfires\, bedeviled by bungees\, rattled b
+ y rockets\, backstabbed by bat suits\, rocked by rocket skates\, upended b
+ y unicycles\, quaked by quake pills\, rubberized by rogue bands\, and hurl
+ ed headlong off every cliff in the Southwest\, Wile E. Coyote (Genius) fin
+ ally fights back. Teaming up with billboard accident lawyer Kevin Avery (W
+ ill Forte)\, he takes on slick corporate counsel Buddy Crane (John Cena) a
+ nd ACME\, Inc.\, the profit-obsessed conglomerate behind every one of the 
+ Coyote’s chaotic catastrophes.\nhttps://www.westnewtoncinema.com/movie/c
+ oyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:e7dfcc27650b3c39f91f5faa50d267417be7b804@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261006T204500Z
+DTEND:20261006T224500Z
+SUMMARY:Primetime
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:In 2006\, To Catch a Predator host Chris Hansen sets out to mak
+ e television history.\nhttps://www.westnewtoncinema.com/movie/primetime\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:f041e75dcd0a2bab8a5dd11520e1d5203985a411@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261006T210000Z
+DTEND:20261006T230000Z
+SUMMARY:The History of Concrete
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:30pm\nA filmmaker applies lessons from a Hallmar
+ k movie writing workshop to pitch a documentary about concrete.\nhttps://w
+ ww.westnewtoncinema.com/movie/the-history-of-concrete\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:4de2279ce7a1c1867da7d0c65475d496c86ad909@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261006T210000Z
+DTEND:20261006T230000Z
+SUMMARY:The Incomer
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:30pm\nOn an Orkney isle\, siblings Isla and Sand
+ y hunt birds and talk to mythical beings while fighting off outsiders. The
+ ir lives change when Daniel\, an awkward official\, arrives to relocate th
+ em.\nhttps://www.westnewtoncinema.com/movie/the-incomer\nFrom Pushpin Bost
+ on: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-incomer
+END:VEVENT
+BEGIN:VEVENT
+UID:edf12b8b955173cdd1727210c6b2cbff70bd5fd8@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261006T223000Z
+DTEND:20261007T003000Z
+SUMMARY:Behind the Screen: Primetime
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Primetime is a 2026 American psychological crime thriller film 
+ directed by Lance Oppenheim in his narrative feature film debut. Based on 
+ the 2007 Esquire article "Tonight on Dateline This Man Will Die" by Luke D
+ ittrich\, the film follows the production of the reality television series
+  To Catch a Predator. Robert Pattinson stars as series host Chris Hansen\,
+  and also serves as a producer. Merritt Wever\, Skyler Gisondo\, and Phoeb
+ e Bridgers play supporting roles.\nhttps://www.westnewtoncinema.com/movie/
+ behind-the-screen-primetime\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://www.westnewtoncinema.com/movie/behind-the-screen-primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:ac086876a3cbfce8b951a592729ef0656748035a@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261006T230000Z
+DTEND:20261007T010000Z
+SUMMARY:Situations
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Three months after a painful breakup\, a Los Angeles based phot
+ ographer drifts through Silverlake’s creative chaos—dodging well-meani
+ ng friends\, career pressures\, and fleeting flings—until an unexpected 
+ connection forces him to confront what he truly wants from love\, art\, an
+ d himself.\nhttps://www.westnewtoncinema.com/movie/situations\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/situations
+END:VEVENT
+BEGIN:VEVENT
+UID:7b48551cb0d4fd5903b2cd8472fc001fda337d23@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261007T193000Z
+DTEND:20261007T213000Z
+SUMMARY:Digger
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 3:30pm\, 7:20pm\nThe most powerful man in the world emba
+ rks on a frantic mission to prove he is humanity's saviour before the disa
+ ster he’s unleashed destroys everything.\nhttps://www.westnewtoncinema.c
+ om/movie/digger\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/digger
+END:VEVENT
+BEGIN:VEVENT
+UID:1212dc09c398cf8c4287b60c8a4ca26bbc60e7ae@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261007T203000Z
+DTEND:20261007T223000Z
+SUMMARY:Forgotten Island
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:While celebrating their last night together\, Jo and Raissa stu
+ mble upon a mysterious portal that transports them to the fantastical isla
+ nd of Nakali\, packed with magical and mythological creatures they grew up
+  hearing stories about from their Filipino families.\nhttps://www.westnewt
+ oncinema.com/movie/forgotten-island\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://www.westnewtoncinema.com/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:46867737391ac7848a0a25a81a080a5a224870cd@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261007T204500Z
+DTEND:20261007T224500Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:45pm\, 7pm\nAfter decades of being blown to bits by bo
+ mbs\, demolished by dynamite\, mangled by magnets\, battered by boulders\,
+  trampled by trains\, tricked by tunnels\, sprung by springs\, steamrolled
+  by steamrollers\, maligned by misfires\, bedeviled by bungees\, rattled b
+ y rockets\, backstabbed by bat suits\, rocked by rocket skates\, upended b
+ y unicycles\, quaked by quake pills\, rubberized by rogue bands\, and hurl
+ ed headlong off every cliff in the Southwest\, Wile E. Coyote (Genius) fin
+ ally fights back. Teaming up with billboard accident lawyer Kevin Avery (W
+ ill Forte)\, he takes on slick corporate counsel Buddy Crane (John Cena) a
+ nd ACME\, Inc.\, the profit-obsessed conglomerate behind every one of the 
+ Coyote’s chaotic catastrophes.\nhttps://www.westnewtoncinema.com/movie/c
+ oyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:6eb2aa3658935b6c4610c2eaba554b2385cf874d@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261007T204500Z
+DTEND:20261007T224500Z
+SUMMARY:Primetime
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:45pm\, 7:30pm\nIn 2006\, To Catch a Predator host Chri
+ s Hansen sets out to make television history.\nhttps://www.westnewtoncinem
+ a.com/movie/primetime\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:27b980bdce493837e7d1a4726dfdebf5bde63dde@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261007T210000Z
+DTEND:20261007T230000Z
+SUMMARY:The History of Concrete
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:30pm\nA filmmaker applies lessons from a Hallmar
+ k movie writing workshop to pitch a documentary about concrete.\nhttps://w
+ ww.westnewtoncinema.com/movie/the-history-of-concrete\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:78a87c0f0696ae1ce7d421083bacf68e823f87a7@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261007T211500Z
+DTEND:20261007T231500Z
+SUMMARY:The Incomer
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5:15pm\, 7:40pm\nOn an Orkney isle\, siblings Isla and S
+ andy hunt birds and talk to mythical beings while fighting off outsiders. 
+ Their lives change when Daniel\, an awkward official\, arrives to relocate
+  them.\nhttps://www.westnewtoncinema.com/movie/the-incomer\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-incomer
+END:VEVENT
+BEGIN:VEVENT
+UID:6b56f9e06ee133210bb79201009e87fecb19874f@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261007T223000Z
+DTEND:20261008T003000Z
+SUMMARY:BrainStorm
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:BrainStorm follows six compelling people living with bipolar on
+  their journeys from devastation to recovery. The film connects their expe
+ riences with the latest bipolar brain science to shed light on potential c
+ auses and successful treatments. The film closes with a message of hope\, 
+ showing that it is possible to thrive while living on the bipolar spectrum
+ .\nhttps://www.westnewtoncinema.com/movie/brainstorm\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/brainstorm
+END:VEVENT
+BEGIN:VEVENT
+UID:8f32f10916fe4722473318727cb565aaa9f2e61f@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261008T193000Z
+DTEND:20261008T213000Z
+SUMMARY:Digger
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 3:30pm\, 7:20pm\nThe most powerful man in the world emba
+ rks on a frantic mission to prove he is humanity's saviour before the disa
+ ster he’s unleashed destroys everything.\nhttps://www.westnewtoncinema.c
+ om/movie/digger\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/digger
+END:VEVENT
+BEGIN:VEVENT
+UID:8b42575387ac5d3621021b7b7c9918cee77472b1@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261008T203000Z
+DTEND:20261008T223000Z
+SUMMARY:Forgotten Island
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:While celebrating their last night together\, Jo and Raissa stu
+ mble upon a mysterious portal that transports them to the fantastical isla
+ nd of Nakali\, packed with magical and mythological creatures they grew up
+  hearing stories about from their Filipino families.\nhttps://www.westnewt
+ oncinema.com/movie/forgotten-island\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://www.westnewtoncinema.com/movie/forgotten-island
+END:VEVENT
+BEGIN:VEVENT
+UID:6d1d57a06fe863982915969944167e8c2546a985@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261008T204500Z
+DTEND:20261008T224500Z
+SUMMARY:Primetime
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:45pm\, 7:30pm\nIn 2006\, To Catch a Predator host Chri
+ s Hansen sets out to make television history.\nhttps://www.westnewtoncinem
+ a.com/movie/primetime\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:bcafafb5fc5e918296de61a4ce0cd6737d1ebac4@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261008T210000Z
+DTEND:20261008T230000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:20pm\nAfter decades of being blown to bits by bo
+ mbs\, demolished by dynamite\, mangled by magnets\, battered by boulders\,
+  trampled by trains\, tricked by tunnels\, sprung by springs\, steamrolled
+  by steamrollers\, maligned by misfires\, bedeviled by bungees\, rattled b
+ y rockets\, backstabbed by bat suits\, rocked by rocket skates\, upended b
+ y unicycles\, quaked by quake pills\, rubberized by rogue bands\, and hurl
+ ed headlong off every cliff in the Southwest\, Wile E. Coyote (Genius) fin
+ ally fights back. Teaming up with billboard accident lawyer Kevin Avery (W
+ ill Forte)\, he takes on slick corporate counsel Buddy Crane (John Cena) a
+ nd ACME\, Inc.\, the profit-obsessed conglomerate behind every one of the 
+ Coyote’s chaotic catastrophes.\nhttps://www.westnewtoncinema.com/movie/c
+ oyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:0b2eea6b7187f7fe88a666ace50c9c67f64b6d9b@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261008T210000Z
+DTEND:20261008T230000Z
+SUMMARY:The History of Concrete
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:30pm\nA filmmaker applies lessons from a Hallmar
+ k movie writing workshop to pitch a documentary about concrete.\nhttps://w
+ ww.westnewtoncinema.com/movie/the-history-of-concrete\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:c4082eb87aa94ccc1b658cf07160d9394445f3ef@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261008T211500Z
+DTEND:20261008T231500Z
+SUMMARY:The Incomer
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5:15pm\, 7:40pm\nOn an Orkney isle\, siblings Isla and S
+ andy hunt birds and talk to mythical beings while fighting off outsiders. 
+ Their lives change when Daniel\, an awkward official\, arrives to relocate
+  them.\nhttps://www.westnewtoncinema.com/movie/the-incomer\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-incomer
+END:VEVENT
+BEGIN:VEVENT
+UID:eefcf24d360a1482496b6ec3eff155039f9499c3@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261008T223000Z
+DTEND:20261009T003000Z
+SUMMARY:Ty Burr's Film Club: Bringing Up Baby
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Screwball comedy\, classic Hollywood’s most inspired inventio
+ n\, came of age in the years immediately after the Great Depression had tu
+ rned everything topsy-turvy\; consequently\, everything feels backward. Th
+ e rich are boobs\, the butlers went to Harvard\, dying girls get socked on
+  the jaw\, Cary Grant’s a nerd. Screwball inverts the accepted class str
+ ucture of American society and turns gender roles inside out\; it rockets 
+ along with a cynicism that feels both liberating and earned. And Bringing 
+ Up Baby is the most extreme and extremely funny example of the form.\nhttp
+ s://www.westnewtoncinema.com/movie/ty-burrs-film-club-bringing-up-baby\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/ty-burrs-film-club-bringing-up-b
+ aby
+END:VEVENT
+BEGIN:VEVENT
+UID:197409ae9f85400a768cb184e73637a3b8bb17b7@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261010T170000Z
+DTEND:20261010T190000Z
+SUMMARY:Tommy
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Tommy (Roger Daltrey) is a “deaf\, dumb and blind boy” whos
+ e life’s journey goes in many different directions. From sadistic cousin
+ s to Marilyn Monroe-worshiping healers\, acid queens to pinball wizards\, 
+ Tommy meets a lot of characters on his way to becoming a messiah… and th
+ ey come bearing songs.\nhttps://www.westnewtoncinema.com/movie/tommy\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/tommy
+END:VEVENT
+BEGIN:VEVENT
+UID:fe890e8189400716d77a3202621ab10f14e23aaa@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261011T163000Z
+DTEND:20261011T183000Z
+SUMMARY:The Audience - NT Live
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:30pm\, 6:30pm\nReturning to cinemas for the first tim
+ e in over a decade\, Helen Mirren plays Queen Elizabeth II in the Olivier 
+ and Tony Award®-winning hit production\, directed by Stephen Daldry.\nhtt
+ ps://www.westnewtoncinema.com/movie/the-audience-nt-live\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-audience-nt-live
+END:VEVENT
+BEGIN:VEVENT
+UID:7b38085d1fec7c68c8788aace7cfa3cb9223be0c@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Au Revoir les Enfants
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:In 1943\, Julien is a student at a French boarding school. When
+  three new students arrive\, including Jean Bonnet\, Julien believes they 
+ are no different from the other boys. What Julien doesn't know is that the
+  boys are actually Jews who are evading capture by the Nazis. While Julien
+  doesn't care for Jean at first\, the boys develop a tight bond -- while t
+ he head of the school\, Père Jean\, works to protect the boys from the Ho
+ locaust.\nhttps://www.westnewtoncinema.com/movie/au-revoir-les-enfants\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/au-revoir-les-enfants
+END:VEVENT
+BEGIN:VEVENT
+UID:605a7bbef615c967e8cb20b04016e7862a541109@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261015T223000Z
+DTEND:20261016T003000Z
+SUMMARY:Producer's Circle: Untitled RV Family Documentary
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:As her family travels America in an RV\, teenage Leilani is tor
+ n between her father’s dream of freedom and her desire for a normal teen
+ age life.\nhttps://www.westnewtoncinema.com/movie/producers-circle-untitle
+ d-rv-family-documentary\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/producers-circle-untitled-rv-fam
+ ily-documentary
+END:VEVENT
+BEGIN:VEVENT
+UID:016180cef34f385f35596065839148f8d018f7d6@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261016T200000Z
+DTEND:20261016T220000Z
+SUMMARY:A World of 3 Zeros
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Join us on October 16 to watch A World of 3 Zeros and stay afte
+ r for a Zoom Q&A with the Co-Directors\, Áine Clark and Michel Van Der Ve
+ ken.\nhttps://www.westnewtoncinema.com/movie/a-world-of-3-zeros\nFrom Push
+ pin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/a-world-of-3-zeros
+END:VEVENT
+BEGIN:VEVENT
+UID:e04e7f6a2c76bbab86caa009a7a0cbf8dcb532dc@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261025T170000Z
+DTEND:20261025T190000Z
+SUMMARY:Behind the Screen: Friday Night Lights
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Based on H.G. Bissinger's book\, which profiled the economicall
+ y depressed town of Odessa\, Texas and their heroic high school football t
+ eam\, The Permian High Panthers.\nhttps://www.westnewtoncinema.com/movie/b
+ ehind-the-screen-friday-night-lights\nFrom Pushpin Boston: https://pushpin
+ .city/boston/
+URL:https://www.westnewtoncinema.com/movie/behind-the-screen-friday-night-l
+ ights
+END:VEVENT
+BEGIN:VEVENT
+UID:9a62d2918b2ed9535520f3911c41400bd2f55d92@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261101T233000Z
+DTEND:20261102T013000Z
+SUMMARY:Peter Pan Syndrome
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Inspired by the tales of J.M. Barrie\, Dmitry Krymov's "Peter P
+ an. Syndrome" is about art and the artist – the creator who\, even when 
+ trapped in a dead end\, when despair tightens around the throat and the ur
+ ge to abandon everything feels unbearable\, still returns to creation. Ove
+ rcoming pain\, he\, like Peter Pan\, cannot grow up from his passion for a
+ rt\; he continues to make miracles because he knows no other way to live. 
+ You want to let him go\, to say\, "Rest!" – but he is so radiant\, his m
+ iracles so beautiful\, and his heart so full of love that the audience\, w
+ eeping\, cannot bring themselves to release him.\nhttps://www.westnewtonci
+ nema.com/movie/peter-pan-syndrome\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://www.westnewtoncinema.com/movie/peter-pan-syndrome
+END:VEVENT
+END:VCALENDAR

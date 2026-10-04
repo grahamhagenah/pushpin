@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Lexington Venue
+X-WR-CALDESC:What’s coming up at Lexington Venue\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:35160b4a73f2ad524634ad95136de6a7e224b482@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T163000Z
+DTEND:20261004T183000Z
+SUMMARY:Digger
+LOCATION:Lexington Venue\, 1794 Massachusetts Ave\, Lexington\, MA 02420
+DESCRIPTION:Times: 12:30pm\, 3:15pm\, 6:15pm\nThe most powerful man in the 
+ world embarks on a frantic mission to prove he is humanity's savior before
+  the disaster he's unleashed destroys everything.\nhttps://www.internet-ti
+ cketing.com/websales/sales/LEXLEX/start\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://www.internet-ticketing.com/websales/sales/LEXLEX/start
+END:VEVENT
+BEGIN:VEVENT
+UID:d778fe930216c790cd91c7530ddcb4986bc6d860@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T170000Z
+DTEND:20261004T190000Z
+SUMMARY:Primetime
+LOCATION:Lexington Venue\, 1794 Massachusetts Ave\, Lexington\, MA 02420
+DESCRIPTION:Times: 1pm\, 3:30pm\, 6pm\nIn 2006\, To Catch a Predator host C
+ hris Hansen sets out to make television history.\nhttps://www.internet-tic
+ keting.com/websales/sales/LEXLEX/start\nFrom Pushpin Boston: https://pushp
+ in.city/boston/
+URL:https://www.internet-ticketing.com/websales/sales/LEXLEX/start
+END:VEVENT
+BEGIN:VEVENT
+UID:544fdd15a6c1e99c8c0d54a8cc26863766131af0@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261008T153000Z
+DTEND:20261008T173000Z
+SUMMARY:Digger
+LOCATION:Lexington Venue\, 1794 Massachusetts Ave\, Lexington\, MA 02420
+DESCRIPTION:Times: 11:30am\, 2pm\nThe most powerful man in the world embark
+ s on a frantic mission to prove he is humanity's savior before the disaste
+ r he's unleashed destroys everything.\nhttps://www.internet-ticketing.com/
+ websales/sales/LEXLEX/start\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://www.internet-ticketing.com/websales/sales/LEXLEX/start
+END:VEVENT
+BEGIN:VEVENT
+UID:7130c1fd395dfae2a4b5190416f78b89e4bcb67e@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261008T160000Z
+DTEND:20261008T180000Z
+SUMMARY:Primetime
+LOCATION:Lexington Venue\, 1794 Massachusetts Ave\, Lexington\, MA 02420
+DESCRIPTION:Times: 12pm\, 2:30pm\nIn 2006\, To Catch a Predator host Chris 
+ Hansen sets out to make television history.\nhttps://www.internet-ticketin
+ g.com/websales/sales/LEXLEX/start\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://www.internet-ticketing.com/websales/sales/LEXLEX/start
+END:VEVENT
+BEGIN:VEVENT
+UID:355183283092fa61f7001bdaaee6519df60e5eaf@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261011T150000Z
+DTEND:20261011T170000Z
+SUMMARY:National Theatre Live The Misanthrope
+LOCATION:Lexington Venue\, 1794 Massachusetts Ave\, Lexington\, MA 02420
+DESCRIPTION:Alice\, a brilliant novelist\, despises the hollow contemporary
+  mantras of kindness and respect. But the bolder she becomes in speaking o
+ ut\, the more colleagues avoid her\, and the more her personal relationshi
+ ps begin to fracture. As she challenges fashionable ideas and lends her vo
+ ice to causes others are afraid to touch\, she faces intense criticism and
+  backlash. Alice will soon learn the price she must pay as an artist and a
+ s a woman for daring to speak her mind. Award-winner Sandra Oh is the Misa
+ nthrope in Martin Crimp's cutting new version of Molière's dark comedy\, 
+ directed by National Theatre Director Indhu Rubasingham.\nhttps://www.inte
+ rnet-ticketing.com/websales/sales/LEXLEX/start\nFrom Pushpin Boston: https
+ ://pushpin.city/boston/
+URL:https://www.internet-ticketing.com/websales/sales/LEXLEX/start
+END:VEVENT
+BEGIN:VEVENT
+UID:4452d4ed142538ad0014f398b03db1a778847e13@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261015T230000Z
+DTEND:20261016T010000Z
+SUMMARY:Hanging by a Wire
+LOCATION:Lexington Venue\, 1794 Massachusetts Ave\, Lexington\, MA 02420
+DESCRIPTION:On a Tuesday morning in August 2023\, a group of kids set off f
+ or school\, climbing into a makeshift cable car for the journey across a m
+ ountain pass in northwest Pakistan. What happened next would make headline
+ s around the world. Suddenly\, 900 feet above the ground\, two cables snap
+ ped\, putting the teenagers in mortal danger.\nhttps://www.internet-ticket
+ ing.com/websales/sales/LEXLEX/start\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://www.internet-ticketing.com/websales/sales/LEXLEX/start
+END:VEVENT
+BEGIN:VEVENT
+UID:9558fe6d9ce80965d6c70120608ff6dbfd9c9056@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261017T190000Z
+DTEND:20261017T210000Z
+SUMMARY:The Silence of the Lambs
+LOCATION:Lexington Venue\, 1794 Massachusetts Ave\, Lexington\, MA 02420
+DESCRIPTION:Clarice Starling is a top student at the FBI's training academy
+ . Jack Crawford wants Clarice to interview Dr. Hannibal Lecter\, a brillia
+ nt psychiatrist who is also a violent psychopath\, serving life behind bar
+ s for various acts of murder and cannibalism. Crawford believes that Lecte
+ r may have insight into a case and that Starling\, as an attractive young 
+ woman\, may be just the bait to draw him out.\nhttps://www.internet-ticket
+ ing.com/websales/sales/LEXLEX/start\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://www.internet-ticketing.com/websales/sales/LEXLEX/start
+END:VEVENT
+BEGIN:VEVENT
+UID:9807a882bfe748a678f547a60d5b0077d83afccd@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261018T150000Z
+DTEND:20261018T170000Z
+SUMMARY:The Last Dive
+LOCATION:Lexington Venue\, 1794 Massachusetts Ave\, Lexington\, MA 02420
+DESCRIPTION:Times: 11am\, 3pm\nTerry Kennedy has lived several colorful liv
+ es\, including a stint as a Hell’s Angel – but\, most memorably\, as t
+ he unlikely friend to a giant manta ray named Willy. Now in his 80s\, Terr
+ y mounts one last diving expedition to a remote island in search of his lo
+ ng-lost friend.\nhttps://www.internet-ticketing.com/websales/sales/LEXLEX/
+ start\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.internet-ticketing.com/websales/sales/LEXLEX/start
+END:VEVENT
+BEGIN:VEVENT
+UID:bfaa471ef2b554743e5eecf0ebbfc50c10a35c38@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261029T230000Z
+DTEND:20261030T010000Z
+SUMMARY:The Texas Chain Saw Massacre
+LOCATION:Lexington Venue\, 1794 Massachusetts Ave\, Lexington\, MA 02420
+DESCRIPTION:Five friends head out to rural Texas to visit the grave of a gr
+ andfather. On the way\, they stumble across what appears to be a deserted 
+ house\, only to discover something sinister within. Something armed with a
+  chainsaw.\nhttps://www.internet-ticketing.com/websales/sales/LEXLEX/start
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.internet-ticketing.com/websales/sales/LEXLEX/start
+END:VEVENT
+END:VCALENDAR

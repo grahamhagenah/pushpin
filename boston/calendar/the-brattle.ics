@@ -1,0 +1,879 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · The Brattle
+X-WR-CALDESC:What’s coming up at The Brattle\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:0ff88573bb7b54661198f24b0f94056704f816ae@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T014500Z
+DTEND:20261004T034500Z
+SUMMARY:Night of the Vamp-Friars
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Kurtis Spieler. With Abby Arza\, Domenico Pugliese\
+ , Frank Wihbey.\nhttps://brattlefilm.org/purchase/1713196/\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1713196/
+END:VEVENT
+BEGIN:VEVENT
+UID:a3fb02042c1efe2384a4082c70bf8ea75db0cb1a@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T160000Z
+DTEND:20261004T180000Z
+SUMMARY:Yo Soy de P Fkn R – Shorts Program
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/special_events/yo-soy-de-p-fkn-r-shorts
+ -program/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/special_events/yo-soy-de-p-fkn-r-shorts-program
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:0c7e3de777e44a1cdb7a1c46b5fa952ce2bc3272@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T183000Z
+DTEND:20261004T203000Z
+SUMMARY:RPM Fest Presents "Intimate Observer: Family Portrayals" by Marjori
+ e Keller
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:The RPM Festival and the Cinema Studies Program at UMass-Boston
+  are proud to co-present “Intimate Observer: Family Portrayals\,”...\n
+ https://brattlefilm.org/special_events/rpm-fest-presents-intimate-observer
+ -family-portrayals-by-marjorie-keller/\nFrom Pushpin Boston: https://pushp
+ in.city/boston/
+URL:https://brattlefilm.org/special_events/rpm-fest-presents-intimate-obser
+ ver-family-portrayals-by-marjorie-keller/
+END:VEVENT
+BEGIN:VEVENT
+UID:4fec8c1d6ccbef33022e7e9fa68084fe2dd6871f@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261004T220000Z
+DTEND:20261005T000000Z
+SUMMARY:Kwaidan
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Masaki Kobayashi. With Kenjirō Ishiyama\, Michiyo 
+ Aratama\, Misako Watanabe.\nhttps://brattlefilm.org/purchase/1687604/\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1687604/
+END:VEVENT
+BEGIN:VEVENT
+UID:a072ee1e51993df756d97e4c196e426adce1fae1@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261005T220000Z
+DTEND:20261006T000000Z
+SUMMARY:Harvard Book Store Welcomes Roz Chast and Jason Adam Katzenstein
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Harvard Book Store Welcomes Roz Chast and Jason Adam Katzenstei
+ n presenting The Two Saddest Kitchens: A Comics Conversation...\nhttps://b
+ rattlefilm.org/special_events/harvard-book-store-welcomes-roz-chast-and-ja
+ son-adam-katzenstein/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/special_events/harvard-book-store-welcomes-roz-
+ chast-and-jason-adam-katzenstein/
+END:VEVENT
+BEGIN:VEVENT
+UID:7385024f2e5e55e5a6b73f1c2191f5901b3fc9af@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261006T000000Z
+DTEND:20261006T020000Z
+SUMMARY:Kwaidan
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Masaki Kobayashi. With Kenjirō Ishiyama\, Michiyo 
+ Aratama\, Misako Watanabe.\nhttps://brattlefilm.org/purchase/1687607/\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1687607/
+END:VEVENT
+BEGIN:VEVENT
+UID:fe6c3536c9c4035f25d72c6557fa560842270713@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261006T220000Z
+DTEND:20261007T000000Z
+SUMMARY:Lovestruck Books Presents An Evening with Alice Hoffman: Practical 
+ Magic on Screen & in Print
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/special_events/lovestruck-books-present
+ s-an-evening-with-alice-hoffman-practical-magic-on-screen-in-print/\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/special_events/lovestruck-books-presents-an-eve
+ ning-with-alice-hoffman-practical-magic-on-screen-in-print/
+END:VEVENT
+BEGIN:VEVENT
+UID:89604821b36697d76451ae352c9d632197a06cc2@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261007T010000Z
+DTEND:20261007T030000Z
+SUMMARY:Lovestruck Books Presents: Practical Magic on Screen & in Print
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:The Owens sisters are back! Lovestruck Books couldn’t let Oct
+ ober pass without another magical screening of the first\, original...\nht
+ tps://brattlefilm.org/special_events/lovestruck-books-presents-practical-m
+ agic-on-screen-in-print/\nFrom Pushpin Boston: https://pushpin.city/boston
+ /
+URL:https://brattlefilm.org/special_events/lovestruck-books-presents-practi
+ cal-magic-on-screen-in-print/
+END:VEVENT
+BEGIN:VEVENT
+UID:e54cefae9603b3894681d7836899c275e53444b1@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261007T220000Z
+DTEND:20261008T000000Z
+SUMMARY:Narrative Bookshop Presents "Narrative\, Two Ways": Taipei Story\, 
+ With R. F. Kuang
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Presented by Narrative Bookshop Join R. F. Kuang at this specia
+ l collaboration between Narrative & Brattle Theatre in...\nhttps://brattle
+ film.org/special_events/narrative-two-ways-taipei-story-with-r-f-kuang/\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/special_events/narrative-two-ways-taipei-story-
+ with-r-f-kuang/
+END:VEVENT
+BEGIN:VEVENT
+UID:34908d6445951411e99aa63d76f07cfc4fdcc44a@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261008T230000Z
+DTEND:20261009T010000Z
+SUMMARY:Possible Love
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://iffboston.org/events/possiblelove/\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://iffboston.org/events/possiblelove/
+END:VEVENT
+BEGIN:VEVENT
+UID:d7b82738aaca2b45d0e3ec29567213aae5f5c0ab@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261009T220000Z
+DTEND:20261010T000000Z
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by David Greaves\, William Greaves. With Aaron Douglas
+ \, Ernest Crichlow\, Eubie Blake.\nhttps://iffboston.org/events/onceuponat
+ imeinharlem/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://iffboston.org/events/onceuponatimeinharlem/
+END:VEVENT
+BEGIN:VEVENT
+UID:be7a78e95717517d4e419afce2461cc57201997c@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261010T001500Z
+DTEND:20261010T021500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Anchored by an all-too-rare lead performance from John Turturro
+ \, the latest from writer-director Noah Segan (KNIVES OUT) combines...\nht
+ tps://iffboston.org/events/theonlylivingpickpocketinnewyork/\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://iffboston.org/events/theonlylivingpickpocketinnewyork/
+END:VEVENT
+BEGIN:VEVENT
+UID:b3df3f4e12a187e4aeb480e5baaf9cfa2d632256@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261010T160000Z
+DTEND:20261010T180000Z
+SUMMARY:All of a Sudden
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:One night. Two strangers. A lifetime of questions.\nhttps://iff
+ boston.org/events/allofasudden/\nFrom Pushpin Boston: https://pushpin.city
+ /boston/
+URL:https://iffboston.org/events/allofasudden/
+END:VEVENT
+BEGIN:VEVENT
+UID:ae17be39c5e01053b40cd377355e21ddf677a8dc@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261010T200000Z
+DTEND:20261010T220000Z
+SUMMARY:Look Back
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:"Keep your eyes on my back and you'll grow too."\nhttps://iffbo
+ ston.org/events/lookback/\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://iffboston.org/events/lookback/
+END:VEVENT
+BEGIN:VEVENT
+UID:7e4891a8d340b15ed609ae179ca7ca98501ea61f@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261010T223000Z
+DTEND:20261011T003000Z
+SUMMARY:Fatherland
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Winner: Best Director\, 2026 Cannes Film Festival Poland’s en
+ try for the Best International Feature Film at the 2027...\nhttps://iffbos
+ ton.org/events/fatherland/\nFrom Pushpin Boston: https://pushpin.city/bost
+ on/
+URL:https://iffboston.org/events/fatherland/
+END:VEVENT
+BEGIN:VEVENT
+UID:07f7f462a0a6af029ccdce909644d6daeab105ed@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261011T003000Z
+DTEND:20261011T023000Z
+SUMMARY:Club Kid
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:For Peter Green (Jordan Firstman)\, a promoter and purveyor of
+ … shall we say… stimulating party favors in the...\nhttps://iffboston.
+ org/events/clubkid/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://iffboston.org/events/clubkid/
+END:VEVENT
+BEGIN:VEVENT
+UID:befb668165add0f0512ba22a4ea1e1fcaaa1458c@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261011T160000Z
+DTEND:20261011T180000Z
+SUMMARY:Iron Boy
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Winner: Un Certain Regard Special Jury Prize\, 2026 Cannes Film
+  Festival For young Christophe\, life on a rural...\nhttps://iffboston.org
+ /events/ironboy/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://iffboston.org/events/ironboy/
+END:VEVENT
+BEGIN:VEVENT
+UID:d7381b3a0eafd4c12cacf9ea692d415a8270f15a@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261011T180000Z
+DTEND:20261011T200000Z
+SUMMARY:Minotaur
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://iffboston.org/events/minotaur/\nFrom Pushpin Boston: ht
+ tps://pushpin.city/boston/
+URL:https://iffboston.org/events/minotaur/
+END:VEVENT
+BEGIN:VEVENT
+UID:4541ef504cb4881eb9d86ad9e529a6c272b63058@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261011T211500Z
+DTEND:20261011T231500Z
+SUMMARY:Rose
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Winner: Silver Bear for Best Leading Performance\, 2026 Berlin 
+ International Film Festival Austria’s entry for the Best International..
+ .\nhttps://iffboston.org/events/rose/\nFrom Pushpin Boston: https://pushpi
+ n.city/boston/
+URL:https://iffboston.org/events/rose/
+END:VEVENT
+BEGIN:VEVENT
+UID:97cc4016fbe393ee09b1aa60814ef6d03e33e53e@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261011T233000Z
+DTEND:20261012T013000Z
+SUMMARY:Tender Loving Care
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Winner: Golden Shell for Best Film\, 2026 San Sebastian Interna
+ tional Film Festival Winner: Silver Shell for Best Leading...\nhttps://iff
+ boston.org/events/tenderlovingcare/\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://iffboston.org/events/tenderlovingcare/
+END:VEVENT
+BEGIN:VEVENT
+UID:95d77a3ba13dffc294b9161b54bf80ea9b1cef50@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261012T170000Z
+DTEND:20261012T190000Z
+SUMMARY:Powwow People
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Times: 1pm\, 3:15pm\nhttps://brattlefilm.org/purchase/1727237/\
+ nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1727237/
+END:VEVENT
+BEGIN:VEVENT
+UID:393c449dde1b0e102d7e4c6ca623c3d1e18b7a53@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261012T220000Z
+DTEND:20261013T000000Z
+SUMMARY:Knives Out
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Craft-Along Screening • Hell\, any of them could have done it
+ .\nhttps://brattlefilm.org/purchase/1695089/\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1695089/
+END:VEVENT
+BEGIN:VEVENT
+UID:30af60e364c52a275ef83d2c169feb4a6fc5ab28@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261013T220000Z
+DTEND:20261014T000000Z
+SUMMARY:Harvard Book Store Welcomes Anand Giridharadas
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Harvard Book Store Welcomes Anand Giridharadas presenting Man i
+ n the Mirror: Hope\, Struggle\, and Belonging in an American...\nhttps://b
+ rattlefilm.org/special_events/harvard-book-store-welcomes-anand-giridharad
+ as/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/special_events/harvard-book-store-welcomes-anan
+ d-giridharadas/
+END:VEVENT
+BEGIN:VEVENT
+UID:5b6d51b0f4764bb93bc4ea3dd4ce0752a97b77f0@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261014T000000Z
+DTEND:20261014T020000Z
+SUMMARY:Wild Horse Nine
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Sometimes you've got to do a terrible thing for the greater goo
+ d.\nhttps://iffboston.org/events/wildhorsenine/\nFrom Pushpin Boston: http
+ s://pushpin.city/boston/
+URL:https://iffboston.org/events/wildhorsenine/
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf3486b48f8698623cde9b73218f9567fb9340c@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261014T220000Z
+DTEND:20261015T000000Z
+SUMMARY:Harvard Book Store Welcomes Ayad Akhtar
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Harvard Book Store Welcomes Ayad Akhtar presenting The Radiance
+  Harvard Book Store welcomes Ayad Akhtar—Pulitzer Prize–winning playwr
+ ight\, and...\nhttps://brattlefilm.org/special_events/harvard-book-store-w
+ elcomes-ayad-akhtar/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/special_events/harvard-book-store-welcomes-ayad
+ -akhtar/
+END:VEVENT
+BEGIN:VEVENT
+UID:819e9e16f514e97c52fde7d0de9f5a31fb2da0ad@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261015T000000Z
+DTEND:20261015T020000Z
+SUMMARY:The Adventures of Baron Munchausen
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/purchase/1695151/\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1695151/
+END:VEVENT
+BEGIN:VEVENT
+UID:400cf0ae2bf639d18bc05d91a593ad85fd8b73e6@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261015T230000Z
+DTEND:20261016T010000Z
+SUMMARY:Real Life
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Presented by Gollylagging and Allston Pudding\nhttps://brattlef
+ ilm.org/purchase/1727185/\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://brattlefilm.org/purchase/1727185/
+END:VEVENT
+BEGIN:VEVENT
+UID:f9d8ea6898d62258a65f24eb37f2d551d442316b@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261016T013000Z
+DTEND:20261016T033000Z
+SUMMARY:I Saw the TV Glow
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Merging handmade fantasy elements with a 90s Nickelodeon aesthe
+ tic adds just the right note of otherworldliness to Jane...\nhttps://bratt
+ lefilm.org/purchase/1695167/\nFrom Pushpin Boston: https://pushpin.city/bo
+ ston/
+URL:https://brattlefilm.org/purchase/1695167/
+END:VEVENT
+BEGIN:VEVENT
+UID:665fcb75cca011b8b50ba3c06a78a3c86537f24b@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261016T220000Z
+DTEND:20261017T000000Z
+SUMMARY:100 Nights of Hero
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/purchase/1695169/\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1695169/
+END:VEVENT
+BEGIN:VEVENT
+UID:7e6808fd9c826abd0c1cb50f5e3f9d9a963065fc@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261017T000000Z
+DTEND:20261017T020000Z
+SUMMARY:The Fall
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:This magical love letter to the power of storytelling and human
+  connection from the visionary filmmaker Tarsem stars...\nhttps://brattlef
+ ilm.org/purchase/1695170/\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://brattlefilm.org/purchase/1695170/
+END:VEVENT
+BEGIN:VEVENT
+UID:315f9fe02eb6bc0290ee77a188a8f16c85c7bda7@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261017T160000Z
+DTEND:20261017T180000Z
+SUMMARY:Donkey Skin
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:The skin of an animal hid her captivating beauty that only a pr
+ ince could discover!\nhttps://brattlefilm.org/purchase/1695173/\nFrom Push
+ pin Boston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1695173/
+END:VEVENT
+BEGIN:VEVENT
+UID:1bf8007cd35d63751df27155fe932fd8f8b54501@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261017T183000Z
+DTEND:20261017T203000Z
+SUMMARY:The Fall
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:This magical love letter to the power of storytelling and human
+  connection from the visionary filmmaker Tarsem stars...\nhttps://brattlef
+ ilm.org/purchase/1695174/\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://brattlefilm.org/purchase/1695174/
+END:VEVENT
+BEGIN:VEVENT
+UID:d8a0ccab54351dadfd42b6a94aa6eaa1bd769629@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261017T210000Z
+DTEND:20261017T230000Z
+SUMMARY:100 Nights of Hero
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/purchase/1695180/\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1695180/
+END:VEVENT
+BEGIN:VEVENT
+UID:d82d93d020536c01ba21c74ca4bdfc7f7cc6bbc8@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261017T230000Z
+DTEND:20261018T010000Z
+SUMMARY:The Ugly Stepsister
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:In this warped and wonderful inversion of Cinderella\, Lea Myre
+ n plays Elvira\, THE UGLY STEPSISTER—one whose mother will...\nhttps://b
+ rattlefilm.org/purchase/1695181/\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://brattlefilm.org/purchase/1695181/
+END:VEVENT
+BEGIN:VEVENT
+UID:125a1f434d377b3cff321e4fe96d78b2d041a70c@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261018T164500Z
+DTEND:20261018T184500Z
+SUMMARY:The Adventures of Baron Munchausen
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/purchase/1695186/\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1695186/
+END:VEVENT
+BEGIN:VEVENT
+UID:36a19d222c04bd40a46ffcebdee196fa70e5e7ff@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261018T193000Z
+DTEND:20261018T213000Z
+SUMMARY:Riddle of Fire
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:A lot of fantasy narratives feel like a regular story that has 
+ been infused with fairy dust\, but...\nhttps://brattlefilm.org/purchase/16
+ 95187/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1695187/
+END:VEVENT
+BEGIN:VEVENT
+UID:d35236858bc7be6bce7d71461db044988c79a650@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261018T220000Z
+DTEND:20261019T000000Z
+SUMMARY:Innocence
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Lucile Hadzihalilovic. With Bérangère Haubruge\, 
+ Hélène de Fougerolles\, Lea Bridarolli.\nhttps://brattlefilm.org/purchas
+ e/1695188/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1695188/
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e94945a164790dd49a819eda946d56ff8a27be@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261019T003000Z
+DTEND:20261019T023000Z
+SUMMARY:Paradise Hills
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/purchase/1695189/\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1695189/
+END:VEVENT
+BEGIN:VEVENT
+UID:d8c11cf4b5076d84a96f1953973271fa94c019b9@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261019T220000Z
+DTEND:20261020T000000Z
+SUMMARY:Harvard Book Store Welcomes Kerry Kennedy
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Harvard Book Store Welcomes Kerry Kennedy presenting Ethel Kenn
+ edy: The Extraordinary Life and Bold Legacy Harvard Book Store...\nhttps:/
+ /brattlefilm.org/special_events/harvard-book-store-welcomes-kerry-kennedy/
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/special_events/harvard-book-store-welcomes-kerr
+ y-kennedy/
+END:VEVENT
+BEGIN:VEVENT
+UID:52d79e43c8b0d85a73db2b23e1ecdcaec89593ea@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261020T000000Z
+DTEND:20261020T020000Z
+SUMMARY:Piaffe
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Introverted and unqualified\, Eva is unexpectedly tasked with f
+ oleying the sound for a commercial featuring a horse. As...\nhttps://bratt
+ lefilm.org/purchase/1695194/\nFrom Pushpin Boston: https://pushpin.city/bo
+ ston/
+URL:https://brattlefilm.org/purchase/1695194/
+END:VEVENT
+BEGIN:VEVENT
+UID:e5c375f7bc97e602c7554e4a4680497e9c7164ba@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261020T223000Z
+DTEND:20261021T003000Z
+SUMMARY:Traces of Home
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/purchase/1706199/\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1706199/
+END:VEVENT
+BEGIN:VEVENT
+UID:c75b667961b71c82c221b8cc11093c6e95184145@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261021T233000Z
+DTEND:20261022T013000Z
+SUMMARY:Bechdel Cast Ten Year “Whoops We Didn’t Dismantle the Patriarch
+ y” Anniversary Tour
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Special Live Event with Jamie Loftus and Caitlin Durante!\nhttp
+ s://brattlefilm.org/special_events/bechdel-cast/\nFrom Pushpin Boston: htt
+ ps://pushpin.city/boston/
+URL:https://brattlefilm.org/special_events/bechdel-cast/
+END:VEVENT
+BEGIN:VEVENT
+UID:f3c64163e92d324e3773d2f96e93a41a6509b5e1@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261023T220000Z
+DTEND:20261024T000000Z
+SUMMARY:Union Town
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://events.bostonglobe.com/2026/globedocs\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://events.bostonglobe.com/2026/globedocs
+END:VEVENT
+BEGIN:VEVENT
+UID:e962d2372a5ed29d61063e720a79e412fda3d74d@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261024T003000Z
+DTEND:20261024T023000Z
+SUMMARY:Jean-Michel Basquiat
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://events.bostonglobe.com/2026/globedocs\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://events.bostonglobe.com/2026/globedocs
+END:VEVENT
+BEGIN:VEVENT
+UID:d291b766afb755e37add7f68febff0ec5058bd1c@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261024T150000Z
+DTEND:20261024T170000Z
+SUMMARY:Fork in the Road
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Imbued with the spirit (and presence) of the late poet/environm
+ entalist Wendell Berry and featuring Emmy-winning actor/bestselling writer
+  (and...\nhttps://events.bostonglobe.com/2026/globedocs\nFrom Pushpin Bost
+ on: https://pushpin.city/boston/
+URL:https://events.bostonglobe.com/2026/globedocs
+END:VEVENT
+BEGIN:VEVENT
+UID:f050b366054651cf1844ff3c673c117b903647a1@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261024T173000Z
+DTEND:20261024T193000Z
+SUMMARY:All About the Money
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://events.bostonglobe.com/2026/globedocs\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://events.bostonglobe.com/2026/globedocs
+END:VEVENT
+BEGIN:VEVENT
+UID:e29f8232c067cf091db96ef096fbfeac89272af8@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261024T203000Z
+DTEND:20261024T223000Z
+SUMMARY:The Other Side of Memory
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://events.bostonglobe.com/2026/globedocs\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://events.bostonglobe.com/2026/globedocs
+END:VEVENT
+BEGIN:VEVENT
+UID:fdec071dd0da6181e1e767fbbc5ed48722a72ffa@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261024T230000Z
+DTEND:20261025T010000Z
+SUMMARY:Give Me the Ball!
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:A global icon whose impact on equality resonates far beyond the
+  tennis court\, the personal sacrifices behind Billie...\nhttps://events.b
+ ostonglobe.com/2026/globedocs\nFrom Pushpin Boston: https://pushpin.city/b
+ oston/
+URL:https://events.bostonglobe.com/2026/globedocs
+END:VEVENT
+BEGIN:VEVENT
+UID:ee7d6efe6dc08d5b4703226844724ee9d1b59063@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261025T013000Z
+DTEND:20261025T033000Z
+SUMMARY:HOUSU + A Tape: The American History of Nobuhiko Obayashi’s HOUSE
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/special_events/a-tape-the-american-hist
+ ory-of-nobuhiko-obayashis-house/\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://brattlefilm.org/special_events/a-tape-the-american-history-of-n
+ obuhiko-obayashis-house/
+END:VEVENT
+BEGIN:VEVENT
+UID:a545131c723094386e95b004d3f8b62ea739b1d4@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261025T150000Z
+DTEND:20261025T170000Z
+SUMMARY:Local Shorts Program
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Post-Film Discussion with Heather MacDonald\, Luke Hollyer\, Am
+ ber Celletti\, E.B. Bartels\, Sarah Colt\, Emily Schuman\, Pawo Choyning D
+ orji\, and Loren King\nhttps://brattlefilm.org/special_events/local-shorts
+ -program/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/special_events/local-shorts-program/
+END:VEVENT
+BEGIN:VEVENT
+UID:16e96dedd1b180b6e9d831928a66cc6bc0eb3372@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261025T173000Z
+DTEND:20261025T193000Z
+SUMMARY:Cut to David
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://events.bostonglobe.com/2026/globedocs\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://events.bostonglobe.com/2026/globedocs
+END:VEVENT
+BEGIN:VEVENT
+UID:902df5628a4d6d1d64b224f82decb40618d6fca4@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:The Oldest Person in the World
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Supercentenarians seize the spotlight in Academy Award-nominate
+ d documentarian Sam Green’s decade-long global odyssey to chronicle the 
+ ever-changing title...\nhttps://events.bostonglobe.com/2026/globedocs\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://events.bostonglobe.com/2026/globedocs
+END:VEVENT
+BEGIN:VEVENT
+UID:722ae0ddef9d7300f1f5e3f06c1d681ab3b34813@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261025T230000Z
+DTEND:20261026T010000Z
+SUMMARY:Playing POTUS
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:New England Premiere! Closing Night Film!\nhttps://events.bosto
+ nglobe.com/2026/globedocs\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://events.bostonglobe.com/2026/globedocs
+END:VEVENT
+BEGIN:VEVENT
+UID:8203595931d2b431c2a4ffc1704273a2b8b12278@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261026T220000Z
+DTEND:20261027T000000Z
+SUMMARY:Mr. Nobody Against Putin
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Free Screening! Pasha Talankin In Person!\nhttps://daviscenter.
+ fas.harvard.edu/events/film-screening-mr-nobody-against-putin\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://daviscenter.fas.harvard.edu/events/film-screening-mr-nobody-aga
+ inst-putin
+END:VEVENT
+BEGIN:VEVENT
+UID:2331857d7353db3960b2a589d0c6432c842da40c@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261027T220000Z
+DTEND:20261028T000000Z
+SUMMARY:Dreams That Money Can Buy
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Karina Longworth in Person! Double feature with LAURA\nhttps://
+ brattlefilm.org/purchase/1694846/\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://brattlefilm.org/purchase/1694846/
+END:VEVENT
+BEGIN:VEVENT
+UID:fdbc7ffb52e167a7637ae0242a5fa60f44618aca@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261028T004500Z
+DTEND:20261028T024500Z
+SUMMARY:Laura
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Karina Longworth in Person! Double feature with DREAMS THAT MON
+ EY CAN BUY\nhttps://brattlefilm.org/purchase/1694847/\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1694847/
+END:VEVENT
+BEGIN:VEVENT
+UID:48a351a4454a030af03bca759ff090a836845e50@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261028T223000Z
+DTEND:20261029T003000Z
+SUMMARY:A Place in the Sun
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by George Stevens. With Anne Revere\, Elizabeth Taylor
+ \, Keefe Brasselle.\nhttps://brattlefilm.org/purchase/1694828/\nFrom Pushp
+ in Boston: https://pushpin.city/boston/
+URL:https://brattlefilm.org/purchase/1694828/
+END:VEVENT
+BEGIN:VEVENT
+UID:4dac9bb262c991b48f98a6815c57094e007dc21c@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261029T230000Z
+DTEND:20261030T010000Z
+SUMMARY:The Debut
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:There’s a method to the madness.\nhttps://iffboston.org/event
+ s/thedebut/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://iffboston.org/events/thedebut/
+END:VEVENT
+BEGIN:VEVENT
+UID:68916ac7befa14fdc093fea1879c36460a5a1b96@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261030T220000Z
+DTEND:20261031T000000Z
+SUMMARY:Rehearsals for a Revolution
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Winner: L’Œil d’or (Golden Eye) Prize for Best Documentary
+ \, 2026 Cannes Film Festival Celebrated Iranian actor Pegah Ahangarani’s
+ ...\nhttps://iffboston.org/events/rehearsalsforarevolution/\nFrom Pushpin 
+ Boston: https://pushpin.city/boston/
+URL:https://iffboston.org/events/rehearsalsforarevolution/
+END:VEVENT
+BEGIN:VEVENT
+UID:2f56cb30879b9c997586095ddcea88bd11f64074@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261031T000000Z
+DTEND:20261031T020000Z
+SUMMARY:Bedford Park
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Winner: US Dramatic Special Jury Award for Debut Feature\, 2026
+  Sundance Film Festival Haunted by an abusive childhood\,...\nhttps://iffb
+ oston.org/events/bedfordpark/\nFrom Pushpin Boston: https://pushpin.city/b
+ oston/
+URL:https://iffboston.org/events/bedfordpark/
+END:VEVENT
+BEGIN:VEVENT
+UID:c0c21d0dda31eadaa4a74d9a0a1ec4afa31bd56d@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261031T154500Z
+DTEND:20261031T174500Z
+SUMMARY:La Gradiva
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Winner: Un Certain Regard Prize\, 2026 Cannes Film Festival Ger
+ many’s entry for the Best International Feature Film at...\nhttps://iffb
+ oston.org/events/lagradiva/\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://iffboston.org/events/lagradiva/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a2285aafab0918e772de5379c630a4536ec4c34@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261031T184500Z
+DTEND:20261031T204500Z
+SUMMARY:Ashes
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Tackling the often painful complexities of the immigrant experi
+ ence with a deft and deeply humane touch\, Mexican Hollywood...\nhttps://i
+ ffboston.org/events/ashes/\nFrom Pushpin Boston: https://pushpin.city/bost
+ on/
+URL:https://iffboston.org/events/ashes/
+END:VEVENT
+BEGIN:VEVENT
+UID:d497573cd4902fd3ba6b124ff2b7153c02f3892c@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261031T210000Z
+DTEND:20261031T230000Z
+SUMMARY:Everytime
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Winner: Un Certain Regard Prize\, 2026 Cannes Film Festival Ger
+ many’s entry for the Best International Feature Film at...\nhttps://iffb
+ oston.org/events/everytime/\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://iffboston.org/events/everytime/
+END:VEVENT
+BEGIN:VEVENT
+UID:9384a624b1a9474f107d3aa55501db099674ba42@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261031T233000Z
+DTEND:20261101T013000Z
+SUMMARY:Coward
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Winner: Best Actor (Emmanuel Macchia & Valentin Campagne)\, 202
+ 6 Cannes Film Festival Belgium’s entry for the Best International...\nht
+ tps://iffboston.org/events/coward/\nFrom Pushpin Boston: https://pushpin.c
+ ity/boston/
+URL:https://iffboston.org/events/coward/
+END:VEVENT
+BEGIN:VEVENT
+UID:4bcd466e009cc75ba25404321afda4ebb070c99d@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261101T020000Z
+DTEND:20261101T040000Z
+SUMMARY:Split Rock
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:While conducting survey work in remote Badlands\, geologists La
+ uren and Ben uncover a mysterious block of magnetic stone...\nhttps://iffb
+ oston.org/events/splitrock/\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://iffboston.org/events/splitrock/
+END:VEVENT
+BEGIN:VEVENT
+UID:345ae1afeb7626d267331c399ff2205c34513a17@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261101T170000Z
+DTEND:20261101T190000Z
+SUMMARY:Tangles
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Sarah Leavitt’s graphic memoir Tangles: A Story about Alzheim
+ er’s\, My Mother and Me comes to life in hand-drawn...\nhttps://iffbosto
+ n.org/events/tangles/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://iffboston.org/events/tangles/
+END:VEVENT
+BEGIN:VEVENT
+UID:e67c32097fd8a709fe8eb3cf535b410a1c42a9ff@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261101T191500Z
+DTEND:20261101T211500Z
+SUMMARY:The Dreamed Adventure
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Winner: Jury Prize\, 2026 Cannes Film Festival Bulgaria’s ent
+ ry for the Best International Feature Film at the 2027...\nhttps://iffbost
+ on.org/events/thedreamedadventure/\nFrom Pushpin Boston: https://pushpin.c
+ ity/boston/
+URL:https://iffboston.org/events/thedreamedadventure/
+END:VEVENT
+BEGIN:VEVENT
+UID:406709c3f2940b517a6fc44269e501c894352893@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261101T223000Z
+DTEND:20261102T003000Z
+SUMMARY:Clarissa
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:Six years after their debut feature EYIMOFE: THIS IS MY DESIRE\
+ , brothers Arie Esiri and Chuko Esiri have...\nhttp://iffboston.org/events
+ /clarissa/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:http://iffboston.org/events/clarissa/
+END:VEVENT
+BEGIN:VEVENT
+UID:4c48f6b72d766011f55aae25b9b222ff9520f0eb@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261102T010000Z
+DTEND:20261102T030000Z
+SUMMARY:Bitter Christmas
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://iffboston.org/events/bitterchristmas/\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://iffboston.org/events/bitterchristmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:81a5fc044b47bf043d3efd1237fd237ecb473d2b@pushpin.city
+DTSTAMP:20261004T001530Z
+DTSTART:20261103T010000Z
+DTEND:20261103T030000Z
+SUMMARY:Elsinore
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:The fight of his life. The triumph of a lifetime.\nhttps://iffb
+ oston.org/events/elsinore/\nFrom Pushpin Boston: https://pushpin.city/bost
+ on/
+URL:https://iffboston.org/events/elsinore/
+END:VEVENT
+END:VCALENDAR

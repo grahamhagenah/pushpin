@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact · Pushpin</title>
+<meta name="description" content="Suggest a venue for Pushpin, or tell us about a listing that’s wrong.">
+<link rel="canonical" href="https://pushpin.city/contact/">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" href="/favicon.svg?pin3" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?pin3">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Pushpin">
+<meta property="og:title" content="Contact · Pushpin">
+<meta property="og:description" content="Suggest a venue for Pushpin, or tell us about a listing that’s wrong.">
+<meta property="og:url" content="https://pushpin.city/contact/">
+<meta property="og:image" content="https://pushpin.city/share/home.png?pin">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="color-scheme" content="dark">
+<script data-goatcounter="https://hagenah.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+<style>
+  html { background: #000; }
+  /* Nothing scrolls the page sideways on a phone, whatever runs wide. */
+  body { margin: 0; padding: 2rem 1.25rem 4rem; overflow-x: clip; color: #fff; background: #000;
+         font: 17px/1.45 -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+  main { max-width: 46rem; margin: 0 auto; }
+  header { display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-bottom: 2rem; }
+  .header-note { color: #666; font-size: .8rem; white-space: nowrap; }
+  .header-note time { margin: 0; font-size: inherit; }
+  /* The newsfeed and the events page, as a pair: the one you're on in white, the other a gray link to it. */
+  .sites { display: flex; gap: .9rem; }
+  .sites a, .sites a:visited { color: #555; font-size: 1.15rem; font-weight: 700; letter-spacing: -.01em; text-decoration: none; }
+  .sites a:hover { color: #999; }
+  .sites a[aria-current], .sites a[aria-current]:hover { color: #fff; }
+
+  .sites .pin { width: 1.05em; height: 1.05em; margin-right: .3em; vertical-align: -.16em; }  /* In the name's own color. */
+  h1.tagline { margin: -1rem 0 1.6rem; color: #888; font-size: .9rem; font-weight: normal; line-height: 1.45; }
+  h1.tagline + .filter { margin-top: 0; }  /* The filter's own pull-up would leave the line on top of it. */
+
+  .contact { display: grid; gap: 1.1rem; margin-top: 1.5rem; }
+  .contact label { display: grid; gap: .35rem; color: #888; font-size: .8rem; }
+  .contact input, .contact textarea { padding: .5rem .6rem; border: 1px solid #333; border-radius: 4px; background: #0a0a0a;
+                                      color: #fff; font: inherit; font-size: .95rem; }
+  .contact input:focus, .contact textarea:focus { border-color: #777; outline: none; }
+  /* The form's button, and after sending, the way home, which looks the same. */
+  .contact button, .sent .home { justify-self: start; padding: .45rem 1.2rem; border: 1px solid #555; border-radius: 999px;
+                    background: none; color: #ddd; font: inherit; font-size: .85rem; font-weight: 600; cursor: pointer;
+                    transition: border-color .15s, color .15s, background-color .15s; }
+  .contact button:hover, .contact button:focus-visible, .sent .home:hover, .sent .home:focus-visible {
+    border-color: #ccc; background: #151515; color: #fff; text-decoration: none; outline: none; }
+  .contact button:active, .sent .home:active { background: #222; }
+  .sent .home { display: inline-block; margin-top: .6rem; text-decoration: none; }
+  .contact .honey { display: none; }
+  .sites a, .sites a:visited { color: #fff; }
+  .sites .here { color: #fff; font-size: 1.15rem; font-weight: 700; letter-spacing: -.01em; }
+  .sites .here::before { content: "/"; margin-right: .5em; color: #444; font-weight: 400; }
+  .prose { max-width: 34rem; color: #ccc; }
+  .prose p { margin: 0 0 1em; }
+</style>
+<main>
+<header><nav class="sites" aria-label="Sites"><a href="/"><svg class="pin" viewBox="0 0 24 24" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 4.5l-4 4l-4 1.5l-1.5 1.5l7 7l1.5 -1.5l1.5 -4l4 -4"/><path d="M9 15l-4.5 4.5"/><path d="M14.5 4l5.5 5.5"/></g></svg>Pushpin</a> <span class="here">Contact</span></nav></header>
+<h1 class="tagline">A note to Pushpin, for any of its cities.</h1>
+<div class="prose">
+<p class="intro">A venue to add, a listing that’s wrong, or anything else: send a note.</p>
+<form class="contact" action="https://formsubmit.co/gwhagenah@gmail.com" method="POST">
+<input type="hidden" name="_subject" value="Pushpin: a message">
+<input type="hidden" name="_next" value="https://pushpin.city/contact/?sent">
+<input type="hidden" name="_template" value="box">
+<input type="text" name="_honey" class="honey" tabindex="-1" autocomplete="off" aria-hidden="true">
+<label>Your email, for a reply <input type="email" name="email" required></label>
+<label>Message <textarea name="message" rows="6" required></textarea></label>
+<button>Send</button>
+</form>
+<div class="sent" hidden>
+<p>Thanks, your message is on its way. We’ll do our best to respond in a timely manner.</p>
+<a class="home" href="/">Back to home</a>
+</div>
+</div>
+<script>
+  // Back from sending: only the thanks.
+  if (new URLSearchParams(location.search).has("sent")) {
+    document.querySelector(".intro").hidden = true;
+    document.querySelector(".contact").hidden = true;
+    document.querySelector(".sent").hidden = false;
+  }
+</script></main>
+</html>
