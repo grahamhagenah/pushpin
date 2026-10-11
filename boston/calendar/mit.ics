@@ -1,0 +1,465 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · MIT
+X-WR-CALDESC:What’s coming up at MIT\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:316dff07dcc5659042732529fa1dfa0a8fb3a64b@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261013T220000Z
+DTEND:20261014T000000Z
+SUMMARY:An Ocean (Re)Introduction
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Emmy Award-winning storyteller and explorer Richard Vevers invi
+ tes you to see the ocean in a completely new way.\nhttps://calendar.mit.ed
+ u/event/an-ocean-reintroduction\nFrom Pushpin Boston: https://pushpin.city
+ /boston/
+URL:https://calendar.mit.edu/event/an-ocean-reintroduction
+END:VEVENT
+BEGIN:VEVENT
+UID:0ed892dcec26cadec6009491b0bdaf6b837b8203@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261013T233000Z
+DTEND:20261014T013000Z
+SUMMARY:Is America Exceptional?
+LOCATION:MIT\, 182 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:Join Vincent Phillip Muñoz (Notre Dame) and Jennifer Hochschil
+ d (Harvard) for a discussion of American exceptionalism. Please note 7.30 
+ start time. Reception to follow.\nhttps://calendar.mit.edu/event/is-americ
+ a-exceptional\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/is-america-exceptional
+END:VEVENT
+BEGIN:VEVENT
+UID:87762bae1c31abf5a5872814a9a28ffba3ec7fd4@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261014T210000Z
+DTEND:20261014T230000Z
+SUMMARY:Reporting from Contemporary Italy: Q&A with Jason Horowitz\, New Y
+ ork Times Europe Correspondent
+LOCATION:MIT\, 182 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:Reporting from Contemporary Italy: Q&A with Jason Horowitz\, Ne
+ w York Times Europe Correspondent As Rome Bureau Chief for the New York Ti
+ mes for the last eight years\, Jason Horowitz reported from the front line
+ s of Italy and the Mediterranean region. In his new book The Italian Job: 
+ A Memoir of an American Reporter in Rome\, he shares an insider’s view o
+ f politics and culture in Italy today\, including the rise of Giorgia Melo
+ ni and the election of the first North American Pope.\nhttps://calendar.mi
+ t.edu/event/reporting-from-contemporary-italy\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://calendar.mit.edu/event/reporting-from-contemporary-italy
+END:VEVENT
+BEGIN:VEVENT
+UID:3a4f4b92fbeaf7cdc653c25635d1e288cc747118@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261015T203000Z
+DTEND:20261015T223000Z
+SUMMARY:Starr Forum: What Would the US Do in a Middle Power Order?
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:Anne-Marie Slaughter\, Incoming Dean of Public Policy at the Lo
+ ndon School of Economics A globally recognized scholar\, policy innovator\
+ , and public leader\, Anne-Marie Slaughter is the incoming dean of public 
+ policy at the London School of Economics\, and had previously served as th
+ e CEO of New America\, and as the director of policy planning at the US St
+ ate Department.\nhttps://calendar.mit.edu/event/starr-forum-75th-what-woul
+ d-the-us-do-in-a-middle-power-order\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://calendar.mit.edu/event/starr-forum-75th-what-would-the-us-do-in
+ -a-middle-power-order
+END:VEVENT
+BEGIN:VEVENT
+UID:150ee62d93da5e1dbce53f0e2ce858bd43ce28c3@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261015T220000Z
+DTEND:20261016T000000Z
+SUMMARY:Studio Ossidiana—Giovanni Bellotti and Alessandra Covini
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Studio Ossidiana—Giovanni Bellotti and Alessandra Covini Part
+  of the MIT Fall 2026 Architecture Lecture Series.\nhttps://calendar.mit.e
+ du/event/studio-ossidianagiovanni-bellotti-and-alessandra-covini\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/studio-ossidianagiovanni-bellotti-and-al
+ essandra-covini
+END:VEVENT
+BEGIN:VEVENT
+UID:77ecfe37b3c412d49ce238afd2fb3df0a9ff29bc@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261016T210000Z
+DTEND:20261016T230000Z
+SUMMARY:Our Own Language / Lang a nou — Book Launch & Public Conversation
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Celebrate MIT Prof. Michel DeGraff’s new book _Our Own Langua
+ ge / Lang a nou_. Introductory remarks\, conversation & book signing.\nhtt
+ ps://calendar.mit.edu/event/our-own-language-lang-a-nou-book-launch-public
+ -conversation\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/our-own-language-lang-a-nou-book-launch-
+ public-conversation
+END:VEVENT
+BEGIN:VEVENT
+UID:0190294b606e0856016947565d083b050c1318ad@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261017T170000Z
+DTEND:20261017T190000Z
+SUMMARY:MIT / French Library Author Series: Before I Forget with Anne Pauly
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Anne Pauly is a Paris-based French writer and winner of the Pri
+ x du Livre Inter and Prix Robert Walser. Her debut novel\, Before I Forget
+ \, was also shortlisted for the Prix Goncourt\, Prix Femina\, and Prix Wep
+ ler. Before turning to fiction\, she worked as a journalist and wrote on m
+ usic\, feminism\, queer culture\, and literature.\nhttps://calendar.mit.ed
+ u/event/mit-french-library-author-series-before-i-forget-with-anne-pauly\n
+ From Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/mit-french-library-author-series-before-
+ i-forget-with-anne-pauly
+END:VEVENT
+BEGIN:VEVENT
+UID:a331208455538ff29eaf1cdfb5c871dcc96524d6@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261019T211500Z
+DTEND:20261019T231500Z
+SUMMARY:Undoing Gender in French Literature
+LOCATION:MIT\, 160 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:The French modernist canon has been read has a key site for sex
+ ual dissidence\, but what about gender? In this talk\, Mat Fournier presen
+ ts his book\, Dysphoric Modernism\, and questions the entanglements of the
+  modern gender binary with state power and colonial history. Through readi
+ ngs of Gide\, Genet\, Colette\, and others\, Fournier explores how narrati
+ ves of sexual dissidence both deconstruct and reinforce mutually exclusive
+  definitions of masculinity and femininity and racial discriminations. In 
+ this web of contradictions\, modern gender appears as inherently dysphoric
+ \, imposing untenable positions and perpetuating systemic hierarchies. Ult
+ imately\, tracking the dysphoria traversing modernist writings offers a pe
+ rspective into gender’s complicity with historical and contemporary fasc
+ isms\, and offers strategies of resistance.\nhttps://calendar.mit.edu/even
+ t/undoing-gender-in-french-literature\nFrom Pushpin Boston: https://pushpi
+ n.city/boston/
+URL:https://calendar.mit.edu/event/undoing-gender-in-french-literature
+END:VEVENT
+BEGIN:VEVENT
+UID:514436c04ff588e359fddf42241f69a8819070db@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261020T220000Z
+DTEND:20261021T000000Z
+SUMMARY:Eleni Sikelianos and Julie Carr: the William Corbett Poetry Series
+LOCATION:MIT\, 182 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:Born into a family of bohemians\, poets\, tree workers\, ne’e
+ r-do-wells\, visionaries\, and smalltime sort-of hustlers\, Eleni Sikelian
+ os is a poet\, writer\, collaborator\, and “master of mixing genres” (
+ according to TimeOut). Kirkus has called her most recent book\, Memory Reh
+ earsal (City Lights\, 2026\; the third book in her trilogy of ancestral en
+ counters) “a moving family memoir and a triumph of cultural archaeology.
+ ” Deeply engaged with ecopoetics\, her work takes up urgent concerns of 
+ environmental precarity and ancestral lineages. Her tenth book of poetry\,
+  Your Kingdom came out in 2023. Her work has been translated into a dozen 
+ languages\, and she has in turn translated works by Jacques Roubaud\, Sabi
+ ne Macher\, and\, most recently\, Mohamed Leftah. She grew up in earshot o
+ f the ocean\, in small coastal towns near Goleta\, and has since lived in 
+ San Francisco\, New York\, Paris\, Athens (Greece)\, Boulder (Colorado)\, 
+ and Providence.\nhttps://calendar.mit.edu/event/eleni-sikelianos-and-julie
+ -carr-the-william-corbett-poetry-series\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://calendar.mit.edu/event/eleni-sikelianos-and-julie-carr-the-will
+ iam-corbett-poetry-series
+END:VEVENT
+BEGIN:VEVENT
+UID:1e0f77dda848bc3389fee2e705cefac9498682fc@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261021T220000Z
+DTEND:20261022T000000Z
+SUMMARY:From Brooklyn to the North Pole: An Illustrated Journey with Photog
+ rapher Leonard Sussman
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Experience the polar regions through the lens of photographer L
+ eonard Sussman.\nhttps://calendar.mit.edu/event/from-brooklyn-to-the-north
+ -pole-an-illustrated-journey-with-photographer-leonard-sussman\nFrom Pushp
+ in Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/from-brooklyn-to-the-north-pole-an-illus
+ trated-journey-with-photographer-leonard-sussman
+END:VEVENT
+BEGIN:VEVENT
+UID:691a1bfaa6ca3021ed33af498a14aaf77d6c97bc@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261022T213000Z
+DTEND:20261022T233000Z
+SUMMARY:Artist Talk: Hao Jingban
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:The List Visual Arts Center will host an artist talk in celebra
+ tion of the opening of Hao Jingban: I Witness followed by an opening recep
+ tion.\nhttps://calendar.mit.edu/event/artist-talk-hao-jingban\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/artist-talk-hao-jingban
+END:VEVENT
+BEGIN:VEVENT
+UID:8c35258e3dd3c01f3a1f5261d179ddf9ab964339@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261022T220000Z
+DTEND:20261023T000000Z
+SUMMARY:2026 Fall Exhibitions Opening Reception
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Join us for the opening reception to celebrate two new exhibiti
+ ons at the List Center: Uri Aran: Look How Hard They Work and Hao Jingban:
+  I Witness.\nhttps://calendar.mit.edu/event/fall-exhibitions-opening-recep
+ tion\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/fall-exhibitions-opening-reception
+END:VEVENT
+BEGIN:VEVENT
+UID:a4659317bef0d27080deb873ed44e81ab3ba3f41@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261022T220000Z
+DTEND:20261023T000000Z
+SUMMARY:Carrie McKnelly
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Part of the MIT Fall 2026 Architecture Lecture Series.\nhttps:/
+ /calendar.mit.edu/event/carrie-mcknelly\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://calendar.mit.edu/event/carrie-mcknelly
+END:VEVENT
+BEGIN:VEVENT
+UID:c8d253fd4e7315eb180488e8e1123173cbb4e626@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261022T230000Z
+DTEND:20261023T010000Z
+SUMMARY:"Entangled" Film Screening
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Join us for ENTANGLED (75 minutes)\, an award-winning\, feature
+ -length film about climate change’s acceleration of the collision betwee
+ n critically-endangered right whales\, North America’s most valuable fis
+ hery\, and the federal agency mandated to protect both.\nhttps://calendar.
+ mit.edu/event/entangled-film-screening\nFrom Pushpin Boston: https://pushp
+ in.city/boston/
+URL:https://calendar.mit.edu/event/entangled-film-screening
+END:VEVENT
+BEGIN:VEVENT
+UID:32bbfc85469f8914326a2712fa54372bb0af1565@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:What Are People For: Design Philosophy by Patrick Whitney
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:What Are People For: Design Philosophy by Patrick Whitney Bosto
+ n-Cambridge Premiere of Gary Hustwit’s New Film and Interactive Design W
+ orkshop Join the Morningside Academy of Design for the Boston-Cambridge Pr
+ emiere of What Are People For: Design Philosophy by Patrick Whitney\, the 
+ latest short film by acclaimed design documentarian Gary Hutwit (Helvetica
+ \, Objectified\, Urbanized\, Eno)\, and interactive design workshop on Oct
+ ober 24th. Explore how design can address today's most complex challenges 
+ from 2-5pm with a hands-on workshop led by Evan Chan and André Nogueira. 
+ Chan and Nogueira will introduce the Whole View model\, a systems design a
+ pproach for reframing problems\, surfacing the perspectives of diverse sta
+ keholders\, and finding new pathways forward in situations where expertise
+  is abundant but fragmented. The session is designed for cross-sector lead
+ ers grappling with problems too complex for any one discipline to solve al
+ one.\nhttps://calendar.mit.edu/event/what-are-people-for\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/what-are-people-for
+END:VEVENT
+BEGIN:VEVENT
+UID:7017538a66f37d7e8d3a610192396b05ca79f51a@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Rescheduled 2026 MIT Great Glass Pumpkin Patch
+LOCATION:MIT\, 77 Massachusetts Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Originally scheduled for Saturday 9/26\, and now rescheduled fo
+ r Saturday 10/24\, the 25th annual MIT Great Glass Pumpkin Patch offers gl
+ ass pumpkins of all colors\, shapes and sizes for sale to the general publ
+ ic. Proceeds from this event fund the ongoing operations of the MIT Glass 
+ Lab\, a program that teaches classes in team-based glassblowing to members
+  of the MIT community.\nhttps://calendar.mit.edu/event/rescheduled-2026-mi
+ t-great-glass-pumpkin-patch\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://calendar.mit.edu/event/rescheduled-2026-mit-great-glass-pumpkin
+ -patch
+END:VEVENT
+BEGIN:VEVENT
+UID:8736dd270c14a726743f5498986c01b2f5fcb93d@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261026T163000Z
+DTEND:20261026T183000Z
+SUMMARY:Book Launch: Against Tech Oligarchy
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:In a new book Against Tech Oligarchy\, JS Tan — a current DUS
+ P Phd student — writes about tech worker activism\, the shifting labor p
+ olitics of Silicon Valley\, and the rise of today's tech oligarchs. In the
+  AI age\, as tech's most powerful leaders unilaterally force the new techn
+ ology upon its workers\, this book makes the case that workers — when un
+ ited — can build the leverage to push back\; and even fight for more equ
+ itable and socially just ways to use the technology. Join JS Tan and his c
+ o-author at this upcoming event for a conversation on these topics and to 
+ celebrate the launch of their book.\nhttps://calendar.mit.edu/event/book-l
+ aunch-against-tech-oligarchy\nFrom Pushpin Boston: https://pushpin.city/bo
+ ston/
+URL:https://calendar.mit.edu/event/book-launch-against-tech-oligarchy
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ae17b7bd33a53a37b2f5b901c923305fd3c5c4@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261026T200000Z
+DTEND:20261026T220000Z
+SUMMARY:Arthur Miller Lecture on Science and Ethics
+LOCATION:MIT\, 292 Main St\, Cambridge\, MA 02142
+DESCRIPTION:The Program in Science\, Technology\, and Society invites you t
+ o the annual Arthur Miller Lecture in Science and Ethics on Monday\, Octob
+ er 26th from 4:00-5:30 pm in the MIT Welcome Center\, for a panel lecture 
+ on the use of chatbots in children's toys. The panel features Professor Mi
+ mi Ito\, Director of the Connected Learning Lab\, Professor Sherry Turkle\
+ , founding director of the MIT Initiative on Technology and Self\, and Mik
+ e Rizkalla\, CEO & Founder of Snorble\, a visionary leader in AI\, consume
+ r robotics\, humanoid robotics\, and children's technology.\nhttps://calen
+ dar.mit.edu/event/arthur-miller-lecture-on-science-and-ethics-chatbots-in-
+ childrens-toys-a-natural-progression-or-an-existential-crisis\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/arthur-miller-lecture-on-science-and-eth
+ ics-chatbots-in-childrens-toys-a-natural-progression-or-an-existential-cri
+ sis
+END:VEVENT
+BEGIN:VEVENT
+UID:23257f2b827adf9c5b5baed37248b05a99d8926a@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261026T203000Z
+DTEND:20261026T223000Z
+SUMMARY:Innovation on Steroids:  What are We Learning from the Ukraine War?
+LOCATION:MIT\, 33 MASSACHUSETTS AVE\, Cambridge\, MA 02139
+DESCRIPTION:This event will be offered in person and as a webcast. We will 
+ provide the webcast link after you RSVP.\nhttps://calendar.mit.edu/event/f
+ ocus-on-eurasia-innovation-on-steroids-what-are-we-learning-from-the-ukrai
+ ne-war\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/focus-on-eurasia-innovation-on-steroids-
+ what-are-we-learning-from-the-ukraine-war
+END:VEVENT
+BEGIN:VEVENT
+UID:f2cb29f753ed848afdf0405280c727d86773629b@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261026T220000Z
+DTEND:20261027T000000Z
+SUMMARY:Cities of Islamic Art: From Historical Visual Systems to the Format
+ ion of Contemporary Islamic Art in North America
+LOCATION:MIT\, 33 MASSACHUSETTS AVE\, Cambridge\, MA 02139
+DESCRIPTION:This lecture uses Cities of Islamic Art\, Vol. 2 as both an obj
+ ect and a methodology to examine Islamic art as a mobile system of visual 
+ knowledge rather than a fixed historical style. Beginning with historical 
+ surfaces from Isfahan\, Istanbul\, Damascus\, Cairo\, and Granada\, the ta
+ lk traces how motifs migrate across ceramics\, tiles\, manuscripts\, and a
+ rchitecture to form the fabric of visual culture and heritage known as “
+ Islamic Art.”\nhttps://calendar.mit.edu/event/cities-of-islamic-art\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/cities-of-islamic-art
+END:VEVENT
+BEGIN:VEVENT
+UID:3016118f7acdb644068392d90a2a594cc46c6f0c@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261028T210000Z
+DTEND:20261028T230000Z
+SUMMARY:MIT Music Tech Speaker Series: Andrew McPherson
+LOCATION:MIT\, 182 MEMORIAL DR (REAR)\, Cambridge\, MA 02139
+DESCRIPTION:Enacted\, not Extracted: Designing and Performing with Music-An
+ alytical Concepts This is a talk about designing musical instruments and t
+ he delicate interplay of artistic and technical ways of thinking. All inst
+ ruments\, and especially digital ones\, entail a balance between design an
+ d analysis\, with instruments relying on symbolic or numerical models of m
+ usic in order to create it\, as exemplified in the venerable MIDI standard
+ . However\, no system is ever devoid of sociocultural context\, and even t
+ he simplest technologies when examined in situ can exhibit fascinating com
+ plexity.\nhttps://calendar.mit.edu/event/mit-music-tech-speaker-series-and
+ rew-mcpherson\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/mit-music-tech-speaker-series-andrew-mcp
+ herson
+END:VEVENT
+BEGIN:VEVENT
+UID:ce87ba3a9b9c1fe17e1a49b5edc098692aee2da5@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261028T211500Z
+DTEND:20261028T231500Z
+SUMMARY:The Ambivalences of Return: Diasporic Utopias and Anti-Migrant Poli
+ cies
+LOCATION:MIT\, 160 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:"Return" is a central notion for thinking about the diasporic c
+ ondition in general (W. Safran). In the "radical imaginations" (R.D.G. Kel
+ ley) of the Black Americas of the late nineteenth and twentieth centuries\
+ , from Black nationalism to Pan-Africanism\, as well as in African anticol
+ onialisms\, "return" refers to a shared political dream: making Africa a l
+ and of hospitality for all Africans and/or Black people dispersed across t
+ he world. Return carries an ideal of reparative justice: reuniting\, on th
+ e land from which they were torn\, those whom slavery and colonization had
+  separated. Within these traditions\, however\, the idea is fraught with t
+ ensions\, and for those who experience return to the continent\, it often 
+ appears as a myth (S. Hartman\, M. Condé). In the aftermath of the Second
+  World War\, the idea of "return" was elevated to the status of a right. T
+ he Universal Declaration of Human Rights of 1948 recognizes everyone's rig
+ ht to return to their country\, and that same year\, in the context of the
+  war in Palestine\, United Nations General Assembly Resolution 194 affirme
+ d it for Palestinian refugees. From then on\, the term became the object o
+ f competing claims to the same land\, as illustrated two years later by th
+ e Israeli Law of Return.\nhttps://calendar.mit.edu/event/the-ambivalences-
+ of-return-diasporic-utopias-and-anti-migrant-policies\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/the-ambivalences-of-return-diasporic-uto
+ pias-and-anti-migrant-policies
+END:VEVENT
+BEGIN:VEVENT
+UID:f47c8cdf7d68f297604e7c1a5a7d17871360f210@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261029T220000Z
+DTEND:20261030T000000Z
+SUMMARY:Anooradha Iyer Siddiqi and Rachel Lee
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Anooradha Iyer Siddiqi and Rachel Lee Presented with the HTC Fo
+ rum Part of the MIT Fall 2026 Architecture Lecture Series The Work of Coll
+ aboration Collaboration has often occupied an ambiguous place within archi
+ tectural history\, a discipline that continues to privilege individual aut
+ horship\, singular expertise and archival authority. Collaboration can uns
+ ettle these privileges. By bringing researchers together it reshapes the q
+ uestions we ask\, the evidence we value and the histories we are able to w
+ rite.\nhttps://calendar.mit.edu/event/anooradha-iyer-siddiq-and-rachel-lee
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/anooradha-iyer-siddiq-and-rachel-lee
+END:VEVENT
+BEGIN:VEVENT
+UID:ddd4b1f1fd8bba3d9bdfff28cf3c4c5f0d38b689@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261029T223000Z
+DTEND:20261030T003000Z
+SUMMARY:MIT / French Library Author Talks: Camille de Peretti on  Portrait 
+ of an Unknown Woman
+LOCATION:MIT\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:In 1910\, Gustav Klimt painted a young woman\, then painted ove
+ r her portrait. The painting was stolen in 1997 and unexpectedly resurface
+ d two decades later. Camille de Peretti uses this intriguing chapter in ar
+ t history to imagine the woman behind the painting and the generations tha
+ t follow her.\nhttps://calendar.mit.edu/event/mit-french-library-author-ta
+ lks-camille-de-peretti-on-portrait-of-an-unknown-woman\nFrom Pushpin Bosto
+ n: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/mit-french-library-author-talks-camille-
+ de-peretti-on-portrait-of-an-unknown-woman
+END:VEVENT
+BEGIN:VEVENT
+UID:75680fdedbbd4207e84092d0a6d0b57fe6923f2f@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261105T230000Z
+DTEND:20261106T010000Z
+SUMMARY:e-flux Architecture—Nick Axel and Nikolaus Hirsch
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:e-flux Architecture—Nick Axel and Nikolaus Hirsch Part of the
+  MIT Fall 2026 Architecture Lecture Series Presented with the Architecture
+  and Urbanism Group Nikolaus Hirsch is co-founder and co-editor of e-flux 
+ Architecture\, as well as the director of the museum Kanal Architecture (f
+ ormerly CIVA) in Brussels. He was the Dean of Städelschule and Director o
+ f the Portikus in Frankfurt and taught at the Architectural Association in
+  London. His architectural work includes the award-winning Dresden Synagog
+ ue\, Hinzert Document Center\, Bockenheimer Depot Theater (with William Fo
+ rsythe)\, Cybermohalla Hub in New-Delhi\, “Do We Dream Under The Same Sk
+ y“(with Rirkrit Tiravanija at Art Basel / LUMA Arles) and “Becoming Mo
+ nument” in Fukushima. Hirsch has curated numerous exhibitions such “Wo
+ hnungsfrage / Housing Question” at the HKW in Berlin and the German Pavi
+ lion at the Architecture Biennale in Venice (“2038”). He is the editor
+  of the Critical Spatial Practice series at Sternberg Press.\nhttps://cale
+ ndar.mit.edu/event/e-flux-architecturenick-axel-and-nikolaus-hirsch\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/e-flux-architecturenick-axel-and-nikolau
+ s-hirsch
+END:VEVENT
+END:VCALENDAR

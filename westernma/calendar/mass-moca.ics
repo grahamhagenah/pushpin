@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Mass MoCA
+X-WR-CALDESC:What’s coming up at Mass MoCA\, from Pushpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:9589e188afcd75e478f21e9537f86db47bb6d5e9@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261010T163000Z
+DTEND:20261010T183000Z
+SUMMARY:Hacia Cuando: An Opera
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Daniela Rivera\, Jenny Olivia Johnson\, and Javier Bustos\nHaci
+ a Cuando: An Opera is a cross-geographical experimental opera-performance 
+ created in the mode of an exquisite corpse.\nhttps://massmoca.org/event/ha
+ cia-cuando-an-opera/\nFrom Pushpin Western Mass: https://pushpin.city/west
+ ernma/
+URL:https://massmoca.org/event/hacia-cuando-an-opera/
+END:VEVENT
+BEGIN:VEVENT
+UID:67a796ef95e5555e788709d6d841a60a95ebea7d@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261010T180000Z
+DTEND:20261010T200000Z
+SUMMARY:In Conversation: Daniela Rivera
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Join us in the Research and Development Store for a conversatio
+ n between Daniela Rivera\, Chilean-American visual artist of Hacia Cuando 
+ (To When)\; Evan Garza\, Curator\; Jenny Olivia Johnson\, composer and sou
+ nd artist based in Los Angeles\; and Javier Bustos\, Argentinian experimen
+ tal luthier and sound artist.\nhttps://massmoca.org/event/in-conversation-
+ daniela-rivera/\nFrom Pushpin Western Mass: https://pushpin.city/westernma
+ /
+URL:https://massmoca.org/event/in-conversation-daniela-rivera/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffc670b9f378f04c3c0ec9923b77527f3bffe595@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261016T220000Z
+DTEND:20261017T000000Z
+SUMMARY:My ’90s Rock Photographs
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Melissa Auf der Maur\nAn intimate conversation with alt-rock ba
+ ssist Melissa Auf der Maur — of Hole and Smashing Pumpkins fame — as s
+ he walks us through Even the Good Girls Will Cry: A ’90s Rock Memoir (Da
+  Capo) and shares images from Melissa Auf der Maur: My ’90s Rock Photogr
+ aphs (DelMonico Books)\, the catalog to her exhibition at Art Gallery of O
+ ntario that doubles as a photographic love letter to the last analog decad
+ e.\nhttps://massmoca.org/event/my-90s-rock-photographsmelissa-auf-der-maur
+ /\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/my-90s-rock-photographsmelissa-auf-der-maur/
+END:VEVENT
+BEGIN:VEVENT
+UID:4b73a7f4ad372c8e234214444bb8b8c1a8a8be69@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261017T230000Z
+DTEND:20261018T010000Z
+SUMMARY:Roz Chast & Jason Adam Katzenstein
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:“I don’t think I’ve ever laughed so hard. Everyone not na
+ med Martha Stewart will recognize themselves in The Two Saddest Kitchens
+ ” — Ruth Reichl Two hilarious\, celebrated cartoonists visit MASS MoCA
+  to discuss a highly relatable subject — kitchen anxiety: Roz Chast and 
+ Jason Adam Katzenstein are both longtime New Yorker cartoonists with their
+  own unique drawing styles\, huge followings\,and legions of loyal fans. C
+ hast’s Can’t We Talk About Something More Pleasant? spent over a hundr
+ ed weeks on the NYT bestseller list and sold more than 150\,000 hardcovers
+ \; Katzenstein’s fan base pulls from his magazine work as well as TV and
+  graphic novels.\nhttps://massmoca.org/event/roz-chast-jason-adam-katzenst
+ ein/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/roz-chast-jason-adam-katzenstein/
+END:VEVENT
+BEGIN:VEVENT
+UID:7ed115d2017bcedaa419f9745d48f8c6db169f22@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261021T000000Z
+DTEND:20261021T020000Z
+SUMMARY:Earl Sweatshirt + MIKE
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Home on the Range Tour\nWith harrison (SURF GANG) & Anysia Kym 
+ Please note: MASS MoCA museum galleries are closed on Tuesdays. If you’d
+  like to visit our galleries\, they are open Wednesday–Monday. Preferred
+ /VIP ticket holders can receive gallery admission the day before or the da
+ y after the concert by showing their preferred ticket at the door.\nhttps:
+ //massmoca.org/event/earl-sweatshirt-mike-home-on-the-range-tour-with-harr
+ ison-surf-gang-alysia-kym/\nFrom Pushpin Western Mass: https://pushpin.cit
+ y/westernma/
+URL:https://massmoca.org/event/earl-sweatshirt-mike-home-on-the-range-tour-
+ with-harrison-surf-gang-alysia-kym/
+END:VEVENT
+BEGIN:VEVENT
+UID:742dc25ba9c1a7ee947566af417e523cfcb5d62a@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261030T230000Z
+DTEND:20261031T010000Z
+SUMMARY:Ballet Nepantla’s Mística
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Mística honors the company’s ancestors by celebrating the cr
+ eative and spiritual energies of their Indigenous\, Afro\, and Hispanic ro
+ ots. It commemorates traditions of Día de Muertos and transports the audi
+ ence into the afterlife through the use of black light and Ballet Nepantla
+ ’s unique fusion of ballet folklorico and contemporary dance.\nhttps://m
+ assmoca.org/event/ballet-nepantlas-mistica/\nFrom Pushpin Western Mass: ht
+ tps://pushpin.city/westernma/
+URL:https://massmoca.org/event/ballet-nepantlas-mistica/
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd2f9cf4c59722e72579328e5837b0345bfa054@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261107T130000Z
+DTEND:20261107T150000Z
+SUMMARY:Laurent Grasso
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Metaphysical Maze\nMetaphysical Maze will be the largest exhibi
+ tion to date in the United States devoted to French conceptual artist Laur
+ ent Grasso. Installed in the museum’s iconic Building 5\, Metaphysical M
+ aze will take the form of an immersive installation bringing together\, fo
+ r the first time\, the artist’s most emblematic films\, along with a new
+  commission in progress\, Cosmic Drive\, produced during his research resi
+ dency at the SETI Institute in Mountain View\, California.\nhttps://massmo
+ ca.org/event/laurent-grasso-metaphysical-maze/\nFrom Pushpin Western Mass:
+  https://pushpin.city/westernma/
+URL:https://massmoca.org/event/laurent-grasso-metaphysical-maze/
+END:VEVENT
+BEGIN:VEVENT
+UID:ee4063f2ff69f50858b49f3ba6368f20bf2a37be@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261107T210000Z
+DTEND:20261107T230000Z
+SUMMARY:In Conversation: Laurent Grasso
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:In Laurent Grasso’s universe\, all lines are blurred\; within
+  his exhibition\, time appears suspended\, with film\, paintings\, and arc
+ hitectural interventions encroaching upon a visitor’s perception of line
+ arity. Together\, these presentations will bring past and present into con
+ versation\, placing Grasso’s work in a dialogue with historical figures 
+ of American landscape painting.\nhttps://massmoca.org/event/in-conversatio
+ n-laurent-grasso/\nFrom Pushpin Western Mass: https://pushpin.city/western
+ ma/
+URL:https://massmoca.org/event/in-conversation-laurent-grasso/
+END:VEVENT
+BEGIN:VEVENT
+UID:f3bdf625dd092e6145e2e15de0c3a346c3f4e298@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+SUMMARY:Endea Owens & The Cookout
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Known as one of jazz’s most vibrant emerging artists\, Endea 
+ Owens is a Detroit-raised recording artist\, bassist\, and composer. She h
+ as been mentored by jazz icons the likes of Marcus Belgrave\, Rodney Whita
+ ker\, and Ron Carter. She has toured and performed with Wynton Marsalis\, 
+ Jennifer Holliday\, Diana Ross\, Rhonda Ross\, Solange\, Jon Batiste\, Jaz
+ zmeia Horn\, Dee Dee Bridgewater\, and Cyrus Chestnut\, to name a few.\nht
+ tps://massmoca.org/event/endea-owens-the-cookout/\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/endea-owens-the-cookout/
+END:VEVENT
+END:VCALENDAR

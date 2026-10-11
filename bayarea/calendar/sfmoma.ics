@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Bay Area//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Bay Area · SFMOMA
+X-WR-CALDESC:What’s coming up at SFMOMA\, from Pushpin Bay Area.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:9942f197dd2d70de41d3b3c1bca349efb5729412@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261010T200000Z
+DTEND:20261010T220000Z
+SUMMARY:SOMA PILIPINAS PRIDE: MAKIBEKI
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/soma-pilipinas-pride-makibeki/\nFr
+ om Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/soma-pilipinas-pride-makibeki/
+END:VEVENT
+BEGIN:VEVENT
+UID:5da6f5e9867015b95ae27e05e47c262b86ea57e4@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261016T000000Z
+DTEND:20261016T020000Z
+SUMMARY:Art Making: Your Own Way
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/art-making-your-own-way/\nFrom Pus
+ hpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/art-making-your-own-way/
+END:VEVENT
+BEGIN:VEVENT
+UID:3bef9ea8ae895ffe77d2c78fabde9a3bbf0a715c@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261018T170000Z
+DTEND:20261018T190000Z
+SUMMARY:Family Studio: Spiders
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/family-studio-spiders/\nFrom Pushp
+ in Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/family-studio-spiders/
+END:VEVENT
+BEGIN:VEVENT
+UID:98756eb1ddbd0df87e0abcc40531c380a2ceb1ac@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261018T190000Z
+DTEND:20261018T210000Z
+SUMMARY:Spooky Art: Spiders and More!
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Tour\nhttps://www.sfmoma.org/event/spooky-art-spiders-an
+ d-more/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/spooky-art-spiders-and-more/
+END:VEVENT
+BEGIN:VEVENT
+UID:250de7bcc4d9cb63203a26cddb102c6082c88174@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261018T210000Z
+DTEND:20261018T230000Z
+SUMMARY:Studio 8 Film Festival: No Nothing Cinema + George Kuchar
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/studio-8-film-festival-no-nothing-
+ cinema-george-kuchar/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea
+ /
+URL:https://www.sfmoma.org/event/studio-8-film-festival-no-nothing-cinema-g
+ eorge-kuchar/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a62dabfd560f41773bbb67d783994c3205d99e3@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261023T010000Z
+DTEND:20261023T030000Z
+SUMMARY:Eternal Echoes II: The Kiki Ball with Sir Joq
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/eternal-echoes-ii-the-kiki-ball-wi
+ th-sir-joq/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/eternal-echoes-ii-the-kiki-ball-with-sir-j
+ oq/
+END:VEVENT
+BEGIN:VEVENT
+UID:ac1972a262f7266297ac22fd2dc24c360686e40a@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261023T170000Z
+DTEND:20261023T190000Z
+SUMMARY:Member Previews New Work: Raven Chacon
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Member Event\nhttps://www.sfmoma.org/event/member-previewsnew-w
+ ork-raven-chacon/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/member-previewsnew-work-raven-chacon/
+END:VEVENT
+BEGIN:VEVENT
+UID:918392caa2a115fe71e08431d6393efde14ac3b0@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261025T170000Z
+DTEND:20261025T190000Z
+SUMMARY:Free Family Day: K-Pop\, Art\, and Beyond
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/free-family-day-k-pop-art-and-beyo
+ nd/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/free-family-day-k-pop-art-and-beyond/
+END:VEVENT
+BEGIN:VEVENT
+UID:ed374d6f0b22397cc95b7bb3f1e244e3c7b1093e@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261030T010000Z
+DTEND:20261030T030000Z
+SUMMARY:An Evening with Doug Aitken
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Artist Talk\nhttps://www.sfmoma.org/event/an-evening-with-doug-
+ aitken/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/an-evening-with-doug-aitken/
+END:VEVENT
+BEGIN:VEVENT
+UID:8f460da32b27fa2c3c3f93e156107020cf0ced1d@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261030T010000Z
+DTEND:20261030T030000Z
+SUMMARY:Works on Paper Book Club: Eat the Mouth That Feeds You by Carribean
+  Fragoza
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/works-on-paper-book-club-eat-the-m
+ outh-that-feeds-you-by-carribean-fragoza/\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/works-on-paper-book-club-eat-the-mouth-tha
+ t-feeds-you-by-carribean-fragoza/
+END:VEVENT
+BEGIN:VEVENT
+UID:211879b5efea19752c3f5a79062b6f22af22ddaf@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261031T180000Z
+DTEND:20261031T200000Z
+SUMMARY:SFMOMAween
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/sfmomaween/\nFrom Pushpin Bay Area
+ : https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/sfmomaween/
+END:VEVENT
+BEGIN:VEVENT
+UID:2f5e6c6054b855226d328f0a1b0eb7ce568867cf@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261107T190000Z
+DTEND:20261107T210000Z
+SUMMARY:Make a Kite with Jacob Hashimoto
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/make-a-kite-with-jacob-hashimoto/\
+ nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/make-a-kite-with-jacob-hashimoto/
+END:VEVENT
+BEGIN:VEVENT
+UID:128f349ce85956597f65cc33bf47dfe386f4e8fe@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261107T210000Z
+DTEND:20261107T230000Z
+SUMMARY:The Fall of the I-Hotel + Manilatown Manang Screenings
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/the-fall-of-the-i-hotel-manilatown
+ -manang-screenings/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/the-fall-of-the-i-hotel-manilatown-manang-
+ screenings/
+END:VEVENT
+BEGIN:VEVENT
+UID:fbb32ea454d5b2e3b3f633cfe2bbcf8fa374a057@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261108T180000Z
+DTEND:20261108T200000Z
+SUMMARY:Family Studio: Lines That Move
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Sundays\nhttps://www.sfmoma.org/event/family-studio-line
+ s-that-move-11-8/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/family-studio-lines-that-move-11-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d8e67be7cf82e92292fc03354784c23b00854d1@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261108T220000Z
+DTEND:20261109T000000Z
+SUMMARY:William Kentridge
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Artist Talk\nhttps://www.sfmoma.org/event/artist-talk-william-k
+ entridge/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/artist-talk-william-kentridge/
+END:VEVENT
+END:VCALENDAR

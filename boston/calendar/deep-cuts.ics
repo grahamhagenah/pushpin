@@ -1,0 +1,341 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Deep Cuts
+X-WR-CALDESC:What’s coming up at Deep Cuts\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:5898db2f90dd6e4e28b27c550e125d0022ba7d5d@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261010T230000Z
+DTEND:20261011T010000Z
+SUMMARY:Oh The Horrors! A Burlesque Show
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a7bcfbcf9824100013e9e25\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a7bcfbcf9824100013e9e25
+END:VEVENT
+BEGIN:VEVENT
+UID:099a87c00051e659d5888b0088b71edbd58e6226@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261012T230000Z
+DTEND:20261013T010000Z
+SUMMARY:Pintail / Lucia and Juiceboxes / Impossible Dog / Spinworld
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6aa34b722b10690001e27676\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6aa34b722b10690001e27676
+END:VEVENT
+BEGIN:VEVENT
+UID:45d33b3428d3d7ac7b134d08c8c75ff8f40d6c4b@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261013T230000Z
+DTEND:20261014T010000Z
+SUMMARY:Cape Crush / Bicycle Inn / Broken Record / Shy Husky
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a9b439a45540d0001ab58f6\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a9b439a45540d0001ab58f6
+END:VEVENT
+BEGIN:VEVENT
+UID:028ad9717fae734b0c02585ebd45b0c067bf4fe1@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261014T230000Z
+DTEND:20261015T010000Z
+SUMMARY:Roger Clark Miller w/Beth Kaplan + Chris Brokaw
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a4d0af783b8a200018a3895\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a4d0af783b8a200018a3895
+END:VEVENT
+BEGIN:VEVENT
+UID:3a1b0886de0c5d1112a1ff627659c87422386c8c@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261015T230000Z
+DTEND:20261016T010000Z
+SUMMARY:Dogwood Tales w/ Hey I'm Outside
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a1ee86b0b917c000144339f\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a1ee86b0b917c000144339f
+END:VEVENT
+BEGIN:VEVENT
+UID:a74eda2d360b8684ef60726adc15204df76fd9e2@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261016T230000Z
+DTEND:20261017T010000Z
+SUMMARY:The Tubs w/ Mopar Stars
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a3584114ca5dc0001268138\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a3584114ca5dc0001268138
+END:VEVENT
+BEGIN:VEVENT
+UID:ca5749132129e3d68acaf4cc4f2116cb6a2d5525@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261017T230000Z
+DTEND:20261018T010000Z
+SUMMARY:Hallelujah The Hills / Patrick Stickles
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a166192605f1c0001ccb5cd\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a166192605f1c0001ccb5cd
+END:VEVENT
+BEGIN:VEVENT
+UID:f088c181239a8a831a91e30b29f76a9dbc7d9ae2@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261020T230000Z
+DTEND:20261021T010000Z
+SUMMARY:Sungaze / Lavisher / Slow Quit
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a8508e7cb3df20001de22a6\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a8508e7cb3df20001de22a6
+END:VEVENT
+BEGIN:VEVENT
+UID:2a46b1bdfc0e8c2f215f0f5aeba2557a430805c6@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261021T230000Z
+DTEND:20261022T010000Z
+SUMMARY:The Croaks / Andro Queen / Ohio State Fair
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6aaed36a4c55e1000137de5f\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6aaed36a4c55e1000137de5f
+END:VEVENT
+BEGIN:VEVENT
+UID:7be45cbb9936e4471139a6412279071f078b22b7@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261022T230000Z
+DTEND:20261023T010000Z
+SUMMARY:Declaw / Hedge / Dagwood / Something Sneaky
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a91a8f1b63d4a0001d94001\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a91a8f1b63d4a0001d94001
+END:VEVENT
+BEGIN:VEVENT
+UID:1c6bd50fa1098a0328e98d5a3032ead530d174b8@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261023T230000Z
+DTEND:20261024T010000Z
+SUMMARY:Emo NIght Boston Halloween Party!
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6ac80626051f140001789981\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6ac80626051f140001789981
+END:VEVENT
+BEGIN:VEVENT
+UID:8750d96d4cde00eaf9ea74cc76614ec935954134@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261024T230000Z
+DTEND:20261025T010000Z
+SUMMARY:Fib / Wiring / Main Era / Pew Pew
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6aa832ce1c3ced0001f97fec\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6aa832ce1c3ced0001f97fec
+END:VEVENT
+BEGIN:VEVENT
+UID:981beef4b0a2dcf0299a033d3e3f054dc2aeaf4d@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261025T230000Z
+DTEND:20261026T010000Z
+SUMMARY:Radiator Hospital / Dusk / The Michael Character
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a7e1fc81959cc0001c0ce02\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a7e1fc81959cc0001c0ce02
+END:VEVENT
+BEGIN:VEVENT
+UID:7fa540fa44ae7aac819fffce8355b29686e80af7@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261027T230000Z
+DTEND:20261028T010000Z
+SUMMARY:Doctor Gasp / Deluxe Fiasco
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6ab087e610b8c80001b9cb5d\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6ab087e610b8c80001b9cb5d
+END:VEVENT
+BEGIN:VEVENT
+UID:272d3e8d9dce2d6bdab33a965104e7b900c6e02f@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261028T230000Z
+DTEND:20261029T010000Z
+SUMMARY:Small Pond / Otis Shanty / Bus Crush
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a918a0ec891b4000128827c\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a918a0ec891b4000128827c
+END:VEVENT
+BEGIN:VEVENT
+UID:3bab4d33242f565d7e2d263ba57ae63bfee2ea53@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261029T230000Z
+DTEND:20261030T010000Z
+SUMMARY:Ak'chamel w/ Sunburned Hand of the Man
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a2ab9d0052dfc0001be8689\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a2ab9d0052dfc0001be8689
+END:VEVENT
+BEGIN:VEVENT
+UID:a71f85707c1f1b32cb0dfd3c786cc721bcef5c49@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261030T230000Z
+DTEND:20261031T010000Z
+SUMMARY:Halloweemo
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6abd7cfaf9422b000143bf33\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6abd7cfaf9422b000143bf33
+END:VEVENT
+BEGIN:VEVENT
+UID:430d6b209bbfb522f85412aa76aca76f78b14099@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Halloween Cover Show
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6ac3eee1068dfd0001d5b9dc\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6ac3eee1068dfd0001d5b9dc
+END:VEVENT
+BEGIN:VEVENT
+UID:62864411a7921bda711bc49b26cdce13afe43b3e@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Genre is Death / Art Gray Noizz Quintet / Gossip Collar
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6ac5457863058d000120a88a\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6ac5457863058d000120a88a
+END:VEVENT
+BEGIN:VEVENT
+UID:1f415fc224deb0ba64e8a2c395a13aaa5acb5b47@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261106T000000Z
+DTEND:20261106T020000Z
+SUMMARY:Sweeping Promises
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a0284987a30ab00014ee6da\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a0284987a30ab00014ee6da
+END:VEVENT
+BEGIN:VEVENT
+UID:5772245425e04271df6024c3a96d3c1443c16b33@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261109T000000Z
+DTEND:20261109T020000Z
+SUMMARY:Outer World
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6aad6fe3444a3800012e76a8\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6aad6fe3444a3800012e76a8
+END:VEVENT
+BEGIN:VEVENT
+UID:f699e9cecf1949fb76d470c90007b66297b69aa7@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261111T000000Z
+DTEND:20261111T020000Z
+SUMMARY:Shady Bug / 7-11 Jesus / Night Moth
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6ac3d2991508150001108996\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6ac3d2991508150001108996
+END:VEVENT
+BEGIN:VEVENT
+UID:629592a1d2aba630fb0c93eb6c5079271ce88110@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261112T000000Z
+DTEND:20261112T020000Z
+SUMMARY:The Pentagram String Band / Doom Scroll / Troll 2
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6aa59fc14e816400017e7df1\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6aa59fc14e816400017e7df1
+END:VEVENT
+BEGIN:VEVENT
+UID:e3ccd2aabd2c7fd9209ab874273a72cc3673a8d8@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+SUMMARY:Shanghai Qiutian / Dabda
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6aa17dc6fc7540000191f8ac\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6aa17dc6fc7540000191f8ac
+END:VEVENT
+BEGIN:VEVENT
+UID:2c1cf235fb3136a993d7758d17a19e78503e6fe1@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261114T000000Z
+DTEND:20261114T020000Z
+SUMMARY:Colleen Green
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a9f59e6a894f200016946ed\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a9f59e6a894f200016946ed
+END:VEVENT
+BEGIN:VEVENT
+UID:9398cbd47db21f82d062a3b40d360bb79633fcb4@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:Small Brown Bike w/ The Casket Lottery
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a2cbfa16d1d2f0001d1e3b3\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a2cbfa16d1d2f0001d1e3b3
+END:VEVENT
+BEGIN:VEVENT
+UID:c348b8d931411f8bc06b264e257e33ca93a7a901@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261116T000000Z
+DTEND:20261116T020000Z
+SUMMARY:June Henry / Chrysalis
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a7a3180c2f6550001ff35e9\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a7a3180c2f6550001ff35e9
+END:VEVENT
+BEGIN:VEVENT
+UID:929cb2bc6038209847c98872d41612771b3f7d2b@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+SUMMARY:Tagua Tagua w/ Orlas
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a6cde087f53ef00018d8fba\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a6cde087f53ef00018d8fba
+END:VEVENT
+BEGIN:VEVENT
+UID:3b0d8ade3ca3a8bdab27ed8581245960512063df@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:Marci
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a6cb7bb6a0b2b00013422c7\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6a6cb7bb6a0b2b00013422c7
+END:VEVENT
+BEGIN:VEVENT
+UID:1ad241a47c66797d6cca7961b7eca673f94ca989@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Gollylagging  / Jonny Tex / Bus Crush / King's Evil
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6ac52c7b0a623400010c93a2\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://dice.fm/event/6ac52c7b0a623400010c93a2
+END:VEVENT
+END:VCALENDAR

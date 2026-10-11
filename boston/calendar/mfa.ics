@@ -1,0 +1,307 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · MFA
+X-WR-CALDESC:What’s coming up at MFA\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:013ef6b6b71f781bf150f13cb93328086d71db03@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261010T180000Z
+DTEND:20261010T200000Z
+SUMMARY:Exhibition on Screen: James McNeill Whistler
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/exhibition-on-screen-james-mcnei
+ ll-whistler?event=178356\nFrom Pushpin Boston: https://pushpin.city/boston
+ /
+URL:https://www.mfa.org/event/film/exhibition-on-screen-james-mcneill-whist
+ ler?event=178356
+END:VEVENT
+BEGIN:VEVENT
+UID:0651cfb4a48d16a62e5826b95cc77503287f56c2@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261011T140000Z
+DTEND:20261011T160000Z
+SUMMARY:Latinx/Hispanic Heritage Family Day
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/latinxhispanic-heritage
+ -family-day?event=179336\nFrom Pushpin Boston: https://pushpin.city/boston
+ /
+URL:https://www.mfa.org/event/special-event/latinxhispanic-heritage-family-
+ day?event=179336
+END:VEVENT
+BEGIN:VEVENT
+UID:4921751abb6d9f665b3915926d9a6b32b8e57abf@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261012T140000Z
+DTEND:20261012T160000Z
+SUMMARY:Indigenous Peoples’ Day
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/open-house/indigenous-peoples-day?eve
+ nt=3172\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/open-house/indigenous-peoples-day?event=3172
+END:VEVENT
+BEGIN:VEVENT
+UID:0d8278c508f4d3edc731ab518cb274f1c99f54b5@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261014T170000Z
+DTEND:20261014T190000Z
+SUMMARY:Joseph Pope’s Orrery Clock: Boston and the World in the 18th Cent
+ ury
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/joseph-popes-orrery-clock-bos
+ ton-and-the-world-in-the-18th-century?event=178371\nFrom Pushpin Boston: h
+ ttps://pushpin.city/boston/
+URL:https://www.mfa.org/event/lecture/joseph-popes-orrery-clock-boston-and-
+ the-world-in-the-18th-century?event=178371
+END:VEVENT
+BEGIN:VEVENT
+UID:41d15ea80cebddce36ba2d14159d35c3c5ef317b@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261015T180000Z
+DTEND:20261015T200000Z
+SUMMARY:From Donations to Excavations: The Provenance of Objects in “Mave
+ rick Kings”
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/from-donations-to-excavations
+ -the-provenance-of-objects-in-maverick-kings?event=178481\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/lecture/from-donations-to-excavations-the-pro
+ venance-of-objects-in-maverick-kings?event=178481
+END:VEVENT
+BEGIN:VEVENT
+UID:28ca55d871abbc88d0dfd53fc8a091cd7a7d5357@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261015T210000Z
+DTEND:20261015T230000Z
+SUMMARY:$5 Third Thursday
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/5-third-thursday-octobe
+ r-2026?event=153031\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/5-third-thursday-october-2026?e
+ vent=153031
+END:VEVENT
+BEGIN:VEVENT
+UID:e7ad3959b13cfbca5a290dbdf616383cc61f8afa@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261015T220000Z
+DTEND:20261016T000000Z
+SUMMARY:Steph Davis: The Prayers of Black Folk
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:Times: 6pm\, 7:15pm\nhttps://www.mfa.org/event/sound-bites-nanc
+ y-lee-clark-concert-series/steph-davis-the-prayers-of-black-folk?event=179
+ 286\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/sound-bites-nancy-lee-clark-concert-series/st
+ eph-davis-the-prayers-of-black-folk?event=179286
+END:VEVENT
+BEGIN:VEVENT
+UID:4b7bf4d672a73690a605135b640fda8a6e1f0fd5@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261016T230000Z
+DTEND:20261017T010000Z
+SUMMARY:Edward Said: Between Worlds
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/edward-said-between-worlds?event
+ =179081\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/film/edward-said-between-worlds?event=179081
+END:VEVENT
+BEGIN:VEVENT
+UID:3164b4a5f450434d878bb8f6155d19497a969696@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261017T180000Z
+DTEND:20261017T200000Z
+SUMMARY:Palestine Shorts: Transitions of the Body and Mind
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/palestine-shorts-transitions-of-
+ the-body-and-mind?event=179091\nFrom Pushpin Boston: https://pushpin.city/
+ boston/
+URL:https://www.mfa.org/event/film/palestine-shorts-transitions-of-the-body
+ -and-mind?event=179091
+END:VEVENT
+BEGIN:VEVENT
+UID:e441626a2e7cba8154e9bc0c03aa9f2145763fee@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+SUMMARY:Who Killed Alex Odeh?
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/who-killed-alex-odeh?event=17906
+ 1\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/film/who-killed-alex-odeh?event=179061
+END:VEVENT
+BEGIN:VEVENT
+UID:cc91f00854b9af26082c85a37cb578eccc1782bc@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261021T170000Z
+DTEND:20261021T190000Z
+SUMMARY:Mercy Otis Warren: Looking at Revolutionary Women
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/mercy-otis-warren-looking-at-
+ revolutionary-women?event=178381\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.mfa.org/event/lecture/mercy-otis-warren-looking-at-revoluti
+ onary-women?event=178381
+END:VEVENT
+BEGIN:VEVENT
+UID:4df744f03d44da8e808d6f0e8093326f8ef49194@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261023T230000Z
+DTEND:20261024T010000Z
+SUMMARY:Chronicles from the Siege
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/chronicles-from-the-siege?event=
+ 179071\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/film/chronicles-from-the-siege?event=179071
+END:VEVENT
+BEGIN:VEVENT
+UID:37513ea3ddc6bea253ddaa6063da5717afe668eb@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+SUMMARY:The Story of Art without Men: An Illustrated Guide to Amazing Women
+  Artists
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/the-story-of-art-without-men-
+ an-illustrated-guide-to-amazing-women-artists?event=179131\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/lecture/the-story-of-art-without-men-an-illus
+ trated-guide-to-amazing-women-artists?event=179131
+END:VEVENT
+BEGIN:VEVENT
+UID:62a7f8690039c38b188f2a5088d435f6333e1c95@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+SUMMARY:After the Landslide: New Sculptural Forms from a Sea of Mud
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/the-rad-smith-program-in-japanese-art
+ /after-the-landslide-new-sculptural-forms-from-a-sea-of?event=179101\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/the-rad-smith-program-in-japanese-art/after-t
+ he-landslide-new-sculptural-forms-from-a-sea-of?event=179101
+END:VEVENT
+BEGIN:VEVENT
+UID:c12850aa072bccd859f18dbc4e9e7a00db0d79a0@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261028T170000Z
+DTEND:20261028T190000Z
+SUMMARY:Clues in the Cloth: Dress and Alterations in the 18th Century
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/clues-in-the-cloth-dress-and-
+ alterations-in-the-18th-century?event=178391\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://www.mfa.org/event/lecture/clues-in-the-cloth-dress-and-alterati
+ ons-in-the-18th-century?event=178391
+END:VEVENT
+BEGIN:VEVENT
+UID:a057a4f6427fa1ce1fb2d90598b3736c4708001a@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261029T210000Z
+DTEND:20261029T230000Z
+SUMMARY:Museum Careers Night
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/museum-careers-night?ev
+ ent=150376\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/museum-careers-night?event=1503
+ 76
+END:VEVENT
+BEGIN:VEVENT
+UID:1dca07cec0d2e1782322ac22038942c5e4e7530f@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261029T230000Z
+DTEND:20261030T010000Z
+SUMMARY:Uzo Aduba: Owning Your Identity
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity
+ -lectures/uzo-aduba-owning-your-identity?event=178911\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity-lecture
+ s/uzo-aduba-owning-your-identity?event=178911
+END:VEVENT
+BEGIN:VEVENT
+UID:772be157fb02c3c1b77bcfa0f7418220f76d57aa@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261101T150000Z
+DTEND:20261101T170000Z
+SUMMARY:Diwali
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/diwali?event=108356\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/diwali?event=108356
+END:VEVENT
+BEGIN:VEVENT
+UID:3408b5afeb1736bd729b3a0385068913378a9727@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261104T180000Z
+DTEND:20261104T200000Z
+SUMMARY:Revere and Rodallega: Silversmiths of the Americas
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/revere-and-rodallega-silversm
+ iths-of-the-americas?event=178401\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://www.mfa.org/event/lecture/revere-and-rodallega-silversmiths-of-
+ the-americas?event=178401
+END:VEVENT
+BEGIN:VEVENT
+UID:15e6bab21c98896b69476ec9e8b2a2e4d5f71c46@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261105T223000Z
+DTEND:20261106T003000Z
+SUMMARY:Ask a Conservator
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/ask-a-conservator?event
+ =182296\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/ask-a-conservator?event=182296
+END:VEVENT
+BEGIN:VEVENT
+UID:d9743ac660dc97297430a197b4105c1f74e24131@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261106T160000Z
+DTEND:20261106T180000Z
+SUMMARY:Ask a Conservator
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:Times: 11am\, 1:30pm\, 3pm\nhttps://www.mfa.org/event/special-e
+ vent/ask-a-conservator?event=181996\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://www.mfa.org/event/special-event/ask-a-conservator?event=181996
+END:VEVENT
+BEGIN:VEVENT
+UID:2c3e0ddee7bbb90a6c2d3164cc32114d99cb8d7f@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261107T010000Z
+DTEND:20261107T030000Z
+SUMMARY:Late Nites
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/late-nites-november-202
+ 6?event=113676\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/late-nites-november-2026?event=
+ 113676
+END:VEVENT
+BEGIN:VEVENT
+UID:49b6969632a5bc389a997c1085aa76c8ca13c436@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261108T180000Z
+DTEND:20261108T200000Z
+SUMMARY:The First Lady
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/the-first-lady?event=179206\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/film/the-first-lady?event=179206
+END:VEVENT
+BEGIN:VEVENT
+UID:f41291821cdcc1a21c0a3b354615cc0d08083c11@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:The Art of the Greek Laouto
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/music/the-art-of-the-greek-laouto?eve
+ nt=179121\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/music/the-art-of-the-greek-laouto?event=17912
+ 1
+END:VEVENT
+END:VCALENDAR

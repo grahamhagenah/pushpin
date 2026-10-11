@@ -1,0 +1,309 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Arts at the Armory
+X-WR-CALDESC:What’s coming up at Arts at the Armory\, from Pushpin Boston
+ .
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:dd2842e3ebd6b8a802f734ead0b06ad646fd8f5a@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261010T233000Z
+DTEND:20261011T013000Z
+SUMMARY:Reclaiming My Heartbeat
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:A live storytelling experience about transplant\, resilience\, 
+ and patient advocacy.\nhttps://artsatthearmory.org/events/reclaiming-my-he
+ artbeat/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/reclaiming-my-heartbeat/
+END:VEVENT
+BEGIN:VEVENT
+UID:1077cf6f762c9ff0e74104a57d7b6587217b9e6a@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261011T210000Z
+DTEND:20261011T230000Z
+SUMMARY:Lady Ray and Her Jazz Birds
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Enjoy the sultry voice of Raynel Shepard\, aka Lady Ray\, with 
+ her fabulous troupe of instrumentalists\, as she lends a unique interpreta
+ tion to favorite jazz standards.\nhttps://artsatthearmory.org/events/lady-
+ ray-and-her-jazz-birds-7/\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://artsatthearmory.org/events/lady-ray-and-her-jazz-birds-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:e050e9df6d6266ff021ed5f43c3017eda3293dbd@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261022T233000Z
+DTEND:20261023T013000Z
+SUMMARY:Songwriters In-The-Round with Janet Feld\, Dana Cooper & Louise Coo
+ mbe
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Join Louise Coombe\, Dana Cooper & Janet Feld for an intimate n
+ ight of songwriting magic in the round!\nhttps://artsatthearmory.org/event
+ s/songwriters-in-the-round-with-janet-feld-dana-cooper-louise-coombe/\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/songwriters-in-the-round-with-janet-
+ feld-dana-cooper-louise-coombe/
+END:VEVENT
+BEGIN:VEVENT
+UID:683658ccacc05862ab01a1355a2e2f8339506d0d@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261027T223000Z
+DTEND:20261028T003000Z
+SUMMARY:The Moth: Boston StorySLAM: FRENEMIES
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Join us the fourth Tuesday of each month for the Boston Moth St
+ orySLAM! This community-focused\, open-mic storytelling competition is ope
+ n to anyone can share a story on the night’s theme (changes every month)
+ .\nhttps://artsatthearmory.org/events/the-moth-boston-storyslam-2026-10-27
+ /\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/the-moth-boston-storyslam-2026-10-27
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:1b80c72a063311a25a1f690dd1f1ece7178c3226@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261104T000000Z
+DTEND:20261104T020000Z
+SUMMARY:An Evening with Kate Nash
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Join Brit Award winner Kate Nash live in concert.\nhttps://arts
+ atthearmory.org/events/an-evening-with-kate-nash/\nFrom Pushpin Boston: ht
+ tps://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/an-evening-with-kate-nash/
+END:VEVENT
+BEGIN:VEVENT
+UID:35564d02e561ebaae5ae6ff4aa47ac7ac823bd01@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261104T003000Z
+DTEND:20261104T023000Z
+SUMMARY:Smut Slam
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:What's a SMUT SLAM? I'm so glad you asked! It's a fast-paced st
+ orytelling open mic based on REAL life\, REAL lust\, REAL sex. Consenting 
+ Slammers sign up on the night of to tell a 5-minute dirty story\, based on
+  their real lives\, and a lucky 8-10 names will be drawn at random. A pane
+ l of celebrity judges will be on hand to evaluate your stories\, and besto
+ w the top three Slammers with a sack of sexy swag from Good Vibrations Har
+ vard Square. You will also have the opportunity to win goodies from NJOY b
+ y submitting your anonymous questions and confessions!\nhttps://artsatthea
+ rmory.org/events/smut-slam-3-2026-08-04-2026-09-01-2026-10-06-2026-11-03/\
+ nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/smut-slam-3-2026-08-04-2026-09-01-20
+ 26-10-06-2026-11-03/
+END:VEVENT
+BEGIN:VEVENT
+UID:8f37d8abe08762d38cf428177ec513d5e33fd23a@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261106T003000Z
+DTEND:20261106T023000Z
+SUMMARY:Worlds Collide Showcase
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:An annual concert\, competition\, and fundraiser centered aroun
+ d cross-genre collaboration.\nhttps://artsatthearmory.org/events/worlds-co
+ llide-showcase/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/worlds-collide-showcase/
+END:VEVENT
+BEGIN:VEVENT
+UID:f8c94b54fb60ace7ddd482abb925cfe292116a8c@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261107T000000Z
+DTEND:20261107T020000Z
+SUMMARY:A Night To Be Heard: B.Heard World Gala
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Join us for an unforgettable Night To Be Heard— delicious foo
+ d\, stories\, dance\, music\, and voices from beheard.world's talented art
+ ists!\nhttps://artsatthearmory.org/events/a-night-to-be-heard-2026/\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/a-night-to-be-heard-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:9e5fea4e37036c24f3ff285ec6c21baec743e603@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261107T000000Z
+DTEND:20261107T020000Z
+SUMMARY:Gary Higgins
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Octafish Events presents: Psych-folk legend GARY HIGGINS live a
+ t the ROOTED Armory Cafe in Somerville Free-folk enigma Gary Higgins enter
+ ed the popular consciousness more than three decades after his music caree
+ r ground to an abrupt halt when the reissue of his 1973 cult classic\, Red
+  Hash\, became a cause célèbre in the summer of 2005. A new generation o
+ f psych-folk devotees including Current 93's David Tibet and Ben Chasny of
+  Six Organs of Admittance had discovered the album sang its praises. In la
+ te 2004\, the Drag City label finally located Higgins and reissued Red Has
+ h.\nhttps://artsatthearmory.org/events/gary-higgins/\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/gary-higgins/
+END:VEVENT
+BEGIN:VEVENT
+UID:aaa012a7d90af73e1b983aca72e37e852f1049bf@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261108T220000Z
+DTEND:20261109T000000Z
+SUMMARY:Lady Ray and Her Jazz Birds
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Enjoy the sultry voice of Raynel Shepard\, aka Lady Ray\, with 
+ her fabulous troupe of instrumentalists\, as she lends a unique interpreta
+ tion to favorite jazz standards.\nhttps://artsatthearmory.org/events/lady-
+ ray-and-her-jazz-birds-8/\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://artsatthearmory.org/events/lady-ray-and-her-jazz-birds-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:5310fe7fdba0a0f4db0e2686cdf3a9f3e727a1cd@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261110T233000Z
+DTEND:20261111T013000Z
+SUMMARY:The Bowery Presents Pokey LaFarge
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Pokey LaFarge is coming to Arts at the Armory on November 10\, 
+ 2026 to celebrate the release of his new album\, 'Rent Money'. Grab your t
+ ickets now!\nhttps://artsatthearmory.org/events/the-bowery-presents-pokey-
+ lafarge/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/the-bowery-presents-pokey-lafarge/
+END:VEVENT
+BEGIN:VEVENT
+UID:800832f0ceaf415a7813c96e37c7b62eefa4b827@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261112T000000Z
+DTEND:20261112T020000Z
+SUMMARY:The Bowery Presents: Bedouine with Other Delights
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Bedouine\, the project of Azniv Korkejian\, explores feelings o
+ f safety she believes every child deserves. Written with vivid\, honest an
+ d intimate imagery after visiting her family in Saudi Arabia\, it tells th
+ e story of family and upbringing\, and mourns the end of her childhood.\nh
+ ttps://artsatthearmory.org/events/the-bowery-presents-bedouine-with-other-
+ delights/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/the-bowery-presents-bedouine-with-ot
+ her-delights/
+END:VEVENT
+BEGIN:VEVENT
+UID:476f38daec72db3da4260fe2806f36834e3f7b29@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261112T000000Z
+DTEND:20261112T020000Z
+SUMMARY:Tunefoolery Coffee House
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Tunefoolery Music is a non-profit organization for musicians in
+  mental health recovery.\nhttps://artsatthearmory.org/events/tunefoolery-c
+ offee-house-2026-08-12-2026-09-09-2026-10-14-2026-11-11/\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/tunefoolery-coffee-house-2026-08-12-
+ 2026-09-09-2026-10-14-2026-11-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:72337b56943d9522f32a757efb57e41ce0705889@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+SUMMARY:Get to the Gig Presents Weatherday
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Doors open at 7:00 PM · Show begins at 8:00 PM\nhttps://artsat
+ thearmory.org/events/weatherday-111226/\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://artsatthearmory.org/events/weatherday-111226/
+END:VEVENT
+BEGIN:VEVENT
+UID:50ab06366b4bf3433a49092529b359f71500b032@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261114T000000Z
+DTEND:20261114T020000Z
+SUMMARY:World Class Music Live Presents Rumbo Tumba
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:RUMBO TUMBA is the electroacoustic music project of Argentine m
+ ulti-instrumentalist\, composer\, and producer Facundo Salgado\, who has c
+ aptivated audiences worldwide for over 12 years\, touring more than 30 cou
+ ntries on all continents.\nhttps://artsatthearmory.org/events/rumbo-tumba/
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/rumbo-tumba/
+END:VEVENT
+BEGIN:VEVENT
+UID:c39fcf472af862bda47d65dc994c114aa5b0978c@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:Orkest at the ROOTED Armory Cafe
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Orkest and Voice of Iris are coming together for a fantastic ni
+ ght of new music from our call-for-scores project!\nhttps://artsatthearmor
+ y.org/events/orkest-at-the-rooted-armory-cafe/\nFrom Pushpin Boston: https
+ ://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/orkest-at-the-rooted-armory-cafe/
+END:VEVENT
+BEGIN:VEVENT
+UID:4f5de559ca025999392e29f19594342b23c01417@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261117T000000Z
+DTEND:20261117T020000Z
+SUMMARY:The Bowery Presents Liana Flores
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Doors open at 7:00 PM · Show begins at 8:00 PM\nhttps://artsat
+ thearmory.org/events/liana-flores/\nFrom Pushpin Boston: https://pushpin.c
+ ity/boston/
+URL:https://artsatthearmory.org/events/liana-flores/
+END:VEVENT
+BEGIN:VEVENT
+UID:a326b8d2a16234a583fbd313c7037fb2522c748b@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:The Bowery Presents WHY?
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Doors open at 7:00 PM · Support at 8:00\nhttps://artsatthearmo
+ ry.org/events/the-bowery-presents-why/\nFrom Pushpin Boston: https://pushp
+ in.city/boston/
+URL:https://artsatthearmory.org/events/the-bowery-presents-why/
+END:VEVENT
+BEGIN:VEVENT
+UID:cabcba5129dda4540aee7ee7101a5f6433b448a2@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261123T000000Z
+DTEND:20261123T020000Z
+SUMMARY:Get To the Gig Presents Other Lives
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Other Lives is an American band formed in Stillwater\, Oklahoma
+ \, by multi-instrumentalists Jesse Tabish\, Jonathon Mooney\, and Josh Ons
+ tott. Known for their cinematic sound and orchestral arrangements\, the gr
+ oup emerged with a distinct musical identity that blends classical influen
+ ce\, emotional depth\, and sweeping melodies. With roots in the windswept 
+ prairies of the Midwest\, they’ve built an international following throu
+ gh their expansive live performances and richly layered studio recordings.
+ \nhttps://artsatthearmory.org/events/get-to-the-gig-presents-other-lives/\
+ nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/get-to-the-gig-presents-other-lives/
+END:VEVENT
+BEGIN:VEVENT
+UID:aeafb90a82e569f3337baa10df21390c9368f04c@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261206T153000Z
+DTEND:20261206T173000Z
+SUMMARY:Guitar Stop All Ages Student Recital
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Students who study at Guitar Stop in Porter Square perform!\nht
+ tps://artsatthearmory.org/events/guitar-stop-all-ages-student-recital/\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/guitar-stop-all-ages-student-recital
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:e53ddd7a93cc4a3a7ea48ac4ba9d89715b47abcb@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Tunefoolery Coffee House
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Tunefoolery Music is a non-profit organization for musicians in
+  mental health recovery.\nhttps://artsatthearmory.org/events/tunefoolery-c
+ offee-house-2026-08-12-2026-09-09-2026-10-14-2026-11-11-2026-12-09/\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/tunefoolery-coffee-house-2026-08-12-
+ 2026-09-09-2026-10-14-2026-11-11-2026-12-09/
+END:VEVENT
+END:VCALENDAR

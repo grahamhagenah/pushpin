@@ -1,0 +1,259 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · The Middle East
+X-WR-CALDESC:What’s coming up at The Middle East\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:51606248f40894cc047b7f2f97767ddad4b7702c@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261010T160000Z
+DTEND:20261010T180000Z
+SUMMARY:Slack Magic\, Dust Jacket\, Bebe & Oona\, Callan.
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/slack-magic-dust-jacket-bebe-mi
+ ddle-east-upstairs-tickets/14293254?pl=mideastclub&REFID=clientsitewp\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/slack-magic-dust-jacket-bebe-middle-eas
+ t-upstairs-tickets/14293254?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:8eb57fbc7722ba3098c1dececb87a66dd3d41b76@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261010T210000Z
+DTEND:20261010T230000Z
+SUMMARY:Taha Ghazipour
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/taha-ghazipour-middle-east-corn
+ erbakery-tickets/14373084?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin 
+ Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/taha-ghazipour-middle-east-cornerbakery
+ -tickets/14373084?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:a2de9eba0f5097abd0748b450aec0d225e33415f@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261010T230000Z
+DTEND:20261011T010000Z
+SUMMARY:Boston Burning Man Decompression Presents: A Clockwork Circus
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/boston-burning-man-decompressio
+ n-presents-sonia-tickets/14998283?pl=mideastclub&REFID=clientsitewp\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/boston-burning-man-decompression-presen
+ ts-sonia-tickets/14998283?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:f443e8d480e2e6358b39de2aca1d5ca917046d9c@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261011T000000Z
+DTEND:20261011T020000Z
+SUMMARY:Owen Riegling\, Payton Smith
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/owen-riegling-payton-smith-midd
+ le-east-upstairs-tickets/14836373?pl=mideastclub&REFID=clientsitewp\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/owen-riegling-payton-smith-middle-east-
+ upstairs-tickets/14836373?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:e5e5c7df637133b4dad2fab8b9bf60fd68637d62@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261011T010000Z
+DTEND:20261011T030000Z
+SUMMARY:House of Heavy
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/house-of-heavy-middle-east-down
+ stairs-tickets/15004733?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/house-of-heavy-middle-east-downstairs-t
+ ickets/15004733?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:e0f347197d39eabf0bc08e7e1cf7850a67204562@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261011T013000Z
+DTEND:20261011T033000Z
+SUMMARY:Green Dreams
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/green-dreams-middle-east-zuzu-t
+ ickets/14950533?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: ht
+ tps://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/green-dreams-middle-east-zuzu-tickets/1
+ 4950533?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:10e12f09ea59ae564cc3db0133b017c2be0e9f7c@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261011T020000Z
+DTEND:20261011T040000Z
+SUMMARY:Garage Sale
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/garage-sale-middle-east-cornerb
+ akery-tickets/14351864?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/garage-sale-middle-east-cornerbakery-ti
+ ckets/14351864?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:4b51390adcda5f14a89155a25b3d7f3739939e9d@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261011T210000Z
+DTEND:20261011T230000Z
+SUMMARY:Jazz Dinner w/ Armand & Nina
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/jazz-dinner-w-armand-middle-eas
+ t-cornerbakery-tickets/14345494?pl=mideastclub&REFID=clientsitewp\nFrom Pu
+ shpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/jazz-dinner-w-armand-middle-east-corner
+ bakery-tickets/14345494?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:a46307b29cc55c253dbddbc4d4ec3e6711f0c9f3@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261011T223000Z
+DTEND:20261012T003000Z
+SUMMARY:Kowloon Walled City\, Great Falls\, Trophy Hunt
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/kowloon-walled-city-great-falls
+ -middle-east-upstairs-tickets/14275834?pl=mideastclub&REFID=clientsitewp\n
+ From Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/kowloon-walled-city-great-falls-middle-
+ east-upstairs-tickets/14275834?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:3a6d29ce3c4cb827d48e23a7b2b88229a24139c8@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261012T010000Z
+DTEND:20261012T030000Z
+SUMMARY:Haunted Electronic FT. DJ Apparition\, Sunrider\, Dolly Molly
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/haunted-electronic-ft-dj-appari
+ tion-middle-east-cornerbakery-tickets/14372864?pl=mideastclub&REFID=client
+ sitewp\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/haunted-electronic-ft-dj-apparition-mid
+ dle-east-cornerbakery-tickets/14372864?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:10ef7019e31a1117f72e38abd68de01e1ea81b98@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261012T210000Z
+DTEND:20261012T230000Z
+SUMMARY:Hannah Judson
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/hannah-judson-middle-east-zuzu-
+ tickets/14998133?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: h
+ ttps://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/hannah-judson-middle-east-zuzu-tickets/
+ 14998133?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:f3f50c0f182d954082d6dc526d18c02626eb5fc5@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261012T220000Z
+DTEND:20261013T000000Z
+SUMMARY:Tripwire\, Open Letter\, Putnam Junior\, My November \, I Shot an A
+ ngel
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/tripwire-open-letter-putnam-jun
+ ior-middle-east-upstairs-tickets/14337104?pl=mideastclub&REFID=clientsitew
+ p\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/tripwire-open-letter-putnam-junior-midd
+ le-east-upstairs-tickets/14337104?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:df12a97e44fd7d52c0996f5d2066ea6c91856934@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261013T010000Z
+DTEND:20261013T030000Z
+SUMMARY:Ceremony XXX
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/ceremony-xxx-middle-east-downst
+ airs-tickets/14267544?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bost
+ on: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/ceremony-xxx-middle-east-downstairs-tic
+ kets/14267544?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:9d38582cf14ba5b450bee62f9d449e286283d40a@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261013T230000Z
+DTEND:20261014T010000Z
+SUMMARY:Buddha Trixie\, Flight by Nothing\, Pleaser
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/buddha-trixie-flight-by-nothing
+ -sonia-tickets/14230714?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/buddha-trixie-flight-by-nothing-sonia-t
+ ickets/14230714?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:842a568e31fac2b89c6fd73aeeb5ba2d2176dc52@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261013T230000Z
+DTEND:20261014T010000Z
+SUMMARY:Ian McConnell\, Cherokee Social
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/ian-mcconnell-cherokee-social-m
+ iddle-east-upstairs-tickets/14978333?pl=mideastclub&REFID=clientsitewp\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/ian-mcconnell-cherokee-social-middle-ea
+ st-upstairs-tickets/14978333?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:869c2f828438fd2de8fd4d089df2776489ebb386@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261014T010000Z
+DTEND:20261014T030000Z
+SUMMARY:Bunny Rave w/ Rabbit Crimes & Mere Notilde
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/bunny-rave-w-rabbit-crimes-midd
+ le-east-zuzu-tickets/14269544?pl=mideastclub&REFID=clientsitewp\nFrom Push
+ pin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/bunny-rave-w-rabbit-crimes-middle-east-
+ zuzu-tickets/14269544?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:56d376f9d53054eeba67d60a191ddd2ecec66077@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261014T013000Z
+DTEND:20261014T033000Z
+SUMMARY:Mood
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-t
+ ickets/14031434?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: ht
+ tps://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-tickets/1
+ 4031434?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:6eb44261c148561abf4a89e9f8ba0dc6f4ede9b0@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261014T223000Z
+DTEND:20261015T003000Z
+SUMMARY:SHAWN JAMES “ FLEW TOO CLOSE TO THE SUN TOUR
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/shawn-james-flew-too-middle-eas
+ t-downstairs-tickets/14213974?pl=mideastclub&REFID=clientsitewp\nFrom Push
+ pin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/shawn-james-flew-too-middle-east-downst
+ airs-tickets/14213974?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:3039fd37ecd7339637be36c6665c31180acc2b3e@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261014T230000Z
+DTEND:20261015T010000Z
+SUMMARY:Magoo
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/magoo-middle-east-upstairs-tick
+ ets/14260284?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: https
+ ://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/magoo-middle-east-upstairs-tickets/1426
+ 0284?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

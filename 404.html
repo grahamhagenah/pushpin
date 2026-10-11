@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Pushpin</title>
+<meta name="color-scheme" content="dark">
+<style>html { background: #000; }</style>
+<script>
+  const path = location.pathname;
+  const city = ["boston", "westernma", "bayarea"].find(slug => path.startsWith("/" + slug + "/"));
+  const rest = city ? path.slice(city.length + 2) : "";
+  location.replace(!city ? "/boston/" + path.slice(1) + location.search + location.hash
+    : rest.startsWith("e/") ? "/" + city + "/?event=" + rest.slice(2).split("/")[0]
+    : "/" + city + "/" + location.search + location.hash);
+</script>
+<p><a href="/" style="color: #fff">Pushpin</a></p>
+</html>

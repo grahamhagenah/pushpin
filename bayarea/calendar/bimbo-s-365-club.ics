@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Bay Area//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Bay Area · Bimbo's 365 Club
+X-WR-CALDESC:What’s coming up at Bimbo's 365 Club\, from Pushpin Bay Area
+ .
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:bce0d97704b021d84084462004c3582869e5d635@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261013T030000Z
+DTEND:20261013T050000Z
+SUMMARY:MARO – (MOVED FROM THE CASTRO)
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+DESCRIPTION:https://bimbos365club.com/tm-event/maro-moved-from-the-castro/\
+ nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bimbos365club.com/tm-event/maro-moved-from-the-castro/
+END:VEVENT
+BEGIN:VEVENT
+UID:d131d203dd853a9104bfcbfc88dd9ce764357a5b@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261015T030000Z
+DTEND:20261015T050000Z
+SUMMARY:FIGHTMASTER
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+DESCRIPTION:with Ill Peach\nhttps://bimbos365club.com/tm-event/fightmaster/
+ \nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bimbos365club.com/tm-event/fightmaster/
+END:VEVENT
+BEGIN:VEVENT
+UID:08a37b0383919328344a5f165873c7f63271b052@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261016T030000Z
+DTEND:20261016T050000Z
+SUMMARY:World Famous Pets
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+DESCRIPTION:with Andrew St. James\nhttps://bimbos365club.com/tm-event/world
+ -famous-pets/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bimbos365club.com/tm-event/world-famous-pets/
+END:VEVENT
+BEGIN:VEVENT
+UID:1a48c2087dea9bdc6c2944c80a9fe4443fa810e0@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261017T030000Z
+DTEND:20261017T050000Z
+SUMMARY:Tainted Love
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+DESCRIPTION:https://bimbos365club.com/tm-event/tainted-love-8/\nFrom Pushpi
+ n Bay Area: https://pushpin.city/bayarea/
+URL:https://bimbos365club.com/tm-event/tainted-love-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:f2605887a0837501a30d63ada206631cad21484e@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261018T030000Z
+DTEND:20261018T050000Z
+SUMMARY:Lewis OfMan\, Lealani
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+DESCRIPTION:with Lealani\nhttps://bimbos365club.com/tm-event/lewis-ofman/\n
+ From Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bimbos365club.com/tm-event/lewis-ofman/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d4efbdd36b6066480cbd43f2ef2bb5234c6c0ea@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261029T030000Z
+DTEND:20261029T050000Z
+SUMMARY:ALIZA KELLY’S HAUNTED TEA PARTY: The Spooky Season Astrology Tour
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+DESCRIPTION:https://bimbos365club.com/tm-event/aliza-kellys-haunted-tea-par
+ ty-the-spooky-season-astrology-tour/\nFrom Pushpin Bay Area: https://pushp
+ in.city/bayarea/
+URL:https://bimbos365club.com/tm-event/aliza-kellys-haunted-tea-party-the-s
+ pooky-season-astrology-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:a7b07f56b2356f99ecb315be42d58b7013fdc1cd@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261030T030000Z
+DTEND:20261030T050000Z
+SUMMARY:Lady Camden Presents: The Peach Pit Cabaret with Willow Pill & Spec
+ ial Guests
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+DESCRIPTION:https://bimbos365club.com/tm-event/lady-camden-presents-the-pea
+ ch-pit-cabaret-with-willow-pill-special-guests/\nFrom Pushpin Bay Area: ht
+ tps://pushpin.city/bayarea/
+URL:https://bimbos365club.com/tm-event/lady-camden-presents-the-peach-pit-c
+ abaret-with-willow-pill-special-guests/
+END:VEVENT
+BEGIN:VEVENT
+UID:63661e3d18ff41dda8c105665b85149be092297c@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261031T030000Z
+DTEND:20261031T050000Z
+SUMMARY:Stella Lefty
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+DESCRIPTION:with Grace Enger\nhttps://bimbos365club.com/tm-event/stella-lef
+ ty/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bimbos365club.com/tm-event/stella-lefty/
+END:VEVENT
+BEGIN:VEVENT
+UID:b296fb946596bc1c6a52aba6e8b1f9dd132792d5@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261106T040000Z
+DTEND:20261106T060000Z
+SUMMARY:Mystery Skulls & Fox Stevenson
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+DESCRIPTION:https://bimbos365club.com/tm-event/mystery-skulls-fox-stevenson
+ /\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bimbos365club.com/tm-event/mystery-skulls-fox-stevenson/
+END:VEVENT
+BEGIN:VEVENT
+UID:fcbc167bf038ba308c3c3f94a0e1b8fa28f82e55@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261109T030000Z
+DTEND:20261109T050000Z
+SUMMARY:Murray Hill
+LOCATION:Bimbo's 365 Club\, 1025 Columbus Ave\, San Francisco\, CA 94133
+DESCRIPTION:https://bimbos365club.com/tm-event/murray-hill/\nFrom Pushpin B
+ ay Area: https://pushpin.city/bayarea/
+URL:https://bimbos365club.com/tm-event/murray-hill/
+END:VEVENT
+END:VCALENDAR

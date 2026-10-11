@@ -1,0 +1,675 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Club Passim
+X-WR-CALDESC:What’s coming up at Club Passim\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:dc30687029a3fb98edefb24b1f4d696f423bd65a@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261011T000000Z
+DTEND:20261011T020000Z
+SUMMARY:Chris Trapper
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/chris-trapper/\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/chris-trapper/
+END:VEVENT
+BEGIN:VEVENT
+UID:34a3d7b16c28daf975f93b669875a86b2b89b135@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261011T230000Z
+DTEND:20261012T010000Z
+SUMMARY:Laura Veirs
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:Karl Blau opens\nhttps://www.passim.org/live-music/events/laura
+ -veirs/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/laura-veirs/
+END:VEVENT
+BEGIN:VEVENT
+UID:cf5d5c43fd9463eb470207f8d66846e979c4ef23@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261013T000000Z
+DTEND:20261013T020000Z
+SUMMARY:Passim Monday Discovery Series
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:Melanie MacLaren and Abigail Rose\nhttps://www.passim.org/live-
+ music/events/passim-monday-discovery-series/\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/passim-monday-discovery-series
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:836ad42793ee6297b9dc5757a25a91f96631705d@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261014T000000Z
+DTEND:20261014T020000Z
+SUMMARY:Bandits on the Run
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:Goldfishers open\nhttps://www.passim.org/live-music/events/band
+ its-on-the-run/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/bandits-on-the-run/
+END:VEVENT
+BEGIN:VEVENT
+UID:0b4ef09e0e974876422aa82fa7935a3491e66535@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261015T000000Z
+DTEND:20261015T020000Z
+SUMMARY:Jake Blount Band
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/jake-blount-band/\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/jake-blount-band/
+END:VEVENT
+BEGIN:VEVENT
+UID:57beb555f368733056c27899871ddb0af2a66282@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261016T000000Z
+DTEND:20261016T020000Z
+SUMMARY:Barnaby Bright
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/barnaby-bright/\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/barnaby-bright/
+END:VEVENT
+BEGIN:VEVENT
+UID:35e3d1e2c40d303da5c7b59a51776a51c2544450@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261017T000000Z
+DTEND:20261017T020000Z
+SUMMARY:Ágora Cultural Architects Present: Leo Blanco & The Sugar Road Ens
+ emble
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/agora-cultural-archite
+ cts-present-leo-blanco-the-sugar-road-ensemble/\nFrom Pushpin Boston: http
+ s://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/agora-cultural-architects-pres
+ ent-leo-blanco-the-sugar-road-ensemble/
+END:VEVENT
+BEGIN:VEVENT
+UID:bb42752e0c45d0d00beabd37271268f754301e5e@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261018T000000Z
+DTEND:20261018T020000Z
+SUMMARY:Lindsay Foote
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/lindsay-foote/\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/lindsay-foote/
+END:VEVENT
+BEGIN:VEVENT
+UID:e2f8fb884ff75744b32e3e50e1ba6d1b628d3da2@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261018T230000Z
+DTEND:20261019T010000Z
+SUMMARY:Mason Daring & Jeanie Stahl
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/mason-daring-jeanie-st
+ ahl/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/mason-daring-jeanie-stahl/
+END:VEVENT
+BEGIN:VEVENT
+UID:e20076719eb4345d7b09ac03fa3a2fe6d269ac15@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261019T210000Z
+DTEND:20261019T230000Z
+SUMMARY:Will Varley
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:Will Lawrence opens\nhttps://www.passim.org/live-music/events/w
+ ill-varley/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/will-varley/
+END:VEVENT
+BEGIN:VEVENT
+UID:a2f1902f4831ce876c6ea0241acaf1a99031d349@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261021T000000Z
+DTEND:20261021T020000Z
+SUMMARY:Twangville Songwriter Showcase
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:with Joelton Mayfield and Ben de la Cour\nhttps://www.passim.or
+ g/live-music/events/twangville-songwriter-showcase/\nFrom Pushpin Boston: 
+ https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/twangville-songwriter-showcase
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:034559d2bbbc86818a953aa60e95df315ad87e37@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261022T000000Z
+DTEND:20261022T020000Z
+SUMMARY:Grace Givertz + Jacob Perez
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/grace-givertz-jacob-pe
+ rez/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/grace-givertz-jacob-perez/
+END:VEVENT
+BEGIN:VEVENT
+UID:8e7c6d0f9f4ed3ae0574ecfd4c4558f98599d9d7@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261023T000000Z
+DTEND:20261023T020000Z
+SUMMARY:Kayla Blackburn
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:Album Release\, A Day Without Love opens\nhttps://www.passim.or
+ g/live-music/events/kayla-blackburn/\nFrom Pushpin Boston: https://pushpin
+ .city/boston/
+URL:https://www.passim.org/live-music/events/kayla-blackburn/
+END:VEVENT
+BEGIN:VEVENT
+UID:ef2550cd3b73a71dae324081170a4fa8b16fb925@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261024T000000Z
+DTEND:20261024T020000Z
+SUMMARY:Jim Kweskin & Samoa Wilson
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION: \nhttps://www.passim.org/live-music/events/jim-kweskin-samoa-
+ wilson/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/jim-kweskin-samoa-wilson/
+END:VEVENT
+BEGIN:VEVENT
+UID:a8c6c34bbfd701bfc7935491caec6b0d39a66b1e@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261024T230000Z
+DTEND:20261025T010000Z
+SUMMARY:The Nields
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/the-nields/\nFrom Push
+ pin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/the-nields/
+END:VEVENT
+BEGIN:VEVENT
+UID:00dc0190aa582946918c1127668946effaa631b5@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261025T230000Z
+DTEND:20261026T010000Z
+SUMMARY:Stash Wyslouch
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:with Noah Harrington\nhttps://www.passim.org/live-music/events/
+ stash-wyslouch/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/stash-wyslouch/
+END:VEVENT
+BEGIN:VEVENT
+UID:c4bd4ccecf4e18f51fda09088af16300826993d6@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261029T000000Z
+DTEND:20261029T020000Z
+SUMMARY:HAAS (Natalie & Brittany Haas)
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/haas-natalie-brittany-
+ haas/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/haas-natalie-brittany-haas/
+END:VEVENT
+BEGIN:VEVENT
+UID:ee67400c4a1fe3a8e770bd3480077a641cef5f01@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261030T000000Z
+DTEND:20261030T020000Z
+SUMMARY:Peter Mulvey presents the Lamplighter Sessions
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:STAND UP AND SING\nhttps://www.passim.org/live-music/events/pet
+ er-mulvey-presents-the-lamplighter-sessions/\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/peter-mulvey-presents-the-lamp
+ lighter-sessions/
+END:VEVENT
+BEGIN:VEVENT
+UID:3e9c520e9d542f5fe802508fd4e9811df7a202eb@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261031T000000Z
+DTEND:20261031T020000Z
+SUMMARY:Peter Mulvey presents the Lamplighter Sessions
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:FUTURE ENEMIES & FRIENDS \nhttps://www.passim.org/live-music/e
+ vents/peter-mulvey-presents-the-lamplighter-sessions/\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/peter-mulvey-presents-the-lamp
+ lighter-sessions/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d9f90fe850f8ce94222952647a57967f750cf16@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261031T000100Z
+DTEND:20261031T020100Z
+SUMMARY:The Folk Collective: MAGIC IS REAL!
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:Live Album Recording with Photocomfort at First Parish Cambridg
+ e\nhttps://www.passim.org/live-music/events/the-folk-collective-magic-is-r
+ eal/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/the-folk-collective-magic-is-r
+ eal/
+END:VEVENT
+BEGIN:VEVENT
+UID:ac64b8fb316d45764a7439052f55a8df52d77046@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:Peter Mulvey presents the Lamplighter Sessions
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:ALL HALLOWS’ XMAS EVE\nhttps://www.passim.org/live-music/even
+ ts/peter-mulvey-presents-the-lamplighter-sessions/\nFrom Pushpin Boston: h
+ ttps://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/peter-mulvey-presents-the-lamp
+ lighter-sessions/
+END:VEVENT
+BEGIN:VEVENT
+UID:3cb4ff408c76f2ac7b05b4d5e3050ea8b2175d3a@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261101T190000Z
+DTEND:20261101T210000Z
+SUMMARY:Peter Mulvey presents the Lamplighter Sessions
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:Floyd Mercantile\nhttps://www.passim.org/live-music/events/pete
+ r-mulvey-presents-the-lamplighter-sessions/\nFrom Pushpin Boston: https://
+ pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/peter-mulvey-presents-the-lamp
+ lighter-sessions/
+END:VEVENT
+BEGIN:VEVENT
+UID:3b30e706137e2764e4fd27251b8df596cfff1edf@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261103T010000Z
+DTEND:20261103T030000Z
+SUMMARY:Peter Mulvey presents the Lamplighter Sessions
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:Into the Wild with Dinty Child\nhttps://www.passim.org/live-mus
+ ic/events/peter-mulvey-presents-the-lamplighter-sessions/\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/peter-mulvey-presents-the-lamp
+ lighter-sessions/
+END:VEVENT
+BEGIN:VEVENT
+UID:dbf12a95a77078530e4d1a1a40603c35e429ac62@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261104T010000Z
+DTEND:20261104T030000Z
+SUMMARY:The Lowest Pair
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/the-lowest-pair/\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/the-lowest-pair/
+END:VEVENT
+BEGIN:VEVENT
+UID:010e058c6e90368547e9e04848f34ec6bdabc00b@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261105T010000Z
+DTEND:20261105T030000Z
+SUMMARY:Basia Bulat
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/basia-bulat/\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/basia-bulat/
+END:VEVENT
+BEGIN:VEVENT
+UID:213036562dec9100c633294c9fbeed108d8cef05@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261106T010000Z
+DTEND:20261106T030000Z
+SUMMARY:Jonathan Something
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/jonathan-something/\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/jonathan-something/
+END:VEVENT
+BEGIN:VEVENT
+UID:43623f01cf614d34d428fb840ea1c2184d0dc850@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261107T000000Z
+DTEND:20261107T020000Z
+SUMMARY:Alastair Moock’s Pastures of Plenty
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:with Mercedes Escobar\, Eric Royer\, Sean Staples\, and Paul Ko
+ chanski\nhttps://www.passim.org/live-music/events/alastair-moocks-pastures
+ -of-plenty/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/alastair-moocks-pastures-of-pl
+ enty/
+END:VEVENT
+BEGIN:VEVENT
+UID:c38dac7d29e38c607fa31e195cd81da85f405a1e@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261108T000000Z
+DTEND:20261108T020000Z
+SUMMARY:Alastair Moock’s Pastures of Plenty
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:with Pamela Means\, Tim Gearan\, Sean Staples\, and Paul Kochan
+ ski\nhttps://www.passim.org/live-music/events/alastair-moocks-pastures-of-
+ plenty/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/alastair-moocks-pastures-of-pl
+ enty/
+END:VEVENT
+BEGIN:VEVENT
+UID:dd64bc1ac8fde38719142905d4fbdae6a6e1dd81@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261109T000000Z
+DTEND:20261109T020000Z
+SUMMARY:Maya de Vitry
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/maya-de-vitry/\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/maya-de-vitry/
+END:VEVENT
+BEGIN:VEVENT
+UID:5cebb3f1e01d886928ab211bc70ddc1c3ec5e6da@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261110T010000Z
+DTEND:20261110T030000Z
+SUMMARY:Passim Monday Discovery Series
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/passim-monday-discover
+ y-series/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/passim-monday-discovery-series
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:385eb88424fc8745a7209bae7ad8d3af44229819@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261111T010000Z
+DTEND:20261111T030000Z
+SUMMARY:Kelsey Waldon
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:Candi Jenkins opens\nhttps://www.passim.org/live-music/events/k
+ elsey-waldon/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/kelsey-waldon/
+END:VEVENT
+BEGIN:VEVENT
+UID:a903117049d0eb59d07fba22ca589a6b96b78b15@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261112T010000Z
+DTEND:20261112T030000Z
+SUMMARY:Jason Carter Band
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/jason-carter-band/\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/jason-carter-band/
+END:VEVENT
+BEGIN:VEVENT
+UID:702f0dcbbcc7e01529f2710542f194d61d925ed1@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+SUMMARY:Rev. Robert B. Jones\, Sr. & Matt Watroba
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/rev-robert-b-jones-sr-
+ matt-watroba/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/rev-robert-b-jones-sr-matt-wat
+ roba/
+END:VEVENT
+BEGIN:VEVENT
+UID:2cfa063a2fe18a792f86de50a4625aa76a68f215@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261114T010000Z
+DTEND:20261114T030000Z
+SUMMARY:Rosin
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/rosin/\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/rosin/
+END:VEVENT
+BEGIN:VEVENT
+UID:09b458e07c1196673397cc4a1ae8321505d7c5ed@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+SUMMARY:Edie Carey
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:Megan Burtt opens\nhttps://www.passim.org/live-music/events/edi
+ e-carey/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/edie-carey/
+END:VEVENT
+BEGIN:VEVENT
+UID:d70952607f73ff5649096fce9767fdee3961f5ae@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261115T190000Z
+DTEND:20261115T210000Z
+SUMMARY:Jenna Moynihan & Owen Marshall
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/jenna-moynihan-owen-ma
+ rshall/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/jenna-moynihan-owen-marshall/
+END:VEVENT
+BEGIN:VEVENT
+UID:40ac340ef2f9d54e4355db5aceda926201fed35c@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261116T000000Z
+DTEND:20261116T020000Z
+SUMMARY:Lucy Kaplansky
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/lucy-kaplansky/\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/lucy-kaplansky/
+END:VEVENT
+BEGIN:VEVENT
+UID:17894b007f6891439e55286836601350e643b4eb@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261117T003000Z
+DTEND:20261117T023000Z
+SUMMARY:Zachariah Hickman’s Power Outage PRE-Party Jam Session!
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/zachariah-hickmans-pow
+ er-outage-pre-party-jam-session/\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.passim.org/live-music/events/zachariah-hickmans-power-outag
+ e-pre-party-jam-session/
+END:VEVENT
+BEGIN:VEVENT
+UID:71620bf3d372d718f49cba5c3611b16697336247@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261118T003000Z
+DTEND:20261118T023000Z
+SUMMARY:Zachariah Hickman’s Power Outage Party
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/zachariah-hickmans-pow
+ er-outage-party/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/zachariah-hickmans-power-outag
+ e-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce2996723c39c3a7b7b836695bda28d278f354f@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261119T003000Z
+DTEND:20261119T023000Z
+SUMMARY:Zachariah Hickman’s Power Outage Party
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/zachariah-hickmans-pow
+ er-outage-party/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/zachariah-hickmans-power-outag
+ e-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:b8ba1d42f8d65981f9d9c90dc973cde250465668@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261120T003000Z
+DTEND:20261120T023000Z
+SUMMARY:Zachariah Hickman’s Power Outage Party
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/zachariah-hickmans-pow
+ er-outage-party/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/zachariah-hickmans-power-outag
+ e-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:f06aa5ef44da354553f72a4a63ff912e3c441fbf@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261121T003000Z
+DTEND:20261121T023000Z
+SUMMARY:Zachariah Hickman’s Power Outage Party
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/zachariah-hickmans-pow
+ er-outage-party/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/zachariah-hickmans-power-outag
+ e-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:3b5b7e4636a0cee05def56e1108ef9bac590c859@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:Laurie MacAllister & Seth Glier
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/laurie-macallister-set
+ h-glier/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/laurie-macallister-seth-glier/
+END:VEVENT
+BEGIN:VEVENT
+UID:6760006722fe475db8742183be27b95a88cb2324@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:Bruce Molsky
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/bruce-molsky/\nFrom Pu
+ shpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/bruce-molsky/
+END:VEVENT
+BEGIN:VEVENT
+UID:291f2720a0e7e8039791b32d1592bf71d9647877@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261123T000000Z
+DTEND:20261123T020000Z
+SUMMARY:Nate Sabat & Morgan Harris
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/nate-sabat-morgan-harr
+ is/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/nate-sabat-morgan-harris/
+END:VEVENT
+BEGIN:VEVENT
+UID:b82365ac1710990b560273d4937237cd17a6f776@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261125T010000Z
+DTEND:20261125T030000Z
+SUMMARY:Red McAdam
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:The Talking Hearts Trio opens\nhttps://www.passim.org/live-musi
+ c/events/red-mcadam/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/red-mcadam/
+END:VEVENT
+BEGIN:VEVENT
+UID:b59088d0af9c85f24470a8f37de07e23ec21ef6d@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Jason Myles Goss
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/jason-myles-goss/\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/jason-myles-goss/
+END:VEVENT
+BEGIN:VEVENT
+UID:29eb36c7a2cfac198ca65eced4b686806a8ee6a8@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261127T010000Z
+DTEND:20261127T030000Z
+SUMMARY:club closed
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/club-closed/\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/club-closed/
+END:VEVENT
+BEGIN:VEVENT
+UID:be1b5d9e8a34837a5131052654a6bfe1860b842d@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Bigfoot Research Organization
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:with Lloyd Thayer\, Dave Dersham\, and Rob Laurens\nhttps://www
+ .passim.org/live-music/events/bigfoot-research-organization/\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/bigfoot-research-organization/
+END:VEVENT
+BEGIN:VEVENT
+UID:de7a6f9f680fa0f88aac569d5f273eade4e048d6@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:The Secret Sauce
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:with Janet Feld\, Esther Friedman\, and Jackie Damsky\nhttps://
+ www.passim.org/live-music/events/the-secret-sauce/\nFrom Pushpin Boston: h
+ ttps://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/the-secret-sauce/
+END:VEVENT
+BEGIN:VEVENT
+UID:9c8d7b47a934d1db1e9a0800cc506bd67eba458b@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261202T010000Z
+DTEND:20261202T030000Z
+SUMMARY:Love Has Come: A Holiday Variety Show
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/love-has-come-a-holida
+ y-variety-show/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/love-has-come-a-holiday-variet
+ y-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:0de6b50a6f54c62254819f081bfbeb881890d4cc@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261203T010000Z
+DTEND:20261203T030000Z
+SUMMARY:Kat Wallace & Steven Manwaring perform Time (The Revelator)
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/kat-wallace-steven-man
+ waring-perform-time-the-revelator/\nFrom Pushpin Boston: https://pushpin.c
+ ity/boston/
+URL:https://www.passim.org/live-music/events/kat-wallace-steven-manwaring-p
+ erform-time-the-revelator/
+END:VEVENT
+BEGIN:VEVENT
+UID:56db45cedb8e791bd41d145e357c41232b38ebf9@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:Connie Kaldor
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/connie-kaldor/\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/connie-kaldor/
+END:VEVENT
+BEGIN:VEVENT
+UID:c81ce6108583452bef4173f5c74b6a7e50ceaff6@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:Kemp Harris Band
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/kemp-harris-band/\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/kemp-harris-band/
+END:VEVENT
+BEGIN:VEVENT
+UID:43bd526f2d67d91901873ce6cb1af6b187afa75e@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Sol y Canto
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:Bilingual Holiday Parranda!\nhttps://www.passim.org/live-music/
+ events/sol-y-canto/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/sol-y-canto/
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd053e749f7c061aeee7291b357cc3bda7ddf34@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261208T000000Z
+DTEND:20261208T020000Z
+SUMMARY:Jeffrey Martin
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/jeffrey-martin/\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/jeffrey-martin/
+END:VEVENT
+BEGIN:VEVENT
+UID:1d7fdb756698cc86b8cdce8bef2b1bff36dbc1f6@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261210T010000Z
+DTEND:20261210T030000Z
+SUMMARY:Mark Lipman
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/mark-lipman/\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://www.passim.org/live-music/events/mark-lipman/
+END:VEVENT
+END:VCALENDAR

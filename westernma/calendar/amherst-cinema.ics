@@ -1,0 +1,758 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Amherst Cinema
+X-WR-CALDESC:What’s coming up at Amherst Cinema\, from Pushpin Western Ma
+ ss.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:1f933f6ffca0289bf366f391ce9f163352410fa8@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261010T164500Z
+DTEND:20261010T184500Z
+SUMMARY:Encanto Sing-Along
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:$5 Family Films\nPlease note that passes cannot be redeemed for
+  this screening.\nhttps://amherstcinema.org/films-and-events/encanto-sing-
+ along\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/encanto-sing-along
+END:VEVENT
+BEGIN:VEVENT
+UID:cf0455bd702563930fe31e124763a6f0c7c4f846@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261010T180000Z
+DTEND:20261010T200000Z
+SUMMARY:The History of Concrete
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2pm\, 4:25pm\, 7:05pm\, 9:25pm\nFollowing the finale of 
+ his TV series\, filmmaker John Wilson looks to the bedrock of his beloved 
+ New York City for inspiration and structure.\nhttps://amherstcinema.org/fi
+ lms-and-events/history-concrete\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://amherstcinema.org/films-and-events/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:74d4e95dc1a1e1c12626fa90e2fce85946a28a5a@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261010T182500Z
+DTEND:20261010T202500Z
+SUMMARY:NAZA
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:25pm\, 4:55pm\, 7:35pm\, 9:40pm\nIn secret conversatio
+ ns on the rooftops of Tel Aviv at night\, the systems behind Israel’s ca
+ lculated mass killing of Palestinian civilians in Gaza are revealed by the
+  people who designed and operated them.\nhttps://amherstcinema.org/films-a
+ nd-events/naza\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/naza
+END:VEVENT
+BEGIN:VEVENT
+UID:06e787b73031b94d4b413c5dbd6e906ba1d14e41@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261010T204000Z
+DTEND:20261010T224000Z
+SUMMARY:If I Go Will They Miss Me
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:40pm\, 7:20pm\nIn the Watts neighborhood of Los Angele
+ s\, twelve-year-old Lil Ant sees the world and his father the way all chil
+ dren should—full of myth\, wonder\, and unwavering belief.\nhttps://amhe
+ rstcinema.org/films-and-events/if-i-go-will-they-miss-me\nFrom Pushpin Wes
+ tern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/if-i-go-will-they-miss-me
+END:VEVENT
+BEGIN:VEVENT
+UID:1e5b421480644bf80c7ba692efa972f520caedf1@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261011T013000Z
+DTEND:20261011T033000Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:After years of slapdash sequels and waning fandom\, the Camp Mi
+ asma slasher franchise is handed over to an enthusiastic young director fo
+ r resurrection.\nhttps://amherstcinema.org/films-and-events/camp-miasma\nF
+ rom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:c86509f0526ce4997cc9ed101702c543d1af36f7@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261011T150000Z
+DTEND:20261011T170000Z
+SUMMARY:The History of Concrete
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 11am\, 2pm\, 4:25pm\, 7:05pm\nFollowing the finale of hi
+ s TV series\, filmmaker John Wilson looks to the bedrock of his beloved Ne
+ w York City for inspiration and structure.\nhttps://amherstcinema.org/film
+ s-and-events/history-concrete\nFrom Pushpin Western Mass: https://pushpin.
+ city/westernma/
+URL:https://amherstcinema.org/films-and-events/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:1e10ed6047a9b8fac8be996dd4a8d887239d6e65@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261011T151000Z
+DTEND:20261011T171000Z
+SUMMARY:If I Go Will They Miss Me
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 11:10am\, 4:40pm\, 7:20pm\nIn the Watts neighborhood of 
+ Los Angeles\, twelve-year-old Lil Ant sees the world and his father the wa
+ y all children should—full of myth\, wonder\, and unwavering belief.\nht
+ tps://amherstcinema.org/films-and-events/if-i-go-will-they-miss-me\nFrom P
+ ushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/if-i-go-will-they-miss-me
+END:VEVENT
+BEGIN:VEVENT
+UID:3818f984c34889b2fae8e7df86481dd1b9ab4c82@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261011T152000Z
+DTEND:20261011T172000Z
+SUMMARY:NAZA
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 11:20am\, 2:25pm\, 4:55pm\, 7:35pm\nIn secret conversati
+ ons on the rooftops of Tel Aviv at night\, the systems behind Israel’s c
+ alculated mass killing of Palestinian civilians in Gaza are revealed by th
+ e people who designed and operated them.\nhttps://amherstcinema.org/films-
+ and-events/naza\nFrom Pushpin Western Mass: https://pushpin.city/westernma
+ /
+URL:https://amherstcinema.org/films-and-events/naza
+END:VEVENT
+BEGIN:VEVENT
+UID:2d215aa765ad9d0059363c6a00697dfb40a5a600@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261011T173000Z
+DTEND:20261011T193000Z
+SUMMARY:Manhunter: The Final Cut
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Restorations & Rediscoveries\nNew 4K restoration.\nhttps://amhe
+ rstcinema.org/films-and-events/manhunter-final-cut\nFrom Pushpin Western M
+ ass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/manhunter-final-cut
+END:VEVENT
+BEGIN:VEVENT
+UID:2c1a8976ce2cc9e352f9d32dc9b39c73adf1d897@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261012T180000Z
+DTEND:20261012T200000Z
+SUMMARY:The History of Concrete
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2pm\, 4:25pm\, 7:05pm\, 9:25pm\nFollowing the finale of 
+ his TV series\, filmmaker John Wilson looks to the bedrock of his beloved 
+ New York City for inspiration and structure.\nhttps://amherstcinema.org/fi
+ lms-and-events/history-concrete\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://amherstcinema.org/films-and-events/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:75f9d233e48a22b30fe8bd9ea88f0f10222d2384@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261012T181500Z
+DTEND:20261012T201500Z
+SUMMARY:If I Go Will They Miss Me
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:15pm\, 4:40pm\, 7:20pm\nIn the Watts neighborhood of L
+ os Angeles\, twelve-year-old Lil Ant sees the world and his father the way
+  all children should—full of myth\, wonder\, and unwavering belief.\nhtt
+ ps://amherstcinema.org/films-and-events/if-i-go-will-they-miss-me\nFrom Pu
+ shpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/if-i-go-will-they-miss-me
+END:VEVENT
+BEGIN:VEVENT
+UID:7981ffef065dd4c4e6a182aca4326fe750f693a1@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261012T182500Z
+DTEND:20261012T202500Z
+SUMMARY:NAZA
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:25pm\, 4:55pm\, 7:35pm\, 9:40pm\nIn secret conversatio
+ ns on the rooftops of Tel Aviv at night\, the systems behind Israel’s ca
+ lculated mass killing of Palestinian civilians in Gaza are revealed by the
+  people who designed and operated them.\nhttps://amherstcinema.org/films-a
+ nd-events/naza\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/naza
+END:VEVENT
+BEGIN:VEVENT
+UID:76c398c043c0ac9e5f2b8df67eff75d36f118f39@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261013T013000Z
+DTEND:20261013T033000Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:After years of slapdash sequels and waning fandom\, the Camp Mi
+ asma slasher franchise is handed over to an enthusiastic young director fo
+ r resurrection.\nhttps://amherstcinema.org/films-and-events/camp-miasma\nF
+ rom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:5b1121ed97141de0b81ebdf61a9ae6f097daadaa@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261013T180000Z
+DTEND:20261013T200000Z
+SUMMARY:The History of Concrete
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2pm\, 4:25pm\, 7:10pm\, 9:25pm\nFollowing the finale of 
+ his TV series\, filmmaker John Wilson looks to the bedrock of his beloved 
+ New York City for inspiration and structure.\nhttps://amherstcinema.org/fi
+ lms-and-events/history-concrete\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://amherstcinema.org/films-and-events/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:04a2df55a9525db123363d0d4d77d15c4954dd9b@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261013T181500Z
+DTEND:20261013T201500Z
+SUMMARY:If I Go Will They Miss Me
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:15pm\, 4:40pm\nIn the Watts neighborhood of Los Angele
+ s\, twelve-year-old Lil Ant sees the world and his father the way all chil
+ dren should—full of myth\, wonder\, and unwavering belief.\nhttps://amhe
+ rstcinema.org/films-and-events/if-i-go-will-they-miss-me\nFrom Pushpin Wes
+ tern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/if-i-go-will-they-miss-me
+END:VEVENT
+BEGIN:VEVENT
+UID:923da089f9f897c1587fec365eae831c05ed5ea9@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261013T182500Z
+DTEND:20261013T202500Z
+SUMMARY:NAZA
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:25pm\, 4:55pm\, 7:35pm\, 9:40pm\nIn secret conversatio
+ ns on the rooftops of Tel Aviv at night\, the systems behind Israel’s ca
+ lculated mass killing of Palestinian civilians in Gaza are revealed by the
+  people who designed and operated them.\nhttps://amherstcinema.org/films-a
+ nd-events/naza\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/naza
+END:VEVENT
+BEGIN:VEVENT
+UID:cb54542f07c1bb8d8c40052f2eb0c2d80d923178@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261013T230000Z
+DTEND:20261014T010000Z
+SUMMARY:Manhunter: The Final Cut
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Restorations & Rediscoveries\nNew 4K restoration.\nhttps://amhe
+ rstcinema.org/films-and-events/manhunter-final-cut\nFrom Pushpin Western M
+ ass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/manhunter-final-cut
+END:VEVENT
+BEGIN:VEVENT
+UID:153789ec7a47e6595dd8008b0051c7e987b04844@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261014T013000Z
+DTEND:20261014T033000Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:After years of slapdash sequels and waning fandom\, the Camp Mi
+ asma slasher franchise is handed over to an enthusiastic young director fo
+ r resurrection.\nhttps://amherstcinema.org/films-and-events/camp-miasma\nF
+ rom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/camp-miasma
+END:VEVENT
+BEGIN:VEVENT
+UID:0d4742ca1e78cdb642dd2732a4d54035c4b83878@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261014T201000Z
+DTEND:20261014T221000Z
+SUMMARY:NAZA
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:10pm\, 7:35pm\nIn secret conversations on the rooftops
+  of Tel Aviv at night\, the systems behind Israel’s calculated mass kill
+ ing of Palestinian civilians in Gaza are revealed by the people who design
+ ed and operated them.\nhttps://amherstcinema.org/films-and-events/naza\nFr
+ om Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/naza
+END:VEVENT
+BEGIN:VEVENT
+UID:52ebc8abc95c80185a5c462c4693420c9bfe8e3b@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261014T202500Z
+DTEND:20261014T222500Z
+SUMMARY:The History of Concrete
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Following the finale of his TV series\, filmmaker John Wilson l
+ ooks to the bedrock of his beloved New York City for inspiration and struc
+ ture.\nhttps://amherstcinema.org/films-and-events/history-concrete\nFrom P
+ ushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:87b7815d6d6982bb43dc0568173044c5cee18443@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261014T204000Z
+DTEND:20261014T224000Z
+SUMMARY:If I Go Will They Miss Me
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:40pm\, 7:20pm\nIn the Watts neighborhood of Los Angele
+ s\, twelve-year-old Lil Ant sees the world and his father the way all chil
+ dren should—full of myth\, wonder\, and unwavering belief.\nhttps://amhe
+ rstcinema.org/films-and-events/if-i-go-will-they-miss-me\nFrom Pushpin Wes
+ tern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/if-i-go-will-they-miss-me
+END:VEVENT
+BEGIN:VEVENT
+UID:0c3f106454ce98e307cc9c4183b0e109030ad65e@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261014T230000Z
+DTEND:20261015T010000Z
+SUMMARY:Cinema Ephemera: The Human Machine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Join us for The Human Machine\, the first installment of a new 
+ film series presented by Cinema Ephemera. Rich Remsberg and Shawn Rosenhei
+ m have curated an evening of ephemeral films: vintage classroom instructio
+ n\, industrial animations\, forgotten children’s TV shows\, declassified
+  military training films\, religious movies\, scraps of stock footage\, an
+ d a bunch of weird science stuff.\nhttps://amherstcinema.org/films-and-eve
+ nts/cinema-ephemera-human-machine\nFrom Pushpin Western Mass: https://push
+ pin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/cinema-ephemera-human-machin
+ e
+END:VEVENT
+BEGIN:VEVENT
+UID:84ae58971ecde2df92e676a4373abb9d9812fc10@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261015T180000Z
+DTEND:20261015T200000Z
+SUMMARY:The History of Concrete
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2pm\, 4:25pm\, 7pm\, 9:25pm\nFollowing the finale of his
+  TV series\, filmmaker John Wilson looks to the bedrock of his beloved New
+  York City for inspiration and structure.\nhttps://amherstcinema.org/films
+ -and-events/history-concrete\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:c3b06064a5d87873a3f38647e885ab12b4c8b419@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261015T181500Z
+DTEND:20261015T201500Z
+SUMMARY:If I Go Will They Miss Me
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:15pm\, 4:40pm\nIn the Watts neighborhood of Los Angele
+ s\, twelve-year-old Lil Ant sees the world and his father the way all chil
+ dren should—full of myth\, wonder\, and unwavering belief.\nhttps://amhe
+ rstcinema.org/films-and-events/if-i-go-will-they-miss-me\nFrom Pushpin Wes
+ tern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/if-i-go-will-they-miss-me
+END:VEVENT
+BEGIN:VEVENT
+UID:578c30c5982e814c986457f7b2ca5ba57c352493@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261015T182500Z
+DTEND:20261015T202500Z
+SUMMARY:NAZA
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:25pm\, 4:55pm\, 7:35pm\, 9:30pm\nIn secret conversatio
+ ns on the rooftops of Tel Aviv at night\, the systems behind Israel’s ca
+ lculated mass killing of Palestinian civilians in Gaza are revealed by the
+  people who designed and operated them.\nhttps://amherstcinema.org/films-a
+ nd-events/naza\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/naza
+END:VEVENT
+BEGIN:VEVENT
+UID:402f5a7207f97c165c16336bff8eca911e3fa5f8@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261015T231000Z
+DTEND:20261016T011000Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 7:10pm\, 9:45pm\nAn enduring masterpiece of cinema starr
+ ing Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S THE DEVILS is a pre
+ scient epic of obsession and corruption—and a defining work of art from 
+ seminal filmmaker Ken Russell.\nhttps://amherstcinema.org/films-and-events
+ /ken-russells-devils\nFrom Pushpin Western Mass: https://pushpin.city/west
+ ernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:64ae268973edbf6b7acc8fb5a644e0401e277ef0@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261016T174500Z
+DTEND:20261016T194500Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:10pm\, 9:45pm\nAn enduring masterpie
+ ce of cinema starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S T
+ HE DEVILS is a prescient epic of obsession and corruption—and a defining
+  work of art from seminal filmmaker Ken Russell.\nhttps://amherstcinema.or
+ g/films-and-events/ken-russells-devils\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:6d4ad1debb9b5b8f0fea94d22b14b2650be37df7@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261017T014500Z
+DTEND:20261017T034500Z
+SUMMARY:Ken Russell's The Devils (Late Nights)
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nThis screening of KEN RUSSELL'S THE DEVILS is pres
+ ented as part of the Amherst Cinema Late Nights series. To see the film's 
+ full week-long schedule\, click here.\nhttps://amherstcinema.org/films-and
+ -events/ken-russells-devils-late-nights\nFrom Pushpin Western Mass: https:
+ //pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils-late-nig
+ hts
+END:VEVENT
+BEGIN:VEVENT
+UID:34bafb0bf9dff94462f633184c399ad7565032b4@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261017T163000Z
+DTEND:20261017T183000Z
+SUMMARY:NT Live: The Misanthrope
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:National Theatre Live\nGolden Globe winner Sandra Oh (Killing E
+ ve\, Grey's Anatomy) plays the title role in this razor-sharp reimagining 
+ of Molière’s classic dark comedy.\nhttps://amherstcinema.org/films-and-
+ events/nt-live-misanthrope\nFrom Pushpin Western Mass: https://pushpin.cit
+ y/westernma/
+URL:https://amherstcinema.org/films-and-events/nt-live-misanthrope
+END:VEVENT
+BEGIN:VEVENT
+UID:736fd14b0bb9ef11ad40cdd29afc111fc51b8cf4@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261017T174500Z
+DTEND:20261017T194500Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:10pm\, 9:45pm\nAn enduring masterpie
+ ce of cinema starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S T
+ HE DEVILS is a prescient epic of obsession and corruption—and a defining
+  work of art from seminal filmmaker Ken Russell.\nhttps://amherstcinema.or
+ g/films-and-events/ken-russells-devils\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:1f5c9269a95f84c8adfb3cfd5c19f4c54f934061@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261018T150000Z
+DTEND:20261018T170000Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 11am\, 1:45pm\, 4:30pm\, 7:10pm\nAn enduring masterpiece
+  of cinema starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S THE
+  DEVILS is a prescient epic of obsession and corruption—and a defining w
+ ork of art from seminal filmmaker Ken Russell.\nhttps://amherstcinema.org/
+ films-and-events/ken-russells-devils\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:d20d9fb9871e4ec3f3aaba02826d0abe6f800b28@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261019T174500Z
+DTEND:20261019T194500Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:10pm\, 9:45pm\nAn enduring masterpie
+ ce of cinema starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S T
+ HE DEVILS is a prescient epic of obsession and corruption—and a defining
+  work of art from seminal filmmaker Ken Russell.\nhttps://amherstcinema.or
+ g/films-and-events/ken-russells-devils\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:db72ca94e0fb9b7af03fe9ea0edd2d13c6b432a6@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261020T174500Z
+DTEND:20261020T194500Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:10pm\, 9:45pm\nAn enduring masterpie
+ ce of cinema starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S T
+ HE DEVILS is a prescient epic of obsession and corruption—and a defining
+  work of art from seminal filmmaker Ken Russell.\nhttps://amherstcinema.or
+ g/films-and-events/ken-russells-devils\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:642db529631059759a13dce5bb1a59f10a594315@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261020T230000Z
+DTEND:20261021T010000Z
+SUMMARY:Kwaidan
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Restorations & Rediscoveries\nNew 4K restoration of the origina
+ l three-hour Japanese cut\, never before released in the United States.\nh
+ ttps://amherstcinema.org/films-and-events/kwaidan\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/kwaidan
+END:VEVENT
+BEGIN:VEVENT
+UID:cc070e00fa99fc08c5756ddc754097ace93e4c26@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261021T203000Z
+DTEND:20261021T223000Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:30pm\, 7:10pm\nAn enduring masterpiece of cinema starr
+ ing Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S THE DEVILS is a pre
+ scient epic of obsession and corruption—and a defining work of art from 
+ seminal filmmaker Ken Russell.\nhttps://amherstcinema.org/films-and-events
+ /ken-russells-devils\nFrom Pushpin Western Mass: https://pushpin.city/west
+ ernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:a6e06ea245286d3a3652bbf800e09989db467904@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261021T230000Z
+DTEND:20261022T010000Z
+SUMMARY:Signals: A Space Adventure
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Free to the General Public\nThis screening is free to the gener
+ al public. Tickets are available only at the Amherst Cinema box office on 
+ a first-come\, first-served basis. They can be picked up in advance during
+  the Cinema’s regular box office hours\, or at the door the evening of t
+ he screening.\nhttps://amherstcinema.org/films-and-events/signals-space-ad
+ venture\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/signals-space-adventure
+END:VEVENT
+BEGIN:VEVENT
+UID:ccdf478dfc3e5aa417f25c0608dda0e2f89becc0@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261022T174500Z
+DTEND:20261022T194500Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:10pm\, 9:45pm\nAn enduring masterpie
+ ce of cinema starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S T
+ HE DEVILS is a prescient epic of obsession and corruption—and a defining
+  work of art from seminal filmmaker Ken Russell.\nhttps://amherstcinema.or
+ g/films-and-events/ken-russells-devils\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:71d3ee4815a6380f77c5cb5e48b351b5bb64a00b@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Fjord
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Opens Friday 10/23. Tickets on sale soon!\nhttps://amherstcinem
+ a.org/films-and-events/fjord\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://amherstcinema.org/films-and-events/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:b2b8a60e7a49ca95d3694005870ab76d3fcd50f0@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Wicker
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Opens Friday 10/23. Tickets on sale soon!\nhttps://amherstcinem
+ a.org/films-and-events/wicker\nFrom Pushpin Western Mass: https://pushpin.
+ city/westernma/
+URL:https://amherstcinema.org/films-and-events/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:a06fbfa6f58d3207cea235e2cf3e4fb5c276c238@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261024T014500Z
+DTEND:20261024T034500Z
+SUMMARY:The Wailing
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nPlease note that passes cannot be redeemed for thi
+ s screening.\nhttps://amherstcinema.org/films-and-events/wailing\nFrom Pus
+ hpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wailing
+END:VEVENT
+BEGIN:VEVENT
+UID:af27be149f78c5c68b5dc3d8807c7a1cea108bd0@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261025T170000Z
+DTEND:20261025T190000Z
+SUMMARY:Kwaidan
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Restorations & Rediscoveries\nNew 4K restoration of the origina
+ l three-hour Japanese cut\, never before released in the United States.\nh
+ ttps://amherstcinema.org/films-and-events/kwaidan\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/kwaidan
+END:VEVENT
+BEGIN:VEVENT
+UID:9928bae66c30090122989cbfbbac95d9e3bb3d23@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261027T230000Z
+DTEND:20261028T010000Z
+SUMMARY:NT Live: The Misanthrope
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:National Theatre Live\nGolden Globe winner Sandra Oh (Killing E
+ ve\, Grey's Anatomy) plays the title role in this razor-sharp reimagining 
+ of Molière’s classic dark comedy.\nhttps://amherstcinema.org/films-and-
+ events/nt-live-misanthrope\nFrom Pushpin Western Mass: https://pushpin.cit
+ y/westernma/
+URL:https://amherstcinema.org/films-and-events/nt-live-misanthrope
+END:VEVENT
+BEGIN:VEVENT
+UID:59af557772ef1519964c08eb7ad6ee55382444dd@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261029T230000Z
+DTEND:20261030T010000Z
+SUMMARY:Nosferatu live-scored by the Andrew Alden Ensemble
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Spooky Season\nDirected by F.W. Murnau\, this seminal vampire f
+ ilm follows Thomas Hutter as he journeys to the remote castle of the myste
+ rious Count Orlok\, unknowingly unleashing an ancient evil that follows hi
+ m home.\nhttps://amherstcinema.org/films-and-events/nosferatu-live-scored\
+ nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/nosferatu-live-scored
+END:VEVENT
+BEGIN:VEVENT
+UID:756ace07dde6110396ac3beeda734fcfd704bd83@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Opens Friday 10/30.\nhttps://amherstcinema.org/films-and-events
+ /only-living-pickpocket-new-york\nFrom Pushpin Western Mass: https://pushp
+ in.city/westernma/
+URL:https://amherstcinema.org/films-and-events/only-living-pickpocket-new-y
+ ork
+END:VEVENT
+BEGIN:VEVENT
+UID:2c04dedce6f88c94e91552b29775d47ab1520d2d@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261031T014500Z
+DTEND:20261031T034500Z
+SUMMARY:The Mist (Black & White)
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nAfter a mysterious mist envelopes a small New Engl
+ and town\, a group of locals trapped in a supermarket must battle a siege 
+ of otherworldly creatures... and the fears that threaten to tear them apar
+ t.\nhttps://amherstcinema.org/films-and-events/mist-black-white\nFrom Push
+ pin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/mist-black-white
+END:VEVENT
+BEGIN:VEVENT
+UID:74a5b7988cd3b6cae42e9eab449802ee991180cc@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261031T173000Z
+DTEND:20261031T193000Z
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:30pm\, 7pm\nSpooky Season\nPlease note that passes can
+ not be redeemed for these screenings.\nhttps://amherstcinema.org/films-and
+ -events/rocky-horror-picture-show\nFrom Pushpin Western Mass: https://push
+ pin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/rocky-horror-picture-show
+END:VEVENT
+BEGIN:VEVENT
+UID:288a36aabdae23bd616d7f85136bd28bf2847e9b@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261101T183000Z
+DTEND:20261101T203000Z
+SUMMARY:Gilda
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Noirvember\nIn a vital performance in the pantheon of film noir
+ \, Rita Hayworth plays Gilda\, the much-lusted-after wife of a criminal ki
+ ngpin and the former flame of his bitter henchman\, driving them both mad 
+ with desire and jealousy on the glittering floor of a Buenos Aires casino.
+ \nhttps://amherstcinema.org/films-and-events/gilda\nFrom Pushpin Western M
+ ass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/gilda
+END:VEVENT
+BEGIN:VEVENT
+UID:6cf9edfafa358911fab78dd97cf18ec072395b71@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261103T000000Z
+DTEND:20261103T020000Z
+SUMMARY:La Salsa Vive
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Sound and Vision\nIntroduction by Latin music scholar Pablo Ygl
+ esias.\nhttps://amherstcinema.org/films-and-events/la-salsa-vive\nFrom Pus
+ hpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/la-salsa-vive
+END:VEVENT
+BEGIN:VEVENT
+UID:a79c66fc6a9eae3d527336e4f418ad23b614d9eb@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Gilda
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Noirvember\nIn a vital performance in the pantheon of film noir
+ \, Rita Hayworth plays Gilda\, the much-lusted-after wife of a criminal ki
+ ngpin and the former flame of his bitter henchman\, driving them both mad 
+ with desire and jealousy on the glittering floor of a Buenos Aires casino.
+ \nhttps://amherstcinema.org/films-and-events/gilda\nFrom Pushpin Western M
+ ass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/gilda
+END:VEVENT
+BEGIN:VEVENT
+UID:426c632b1977918360befd125204a617046a6289@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261106T000000Z
+DTEND:20261106T020000Z
+SUMMARY:NT Live: Golden Boy
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:National Theatre Live\nJosh O’Connor (The Crown\; CHALLENGERS
+ ) leads the cast in this searing revival of Clifford Odets’ knockout Ame
+ rican classic.\nhttps://amherstcinema.org/films-and-events/nt-live-golden-
+ boy\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/nt-live-golden-boy
+END:VEVENT
+BEGIN:VEVENT
+UID:9df95e645a743519e7dd0f54948bde4722463c7d@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Opens Friday 11/6.\nhttps://amherstcinema.org/films-and-events/
+ once-upon-time-harlem\nFrom Pushpin Western Mass: https://pushpin.city/wes
+ ternma/
+URL:https://amherstcinema.org/films-and-events/once-upon-time-harlem
+END:VEVENT
+BEGIN:VEVENT
+UID:343a8f44fad81fc9910b72d7133b0d395c24d780@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261107T024500Z
+DTEND:20261107T044500Z
+SUMMARY:Robocop (Director's Cut)
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nWhen a good cop (Peter Weller) gets blown away by 
+ ruthless criminals\, innovative doctors are able to piece him back togethe
+ r as an unstoppable crime-fighting cyborg called “Robocop.” Equipped w
+ ith high-tech weaponry\, Robocop quickly cleans up the crime-ridden street
+ s of Detroit.\nhttps://amherstcinema.org/films-and-events/robocop-director
+ s-cut\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/robocop-directors-cut
+END:VEVENT
+BEGIN:VEVENT
+UID:64de4e41263329ae030040bfeea57bbe35730bc8@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261108T183000Z
+DTEND:20261108T203000Z
+SUMMARY:Niagara
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Noirvember\nPlease note that passes cannot be redeemed for this
+  screening.\nhttps://amherstcinema.org/films-and-events/niagara\nFrom Push
+ pin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/niagara
+END:VEVENT
+BEGIN:VEVENT
+UID:fa155111a257caa882428957c3e5c4137c3db6c0@pushpin.city
+DTSTAMP:20261011T010050Z
+DTSTART:20261110T000000Z
+DTEND:20261110T020000Z
+SUMMARY:Witness for the Prosecution
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Billy Wilder presented by Nina Kleinberg\nJoin us this fall for
+  three films by Billy Wilder\, featuring introductions by local film exper
+ t Nina Kleinberg.\nhttps://amherstcinema.org/films-and-events/witness-pros
+ ecution\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/witness-prosecution
+END:VEVENT
+END:VCALENDAR
