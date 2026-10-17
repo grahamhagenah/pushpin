@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · The Middle East
+X-WR-CALDESC:What’s coming up at The Middle East\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:e038db7fbe12af01b395bd7ceec55d5cafd3c51a@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261017T210000Z
+DTEND:20261017T230000Z
+SUMMARY:Luke Barrozo
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/luke-barrozo-middle-east-corner
+ bakery-tickets/14360134?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/luke-barrozo-middle-east-cornerbakery-t
+ ickets/14360134?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:b1bd37d333af6d550c8a0a2f06da59f583dda584@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261017T230000Z
+DTEND:20261018T010000Z
+SUMMARY:Sidewalk Driver\, Louder Joy\, Lipsmear\, Blindspot
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/sidewalk-driver-louder-joy-lips
+ mear-middle-east-downstairs-tickets/15002633?pl=mideastclub&REFID=clientsi
+ tewp\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/sidewalk-driver-louder-joy-lipsmear-mid
+ dle-east-downstairs-tickets/15002633?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:cfbd60d8af9e98aa81723b4a27b083f493454fd7@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261018T010000Z
+DTEND:20261018T030000Z
+SUMMARY:Elysium
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/elysium-sonia-tickets/14164234?
+ pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://www.ticketweb.com/event/elysium-sonia-tickets/14164234?pl=midea
+ stclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:42cc804e2e61ea182bf792d1858daa39acbccde7@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261018T013000Z
+DTEND:20261018T033000Z
+SUMMARY:The Orphanage
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-orphanage-middle-east-corne
+ rbakery-tickets/14942243?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/the-orphanage-middle-east-cornerbakery-
+ tickets/14942243?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:f93f691fb69a55e6257413642aa7a41f164625db@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261018T020000Z
+DTEND:20261018T040000Z
+SUMMARY:Amplify'd
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/amplifyd-middle-east-zuzu-ticke
+ ts/14164964?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://www.ticketweb.com/event/amplifyd-middle-east-zuzu-tickets/14164
+ 964?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:b7d6cf435f41541a717a3edc0bb4ce87eb51e775@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261018T230000Z
+DTEND:20261019T010000Z
+SUMMARY:Callen\, Lucas Lusher\, Nico Welsh
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/callen-lucas-lusher-nico-welsh-
+ middle-east-upstairs-tickets/14378934?pl=mideastclub&REFID=clientsitewp\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/callen-lucas-lusher-nico-welsh-middle-e
+ ast-upstairs-tickets/14378934?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:66f4d2ea1cb4acb7aa8b1f3756e29b6483011c6b@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261018T230000Z
+DTEND:20261019T010000Z
+SUMMARY:Screeching Weasel\, The Queers\, and The Prozacs
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/screeching-weasel-the-queers-an
+ d-middle-east-downstairs-tickets/15044923?pl=mideastclub&REFID=clientsitew
+ p\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/screeching-weasel-the-queers-and-middle
+ -east-downstairs-tickets/15044923?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:2fcfec65d59efad091e67bd59857f7bbebf7d5ab@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261018T230000Z
+DTEND:20261019T010000Z
+SUMMARY:Yaktak
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/yaktak-sonia-tickets/14349224?p
+ l=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.ticketweb.com/event/yaktak-sonia-tickets/14349224?pl=mideas
+ tclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:5f784f11900b3eb7e4987455c4dc99b217c924b1@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261019T010000Z
+DTEND:20261019T030000Z
+SUMMARY:Haint
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/haint-middle-east-zuzu-tickets/
+ 14339494?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: https://p
+ ushpin.city/boston/
+URL:https://www.ticketweb.com/event/haint-middle-east-zuzu-tickets/14339494
+ ?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:dca7f6c82505ffd93f1cb2ea6575c8b6b1f70dae@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261020T223000Z
+DTEND:20261021T003000Z
+SUMMARY:Tiana Major9 – November Scorpio Tour
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/tiana-major9-november-middle-ea
+ st-upstairs-tickets/14978063?pl=mideastclub&REFID=clientsitewp\nFrom Pushp
+ in Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/tiana-major9-november-middle-east-upsta
+ irs-tickets/14978063?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:613aa53150cd7816ceb2be688edd75a4ec7313f3@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261021T010000Z
+DTEND:20261021T030000Z
+SUMMARY:Dessert First
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/dessert-first-middle-east-zuzu-
+ tickets/14339544?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: h
+ ttps://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/dessert-first-middle-east-zuzu-tickets/
+ 14339544?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:2a0465613a19deb7e01d0951401786db428ab709@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261021T013000Z
+DTEND:20261021T033000Z
+SUMMARY:Mood
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-t
+ ickets/14031734?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: ht
+ tps://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-tickets/1
+ 4031734?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:44e6289a2439dd16216baac7f22785de0ed27dd0@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261021T230000Z
+DTEND:20261022T010000Z
+SUMMARY:Julien Baker\, Future Teens
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/julien-baker-future-teens-middl
+ e-east-downstairs-tickets/14287144?pl=mideastclub&REFID=clientsitewp\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/julien-baker-future-teens-middle-east-d
+ ownstairs-tickets/14287144?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:a9fb4bd5942031ad83685acff6022f0706e80bec@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261021T230000Z
+DTEND:20261022T010000Z
+SUMMARY:Ouija Macc\, Billy Marchiafava\, Darby O'Trill\, Mikey Rotten
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/ouija-macc-billy-marchiafava-da
+ rby-middle-east-upstairs-tickets/14991363?pl=mideastclub&REFID=clientsitew
+ p\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/ouija-macc-billy-marchiafava-darby-midd
+ le-east-upstairs-tickets/14991363?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:b8ff0bbac8fe93d36d7645cbca1ba7c1af73ac07@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261022T010000Z
+DTEND:20261022T030000Z
+SUMMARY:Battlemode Presents: Chip City ft. Desmo.\, OCKLE\, DJ Twinkdeath\,
+  VOID RIPPE
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/battlemode-presents-chip-city-f
+ t-middle-east-zuzu-tickets/14368294?pl=mideastclub&REFID=clientsitewp\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/battlemode-presents-chip-city-ft-middle
+ -east-zuzu-tickets/14368294?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:ffb39e5c710f1b2f555419c140089b14799c685c@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261022T210000Z
+DTEND:20261022T230000Z
+SUMMARY:Three Dollar Mix
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/three-dollar-mix-middle-east-co
+ rnerbakery-tickets/14280584?pl=mideastclub&REFID=clientsitewp\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/three-dollar-mix-middle-east-cornerbake
+ ry-tickets/14280584?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

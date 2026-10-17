@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Boston Public Library
+X-WR-CALDESC:What’s coming up at Boston Public Library\, from Pushpin Bos
+ ton.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:5fb17b5dc722217a6023e507d191ba578148d581@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261017T180000Z
+DTEND:20261017T200000Z
+SUMMARY:The History of the Hoosac Tunnel in Western Massachusetts
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:Learn about the history of the Hoosac Tunnel in Western Massach
+ usetts\; led by author Dr. Gary Brierley. Built to connect Boston and east
+ ern markets to the Hudson River Valley\, it was the longest tunnel in Nort
+ h America upon its completion.\nhttps://bpl.bibliocommons.com/events/6ab13
+ 00e8cf597003f9555e4\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ab1300e8cf597003f9555e4
+END:VEVENT
+BEGIN:VEVENT
+UID:b0be597fe356c43398c6e274d95f5ffa2fc1a493@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261019T220000Z
+DTEND:20261020T000000Z
+SUMMARY:Author Talk: Carlton Champion - Notes to My Father
+LOCATION:Lower Mills Library\, 27 Richmond St\, Dorchester\, MA 02124
+DESCRIPTION:What happens when a father’s absence becomes part of who you 
+ are? Join Boston-area author Carlton Champion for a reading and discussion
+  of his book\, Notes to My Father\, a deeply personal exploration of fathe
+ rhood\, abandonment\, identity\, and the journey of confronting what we in
+ herit.\nhttps://bpl.bibliocommons.com/events/6aaac1cc6074830038275609\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6aaac1cc6074830038275609
+END:VEVENT
+BEGIN:VEVENT
+UID:5f0326b68116bbff6061a471b8bd0d5e73609bf6@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261020T180000Z
+DTEND:20261020T200000Z
+SUMMARY:Designing for the Age of Super Aging: The Next Frontier in Human-Ce
+ ntered Design
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join us for the next in-person Living Well\, Ending Well progra
+ m in partnership with Boston Village!\nhttps://bpl.bibliocommons.com/event
+ s/6abfb3499dbc2b002c8bc103\nFrom Pushpin Boston: https://pushpin.city/bost
+ on/
+URL:https://bpl.bibliocommons.com/events/6abfb3499dbc2b002c8bc103
+END:VEVENT
+BEGIN:VEVENT
+UID:8f9cb692de94fe5db8fcad84e6f9f75fd3367126@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261021T220000Z
+DTEND:20261022T000000Z
+SUMMARY:Author Talk: David Kruh - Little Mister Victory
+LOCATION:North End Library\, 25 Parmenter St\, Boston\, MA 02113
+DESCRIPTION:Join the Friends of the North End Branch Library in welcoming D
+ avid Kruh to discuss his new book Little Mister Victory.\nhttps://bpl.bibl
+ iocommons.com/events/6abd48f39d27a000454da85e\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6abd48f39d27a000454da85e
+END:VEVENT
+BEGIN:VEVENT
+UID:b8fd69162027773a3856c60d1ee5c4facba81e1b@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261021T220000Z
+DTEND:20261022T000000Z
+SUMMARY:Lowell Lecture: AI and Civic Engagement with Nathan Sanders\, Dr. A
+ vijit Ghosh\, and Jessica Chapel
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Artificial Intelligence experts Nathan Sanders\, Dr. Avijit Gho
+ sh\, and Jessica Chapel lead a panel discussion on AI and civic engagement
+  as a part of the 2026 Lowell Lecture Series\; moderated by BPL President 
+ David Leonard.\nhttps://bpl.bibliocommons.com/events/6a7f14932dac6e00371ef
+ fc8\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6a7f14932dac6e00371effc8
+END:VEVENT
+BEGIN:VEVENT
+UID:11191a797bcbe008f62765423a4b070f454acc12@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261022T160000Z
+DTEND:20261022T180000Z
+SUMMARY:Author Talk: Karin A. Martin - Get Plum Island!
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join University of Michigan professor Karin A. Martin for a con
+ versation about her new book Get Plum Island!: Place and Politics in Massa
+ chusetts’s Ten-Year Fight Over the Parker River National Wildlife Refuge
+ . The book tells the story of how the USFWS became interested in establish
+ ing a national wildlife refuge in Massachusetts\, why Essex County became 
+ a premiere location\, and how local communities and the state nearly succe
+ eded in having the refuge abolished. Instead\, after rounds of Congression
+ al hearings and pocket veto by President Truman\, a compromise was reached
+ \, reducing the refuge to about half its original size\, and yet preservin
+ g the wonderful\, vibrant refuge we know today.\nhttps://bpl.bibliocommons
+ .com/events/6ab28390101eb7003f320c4c\nFrom Pushpin Boston: https://pushpin
+ .city/boston/
+URL:https://bpl.bibliocommons.com/events/6ab28390101eb7003f320c4c
+END:VEVENT
+BEGIN:VEVENT
+UID:2480437f42fff7a96e9f01e6095404d61e0ba950@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261022T220000Z
+DTEND:20261023T000000Z
+SUMMARY:S.P.I.R.I.T.S. of New England
+LOCATION:Jamaica Plain Library\, 30 South Street\, Jamaica Plain\, MA 02130
+DESCRIPTION:S.P.I.R.I.T.S. of New England\, a paranormal research group\, l
+ eads a spooky lecture on hauntings throughout New England including at var
+ ious historic houses and the U.S.S. Constitution.\nhttps://bpl.bibliocommo
+ ns.com/events/6ab57f886074830038294fe1\nFrom Pushpin Boston: https://pushp
+ in.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ab57f886074830038294fe1
+END:VEVENT
+BEGIN:VEVENT
+UID:8dff3ef8e9e7c64313719d99b35f7012f624afa3@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+SUMMARY:Author Talk: Courtney Humphries - Climate Change and the Future of 
+ Boston
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join us as author Courtney Humphries discusses her new book on 
+ the climate impacts facing Boston and the city’s efforts to mitigate and
+  adapt to a changing climate.\nhttps://bpl.bibliocommons.com/events/6a4faf
+ a10d65ac36003e7fa8\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6a4fafa10d65ac36003e7fa8
+END:VEVENT
+BEGIN:VEVENT
+UID:403564b1f8227186272f13a0dc40aeb6ff43d9ec@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+SUMMARY:Author Talk: David Kruh - ﻿Little Mister Victory
+LOCATION:East Boston Library\, 365 Bremen St\, East Boston\, MA 02128
+DESCRIPTION:On August 15\, 1945\, as Bostonians celebrated the end of World
+  War II\, a well-dressed woman asked a teenage boy to watch her newborn ba
+ by. She promised to return after performing an errand but never did. Littl
+ e Mister Victory: A Daughter's Search for the Woman Who Abandoned Her Fath
+ er on VJ Day is the true story of a lifelong quest\, by the baby's daughte
+ r\, to find the woman who abandoned her father.\nhttps://bpl.bibliocommons
+ .com/events/6ab17e446074830038288a76\nFrom Pushpin Boston: https://pushpin
+ .city/boston/
+URL:https://bpl.bibliocommons.com/events/6ab17e446074830038288a76
+END:VEVENT
+BEGIN:VEVENT
+UID:55b7342fe42ea1a4425031f0d7bb4b418da2f944@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+SUMMARY:Author Talk: Sandy Bailey — She's on to Something
+LOCATION:Jamaica Plain Library\, 30 South Street\, Jamaica Plain\, MA 02130
+DESCRIPTION:Join local author Sandy Bailey as she reads from her new sapphi
+ c thriller\, She's on to Something!\nhttps://bpl.bibliocommons.com/events/
+ 6ad0d443e9f71840dd71fc68\nFrom Pushpin Boston: https://pushpin.city/boston
+ /
+URL:https://bpl.bibliocommons.com/events/6ad0d443e9f71840dd71fc68
+END:VEVENT
+BEGIN:VEVENT
+UID:0899cdd133dc15108c37bcab99fce8f866ed7851@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261028T220000Z
+DTEND:20261029T000000Z
+SUMMARY:Author Talk: Nicholas Boggs — Baldwin: A Love Story
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join us in person or online over Zoom Webinar to hear author Ni
+ cholas Boggs speak about his recent bestselling biography of James Baldwin
+ \, Baldwin: A Love Story\, in celebration of LGBTQ+ History Month! Joining
+  Nicolas in Conversation is author and professor\, Jesse McCarthy.\nhttps:
+ //bpl.bibliocommons.com/events/6a3c61b6c52cdc3600ecaceb\nFrom Pushpin Bost
+ on: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6a3c61b6c52cdc3600ecaceb
+END:VEVENT
+BEGIN:VEVENT
+UID:c6263cf3b937528341a91a6dc8c664fa78876ad8@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261029T213000Z
+DTEND:20261029T233000Z
+SUMMARY:Oral History Live: Black Trans Boston
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join Queer History Boston for an Oral History Live panel discus
+ sion!\nhttps://bpl.bibliocommons.com/events/6a9b1d42d94765189bb99bc4\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6a9b1d42d94765189bb99bc4
+END:VEVENT
+BEGIN:VEVENT
+UID:34295e93b8b774bcd2456d309c8eaf662c908b7b@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261029T220000Z
+DTEND:20261030T000000Z
+SUMMARY:We’re Still Here: More Secrets from Charlestown’s Historical Sp
+ irits
+LOCATION:Charlestown Library\, 179 Main St\, Charlestown\, MA 02129
+DESCRIPTION:In the book We’re Still Here: The Secret World of Bunker Hill
+ ’s Historical Spirits\, audiences learned how the restless spirits of Ch
+ arlestown could no longer conceal the truth of what they witnessed during 
+ revolutionary times. But the land holds far more secrets than a single boo
+ k could contain.\nhttps://bpl.bibliocommons.com/events/6aba89eeebad2200454
+ 174f7\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6aba89eeebad2200454174f7
+END:VEVENT
+BEGIN:VEVENT
+UID:0df9c0b8cdea99a2a92d45fb8f28733eed04ad3e@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Quabbin—Yesterday and Today
+LOCATION:Hyde Park Library
+DESCRIPTION:through Nov 30\nThis exhibit contrasts the Quabbin Reservoir wh
+ en it was built in the 1930s with what it has become today. It was recentl
+ y featured at the Massachusetts State House and is now going on the road t
+ o libraries in the communities that receive their water from the Quabbin\,
+  to help raise awareness about the sacrifices it took to build the Quabbin
+  as well as the impact of climate change upon their water supply.\nhttps:/
+ /bpl.bibliocommons.com/events/6ac52fbd96ec3a003ad8a73d\nFrom Pushpin Bosto
+ n: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ac52fbd96ec3a003ad8a73d
+END:VEVENT
+BEGIN:VEVENT
+UID:817ccabe5321703124bde1af8de1ed7c55ad095d@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261105T230000Z
+DTEND:20261106T010000Z
+SUMMARY:Author Talk: Linford D. Fisher — Stealing America: The Hidden Sto
+ ry of Indigenous Slavery in U.S. History
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join author Linford Fisher in a discussion of his book\, Steali
+ ng America\, where he shows that although the first enslaved Africans arri
+ ved in Jamestown in 1619\, European slavery in America began more than a c
+ entury before.\nhttps://bpl.bibliocommons.com/events/6a5e8c9ef213992f00c5b
+ 6a6\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6a5e8c9ef213992f00c5b6a6
+END:VEVENT
+BEGIN:VEVENT
+UID:12ad537016c56d7b716c6288a46e7e0da9ad503c@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261107T180000Z
+DTEND:20261107T200000Z
+SUMMARY:Author Talk: Sandy Bailey - She's On To Something
+LOCATION:Roslindale Library\, 4246 Washington St\, Roslindale\, MA 02131
+DESCRIPTION:Sandy Bailey joins us to discuss her debut novel She’s On To 
+ Something. When hard-charging SEC prosecutor Jaye Brannigan stumbles onto 
+ a church-based investment scam draining millions from working-class famili
+ es\, she knows the case could make—or end—her career.\nhttps://bpl.bib
+ liocommons.com/events/6ac6b12aebad22004543ce43\nFrom Pushpin Boston: https
+ ://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ac6b12aebad22004543ce43
+END:VEVENT
+BEGIN:VEVENT
+UID:721beb8691d97061d9a064fdb0c43285aad40ef6@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261107T190000Z
+DTEND:20261107T210000Z
+SUMMARY:2026 Druker Award Lecture: Can Architecture Change A City?
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Please join us in person or online over Zoom Webinar for the 20
+ 26 Druker Award presentation and talk with KPMB Architects’ Marianne McK
+ enna and Paulo Rocha.\nhttps://bpl.bibliocommons.com/events/6aa1b8937825b4
+ 0064063ed4\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6aa1b8937825b40064063ed4
+END:VEVENT
+BEGIN:VEVENT
+UID:eaca2e2640338cceea920043c5889db831aacc2a@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261108T190000Z
+DTEND:20261108T210000Z
+SUMMARY:Campus2Care Volunteer Info Session + Workshop
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:A Community Meeting and info session hosted by Campus2Care.\nht
+ tps://bpl.bibliocommons.com/events/6acfc8c6de300e00451a6dd2\nFrom Pushpin 
+ Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6acfc8c6de300e00451a6dd2
+END:VEVENT
+BEGIN:VEVENT
+UID:0f9f4c2f32d1e95da5834856a10c93000d4994a2@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261109T230000Z
+DTEND:20261110T010000Z
+SUMMARY:Lowell Lecture: A Conversation with Dr. Kizzmekia Corbett
+LOCATION:Shaw-Roxbury Library\, 149 Dudley Street\, Roxbury\, MA 02119
+DESCRIPTION:Join us in person or over Zoom Webinar as the Shaw Roxbury Bran
+ ch Library welcomes Dr. Kizzmekia Corbett\, Professor at Harvard T.H. Chan
+  School of Public Health\, TIME Hero of the Year\, Renowned Virologist & S
+ cience Communicator.\nhttps://bpl.bibliocommons.com/events/6a7b2391e30fe48
+ 4596893f4\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6a7b2391e30fe484596893f4
+END:VEVENT
+BEGIN:VEVENT
+UID:ce0e48c93237d2d74302dc405adff467b1600beb@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261111T233000Z
+DTEND:20261112T013000Z
+SUMMARY:Author Talk: Laura Zigman — The Author Weekend
+LOCATION:South End Library\, 685 Tremont St\, Boston\, MA 02118
+DESCRIPTION:The Fall 2026 Author Talk Series\, presented by the Friends of 
+ the South End Library\, will continue with Laura Zigman sharing about her 
+ latest novel\, The Author Weekend. Please join us on Wednesday\, November 
+ 11 starting at 6:30 pm at Union Church (Connection Room\, 485 Columbus Ave
+ .) for a fun and lively conversation in this author talk series!\nhttps://
+ bpl.bibliocommons.com/events/6aaac10e86d845003116902a\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6aaac10e86d845003116902a
+END:VEVENT
+BEGIN:VEVENT
+UID:6d252343784fa499b54301ef13b26c9de21564cd@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Art Exhibition — Rachel King: At the Water's Edge
+LOCATION:Jamaica Plain Library
+DESCRIPTION:through Jan 6\nThe Jamaica Plain Branch Library\, in partnershi
+ p with the Friends of the Jamaica Plain Branch of the Boston Public Librar
+ y\, is pleased to present At the Water’s Edge\, the next exhibition of i
+ ts 2026 rotating art series\, featuring photography by Jamaica Plain artis
+ t Rachel King.\nhttps://bpl.bibliocommons.com/events/6ad26a13de300e00451ae
+ 0d1\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ad26a13de300e00451ae0d1
+END:VEVENT
+BEGIN:VEVENT
+UID:c2171d318ebc2c684729d603694eb8c4668b0f93@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261112T220000Z
+DTEND:20261113T000000Z
+SUMMARY:Author Talk: Lauren Klein and Tanvi Sharma on "Data by Design"
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join visualization historian Lauren Klein and designer Tanvi Sh
+ arma for a conversation about their new book Data by Design: Visualization
+  and Power from Abolition to the Dawn of Data Science. The book returns to
+  the history of data visualization to expose the power of charts and maps
+ —and to show how they can be used for social change. Lauren and Tanvi wi
+ ll be in conversation with Arvind Satyanarayan\, a professor of data visua
+ lization at MIT.\nhttps://bpl.bibliocommons.com/events/6ab2828eda318a10e63
+ 5d936\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ab2828eda318a10e635d936
+END:VEVENT
+BEGIN:VEVENT
+UID:4132ce6225826c49d267415baa97a6b3f899c5ea@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261112T223000Z
+DTEND:20261113T003000Z
+SUMMARY:Exhibition Opening Reception — Rachel King: At the Water's Edge
+LOCATION:Jamaica Plain Library\, 30 South Street\, Jamaica Plain\, MA 02130
+DESCRIPTION:Join the Friends of the Jamaica Plain Branch Library for a publ
+ ic reception for the new exhibit At the Water's Edge featuring featuring p
+ hotography by Jamaica Plain artist Rachel King. Be the first to view the e
+ xhibit and get a chance to speak to the the artist about her work. Light r
+ efreshments will be served.\nhttps://bpl.bibliocommons.com/events/6ad26b5d
+ e06996003a83f72d\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ad26b5de06996003a83f72d
+END:VEVENT
+BEGIN:VEVENT
+UID:c2c814525533e2e3b4227bc3012675b394a8ffdb@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261112T230000Z
+DTEND:20261113T010000Z
+SUMMARY:Archaeology in Allston-Brighton
+LOCATION:Brighton Library\, 40 Academy Hill Rd\, Brighton\, MA 02135
+DESCRIPTION:Join the City of Boston Archaeology Program in exploring Allsto
+ n-Brighton's history from the ground up! Learn about how archaeologists ch
+ oose where to dig\, what excavation has already happened in Allston-Bright
+ on\, which parts of the neighborhood may have potential for archaeology\, 
+ and what you can do to protect these finite and irreplaceable historic res
+ ources.\nhttps://bpl.bibliocommons.com/events/6ace695c035faf0033dc598c\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ace695c035faf0033dc598c
+END:VEVENT
+END:VCALENDAR

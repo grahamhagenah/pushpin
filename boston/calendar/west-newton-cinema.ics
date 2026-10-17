@@ -1,0 +1,579 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · West Newton Cinema
+X-WR-CALDESC:What’s coming up at West Newton Cinema\, from Pushpin Boston
+ .
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:32182dcf82c58ff555854c76ff8d2dfe7efb5377@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261017T163000Z
+DTEND:20261017T183000Z
+SUMMARY:The Social Reckoning
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:30pm\, 3pm\, 5:20pm\, 7:45pm\nInspired by true events
+  and the whistleblower who started the social media reckoning we’re seei
+ ng play out today\, this Aaron Sorkin original screenplay is a companion p
+ iece to the hit film The Social Network and a true David and Goliath story
+ . Frances Haugen (Madison)\, a young Facebook engineer\, enlists the help 
+ ofJeff Horwitz (White)\, a Wall Street Journal reporter\, to go on a dange
+ rous journey that ends up blowing the whistle on the social network’s mo
+ st guarded secrets.\nhttps://www.westnewtoncinema.com/movie/the-social-rec
+ koning\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-social-reckoning
+END:VEVENT
+BEGIN:VEVENT
+UID:fcf0396680fd709bfdca311d4d97010a68bb5cc4@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261017T164000Z
+DTEND:20261017T184000Z
+SUMMARY:Primetime
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:40pm\, 3pm\, 5:15pm\, 7:30pm\nIn 2006\, To Catch a Pr
+ edator host Chris Hansen sets out to make television history.\nhttps://www
+ .westnewtoncinema.com/movie/primetime\nFrom Pushpin Boston: https://pushpi
+ n.city/boston/
+URL:https://www.westnewtoncinema.com/movie/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:5dbcd270ec2ba6fef44d0304e6c43b53acdce421@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261017T164500Z
+DTEND:20261017T184500Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:45pm\, 3pm\, 5:15pm\, 7:30pm\nAfter decades of being 
+ blown to bits by bombs\, demolished by dynamite\, mangled by magnets\, bat
+ tered by boulders\, trampled by trains\, tricked by tunnels\, sprung by sp
+ rings\, steamrolled by steamrollers\, maligned by misfires\, bedeviled by 
+ bungees\, rattled by rockets\, backstabbed by bat suits\, rocked by rocket
+  skates\, upended by unicycles\, quaked by quake pills\, rubberized by rog
+ ue bands\, and hurled headlong off every cliff in the Southwest\, Wile E. 
+ Coyote (Genius) finally fights back. Teaming up with billboard accident la
+ wyer Kevin Avery (Will Forte)\, he takes on slick corporate counsel Buddy 
+ Crane (John Cena) and ACME\, Inc.\, the profit-obsessed conglomerate behin
+ d every one of the Coyote’s chaotic catastrophes.\nhttps://www.westnewto
+ ncinema.com/movie/coyote-vs-acme\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd13f4b10b735c4c7398bf6aa0b2b10b008e29c@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261017T170000Z
+DTEND:20261017T190000Z
+SUMMARY:Digger
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 1pm\, 7pm\nThe most powerful man in the world embarks on
+  a frantic mission to prove he is humanity's saviour before the disaster h
+ e’s unleashed destroys everything.\nhttps://www.westnewtoncinema.com/mov
+ ie/digger\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/digger
+END:VEVENT
+BEGIN:VEVENT
+UID:2a06d2126980aab72973213f39cd3a2beda20b8a@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261017T170000Z
+DTEND:20261017T190000Z
+SUMMARY:Sense and Sensibility
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 1pm\, 4pm\, 7pm\nFrom Focus Features and Working Title c
+ omes an irresistible new take on Jane Austen’s iconic Sense and Sensibil
+ ity: a charming\, witty\, and deeply relatable story of love and sisterhoo
+ d starring Daisy Edgar-Jones and Esmé Creed-Miles.\nhttps://www.westnewto
+ ncinema.com/movie/sense-and-sensibility\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/sense-and-sensibility
+END:VEVENT
+BEGIN:VEVENT
+UID:7475c5f59b807ddd873aee08589a68c4464ff452@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261017T170000Z
+DTEND:20261017T190000Z
+SUMMARY:The History of Concrete
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 7:45pm\nA filmmaker applies less
+ ons from a Hallmark movie writing workshop to pitch a documentary about co
+ ncrete.\nhttps://www.westnewtoncinema.com/movie/the-history-of-concrete\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:e2d0e3f69c80511219ab8a6a8f93a723e69c1b8f@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261018T163000Z
+DTEND:20261018T183000Z
+SUMMARY:The Social Reckoning
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:30pm\, 3pm\, 5:20pm\, 7:45pm\nInspired by true events
+  and the whistleblower who started the social media reckoning we’re seei
+ ng play out today\, this Aaron Sorkin original screenplay is a companion p
+ iece to the hit film The Social Network and a true David and Goliath story
+ . Frances Haugen (Madison)\, a young Facebook engineer\, enlists the help 
+ ofJeff Horwitz (White)\, a Wall Street Journal reporter\, to go on a dange
+ rous journey that ends up blowing the whistle on the social network’s mo
+ st guarded secrets.\nhttps://www.westnewtoncinema.com/movie/the-social-rec
+ koning\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-social-reckoning
+END:VEVENT
+BEGIN:VEVENT
+UID:81f4e7c58aeba508be9e4fbc4b9ec128f894df0c@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261018T164000Z
+DTEND:20261018T184000Z
+SUMMARY:Primetime
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:40pm\, 3pm\, 5:15pm\, 7:30pm\nIn 2006\, To Catch a Pr
+ edator host Chris Hansen sets out to make television history.\nhttps://www
+ .westnewtoncinema.com/movie/primetime\nFrom Pushpin Boston: https://pushpi
+ n.city/boston/
+URL:https://www.westnewtoncinema.com/movie/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:004e0968b323c88660f4d8d1cd03daa09e516cb7@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261018T164500Z
+DTEND:20261018T184500Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:45pm\, 3pm\, 5:15pm\, 7:30pm\nAfter decades of being 
+ blown to bits by bombs\, demolished by dynamite\, mangled by magnets\, bat
+ tered by boulders\, trampled by trains\, tricked by tunnels\, sprung by sp
+ rings\, steamrolled by steamrollers\, maligned by misfires\, bedeviled by 
+ bungees\, rattled by rockets\, backstabbed by bat suits\, rocked by rocket
+  skates\, upended by unicycles\, quaked by quake pills\, rubberized by rog
+ ue bands\, and hurled headlong off every cliff in the Southwest\, Wile E. 
+ Coyote (Genius) finally fights back. Teaming up with billboard accident la
+ wyer Kevin Avery (Will Forte)\, he takes on slick corporate counsel Buddy 
+ Crane (John Cena) and ACME\, Inc.\, the profit-obsessed conglomerate behin
+ d every one of the Coyote’s chaotic catastrophes.\nhttps://www.westnewto
+ ncinema.com/movie/coyote-vs-acme\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:fc52f83e391c211a50c0cdf86381b9720afe4b32@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261018T170000Z
+DTEND:20261018T190000Z
+SUMMARY:Digger
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 1pm\, 4pm\, 7pm\nThe most powerful man in the world emba
+ rks on a frantic mission to prove he is humanity's saviour before the disa
+ ster he’s unleashed destroys everything.\nhttps://www.westnewtoncinema.c
+ om/movie/digger\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/digger
+END:VEVENT
+BEGIN:VEVENT
+UID:9df756fcfd50d8b261902aa0ef2d3fa554934ef7@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261018T170000Z
+DTEND:20261018T190000Z
+SUMMARY:Sense and Sensibility
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 1pm\, 4pm\, 7pm\nFrom Focus Features and Working Title c
+ omes an irresistible new take on Jane Austen’s iconic Sense and Sensibil
+ ity: a charming\, witty\, and deeply relatable story of love and sisterhoo
+ d starring Daisy Edgar-Jones and Esmé Creed-Miles.\nhttps://www.westnewto
+ ncinema.com/movie/sense-and-sensibility\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/sense-and-sensibility
+END:VEVENT
+BEGIN:VEVENT
+UID:8b1acb3b9eeb9015042099c260cbd62e04d187e4@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261018T170000Z
+DTEND:20261018T190000Z
+SUMMARY:The History of Concrete
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 1pm\, 3:15pm\, 5:30pm\, 7:45pm\nA filmmaker applies less
+ ons from a Hallmark movie writing workshop to pitch a documentary about co
+ ncrete.\nhttps://www.westnewtoncinema.com/movie/the-history-of-concrete\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:777889327f5c5049e2a833992042802c414e15c6@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261019T200000Z
+DTEND:20261019T220000Z
+SUMMARY:Sense and Sensibility
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4pm\, 7pm\nFrom Focus Features and Working Title comes a
+ n irresistible new take on Jane Austen’s iconic Sense and Sensibility: a
+  charming\, witty\, and deeply relatable story of love and sisterhood star
+ ring Daisy Edgar-Jones and Esmé Creed-Miles.\nhttps://www.westnewtoncinem
+ a.com/movie/sense-and-sensibility\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://www.westnewtoncinema.com/movie/sense-and-sensibility
+END:VEVENT
+BEGIN:VEVENT
+UID:8aeb76af8010aebc9592b5733ace809f8d72d779@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261019T203000Z
+DTEND:20261019T223000Z
+SUMMARY:The Social Reckoning
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:30pm\, 7:15pm\nInspired by true events and the whistle
+ blower who started the social media reckoning we’re seeing play out toda
+ y\, this Aaron Sorkin original screenplay is a companion piece to the hit 
+ film The Social Network and a true David and Goliath story. Frances Haugen
+  (Madison)\, a young Facebook engineer\, enlists the help ofJeff Horwitz (
+ White)\, a Wall Street Journal reporter\, to go on a dangerous journey tha
+ t ends up blowing the whistle on the social network’s most guarded secre
+ ts.\nhttps://www.westnewtoncinema.com/movie/the-social-reckoning\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-social-reckoning
+END:VEVENT
+BEGIN:VEVENT
+UID:920afe7c49df3890b315f1465304707160d99f9c@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261019T210000Z
+DTEND:20261019T230000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:30pm\nAfter decades of being blown to bits by bo
+ mbs\, demolished by dynamite\, mangled by magnets\, battered by boulders\,
+  trampled by trains\, tricked by tunnels\, sprung by springs\, steamrolled
+  by steamrollers\, maligned by misfires\, bedeviled by bungees\, rattled b
+ y rockets\, backstabbed by bat suits\, rocked by rocket skates\, upended b
+ y unicycles\, quaked by quake pills\, rubberized by rogue bands\, and hurl
+ ed headlong off every cliff in the Southwest\, Wile E. Coyote (Genius) fin
+ ally fights back. Teaming up with billboard accident lawyer Kevin Avery (W
+ ill Forte)\, he takes on slick corporate counsel Buddy Crane (John Cena) a
+ nd ACME\, Inc.\, the profit-obsessed conglomerate behind every one of the 
+ Coyote’s chaotic catastrophes.\nhttps://www.westnewtoncinema.com/movie/c
+ oyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:94b3be0d6bdaf885318053221f8a53f7d1980b8e@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261019T210000Z
+DTEND:20261019T230000Z
+SUMMARY:The History of Concrete
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:30pm\nA filmmaker applies lessons from a Hallmar
+ k movie writing workshop to pitch a documentary about concrete.\nhttps://w
+ ww.westnewtoncinema.com/movie/the-history-of-concrete\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:29920274eba3b67cf9608a506a5dfa3f4847cfa4@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261020T200000Z
+DTEND:20261020T220000Z
+SUMMARY:Sense and Sensibility
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4pm\, 7pm\nFrom Focus Features and Working Title comes a
+ n irresistible new take on Jane Austen’s iconic Sense and Sensibility: a
+  charming\, witty\, and deeply relatable story of love and sisterhood star
+ ring Daisy Edgar-Jones and Esmé Creed-Miles.\nhttps://www.westnewtoncinem
+ a.com/movie/sense-and-sensibility\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://www.westnewtoncinema.com/movie/sense-and-sensibility
+END:VEVENT
+BEGIN:VEVENT
+UID:91bc23de3233dce499b768bab2784e3b1baea660@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261020T203000Z
+DTEND:20261020T223000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:After decades of being blown to bits by bombs\, demolished by d
+ ynamite\, mangled by magnets\, battered by boulders\, trampled by trains\,
+  tricked by tunnels\, sprung by springs\, steamrolled by steamrollers\, ma
+ ligned by misfires\, bedeviled by bungees\, rattled by rockets\, backstabb
+ ed by bat suits\, rocked by rocket skates\, upended by unicycles\, quaked 
+ by quake pills\, rubberized by rogue bands\, and hurled headlong off every
+  cliff in the Southwest\, Wile E. Coyote (Genius) finally fights back. Tea
+ ming up with billboard accident lawyer Kevin Avery (Will Forte)\, he takes
+  on slick corporate counsel Buddy Crane (John Cena) and ACME\, Inc.\, the 
+ profit-obsessed conglomerate behind every one of the Coyote’s chaotic ca
+ tastrophes.\nhttps://www.westnewtoncinema.com/movie/coyote-vs-acme\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:8fffb7c2ff52c43324bf26f0ff0cb2ecf0b583ce@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261020T203000Z
+DTEND:20261020T223000Z
+SUMMARY:The Social Reckoning
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:30pm\, 7:15pm\nInspired by true events and the whistle
+ blower who started the social media reckoning we’re seeing play out toda
+ y\, this Aaron Sorkin original screenplay is a companion piece to the hit 
+ film The Social Network and a true David and Goliath story. Frances Haugen
+  (Madison)\, a young Facebook engineer\, enlists the help ofJeff Horwitz (
+ White)\, a Wall Street Journal reporter\, to go on a dangerous journey tha
+ t ends up blowing the whistle on the social network’s most guarded secre
+ ts.\nhttps://www.westnewtoncinema.com/movie/the-social-reckoning\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-social-reckoning
+END:VEVENT
+BEGIN:VEVENT
+UID:08f26dbf178d48ae8779fef4f3ad833182b99386@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261020T210000Z
+DTEND:20261020T230000Z
+SUMMARY:The History of Concrete
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:30pm\nA filmmaker applies lessons from a Hallmar
+ k movie writing workshop to pitch a documentary about concrete.\nhttps://w
+ ww.westnewtoncinema.com/movie/the-history-of-concrete\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:0a39ab44aaba5184ea6c120d3a6540e99daab164@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261021T200000Z
+DTEND:20261021T220000Z
+SUMMARY:Sense and Sensibility
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4pm\, 7pm\nFrom Focus Features and Working Title comes a
+ n irresistible new take on Jane Austen’s iconic Sense and Sensibility: a
+  charming\, witty\, and deeply relatable story of love and sisterhood star
+ ring Daisy Edgar-Jones and Esmé Creed-Miles.\nhttps://www.westnewtoncinem
+ a.com/movie/sense-and-sensibility\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://www.westnewtoncinema.com/movie/sense-and-sensibility
+END:VEVENT
+BEGIN:VEVENT
+UID:acdf1d583d178e1d208d28ce855a3e9ff0a26f41@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261021T203000Z
+DTEND:20261021T223000Z
+SUMMARY:The Social Reckoning
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:30pm\, 7:15pm\nInspired by true events and the whistle
+ blower who started the social media reckoning we’re seeing play out toda
+ y\, this Aaron Sorkin original screenplay is a companion piece to the hit 
+ film The Social Network and a true David and Goliath story. Frances Haugen
+  (Madison)\, a young Facebook engineer\, enlists the help ofJeff Horwitz (
+ White)\, a Wall Street Journal reporter\, to go on a dangerous journey tha
+ t ends up blowing the whistle on the social network’s most guarded secre
+ ts.\nhttps://www.westnewtoncinema.com/movie/the-social-reckoning\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-social-reckoning
+END:VEVENT
+BEGIN:VEVENT
+UID:04e83dfd116c797cfe30f38066429aefc5db16c6@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261021T210000Z
+DTEND:20261021T230000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:30pm\nAfter decades of being blown to bits by bo
+ mbs\, demolished by dynamite\, mangled by magnets\, battered by boulders\,
+  trampled by trains\, tricked by tunnels\, sprung by springs\, steamrolled
+  by steamrollers\, maligned by misfires\, bedeviled by bungees\, rattled b
+ y rockets\, backstabbed by bat suits\, rocked by rocket skates\, upended b
+ y unicycles\, quaked by quake pills\, rubberized by rogue bands\, and hurl
+ ed headlong off every cliff in the Southwest\, Wile E. Coyote (Genius) fin
+ ally fights back. Teaming up with billboard accident lawyer Kevin Avery (W
+ ill Forte)\, he takes on slick corporate counsel Buddy Crane (John Cena) a
+ nd ACME\, Inc.\, the profit-obsessed conglomerate behind every one of the 
+ Coyote’s chaotic catastrophes.\nhttps://www.westnewtoncinema.com/movie/c
+ oyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:bec88d721969fbdce6f6e5d134a159e183163054@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261021T210000Z
+DTEND:20261021T230000Z
+SUMMARY:The History of Concrete
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:30pm\nA filmmaker applies lessons from a Hallmar
+ k movie writing workshop to pitch a documentary about concrete.\nhttps://w
+ ww.westnewtoncinema.com/movie/the-history-of-concrete\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:7e2c7b43e3f50d6464e45624e560b2c3e5f28a84@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261022T200000Z
+DTEND:20261022T220000Z
+SUMMARY:Digger
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:The most powerful man in the world embarks on a frantic mission
+  to prove he is humanity's saviour before the disaster he’s unleashed de
+ stroys everything.\nhttps://www.westnewtoncinema.com/movie/digger\nFrom Pu
+ shpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/digger
+END:VEVENT
+BEGIN:VEVENT
+UID:8f6457d765b2a16496e44b8f93bd2865efb42eb6@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261022T200000Z
+DTEND:20261022T220000Z
+SUMMARY:Sense and Sensibility
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4pm\, 7pm\nFrom Focus Features and Working Title comes a
+ n irresistible new take on Jane Austen’s iconic Sense and Sensibility: a
+  charming\, witty\, and deeply relatable story of love and sisterhood star
+ ring Daisy Edgar-Jones and Esmé Creed-Miles.\nhttps://www.westnewtoncinem
+ a.com/movie/sense-and-sensibility\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://www.westnewtoncinema.com/movie/sense-and-sensibility
+END:VEVENT
+BEGIN:VEVENT
+UID:2dc0dc4a50cf8d1474230df0545012e4c373bb17@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261022T203000Z
+DTEND:20261022T223000Z
+SUMMARY:The Social Reckoning
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:30pm\, 7:15pm\nInspired by true events and the whistle
+ blower who started the social media reckoning we’re seeing play out toda
+ y\, this Aaron Sorkin original screenplay is a companion piece to the hit 
+ film The Social Network and a true David and Goliath story. Frances Haugen
+  (Madison)\, a young Facebook engineer\, enlists the help ofJeff Horwitz (
+ White)\, a Wall Street Journal reporter\, to go on a dangerous journey tha
+ t ends up blowing the whistle on the social network’s most guarded secre
+ ts.\nhttps://www.westnewtoncinema.com/movie/the-social-reckoning\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-social-reckoning
+END:VEVENT
+BEGIN:VEVENT
+UID:b8bc918818f3c3a3b4acb1ba2a7a770ee8f150ea@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261022T204500Z
+DTEND:20261022T224500Z
+SUMMARY:The History of Concrete
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:45pm\, 7:30pm\nA filmmaker applies lessons from a Hall
+ mark movie writing workshop to pitch a documentary about concrete.\nhttps:
+ //www.westnewtoncinema.com/movie/the-history-of-concrete\nFrom Pushpin Bos
+ ton: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:b3b10d0ce6c45f58e06e16ded604bd83e320fcc2@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261022T210000Z
+DTEND:20261022T230000Z
+SUMMARY:Coyote vs. Acme
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:30pm\nAfter decades of being blown to bits by bo
+ mbs\, demolished by dynamite\, mangled by magnets\, battered by boulders\,
+  trampled by trains\, tricked by tunnels\, sprung by springs\, steamrolled
+  by steamrollers\, maligned by misfires\, bedeviled by bungees\, rattled b
+ y rockets\, backstabbed by bat suits\, rocked by rocket skates\, upended b
+ y unicycles\, quaked by quake pills\, rubberized by rogue bands\, and hurl
+ ed headlong off every cliff in the Southwest\, Wile E. Coyote (Genius) fin
+ ally fights back. Teaming up with billboard accident lawyer Kevin Avery (W
+ ill Forte)\, he takes on slick corporate counsel Buddy Crane (John Cena) a
+ nd ACME\, Inc.\, the profit-obsessed conglomerate behind every one of the 
+ Coyote’s chaotic catastrophes.\nhttps://www.westnewtoncinema.com/movie/c
+ oyote-vs-acme\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/coyote-vs-acme
+END:VEVENT
+BEGIN:VEVENT
+UID:bb50c7166f1af8fa3bcb8d28492d030cbc465971@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261022T210000Z
+DTEND:20261022T230000Z
+SUMMARY:Primetime
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:30pm\nIn 2006\, To Catch a Predator host Chris H
+ ansen sets out to make television history.\nhttps://www.westnewtoncinema.c
+ om/movie/primetime\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:e04e7f6a2c76bbab86caa009a7a0cbf8dcb532dc@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261025T170000Z
+DTEND:20261025T190000Z
+SUMMARY:Behind the Screen: Friday Night Lights
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Based on H.G. Bissinger's book\, which profiled the economicall
+ y depressed town of Odessa\, Texas and their heroic high school football t
+ eam\, The Permian High Panthers.\nhttps://www.westnewtoncinema.com/movie/b
+ ehind-the-screen-friday-night-lights\nFrom Pushpin Boston: https://pushpin
+ .city/boston/
+URL:https://www.westnewtoncinema.com/movie/behind-the-screen-friday-night-l
+ ights
+END:VEVENT
+BEGIN:VEVENT
+UID:9a62d2918b2ed9535520f3911c41400bd2f55d92@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261101T233000Z
+DTEND:20261102T013000Z
+SUMMARY:Peter Pan Syndrome
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Inspired by the tales of J.M. Barrie\, Dmitry Krymov's "Peter P
+ an. Syndrome" is about art and the artist – the creator who\, even when 
+ trapped in a dead end\, when despair tightens around the throat and the ur
+ ge to abandon everything feels unbearable\, still returns to creation. Ove
+ rcoming pain\, he\, like Peter Pan\, cannot grow up from his passion for a
+ rt\; he continues to make miracles because he knows no other way to live. 
+ You want to let him go\, to say\, "Rest!" – but he is so radiant\, his m
+ iracles so beautiful\, and his heart so full of love that the audience\, w
+ eeping\, cannot bring themselves to release him.\nhttps://www.westnewtonci
+ nema.com/movie/peter-pan-syndrome\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://www.westnewtoncinema.com/movie/peter-pan-syndrome
+END:VEVENT
+BEGIN:VEVENT
+UID:aca3b7a16203fadc6389d6c3e9acda5e1c5c5f19@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261104T233000Z
+DTEND:20261105T013000Z
+SUMMARY:Your Attention Please
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:You’re invited to a special screening of “Your Attention Pl
+ ease”\, a film about parents\, educators\, and young people fighting bac
+ k against Big Tech—and building something better for our kids. This isn'
+ t a doomsday doc. It's hopeful\, honest\, and it sparks real conversations
+  about the future we want to create. Join us and be a part of this importa
+ nt conversation.\nhttps://www.westnewtoncinema.com/movie/your-attention-pl
+ ease\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/your-attention-please
+END:VEVENT
+BEGIN:VEVENT
+UID:ac3b0425fd279fdb3e629040bcebb87ee918ca9f@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261112T230000Z
+DTEND:20261113T010000Z
+SUMMARY:Ty Burr's Film Club: Seven Samurai
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:This three-hour ride from Akira Kurosawa seamlessly weaves phil
+ osophy and entertainment\, delicate human emotions\, and relentless action
+ \, into a rich\, evocative\, and unforgettable tale of courage and hope.\n
+ https://www.westnewtoncinema.com/movie/ty-burrs-film-club-seven-samurai\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/ty-burrs-film-club-seven-samurai
+END:VEVENT
+BEGIN:VEVENT
+UID:d4d2dcc5ee35d4e8fa6775ad6ff9b15cbe88b910@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261115T180000Z
+DTEND:20261115T200000Z
+SUMMARY:Behind the Screen: La Bola Negra
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:LA BOLA NEGRA\, the bold new film from Spanish writer-directors
+  Javier Calvo and Javier Ambrossi\, won the Best Director award at Cannes 
+ and the People's Choice award at the Toronto International Film Festival. 
+ Inspired by the surviving pages of an unfinished play by Federico García 
+ Lorca and by Alberto Conejero's award-winning play La piedra oscura\, the 
+ film tells the interconnected stories of three gay men in Spain in 1932\, 
+ 1937\, and 2017. Moving from the years before the Spanish Civil War\, thro
+ ugh the war itself\, to the present day\, LA BOLA NEGRA is a sweeping\, pa
+ ssionate triptych about desire\, repression\, historical memory\, and what
+  one generation carries forward to the next.\nhttps://www.westnewtoncinema
+ .com/movie/behind-the-screen-la-bola-negra\nFrom Pushpin Boston: https://p
+ ushpin.city/boston/
+URL:https://www.westnewtoncinema.com/movie/behind-the-screen-la-bola-negra
+END:VEVENT
+END:VCALENDAR

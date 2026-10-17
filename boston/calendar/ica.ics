@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · ICA
+X-WR-CALDESC:What’s coming up at ICA\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:6d2b16770cd0ad2196744ec7aab9ce418a2e4479@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261017T180000Z
+DTEND:20261017T200000Z
+SUMMARY:Book Talk: Melissa Auf der Maur with Naomi Yang
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:*Event price waived with online book pre-purchase\; books are a
+ vailable from the ICA Store. Ticketholders who pre-ordered books can pick 
+ them up at the Holly McGrath Visitor Center on the first floor. Please not
+ e: this program may include mature content.\nhttps://www.icaboston.org/eve
+ nts/book-talk-melissa-auf-der-maur-with-naomi-yang/\nFrom Pushpin Boston: 
+ https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/book-talk-melissa-auf-der-maur-with-na
+ omi-yang/
+END:VEVENT
+BEGIN:VEVENT
+UID:6806fb0d72876ff0843debe0810c0be4de6616e4@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+SUMMARY:Gallery Talk: Meghan Clare Considine on Cynthia Daignault: Valley
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:What does it mean to be alive at a specific point in time?\nhtt
+ ps://www.icaboston.org/events/gallery-talk-meghan-clare-considine-on-cynth
+ ia-daignault-valley/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/gallery-talk-meghan-clare-considine-on
+ -cynthia-daignault-valley/
+END:VEVENT
+BEGIN:VEVENT
+UID:87f6221b081535dbc55bf478aac60e0f9216f178@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261024T000000Z
+DTEND:20261024T020000Z
+SUMMARY:MIDDAY Movement Series and ICA/Boston present: Braiding Futures
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Rough Drafts\, a program of MIDDAY Movement Series\, is a chore
+ ographic lab and teaching residency that supports three emerging Boston-ba
+ sed artists working in contemporary dance. “Braiding Futures\,” the ar
+ tists’ culminating showcase presented at the ICA\, explores the themes o
+ f cultural resistance and resilience through contemporary movement practic
+ es. This year’s Rough Drafts cycle features artists Mira Göksel\, Aiden
+  Marshall\, and Simon Montalvo\, who will each present new and reimagined 
+ work developed throughout their residency period.\nhttps://www.icaboston.o
+ rg/events/midday-movement-series-and-ica-boston-present-braiding-futures/\
+ nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/midday-movement-series-and-ica-boston-
+ present-braiding-futures/
+END:VEVENT
+BEGIN:VEVENT
+UID:68b5ea9bac7f259b3973ddcf0e656f8e1c84263f@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261031T170000Z
+DTEND:20261031T190000Z
+SUMMARY:90 YEARS Exhibition Tour
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Engage with nine decades of ICA history during a guided tour of
+  90 YEARS. Led by a Graduate Student Lecturer\, deepen your understanding 
+ of exhibition artists and themes through guided close looking and discussi
+ on.\nhttps://www.icaboston.org/events/90-years-exhibition-tour/\nFrom Push
+ pin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/90-years-exhibition-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:57026a800ce4eab452676e0303c72a4d2a416892@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261106T230000Z
+DTEND:20261107T010000Z
+SUMMARY:First Fridays: The Colors of Rhythm
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:*Tickets will be available for members on 10/14 at11 AM and non
+ members on 10/21 at 11 AM.\nhttps://www.icaboston.org/events/first-fridays
+ -the-colors-of-rhythm/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/first-fridays-the-colors-of-rhythm/
+END:VEVENT
+BEGIN:VEVENT
+UID:1e1c83aa26eed3932e66b302b8488cc2cbacc712@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261109T000000Z
+DTEND:20261109T020000Z
+SUMMARY:The Boston Symphony Orchestra and ICA/Boston present Sudan Archives
+ : Any Shape I Want
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:*Tickets for this performance are sold out.\nhttps://www.icabos
+ ton.org/events/boston-symphony-orchestra-ica-boston-sudan-archives-any-sha
+ pe-i-want/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/boston-symphony-orchestra-ica-boston-s
+ udan-archives-any-shape-i-want/
+END:VEVENT
+BEGIN:VEVENT
+UID:3de4491248e7926640db3d0bd649dfdf026dfd56@pushpin.city
+DTSTAMP:20261017T154538Z
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+SUMMARY:The Artist’s Voice: Leilah Babirye with Ruth Erickson
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:“Reusing materials is important to me\, as a person who comes
+  from a background where the LGBTQ community is looked at as trash still t
+ oday. As an artist\, I find beauty in using found materials to showcase an
+ d reclaim my community.” -Leilah Babirye Bicycle chains\, gears\, and ti
+ re tubes are some of the unexpected elements in Leilah Babirye’s latest 
+ sculptures at the ICA. Her art\, celebrating a one-of-a-kind queer wedding
+ \, depicts attendees of this special life event through ceramic and carved
+  wood sculptures. Join Babirye and ICA’s Barbara Lee Chief Curator Ruth 
+ Erickson as they reflect on the artist’s unique practice that proudly re
+ claims space\, identity\, and community through art. This program explores
+  Babirye’s many creative influences from African sculpture to found obje
+ ct art and addresses cultural and political systems of oppression embedded
+  in Uganda\, including the Anti-Homosexuality Act (2014/2023) that endange
+ rs and criminalizes many lives.\nhttps://www.icaboston.org/events/the-arti
+ sts-voice-leilah-babirye-with-ruth-erickson/\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://www.icaboston.org/events/the-artists-voice-leilah-babirye-with-
+ ruth-erickson/
+END:VEVENT
+END:VCALENDAR
