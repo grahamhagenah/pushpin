@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · ICA
+X-WR-CALDESC:What’s coming up at ICA\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:68b5ea9bac7f259b3973ddcf0e656f8e1c84263f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261031T170000Z
+DTEND:20261031T190000Z
+SUMMARY:90 YEARS Exhibition Tour
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Engage with nine decades of ICA history during a guided tour of
+  90 YEARS. Led by a Graduate Student Lecturer\, deepen your understanding 
+ of exhibition artists and themes through guided close looking and discussi
+ on.\nhttps://www.icaboston.org/events/90-years-exhibition-tour/\nFrom Push
+ pin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/90-years-exhibition-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:57026a800ce4eab452676e0303c72a4d2a416892@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261106T230000Z
+DTEND:20261107T010000Z
+SUMMARY:First Fridays: The Colors of Rhythm
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Feel the beat and explore Latin sound system culture with retur
+ ning tropical vinyl group Baile Tropidélico. Let the rhythm move you\, le
+ arn some new moves\, and fall into the hyper-saturated party. Get inspired
+  by the music and new 90 YEARS exhibition upstairs in the galleries!\nhttp
+ s://www.icaboston.org/events/first-fridays-the-colors-of-rhythm/\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/first-fridays-the-colors-of-rhythm/
+END:VEVENT
+BEGIN:VEVENT
+UID:1e1c83aa26eed3932e66b302b8488cc2cbacc712@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261109T000000Z
+DTEND:20261109T020000Z
+SUMMARY:The Boston Symphony Orchestra and ICA/Boston present Sudan Archives
+ : Any Shape I Want
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:*Tickets for this performance are sold out.\nhttps://www.icabos
+ ton.org/events/boston-symphony-orchestra-ica-boston-sudan-archives-any-sha
+ pe-i-want/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/boston-symphony-orchestra-ica-boston-s
+ udan-archives-any-shape-i-want/
+END:VEVENT
+BEGIN:VEVENT
+UID:3de4491248e7926640db3d0bd649dfdf026dfd56@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+SUMMARY:The Artist’s Voice: Leilah Babirye with Ruth Erickson
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:“Reusing materials is important to me\, as a person who comes
+  from a background where the LGBTQ community is looked at as trash still t
+ oday. As an artist\, I find beauty in using found materials to showcase an
+ d reclaim my community.” -Leilah Babirye Bicycle chains\, gears\, and ti
+ re tubes are some of the unexpected elements in Leilah Babirye’s latest 
+ sculptures at the ICA. Her art\, celebrating a one-of-a-kind queer wedding
+ \, depicts attendees of this special life event through ceramic and carved
+  wood sculptures. Join Babirye and ICA’s Barbara Lee Chief Curator Ruth 
+ Erickson as they reflect on the artist’s unique practice that proudly re
+ claims space\, identity\, and community through art. This program explores
+  Babirye’s many creative influences from African sculpture to found obje
+ ct art and addresses cultural and political systems of oppression embedded
+  in Uganda\, including the Anti-Homosexuality Act (2014/2023) that endange
+ rs and criminalizes many lives.\nhttps://www.icaboston.org/events/the-arti
+ sts-voice-leilah-babirye-with-ruth-erickson/\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://www.icaboston.org/events/the-artists-voice-leilah-babirye-with-
+ ruth-erickson/
+END:VEVENT
+BEGIN:VEVENT
+UID:6e6cbc4359fea805916e35b034ef02aa4465565a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261121T010000Z
+DTEND:20261121T030000Z
+SUMMARY:Bill T. Jones/Arnie Zane Company: Collage Revisited and Story/
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:The Bill T. Jones/Arnie Zane Company return to the ICA with a p
+ rogram reflecting on history\, legacy\, and continued experimentation.\nht
+ tps://www.icaboston.org/events/bill-t-jones-arnie-zane-company-collage-rev
+ isited-and-story/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/bill-t-jones-arnie-zane-company-collag
+ e-revisited-and-story/
+END:VEVENT
+BEGIN:VEVENT
+UID:8430b499dbad4bda50831d32cae34de672f5b6e7@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:Gallery Talk: Max Gruber on 90 YEARS
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Founded in 1936\, the ICA is one of the oldest museums dedicate
+ d to contemporary art in the United States. On this special anniversary\, 
+ 90 YEARS revisits nine exhibitions and initiatives from the ICA’s histor
+ y\, tracing the museum’s evolution alongside the ever-changing landscape
+  of contemporary art. Join Curatorial Assistant Max Gruber for a conversat
+ ion about pivotal moments in the ICA’s history with a focus on the landm
+ ark 1941 exhibition Modern Mexican Painters.\nhttps://www.icaboston.org/ev
+ ents/gallery-talk-max-gruber-on-90-years/\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://www.icaboston.org/events/gallery-talk-max-gruber-on-90-years/
+END:VEVENT
+END:VCALENDAR

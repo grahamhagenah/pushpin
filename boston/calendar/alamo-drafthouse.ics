@@ -1,0 +1,1358 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Alamo Drafthouse
+X-WR-CALDESC:What’s coming up at Alamo Drafthouse\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:6bafd88703bca2e2041b638ba74a4cba62c360c1@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T221500Z
+DTEND:20261025T001500Z
+SUMMARY:Klara and the Sun
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 6:15pm\, 9:15pm\nThis is the droid you're looking for\nh
+ ttps://drafthouse.com/boston/show/klara-and-the-sun\nFrom Pushpin Boston: 
+ https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/klara-and-the-sun
+END:VEVENT
+BEGIN:VEVENT
+UID:8b380b4bc8872ba53b0615789d2656d4c81461c1@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T221500Z
+DTEND:20261025T001500Z
+SUMMARY:Verity
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 6:15pm\, 9:15pm\nAnne Hathaway has secrets. Dakota Johns
+ on is going to find them.\nhttps://drafthouse.com/boston/show/verity\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/verity
+END:VEVENT
+BEGIN:VEVENT
+UID:c69d561be1acd6fa30c5e5486ed4c1c6fc371ab9@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T223000Z
+DTEND:20261025T003000Z
+SUMMARY:Sense and Sensibility (2026)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 6:30pm\, 10:30pm\nhttps://drafthouse.com/boston/show/sen
+ se-and-sensibility-2026\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/sense-and-sensibility-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:c14dc91ed32ff760e155ae198d97a1811060d5b2@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T223000Z
+DTEND:20261025T003000Z
+SUMMARY:You Can See Everything
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 6:30pm\, 9:30pm\nFielder & Oppenheim's doc on Silicon Va
+ lley founder Elizabeth Holmes\nhttps://drafthouse.com/boston/show/you-can-
+ see-everything\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:1a22c97e1beab439b363ffe19e6bc998b462dc1b@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T224500Z
+DTEND:20261025T004500Z
+SUMMARY:Street Fighter (2026)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 6:45pm\, 10:15pm\nhttps://drafthouse.com/boston/show/str
+ eet-fighter-2026\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/street-fighter-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bbafe7d854ecd4b4f0b9b6f49941612f40236249@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T230000Z
+DTEND:20261025T010000Z
+SUMMARY:Clayface
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 7pm\, 10pm\nThe DCU just got a lot gooier\nhttps://draft
+ house.com/boston/show/clayface\nFrom Pushpin Boston: https://pushpin.city/
+ boston/
+URL:https://drafthouse.com/boston/show/clayface
+END:VEVENT
+BEGIN:VEVENT
+UID:6339b4ce072891d2e80aa4c33c25e1249b4b979c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T231500Z
+DTEND:20261025T011500Z
+SUMMARY:Wicker
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 7:15pm\, 10:15pm\nOlivia Colman commissions a basketmake
+ r to make her a husband\nhttps://drafthouse.com/boston/show/wicker\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:429ace8ab2cdcc5434acb3e464d41b27015e03ad@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T233000Z
+DTEND:20261025T013000Z
+SUMMARY:Whalefall
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 7:30pm\, 10:30pm\nAustin Abrams gets caught in the belly
+  of the beast\nhttps://drafthouse.com/boston/show/whalefall\nFrom Pushpin 
+ Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/whalefall
+END:VEVENT
+BEGIN:VEVENT
+UID:827e95cb5e129287265612baf703590dd9120f85@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T014500Z
+DTEND:20261025T034500Z
+SUMMARY:Fjord
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Renate Reinsve and Sebastian Stan star in this year's Palme D'O
+ r winner\nhttps://drafthouse.com/boston/show/fjord\nFrom Pushpin Boston: h
+ ttps://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:4d92120640261b76c7a4a2c4eb81d47763893a71@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T014500Z
+DTEND:20261025T034500Z
+SUMMARY:NOFX: 40 Years of Fuckin' Up
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:The history of one of punk’s loudest and most stubbornly inde
+ pendent bands\nhttps://drafthouse.com/boston/show/nofx-40-years-of-fuckin-
+ up\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/nofx-40-years-of-fuckin-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8bca7026a2ea00f03b0295aa63341a9890a99bd1@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Clayface
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 10am\, 1pm\, 4pm\, 7:30pm\nThe DCU just got a lot gooier
+ \nhttps://drafthouse.com/boston/show/clayface\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/clayface
+END:VEVENT
+BEGIN:VEVENT
+UID:11b3269e37323a462e83b7a1a59da0a07d817886@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:You Can See Everything
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 10am\, 11:30am\, 12:15pm\, 2pm\, 3:30pm\, 6pm\, 7pm\nFie
+ lder & Oppenheim's doc on Silicon Valley founder Elizabeth Holmes\nhttps:/
+ /drafthouse.com/boston/show/you-can-see-everything\nFrom Pushpin Boston: h
+ ttps://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:42dacf6b7bd3845475b7c64be9453518d2144cd1@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T141500Z
+DTEND:20261025T161500Z
+SUMMARY:Wicker
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 10:15am\, 1:15pm\, 4:15pm\, 7:15pm\nOlivia Colman commis
+ sions a basketmaker to make her a husband\nhttps://drafthouse.com/boston/s
+ how/wicker\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:4bf3b452052da0583dc223afc89886abee1dcdc4@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T143000Z
+DTEND:20261025T163000Z
+SUMMARY:Verity
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 10:30am\, 1:30pm\, 4:30pm\, 7:30pm\nAnne Hathaway has se
+ crets. Dakota Johnson is going to find them.\nhttps://drafthouse.com/bosto
+ n/show/verity\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/verity
+END:VEVENT
+BEGIN:VEVENT
+UID:c80ccb2e53eefd2918da207f8c36e586e843e5af@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T154500Z
+DTEND:20261025T174500Z
+SUMMARY:Fjord
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 11:45am\, 3:15pm\, 6:45pm\nRenate Reinsve and Sebastian 
+ Stan star in this year's Palme D'Or winner\nhttps://drafthouse.com/boston/
+ show/fjord\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:a0a781546f035bb18d5391d65d932471a3c556f8@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T154500Z
+DTEND:20261025T174500Z
+SUMMARY:Sense and Sensibility (2026)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 11:45am\, 3:15pm\, 6:30pm\nhttps://drafthouse.com/boston
+ /show/sense-and-sensibility-2026\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://drafthouse.com/boston/show/sense-and-sensibility-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:12bda85e98fc67b792e7397f8a83967df169df99@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T160000Z
+DTEND:20261025T180000Z
+SUMMARY:Klara and the Sun
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12pm\, 3pm\, 6pm\nThis is the droid you're looking for\n
+ https://drafthouse.com/boston/show/klara-and-the-sun\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/klara-and-the-sun
+END:VEVENT
+BEGIN:VEVENT
+UID:7c1ce2c7c18054a82ad642a3debd6a5ebfeaea9d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T161500Z
+DTEND:20261025T181500Z
+SUMMARY:Street Fighter (2026)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12:15pm\, 3:30pm\, 6:45pm\nhttps://drafthouse.com/boston
+ /show/street-fighter-2026\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://drafthouse.com/boston/show/street-fighter-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:22bb9d7a6321a84d2e9fcd9398f8131b3edc10c5@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T201500Z
+DTEND:20261025T221500Z
+SUMMARY:Whalefall
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 4:15pm\, 7:15pm\nAustin Abrams gets caught in the belly 
+ of the beast\nhttps://drafthouse.com/boston/show/whalefall\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/whalefall
+END:VEVENT
+BEGIN:VEVENT
+UID:fcd30b80b1a4c53a0f33ea344ba20a61485dafa1@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T153000Z
+DTEND:20261026T173000Z
+SUMMARY:Fjord
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 11:30am\, 3pm\, 6:45pm\nRenate Reinsve and Sebastian Sta
+ n star in this year's Palme D'Or winner\nhttps://drafthouse.com/boston/sho
+ w/fjord\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:8cff818f13f883bb4316f95e45552517c58c086d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T153000Z
+DTEND:20261026T173000Z
+SUMMARY:Wicker
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 11:30am\, 3:30pm\, 7:15pm\nOlivia Colman commissions a b
+ asketmaker to make her a husband\nhttps://drafthouse.com/boston/show/wicke
+ r\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:7fa55e114216ee9bd9be0fbd87d4fa1bba0b762f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T154500Z
+DTEND:20261026T174500Z
+SUMMARY:You Can See Everything
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 11:45am\, 12:30pm\, 2:30pm\, 6:30pm\nFielder & Oppenheim
+ 's doc on Silicon Valley founder Elizabeth Holmes\nhttps://drafthouse.com/
+ boston/show/you-can-see-everything\nFrom Pushpin Boston: https://pushpin.c
+ ity/boston/
+URL:https://drafthouse.com/boston/show/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:05703f9fb7b3ac36b4a3744b4f4eb6bff8f1f503@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T160000Z
+DTEND:20261026T180000Z
+SUMMARY:Klara and the Sun
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12pm\, 3pm\, 6pm\nThis is the droid you're looking for\n
+ https://drafthouse.com/boston/show/klara-and-the-sun\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/klara-and-the-sun
+END:VEVENT
+BEGIN:VEVENT
+UID:9fff918b5fcdb5175438d82e03783dd33088731b@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T161500Z
+DTEND:20261026T181500Z
+SUMMARY:Sense and Sensibility (2026)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12:15pm\, 6:30pm\nhttps://drafthouse.com/boston/show/sen
+ se-and-sensibility-2026\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/sense-and-sensibility-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:a5943ef16ad725654908e051209d3faf5bc5be61@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T161500Z
+DTEND:20261026T181500Z
+SUMMARY:Street Fighter (2026)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12:15pm\, 3:30pm\, 6:45pm\nhttps://drafthouse.com/boston
+ /show/street-fighter-2026\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://drafthouse.com/boston/show/street-fighter-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:50bd4d1a944b80e56ad5f629947047dd180fa027@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T170000Z
+DTEND:20261026T190000Z
+SUMMARY:Clayface
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 1pm\, 4:15pm\, 7:30pm\nThe DCU just got a lot gooier\nht
+ tps://drafthouse.com/boston/show/clayface\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://drafthouse.com/boston/show/clayface
+END:VEVENT
+BEGIN:VEVENT
+UID:63a37dd64ecd8f3def62823870eb8266e76d34a1@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T173000Z
+DTEND:20261026T193000Z
+SUMMARY:Verity
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 1:30pm\, 4:30pm\nAnne Hathaway has secrets. Dakota Johns
+ on is going to find them.\nhttps://drafthouse.com/boston/show/verity\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/verity
+END:VEVENT
+BEGIN:VEVENT
+UID:72387cf90ba59b8fc9d6569a551bc5d4ba9451bd@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T194500Z
+DTEND:20261026T214500Z
+SUMMARY:Marie Antoinette (2006)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Kirsten Dunst checks into this tender and opulent emotional epi
+ c\nhttps://drafthouse.com/boston/show/marie-antoinette\nFrom Pushpin Bosto
+ n: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/marie-antoinette
+END:VEVENT
+BEGIN:VEVENT
+UID:fd46bb749aa8dfd6c8ac7cd367dabdcb68912a87@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T203000Z
+DTEND:20261026T223000Z
+SUMMARY:Whalefall
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 4:30pm\, 7:30pm\nAustin Abrams gets caught in the belly 
+ of the beast\nhttps://drafthouse.com/boston/show/whalefall\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/whalefall
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee7a2c7cdbdcf2b5c985d482d68065a793a569f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T230000Z
+DTEND:20261027T010000Z
+SUMMARY:Daughters of Darkness
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:They are waiting for you...they thrive on blood!\nhttps://draft
+ house.com/boston/show/queer-film-theory-101-daughters-of-darkness\nFrom Pu
+ shpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/queer-film-theory-101-daughters-of-d
+ arkness
+END:VEVENT
+BEGIN:VEVENT
+UID:2eea12c11ccfb45c27f5c46f3ccf9da244ec4672@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T153000Z
+DTEND:20261027T173000Z
+SUMMARY:Sense and Sensibility (2026)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 11:30am\, 2:45pm\, 6:15pm\nhttps://drafthouse.com/boston
+ /show/sense-and-sensibility-2026\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://drafthouse.com/boston/show/sense-and-sensibility-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:6ba77bd5a143c3c7c87ea3fed569431fe8d87297@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T153000Z
+DTEND:20261027T173000Z
+SUMMARY:Wicker
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 11:30am\, 3:30pm\, 6:45pm\nOlivia Colman commissions a b
+ asketmaker to make her a husband\nhttps://drafthouse.com/boston/show/wicke
+ r\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:908e500159591bb35057488a0c606f0e6aa21eda@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T154500Z
+DTEND:20261027T174500Z
+SUMMARY:Fjord
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 11:45am\, 3:15pm\, 7pm\nRenate Reinsve and Sebastian Sta
+ n star in this year's Palme D'Or winner\nhttps://drafthouse.com/boston/sho
+ w/fjord\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:b9e17db7846134f5856bd5311134dfb274df3eac@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T154500Z
+DTEND:20261027T174500Z
+SUMMARY:You Can See Everything
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 11:45am\, 12:30pm\, 2:30pm\, 6:30pm\nFielder & Oppenheim
+ 's doc on Silicon Valley founder Elizabeth Holmes\nhttps://drafthouse.com/
+ boston/show/you-can-see-everything\nFrom Pushpin Boston: https://pushpin.c
+ ity/boston/
+URL:https://drafthouse.com/boston/show/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:b296baaa0751bfd46019b7a6169891034fe38e6c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T160000Z
+DTEND:20261027T180000Z
+SUMMARY:Klara and the Sun
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12pm\, 3pm\, 6pm\nThis is the droid you're looking for\n
+ https://drafthouse.com/boston/show/klara-and-the-sun\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/klara-and-the-sun
+END:VEVENT
+BEGIN:VEVENT
+UID:858f5691958aa7ab54bef269bc11ddd99f46f177@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T161500Z
+DTEND:20261027T181500Z
+SUMMARY:Street Fighter (2026)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12:15pm\, 6:45pm\nhttps://drafthouse.com/boston/show/str
+ eet-fighter-2026\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/street-fighter-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:8adab4107e5d67e9b6c7ab43d43a93072d73bc5d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T170000Z
+DTEND:20261027T190000Z
+SUMMARY:Clayface
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 1pm\, 4:15pm\, 7:15pm\nThe DCU just got a lot gooier\nht
+ tps://drafthouse.com/boston/show/clayface\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://drafthouse.com/boston/show/clayface
+END:VEVENT
+BEGIN:VEVENT
+UID:69128533a670f4946998f1033096d70b629a490e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T173000Z
+DTEND:20261027T193000Z
+SUMMARY:Verity
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 1:30pm\, 4:30pm\, 7:30pm\nAnne Hathaway has secrets. Dak
+ ota Johnson is going to find them.\nhttps://drafthouse.com/boston/show/ver
+ ity\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/verity
+END:VEVENT
+BEGIN:VEVENT
+UID:5f77d592ed3c9da73638549675c0d9fd4c2c3fa5@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T200000Z
+DTEND:20261027T220000Z
+SUMMARY:Making Marie Antoinette
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:A behind-the-scenes look at Sofia Coppola's cult classic\, dire
+ cted by her mother\nhttps://drafthouse.com/boston/show/making-marie-antoin
+ ette\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/making-marie-antoinette
+END:VEVENT
+BEGIN:VEVENT
+UID:519bf02757c701d2420f265ea04f6f4951c7ef76@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T203000Z
+DTEND:20261027T223000Z
+SUMMARY:Whalefall
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 4:30pm\, 7:30pm\nAustin Abrams gets caught in the belly 
+ of the beast\nhttps://drafthouse.com/boston/show/whalefall\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/whalefall
+END:VEVENT
+BEGIN:VEVENT
+UID:14f853ade7bd97bf11559df3325da0c51e24c205@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T150000Z
+DTEND:20261028T170000Z
+SUMMARY:Sense and Sensibility (2026)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 11am\, 2:45pm\, 6:15pm\nhttps://drafthouse.com/boston/sh
+ ow/sense-and-sensibility-2026\nFrom Pushpin Boston: https://pushpin.city/b
+ oston/
+URL:https://drafthouse.com/boston/show/sense-and-sensibility-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:9eb3912260fa7a3e90cddba5c4ec198456163a15@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T150000Z
+DTEND:20261028T170000Z
+SUMMARY:You Can See Everything
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 11am\, 12pm\, 3pm\, 7pm\nFielder & Oppenheim's doc on Si
+ licon Valley founder Elizabeth Holmes\nhttps://drafthouse.com/boston/show/
+ you-can-see-everything\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:3260e5072a760784b2334c1382075e389ddee44b@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T154500Z
+DTEND:20261028T174500Z
+SUMMARY:Fjord
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 11:45am\, 3:15pm\, 6:45pm\nRenate Reinsve and Sebastian 
+ Stan star in this year's Palme D'Or winner\nhttps://drafthouse.com/boston/
+ show/fjord\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:5146485c6eca0c47368ad5a3b5abda9f10b6a2fe@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T154500Z
+DTEND:20261028T174500Z
+SUMMARY:Wicker
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 11:45am\, 3:30pm\, 6:30pm\nOlivia Colman commissions a b
+ asketmaker to make her a husband\nhttps://drafthouse.com/boston/show/wicke
+ r\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:cb8f6be616a079cb1c601d7a45663ed1dfc6eb92@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T160000Z
+DTEND:20261028T180000Z
+SUMMARY:Klara and the Sun
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12pm\, 3pm\, 6pm\nThis is the droid you're looking for\n
+ https://drafthouse.com/boston/show/klara-and-the-sun\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/klara-and-the-sun
+END:VEVENT
+BEGIN:VEVENT
+UID:49efd7d149f35b253c776f8ba521d18b91d63ce4@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T161500Z
+DTEND:20261028T181500Z
+SUMMARY:Clayface
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12:15pm\, 4:15pm\, 7:15pm\nThe DCU just got a lot gooier
+ \nhttps://drafthouse.com/boston/show/clayface\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/clayface
+END:VEVENT
+BEGIN:VEVENT
+UID:43c19e88d103fca57beed02cb95f15004637fe5b@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T163000Z
+DTEND:20261028T183000Z
+SUMMARY:Street Fighter (2026)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12:30pm\, 3:45pm\nhttps://drafthouse.com/boston/show/str
+ eet-fighter-2026\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/street-fighter-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:d84146717b2844d0311bcdbcbc8e818e59d48591@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T171500Z
+DTEND:20261028T191500Z
+SUMMARY:Verity
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 1:15pm\, 4:30pm\, 7:30pm\nAnne Hathaway has secrets. Dak
+ ota Johnson is going to find them.\nhttps://drafthouse.com/boston/show/ver
+ ity\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/verity
+END:VEVENT
+BEGIN:VEVENT
+UID:0b2dc53d1c4750d99d02e96453ca4940018c0899@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T181500Z
+DTEND:20261028T201500Z
+SUMMARY:Whalefall
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Austin Abrams gets caught in the belly of the beast\nhttps://dr
+ afthouse.com/boston/show/whalefall\nFrom Pushpin Boston: https://pushpin.c
+ ity/boston/
+URL:https://drafthouse.com/boston/show/whalefall
+END:VEVENT
+BEGIN:VEVENT
+UID:ef43c167a932020fc8d4e69925da4bff88f7bc32@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T230000Z
+DTEND:20261029T010000Z
+SUMMARY:Marie Antoinette (2006)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Kirsten Dunst checks into this tender and opulent emotional epi
+ c\nhttps://drafthouse.com/boston/show/movie-party-marie-antoinette-2006\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/movie-party-marie-antoinette-2006
+END:VEVENT
+BEGIN:VEVENT
+UID:b550278baf38737c994717ec762a0492dcab1257@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T193000Z
+DTEND:20261029T213000Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 3:30pm\, 6:15pm\, 9pm\nAn aging pickpocket struggles to 
+ continue his trade in the modern era\nhttps://drafthouse.com/boston/show/t
+ he-only-living-pickpocket-in-new-york\nFrom Pushpin Boston: https://pushpi
+ n.city/boston/
+URL:https://drafthouse.com/boston/show/the-only-living-pickpocket-in-new-yo
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:77a1b33fa5886cfd9174e905f833fdfc0478543e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+SUMMARY:Everest: The Other Side
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 4pm\, 7pm\, 10pm\nA thrilling cinematic experience chron
+ icling one of the most dangerous climbs\nhttps://drafthouse.com/boston/sho
+ w/everest-the-other-side\nFrom Pushpin Boston: https://pushpin.city/boston
+ /
+URL:https://drafthouse.com/boston/show/everest-the-other-side
+END:VEVENT
+BEGIN:VEVENT
+UID:17bc273adbf6dd70c9f90186ef20038b99741228@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+SUMMARY:Making Marie Antoinette
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:A behind-the-scenes look at Sofia Coppola's cult classic\, dire
+ cted by her mother\nhttps://drafthouse.com/boston/show/making-marie-antoin
+ ette\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/making-marie-antoinette
+END:VEVENT
+BEGIN:VEVENT
+UID:cc521ac90a978650656fedd3957460b89a97fb22@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T230000Z
+DTEND:20261030T010000Z
+SUMMARY:Godzilla vs. Megalon
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/godzilla-vs-megalon\nFrom Pu
+ shpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/godzilla-vs-megalon
+END:VEVENT
+BEGIN:VEVENT
+UID:42c5368784275f675dc51156ad9efe3f3743ec9e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T231500Z
+DTEND:20261030T011500Z
+SUMMARY:Restoration at Grayson Manor
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Chris Colfer stars in your new favorite camp horror jam.\nhttps
+ ://drafthouse.com/boston/show/restoration-at-grayson-manor\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/restoration-at-grayson-manor
+END:VEVENT
+BEGIN:VEVENT
+UID:2b34aebb6586fbc45fb36aaffb82b1e0c68d8134@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261030T193000Z
+DTEND:20261030T213000Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 3:30pm\, 6:15pm\nAn aging pickpocket struggles to contin
+ ue his trade in the modern era\nhttps://drafthouse.com/boston/show/the-onl
+ y-living-pickpocket-in-new-york\nFrom Pushpin Boston: https://pushpin.city
+ /boston/
+URL:https://drafthouse.com/boston/show/the-only-living-pickpocket-in-new-yo
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:c6235d55f7ea2d1dc340cae71a2180e09e432885@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261030T200000Z
+DTEND:20261030T220000Z
+SUMMARY:Everest: The Other Side
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 4pm\, 7pm\nA thrilling cinematic experience chronicling 
+ one of the most dangerous climbs\nhttps://drafthouse.com/boston/show/evere
+ st-the-other-side\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/everest-the-other-side
+END:VEVENT
+BEGIN:VEVENT
+UID:6462e8378935eca94c0bf1684ea38b1188b5cd1b@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261030T223000Z
+DTEND:20261031T003000Z
+SUMMARY:Scream (1996)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/scream\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/scream
+END:VEVENT
+BEGIN:VEVENT
+UID:ac0304acbba50415895f28a8c95e40750626d72e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261030T224500Z
+DTEND:20261031T004500Z
+SUMMARY:Wild Horse Nine
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Sam Rockwell and John Malkovich bring CIA drama to Easter Islan
+ d\nhttps://drafthouse.com/boston/show/fan-event-wild-horse-nine-advance-fa
+ n-screening\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/fan-event-wild-horse-nine-advance-fa
+ n-screening
+END:VEVENT
+BEGIN:VEVENT
+UID:baafcecb8ab890592f846f8fbc671d3511c1bf64@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261031T014500Z
+DTEND:20261031T034500Z
+SUMMARY:Green Room
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Jeremy Saulnier's punks vs. Nazis survivalist thriller\nhttps:/
+ /drafthouse.com/boston/show/special-event-green-room-10th-anniversary\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/special-event-green-room-10th-annive
+ rsary
+END:VEVENT
+BEGIN:VEVENT
+UID:6705fbffe136e9883bf56757a534cb7937edb9e3@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261031T164500Z
+DTEND:20261031T184500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12:45pm\, 3:30pm\, 6:15pm\nAn aging pickpocket struggles
+  to continue his trade in the modern era\nhttps://drafthouse.com/boston/sh
+ ow/the-only-living-pickpocket-in-new-york\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://drafthouse.com/boston/show/the-only-living-pickpocket-in-new-yo
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:e8ccf614e37903c0443a94c6b18487a1925e0277@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:Everest: The Other Side
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 4pm\, 7pm\nA thrilling cinematic experience chronicling 
+ one of the most dangerous climbs\nhttps://drafthouse.com/boston/show/evere
+ st-the-other-side\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/everest-the-other-side
+END:VEVENT
+BEGIN:VEVENT
+UID:c242882820f4cfd8c59b1ecbd1079783420312eb@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:Halloween (1978)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:It's that time of the year again.\nhttps://drafthouse.com/bosto
+ n/show/halloween-1978\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/halloween-1978
+END:VEVENT
+BEGIN:VEVENT
+UID:854eea9bff5fe7193487beb9e391630d056080d6@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261101T013000Z
+DTEND:20261101T033000Z
+SUMMARY:Trick or Treat (1986)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:What are you afraid of? It's only rock and roll...\nhttps://dra
+ fthouse.com/boston/show/trick-or-treat-1986\nFrom Pushpin Boston: https://
+ pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/trick-or-treat-1986
+END:VEVENT
+BEGIN:VEVENT
+UID:6e21d2d045372618e490bf0b39a55521ae5c84f7@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261101T020000Z
+DTEND:20261101T040000Z
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Do the time warp with us\, again\nhttps://drafthouse.com/boston
+ /show/the-rocky-horror-picture-show\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://drafthouse.com/boston/show/the-rocky-horror-picture-show
+END:VEVENT
+BEGIN:VEVENT
+UID:77c8bcbe1bf9e0197fb42233872da840ee6b788c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261101T170000Z
+DTEND:20261101T190000Z
+SUMMARY:Godzilla vs. Mechagodzilla
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Godzilla is back and it's seeing double\nhttps://drafthouse.com
+ /boston/show/godzilla-vs-mechagodzilla\nFrom Pushpin Boston: https://pushp
+ in.city/boston/
+URL:https://drafthouse.com/boston/show/godzilla-vs-mechagodzilla
+END:VEVENT
+BEGIN:VEVENT
+UID:032e9e15298e481ebc699e1468982a5632fb8e89@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261101T174500Z
+DTEND:20261101T194500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12:45pm\, 3:30pm\, 6:15pm\nAn aging pickpocket struggles
+  to continue his trade in the modern era\nhttps://drafthouse.com/boston/sh
+ ow/the-only-living-pickpocket-in-new-york\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://drafthouse.com/boston/show/the-only-living-pickpocket-in-new-yo
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:5c6582b54711bb9208842c78e8b5d3641671409d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261101T210000Z
+DTEND:20261101T230000Z
+SUMMARY:Everest: The Other Side
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 4pm\, 7pm\nA thrilling cinematic experience chronicling 
+ one of the most dangerous climbs\nhttps://drafthouse.com/boston/show/evere
+ st-the-other-side\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/everest-the-other-side
+END:VEVENT
+BEGIN:VEVENT
+UID:9063bdd27b71bad8327df4bce7fac7fefa4bc3ad@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261102T000000Z
+DTEND:20261102T020000Z
+SUMMARY:The Irregular at Magic High School the Movie (Subtitled)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:The candidates gather to decide who will be the next leader of 
+ their clan\nhttps://drafthouse.com/boston/show/the-irregular-at-magic-high
+ -school-the-movie-subtitled\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://drafthouse.com/boston/show/the-irregular-at-magic-high-school-t
+ he-movie-subtitled
+END:VEVENT
+BEGIN:VEVENT
+UID:2e6789fc3c856cbe8c835f2d75950aff6fd9c08f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261103T230000Z
+DTEND:20261104T010000Z
+SUMMARY:Wild at Heart
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:A red hot\, full throttle love odyssey from David Lynch\nhttps:
+ //drafthouse.com/boston/show/special-event-wild-at-heart-unrated\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/special-event-wild-at-heart-unrated
+END:VEVENT
+BEGIN:VEVENT
+UID:cd0557f01a989cac661c99e5faf3791c967fad69@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261104T000000Z
+DTEND:20261104T020000Z
+SUMMARY:The Irregular at Magic High School the Movie (Dubbed)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:The candidates gather to decide who will be the next leader of 
+ their clan\nhttps://drafthouse.com/boston/show/the-irregular-at-magic-high
+ -school-the-movie-dubbed\nFrom Pushpin Boston: https://pushpin.city/boston
+ /
+URL:https://drafthouse.com/boston/show/the-irregular-at-magic-high-school-t
+ he-movie-dubbed
+END:VEVENT
+BEGIN:VEVENT
+UID:581b1e96c47a6c5041e913145923da372e7e7836@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Wild at Heart
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:A red hot\, full throttle love odyssey from David Lynch\nhttps:
+ //drafthouse.com/boston/show/special-event-wild-at-heart-unrated\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/special-event-wild-at-heart-unrated
+END:VEVENT
+BEGIN:VEVENT
+UID:b5ad5100b6f16f07947f2e5de7e0ac32a75d1946@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T003000Z
+DTEND:20261105T023000Z
+SUMMARY:The Irregular at Magic High School the Movie (Subtitled)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:The candidates gather to decide who will be the next leader of 
+ their clan\nhttps://drafthouse.com/boston/show/the-irregular-at-magic-high
+ -school-the-movie-subtitled\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://drafthouse.com/boston/show/the-irregular-at-magic-high-school-t
+ he-movie-subtitled
+END:VEVENT
+BEGIN:VEVENT
+UID:33395fa50592a516bfc258a216739286b2c9ce53@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T191500Z
+DTEND:20261105T211500Z
+SUMMARY:La Bola Negra
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 2:15pm\, 6pm\, 9:45pm\nTIFF's People's Choice winner fol
+ lows three generations across Spanish history\nhttps://drafthouse.com/bost
+ on/show/la-bola-negra\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/la-bola-negra
+END:VEVENT
+BEGIN:VEVENT
+UID:97a79d6bfc5dc87478b55ebcf19df2bd47a2c615@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 3pm\, 6:15pm\, 9:30pm\nSam Rockwell and John Malkovich b
+ ring CIA drama to Easter Island\nhttps://drafthouse.com/boston/show/wild-h
+ orse-nine\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:62784b5fc494f5f290738a163002a5d47d57783c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T234500Z
+DTEND:20261106T014500Z
+SUMMARY:Godzilla Minus Zero
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 6:45pm\, 10:15pm\nhttps://drafthouse.com/boston/show/god
+ zilla-minus-zero\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/godzilla-minus-zero
+END:VEVENT
+BEGIN:VEVENT
+UID:07ddae4ac54ad017a65e3240fcbcfc4ec2044eaf@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261106T191500Z
+DTEND:20261106T211500Z
+SUMMARY:La Bola Negra
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 2:15pm\, 6pm\, 9:45pm\nTIFF's People's Choice winner fol
+ lows three generations across Spanish history\nhttps://drafthouse.com/bost
+ on/show/la-bola-negra\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/la-bola-negra
+END:VEVENT
+BEGIN:VEVENT
+UID:94dab1d5faac6cda10f554a18550ee6b803d11a4@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261106T200000Z
+DTEND:20261106T220000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 3pm\, 6:15pm\, 9:30pm\nSam Rockwell and John Malkovich b
+ ring CIA drama to Easter Island\nhttps://drafthouse.com/boston/show/wild-h
+ orse-nine\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:94ae77fbc60f37cb695c228b911fc706ba03b6f7@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261106T201500Z
+DTEND:20261106T221500Z
+SUMMARY:Godzilla Minus Zero
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 3:15pm\, 6:45pm\, 10:15pm\nhttps://drafthouse.com/boston
+ /show/godzilla-minus-zero\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://drafthouse.com/boston/show/godzilla-minus-zero
+END:VEVENT
+BEGIN:VEVENT
+UID:64750ecb23ae572721d89bc1f57842206880ab82@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T000000Z
+DTEND:20261107T020000Z
+SUMMARY:Heated Rivalry
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 7pm\, 9:45pm\nTwo rival hockey stars develop feelings fo
+ r each another\nhttps://drafthouse.com/boston/show/special-event-heated-ri
+ valry-episode-1-2\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/special-event-heated-rivalry-episode
+ -1-2
+END:VEVENT
+BEGIN:VEVENT
+UID:7086908c130e9b82cf61d5fafad99065d558408e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T164500Z
+DTEND:20261107T184500Z
+SUMMARY:Godzilla Minus Zero
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 11:45am\, 3:15pm\, 6:45pm\, 10:15pm\nhttps://drafthouse.
+ com/boston/show/godzilla-minus-zero\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://drafthouse.com/boston/show/godzilla-minus-zero
+END:VEVENT
+BEGIN:VEVENT
+UID:61a444c4587a7758a2a21a9550bd5d9e7163ff0a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T170000Z
+DTEND:20261107T190000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12pm\, 3pm\, 6:15pm\, 9:30pm\nSam Rockwell and John Malk
+ ovich bring CIA drama to Easter Island\nhttps://drafthouse.com/boston/show
+ /wild-horse-nine\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:348192cf8747a90e78e38d56e4bfa41999d35132@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T174500Z
+DTEND:20261107T194500Z
+SUMMARY:Heated Rivalry
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12:45pm\, 3:30pm\, 6:15pm\nTwo rival hockey stars develo
+ p feelings for each another\nhttps://drafthouse.com/boston/show/special-ev
+ ent-heated-rivalry-episode-1-2\nFrom Pushpin Boston: https://pushpin.city/
+ boston/
+URL:https://drafthouse.com/boston/show/special-event-heated-rivalry-episode
+ -1-2
+END:VEVENT
+BEGIN:VEVENT
+UID:40a26cd147164dc90c5437126a3666843b8335c5@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T191500Z
+DTEND:20261107T211500Z
+SUMMARY:La Bola Negra
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 2:15pm\, 6pm\, 9:45pm\nTIFF's People's Choice winner fol
+ lows three generations across Spanish history\nhttps://drafthouse.com/bost
+ on/show/la-bola-negra\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/la-bola-negra
+END:VEVENT
+BEGIN:VEVENT
+UID:1f782e7f9a2a48f5030ca86eb218e45c8895d54f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T210000Z
+DTEND:20261107T230000Z
+SUMMARY:We Own the Night
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:One family on opposite sides of the law. Two brothers about to 
+ collide.\nhttps://drafthouse.com/boston/show/we-own-the-night\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/we-own-the-night
+END:VEVENT
+BEGIN:VEVENT
+UID:9aef16d775686ff2b4e0731a884df3bf20f45273@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T164500Z
+DTEND:20261108T184500Z
+SUMMARY:Godzilla Minus Zero
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 11:45am\, 3:15pm\, 6:45pm\nhttps://drafthouse.com/boston
+ /show/godzilla-minus-zero\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://drafthouse.com/boston/show/godzilla-minus-zero
+END:VEVENT
+BEGIN:VEVENT
+UID:43e9389a4dda5c598028b5031eb35c74e2269954@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12pm\, 3pm\, 6:15pm\nSam Rockwell and John Malkovich bri
+ ng CIA drama to Easter Island\nhttps://drafthouse.com/boston/show/wild-hor
+ se-nine\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:d8cc460dd1905b16d26692f3e3295b2758ca977d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T174500Z
+DTEND:20261108T194500Z
+SUMMARY:Heated Rivalry
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12:45pm\, 3:30pm\, 6:15pm\nTwo rival hockey stars develo
+ p feelings for each another\nhttps://drafthouse.com/boston/show/special-ev
+ ent-heated-rivalry-episode-1-2\nFrom Pushpin Boston: https://pushpin.city/
+ boston/
+URL:https://drafthouse.com/boston/show/special-event-heated-rivalry-episode
+ -1-2
+END:VEVENT
+BEGIN:VEVENT
+UID:aa0373086d6a29a1dd623f39cd53ba10da2691f0@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T180000Z
+DTEND:20261108T200000Z
+SUMMARY:The Magnificent Ambersons
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Real life screened more daringly than it's ever been before!\nh
+ ttps://drafthouse.com/boston/show/the-magnificent-ambersons\nFrom Pushpin 
+ Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/the-magnificent-ambersons
+END:VEVENT
+BEGIN:VEVENT
+UID:ad63bf2f598b4f0f66b03eb496728792c5e44263@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T191500Z
+DTEND:20261108T211500Z
+SUMMARY:La Bola Negra
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 2:15pm\, 6pm\nTIFF's People's Choice winner follows thre
+ e generations across Spanish history\nhttps://drafthouse.com/boston/show/l
+ a-bola-negra\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/la-bola-negra
+END:VEVENT
+BEGIN:VEVENT
+UID:44ce2432c9ddfed877183ddfc7cd3646981fb560@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T204500Z
+DTEND:20261108T224500Z
+SUMMARY:Little Odessa
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/little-odessa\nFrom Pushpin 
+ Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/little-odessa
+END:VEVENT
+BEGIN:VEVENT
+UID:e1b70f40e3c6186539db913a60d77df1ecbfe169@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261109T174500Z
+DTEND:20261109T194500Z
+SUMMARY:Heated Rivalry
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12:45pm\, 3:45pm\, 6:30pm\nTwo rival hockey stars develo
+ p feelings for each another\nhttps://drafthouse.com/boston/show/special-ev
+ ent-heated-rivalry-episode-1-2\nFrom Pushpin Boston: https://pushpin.city/
+ boston/
+URL:https://drafthouse.com/boston/show/special-event-heated-rivalry-episode
+ -1-2
+END:VEVENT
+BEGIN:VEVENT
+UID:f37afceabe8bd77ab07acf339da4a59bfba0a622@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261110T000000Z
+DTEND:20261110T020000Z
+SUMMARY:Southland Tales
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Richard Kelly's genre-bending follow-up to DONNIE DARKO featuri
+ ng The Rock\nhttps://drafthouse.com/boston/show/southland-tales\nFrom Push
+ pin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/southland-tales
+END:VEVENT
+BEGIN:VEVENT
+UID:0b2f46cb730cecb3f5e608e38a65bd3964f84184@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261110T174500Z
+DTEND:20261110T194500Z
+SUMMARY:Heated Rivalry
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12:45pm\, 3:30pm\, 6:15pm\nTwo rival hockey stars develo
+ p feelings for each another\nhttps://drafthouse.com/boston/show/special-ev
+ ent-heated-rivalry-episode-1-2\nFrom Pushpin Boston: https://pushpin.city/
+ boston/
+URL:https://drafthouse.com/boston/show/special-event-heated-rivalry-episode
+ -1-2
+END:VEVENT
+BEGIN:VEVENT
+UID:a9bf81ce18db986139e954bab49b4469dfd935f2@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261111T000000Z
+DTEND:20261111T020000Z
+SUMMARY:Henry: Portrait of a Serial Killer
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:An unflinching gaze into a serial killer\, newly restored\nhttp
+ s://drafthouse.com/boston/show/terror-tuesday-henry-portrait-of-a-serial-k
+ iller\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/terror-tuesday-henry-portrait-of-a-s
+ erial-killer
+END:VEVENT
+BEGIN:VEVENT
+UID:6b624df7736c99e8dc22b928d95f3b7e972b9ee2@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261111T174500Z
+DTEND:20261111T194500Z
+SUMMARY:Heated Rivalry
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12:45pm\, 3:45pm\, 6:30pm\nTwo rival hockey stars develo
+ p feelings for each another\nhttps://drafthouse.com/boston/show/special-ev
+ ent-heated-rivalry-episode-1-2\nFrom Pushpin Boston: https://pushpin.city/
+ boston/
+URL:https://drafthouse.com/boston/show/special-event-heated-rivalry-episode
+ -1-2
+END:VEVENT
+BEGIN:VEVENT
+UID:3228d4c60ec3a6214291e0faa12d6d906255cbcf@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261112T003000Z
+DTEND:20261112T023000Z
+SUMMARY:Crocodile Dose
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Three friends embark on a fantastical 24-hour odyssey or drugs 
+ and alcohol\nhttps://drafthouse.com/boston/show/weird-wednesday-crocodile-
+ dose-ee\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/weird-wednesday-crocodile-dose-ee
+END:VEVENT
+BEGIN:VEVENT
+UID:cc0eb310bce5a2a8ac14fd752d4f9a5775fd24d1@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261112T174500Z
+DTEND:20261112T194500Z
+SUMMARY:Heated Rivalry
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Times: 12:45pm\, 3:30pm\, 6:15pm\nTwo rival hockey stars develo
+ p feelings for each another\nhttps://drafthouse.com/boston/show/special-ev
+ ent-heated-rivalry-episode-1-2\nFrom Pushpin Boston: https://pushpin.city/
+ boston/
+URL:https://drafthouse.com/boston/show/special-event-heated-rivalry-episode
+ -1-2
+END:VEVENT
+BEGIN:VEVENT
+UID:50a1fbadcca63845ba602bf86387c517edc05399@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+SUMMARY:Women on the Verge of a Nervous Breakdown
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Almodóvar’s laugh-out-loud farce about love and heartache\nh
+ ttps://drafthouse.com/boston/show/women-on-the-verge-of-a-nervous-breakdow
+ n\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/women-on-the-verge-of-a-nervous-brea
+ kdown
+END:VEVENT
+BEGIN:VEVENT
+UID:3d4bd6bb4af28c57603547655c94ec5e7b65247c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T000000Z
+DTEND:20261114T020000Z
+SUMMARY:All About My Mother
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/all-about-my-mother\nFrom Pu
+ shpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/all-about-my-mother
+END:VEVENT
+BEGIN:VEVENT
+UID:f31bbde0c9fb65e9af3ef3908d1bc979f57ac0f1@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T024500Z
+DTEND:20261114T044500Z
+SUMMARY:Mystery Voyage
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:A 1990s kung fu fantasia from Hong Kong\nhttps://drafthouse.com
+ /boston/show/agfadrome-mystery-voyage-november-2026\nFrom Pushpin Boston: 
+ https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/agfadrome-mystery-voyage-november-20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+UID:0449148ad588b1f103c10c1a2dc93c7ec94f3e08@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T173000Z
+DTEND:20261114T193000Z
+SUMMARY:The Searchers
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:The quintessential Western film from legend John Ford\nhttps://
+ drafthouse.com/boston/show/the-searchers\nFrom Pushpin Boston: https://pus
+ hpin.city/boston/
+URL:https://drafthouse.com/boston/show/the-searchers
+END:VEVENT
+BEGIN:VEVENT
+UID:7e68b66383070e3195584d8bc4e453076247cd35@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T204500Z
+DTEND:20261114T224500Z
+SUMMARY:Volver
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Pedro Almodóvar and his muse Penélope Cruz’s celebration of
+  female community\nhttps://drafthouse.com/boston/show/sad-girl-cinema-club
+ -volver\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/sad-girl-cinema-club-volver
+END:VEVENT
+BEGIN:VEVENT
+UID:3614c6bf1ac7dcf3070d8f4cfbf83fe8af69027e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261115T194500Z
+DTEND:20261115T214500Z
+SUMMARY:The Skin I Live In
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/the-skin-i-live-in\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/the-skin-i-live-in
+END:VEVENT
+BEGIN:VEVENT
+UID:755d6709b52eee9ec296bf8455acfc82c2f75ac1@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261117T000000Z
+DTEND:20261117T020000Z
+SUMMARY:Dive in Wonderland
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:The first Japanese theatrical animated adaptation of Alice in W
+ onderland\nhttps://drafthouse.com/boston/show/dive-in-wonderland\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/dive-in-wonderland
+END:VEVENT
+BEGIN:VEVENT
+UID:f31326cdabbba6ba7e66c0a76ee80ee8dc909867@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:Married To The Mob
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:They're her family...whether she likes it or not\nhttps://draft
+ house.com/boston/show/married-to-the-mob\nFrom Pushpin Boston: https://pus
+ hpin.city/boston/
+URL:https://drafthouse.com/boston/show/married-to-the-mob
+END:VEVENT
+BEGIN:VEVENT
+UID:bc201230fee7b7049f439cdec3cd751eafcc0a67@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261121T024500Z
+DTEND:20261121T044500Z
+SUMMARY:The Cook\, The Thief\, His Wife\, & Her Lover
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Peter Greenaway's verbal & visual feast\nhttps://drafthouse.com
+ /boston/show/the-cook-the-thief-his-wife-her-lover\nFrom Pushpin Boston: h
+ ttps://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/the-cook-the-thief-his-wife-her-love
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:cc17c5434a8f863e65e345f118a643ffb5050d40@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261121T210000Z
+DTEND:20261121T230000Z
+SUMMARY:True Stories
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/true-stories\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/true-stories
+END:VEVENT
+BEGIN:VEVENT
+UID:87cca608c5abbccdcc4b939aec5b0cfec14deee4@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261123T000000Z
+DTEND:20261123T020000Z
+SUMMARY:Pearl
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Director Ti West's twisted\, technicolor homage to the golden a
+ ge of cinema\nhttps://drafthouse.com/boston/show/a24-x-alamo-cinema-club-m
+ andatory-bundle-pearl\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/a24-x-alamo-cinema-club-mandatory-bu
+ ndle-pearl
+END:VEVENT
+BEGIN:VEVENT
+UID:54ab6181f93841889a0efe94cbcf5b5c02078f11@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261124T000000Z
+DTEND:20261124T020000Z
+SUMMARY:Point Blank (1967)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:Lee Marvin runs roughshod across the West Coast\nhttps://drafth
+ ouse.com/boston/show/queer-film-theory-101-point-blank-1967\nFrom Pushpin 
+ Boston: https://pushpin.city/boston/
+URL:https://drafthouse.com/boston/show/queer-film-theory-101-point-blank-19
+ 67
+END:VEVENT
+END:VCALENDAR

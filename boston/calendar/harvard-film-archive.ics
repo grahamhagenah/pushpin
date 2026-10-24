@@ -1,0 +1,327 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Harvard Film Archive
+X-WR-CALDESC:What’s coming up at Harvard Film Archive\, from Pushpin Bost
+ on.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:a1709c1b21e6a80e2aac0f63271230851945e758@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+SUMMARY:Je t’aime\, je t’aime
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Alain Resnais\, 1968\nhttps://harvardfilmarchive.or
+ g/calendar/je-taime-je-taime-2026-10\nFrom Pushpin Boston: https://pushpin
+ .city/boston/
+URL:https://harvardfilmarchive.org/calendar/je-taime-je-taime-2026-10
+END:VEVENT
+BEGIN:VEVENT
+UID:64e079f1d4573a78584585f65cf8c8680bae2b29@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T230000Z
+DTEND:20261025T010000Z
+SUMMARY:Pool of London
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Basil Dearden\, 1951\nhttps://harvardfilmarchive.or
+ g/calendar/pool-of-london-2026-10\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://harvardfilmarchive.org/calendar/pool-of-london-2026-10
+END:VEVENT
+BEGIN:VEVENT
+UID:7fb03cb94220bfcf830f3621857b762f9539f262@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T010000Z
+DTEND:20261025T030000Z
+SUMMARY:Turn the Key Softly
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Jack Lee\, 1953\nhttps://harvardfilmarchive.org/cal
+ endar/turn-the-key-softly-2026-10\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://harvardfilmarchive.org/calendar/turn-the-key-softly-2026-10
+END:VEVENT
+BEGIN:VEVENT
+UID:57201371227c675b9a2ca27a8c390a409b0b82ae@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T230000Z
+DTEND:20261026T010000Z
+SUMMARY:It Always Rains on Sunday
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Robert Hamer\, 1947\nhttps://harvardfilmarchive.org
+ /calendar/it-always-rains-on-sunday-2026-10\nFrom Pushpin Boston: https://
+ pushpin.city/boston/
+URL:https://harvardfilmarchive.org/calendar/it-always-rains-on-sunday-2026-
+ 10
+END:VEVENT
+BEGIN:VEVENT
+UID:e6a0274e50ff7b5c7e902d08878ae981b420c942@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T230000Z
+DTEND:20261027T010000Z
+SUMMARY:Hunted
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Charles Crichton\, 1952\nhttps://harvardfilmarchive
+ .org/calendar/hunted-2026-10\nFrom Pushpin Boston: https://pushpin.city/bo
+ ston/
+URL:https://harvardfilmarchive.org/calendar/hunted-2026-10
+END:VEVENT
+BEGIN:VEVENT
+UID:75f358fbc0e3b297fab3b468f83d9af35d261fb3@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T220000Z
+DTEND:20261030T000000Z
+SUMMARY:Marie Antoinette
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Sofia Coppola\, 2006\nhttps://harvardfilmarchive.or
+ g/calendar/marie-antoinette-2026-10\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://harvardfilmarchive.org/calendar/marie-antoinette-2026-10
+END:VEVENT
+BEGIN:VEVENT
+UID:968f8b7105ff3bedaacc191a43e519262b9b9aa2@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261030T230000Z
+DTEND:20261031T010000Z
+SUMMARY:Come and Go
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by João César Monteiro\, 2003\nhttps://harvardfilmar
+ chive.org/calendar/come-and-go-2026-10\nFrom Pushpin Boston: https://pushp
+ in.city/boston/
+URL:https://harvardfilmarchive.org/calendar/come-and-go-2026-10
+END:VEVENT
+BEGIN:VEVENT
+UID:2631ada0423c2aa94551fb54c6701c79f55f8051@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Daughter of Darkness
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Lance Comfort\, 1948\nhttps://harvardfilmarchive.or
+ g/calendar/daughter-of-darkness-2026-10\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://harvardfilmarchive.org/calendar/daughter-of-darkness-2026-10
+END:VEVENT
+BEGIN:VEVENT
+UID:6d620e2bc8d596b2d84333dd6e473a7df8038ae0@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261101T010000Z
+DTEND:20261101T030000Z
+SUMMARY:The Three Weird Sisters
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Daniel Birt\, 1948\nhttps://harvardfilmarchive.org/
+ calendar/the-three-weird-sisters-2026-10\nFrom Pushpin Boston: https://pus
+ hpin.city/boston/
+URL:https://harvardfilmarchive.org/calendar/the-three-weird-sisters-2026-10
+END:VEVENT
+BEGIN:VEVENT
+UID:7b2eb599db3be0dd8b9c4660a23b4f3e7ef4364a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+SUMMARY:They Made Me a Fugitive
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Alberto Cavalcanti\, 1947\nhttps://harvardfilmarchi
+ ve.org/calendar/they-made-me-a-fugitive-2026-11\nFrom Pushpin Boston: http
+ s://pushpin.city/boston/
+URL:https://harvardfilmarchive.org/calendar/they-made-me-a-fugitive-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:b2f766b4c9e02e7477e3856f2dae7298fa186cec@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T000000Z
+DTEND:20261107T020000Z
+SUMMARY:Bullitt
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Peter Yates\, 1968\nhttps://harvardfilmarchive.org/
+ calendar/bullitt-2026-11\nFrom Pushpin Boston: https://pushpin.city/boston
+ /
+URL:https://harvardfilmarchive.org/calendar/bullitt-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:d89f8646e926816a32e6ea67ddd0d69fa8880eb9@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T021500Z
+DTEND:20261107T041500Z
+SUMMARY:The Conversation
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Francis Ford Coppola\, 1974\nhttps://harvardfilmarc
+ hive.org/calendar/the-conversation-2026-11\nFrom Pushpin Boston: https://p
+ ushpin.city/boston/
+URL:https://harvardfilmarchive.org/calendar/the-conversation-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:3b104d17929b3235266203f953b8d44aa51f2d62@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T190000Z
+DTEND:20261107T210000Z
+SUMMARY:Ju Dou
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Zhang Yimou and Yang Fengliang\, 1990\nhttps://harv
+ ardfilmarchive.org/calendar/ju-dou-2026-11\nFrom Pushpin Boston: https://p
+ ushpin.city/boston/
+URL:https://harvardfilmarchive.org/calendar/ju-dou-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:919a9302c660c3d73ab4ce2f6b1e9aafc63755f8@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T000000Z
+DTEND:20261108T020000Z
+SUMMARY:Sudden Fear
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by David Miller\, 1952\nhttps://harvardfilmarchive.org
+ /calendar/sudden-fear-2026-11\nFrom Pushpin Boston: https://pushpin.city/b
+ oston/
+URL:https://harvardfilmarchive.org/calendar/sudden-fear-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:00fa7c252b69151c6ac1ca804e23a20ca64dbc60@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T021500Z
+DTEND:20261108T041500Z
+SUMMARY:Experiment in Terror
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Blake Edwards\, 1962\nhttps://harvardfilmarchive.or
+ g/calendar/experiment-in-terror-2026-11\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://harvardfilmarchive.org/calendar/experiment-in-terror-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:ce89fe4b6917c2f504902950264f990746302e8d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T043000Z
+DTEND:20261108T063000Z
+SUMMARY:Invasion of the Body Snatchers
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Philip Kaufman\, 1978\nhttps://harvardfilmarchive.o
+ rg/calendar/invasion-of-the-body-snatchers-2026-11\nFrom Pushpin Boston: h
+ ttps://pushpin.city/boston/
+URL:https://harvardfilmarchive.org/calendar/invasion-of-the-body-snatchers-
+ 2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:da7a85b9ac515cb4bde386b896661ce028ddfba7@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T200000Z
+DTEND:20261108T220000Z
+SUMMARY:Dark Passage
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Delmer Daves\, 1947\nhttps://harvardfilmarchive.org
+ /calendar/dark-passage-2026-11\nFrom Pushpin Boston: https://pushpin.city/
+ boston/
+URL:https://harvardfilmarchive.org/calendar/dark-passage-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:f2d5220492a4ec19372d1f96ccf302868150702d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261109T000000Z
+DTEND:20261109T020000Z
+SUMMARY:The Lineup
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Don Siegel\, 1958\nhttps://harvardfilmarchive.org/c
+ alendar/the-lineup-2026-11\nFrom Pushpin Boston: https://pushpin.city/bost
+ on/
+URL:https://harvardfilmarchive.org/calendar/the-lineup-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:b474d83bee0f647ce66c25f085ca1cd30f20f78e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261110T000000Z
+DTEND:20261110T020000Z
+SUMMARY:Vertigo
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Alfred Hitchcock\, 1958\nhttps://harvardfilmarchive
+ .org/calendar/vertigo-2026-11\nFrom Pushpin Boston: https://pushpin.city/b
+ oston/
+URL:https://harvardfilmarchive.org/calendar/vertigo-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:27b9df604f08576eded400f91cffc34a18ae6204@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T000000Z
+DTEND:20261114T020000Z
+SUMMARY:Temptation Harbour
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Lance Comfort\, 1947\nhttps://harvardfilmarchive.or
+ g/calendar/temptation-harbour-2026-11\nFrom Pushpin Boston: https://pushpi
+ n.city/boston/
+URL:https://harvardfilmarchive.org/calendar/temptation-harbour-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:b83077e16f479f93d92ace12d5688c1f2e5c8eb7@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T021500Z
+DTEND:20261114T041500Z
+SUMMARY:Tiger in the Smoke
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Roy Ward Baker\, 1956\nhttps://harvardfilmarchive.o
+ rg/calendar/tiger-in-the-smoke-2026-11\nFrom Pushpin Boston: https://pushp
+ in.city/boston/
+URL:https://harvardfilmarchive.org/calendar/tiger-in-the-smoke-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:d1a58b9542cea2a7163bd56d839dd57351ecd4df@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+SUMMARY:All About Lily Chou-Chou
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Iwai Shunji\, 2001\nhttps://harvardfilmarchive.org/
+ calendar/all-about-lily-chou-chou-2026-11\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://harvardfilmarchive.org/calendar/all-about-lily-chou-chou-2026-1
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:e9b039e0063f397849416562db544b307add6958@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:Hell is a City
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Val Guest\, 1960\nhttps://harvardfilmarchive.org/ca
+ lendar/hell-is-a-city-2026-11\nFrom Pushpin Boston: https://pushpin.city/b
+ oston/
+URL:https://harvardfilmarchive.org/calendar/hell-is-a-city-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:7bbb73b7fe239d3459dc09b6af758091c9bfeedf@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261115T020000Z
+DTEND:20261115T040000Z
+SUMMARY:Never Let Go
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by John Guillermin\, 1960\nhttps://harvardfilmarchive.
+ org/calendar/never-let-go-2026-11\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://harvardfilmarchive.org/calendar/never-let-go-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:f02db6e8efff20ded4504f4933c91cc465c05ce9@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261115T200000Z
+DTEND:20261115T220000Z
+SUMMARY:Marie Antoinette
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Sofia Coppola\, 2006\nhttps://harvardfilmarchive.or
+ g/calendar/marie-antoinette-2026-10\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://harvardfilmarchive.org/calendar/marie-antoinette-2026-10
+END:VEVENT
+BEGIN:VEVENT
+UID:512addf3ecf53d0696f984903f2f4ffac8e289e3@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261117T000000Z
+DTEND:20261117T020000Z
+SUMMARY:Nowhere to Go
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Seth Holt\, 1958\nhttps://harvardfilmarchive.org/ca
+ lendar/nowhere-to-go-2026-11\nFrom Pushpin Boston: https://pushpin.city/bo
+ ston/
+URL:https://harvardfilmarchive.org/calendar/nowhere-to-go-2026-11
+END:VEVENT
+END:VCALENDAR

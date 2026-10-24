@@ -1,0 +1,748 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Coolidge Corner
+X-WR-CALDESC:What’s coming up at Coolidge Corner\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:7c5858b3de56929f4a17d89b954c3814632cb2f0@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T152000Z
+DTEND:20261024T172000Z
+SUMMARY:Wicker
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:20am\, 1:45pm\, 4:30pm\, 7:30pm\, 9:55pm\nAn audaciou
+ s comedic fable about sex\, marriage\, and the absurdities of social conve
+ ntion.\nhttps://coolidge.org/films/wicker\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://coolidge.org/films/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:874fa53f29d6295c256b948b19cfdf0c92f002e1@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T153000Z
+DTEND:20261024T173000Z
+SUMMARY:You Can See Everything
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:30am\, 3:30pm\, 7:45pm\nFrom boundary-pushing directo
+ rs Nathan Fielder and Lance Oppenheim.\nhttps://coolidge.org/films/you-can
+ -see-everything\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:e1bd970439d6a0d74913d4c7c1b9f2650c4fd157@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+SUMMARY:Fjord
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 12pm\, 3:15pm\, 6:30pm\, 9:45pm\nA film by Cristian Mung
+ iu\, winner of the 2026 Palme d’Or.\nhttps://coolidge.org/films/fjord\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:d030c858ccd05737e62159fa58142d4bac0cdb9e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T161500Z
+DTEND:20261024T181500Z
+SUMMARY:Sense and Sensibility (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 12:15pm\, 3pm\, 6:15pm\, 9:15pm\nFrom director Georgia O
+ akley (Blue Jean) comes an irresistible new take on Jane Austen’s iconic
+  novel.\nhttps://coolidge.org/films/sense-and-sensibility-2026\nFrom Pushp
+ in Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/sense-and-sensibility-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:b5edce378f4c8621a78f6be2fc8c6986cb0b9f5b@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+SUMMARY:Digger (Digital)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:2hrs 9mins\nhttps://coolidge.org/films/digger-digital\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/digger-digital
+END:VEVENT
+BEGIN:VEVENT
+UID:29a99e168c9d0dfc870347b2755383d9207fd8ad@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T204500Z
+DTEND:20261024T224500Z
+SUMMARY:Your Mother\, Your Mother\, Your Mother
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:45pm\, 7:15pm\, 10:05pm\nMahershala Ali stars in the n
+ ew film from writer-director Bassam Tariq.\nhttps://coolidge.org/films/you
+ r-mother-your-mother-your-mother\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://coolidge.org/films/your-mother-your-mother-your-mother
+END:VEVENT
+BEGIN:VEVENT
+UID:ae95ea919d0fad2d9c690046ecd23a9b1de43632@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T224500Z
+DTEND:20261025T004500Z
+SUMMARY:The Devils (1971)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 6:45pm\, 9:30pm\nScreening from a newly struck 35mm prin
+ t of the 4K restoration of the film!\nhttps://coolidge.org/films/devils-19
+ 71\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/devils-1971
+END:VEVENT
+BEGIN:VEVENT
+UID:cc1470061bed3db4bf38014f21660ae95137c19a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T035900Z
+DTEND:20261025T055900Z
+SUMMARY:Crawl (2019)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:DANGER! Alligators are common in this area. They can be dangero
+ us. They have been known to stalk prey. THEY WILL HUNT YOU!\nhttps://cooli
+ dge.org/films/crawl-2019\nFrom Pushpin Boston: https://pushpin.city/boston
+ /
+URL:https://coolidge.org/films/crawl-2019
+END:VEVENT
+BEGIN:VEVENT
+UID:826c65d37ca7ab6b3d34838cd30daa6340f532a3@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T143000Z
+DTEND:20261025T163000Z
+SUMMARY:Matt Heaton
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Matt Heaton believes music for kids can be entertaining for bot
+ h children AND parents.\nhttps://coolidge.org/events/matt-heaton\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/events/matt-heaton
+END:VEVENT
+BEGIN:VEVENT
+UID:730c8b1bc9a311415992ae2e58e579f77515d2e6@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T150000Z
+DTEND:20261025T170000Z
+SUMMARY:Wicker
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11am\, 1:45pm\, 4:45pm\, 7:30pm\, 9:55pm\nAn audacious c
+ omedic fable about sex\, marriage\, and the absurdities of social conventi
+ on.\nhttps://coolidge.org/films/wicker\nFrom Pushpin Boston: https://pushp
+ in.city/boston/
+URL:https://coolidge.org/films/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:717c14a0941aa449173d750a6c46ec25e5a67c1c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T151500Z
+DTEND:20261025T171500Z
+SUMMARY:The Devils (1971)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:15am\, 7:15pm\, 9:50pm\nScreening from a newly struck
+  35mm print of the 4K restoration of the film!\nhttps://coolidge.org/films
+ /devils-1971\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/devils-1971
+END:VEVENT
+BEGIN:VEVENT
+UID:1aa67f6172a0cd1604dd8bc753627a3f95412c01@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T154500Z
+DTEND:20261025T174500Z
+SUMMARY:Fjord
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:45am\, 3:15pm\, 6:30pm\, 9:45pm\nA film by Cristian M
+ ungiu\, winner of the 2026 Palme d’Or.\nhttps://coolidge.org/films/fjord
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:50940730a52808da97c4d58034eeff3733a1931f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T160000Z
+DTEND:20261025T180000Z
+SUMMARY:Kaagaz Ke Phool
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:This swan song by multi-hyphenate filmmaker Guru Dutt matches s
+ howbiz drama with stunning black-and-white cinematography.\nhttps://coolid
+ ge.org/films/kaagaz-ke-phool\nFrom Pushpin Boston: https://pushpin.city/bo
+ ston/
+URL:https://coolidge.org/films/kaagaz-ke-phool
+END:VEVENT
+BEGIN:VEVENT
+UID:3a2a42a91cfd5e3f9629f4ffd4129b5f1320bd5e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T161500Z
+DTEND:20261025T181500Z
+SUMMARY:Sense and Sensibility (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 12:15pm\, 3pm\, 6:15pm\, 9:15pm\nFrom director Georgia O
+ akley (Blue Jean) comes an irresistible new take on Jane Austen’s iconic
+  novel.\nhttps://coolidge.org/films/sense-and-sensibility-2026\nFrom Pushp
+ in Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/sense-and-sensibility-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:8c76b35427f4f1f42cbff342406989264e8beb24@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T163000Z
+DTEND:20261025T183000Z
+SUMMARY:You Can See Everything
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 12:30pm\, 4:15pm\, 8pm\nFrom boundary-pushing directors 
+ Nathan Fielder and Lance Oppenheim.\nhttps://coolidge.org/films/you-can-se
+ e-everything\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:4d3509f6687b8c68a4d41590803a3cf4be4def63@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+SUMMARY:Legend (1985)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:This is what dreams are made of. This is Legend.\nhttps://cooli
+ dge.org/films/legend-1985\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://coolidge.org/films/legend-1985
+END:VEVENT
+BEGIN:VEVENT
+UID:3e9c04585e2737afce4e9c09dd46d71935df315f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T203000Z
+DTEND:20261025T223000Z
+SUMMARY:Digger (Digital)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:2hrs 9mins\nhttps://coolidge.org/films/digger-digital\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/digger-digital
+END:VEVENT
+BEGIN:VEVENT
+UID:6c9c3589dbb0f0efaeebc8686051e42dafbbdd77@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T232000Z
+DTEND:20261026T012000Z
+SUMMARY:Your Mother\, Your Mother\, Your Mother
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 7:20pm\, 10:05pm\nMahershala Ali stars in the new film f
+ rom writer-director Bassam Tariq.\nhttps://coolidge.org/films/your-mother-
+ your-mother-your-mother\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/your-mother-your-mother-your-mother
+END:VEVENT
+BEGIN:VEVENT
+UID:4858100e49393fa702816278ce2ba7ab5f9e7c98@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T190000Z
+DTEND:20261026T210000Z
+SUMMARY:Sense and Sensibility (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3pm\, 6:20pm\, 9:15pm\nFrom director Georgia Oakley (Blu
+ e Jean) comes an irresistible new take on Jane Austen’s iconic novel.\nh
+ ttps://coolidge.org/films/sense-and-sensibility-2026\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://coolidge.org/films/sense-and-sensibility-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:ff7a0c41543bea1cb2832358b44340acff3bc4b5@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T191500Z
+DTEND:20261026T211500Z
+SUMMARY:You Can See Everything
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:15pm\, 7:45pm\nFrom boundary-pushing directors Nathan 
+ Fielder and Lance Oppenheim.\nhttps://coolidge.org/films/you-can-see-every
+ thing\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:38e9148b410551da31963f9973a4a2308db1afe1@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T193000Z
+DTEND:20261026T213000Z
+SUMMARY:Fjord
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:30pm\, 6:30pm\, 9:45pm\nA film by Cristian Mungiu\, wi
+ nner of the 2026 Palme d’Or.\nhttps://coolidge.org/films/fjord\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:af9ebbea70c28b00b9beb9e23f601ed39b47b82d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T194500Z
+DTEND:20261026T214500Z
+SUMMARY:Digger (Digital)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:2hrs 9mins\nhttps://coolidge.org/films/digger-digital\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/digger-digital
+END:VEVENT
+BEGIN:VEVENT
+UID:aa2b5a725d1aa2651deed6e533c2adda23e3ca31@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T200000Z
+DTEND:20261026T220000Z
+SUMMARY:The Devils (1971)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4pm\, 9:50pm\nScreening from a newly struck 35mm print o
+ f the 4K restoration of the film!\nhttps://coolidge.org/films/devils-1971\
+ nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/devils-1971
+END:VEVENT
+BEGIN:VEVENT
+UID:2c453d9f9396a13c64a2048faef560c7c4850ab9@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T201500Z
+DTEND:20261026T221500Z
+SUMMARY:Wicker
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:15pm\, 6:15pm\, 9:55pm\nAn audacious comedic fable abo
+ ut sex\, marriage\, and the absurdities of social convention.\nhttps://coo
+ lidge.org/films/wicker\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:ee393a85fe6ffd4ecc72b49021ad17c76fa0b09f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T221500Z
+DTEND:20261027T001500Z
+SUMMARY:Seminar: Alien
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:A new Coolidge seminar from Ingrid Stobbe.\nhttps://coolidge.or
+ g/events/seminar-alien\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/events/seminar-alien
+END:VEVENT
+BEGIN:VEVENT
+UID:e4c65bdd0632d44ba8a618709b4548e6c5f1122e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T230000Z
+DTEND:20261027T010000Z
+SUMMARY:Alien (Director’s Cut)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:In space\, no one can hear you scream.\nhttps://coolidge.org/fi
+ lms/alien-directors-cut\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/alien-directors-cut
+END:VEVENT
+BEGIN:VEVENT
+UID:f2e2376c80cf664a61fd5afba4b068ebc33fbdd4@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T020500Z
+DTEND:20261027T040500Z
+SUMMARY:Your Mother\, Your Mother\, Your Mother
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Mahershala Ali stars in the new film from writer-director Bassa
+ m Tariq.\nhttps://coolidge.org/films/your-mother-your-mother-your-mother\n
+ From Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/your-mother-your-mother-your-mother
+END:VEVENT
+BEGIN:VEVENT
+UID:6721936ef0ea3bfd7cfa9c9cc002cbac5b31548e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T140000Z
+DTEND:20261027T160000Z
+SUMMARY:Voting Counts: Elections in Film (Tuesday Section)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:A new film class from Judi Freeman.\nhttps://coolidge.org/event
+ s/voting-counts-elections-film-tuesday-section\nFrom Pushpin Boston: https
+ ://pushpin.city/boston/
+URL:https://coolidge.org/events/voting-counts-elections-film-tuesday-sectio
+ n
+END:VEVENT
+BEGIN:VEVENT
+UID:f3ef7dc9fe1eca3b98ed94afd64a5f247a1915a9@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T190000Z
+DTEND:20261027T210000Z
+SUMMARY:Sense and Sensibility (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3pm\, 6:20pm\, 9:15pm\nFrom director Georgia Oakley (Blu
+ e Jean) comes an irresistible new take on Jane Austen’s iconic novel.\nh
+ ttps://coolidge.org/films/sense-and-sensibility-2026\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://coolidge.org/films/sense-and-sensibility-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:2dfc94675112c55e1c7e11c8e72eb789b95af9c2@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T191500Z
+DTEND:20261027T211500Z
+SUMMARY:You Can See Everything
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:15pm\, 6:45pm\nFrom boundary-pushing directors Nathan 
+ Fielder and Lance Oppenheim.\nhttps://coolidge.org/films/you-can-see-every
+ thing\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:a31debf1801bad333c87763de09fae732462738f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T193000Z
+DTEND:20261027T213000Z
+SUMMARY:Fjord
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:30pm\, 6:30pm\, 9:45pm\nA film by Cristian Mungiu\, wi
+ nner of the 2026 Palme d’Or.\nhttps://coolidge.org/films/fjord\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:a105b7ca7de4af39c84adbd420c27d0d69de2dc6@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T194500Z
+DTEND:20261027T214500Z
+SUMMARY:Digger (Digital)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:2hrs 9mins\nhttps://coolidge.org/films/digger-digital\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/digger-digital
+END:VEVENT
+BEGIN:VEVENT
+UID:a71198f581a84d0e224ff6edafb621f384a6ea8c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T200000Z
+DTEND:20261027T220000Z
+SUMMARY:The Devils (1971)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4pm\, 9:50pm\nScreening from a newly struck 35mm print o
+ f the 4K restoration of the film!\nhttps://coolidge.org/films/devils-1971\
+ nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/devils-1971
+END:VEVENT
+BEGIN:VEVENT
+UID:9114e32577f467b62b24cf65c79d73be8640e435@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T201500Z
+DTEND:20261027T221500Z
+SUMMARY:Wicker
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:15pm\, 6:15pm\, 10:15pm\nAn audacious comedic fable ab
+ out sex\, marriage\, and the absurdities of social convention.\nhttps://co
+ olidge.org/films/wicker\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:057b0e956a1e6e25234c8be6bc143f2fbb26b115@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T221500Z
+DTEND:20261028T001500Z
+SUMMARY:Prints of Darkness
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:A new Coolidge Eduction class from Alex Svensson!\nhttps://cool
+ idge.org/events/prints-darkness\nFrom Pushpin Boston: https://pushpin.city
+ /boston/
+URL:https://coolidge.org/events/prints-darkness
+END:VEVENT
+BEGIN:VEVENT
+UID:fabdf27d5687f765afde07eb01a27c383201108e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T230000Z
+DTEND:20261028T010000Z
+SUMMARY:The Exorcist
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:2hrs 2mins\nhttps://coolidge.org/films/exorcist\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/exorcist
+END:VEVENT
+BEGIN:VEVENT
+UID:cd72c0c6812d406aca8d45a257970e6899173ca7@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T231500Z
+DTEND:20261028T011500Z
+SUMMARY:Ganja & Hess
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:With guests from The Theater Offensive!\nhttps://coolidge.org/f
+ ilms/ganja-hess\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/ganja-hess
+END:VEVENT
+BEGIN:VEVENT
+UID:f93039aeaf8659390bcc3f79f73265069fa49d1a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T020500Z
+DTEND:20261028T040500Z
+SUMMARY:Your Mother\, Your Mother\, Your Mother
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Mahershala Ali stars in the new film from writer-director Bassa
+ m Tariq.\nhttps://coolidge.org/films/your-mother-your-mother-your-mother\n
+ From Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/your-mother-your-mother-your-mother
+END:VEVENT
+BEGIN:VEVENT
+UID:ca86b19a152c01b32e1da96fc6d1c5162ead79ef@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T140000Z
+DTEND:20261028T160000Z
+SUMMARY:Voting Counts: Elections in Film (Wednesday Section)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:A new film class from Judi Freeman.\nhttps://coolidge.org/event
+ s/voting-counts-elections-film-wednesday-section\nFrom Pushpin Boston: htt
+ ps://pushpin.city/boston/
+URL:https://coolidge.org/events/voting-counts-elections-film-wednesday-sect
+ ion
+END:VEVENT
+BEGIN:VEVENT
+UID:c6c499920747a17890e2edcf6ba7d2f23608e46f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:Fjord
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3pm\, 6:30pm\, 9:45pm\nA film by Cristian Mungiu\, winne
+ r of the 2026 Palme d’Or.\nhttps://coolidge.org/films/fjord\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:03f7ebdd8a70169728655d95fed58cd789521528@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T191500Z
+DTEND:20261028T211500Z
+SUMMARY:You Can See Everything
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:15pm\, 7:45pm\nFrom boundary-pushing directors Nathan 
+ Fielder and Lance Oppenheim.\nhttps://coolidge.org/films/you-can-see-every
+ thing\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:bce4455a6b5db2c102b95766ee7e1a22275e0ed1@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T193000Z
+DTEND:20261028T213000Z
+SUMMARY:Sense and Sensibility (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:30pm\, 9:55pm\nFrom director Georgia Oakley (Blue Jean
+ ) comes an irresistible new take on Jane Austen’s iconic novel.\nhttps:/
+ /coolidge.org/films/sense-and-sensibility-2026\nFrom Pushpin Boston: https
+ ://pushpin.city/boston/
+URL:https://coolidge.org/films/sense-and-sensibility-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:0691be15e4f8c153da92a4ad4dd4e48b41e60279@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T194500Z
+DTEND:20261028T214500Z
+SUMMARY:Digger (Digital)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:2hrs 9mins\nhttps://coolidge.org/films/digger-digital\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/digger-digital
+END:VEVENT
+BEGIN:VEVENT
+UID:932a8dc7acf6565f7e03e4e3f00b99bc6f0b910d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T200000Z
+DTEND:20261028T220000Z
+SUMMARY:The Devils (1971)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4pm\, 9:30pm\nScreening from a newly struck 35mm print o
+ f the 4K restoration of the film!\nhttps://coolidge.org/films/devils-1971\
+ nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/devils-1971
+END:VEVENT
+BEGIN:VEVENT
+UID:843eb6a2224766ae764194b13146435a4cb3c5ca@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T203000Z
+DTEND:20261028T223000Z
+SUMMARY:Wicker
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:30pm\, 7:30pm\, 9:40pm\nAn audacious comedic fable abo
+ ut sex\, marriage\, and the absurdities of social convention.\nhttps://coo
+ lidge.org/films/wicker\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:b844d4bcc174e707641f196605176a244a70542f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T221500Z
+DTEND:20261029T001500Z
+SUMMARY:Seminar: The Omen
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:A new Coolidge seminar from MIT Professor of Film and Media Jes
+ sica Ruffin.\nhttps://coolidge.org/events/seminar-omen\nFrom Pushpin Bosto
+ n: https://pushpin.city/boston/
+URL:https://coolidge.org/events/seminar-omen
+END:VEVENT
+BEGIN:VEVENT
+UID:5d1bb51d677d70df220228b10167754fb3682c49@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T230000Z
+DTEND:20261029T010000Z
+SUMMARY:The Omen (1976)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Two thousand years ago his birth was foretold. He's now five ye
+ ars old and his time has come.\nhttps://coolidge.org/films/omen-1976\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/omen-1976
+END:VEVENT
+BEGIN:VEVENT
+UID:e151fc06127cab6bd585b57c48c35e3b1949dd61@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T233000Z
+DTEND:20261029T013000Z
+SUMMARY:Vincent Price: What Keeps Us Alive
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Featuring a pre-film introduction by Victoria Price\nhttps://co
+ olidge.org/films/vincent-price-what-keeps-us-alive\nFrom Pushpin Boston: h
+ ttps://pushpin.city/boston/
+URL:https://coolidge.org/films/vincent-price-what-keeps-us-alive
+END:VEVENT
+BEGIN:VEVENT
+UID:d6144c0f17c51e78a432f5228417d28f415ee25c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T020500Z
+DTEND:20261029T040500Z
+SUMMARY:Your Mother\, Your Mother\, Your Mother
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Mahershala Ali stars in the new film from writer-director Bassa
+ m Tariq.\nhttps://coolidge.org/films/your-mother-your-mother-your-mother\n
+ From Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/your-mother-your-mother-your-mother
+END:VEVENT
+BEGIN:VEVENT
+UID:02a9d747cfb4e42b327504e68395e666c3eb491e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T150000Z
+DTEND:20261029T170000Z
+SUMMARY:The Devils (1971)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11am\, 1:30pm\, 4pm\nScreening from a newly struck 35mm 
+ print of the 4K restoration of the film!\nhttps://coolidge.org/films/devil
+ s-1971\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/devils-1971
+END:VEVENT
+BEGIN:VEVENT
+UID:57bd068a797c6cab92053bb05c900a06c65a3e8b@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T152000Z
+DTEND:20261029T172000Z
+SUMMARY:Wicker
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:20am\, 1:45pm\, 4:30pm\, 6:15pm\, 9:15pm\nAn audaciou
+ s comedic fable about sex\, marriage\, and the absurdities of social conve
+ ntion.\nhttps://coolidge.org/films/wicker\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://coolidge.org/films/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:7008ed8ac25b7d2ae0f738e0acb4268b374274da@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T153000Z
+DTEND:20261029T173000Z
+SUMMARY:You Can See Everything
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:30am\, 3:15pm\, 7:45pm\nFrom boundary-pushing directo
+ rs Nathan Fielder and Lance Oppenheim.\nhttps://coolidge.org/films/you-can
+ -see-everything\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:8d575e17e5071dec89ac1b2aaa624161c370cf09@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T160000Z
+DTEND:20261029T180000Z
+SUMMARY:Fjord
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 12pm\, 3:30pm\, 6:30pm\, 9:45pm\nA film by Cristian Mung
+ iu\, winner of the 2026 Palme d’Or.\nhttps://coolidge.org/films/fjord\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:5d93223e7f762fa58e138b9534c82ee4151d7f2c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T161500Z
+DTEND:20261029T181500Z
+SUMMARY:Sense and Sensibility (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 12:15pm\, 3pm\, 6:20pm\, 9pm\nFrom director Georgia Oakl
+ ey (Blue Jean) comes an irresistible new take on Jane Austen’s iconic no
+ vel.\nhttps://coolidge.org/films/sense-and-sensibility-2026\nFrom Pushpin 
+ Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/sense-and-sensibility-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:2bc68368900e0f97a8bacb9298f71fbf5e388293@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T163000Z
+DTEND:20261029T183000Z
+SUMMARY:Digger (Digital)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:2hrs 9mins\nhttps://coolidge.org/films/digger-digital\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/digger-digital
+END:VEVENT
+BEGIN:VEVENT
+UID:82e7ebe0ac82a3ce41d18f275706ee206f61d36e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T194500Z
+DTEND:20261029T214500Z
+SUMMARY:Your Mother\, Your Mother\, Your Mother
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Mahershala Ali stars in the new film from writer-director Bassa
+ m Tariq.\nhttps://coolidge.org/films/your-mother-your-mother-your-mother\n
+ From Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/your-mother-your-mother-your-mother
+END:VEVENT
+BEGIN:VEVENT
+UID:e71ef2b7807bd04039e790f819d5f70ddc88c1fd@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T230000Z
+DTEND:20261030T010000Z
+SUMMARY:Poltergeist (1982)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Director Tobe Hooper joins super-natural forces with producer S
+ teven Spielberg to create one of the most frightening haunted house storie
+ s ever!\nhttps://coolidge.org/films/poltergeist-1982\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://coolidge.org/films/poltergeist-1982
+END:VEVENT
+BEGIN:VEVENT
+UID:1ccb64c047a0db1b15e997965f6308e86d1471bd@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261030T014500Z
+DTEND:20261030T034500Z
+SUMMARY:The Prophecy
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:God's Army has come to earth and all Hell is about to break loo
+ se!\nhttps://coolidge.org/films/prophecy\nFrom Pushpin Boston: https://pus
+ hpin.city/boston/
+URL:https://coolidge.org/films/prophecy
+END:VEVENT
+BEGIN:VEVENT
+UID:1f1152154777dd8ee80c85e33d7011ba0f5e7cec@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261030T210000Z
+DTEND:20261030T230000Z
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 5pm\, 7:30pm\nA Film 50 Years in the Making\nhttps://coo
+ lidge.org/films/once-upon-time-harlem\nFrom Pushpin Boston: https://pushpi
+ n.city/boston/
+URL:https://coolidge.org/films/once-upon-time-harlem
+END:VEVENT
+BEGIN:VEVENT
+UID:243cbebdd784166f3dea5a809103f36fa425f1b3@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261030T234500Z
+DTEND:20261031T014500Z
+SUMMARY:La bola negra
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:A film by Javier Calvo and Javier Ambrossi\, winners of the Bes
+ t Director award at the 2026 Cannes Film Festival.\nhttps://coolidge.org/f
+ ilms/la-bola-negra\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://coolidge.org/films/la-bola-negra
+END:VEVENT
+BEGIN:VEVENT
+UID:c8fbe6df84b52561a6c395432cd22fa8d140a375@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261031T035900Z
+DTEND:20261031T055900Z
+SUMMARY:Fright Night (1985)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:There are good reasons to be afraid of the dark.\nhttps://cooli
+ dge.org/films/fright-night-1985\nFrom Pushpin Boston: https://pushpin.city
+ /boston/
+URL:https://coolidge.org/films/fright-night-1985
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1527 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Art & talks
+X-WR-CALDESC:Art & talks around Boston\, Cambridge\, and Somerville\, from 
+ Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:32bbfc85469f8914326a2712fa54372bb0af1565@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:What Are People For: Design Philosophy by Patrick Whitney
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:What Are People For: Design Philosophy by Patrick Whitney Bosto
+ n-Cambridge Premiere of Gary Hustwit’s New Film and Interactive Design W
+ orkshop Join the Morningside Academy of Design for the Boston-Cambridge Pr
+ emiere of What Are People For: Design Philosophy by Patrick Whitney\, the 
+ latest short film by acclaimed design documentarian Gary Hustwit (Helvetic
+ a\, Objectified\, Urbanized\, Eno)\, and interactive design workshop on Oc
+ tober 24th. Explore how design can address today's most complex challenges
+  from 2-5pm with a hands-on workshop led by Evan Chan and André Nogueira.
+  Chan and Nogueira will introduce the Whole View model\, a systems design 
+ approach for reframing problems\, surfacing the perspectives of diverse st
+ akeholders\, and finding new pathways forward in situations where expertis
+ e is abundant but fragmented. The session is designed for cross-sector lea
+ ders grappling with problems too complex for any one discipline to solve a
+ lone.\nhttps://calendar.mit.edu/event/what-are-people-for\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/what-are-people-for
+END:VEVENT
+BEGIN:VEVENT
+UID:7017538a66f37d7e8d3a610192396b05ca79f51a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Rescheduled 2026 MIT Great Glass Pumpkin Patch
+LOCATION:MIT\, 77 Massachusetts Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Originally scheduled for Saturday 9/26\, and now rescheduled fo
+ r Saturday 10/24\, the 25th annual MIT Great Glass Pumpkin Patch offers gl
+ ass pumpkins of all colors\, shapes and sizes for sale to the general publ
+ ic. Proceeds from this event fund the ongoing operations of the MIT Glass 
+ Lab\, a program that teaches classes in team-based glassblowing to members
+  of the MIT community.\nhttps://calendar.mit.edu/event/rescheduled-2026-mi
+ t-great-glass-pumpkin-patch\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://calendar.mit.edu/event/rescheduled-2026-mit-great-glass-pumpkin
+ -patch
+END:VEVENT
+BEGIN:VEVENT
+UID:37513ea3ddc6bea253ddaa6063da5717afe668eb@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+SUMMARY:The Story of Art without Men: An Illustrated Guide to Amazing Women
+  Artists
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/the-story-of-art-without-men-
+ an-illustrated-guide-to-amazing-women-artists?event=179131\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/lecture/the-story-of-art-without-men-an-illus
+ trated-guide-to-amazing-women-artists?event=179131
+END:VEVENT
+BEGIN:VEVENT
+UID:62a7f8690039c38b188f2a5088d435f6333e1c95@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+SUMMARY:After the Landslide: New Sculptural Forms from a Sea of Mud
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/the-rad-smith-program-in-japanese-art
+ /after-the-landslide-new-sculptural-forms-from-a-sea-of?event=179101\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/the-rad-smith-program-in-japanese-art/after-t
+ he-landslide-new-sculptural-forms-from-a-sea-of?event=179101
+END:VEVENT
+BEGIN:VEVENT
+UID:8736dd270c14a726743f5498986c01b2f5fcb93d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T163000Z
+DTEND:20261026T183000Z
+SUMMARY:Book Launch: Against Tech Oligarchy
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:In a new book Against Tech Oligarchy\, JS Tan — a current DUS
+ P Phd student — writes about tech worker activism\, the shifting labor p
+ olitics of Silicon Valley\, and the rise of today's tech oligarchs. In the
+  AI age\, as tech's most powerful leaders unilaterally force the new techn
+ ology upon its workers\, this book makes the case that workers — when un
+ ited — can build the leverage to push back\; and even fight for more equ
+ itable and socially just ways to use the technology. Join JS Tan and his c
+ o-author at this upcoming event for a conversation on these topics and to 
+ celebrate the launch of their book.\nhttps://calendar.mit.edu/event/book-l
+ aunch-against-tech-oligarchy\nFrom Pushpin Boston: https://pushpin.city/bo
+ ston/
+URL:https://calendar.mit.edu/event/book-launch-against-tech-oligarchy
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ae17b7bd33a53a37b2f5b901c923305fd3c5c4@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T200000Z
+DTEND:20261026T220000Z
+SUMMARY:Arthur Miller Lecture on Science and Ethics
+LOCATION:MIT\, 292 Main St\, Cambridge\, MA 02142
+DESCRIPTION:The Program in Science\, Technology\, and Society invites you t
+ o the annual Arthur Miller Lecture in Science and Ethics on Monday\, Octob
+ er 26th from 4:00-5:30 pm in the MIT Welcome Center\, for a panel lecture 
+ on the use of chatbots in children's toys. The panel features Professor Mi
+ mi Ito\, Director of the Connected Learning Lab\, Professor Sherry Turkle\
+ , founding director of the MIT Initiative on Technology and Self\, and Mik
+ e Rizkalla\, CEO & Founder of Snorble\, a visionary leader in AI\, consume
+ r robotics\, humanoid robotics\, and children's technology.\nhttps://calen
+ dar.mit.edu/event/arthur-miller-lecture-on-science-and-ethics-chatbots-in-
+ childrens-toys-a-natural-progression-or-an-existential-crisis\nFrom Pushpi
+ n Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/arthur-miller-lecture-on-science-and-eth
+ ics-chatbots-in-childrens-toys-a-natural-progression-or-an-existential-cri
+ sis
+END:VEVENT
+BEGIN:VEVENT
+UID:23257f2b827adf9c5b5baed37248b05a99d8926a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T203000Z
+DTEND:20261026T223000Z
+SUMMARY:Innovation on Steroids:  What are We Learning from the Ukraine War?
+LOCATION:MIT\, 33 MASSACHUSETTS AVE\, Cambridge\, MA 02139
+DESCRIPTION:This event will be offered in person and as a webcast. We will 
+ provide the webcast link after you RSVP.\nhttps://calendar.mit.edu/event/f
+ ocus-on-eurasia-innovation-on-steroids-what-are-we-learning-from-the-ukrai
+ ne-war\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/focus-on-eurasia-innovation-on-steroids-
+ what-are-we-learning-from-the-ukraine-war
+END:VEVENT
+BEGIN:VEVENT
+UID:239491a672b83f992cc0830f154fd378c9d8bc77@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T203000Z
+DTEND:20261026T223000Z
+SUMMARY:STUDIO.nano Resonances Lecture—Invented pasts\, past inventions: 
+ When technological myths survive historical evidence
+LOCATION:MIT\, 60 Vassar Street\, Cambridge\, MA 02139
+DESCRIPTION:Join STUDIO.nano for the next Resonances Lecture!\nhttps://cale
+ ndar.mit.edu/event/studionano-resonances-lectureinvented-pasts-past-invent
+ ions-when-technological-myths-survive-historical-evidence\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/studionano-resonances-lectureinvented-pa
+ sts-past-inventions-when-technological-myths-survive-historical-evidence
+END:VEVENT
+BEGIN:VEVENT
+UID:f2cb29f753ed848afdf0405280c727d86773629b@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T220000Z
+DTEND:20261027T000000Z
+SUMMARY:Cities of Islamic Art: From Historical Visual Systems to the Format
+ ion of Contemporary Islamic Art in North America
+LOCATION:MIT\, 33 MASSACHUSETTS AVE\, Cambridge\, MA 02139
+DESCRIPTION:This lecture uses Cities of Islamic Art\, Vol. 2 as both an obj
+ ect and a methodology to examine Islamic art as a mobile system of visual 
+ knowledge rather than a fixed historical style. Beginning with historical 
+ surfaces from Isfahan\, Istanbul\, Damascus\, Cairo\, and Granada\, the ta
+ lk traces how motifs migrate across ceramics\, tiles\, manuscripts\, and a
+ rchitecture to form the fabric of visual culture and heritage known as “
+ Islamic Art.”\nhttps://calendar.mit.edu/event/cities-of-islamic-art\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/cities-of-islamic-art
+END:VEVENT
+BEGIN:VEVENT
+UID:e0d2fe4e405269974a6268fb444bb583828273c8@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T043000Z
+DTEND:20261027T063000Z
+SUMMARY:Gallery Talk: Activation of Moholy-Nagy’s Light Prop for an Elect
+ ric Stage
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join staff as they discuss and activate this experimental devic
+ e from 1930 by Bauhaus pioneer László Moholy-Nagy.\nhttps://harvardartmu
+ seums.org/calendar/gallery-talk-activation-of-moholy-nagy-s-light-prop-for
+ -an-electric-stage-45\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/gallery-talk-activation-of-mohol
+ y-nagy-s-light-prop-for-an-electric-stage-45
+END:VEVENT
+BEGIN:VEVENT
+UID:04a90882b5902d448fd4d50840909619ef8f2cf5@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T210000Z
+DTEND:20261027T230000Z
+SUMMARY:The Mountain Unearthed: Uncanny Geological Futures in a Mongolian M
+ ining Town
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Please join us on Tuesday\, October 27th at 5 pm in E51-151 for
+  a lecture by cultural anthropologist Jessica Piskatá\, titled "The Mount
+ ain Unearthed: Uncanny Geological Futures in a Mongolian Mining Town."\nht
+ tps://calendar.mit.edu/event/the-mountain-unearthed-uncanny-geological-fut
+ ures-in-a-mongolian-mining-town\nFrom Pushpin Boston: https://pushpin.city
+ /boston/
+URL:https://calendar.mit.edu/event/the-mountain-unearthed-uncanny-geologica
+ l-futures-in-a-mongolian-mining-town
+END:VEVENT
+BEGIN:VEVENT
+UID:b7feb9412367b6741475e4c23e8142570e8e3385@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T220000Z
+DTEND:20261028T000000Z
+SUMMARY:SOLD OUT Picasso: The Revolutionary Artist
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Presented alongside the MFA's Picasso\, Miró\, Dalí: Unbound 
+ exhibition\, discover how Picasso transformed the course of modern art and
+  continues to inspire artists today.\nhttps://frenchlibrary.org/events/con
+ ference-picasso-cernuschi-2026/\nFrom Pushpin Boston: https://pushpin.city
+ /boston/
+URL:https://frenchlibrary.org/events/conference-picasso-cernuschi-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:683658ccacc05862ab01a1355a2e2f8339506d0d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T223000Z
+DTEND:20261028T003000Z
+SUMMARY:The Moth: Boston StorySLAM: FRENEMIES
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Join us the fourth Tuesday of each month for the Boston Moth St
+ orySLAM! This community-focused\, open-mic storytelling competition is ope
+ n to anyone can share a story on the night’s theme (changes every month)
+ .\nhttps://artsatthearmory.org/events/the-moth-boston-storyslam-2026-10-27
+ /\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/the-moth-boston-storyslam-2026-10-27
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:c12850aa072bccd859f18dbc4e9e7a00db0d79a0@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T170000Z
+DTEND:20261028T190000Z
+SUMMARY:Clues in the Cloth: Dress and Alterations in the 18th Century
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/clues-in-the-cloth-dress-and-
+ alterations-in-the-18th-century?event=178391\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://www.mfa.org/event/lecture/clues-in-the-cloth-dress-and-alterati
+ ons-in-the-18th-century?event=178391
+END:VEVENT
+BEGIN:VEVENT
+UID:3016118f7acdb644068392d90a2a594cc46c6f0c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T210000Z
+DTEND:20261028T230000Z
+SUMMARY:MIT Music Tech Speaker Series: Andrew McPherson
+LOCATION:MIT\, 182 MEMORIAL DR (REAR)\, Cambridge\, MA 02139
+DESCRIPTION:Enacted\, not Extracted: Designing and Performing with Music-An
+ alytical Concepts This is a talk about designing musical instruments and t
+ he delicate interplay of artistic and technical ways of thinking. All inst
+ ruments\, and especially digital ones\, entail a balance between design an
+ d analysis\, with instruments relying on symbolic or numerical models of m
+ usic in order to create it\, as exemplified in the venerable MIDI standard
+ . However\, no system is ever devoid of sociocultural context\, and even t
+ he simplest technologies when examined in situ can exhibit fascinating com
+ plexity.\nhttps://calendar.mit.edu/event/mit-music-tech-speaker-series-and
+ rew-mcpherson\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/mit-music-tech-speaker-series-andrew-mcp
+ herson
+END:VEVENT
+BEGIN:VEVENT
+UID:ce87ba3a9b9c1fe17e1a49b5edc098692aee2da5@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T211500Z
+DTEND:20261028T231500Z
+SUMMARY:The Ambivalences of Return: Diasporic Utopias and Anti-Migrant Poli
+ cies
+LOCATION:MIT\, 160 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:"Return" is a central notion for thinking about the diasporic c
+ ondition in general (W. Safran). In the "radical imaginations" (R.D.G. Kel
+ ley) of the Black Americas of the late nineteenth and twentieth centuries\
+ , from Black nationalism to Pan-Africanism\, as well as in African anticol
+ onialisms\, "return" refers to a shared political dream: making Africa a l
+ and of hospitality for all Africans and/or Black people dispersed across t
+ he world. Return carries an ideal of reparative justice: reuniting\, on th
+ e land from which they were torn\, those whom slavery and colonization had
+  separated. Within these traditions\, however\, the idea is fraught with t
+ ensions\, and for those who experience return to the continent\, it often 
+ appears as a myth (S. Hartman\, M. Condé). In the aftermath of the Second
+  World War\, the idea of "return" was elevated to the status of a right. T
+ he Universal Declaration of Human Rights of 1948 recognizes everyone's rig
+ ht to return to their country\, and that same year\, in the context of the
+  war in Palestine\, United Nations General Assembly Resolution 194 affirme
+ d it for Palestinian refugees. From then on\, the term became the object o
+ f competing claims to the same land\, as illustrated two years later by th
+ e Israeli Law of Return.\nhttps://calendar.mit.edu/event/the-ambivalences-
+ of-return-diasporic-utopias-and-anti-migrant-policies\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/the-ambivalences-of-return-diasporic-uto
+ pias-and-anti-migrant-policies
+END:VEVENT
+BEGIN:VEVENT
+UID:0899cdd133dc15108c37bcab99fce8f866ed7851@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T220000Z
+DTEND:20261029T000000Z
+SUMMARY:Author Talk: Nicholas Boggs — Baldwin: A Love Story
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join us in person or online over Zoom Webinar to hear author Ni
+ cholas Boggs speak about his recent bestselling biography of James Baldwin
+ \, Baldwin: A Love Story\, in celebration of LGBTQ+ History Month! Joining
+  Nicolas in Conversation is author and professor\, Jesse McCarthy.\nhttps:
+ //bpl.bibliocommons.com/events/6a3c61b6c52cdc3600ecaceb\nFrom Pushpin Bost
+ on: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6a3c61b6c52cdc3600ecaceb
+END:VEVENT
+BEGIN:VEVENT
+UID:b0ed3c1c2cdbedccf4990842f7d9e854c928cc1f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T233000Z
+DTEND:20261029T013000Z
+SUMMARY:All the Devils Are Here
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/all-the-devils-are-here-6/\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsemerson.org/event/all-the-devils-are-here-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:4aec931d15fe3c4a7b8c95687a21ea7ee1bd5d5c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T161500Z
+DTEND:20261029T181500Z
+SUMMARY:Midday Organ Recital: Luca Cantone
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Recitals are performed on Harvard’s famous 1958 D. A. Flentro
+ p organ\, at Adolphus Busch Hall.\nhttps://harvardartmuseums.org/calendar/
+ midday-organ-recital-luca-cantone\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://harvardartmuseums.org/calendar/midday-organ-recital-luca-canton
+ e
+END:VEVENT
+BEGIN:VEVENT
+UID:5a25431a47592b10b36d65e7d3acfe47b6d8dcde@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T163000Z
+DTEND:20261029T183000Z
+SUMMARY:Gallery Talk: Hauntology\, Death Discs\, and the Specter of Postwar
+  America
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Krystle Brown for a focused look at postwar photography th
+ rough the lens of suburban adolescence\, music\, and hauntology.\nhttps://
+ harvardartmuseums.org/calendar/gallery-talk-hauntology-death-discs-and-the
+ -specter-of-postwar-america\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://harvardartmuseums.org/calendar/gallery-talk-hauntology-death-di
+ scs-and-the-specter-of-postwar-america
+END:VEVENT
+BEGIN:VEVENT
+UID:a057a4f6427fa1ce1fb2d90598b3736c4708001a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T210000Z
+DTEND:20261029T230000Z
+SUMMARY:Museum Careers Night
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/museum-careers-night?ev
+ ent=150376\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/museum-careers-night?event=1503
+ 76
+END:VEVENT
+BEGIN:VEVENT
+UID:c6263cf3b937528341a91a6dc8c664fa78876ad8@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T213000Z
+DTEND:20261029T233000Z
+SUMMARY:Oral History Live: Black Trans Boston
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join Queer History Boston for an Oral History Live panel discus
+ sion!\nhttps://bpl.bibliocommons.com/events/6a9b1d42d94765189bb99bc4\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6a9b1d42d94765189bb99bc4
+END:VEVENT
+BEGIN:VEVENT
+UID:f47c8cdf7d68f297604e7c1a5a7d17871360f210@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T220000Z
+DTEND:20261030T000000Z
+SUMMARY:Anooradha Iyer Siddiqi and Rachel Lee
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Anooradha Iyer Siddiqi and Rachel Lee Presented with the HTC Fo
+ rum Part of the MIT Fall 2026 Architecture Lecture Series The Work of Coll
+ aboration Collaboration has often occupied an ambiguous place within archi
+ tectural history\, a discipline that continues to privilege individual aut
+ horship\, singular expertise and archival authority. Collaboration can uns
+ ettle these privileges. By bringing researchers together it reshapes the q
+ uestions we ask\, the evidence we value and the histories we are able to w
+ rite.\nhttps://calendar.mit.edu/event/anooradha-iyer-siddiq-and-rachel-lee
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/anooradha-iyer-siddiq-and-rachel-lee
+END:VEVENT
+BEGIN:VEVENT
+UID:8e44ba66531c409ac2f75d18e779db3fbffb65e5@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T220000Z
+DTEND:20261030T000000Z
+SUMMARY:Artist Talk: Sneha Shrestha
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Sneha Shrestha for a talk about migration\, belonging\, an
+ d her recent paintings\, sculptures\, murals\, and installations.\nhttps:/
+ /harvardartmuseums.org/calendar/artist-talk-sneha-shrestha\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/artist-talk-sneha-shrestha
+END:VEVENT
+BEGIN:VEVENT
+UID:7674d1a800c74a56b3791a0bf51c47b8bf3ae6df@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T220000Z
+DTEND:20261030T000000Z
+SUMMARY:More Secrets from the World of Bunker Hill’s Historical Spirits (
+ with MaryLee Trettenero)
+LOCATION:Charlestown Library\, 179 Main St\, Charlestown\, MA 02129
+DESCRIPTION:In the book We’re Still Here: The Secret World of Bunker Hill
+ ’s Historical Spirits\, audiences learned how the restless spirits of Ch
+ arlestown could no longer conceal the truth of what they witnessed during 
+ revolutionary times. But the land holds far more secrets than a single boo
+ k could contain.\nhttps://bpl.bibliocommons.com/events/6aba89eeebad2200454
+ 174f7\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6aba89eeebad2200454174f7
+END:VEVENT
+BEGIN:VEVENT
+UID:ddd4b1f1fd8bba3d9bdfff28cf3c4c5f0d38b689@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T223000Z
+DTEND:20261030T003000Z
+SUMMARY:MIT / French Library Author Talks: Camille de Peretti on  Portrait 
+ of an Unknown Woman
+LOCATION:MIT\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:In 1910\, Gustav Klimt painted a young woman\, then painted ove
+ r her portrait. The painting was stolen in 1997 and unexpectedly resurface
+ d two decades later. Camille de Peretti uses this intriguing chapter in ar
+ t history to imagine the woman behind the painting and the generations tha
+ t follow her.\nhttps://calendar.mit.edu/event/mit-french-library-author-ta
+ lks-camille-de-peretti-on-portrait-of-an-unknown-woman\nFrom Pushpin Bosto
+ n: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/mit-french-library-author-talks-camille-
+ de-peretti-on-portrait-of-an-unknown-woman
+END:VEVENT
+BEGIN:VEVENT
+UID:6f19b736576cff56b1c8f22f06ea9b20aa6c111a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T223000Z
+DTEND:20261030T003000Z
+SUMMARY:Portrait of an Unknown Woman: From a Stolen Klimt to a Literary Mys
+ tery
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Discover the story behind Camille de Peretti’s bestselling no
+ vel\, a sweeping family saga inspired by the remarkable history of a long-
+ lost Klimt painting.\nhttps://frenchlibrary.org/events/camille-de-peretti-
+ portrait-2026-2/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://frenchlibrary.org/events/camille-de-peretti-portrait-2026-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:1dca07cec0d2e1782322ac22038942c5e4e7530f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T230000Z
+DTEND:20261030T010000Z
+SUMMARY:Uzo Aduba: Owning Your Identity
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity
+ -lectures/uzo-aduba-owning-your-identity?event=178911\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity-lecture
+ s/uzo-aduba-owning-your-identity?event=178911
+END:VEVENT
+BEGIN:VEVENT
+UID:7b94ef7c8b09b566aebeb5b021eb591145b9ecc9@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T233000Z
+DTEND:20261030T013000Z
+SUMMARY:All the Devils Are Here
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/all-the-devils-are-here-5/\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsemerson.org/event/all-the-devils-are-here-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:1798fa2838a8c8525a01f4b3c118d17560c2d3c6@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261031T000000Z
+DTEND:20261031T020000Z
+SUMMARY:All the Devils Are Here
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/all-the-devils-are-here-4/\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsemerson.org/event/all-the-devils-are-here-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:68b5ea9bac7f259b3973ddcf0e656f8e1c84263f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261031T170000Z
+DTEND:20261031T190000Z
+SUMMARY:90 YEARS Exhibition Tour
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Engage with nine decades of ICA history during a guided tour of
+  90 YEARS. Led by a Graduate Student Lecturer\, deepen your understanding 
+ of exhibition artists and themes through guided close looking and discussi
+ on.\nhttps://www.icaboston.org/events/90-years-exhibition-tour/\nFrom Push
+ pin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/90-years-exhibition-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:e6786e175bd5b697ab18788c0f871279a9807a67@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261031T180000Z
+DTEND:20261031T200000Z
+SUMMARY:All the Devils Are Here
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/all-the-devils-are-here-3/\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsemerson.org/event/all-the-devils-are-here-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:0df9c0b8cdea99a2a92d45fb8f28733eed04ad3e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Quabbin—Yesterday and Today
+LOCATION:Hyde Park Library
+DESCRIPTION:through Nov 30\nThis exhibit contrasts the Quabbin Reservoir wh
+ en it was built in the 1930s with what it has become today. It was recentl
+ y featured at the Massachusetts State House and is now going on the road t
+ o libraries in the communities that receive their water from the Quabbin\,
+  to help raise awareness about the sacrifices it took to build the Quabbin
+  as well as the impact of climate change upon their water supply.\nhttps:/
+ /bpl.bibliocommons.com/events/6ac52fbd96ec3a003ad8a73d\nFrom Pushpin Bosto
+ n: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ac52fbd96ec3a003ad8a73d
+END:VEVENT
+BEGIN:VEVENT
+UID:772be157fb02c3c1b77bcfa0f7418220f76d57aa@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261101T150000Z
+DTEND:20261101T170000Z
+SUMMARY:Diwali
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/diwali?event=108356\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/diwali?event=108356
+END:VEVENT
+BEGIN:VEVENT
+UID:74ad930c6379978f0e0c8c9d3ae23b01d4882711@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261101T180000Z
+DTEND:20261101T200000Z
+SUMMARY:All the Devils Are Here
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:Times: 1pm\, 5pm\nhttps://artsemerson.org/event/all-the-devils-
+ are-here-2/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsemerson.org/event/all-the-devils-are-here-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:e3166d61a0d9704cd33c0d43d29d6856478e2552@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261101T190000Z
+DTEND:20261101T210000Z
+SUMMARY:Performing Memory & Shaping Transformation
+LOCATION:MIT\, 345 Vassar Street\, Cambridge\, MA 02139
+DESCRIPTION:A panel to explore the role of site-responsive art in addressin
+ g turbulent cultural moments while revealing new possibilities for healing
+ .\nhttps://calendar.mit.edu/event/performing-memory-shaping-transformation
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/performing-memory-shaping-transformation
+END:VEVENT
+BEGIN:VEVENT
+UID:35564d02e561ebaae5ae6ff4aa47ac7ac823bd01@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261104T003000Z
+DTEND:20261104T023000Z
+SUMMARY:Smut Slam
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:What's a SMUT SLAM? I'm so glad you asked! It's a fast-paced st
+ orytelling open mic based on REAL life\, REAL lust\, REAL sex. Consenting 
+ Slammers sign up on the night of to tell a 5-minute dirty story\, based on
+  their real lives\, and a lucky 8-10 names will be drawn at random. A pane
+ l of celebrity judges will be on hand to evaluate your stories\, and besto
+ w the top three Slammers with a sack of sexy swag from Good Vibrations Har
+ vard Square. You will also have the opportunity to win goodies from NJOY b
+ y submitting your anonymous questions and confessions!\nhttps://artsatthea
+ rmory.org/events/smut-slam-3-2026-08-04-2026-09-01-2026-10-06-2026-11-03/\
+ nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/smut-slam-3-2026-08-04-2026-09-01-20
+ 26-10-06-2026-11-03/
+END:VEVENT
+BEGIN:VEVENT
+UID:d1425751cdc47e08e10681d880a3535ec4e0e3f3@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261104T173000Z
+DTEND:20261104T193000Z
+SUMMARY:Gallery Talk: Picturing Taste\, Style\, and Space in 1950s American
+  Suburbia
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join curatorial graduate student intern Destiny Crowley for a c
+ lose look at photographs in the exhibition The Way We Never Were.\nhttps:/
+ /harvardartmuseums.org/calendar/gallery-talk-picturing-taste-style-and-spa
+ ce-in-1950s-american-suburbia\nFrom Pushpin Boston: https://pushpin.city/b
+ oston/
+URL:https://harvardartmuseums.org/calendar/gallery-talk-picturing-taste-sty
+ le-and-space-in-1950s-american-suburbia
+END:VEVENT
+BEGIN:VEVENT
+UID:2acc041d433fe6b4b63a1ad0508a233012e75bea@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261104T180000Z
+DTEND:20261104T200000Z
+SUMMARY:Last tickets! America at 250: A French Lens on Art at the MFA
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Back by popular demand! Our September tour sold out quickly\, s
+ o we are delighted to offer a second visit with Isabelle Slotine. Now with
+  an audio tour system so you can follow along with ease.\nhttps://frenchli
+ brary.org/events/mfa-250-french-isabelle-slotine-nov-2026/\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://frenchlibrary.org/events/mfa-250-french-isabelle-slotine-nov-20
+ 26/
+END:VEVENT
+BEGIN:VEVENT
+UID:3408b5afeb1736bd729b3a0385068913378a9727@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261104T180000Z
+DTEND:20261104T200000Z
+SUMMARY:Revere and Rodallega: Silversmiths of the Americas
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/revere-and-rodallega-silversm
+ iths-of-the-americas?event=178401\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://www.mfa.org/event/lecture/revere-and-rodallega-silversmiths-of-
+ the-americas?event=178401
+END:VEVENT
+BEGIN:VEVENT
+UID:1e76a167ed44bc0533a2f9fe81a1f907457d5b24@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261104T230000Z
+DTEND:20261105T010000Z
+SUMMARY:Artist Talk: Enzo Camacho and Ami Lien
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Harvard alums and visual artists Enzo Camacho and Ami Lien shar
+ e insights and developments into their practice as artistic collaborators.
+ \nhttps://harvardartmuseums.org/calendar/artist-talk-enzo-camacho-and-ami-
+ lien\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/artist-talk-enzo-camacho-and-ami
+ -lien
+END:VEVENT
+BEGIN:VEVENT
+UID:ddc6002983a419ce793cd1a80cd1468410c3466c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261104T233000Z
+DTEND:20261105T013000Z
+SUMMARY:Theater Club in November
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Come join us for the new Theater Club at the French Library\, a
+  place to read\, watch\, discuss and recite contemporary and classic Frenc
+ h plays with fellow enthusiasts.\nhttps://frenchlibrary.org/events/theater
+ -club-in-november-2026/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://frenchlibrary.org/events/theater-club-in-november-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4d5f87e86c95cd22bdd47e1502e36e105190fc30@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T140000Z
+DTEND:20261105T160000Z
+SUMMARY:10X Summit: Futures in the Making
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Join us as we celebrate 10 years of DesignX and a decade of adv
+ ancing design innovation\, entrepreneurship\, and impact. The 10X Summit: 
+ Futures in the Making brings together our global community of innovators\,
+  entrepreneurs\, collaborators\, and changemakers to celebrate what we hav
+ e built together—and to imagine what comes next.\nhttps://calendar.mit.e
+ du/event/10x-summit-futures-in-the-making\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://calendar.mit.edu/event/10x-summit-futures-in-the-making
+END:VEVENT
+BEGIN:VEVENT
+UID:1c1974a689a8f7d65584055a239b1f8414d334b6@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T171500Z
+DTEND:20261105T191500Z
+SUMMARY:Midday Organ Recital: Angela Kraft Cross
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Recitals are performed on Harvard’s famous 1958 D. A. Flentro
+ p organ\, at Adolphus Busch Hall.\nhttps://harvardartmuseums.org/calendar/
+ midday-organ-recital-angela-kraft-cross-5\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/midday-organ-recital-angela-kraf
+ t-cross-5
+END:VEVENT
+BEGIN:VEVENT
+UID:15e6bab21c98896b69476ec9e8b2a2e4d5f71c46@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T223000Z
+DTEND:20261106T003000Z
+SUMMARY:Ask a Conservator
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/ask-a-conservator?event
+ =182296\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/ask-a-conservator?event=182296
+END:VEVENT
+BEGIN:VEVENT
+UID:817ccabe5321703124bde1af8de1ed7c55ad095d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T230000Z
+DTEND:20261106T010000Z
+SUMMARY:Author Talk: Linford D. Fisher — Stealing America: The Hidden Sto
+ ry of Indigenous Slavery in U.S. History
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join author Linford Fisher in a discussion of his book\, Steali
+ ng America\, where he shows that although the first enslaved Africans arri
+ ved in Jamestown in 1619\, European slavery in America began more than a c
+ entury before.\nhttps://bpl.bibliocommons.com/events/6a5e8c9ef213992f00c5b
+ 6a6\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6a5e8c9ef213992f00c5b6a6
+END:VEVENT
+BEGIN:VEVENT
+UID:75680fdedbbd4207e84092d0a6d0b57fe6923f2f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T230000Z
+DTEND:20261106T010000Z
+SUMMARY:e-flux Architecture—Nick Axel and Nikolaus Hirsch
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:e-flux Architecture—Nick Axel and Nikolaus Hirsch Part of the
+  MIT Fall 2026 Architecture Lecture Series Presented with the Architecture
+  and Urbanism Group Nikolaus Hirsch is co-founder and co-editor of e-flux 
+ Architecture\, as well as the director of the museum Kanal Architecture (f
+ ormerly CIVA) in Brussels. He was the Dean of Städelschule and Director o
+ f the Portikus in Frankfurt and taught at the Architectural Association in
+  London. His architectural work includes the award-winning Dresden Synagog
+ ue\, Hinzert Document Center\, Bockenheimer Depot Theater (with William Fo
+ rsythe)\, Cybermohalla Hub in New-Delhi\, “Do We Dream Under The Same Sk
+ y“(with Rirkrit Tiravanija at Art Basel / LUMA Arles) and “Becoming Mo
+ nument” in Fukushima. Hirsch has curated numerous exhibitions such “Wo
+ hnungsfrage / Housing Question” at the HKW in Berlin and the German Pavi
+ lion at the Architecture Biennale in Venice (“2038”). He is the editor
+  of the Critical Spatial Practice series at Sternberg Press.\nhttps://cale
+ ndar.mit.edu/event/e-flux-architecturenick-axel-and-nikolaus-hirsch\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/e-flux-architecturenick-axel-and-nikolau
+ s-hirsch
+END:VEVENT
+BEGIN:VEVENT
+UID:d9743ac660dc97297430a197b4105c1f74e24131@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261106T160000Z
+DTEND:20261106T180000Z
+SUMMARY:Ask a Conservator
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:Times: 11am\, 1:30pm\, 3pm\nhttps://www.mfa.org/event/special-e
+ vent/ask-a-conservator?event=181996\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://www.mfa.org/event/special-event/ask-a-conservator?event=181996
+END:VEVENT
+BEGIN:VEVENT
+UID:2f9ea60601e1b3bca994bcbaf869c47a49a54e53@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261106T190000Z
+DTEND:20261106T210000Z
+SUMMARY:First/Hand Fridays: Suit Up! Textiles in 20th-Century American Memo
+ ry
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Calling all Harvard students! Chat with a staff member about Am
+ erican textiles—as everyday objects\, works of art\, and carriers of mem
+ ory.\nhttps://harvardartmuseums.org/calendar/first-hand-fridays-suit-up-te
+ xtiles-in-20th-century-american-memory\nFrom Pushpin Boston: https://pushp
+ in.city/boston/
+URL:https://harvardartmuseums.org/calendar/first-hand-fridays-suit-up-texti
+ les-in-20th-century-american-memory
+END:VEVENT
+BEGIN:VEVENT
+UID:fec09f194d505fcbe94d7f9b6832c1d7b8364d08@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261106T220000Z
+DTEND:20261107T000000Z
+SUMMARY:First Friday
+LOCATION:SoWa\, 450 Harrison Ave\, Boston\, MA 02118
+DESCRIPTION:On the First Friday of every month\, the artists\, galleries\, 
+ shops and showrooms of the SoWa Art + Design District in the South End ope
+ n their doors to the public for an evening of art\, culture and inspiratio
+ n. Meet the artists in their element\, view the latest gallery exhibitions
+ \, shop small\, and dine at one of SoWa’s world-class restaurants.\nhttp
+ s://www.sowaboston.com/event/first-friday-39/\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://www.sowaboston.com/event/first-friday-39/
+END:VEVENT
+BEGIN:VEVENT
+UID:57026a800ce4eab452676e0303c72a4d2a416892@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261106T230000Z
+DTEND:20261107T010000Z
+SUMMARY:First Fridays: The Colors of Rhythm
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Feel the beat and explore Latin sound system culture with retur
+ ning tropical vinyl group Baile Tropidélico. Let the rhythm move you\, le
+ arn some new moves\, and fall into the hyper-saturated party. Get inspired
+  by the music and new 90 YEARS exhibition upstairs in the galleries!\nhttp
+ s://www.icaboston.org/events/first-fridays-the-colors-of-rhythm/\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/first-fridays-the-colors-of-rhythm/
+END:VEVENT
+BEGIN:VEVENT
+UID:2c3e0ddee7bbb90a6c2d3164cc32114d99cb8d7f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T010000Z
+DTEND:20261107T030000Z
+SUMMARY:Late Nites
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/late-nites-november-202
+ 6?event=113676\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/late-nites-november-2026?event=
+ 113676
+END:VEVENT
+BEGIN:VEVENT
+UID:d32f45d46c0077fd6c2ea297d13deb3cf2348774@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T180000Z
+DTEND:20261107T200000Z
+SUMMARY:Author Talk: Sandy Bailey - She's On to Something
+LOCATION:Roslindale Library\, 4246 Washington St\, Roslindale\, MA 02131
+DESCRIPTION:Sandy Bailey joins us to discuss her debut novel She’s On to 
+ Something. When hard-charging SEC prosecutor Jaye Brannigan stumbles onto 
+ a church-based investment scam draining millions from working-class famili
+ es\, she knows the case could make—or end—her career.\nhttps://bpl.bib
+ liocommons.com/events/6ac6b12aebad22004543ce43\nFrom Pushpin Boston: https
+ ://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ac6b12aebad22004543ce43
+END:VEVENT
+BEGIN:VEVENT
+UID:721beb8691d97061d9a064fdb0c43285aad40ef6@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T190000Z
+DTEND:20261107T210000Z
+SUMMARY:2026 Druker Award Lecture: Can Architecture Change A City?
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Please join us in person or online over Zoom Webinar for the 20
+ 26 Druker Award presentation and talk with KPMB Architects’ Marianne McK
+ enna and Paulo Rocha.\nhttps://bpl.bibliocommons.com/events/6aa1b8937825b4
+ 0064063ed4\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6aa1b8937825b40064063ed4
+END:VEVENT
+BEGIN:VEVENT
+UID:31fcb9b1f5200bae7b9995f7f04aafc42dbe48ca@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T190000Z
+DTEND:20261107T210000Z
+SUMMARY:Pursuit of Discovery: An Afternoon with Marie Curie and Lise Meitne
+ r - Digital Theater & Science Talks
+LOCATION:MIT\, 21 AMES ST\, Cambridge\, MA 02139
+DESCRIPTION:What if you could hear the origin story of radioactivity and nu
+ clear fission from the scientists who discovered them?\nhttps://calendar.m
+ it.edu/event/pursuit-of-discovery-nov-2026\nFrom Pushpin Boston: https://p
+ ushpin.city/boston/
+URL:https://calendar.mit.edu/event/pursuit-of-discovery-nov-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:eaca2e2640338cceea920043c5889db831aacc2a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T190000Z
+DTEND:20261108T210000Z
+SUMMARY:Campus2Care Volunteer Info Session + Workshop
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:A Community Meeting and info session hosted by Campus2Care.\nht
+ tps://bpl.bibliocommons.com/events/6acfc8c6de300e00451a6dd2\nFrom Pushpin 
+ Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6acfc8c6de300e00451a6dd2
+END:VEVENT
+BEGIN:VEVENT
+UID:0f9f4c2f32d1e95da5834856a10c93000d4994a2@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261109T230000Z
+DTEND:20261110T010000Z
+SUMMARY:Lowell Lecture: A Conversation with Dr. Kizzmekia Corbett
+LOCATION:Shaw-Roxbury Library\, 149 Dudley Street\, Roxbury\, MA 02119
+DESCRIPTION:Join us in person or over Zoom Webinar as the Shaw Roxbury Bran
+ ch Library welcomes Dr. Kizzmekia Corbett\, Professor at Harvard T.H. Chan
+  School of Public Health\, TIME Hero of the Year\, Renowned Virologist & S
+ cience Communicator.\nhttps://bpl.bibliocommons.com/events/6a7b2391e30fe48
+ 4596893f4\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6a7b2391e30fe484596893f4
+END:VEVENT
+BEGIN:VEVENT
+UID:9a74905f2815b9a777de55a307195a48bed9294a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261110T213000Z
+DTEND:20261110T233000Z
+SUMMARY:KSJ + STS Fall Lecture - The Fight for Facts: Evidence in an Age of
+  Doubt
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:The Program in Science\, Technology\, and Society and the Knigh
+ t Science Journalism Program invite you on Tuesday\, November 10th at 4:30
+  pm in the Nexus at Hayden Library (14S-130) for a special lecture\, "The 
+ Fight for Facts: Evidence in an Age of Doubt\," that explores the rise of 
+ evidence-based thinking\, the power of scientific consensus\, and the forc
+ es that work to distort\, undermine\, and dismiss facts.\nhttps://calendar
+ .mit.edu/event/ksj-sts-fall-lecture-the-fight-for-facts-evidence-in-an-age
+ -of-doubt\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/ksj-sts-fall-lecture-the-fight-for-facts
+ -evidence-in-an-age-of-doubt
+END:VEVENT
+BEGIN:VEVENT
+UID:92705b8541703fea25a5e73bd536f727d71e0519@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261110T233000Z
+DTEND:20261111T013000Z
+SUMMARY:From Saint-Saëns to Britten: The Musical World of Verlaine
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Discover the poetry of Paul Verlaine through the music of Faur
+ é\, Debussy\, Saint-Saëns\, Britten\, and more. French tenor Morgan Mani
+ facier bring Verlaine’s words to life in this intimate recital.\nhttps:/
+ /frenchlibrary.org/events/verlaine-concert-morgan-manifacier-2026/\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://frenchlibrary.org/events/verlaine-concert-morgan-manifacier-202
+ 6/
+END:VEVENT
+BEGIN:VEVENT
+UID:cf977d02eaf3db2768deea4f057f8607cf35c88e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261111T180000Z
+DTEND:20261111T200000Z
+SUMMARY:Wampanoag Art at the MFA
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/wampanoag-art-at-the-mfa?even
+ t=178411\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/lecture/wampanoag-art-at-the-mfa?event=178411
+END:VEVENT
+BEGIN:VEVENT
+UID:ce0e48c93237d2d74302dc405adff467b1600beb@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261111T233000Z
+DTEND:20261112T013000Z
+SUMMARY:Author Talk: Laura Zigman — The Author Weekend
+LOCATION:South End Library\, 685 Tremont St\, Boston\, MA 02118
+DESCRIPTION:The Fall 2026 Author Talk Series\, presented by the Friends of 
+ the South End Library\, will continue with Laura Zigman sharing about her 
+ latest novel\, The Author Weekend. Please join us on Wednesday\, November 
+ 11 starting at 6:30 pm at Union Church (Connection Room\, 485 Columbus Ave
+ .) for a fun and lively conversation in this author talk series!\nhttps://
+ bpl.bibliocommons.com/events/6aaac10e86d845003116902a\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6aaac10e86d845003116902a
+END:VEVENT
+BEGIN:VEVENT
+UID:6d252343784fa499b54301ef13b26c9de21564cd@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Art Exhibition — Rachel King: At the Water's Edge
+LOCATION:Jamaica Plain Library
+DESCRIPTION:through Jan 6\nThe Jamaica Plain Branch Library\, in partnershi
+ p with the Friends of the Jamaica Plain Branch of the Boston Public Librar
+ y\, is pleased to present At the Water’s Edge\, the next exhibition of i
+ ts 2026 rotating art series\, featuring photography by Jamaica Plain artis
+ t Rachel King.\nhttps://bpl.bibliocommons.com/events/6ad26a13de300e00451ae
+ 0d1\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ad26a13de300e00451ae0d1
+END:VEVENT
+BEGIN:VEVENT
+UID:2b591d008cf7d30173a61c092759d8812fd57cb0@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261112T171500Z
+DTEND:20261112T191500Z
+SUMMARY:Midday Organ Recital: Aidan Yau
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Recitals are performed on Harvard’s famous 1958 D. A. Flentro
+ p organ\, at Adolphus Busch Hall.\nhttps://harvardartmuseums.org/calendar/
+ midday-organ-recital-aidan-yau\nFrom Pushpin Boston: https://pushpin.city/
+ boston/
+URL:https://harvardartmuseums.org/calendar/midday-organ-recital-aidan-yau
+END:VEVENT
+BEGIN:VEVENT
+UID:c2171d318ebc2c684729d603694eb8c4668b0f93@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261112T220000Z
+DTEND:20261113T000000Z
+SUMMARY:Author Talk: Lauren Klein and Tanvi Sharma on "Data by Design"
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join visualization historian Lauren Klein and designer Tanvi Sh
+ arma for a conversation about their new book Data by Design: Visualization
+  and Power from Abolition to the Dawn of Data Science. The book returns to
+  the history of data visualization to expose the power of charts and maps
+ —and to show how they can be used for social change. Lauren and Tanvi wi
+ ll be in conversation with Arvind Satyanarayan\, a professor of data visua
+ lization at MIT.\nhttps://bpl.bibliocommons.com/events/6ab2828eda318a10e63
+ 5d936\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ab2828eda318a10e635d936
+END:VEVENT
+BEGIN:VEVENT
+UID:4132ce6225826c49d267415baa97a6b3f899c5ea@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261112T223000Z
+DTEND:20261113T003000Z
+SUMMARY:Exhibition Opening Reception — Rachel King: At the Water's Edge
+LOCATION:Jamaica Plain Library\, 30 South Street\, Jamaica Plain\, MA 02130
+DESCRIPTION:Join the Friends of the Jamaica Plain Branch Library for a publ
+ ic reception for the new exhibit At the Water's Edge featuring featuring p
+ hotography by Jamaica Plain artist Rachel King. Be the first to view the e
+ xhibit and get a chance to speak to the the artist about her work. Light r
+ efreshments will be served.\nhttps://bpl.bibliocommons.com/events/6ad26b5d
+ e06996003a83f72d\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ad26b5de06996003a83f72d
+END:VEVENT
+BEGIN:VEVENT
+UID:c2c814525533e2e3b4227bc3012675b394a8ffdb@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261112T230000Z
+DTEND:20261113T010000Z
+SUMMARY:Archaeology in Allston-Brighton
+LOCATION:Brighton Library\, 40 Academy Hill Rd\, Brighton\, MA 02135
+DESCRIPTION:Join the City of Boston Archaeology Program in exploring Allsto
+ n-Brighton's history from the ground up! Learn about how archaeologists ch
+ oose where to dig\, what excavation has already happened in Allston-Bright
+ on\, which parts of the neighborhood may have potential for archaeology\, 
+ and what you can do to protect these finite and irreplaceable historic res
+ ources.\nhttps://bpl.bibliocommons.com/events/6ace695c035faf0033dc598c\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ace695c035faf0033dc598c
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f836c14ec962fdbbebe1741405b4999012c376@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261112T230000Z
+DTEND:20261113T010000Z
+SUMMARY:Charlestown Youth Gambling Project Presentation
+LOCATION:Charlestown Library\, 179 Main St\, Charlestown\, MA 02129
+DESCRIPTION:Join the Mayor’s Office of Human Services and the research te
+ am behind the Charlestown Gambling Project for an in-depth presentation on
+  their latest findings. This session offers a direct look at the data\, ec
+ onomic analysis\, and community impacts detailed in the newly released rep
+ ort.\nhttps://bpl.bibliocommons.com/events/6ad8c3ed901b02002cc40447\nFrom 
+ Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ad8c3ed901b02002cc40447
+END:VEVENT
+BEGIN:VEVENT
+UID:287b771515b690a4b194e7537c08d37df9ef5273@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261112T230000Z
+DTEND:20261113T010000Z
+SUMMARY:Colectivo C733—Gabriella Carrillo and Carlos Facio
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Colectivo C733—Gabriella Carrillo and Carlos Facio (in collab
+ oration with the Norman B. Leventhal Center for Advanced Urbanism)\nhttps:
+ //calendar.mit.edu/event/colectivo-c733gabriella-carrillo-and-carlos-facio
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/colectivo-c733gabriella-carrillo-and-car
+ los-facio
+END:VEVENT
+BEGIN:VEVENT
+UID:ac2f550829750c220c68c51237db3f7a094620b2@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261112T233000Z
+DTEND:20261113T013000Z
+SUMMARY:Behind the Curtain : Le Porteur d'Histoire
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Join us for a special preview of Le Porteur d’Histoire\, Alex
+ is Michalik’s award-winning play\, ahead of its November 13–15 perform
+ ances at the Calderwood Pavilion in Boston.\nhttps://frenchlibrary.org/eve
+ nts/porteur-histoire-2026/\nFrom Pushpin Boston: https://pushpin.city/bost
+ on/
+URL:https://frenchlibrary.org/events/porteur-histoire-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ea9fc0923ce157050ba0957f2ca4a05447a5aebd@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261112T233000Z
+DTEND:20261113T013000Z
+SUMMARY:The Point: America\, 250 Years From Now: Imagining the Future of Pe
+ rformance and Identity
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/the-point-america-250-years-from-
+ now-imagining-the-future-of-performance-and-identity/\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://artsemerson.org/event/the-point-america-250-years-from-now-imag
+ ining-the-future-of-performance-and-identity/
+END:VEVENT
+BEGIN:VEVENT
+UID:c82c37c96e41aeeec448a60fda6347bc28db8c35@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+SUMMARY:Suzanne Jackson in Conversation with Imani Perry
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/deborah-and-martin-hale-visiting-arti
+ st-lecture/suzanne-jackson-in-conversation-with-imani?event=179141\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/deborah-and-martin-hale-visiting-artist-lectu
+ re/suzanne-jackson-in-conversation-with-imani?event=179141
+END:VEVENT
+BEGIN:VEVENT
+UID:3de4491248e7926640db3d0bd649dfdf026dfd56@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+SUMMARY:The Artist’s Voice: Leilah Babirye with Ruth Erickson
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:“Reusing materials is important to me\, as a person who comes
+  from a background where the LGBTQ community is looked at as trash still t
+ oday. As an artist\, I find beauty in using found materials to showcase an
+ d reclaim my community.” -Leilah Babirye Bicycle chains\, gears\, and ti
+ re tubes are some of the unexpected elements in Leilah Babirye’s latest 
+ sculptures at the ICA. Her art\, celebrating a one-of-a-kind queer wedding
+ \, depicts attendees of this special life event through ceramic and carved
+  wood sculptures. Join Babirye and ICA’s Barbara Lee Chief Curator Ruth 
+ Erickson as they reflect on the artist’s unique practice that proudly re
+ claims space\, identity\, and community through art. This program explores
+  Babirye’s many creative influences from African sculpture to found obje
+ ct art and addresses cultural and political systems of oppression embedded
+  in Uganda\, including the Anti-Homosexuality Act (2014/2023) that endange
+ rs and criminalizes many lives.\nhttps://www.icaboston.org/events/the-arti
+ sts-voice-leilah-babirye-with-ruth-erickson/\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://www.icaboston.org/events/the-artists-voice-leilah-babirye-with-
+ ruth-erickson/
+END:VEVENT
+BEGIN:VEVENT
+UID:bfeb4bc22f7b9d7a22d535b6b8d413773d2ba6fc@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261113T160000Z
+DTEND:20261113T180000Z
+SUMMARY:Art Study Center Seminar: A Pre-Raphaelite Preview
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Miriam Stewart for a close-up look at a selection of works
+  that will be featured in a 2027 exhibition on Pre-Raphaelite art.\nhttps:
+ //harvardartmuseums.org/calendar/art-study-center-seminar-a-pre-raphaelite
+ -preview\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/art-study-center-seminar-a-pre-r
+ aphaelite-preview
+END:VEVENT
+BEGIN:VEVENT
+UID:38d2cd287f23fcf5e5906354cba799c2717713f9@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T000000Z
+DTEND:20261114T020000Z
+SUMMARY:Artful Evenings
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/artful-evenings?event=1
+ 57576\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/artful-evenings?event=157576
+END:VEVENT
+BEGIN:VEVENT
+UID:d703561713c0ff0eee65765628a817d081bf5c14@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T150000Z
+DTEND:20261114T170000Z
+SUMMARY:Artisan Market
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/artisan-market?event=15
+ 4301\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/artisan-market?event=154301
+END:VEVENT
+BEGIN:VEVENT
+UID:61f0b57bac19d4d7ff03555ace027366b3f6d171@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T233000Z
+DTEND:20261115T013000Z
+SUMMARY:Tiger Mom Academy
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/tiger-mom-academy/\nFrom Pushpin 
+ Boston: https://pushpin.city/boston/
+URL:https://artsemerson.org/event/tiger-mom-academy/
+END:VEVENT
+BEGIN:VEVENT
+UID:33c10c62096e5bd4065819f8d14c93c74ac99ad8@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261116T230000Z
+DTEND:20261117T010000Z
+SUMMARY:MIT / French Library Author talk: Elisa Shua Dusapin on The Old Fir
+ e
+LOCATION:MIT\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Join National Book Award winner Elisa Shua Dusapin for a conver
+ sation about The Old Fire\, her acclaimed new novel about two estranged si
+ sters\, a childhood home\, and all that remains unspoken between them.\nht
+ tps://calendar.mit.edu/event/mit-french-library-author-talk-elisa-shua-dus
+ apin-on-the-old-fire\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/mit-french-library-author-talk-elisa-shu
+ a-dusapin-on-the-old-fire
+END:VEVENT
+BEGIN:VEVENT
+UID:bf0407235d22ff0042b5696a20edbd242ad511de@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261116T230000Z
+DTEND:20261117T010000Z
+SUMMARY:The Old Fire: On Writing\, Memory\, and Belonging
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Join French-Swiss-Korean author Elisa Shua Dusapin for a conver
+ sation about her acclaimed new novel\, The Old Fire\, and her distinctive 
+ literary voice.\nhttps://frenchlibrary.org/events/elisa-shua-dusapin-2026/
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://frenchlibrary.org/events/elisa-shua-dusapin-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:7312c818d2bc7c2eb63f184f6986267923a52527@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261117T170000Z
+DTEND:20261117T190000Z
+SUMMARY:Art + Science: Inpainting Techniques
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:In this session\, paintings conservator Kate Smith will talk ab
+ out various philosophical approaches to restoring loss in paintings.\nhttp
+ s://harvardartmuseums.org/calendar/art-science-inpainting-techniques\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/art-science-inpainting-technique
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:a05e16b830b03fe1e1ae86cddebc4c8297629b0f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261117T190000Z
+DTEND:20261117T210000Z
+SUMMARY:Pop-Up Renaissance Concert
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join us for a pop-up concert of Renaissance music performed by 
+ the student group Harvard Viol Consort.\nhttps://harvardartmuseums.org/cal
+ endar/pop-up-renaissance-concert-3\nFrom Pushpin Boston: https://pushpin.c
+ ity/boston/
+URL:https://harvardartmuseums.org/calendar/pop-up-renaissance-concert-3
+END:VEVENT
+BEGIN:VEVENT
+UID:9f7c4342f20ca26fda3a0788101eea3ad78966cd@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261117T233000Z
+DTEND:20261118T013000Z
+SUMMARY:The Moth: Boston StorySLAM: KEEPING THE FAITH
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Join us the fourth Tuesday of each month for the Boston Moth St
+ orySLAM! This community-focused\, open-mic storytelling competition is ope
+ n to anyone can share a story on the night’s theme (changes every month)
+ .\nhttps://artsatthearmory.org/events/the-moth-boston-storyslam-2026-11-24
+ /\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsatthearmory.org/events/the-moth-boston-storyslam-2026-11-24
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ac34660251a083dada00aeb66608c74593e45bc6@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261118T180000Z
+DTEND:20261118T200000Z
+SUMMARY:The United States and Haiti: When History (and Revolutions) Binds U
+ s
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/the-united-states-and-haiti-w
+ hen-history-and-revolutions-binds-us?event=178421\nFrom Pushpin Boston: ht
+ tps://pushpin.city/boston/
+URL:https://www.mfa.org/event/lecture/the-united-states-and-haiti-when-hist
+ ory-and-revolutions-binds-us?event=178421
+END:VEVENT
+BEGIN:VEVENT
+UID:af6a5ca733c7e778c4a0ab17997ba7097954333c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261118T213000Z
+DTEND:20261118T233000Z
+SUMMARY:Starr Forum: AI and Global Power: Democracy\, Competition\, and Con
+ trol
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:Jake Sullivan is a former US national security advisor and curr
+ ently the Kissinger Professor of the Practice of Statecraft and World Orde
+ r at the Belfer Center\, Harvard Kennedy School. He also served as the 28t
+ h assistant to the president for national security affairs (national secur
+ ity advisor) where he focused on artificial intelligence (AI) as a top nat
+ ional security priority. In the Obama administration\, he served as nation
+ al security advisor to then-Vice President Biden\, director of the policy 
+ planning staff at the U.S. Department of State\, and deputy chief of staff
+  to Secretary of State Hillary Clinton.\nhttps://calendar.mit.edu/event/st
+ arr-forum-ai-and-global-power-democracy-competition-and-control\nFrom Push
+ pin Boston: https://pushpin.city/boston/
+URL:https://calendar.mit.edu/event/starr-forum-ai-and-global-power-democrac
+ y-competition-and-control
+END:VEVENT
+BEGIN:VEVENT
+UID:61400b7bd09d4193fb6838b58efa321a1502a67e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261118T220000Z
+DTEND:20261119T000000Z
+SUMMARY:MIT Music Tech Speaker Series Presents: Mark Ethier
+LOCATION:MIT\, 182 MEMORIAL DR (REAR)\, Cambridge\, MA 02139
+DESCRIPTION:Tools for Musicians in the Age of AI: From iZotope to Berklee M
+ ark Ethier is an entrepreneur and innovator dedicated to empowering creati
+ vity. In 2001\, after graduating from MIT with degrees in music and comput
+ er science\, he cofounded iZotope. Today\, he is the Founding Executive Di
+ rector of Berklee's Emerging Artistic Technology Lab (BEATL) helping music
+ ians navigate technology.\nhttps://calendar.mit.edu/event/mit-music-tech-s
+ peaker-series-presents-mark-ethier\nFrom Pushpin Boston: https://pushpin.c
+ ity/boston/
+URL:https://calendar.mit.edu/event/mit-music-tech-speaker-series-presents-m
+ ark-ethier
+END:VEVENT
+BEGIN:VEVENT
+UID:5d323070fc046a41c26de80c727cda4212a48661@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261119T171500Z
+DTEND:20261119T191500Z
+SUMMARY:Midday Organ Recital: Louise Mundinger
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Recitals are performed on Harvard’s famous 1958 D. A. Flentro
+ p organ\, at Adolphus Busch Hall.\nhttps://harvardartmuseums.org/calendar/
+ midday-organ-recital-louise-mundinger-4\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://harvardartmuseums.org/calendar/midday-organ-recital-louise-mund
+ inger-4
+END:VEVENT
+BEGIN:VEVENT
+UID:ddabe4e5331fbe7303b1d2423f372b6394f847cb@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261119T173000Z
+DTEND:20261119T193000Z
+SUMMARY:Gallery Talk: On Location: Drawing the Outdoors
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Discover the materials 19th-century European artists used—bot
+ h in the studio and outdoors—to record and represent the landscapes arou
+ nd them.\nhttps://harvardartmuseums.org/calendar/gallery-talk-on-location-
+ drawing-the-outdoors-2\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/gallery-talk-on-location-drawing
+ -the-outdoors-2
+END:VEVENT
+BEGIN:VEVENT
+UID:747600d7f269459d352ae15afb114ac0d842f050@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261119T210000Z
+DTEND:20261119T230000Z
+SUMMARY:Author Talk: Maria Termini — Available Details
+LOCATION:Jamaica Plain Library\, 30 South Street\, Jamaica Plain\, MA 02130
+DESCRIPTION:Join local Author Maria Termini as she reads from her new book 
+ Available Details: Wonder\, Adventure and More!\nhttps://bpl.bibliocommons
+ .com/events/6ad26bcf29c3d60033306286\nFrom Pushpin Boston: https://pushpin
+ .city/boston/
+URL:https://bpl.bibliocommons.com/events/6ad26bcf29c3d60033306286
+END:VEVENT
+BEGIN:VEVENT
+UID:e065fae67c6d914badf533745018b0430e7a73d4@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261119T220000Z
+DTEND:20261120T000000Z
+SUMMARY:$5 Third Thursday
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/5-third-thursday-novemb
+ er-2026?event=182336\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/5-third-thursday-november-2026?
+ event=182336
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d907d759b3c52eb0dec9634f36cc983fe0cc9a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261119T220000Z
+DTEND:20261120T000000Z
+SUMMARY:HERitage emBODYment: ‘Mavericks’ Performance and Talk
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/heritage-embodyment-mav
+ ericks-performance-and-talk?event=182311\nFrom Pushpin Boston: https://pus
+ hpin.city/boston/
+URL:https://www.mfa.org/event/special-event/heritage-embodyment-mavericks-p
+ erformance-and-talk?event=182311
+END:VEVENT
+BEGIN:VEVENT
+UID:54e55aee281d3f800383f0b28b74d57838acd345@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+SUMMARY:Co-Adaptive—Ruth Mandl and Bobby Johnston
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Part of the MIT Fall 2026 Architecture Lecture Series Presented
+  with the Architecture and Urbanism Group As our planet gets hotter\, and 
+ more extreme weather events become the norm\, CO Adaptive is positioning t
+ hemselves as an unbuild\, design and build practice: a new model that reun
+ ites designers and builders through collaboration in order to re-think our
+  joint role in shaping the built environment\; contending with architectur
+ e at the intersection of saving embodied carbon and reducing operational e
+ nergy. As stewards of the existing material repository contained in our ci
+ ties\, CO Adaptive aims to increase the resilience and reusability of all 
+ that already surrounds us.\nhttps://calendar.mit.edu/event/co-adaptiveruth
+ -mandl-and-bobby-johnston\nFrom Pushpin Boston: https://pushpin.city/bosto
+ n/
+URL:https://calendar.mit.edu/event/co-adaptiveruth-mandl-and-bobby-johnston
+END:VEVENT
+BEGIN:VEVENT
+UID:2aa028b403c0f85417bb0d117496df5c53eee584@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+SUMMARY:Lost Rivers: Mapping the History of Charlestown's Miller’s River
+LOCATION:Charlestown Library\, 179 Main St\, Charlestown\, MA 02129
+DESCRIPTION:Where were the original rivers in the Boston area? When and why
+  did Miller’s River\, once located near Charlestown\, disappear? Join th
+ e Leventhal Map & Education Center for a deep dive into the history and ge
+ ography of Miller’s River. Come learn about the river\, the history of o
+ ther bodies of water in Charlestown\, and the urban transformations that c
+ ontributed to their disappearance.\nhttps://bpl.bibliocommons.com/events/6
+ a9ac3edb88596143287eeea\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6a9ac3edb88596143287eeea
+END:VEVENT
+BEGIN:VEVENT
+UID:2b46d4b5b9ee1224efcb81e6978434b77709f138@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+SUMMARY:Unseen and Unhoused: The Crisis of Sex Trafficking in Boston • Pa
+ nel Discussion with Boston HEAT
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join us for this in-person panel discussion\, Unseen and Unhous
+ ed: The Crisis of Sex Trafficking in Boston • Panel Discussion with Bost
+ on HEAT\, featuring a range of experts.\nhttps://bpl.bibliocommons.com/eve
+ nts/6adba32a377296003a4e1f7d\nFrom Pushpin Boston: https://pushpin.city/bo
+ ston/
+URL:https://bpl.bibliocommons.com/events/6adba32a377296003a4e1f7d
+END:VEVENT
+BEGIN:VEVENT
+UID:30ba764d125054f7d5f59841b2e9e83fc36182b0@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261120T003000Z
+DTEND:20261120T023000Z
+SUMMARY:Dream Feed
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/dream-feed-5/\nFrom Pushpin Bosto
+ n: https://pushpin.city/boston/
+URL:https://artsemerson.org/event/dream-feed-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:33dd6bd8305b7f0be0f0cc258273634ef3978e69@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261120T230000Z
+DTEND:20261121T010000Z
+SUMMARY:HERitage emBODYment Presents ‘Mavericks’
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/heritage-embodyment-pre
+ sents-mavericks?event=182326\nFrom Pushpin Boston: https://pushpin.city/bo
+ ston/
+URL:https://www.mfa.org/event/special-event/heritage-embodyment-presents-ma
+ vericks?event=182326
+END:VEVENT
+BEGIN:VEVENT
+UID:6e6cbc4359fea805916e35b034ef02aa4465565a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261121T010000Z
+DTEND:20261121T030000Z
+SUMMARY:Bill T. Jones/Arnie Zane Company: Collage Revisited and Story/
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:The Bill T. Jones/Arnie Zane Company return to the ICA with a p
+ rogram reflecting on history\, legacy\, and continued experimentation.\nht
+ tps://www.icaboston.org/events/bill-t-jones-arnie-zane-company-collage-rev
+ isited-and-story/\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.icaboston.org/events/bill-t-jones-arnie-zane-company-collag
+ e-revisited-and-story/
+END:VEVENT
+BEGIN:VEVENT
+UID:73a9e0536ab14443a2880187a0b0a345ca2ad2fe@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261121T010000Z
+DTEND:20261121T030000Z
+SUMMARY:Dream Feed
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/dream-feed-4/\nFrom Pushpin Bosto
+ n: https://pushpin.city/boston/
+URL:https://artsemerson.org/event/dream-feed-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:837fe66aa525d3b0e6e4120502b75c37c5538b5f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:Author Talk — Alex Krieger: Greenhorn
+LOCATION:Jamaica Plain Library\, 30 South Street\, Jamaica Plain\, MA 02130
+DESCRIPTION:Join local author Alex Krieger as he reads from and discusses h
+ is new memoir Greenhorn: Episodes in an Immigrant's Life. It explores a li
+ fe shaped by motion\, memory\, cultures and careers\, which unfolds in the
+  art of making a home in the unfamiliar. At the age of nine\, Alex Krieger
+  arrived in America with his three parents—survivors of the Holocaust. I
+ n Chicago\, he finds his fourth first-grade classroom to learn a fourth la
+ nguage in four years. From displaced childhood\, the journeying continues 
+ as teacher\, architect\, planner of cities. With a poet's sensitivity and 
+ a craftsman's precision\, Krieger reflects on that greenhorn's instinct to
+  embrace the values of an adopted nation while remaining eyewitness to par
+ adoxes.\nhttps://bpl.bibliocommons.com/events/6ad26ad6fee2d21deb23b8a7\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://bpl.bibliocommons.com/events/6ad26ad6fee2d21deb23b8a7
+END:VEVENT
+BEGIN:VEVENT
+UID:edbf1cbf9561b8caa4a4c1c7f36b7b68f8640b4a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:Dream Feed
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:Times: 2pm\, 8pm\nhttps://artsemerson.org/event/dream-feed-3/\n
+ From Pushpin Boston: https://pushpin.city/boston/
+URL:https://artsemerson.org/event/dream-feed-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:bae8678e8f06ab911006667bed53a8022e7123b1@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261122T173000Z
+DTEND:20261122T193000Z
+SUMMARY:New on View: Community and Self-Representation in the David and Jan
+ e Shapiro Collection
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Leah Yeshitila for a discussion of her installation featur
+ ing renowned Black artists of the later 20th century.\nhttps://harvardartm
+ useums.org/calendar/new-on-view-community-and-self-representation-in-the-d
+ avid-and-jane-shapiro-collection\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://harvardartmuseums.org/calendar/new-on-view-community-and-self-r
+ epresentation-in-the-david-and-jane-shapiro-collection
+END:VEVENT
+BEGIN:VEVENT
+UID:4a83e67fcf7ba979bec653a0e590807d57f154ed@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:Dream Feed
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/dream-feed/\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://artsemerson.org/event/dream-feed/
+END:VEVENT
+BEGIN:VEVENT
+UID:8430b499dbad4bda50831d32cae34de672f5b6e7@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:Gallery Talk: Max Gruber on 90 YEARS
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Founded in 1936\, the ICA is one of the oldest museums dedicate
+ d to contemporary art in the United States. On this special anniversary\, 
+ 90 YEARS revisits nine exhibitions and initiatives from the ICA’s histor
+ y\, tracing the museum’s evolution alongside the ever-changing landscape
+  of contemporary art. Join Curatorial Assistant Max Gruber for a conversat
+ ion about pivotal moments in the ICA’s history with a focus on the landm
+ ark 1941 exhibition Modern Mexican Painters.\nhttps://www.icaboston.org/ev
+ ents/gallery-talk-max-gruber-on-90-years/\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://www.icaboston.org/events/gallery-talk-max-gruber-on-90-years/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,747 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Amherst Cinema
+X-WR-CALDESC:What’s coming up at Amherst Cinema\, from Pushpin Western Ma
+ ss.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:904642d31ab8debf81cd6a5e3ca9feeb32f52edd@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T171500Z
+DTEND:20261024T191500Z
+SUMMARY:Fjord
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:15pm\, 4pm\, 6:45pm\, 9:35pm\nA Norwegian woman (Renat
+ e Reinsve) and her devout Romanian husband (Sebastian Stan) relocate with 
+ their five children to a remote\, close-knit\, coastal town.\nhttps://amhe
+ rstcinema.org/films-and-events/fjord\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:dda2511357d8962005c3126a817002072a9ec8a4@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T173000Z
+DTEND:20261024T193000Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:30pm\, 7pm\, 9:45pm\nDue to popular demand\, KEN RUSSE
+ LL'S THE DEVILS has been extended for a second week\, playing through Thur
+ sday 10/29.\nhttps://amherstcinema.org/films-and-events/ken-russells-devil
+ s\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:02d5bd9ba1781432a6dabb6ddba9dbdeb94bfb03@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T174500Z
+DTEND:20261024T194500Z
+SUMMARY:Wicker
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:35pm\, 7:15pm\, 9:50pm\nAn audacious comedic 
+ fable about sex\, marriage\, and the absurdities of social convention\, WI
+ CKER tells the wholly original love story of an ostracized fisherwoman (Ol
+ ivia Colman) who commissions a husband to be made by the local basketmaker
+  (Peter Dinklage).\nhttps://amherstcinema.org/films-and-events/wicker\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:ebb2738c0be4dc19d30268eb9099cad4c7b4ec9e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T202000Z
+DTEND:20261024T222000Z
+SUMMARY:The History of Concrete
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Following the finale of his TV series\, filmmaker John Wilson l
+ ooks to the bedrock of his beloved New York City for inspiration and struc
+ ture.\nhttps://amherstcinema.org/films-and-events/history-concrete\nFrom P
+ ushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:3ced58a63ac56a6a08e7f5e5aa4e232b905ad199@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Fjord
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 10am\, 1:15pm\, 4pm\, 6:45pm\nA Norwegian woman (Renate 
+ Reinsve) and her devout Romanian husband (Sebastian Stan) relocate with th
+ eir five children to a remote\, close-knit\, coastal town.\nhttps://amhers
+ tcinema.org/films-and-events/fjord\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:69185637da68f57e0f0f5dfe3f8c150f09ffb223@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T141500Z
+DTEND:20261025T161500Z
+SUMMARY:Wicker
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 10:15am\, 1:30pm\, 4:45pm\, 7:15pm\nAn audacious comedic
+  fable about sex\, marriage\, and the absurdities of social convention\, W
+ ICKER tells the wholly original love story of an ostracized fisherwoman (O
+ livia Colman) who commissions a husband to be made by the local basketmake
+ r (Peter Dinklage).\nhttps://amherstcinema.org/films-and-events/wicker\nFr
+ om Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:7c0e5cdadc6c1bd68de54265588a21f8999651d9@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T142500Z
+DTEND:20261025T162500Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 10:25am\, 7:10pm\nDue to popular demand\, KEN RUSSELL'S 
+ THE DEVILS has been extended for a second week\, playing through Thursday 
+ 10/29.\nhttps://amherstcinema.org/films-and-events/ken-russells-devils\nFr
+ om Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:af27be149f78c5c68b5dc3d8807c7a1cea108bd0@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T170000Z
+DTEND:20261025T190000Z
+SUMMARY:Kwaidan
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Restorations & Rediscoveries\nNew 4K restoration of the origina
+ l three-hour Japanese cut\, never before released in the United States.\nh
+ ttps://amherstcinema.org/films-and-events/kwaidan\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/kwaidan
+END:VEVENT
+BEGIN:VEVENT
+UID:349ec5bb35153957b57c0da8b08a3ba8212c50e4@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T202000Z
+DTEND:20261025T222000Z
+SUMMARY:The History of Concrete
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Following the finale of his TV series\, filmmaker John Wilson l
+ ooks to the bedrock of his beloved New York City for inspiration and struc
+ ture.\nhttps://amherstcinema.org/films-and-events/history-concrete\nFrom P
+ ushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:ee2045e0f8a757b4716a2309154da2e4034996c6@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T171500Z
+DTEND:20261026T191500Z
+SUMMARY:Fjord
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:15pm\, 4pm\, 6:45pm\, 9:35pm\nA Norwegian woman (Renat
+ e Reinsve) and her devout Romanian husband (Sebastian Stan) relocate with 
+ their five children to a remote\, close-knit\, coastal town.\nhttps://amhe
+ rstcinema.org/films-and-events/fjord\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:7261e2230a703c05831c86ec3eef0d08c687230d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T173000Z
+DTEND:20261026T193000Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:30pm\, 7pm\, 9:45pm\nDue to popular demand\, KEN RUSSE
+ LL'S THE DEVILS has been extended for a second week\, playing through Thur
+ sday 10/29.\nhttps://amherstcinema.org/films-and-events/ken-russells-devil
+ s\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:6f3fef0946713a488bc3786907063229e0bbf2c9@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T174500Z
+DTEND:20261026T194500Z
+SUMMARY:Wicker
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:35pm\, 7:15pm\, 9:50pm\nAn audacious comedic 
+ fable about sex\, marriage\, and the absurdities of social convention\, WI
+ CKER tells the wholly original love story of an ostracized fisherwoman (Ol
+ ivia Colman) who commissions a husband to be made by the local basketmaker
+  (Peter Dinklage).\nhttps://amherstcinema.org/films-and-events/wicker\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:23b839dcec08065208bf5a9bf270c8fd3fe53fe5@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T202000Z
+DTEND:20261026T222000Z
+SUMMARY:The History of Concrete
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Following the finale of his TV series\, filmmaker John Wilson l
+ ooks to the bedrock of his beloved New York City for inspiration and struc
+ ture.\nhttps://amherstcinema.org/films-and-events/history-concrete\nFrom P
+ ushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:e55082e8f9bab8ae83f923bbb4f099c442df8ce3@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T171500Z
+DTEND:20261027T191500Z
+SUMMARY:Fjord
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:15pm\, 4pm\, 6:45pm\, 9:35pm\nA Norwegian woman (Renat
+ e Reinsve) and her devout Romanian husband (Sebastian Stan) relocate with 
+ their five children to a remote\, close-knit\, coastal town.\nhttps://amhe
+ rstcinema.org/films-and-events/fjord\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:e777117630309c07c2a53c1850b48d783d21673b@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T173000Z
+DTEND:20261027T193000Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:30pm\, 9:45pm\nDue to popular demand\, KEN RUSSELL'S T
+ HE DEVILS has been extended for a second week\, playing through Thursday 1
+ 0/29.\nhttps://amherstcinema.org/films-and-events/ken-russells-devils\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:709cb4b995c21ae87e3c9391480cb70409ffc2c2@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T174500Z
+DTEND:20261027T194500Z
+SUMMARY:Wicker
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:35pm\, 7:15pm\, 9:50pm\nAn audacious comedic 
+ fable about sex\, marriage\, and the absurdities of social convention\, WI
+ CKER tells the wholly original love story of an ostracized fisherwoman (Ol
+ ivia Colman) who commissions a husband to be made by the local basketmaker
+  (Peter Dinklage).\nhttps://amherstcinema.org/films-and-events/wicker\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:9b928cfb6597fa639178447f50d45119cd8fff06@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T202000Z
+DTEND:20261027T222000Z
+SUMMARY:The History of Concrete
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Following the finale of his TV series\, filmmaker John Wilson l
+ ooks to the bedrock of his beloved New York City for inspiration and struc
+ ture.\nhttps://amherstcinema.org/films-and-events/history-concrete\nFrom P
+ ushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:9928bae66c30090122989cbfbbac95d9e3bb3d23@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T230000Z
+DTEND:20261028T010000Z
+SUMMARY:NT Live: The Misanthrope
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:National Theatre Live\nGolden Globe winner Sandra Oh (Killing E
+ ve\, Grey's Anatomy) plays the title role in this razor-sharp reimagining 
+ of Molière’s classic dark comedy.\nhttps://amherstcinema.org/films-and-
+ events/nt-live-misanthrope\nFrom Pushpin Western Mass: https://pushpin.cit
+ y/westernma/
+URL:https://amherstcinema.org/films-and-events/nt-live-misanthrope
+END:VEVENT
+BEGIN:VEVENT
+UID:7a22fa1b9e8397a960ec701f996d48268841c8ad@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T200000Z
+DTEND:20261028T220000Z
+SUMMARY:Fjord
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4pm\, 6:45pm\nA Norwegian woman (Renate Reinsve) and her
+  devout Romanian husband (Sebastian Stan) relocate with their five childre
+ n to a remote\, close-knit\, coastal town.\nhttps://amherstcinema.org/film
+ s-and-events/fjord\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://amherstcinema.org/films-and-events/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:70b39e4653965692eeb732da8efd52565b15fc41@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T202000Z
+DTEND:20261028T222000Z
+SUMMARY:The History of Concrete
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Following the finale of his TV series\, filmmaker John Wilson l
+ ooks to the bedrock of his beloved New York City for inspiration and struc
+ ture.\nhttps://amherstcinema.org/films-and-events/history-concrete\nFrom P
+ ushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/history-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:610ba27f2a8bfdc6e5488279753c7e4336d352f2@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T203500Z
+DTEND:20261028T223500Z
+SUMMARY:Wicker
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:35pm\, 7:15pm\nAn audacious comedic fable about sex\, 
+ marriage\, and the absurdities of social convention\, WICKER tells the who
+ lly original love story of an ostracized fisherwoman (Olivia Colman) who c
+ ommissions a husband to be made by the local basketmaker (Peter Dinklage).
+ \nhttps://amherstcinema.org/films-and-events/wicker\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:d9b3ddfbe9b4a06147e08d122ad43d204f5af084@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T230000Z
+DTEND:20261029T010000Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Due to popular demand\, KEN RUSSELL'S THE DEVILS has been exten
+ ded for a second week\, playing through Thursday 10/29.\nhttps://amherstci
+ nema.org/films-and-events/ken-russells-devils\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:f2aba86b51cff4f3bb22de22a509b99ca9a4e121@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T171500Z
+DTEND:20261029T191500Z
+SUMMARY:Fjord
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:15pm\, 4pm\, 6:45pm\nA Norwegian woman (Renate Reinsve
+ ) and her devout Romanian husband (Sebastian Stan) relocate with their fiv
+ e children to a remote\, close-knit\, coastal town.\nhttps://amherstcinema
+ .org/films-and-events/fjord\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://amherstcinema.org/films-and-events/fjord
+END:VEVENT
+BEGIN:VEVENT
+UID:9f2076daa38452d99834a375a34416801ccf8451@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T173000Z
+DTEND:20261029T193000Z
+SUMMARY:Ken Russell's The Devils
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:30pm\, 9:45pm\nDue to popular demand\, KEN RUSSELL'S T
+ HE DEVILS has been extended for a second week\, playing through Thursday 1
+ 0/29.\nhttps://amherstcinema.org/films-and-events/ken-russells-devils\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/ken-russells-devils
+END:VEVENT
+BEGIN:VEVENT
+UID:84c6f63e92bae6a98a2ee558088021c0aaa24b7a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T174500Z
+DTEND:20261029T194500Z
+SUMMARY:Wicker
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:25pm\, 7:15pm\, 9:50pm\nAn audacious comedic 
+ fable about sex\, marriage\, and the absurdities of social convention\, WI
+ CKER tells the wholly original love story of an ostracized fisherwoman (Ol
+ ivia Colman) who commissions a husband to be made by the local basketmaker
+  (Peter Dinklage).\nhttps://amherstcinema.org/films-and-events/wicker\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:59af557772ef1519964c08eb7ad6ee55382444dd@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T230000Z
+DTEND:20261030T010000Z
+SUMMARY:Nosferatu live-scored by the Andrew Alden Ensemble
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 7pm\, 9:30pm\nSpooky Season\nSecond show added at 9:30pm
+ !\nhttps://amherstcinema.org/films-and-events/nosferatu-live-scored\nFrom 
+ Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/nosferatu-live-scored
+END:VEVENT
+BEGIN:VEVENT
+UID:756ace07dde6110396ac3beeda734fcfd704bd83@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Opens Friday 10/30.\nhttps://amherstcinema.org/films-and-events
+ /only-living-pickpocket-new-york\nFrom Pushpin Western Mass: https://pushp
+ in.city/westernma/
+URL:https://amherstcinema.org/films-and-events/only-living-pickpocket-new-y
+ ork
+END:VEVENT
+BEGIN:VEVENT
+UID:2c04dedce6f88c94e91552b29775d47ab1520d2d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261031T014500Z
+DTEND:20261031T034500Z
+SUMMARY:The Mist (Black & White)
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nAfter a mysterious mist envelopes a small New Engl
+ and town\, a group of locals trapped in a supermarket must battle a siege 
+ of otherworldly creatures... and the fears that threaten to tear them apar
+ t.\nhttps://amherstcinema.org/films-and-events/mist-black-white\nFrom Push
+ pin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/mist-black-white
+END:VEVENT
+BEGIN:VEVENT
+UID:74a5b7988cd3b6cae42e9eab449802ee991180cc@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261031T173000Z
+DTEND:20261031T193000Z
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:30pm\, 7pm\nSpooky Season\nPlease note that passes can
+ not be redeemed for these screenings.\nhttps://amherstcinema.org/films-and
+ -events/rocky-horror-picture-show\nFrom Pushpin Western Mass: https://push
+ pin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/rocky-horror-picture-show
+END:VEVENT
+BEGIN:VEVENT
+UID:288a36aabdae23bd616d7f85136bd28bf2847e9b@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261101T183000Z
+DTEND:20261101T203000Z
+SUMMARY:Gilda
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Noirvember\nIn a vital performance in the pantheon of film noir
+ \, Rita Hayworth plays Gilda\, the much-lusted-after wife of a criminal ki
+ ngpin and the former flame of his bitter henchman\, driving them both mad 
+ with desire and jealousy on the glittering floor of a Buenos Aires casino.
+ \nhttps://amherstcinema.org/films-and-events/gilda\nFrom Pushpin Western M
+ ass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/gilda
+END:VEVENT
+BEGIN:VEVENT
+UID:6cf9edfafa358911fab78dd97cf18ec072395b71@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261103T000000Z
+DTEND:20261103T020000Z
+SUMMARY:La Salsa Vive
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Sound and Vision\nIntroduction by Latin music scholar Pablo Ygl
+ esias.\nhttps://amherstcinema.org/films-and-events/la-salsa-vive\nFrom Pus
+ hpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/la-salsa-vive
+END:VEVENT
+BEGIN:VEVENT
+UID:a79c66fc6a9eae3d527336e4f418ad23b614d9eb@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Gilda
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Noirvember\nIn a vital performance in the pantheon of film noir
+ \, Rita Hayworth plays Gilda\, the much-lusted-after wife of a criminal ki
+ ngpin and the former flame of his bitter henchman\, driving them both mad 
+ with desire and jealousy on the glittering floor of a Buenos Aires casino.
+ \nhttps://amherstcinema.org/films-and-events/gilda\nFrom Pushpin Western M
+ ass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/gilda
+END:VEVENT
+BEGIN:VEVENT
+UID:1f38a58242d303f999a4c79438c03e1b0bf1ee07@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T190000Z
+DTEND:20261105T210000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2pm\, 4:25pm\, 7:10pm\, 9:45pm\nShortly before the 1973 
+ Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) ar
+ e dispatched from Santiago to Easter island by their bureau chief\, MJ (St
+ eve Buscemi).\nhttps://amherstcinema.org/films-and-events/wild-horse-nine\
+ nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:426c632b1977918360befd125204a617046a6289@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261106T000000Z
+DTEND:20261106T020000Z
+SUMMARY:NT Live: Golden Boy
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:National Theatre Live\nJosh O’Connor (The Crown\; CHALLENGERS
+ ) leads the cast in this searing revival of Clifford Odets’ knockout Ame
+ rican classic.\nhttps://amherstcinema.org/films-and-events/nt-live-golden-
+ boy\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/nt-live-golden-boy
+END:VEVENT
+BEGIN:VEVENT
+UID:f36150259c053860c09492ecc3ac2efeea21ce53@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:La Bola Negra
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Opens Friday 11/6.\nhttps://amherstcinema.org/films-and-events/
+ la-bola-negra\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/la-bola-negra
+END:VEVENT
+BEGIN:VEVENT
+UID:9af7f59c62276f642e0dce3b0ff13f14687d2976@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261106T184000Z
+DTEND:20261106T204000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:40pm\, 4:25pm\, 7:10pm\, 9:55pm\nShortly before the 19
+ 73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
+  are dispatched from Santiago to Easter island by their bureau chief\, MJ 
+ (Steve Buscemi).\nhttps://amherstcinema.org/films-and-events/wild-horse-ni
+ ne\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:343a8f44fad81fc9910b72d7133b0d395c24d780@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T024500Z
+DTEND:20261107T044500Z
+SUMMARY:Robocop (Director's Cut)
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nWhen a good cop (Peter Weller) gets blown away by 
+ ruthless criminals\, innovative doctors are able to piece him back togethe
+ r as an unstoppable crime-fighting cyborg called “Robocop.” Equipped w
+ ith high-tech weaponry\, Robocop quickly cleans up the crime-ridden street
+ s of Detroit.\nhttps://amherstcinema.org/films-and-events/robocop-director
+ s-cut\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/robocop-directors-cut
+END:VEVENT
+BEGIN:VEVENT
+UID:249d32f9f51348372d6fa2324bb390467fa51176@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T184000Z
+DTEND:20261107T204000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:40pm\, 4:25pm\, 7:10pm\, 9:45pm\nShortly before the 19
+ 73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
+  are dispatched from Santiago to Easter island by their bureau chief\, MJ 
+ (Steve Buscemi).\nhttps://amherstcinema.org/films-and-events/wild-horse-ni
+ ne\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:a9c64fca1ede97566627362198bbb4c667007b48@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T155000Z
+DTEND:20261108T175000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 10:50am\, 1:40pm\, 4:25pm\, 7:10pm\nShortly before the 1
+ 973 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell
+ ) are dispatched from Santiago to Easter island by their bureau chief\, MJ
+  (Steve Buscemi).\nhttps://amherstcinema.org/films-and-events/wild-horse-n
+ ine\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:64de4e41263329ae030040bfeea57bbe35730bc8@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T183000Z
+DTEND:20261108T203000Z
+SUMMARY:Niagara
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Noirvember\nPlease note that passes cannot be redeemed for this
+  screening.\nhttps://amherstcinema.org/films-and-events/niagara\nFrom Push
+ pin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/niagara
+END:VEVENT
+BEGIN:VEVENT
+UID:75175d038cc6285c763e62c34f04fc6c64bf612f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261109T184000Z
+DTEND:20261109T204000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:40pm\, 4pm\, 7:10pm\, 9:55pm\nShortly before the 1973 
+ Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) ar
+ e dispatched from Santiago to Easter island by their bureau chief\, MJ (St
+ eve Buscemi).\nhttps://amherstcinema.org/films-and-events/wild-horse-nine\
+ nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:fa155111a257caa882428957c3e5c4137c3db6c0@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261110T000000Z
+DTEND:20261110T020000Z
+SUMMARY:Witness for the Prosecution
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Billy Wilder presented by Nina Kleinberg\nJoin us this fall for
+  three films by Billy Wilder\, featuring introductions by local film exper
+ t Nina Kleinberg.\nhttps://amherstcinema.org/films-and-events/witness-pros
+ ecution\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/witness-prosecution
+END:VEVENT
+BEGIN:VEVENT
+UID:73dffc3378199229d124a19c8c947d868e7ba45f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261110T184000Z
+DTEND:20261110T204000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:40pm\, 4:25pm\, 7:10pm\, 9:45pm\nShortly before the 19
+ 73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
+  are dispatched from Santiago to Easter island by their bureau chief\, MJ 
+ (Steve Buscemi).\nhttps://amherstcinema.org/films-and-events/wild-horse-ni
+ ne\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:13a5e2af658cc1bb1fa884747442aee7a1442067@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261111T000000Z
+DTEND:20261111T020000Z
+SUMMARY:Niagara
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Noirvember\nPlease note that passes cannot be redeemed for this
+  screening.\nhttps://amherstcinema.org/films-and-events/niagara\nFrom Push
+ pin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/niagara
+END:VEVENT
+BEGIN:VEVENT
+UID:294fd88ecac3dd0e9fd8ebc6da3bd508ecfe4b7e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261111T212500Z
+DTEND:20261111T232500Z
+SUMMARY:Wild Horse Nine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:25pm\, 7:10pm\nShortly before the 1973 Chilean coup\, 
+ CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched fr
+ om Santiago to Easter island by their bureau chief\, MJ (Steve Buscemi).\n
+ https://amherstcinema.org/films-and-events/wild-horse-nine\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:9ccbaed77cc83b8e4e037f6678ed3c4293709f4c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261112T184000Z
+DTEND:20261112T204000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:40pm\, 4:25pm\, 7:10pm\, 9:55pm\nShortly before the 19
+ 73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
+  are dispatched from Santiago to Easter island by their bureau chief\, MJ 
+ (Steve Buscemi).\nhttps://amherstcinema.org/films-and-events/wild-horse-ni
+ ne\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:92e2855bdfa980f830826e1335a7644b6c892db5@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+SUMMARY:Barbara Forever
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Bellwether\nDirector Brydie O’Connor\, editor Matt Hixon\, an
+ d producer Elijah Stevens join us for a post-film discussion.\nhttps://amh
+ erstcinema.org/films-and-events/barbara-forever\nFrom Pushpin Western Mass
+ : https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+UID:8c1e6269a6efef4fb94d71e49058ef8a32075d22@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Fatherland
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Opens Friday 11/13.\nhttps://amherstcinema.org/films-and-events
+ /fatherland\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/fatherland
+END:VEVENT
+BEGIN:VEVENT
+UID:cb02cb6ef2c92db658ecf3538abdc9e2abc65022@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Opens Friday 11/13.\nhttps://amherstcinema.org/films-and-events
+ /once-upon-time-harlem\nFrom Pushpin Western Mass: https://pushpin.city/we
+ sternma/
+URL:https://amherstcinema.org/films-and-events/once-upon-time-harlem
+END:VEVENT
+BEGIN:VEVENT
+UID:af0226eb624eeec13a2da638d28bd64a83996bf0@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T024500Z
+DTEND:20261114T044500Z
+SUMMARY:Josie and the Pussycats
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nHot newcomers Josie (Rachael Leigh Cook)\, Melody 
+ (Tara Reid)\, and Val (Rosario Dawson) are three small-town musicians with
+  big dreams but little future. Then fate gives the Pussycats the chance of
+  a lifetime when band manager Wyatt (Alan Cumming) of MegaRecords signs th
+ em overnight to an awesome recording contract.\nhttps://amherstcinema.org/
+ films-and-events/josie-and-pussycats\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/josie-and-pussycats
+END:VEVENT
+BEGIN:VEVENT
+UID:70b6362dbea29eb38bfeefd568c26b291331dcc0@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T174500Z
+DTEND:20261114T194500Z
+SUMMARY:Puss in Boots: The Last Wish
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:$5 Family Films\nWhen his legendary feats bring his nine lives 
+ down to one\, Puss in Boots sets out to find a magical Wishing Star in his
+  most daring adventure yet.\nhttps://amherstcinema.org/films-and-events/pu
+ ss-boots-last-wish\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://amherstcinema.org/films-and-events/puss-boots-last-wish
+END:VEVENT
+BEGIN:VEVENT
+UID:92cc7815d3a2b8392c4c45e64f06ef0e4a29425b@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261115T183000Z
+DTEND:20261115T203000Z
+SUMMARY:Mildred Pierce
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Noirvember\nIn this gripping blend of melodrama and murder myst
+ ery\, Joan Crawford plays a hard-working single mother who inches towards 
+ disaster as she starts a successful restaurant business to support her ven
+ omous daughter.\nhttps://amherstcinema.org/films-and-events/mildred-pierce
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/mildred-pierce
+END:VEVENT
+BEGIN:VEVENT
+UID:8061f2425990998bdb2c5d82098b2425c68daa5c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+SUMMARY:Mildred Pierce
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Noirvember\nIn this gripping blend of melodrama and murder myst
+ ery\, Joan Crawford plays a hard-working single mother who inches towards 
+ disaster as she starts a successful restaurant business to support her ven
+ omous daughter.\nhttps://amherstcinema.org/films-and-events/mildred-pierce
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/mildred-pierce
+END:VEVENT
+BEGIN:VEVENT
+UID:b00ec50ffdd56cfb97d0ed27850a9ae5198c04aa@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261121T024500Z
+DTEND:20261121T044500Z
+SUMMARY:The Devil Queen
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nRio de Janeiro’s criminal underworld is run by a
+ n unexpected boss: Diaba (Milton Gonçalves)\, a femme queen with a taste 
+ for power and violence. When the police come after her boy toy\, Diaba att
+ empts to find a scapegoat to take the blame\, and a plot to dethrone Her M
+ ajesty arises.\nhttps://amherstcinema.org/films-and-events/devil-queen\nFr
+ om Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/devil-queen
+END:VEVENT
+END:VCALENDAR

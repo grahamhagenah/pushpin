@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Bay Area//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Bay Area · SFMOMA
+X-WR-CALDESC:What’s coming up at SFMOMA\, from Pushpin Bay Area.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ed374d6f0b22397cc95b7bb3f1e244e3c7b1093e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261030T010000Z
+DTEND:20261030T030000Z
+SUMMARY:An Evening with Doug Aitken
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Artist Talk\nhttps://www.sfmoma.org/event/an-evening-with-doug-
+ aitken/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/an-evening-with-doug-aitken/
+END:VEVENT
+BEGIN:VEVENT
+UID:8f460da32b27fa2c3c3f93e156107020cf0ced1d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261030T010000Z
+DTEND:20261030T030000Z
+SUMMARY:Works on Paper Book Club: Eat the Mouth That Feeds You by Carribean
+  Fragoza
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/works-on-paper-book-club-eat-the-m
+ outh-that-feeds-you-by-carribean-fragoza/\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/works-on-paper-book-club-eat-the-mouth-tha
+ t-feeds-you-by-carribean-fragoza/
+END:VEVENT
+BEGIN:VEVENT
+UID:211879b5efea19752c3f5a79062b6f22af22ddaf@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261031T180000Z
+DTEND:20261031T200000Z
+SUMMARY:SFMOMAween
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/sfmomaween/\nFrom Pushpin Bay Area
+ : https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/sfmomaween/
+END:VEVENT
+BEGIN:VEVENT
+UID:2f5e6c6054b855226d328f0a1b0eb7ce568867cf@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T190000Z
+DTEND:20261107T210000Z
+SUMMARY:Make a Kite with Jacob Hashimoto
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/make-a-kite-with-jacob-hashimoto/\
+ nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/make-a-kite-with-jacob-hashimoto/
+END:VEVENT
+BEGIN:VEVENT
+UID:128f349ce85956597f65cc33bf47dfe386f4e8fe@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T210000Z
+DTEND:20261107T230000Z
+SUMMARY:The Fall of the I-Hotel + Manilatown Manang Screenings
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/the-fall-of-the-i-hotel-manilatown
+ -manang-screenings/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/the-fall-of-the-i-hotel-manilatown-manang-
+ screenings/
+END:VEVENT
+BEGIN:VEVENT
+UID:fbb32ea454d5b2e3b3f633cfe2bbcf8fa374a057@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T180000Z
+DTEND:20261108T200000Z
+SUMMARY:Family Studio: Lines That Move
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Sundays\nhttps://www.sfmoma.org/event/family-studio-line
+ s-that-move-11-8/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/family-studio-lines-that-move-11-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:69469c6e6f804c0648f1897ed841d83d8165edaf@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T210000Z
+DTEND:20261108T230000Z
+SUMMARY:Parol-Making Workshop with SOMA Pilipinas
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/parol-making-workshop-with-soma-pi
+ lipinas/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/parol-making-workshop-with-soma-pilipinas/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d8e67be7cf82e92292fc03354784c23b00854d1@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T220000Z
+DTEND:20261109T000000Z
+SUMMARY:William Kentridge
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Artist Talk\nhttps://www.sfmoma.org/event/artist-talk-william-k
+ entridge/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/artist-talk-william-kentridge/
+END:VEVENT
+BEGIN:VEVENT
+UID:ac4d39f3c3d0a3fa5b2ef10c114992ac8588a0a5@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261113T023000Z
+DTEND:20261113T043000Z
+SUMMARY:Little Forest: Film Screening + Conversation
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/little-forest-film-screening-conve
+ rsation/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/little-forest-film-screening-conversation/
+END:VEVENT
+BEGIN:VEVENT
+UID:13bbc6c3e6c5ac0e313224eb60a58045826d1bec@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+SUMMARY:Hansik Cooking Class Inspired by Little Forest
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/hansik-cooking-class-inspired-by-l
+ ittle-forest/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/hansik-cooking-class-inspired-by-little-fo
+ rest/
+END:VEVENT
+BEGIN:VEVENT
+UID:71ecc8d240658f7ed4ebc2d8743aec5622754893@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261115T190000Z
+DTEND:20261115T210000Z
+SUMMARY:The Doctor Is In: Kids’ Answers to Your Art Problems with the Jea
+ lous Curator
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Program\nhttps://www.sfmoma.org/event/the-doctor-is-in-k
+ ids-answers-to-your-art-problems-with-the-jealous-curator/\nFrom Pushpin B
+ ay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/the-doctor-is-in-kids-answers-to-your-art-
+ problems-with-the-jealous-curator/
+END:VEVENT
+BEGIN:VEVENT
+UID:05796c0511e0478aee0cbc2742ba98ecefd7c540@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261115T210000Z
+DTEND:20261115T230000Z
+SUMMARY:Real Artists Wear Black with the Jealous Curator
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Artist Talk\nhttps://www.sfmoma.org/event/real-artists-wear-bla
+ ck-with-the-jealous-curator/\nFrom Pushpin Bay Area: https://pushpin.city/
+ bayarea/
+URL:https://www.sfmoma.org/event/real-artists-wear-black-with-the-jealous-c
+ urator/
+END:VEVENT
+BEGIN:VEVENT
+UID:446591db0bd31aadf3a881511b122c591f8ca921@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261116T000000Z
+DTEND:20261116T020000Z
+SUMMARY:Art in the Age of AI: A Conversation Between Holly Herndon\, Mat Dr
+ yhurst\, and Hans Ulrich Obrist
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/art-in-the-age-of-ai-a-conversatio
+ n-between-holly-herndon-mat-dryhurst-and-hans-ulrich-obrist/\nFrom Pushpin
+  Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/art-in-the-age-of-ai-a-conversation-betwee
+ n-holly-herndon-mat-dryhurst-and-hans-ulrich-obrist/
+END:VEVENT
+BEGIN:VEVENT
+UID:bcea5ad8efd06d241071f3defe96a6a286b14730@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261120T020000Z
+DTEND:20261120T040000Z
+SUMMARY:The Art of Butoh
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/the-art-of-butoh/\nFrom Pushpin Ba
+ y Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/the-art-of-butoh/
+END:VEVENT
+BEGIN:VEVENT
+UID:afeecb4baf4844fdb1b55a5b03285871d0ac507a@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261120T020000Z
+DTEND:20261120T040000Z
+SUMMARY:Works on Paper Book Club: The Poetics of Space by Gaston Bachelard
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/works-on-paper-book-club-the-poeti
+ cs-of-space-by-gaston-bachelard/\nFrom Pushpin Bay Area: https://pushpin.c
+ ity/bayarea/
+URL:https://www.sfmoma.org/event/works-on-paper-book-club-the-poetics-of-sp
+ ace-by-gaston-bachelard/
+END:VEVENT
+BEGIN:VEVENT
+UID:ea6d0be834f9d3395fae4ac9d7a767478041ff2b@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261121T220000Z
+DTEND:20261122T000000Z
+SUMMARY:Baon: Stories and Struggles of Filipino Migrants
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/baon-stories-and-struggles-of-fili
+ pino-migrants/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/baon-stories-and-struggles-of-filipino-mig
+ rants/
+END:VEVENT
+BEGIN:VEVENT
+UID:0e33c18004682a64bcbffc21d5b78d384eb5e500@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261122T180000Z
+DTEND:20261122T200000Z
+SUMMARY:Krazy Kites with SCRAP
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Program\nhttps://www.sfmoma.org/event/krazy-kites-with-s
+ crap/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/krazy-kites-with-scrap/
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cb6665c6ef3886bb079f0b4547e5a6a4573251@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261122T220000Z
+DTEND:20261123T000000Z
+SUMMARY:Butoh Family Workshop with Judith Kajiwara
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Program\nhttps://www.sfmoma.org/event/butoh-family-works
+ hop-with-judith-kajiwara/\nFrom Pushpin Bay Area: https://pushpin.city/bay
+ area/
+URL:https://www.sfmoma.org/event/butoh-family-workshop-with-judith-kajiwara
+ /
+END:VEVENT
+END:VCALENDAR

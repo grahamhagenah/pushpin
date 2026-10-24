@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Harvard Art Museums
+X-WR-CALDESC:What’s coming up at Harvard Art Museums\, from Pushpin Bosto
+ n.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:e0d2fe4e405269974a6268fb444bb583828273c8@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T043000Z
+DTEND:20261027T063000Z
+SUMMARY:Gallery Talk: Activation of Moholy-Nagy’s Light Prop for an Elect
+ ric Stage
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join staff as they discuss and activate this experimental devic
+ e from 1930 by Bauhaus pioneer László Moholy-Nagy.\nhttps://harvardartmu
+ seums.org/calendar/gallery-talk-activation-of-moholy-nagy-s-light-prop-for
+ -an-electric-stage-45\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/gallery-talk-activation-of-mohol
+ y-nagy-s-light-prop-for-an-electric-stage-45
+END:VEVENT
+BEGIN:VEVENT
+UID:4aec931d15fe3c4a7b8c95687a21ea7ee1bd5d5c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T161500Z
+DTEND:20261029T181500Z
+SUMMARY:Midday Organ Recital: Luca Cantone
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Recitals are performed on Harvard’s famous 1958 D. A. Flentro
+ p organ\, at Adolphus Busch Hall.\nhttps://harvardartmuseums.org/calendar/
+ midday-organ-recital-luca-cantone\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://harvardartmuseums.org/calendar/midday-organ-recital-luca-canton
+ e
+END:VEVENT
+BEGIN:VEVENT
+UID:5a25431a47592b10b36d65e7d3acfe47b6d8dcde@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T163000Z
+DTEND:20261029T183000Z
+SUMMARY:Gallery Talk: Hauntology\, Death Discs\, and the Specter of Postwar
+  America
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Krystle Brown for a focused look at postwar photography th
+ rough the lens of suburban adolescence\, music\, and hauntology.\nhttps://
+ harvardartmuseums.org/calendar/gallery-talk-hauntology-death-discs-and-the
+ -specter-of-postwar-america\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://harvardartmuseums.org/calendar/gallery-talk-hauntology-death-di
+ scs-and-the-specter-of-postwar-america
+END:VEVENT
+BEGIN:VEVENT
+UID:8e44ba66531c409ac2f75d18e779db3fbffb65e5@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T220000Z
+DTEND:20261030T000000Z
+SUMMARY:Artist Talk: Sneha Shrestha
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Sneha Shrestha for a talk about migration\, belonging\, an
+ d her recent paintings\, sculptures\, murals\, and installations.\nhttps:/
+ /harvardartmuseums.org/calendar/artist-talk-sneha-shrestha\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/artist-talk-sneha-shrestha
+END:VEVENT
+BEGIN:VEVENT
+UID:d1425751cdc47e08e10681d880a3535ec4e0e3f3@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261104T173000Z
+DTEND:20261104T193000Z
+SUMMARY:Gallery Talk: Picturing Taste\, Style\, and Space in 1950s American
+  Suburbia
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join curatorial graduate student intern Destiny Crowley for a c
+ lose look at photographs in the exhibition The Way We Never Were.\nhttps:/
+ /harvardartmuseums.org/calendar/gallery-talk-picturing-taste-style-and-spa
+ ce-in-1950s-american-suburbia\nFrom Pushpin Boston: https://pushpin.city/b
+ oston/
+URL:https://harvardartmuseums.org/calendar/gallery-talk-picturing-taste-sty
+ le-and-space-in-1950s-american-suburbia
+END:VEVENT
+BEGIN:VEVENT
+UID:1e76a167ed44bc0533a2f9fe81a1f907457d5b24@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261104T230000Z
+DTEND:20261105T010000Z
+SUMMARY:Artist Talk: Enzo Camacho and Ami Lien
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Harvard alums and visual artists Enzo Camacho and Ami Lien shar
+ e insights and developments into their practice as artistic collaborators.
+ \nhttps://harvardartmuseums.org/calendar/artist-talk-enzo-camacho-and-ami-
+ lien\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/artist-talk-enzo-camacho-and-ami
+ -lien
+END:VEVENT
+BEGIN:VEVENT
+UID:1c1974a689a8f7d65584055a239b1f8414d334b6@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T171500Z
+DTEND:20261105T191500Z
+SUMMARY:Midday Organ Recital: Angela Kraft Cross
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Recitals are performed on Harvard’s famous 1958 D. A. Flentro
+ p organ\, at Adolphus Busch Hall.\nhttps://harvardartmuseums.org/calendar/
+ midday-organ-recital-angela-kraft-cross-5\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/midday-organ-recital-angela-kraf
+ t-cross-5
+END:VEVENT
+BEGIN:VEVENT
+UID:2f9ea60601e1b3bca994bcbaf869c47a49a54e53@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261106T190000Z
+DTEND:20261106T210000Z
+SUMMARY:First/Hand Fridays: Suit Up! Textiles in 20th-Century American Memo
+ ry
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Calling all Harvard students! Chat with a staff member about Am
+ erican textiles—as everyday objects\, works of art\, and carriers of mem
+ ory.\nhttps://harvardartmuseums.org/calendar/first-hand-fridays-suit-up-te
+ xtiles-in-20th-century-american-memory\nFrom Pushpin Boston: https://pushp
+ in.city/boston/
+URL:https://harvardartmuseums.org/calendar/first-hand-fridays-suit-up-texti
+ les-in-20th-century-american-memory
+END:VEVENT
+BEGIN:VEVENT
+UID:2b591d008cf7d30173a61c092759d8812fd57cb0@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261112T171500Z
+DTEND:20261112T191500Z
+SUMMARY:Midday Organ Recital: Aidan Yau
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Recitals are performed on Harvard’s famous 1958 D. A. Flentro
+ p organ\, at Adolphus Busch Hall.\nhttps://harvardartmuseums.org/calendar/
+ midday-organ-recital-aidan-yau\nFrom Pushpin Boston: https://pushpin.city/
+ boston/
+URL:https://harvardartmuseums.org/calendar/midday-organ-recital-aidan-yau
+END:VEVENT
+BEGIN:VEVENT
+UID:bfeb4bc22f7b9d7a22d535b6b8d413773d2ba6fc@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261113T160000Z
+DTEND:20261113T180000Z
+SUMMARY:Art Study Center Seminar: A Pre-Raphaelite Preview
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Miriam Stewart for a close-up look at a selection of works
+  that will be featured in a 2027 exhibition on Pre-Raphaelite art.\nhttps:
+ //harvardartmuseums.org/calendar/art-study-center-seminar-a-pre-raphaelite
+ -preview\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/art-study-center-seminar-a-pre-r
+ aphaelite-preview
+END:VEVENT
+BEGIN:VEVENT
+UID:7312c818d2bc7c2eb63f184f6986267923a52527@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261117T170000Z
+DTEND:20261117T190000Z
+SUMMARY:Art + Science: Inpainting Techniques
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:In this session\, paintings conservator Kate Smith will talk ab
+ out various philosophical approaches to restoring loss in paintings.\nhttp
+ s://harvardartmuseums.org/calendar/art-science-inpainting-techniques\nFrom
+  Pushpin Boston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/art-science-inpainting-technique
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:a05e16b830b03fe1e1ae86cddebc4c8297629b0f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261117T190000Z
+DTEND:20261117T210000Z
+SUMMARY:Pop-Up Renaissance Concert
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join us for a pop-up concert of Renaissance music performed by 
+ the student group Harvard Viol Consort.\nhttps://harvardartmuseums.org/cal
+ endar/pop-up-renaissance-concert-3\nFrom Pushpin Boston: https://pushpin.c
+ ity/boston/
+URL:https://harvardartmuseums.org/calendar/pop-up-renaissance-concert-3
+END:VEVENT
+BEGIN:VEVENT
+UID:5d323070fc046a41c26de80c727cda4212a48661@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261119T171500Z
+DTEND:20261119T191500Z
+SUMMARY:Midday Organ Recital: Louise Mundinger
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Recitals are performed on Harvard’s famous 1958 D. A. Flentro
+ p organ\, at Adolphus Busch Hall.\nhttps://harvardartmuseums.org/calendar/
+ midday-organ-recital-louise-mundinger-4\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://harvardartmuseums.org/calendar/midday-organ-recital-louise-mund
+ inger-4
+END:VEVENT
+BEGIN:VEVENT
+UID:ddabe4e5331fbe7303b1d2423f372b6394f847cb@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261119T173000Z
+DTEND:20261119T193000Z
+SUMMARY:Gallery Talk: On Location: Drawing the Outdoors
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Discover the materials 19th-century European artists used—bot
+ h in the studio and outdoors—to record and represent the landscapes arou
+ nd them.\nhttps://harvardartmuseums.org/calendar/gallery-talk-on-location-
+ drawing-the-outdoors-2\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://harvardartmuseums.org/calendar/gallery-talk-on-location-drawing
+ -the-outdoors-2
+END:VEVENT
+BEGIN:VEVENT
+UID:bae8678e8f06ab911006667bed53a8022e7123b1@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261122T173000Z
+DTEND:20261122T193000Z
+SUMMARY:New on View: Community and Self-Representation in the David and Jan
+ e Shapiro Collection
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Leah Yeshitila for a discussion of her installation featur
+ ing renowned Black artists of the later 20th century.\nhttps://harvardartm
+ useums.org/calendar/new-on-view-community-and-self-representation-in-the-d
+ avid-and-jane-shapiro-collection\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://harvardartmuseums.org/calendar/new-on-view-community-and-self-r
+ epresentation-in-the-david-and-jane-shapiro-collection
+END:VEVENT
+END:VCALENDAR

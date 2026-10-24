@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Bay Area//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Bay Area · YBCA
+X-WR-CALDESC:What’s coming up at YBCA\, from Pushpin Bay Area.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:d792b06e5b81478afdba4598abb9e644ba4e699e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T193000Z
+DTEND:20261024T213000Z
+SUMMARY:Murals & Monuments Tour
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:A walking tour through San Francisco’s Civic Center\, Mid-Mar
+ ket\, and SoMa\, exploring murals\, monuments\, and other forms of public 
+ art.\nhttps://ybca.org/event/murals-monuments-tour-10-24-26/\nFrom Pushpin
+  Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/murals-monuments-tour-10-24-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:d89c4c927357dd32ea884e943b8f603c24fe99a8@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T210000Z
+DTEND:20261024T230000Z
+SUMMARY:Silent Shorts Program
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:This program of silent shorts features three multi-hyphenate ar
+ tists-filmmakers-performers influential to GaHee Park’s work.\nhttps://y
+ bca.org/event/silent-shorts-program-through-an-open-window-film-series/\nF
+ rom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/silent-shorts-program-through-an-open-window-fil
+ m-series/
+END:VEVENT
+BEGIN:VEVENT
+UID:a053c4e2f851bf6c4279793f0eac8ba7c90787ef@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T210000Z
+DTEND:20261028T230000Z
+SUMMARY:Free Art Workshop: Pop-up Mini Haunted House
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Construct a pop-up mini haunted house in light of Halloween.\nh
+ ttps://ybca.org/event/free-art-workshop-pop-up-mini-haunted-house-10-28-26
+ /\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/free-art-workshop-pop-up-mini-haunted-house-10-2
+ 8-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:e281f702256c5e8f64635772594898820b409749@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261031T210000Z
+DTEND:20261031T230000Z
+SUMMARY:The Red Shoes
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:See “The Red Shoes” (1948) as part of a weekly film series 
+ exploring voyeurism and theatricality\, cocktail charm and social taboos.\
+ nhttps://ybca.org/event/the-red-shoes-through-an-open-window-film-series/\
+ nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/the-red-shoes-through-an-open-window-film-series
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:8a28cefdb9def57a96fdd357bf50b3775dc68ff4@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Gallery Tour & Sketching Activity: Dread Scott & Rael San Fratello
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Learn more about the exhibitions in this guided tour and sketch
+ ing activity.\nhttps://ybca.org/event/gallery-tour-sketching-activity-drea
+ d-scott-rael-san-fratello-11-4-26/\nFrom Pushpin Bay Area: https://pushpin
+ .city/bayarea/
+URL:https://ybca.org/event/gallery-tour-sketching-activity-dread-scott-rael
+ -san-fratello-11-4-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d5ee3aa147a7c2e10ebf0efd6f655a2996ccd79@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T030000Z
+DTEND:20261105T050000Z
+SUMMARY:Ryli
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Known for their melodic yet melancholic sound\, Ryli will provi
+ de a sonic juxtaposition to Gahee Park’s moody and introspective paintin
+ gs.\nhttps://ybca.org/event/ryli/\nFrom Pushpin Bay Area: https://pushpin.
+ city/bayarea/
+URL:https://ybca.org/event/ryli/
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3f48a53d5b568a2f39b31f5e56a05c79f6400c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261106T200000Z
+DTEND:20261106T220000Z
+SUMMARY:Jam Session with Creativity Explored
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Join us for an afternoon jam session featuring Creativity Explo
+ red artists and their handmade instruments.\nhttps://ybca.org/event/jam-se
+ ssion-with-creativity-explored-11-6-26/\nFrom Pushpin Bay Area: https://pu
+ shpin.city/bayarea/
+URL:https://ybca.org/event/jam-session-with-creativity-explored-11-6-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:4400c6c115c9551087f9209350d1d907ccc9f41e@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T220000Z
+DTEND:20261115T000000Z
+SUMMARY:West Indies: The Fugitive Slaves of Liberty
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Join us for an afternoon screening of Med Hondo’s “West Ind
+ ies: The Fugitive Slaves of Liberty” (1979).\nhttps://ybca.org/event/wes
+ t-indies-the-fugitive-slaves-of-liberty-world-of-black-film-revolutions-11
+ -14-26/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/west-indies-the-fugitive-slaves-of-liberty-world
+ -of-black-film-revolutions-11-14-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:48e0c4104995dbb938a34448e4975a8373621360@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261119T023000Z
+DTEND:20261119T043000Z
+SUMMARY:Progressive Art Studio Models: A Lecture By Cléa Massiani
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:A lecture on Progress Art Studios (PAS)\; radical spaces that s
+ upport artists with intellectual and developmental disabilities while disr
+ upting normative assumptions about art\, labor\, and value.\nhttps://ybca.
+ org/event/progressive-art-studio-models-a-lecture-by-clea-massiani/\nFrom 
+ Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/progressive-art-studio-models-a-lecture-by-clea-
+ massiani/
+END:VEVENT
+BEGIN:VEVENT
+UID:d8022723825ef645e92dc34d777f0fdee45a6e38@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261121T220000Z
+DTEND:20261122T000000Z
+SUMMARY:Touki Bouki
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Join us for an afternoon screening of Djibril Diop Mambety’s 
+ Touki Bouki (1973).\nhttps://ybca.org/event/touki-bouki-world-of-black-fil
+ m-revolutions-11-21-26/\nFrom Pushpin Bay Area: https://pushpin.city/bayar
+ ea/
+URL:https://ybca.org/event/touki-bouki-world-of-black-film-revolutions-11-2
+ 1-26/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,693 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · The Sinclair
+X-WR-CALDESC:What’s coming up at The Sinclair\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:315eabfc5e443d4154e12fc379914916c0b26c04@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261024T230000Z
+DTEND:20261025T010000Z
+SUMMARY:Lexi Jayde
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Ally Salort\nDoors 7pm · All Ages\nhttps://www.sinclairca
+ mbridge.com/events/detail/1584376\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1584376
+END:VEVENT
+BEGIN:VEVENT
+UID:f8c40d98e43604ef990734183dc084bd9204b769@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T020000Z
+DTEND:20261025T040000Z
+SUMMARY:fruitstand presents: goths vs jocks
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Doors 10pm · 21 & Over\nhttps://www.sinclaircambridge.com/even
+ ts/detail/1626536\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1626536
+END:VEVENT
+BEGIN:VEVENT
+UID:1fd9dbba3ee72cc0e35de82e6bdcb9adb432d163@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261025T230000Z
+DTEND:20261026T010000Z
+SUMMARY:ivri
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Ally Nicholas\nDoors 7pm · All Ages\nhttps://www.sinclair
+ cambridge.com/events/detail/1489860\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1489860
+END:VEVENT
+BEGIN:VEVENT
+UID:e8512373dbc77dee5c86d311dd99517b8291d470@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261026T230000Z
+DTEND:20261027T010000Z
+SUMMARY:Lilyisthatyou
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:The Flowers Have Feelings Tour · Doors 7pm · All Ages\nhttps:
+ //www.sinclaircambridge.com/events/detail/1415387\nFrom Pushpin Boston: ht
+ tps://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1415387
+END:VEVENT
+BEGIN:VEVENT
+UID:623b4c03c4516effabb545e6651f455f3a0471c4@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261027T233000Z
+DTEND:20261028T013000Z
+SUMMARY:Built to Spill
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Quasi\, Melanie Radford\nBuilt to Spill Fall 2026 Tour · 
+ Doors 7:30pm · All Ages\nhttps://www.sinclaircambridge.com/events/detail/
+ 1481018\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1481018
+END:VEVENT
+BEGIN:VEVENT
+UID:9eca69f63b9ff7aab4328d40c8eb4954c1ded1ce@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261028T233000Z
+DTEND:20261029T013000Z
+SUMMARY:Built to Spill
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Quasi\, Melanie Radford\nBuilt to Spill Fall 2026 Tour · 
+ Doors 7:30pm · All Ages\nhttps://www.sinclaircambridge.com/events/detail/
+ 1481027\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1481027
+END:VEVENT
+BEGIN:VEVENT
+UID:efe5d327d074be4e27bfba011820ac521031f759@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261029T233000Z
+DTEND:20261030T013000Z
+SUMMARY:Blake Whiten
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Slater Nalley\nDoors 7:30pm · All Ages\nhttps://www.sincl
+ aircambridge.com/events/detail/1425470\nFrom Pushpin Boston: https://pushp
+ in.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1425470
+END:VEVENT
+BEGIN:VEVENT
+UID:d9e3c222daceaaa0f0081c443766162f5859c521@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261030T230000Z
+DTEND:20261031T010000Z
+SUMMARY:The Hails
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Poise\nDuckpond Tour · Doors 7pm · All Ages\nhttps://www
+ .sinclaircambridge.com/events/detail/1496402\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1496402
+END:VEVENT
+BEGIN:VEVENT
+UID:bf5ba9edae23b064b3e7a8f2e015ce6c6d97c762@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261031T013000Z
+DTEND:20261031T033000Z
+SUMMARY:The Glitter Boys
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:52 Church · Doors 9:30pm · 21 & Over\nhttps://www.sinclaircam
+ bridge.com/events/detail/1508789\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1508789
+END:VEVENT
+BEGIN:VEVENT
+UID:2c782b72be501ea1f88f8ec9ace26ac669261041@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261101T010000Z
+DTEND:20261101T030000Z
+SUMMARY:DIVALAND OF THE DEAD!!!
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:A Divalicious Undead Dance Party and Drag Show · Doors 9pm · 
+ 18 & Over\nhttps://www.sinclaircambridge.com/events/detail/1629549\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1629549
+END:VEVENT
+BEGIN:VEVENT
+UID:264bd21106b5bbd141232aefd549e0239a1d98dc@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261101T013000Z
+DTEND:20261101T033000Z
+SUMMARY:Spin the Bottle
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Doors 9:30pm · 21 & Over\nhttps://www.sinclaircambridge.com/ev
+ ents/detail/1644913\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1644913
+END:VEVENT
+BEGIN:VEVENT
+UID:1db7dee218a79549aab8a0e69b20cca51764ade6@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261102T000000Z
+DTEND:20261102T020000Z
+SUMMARY:The Gringos
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Grand View Point\nDoors 7pm · All Ages\nhttps://www.sincl
+ aircambridge.com/events/detail/1541569\nFrom Pushpin Boston: https://pushp
+ in.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1541569
+END:VEVENT
+BEGIN:VEVENT
+UID:5f2439c80307bf8fd7de8a3c69b1040b49c50e30@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261103T000000Z
+DTEND:20261103T020000Z
+SUMMARY:Madra Salach
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Doors 7pm · All Ages\nhttps://www.sinclaircambridge.com/events
+ /detail/1580764\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1580764
+END:VEVENT
+BEGIN:VEVENT
+UID:0da1709f7785095be6b12a04166f510125d9c7c4@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261104T000000Z
+DTEND:20261104T020000Z
+SUMMARY:half•alive
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Julianna Zachariou\nBillions Tour · Doors 7pm · All Ages
+ \nhttps://www.sinclaircambridge.com/events/detail/1589203\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1589203
+END:VEVENT
+BEGIN:VEVENT
+UID:1b867f3035c4d0e79303e49a09a30f9ddf888c37@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:half•alive
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Julianna Zachariou\nBillions Tour · Doors 7pm · All Ages
+ \nhttps://www.sinclaircambridge.com/events/detail/1590241\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1590241
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb4db0de8ff56d6128ff3e8ffc870d172921b5b@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T003000Z
+DTEND:20261107T023000Z
+SUMMARY:ADULT. & A Place To Bury Strangers
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Lane\nDoors 7:30pm · All Ages\nhttps://www.sinclaircambri
+ dge.com/events/detail/1450875\nFrom Pushpin Boston: https://pushpin.city/b
+ oston/
+URL:https://www.sinclaircambridge.com/events/detail/1450875
+END:VEVENT
+BEGIN:VEVENT
+UID:bb18573eabe9306cf6391e17d585e7f69ccfb179@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T023000Z
+DTEND:20261107T043000Z
+SUMMARY:The Glitter Boys
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:52 Church · Doors 9:30pm · 21 & Over\nhttps://www.sinclaircam
+ bridge.com/events/detail/1508796\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1508796
+END:VEVENT
+BEGIN:VEVENT
+UID:41faa57238d1f1f8809b97803a1557090c4421cb@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T170000Z
+DTEND:20261107T190000Z
+SUMMARY:KOO KOO
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Doors 12pm · All Ages\nhttps://www.sinclaircambridge.com/event
+ s/detail/1528339\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1528339
+END:VEVENT
+BEGIN:VEVENT
+UID:d96205c74cc812b9fd3079edae6850787c54a100@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261107T230000Z
+DTEND:20261108T010000Z
+SUMMARY:Earlybirds Club
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Doors 6pm · 21 & Over\nhttps://www.sinclaircambridge.com/event
+ s/detail/1559592\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1559592
+END:VEVENT
+BEGIN:VEVENT
+UID:534384c98ebaaa79bbb7ebc0addbf8c16169c0bd@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261108T020000Z
+DTEND:20261108T040000Z
+SUMMARY:1 year of hyperlinked: a girl edm + hyperpop party
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Doors 9pm · 21 & Over\nhttps://www.sinclaircambridge.com/event
+ s/detail/1669624\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1669624
+END:VEVENT
+BEGIN:VEVENT
+UID:bfa746bfef120e1aa8b173b04486cce89240610c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261109T000000Z
+DTEND:20261109T020000Z
+SUMMARY:Boston Manor
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Ben Quad\, Spaced\nDoors 7pm · All Ages\nhttps://www.sinc
+ laircambridge.com/events/detail/1462632\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1462632
+END:VEVENT
+BEGIN:VEVENT
+UID:6c4aa26cde102eafcc0916162a763d0dd0fc068c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261110T000000Z
+DTEND:20261110T020000Z
+SUMMARY:Hiss Golden Messenger
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Sam Amidon\nI'm People Tour · Doors 7pm · All Ages\nhttp
+ s://www.sinclaircambridge.com/events/detail/1329972\nFrom Pushpin Boston: 
+ https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1329972
+END:VEVENT
+BEGIN:VEVENT
+UID:9b12b3dee475ab89b48e5e806cd61ff6c67a1452@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261111T000000Z
+DTEND:20261111T020000Z
+SUMMARY:the olllam
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Roni Kaspi\nDoors 7pm · All Ages\nhttps://www.sinclaircam
+ bridge.com/events/detail/1547298\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1547298
+END:VEVENT
+BEGIN:VEVENT
+UID:27d5e5eb7a772d8680f769cd2b716c181200e285@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261112T000000Z
+DTEND:20261112T020000Z
+SUMMARY:The Bad Plus
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Farewell Tour · Doors 7pm · All Ages\nhttps://www.sinclaircam
+ bridge.com/events/detail/1510070\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1510070
+END:VEVENT
+BEGIN:VEVENT
+UID:baacb7d8f4d92dd3244ba13bb488276e5526d302@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+SUMMARY:Sleep
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Zombi\, The Schizophonics\nNorth America 2026 · Doors 7pm
+  · All Ages\nhttps://www.sinclaircambridge.com/events/detail/1494309\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1494309
+END:VEVENT
+BEGIN:VEVENT
+UID:cc728b42b70304577649113e3586e2b6d0c98945@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T000000Z
+DTEND:20261114T020000Z
+SUMMARY:Donny Benét
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with OTNES\nDoors 7pm · All Ages\nhttps://www.sinclaircambridg
+ e.com/events/detail/1402619\nFrom Pushpin Boston: https://pushpin.city/bos
+ ton/
+URL:https://www.sinclaircambridge.com/events/detail/1402619
+END:VEVENT
+BEGIN:VEVENT
+UID:cb7aa6e86eaa212fdad29fc416f6c2acc3b7a58b@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261114T023000Z
+DTEND:20261114T043000Z
+SUMMARY:The Glitter Boys
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:52 Church · Doors 9:30pm · 21 & Over\nhttps://www.sinclaircam
+ bridge.com/events/detail/1508797\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1508797
+END:VEVENT
+BEGIN:VEVENT
+UID:756a2146762cab472ee1d999a6a8cb7f035c8ac7@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:Carbon Leaf
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Doors 7pm · All Ages\nhttps://www.sinclaircambridge.com/events
+ /detail/1484005\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1484005
+END:VEVENT
+BEGIN:VEVENT
+UID:5ac5a4cef366d07b47caa639f9cadd9c96dab59c@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261115T030000Z
+DTEND:20261115T050000Z
+SUMMARY:fruitstand’s 3rd birthday: fruit
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Doors 10pm · 21 & Over\nhttps://www.sinclaircambridge.com/even
+ ts/detail/1660240\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1660240
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe838a02b24e65e9d85ef7e16a379af5777b35f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261115T200000Z
+DTEND:20261115T220000Z
+SUMMARY:TRISH 4- EVA
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:A Celebration of Trish Donaldson · Doors 3pm · All Ages\nhttp
+ s://www.sinclaircambridge.com/events/detail/1642377\nFrom Pushpin Boston: 
+ https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1642377
+END:VEVENT
+BEGIN:VEVENT
+UID:a97b68a5bcb14c0c1463b9f831f5aa35686ece10@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261116T000000Z
+DTEND:20261116T020000Z
+SUMMARY:Freak Slug
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Mila Degray\, Lucky\nDoors 7pm · All Ages\nhttps://www.si
+ nclaircambridge.com/events/detail/1510656\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1510656
+END:VEVENT
+BEGIN:VEVENT
+UID:9bc5d00feb39ac79640c2b1715f085e785d1cc40@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261117T000000Z
+DTEND:20261117T020000Z
+SUMMARY:The War And Treaty
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Blank Page\, Jordan Babbs\nDoors 7pm · All Ages\nhttps://
+ www.sinclaircambridge.com/events/detail/1485565\nFrom Pushpin Boston: http
+ s://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1485565
+END:VEVENT
+BEGIN:VEVENT
+UID:3d12b45838d6130ce37ed4bba3dc334d4c71c94d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+SUMMARY:caroline
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Threshold\nDoors 7pm · All Ages\nhttps://www.sinclaircamb
+ ridge.com/events/detail/1438381\nFrom Pushpin Boston: https://pushpin.city
+ /boston/
+URL:https://www.sinclaircambridge.com/events/detail/1438381
+END:VEVENT
+BEGIN:VEVENT
+UID:f93e96366c3bf94b7777605fa2101bf25736ff07@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:Sadurn
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Kitchen\, hemlock\nDoors 7pm · All Ages\nhttps://www.sinc
+ laircambridge.com/events/detail/1557025\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1557025
+END:VEVENT
+BEGIN:VEVENT
+UID:f9009fe3a216b5b398e65dd13707a4836a65f4f6@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:AJ Lee & Blue Summit
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with The Cody Sisters\nDoors 7pm · All Ages\nhttps://www.sincl
+ aircambridge.com/events/detail/1477891\nFrom Pushpin Boston: https://pushp
+ in.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1477891
+END:VEVENT
+BEGIN:VEVENT
+UID:29739687eec1978b0e72acfe4e7166f967dc7fc4@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261120T230000Z
+DTEND:20261121T010000Z
+SUMMARY:UNMUTED - a benefit concert
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Illiterate Light\, with Twice-A-Day Ray opening\nDoors 6pm
+  · 21 & Over\nhttps://www.sinclaircambridge.com/events/detail/1622815\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1622815
+END:VEVENT
+BEGIN:VEVENT
+UID:9f78d2e98540e2030bb4bb23d911c903d5fbf9dc@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261121T023000Z
+DTEND:20261121T043000Z
+SUMMARY:The Glitter Boys
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:52 Church · Doors 9:30pm · 21 & Over\nhttps://www.sinclaircam
+ bridge.com/events/detail/1509042\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1509042
+END:VEVENT
+BEGIN:VEVENT
+UID:2b23e75745da3ba43bb392bad61c75ac1e231e37@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261121T230000Z
+DTEND:20261122T010000Z
+SUMMARY:Earlybirds Club
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Doors 6pm · 21 & Over\nhttps://www.sinclaircambridge.com/event
+ s/detail/1616235\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1616235
+END:VEVENT
+BEGIN:VEVENT
+UID:8f0ef2d51dd45a045ce4bb6ae820fd4aeaaf3482@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261122T233000Z
+DTEND:20261123T013000Z
+SUMMARY:Sweet Pill
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Heart to Gold\, Stereosity\nDoors 6:30pm · All Ages\nhttp
+ s://www.sinclaircambridge.com/events/detail/1455623\nFrom Pushpin Boston: 
+ https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1455623
+END:VEVENT
+BEGIN:VEVENT
+UID:4b22a5118aa453d2ae6c9e27bda3f935d017e780@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261125T000000Z
+DTEND:20261125T020000Z
+SUMMARY:Father Of Peace
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:The Year Of Madness & The Mystery Century Tour · Doors 7pm · 
+ All Ages\nhttps://www.sinclaircambridge.com/events/detail/1493829\nFrom Pu
+ shpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1493829
+END:VEVENT
+BEGIN:VEVENT
+UID:1ebd81d7b02eb171f225ec8f6ddab997fa609d70@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261128T023000Z
+DTEND:20261128T043000Z
+SUMMARY:The Glitter Boys
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:52 Church · Doors 9:30pm · 21 & Over\nhttps://www.sinclaircam
+ bridge.com/events/detail/1509043\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1509043
+END:VEVENT
+BEGIN:VEVENT
+UID:d88b73284167ea83c1affba3746d8d559b687837@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:A Band Of Brothers - All-Star Tribute to the Allman Brothers Band
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Doors 7pm · 18 & Over\nhttps://www.sinclaircambridge.com/event
+ s/detail/1588129\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1588129
+END:VEVENT
+BEGIN:VEVENT
+UID:04476d7035338b26e3534e9f542e766769a80d1d@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261201T000000Z
+DTEND:20261201T020000Z
+SUMMARY:Temples
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with GIFT\nThe BLISS Tour · Doors 7pm · All Ages\nhttps://www
+ .sinclaircambridge.com/events/detail/1405650\nFrom Pushpin Boston: https:/
+ /pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1405650
+END:VEVENT
+BEGIN:VEVENT
+UID:16e46a8652c540c8ff9d497196555966acbd51d9@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:Venna
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with khal!l\nDoors 7pm · All Ages\nhttps://www.sinclaircambrid
+ ge.com/events/detail/1547296\nFrom Pushpin Boston: https://pushpin.city/bo
+ ston/
+URL:https://www.sinclaircambridge.com/events/detail/1547296
+END:VEVENT
+BEGIN:VEVENT
+UID:921ce14f02ad5e12173a060d302d9d084ede92c3@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:We Are Scientists
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Sean McVerry\n20th anniversary of “With Love and Squalor
+ ” · Doors 7pm · All Ages\nhttps://www.sinclaircambridge.com/events/det
+ ail/1490274\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1490274
+END:VEVENT
+BEGIN:VEVENT
+UID:7350dab2939862cd33ca0b8397220d792a0f9ef9@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Kyle Gordon
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Doors 7pm · All Ages\nhttps://www.sinclaircambridge.com/events
+ /detail/1460704\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1460704
+END:VEVENT
+BEGIN:VEVENT
+UID:edd03c4f56f53b7f38ca646f98362abb82a20695@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:Karina Rykman
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with Rigometrics\nLATE CHECKOUT TOUR 2026 · Doors 7pm · All A
+ ges\nhttps://www.sinclaircambridge.com/events/detail/1490173\nFrom Pushpin
+  Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1490173
+END:VEVENT
+BEGIN:VEVENT
+UID:c4fb553fa3856504dee67ef7a5f92429f3e590f4@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261205T023000Z
+DTEND:20261205T043000Z
+SUMMARY:The Glitter Boys
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:52 Church · Doors 9:30pm · 21 & Over\nhttps://www.sinclaircam
+ bridge.com/events/detail/1509208\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1509208
+END:VEVENT
+BEGIN:VEVENT
+UID:99d405101662c51ee767c61b264b8ac4b18a4e07@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261206T230000Z
+DTEND:20261207T010000Z
+SUMMARY:Static Dress
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with I Promised The World\, Septemberistheonlytimeidontthinkofy
+ ou\, Car Underwater\nINJURY EPISODE USA TOUR · Doors 6pm · All Ages\nhtt
+ ps://www.sinclaircambridge.com/events/detail/1559261\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1559261
+END:VEVENT
+BEGIN:VEVENT
+UID:5c024ec2418ec589dc4bab6cd06b1a1ff9438356@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:bleood
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:KILL YOUR IDOLS TOUR · Doors 7pm · All Ages\nhttps://www.sinc
+ laircambridge.com/events/detail/1570701\nFrom Pushpin Boston: https://push
+ pin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1570701
+END:VEVENT
+BEGIN:VEVENT
+UID:ebc9054f85956d6b998b01f62affa26d40d3bea6@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:Taper's Choice
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Doors 7pm · 18 & Over\nhttps://www.sinclaircambridge.com/event
+ s/detail/1613827\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1613827
+END:VEVENT
+BEGIN:VEVENT
+UID:daec1f9a2f1ef63a54c23f8bf9556b36c06a12f6@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261212T023000Z
+DTEND:20261212T043000Z
+SUMMARY:The Glitter Boys
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:52 Church · Doors 9:30pm · 21 & Over\nhttps://www.sinclaircam
+ bridge.com/events/detail/1509209\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1509209
+END:VEVENT
+BEGIN:VEVENT
+UID:a07d72f60a1b42a3372bd13618d84eb3c205381f@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261212T230000Z
+DTEND:20261213T010000Z
+SUMMARY:Earlybirds Club - 80s Night
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Doors 6pm · 21 & Over\nhttps://www.sinclaircambridge.com/event
+ s/detail/1645194\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1645194
+END:VEVENT
+BEGIN:VEVENT
+UID:35a5ebba67166b51e33fd538020a4915ce32da10@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Michael Smoak
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:The Purpose Progression: Understanding Your “Why” · Doors 
+ 7pm · 18 & Over\nhttps://www.sinclaircambridge.com/events/detail/1475881\
+ nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1475881
+END:VEVENT
+BEGIN:VEVENT
+UID:0e3874e7114996e52ae1e142aa27ea08194f8f01@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261218T000000Z
+DTEND:20261218T020000Z
+SUMMARY:Amtrac
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Doors 7pm · 18 & Over\nhttps://www.sinclaircambridge.com/event
+ s/detail/1562195\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1562195
+END:VEVENT
+BEGIN:VEVENT
+UID:e7fe9ca290fd9b0c010f9dedbc4b942bb5868bdb@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261219T000000Z
+DTEND:20261219T020000Z
+SUMMARY:Weird Phishes
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:with The Rupert Selection\nDoors 7pm · 18 & Over\nhttps://www.
+ sinclaircambridge.com/events/detail/1502899\nFrom Pushpin Boston: https://
+ pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1502899
+END:VEVENT
+BEGIN:VEVENT
+UID:4a139ba6b8a2ade88d99f6bf2dfdb220b532ac49@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261219T023000Z
+DTEND:20261219T043000Z
+SUMMARY:The Glitter Boys
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:52 Church · Doors 9:30pm · 21 & Over\nhttps://www.sinclaircam
+ bridge.com/events/detail/1509260\nFrom Pushpin Boston: https://pushpin.cit
+ y/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1509260
+END:VEVENT
+BEGIN:VEVENT
+UID:30eef7b559270e5c12073ed03fc93a60103ee51b@pushpin.city
+DTSTAMP:20261024T221536Z
+DTSTART:20261220T000000Z
+DTEND:20261220T020000Z
+SUMMARY:Start Making Sense: Talking Heads Tribute
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:Doors 7pm · 18 & Over\nhttps://www.sinclaircambridge.com/event
+ s/detail/1606814\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.sinclaircambridge.com/events/detail/1606814
+END:VEVENT
+END:VCALENDAR
