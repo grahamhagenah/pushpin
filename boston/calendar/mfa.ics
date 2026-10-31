@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · MFA
+X-WR-CALDESC:What’s coming up at MFA\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:772be157fb02c3c1b77bcfa0f7418220f76d57aa@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261101T150000Z
+DTEND:20261101T170000Z
+SUMMARY:Diwali
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/diwali?event=108356\nFr
+ om Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/diwali?event=108356
+END:VEVENT
+BEGIN:VEVENT
+UID:3408b5afeb1736bd729b3a0385068913378a9727@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261104T180000Z
+DTEND:20261104T200000Z
+SUMMARY:Revere and Rodallega: Silversmiths of the Americas
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/revere-and-rodallega-silversm
+ iths-of-the-americas?event=178401\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://www.mfa.org/event/lecture/revere-and-rodallega-silversmiths-of-
+ the-americas?event=178401
+END:VEVENT
+BEGIN:VEVENT
+UID:15e6bab21c98896b69476ec9e8b2a2e4d5f71c46@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261105T223000Z
+DTEND:20261106T003000Z
+SUMMARY:Ask a Conservator
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/ask-a-conservator?event
+ =182296\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/ask-a-conservator?event=182296
+END:VEVENT
+BEGIN:VEVENT
+UID:d9743ac660dc97297430a197b4105c1f74e24131@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261106T160000Z
+DTEND:20261106T180000Z
+SUMMARY:Ask a Conservator
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:Times: 11am\, 1:30pm\, 3pm\nhttps://www.mfa.org/event/special-e
+ vent/ask-a-conservator?event=181996\nFrom Pushpin Boston: https://pushpin.
+ city/boston/
+URL:https://www.mfa.org/event/special-event/ask-a-conservator?event=181996
+END:VEVENT
+BEGIN:VEVENT
+UID:2c3e0ddee7bbb90a6c2d3164cc32114d99cb8d7f@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261107T010000Z
+DTEND:20261107T030000Z
+SUMMARY:Late Nites
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/late-nites-november-202
+ 6?event=113676\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/late-nites-november-2026?event=
+ 113676
+END:VEVENT
+BEGIN:VEVENT
+UID:49b6969632a5bc389a997c1085aa76c8ca13c436@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261108T180000Z
+DTEND:20261108T200000Z
+SUMMARY:The First Lady
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/the-first-lady?event=179206\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/film/the-first-lady?event=179206
+END:VEVENT
+BEGIN:VEVENT
+UID:cf977d02eaf3db2768deea4f057f8607cf35c88e@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261111T180000Z
+DTEND:20261111T200000Z
+SUMMARY:Wampanoag Art at the MFA
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/wampanoag-art-at-the-mfa?even
+ t=178411\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/lecture/wampanoag-art-at-the-mfa?event=178411
+END:VEVENT
+BEGIN:VEVENT
+UID:c82c37c96e41aeeec448a60fda6347bc28db8c35@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+SUMMARY:Suzanne Jackson in Conversation with Imani Perry
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/deborah-and-martin-hale-visiting-arti
+ st-lecture/suzanne-jackson-in-conversation-with-imani?event=179141\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/deborah-and-martin-hale-visiting-artist-lectu
+ re/suzanne-jackson-in-conversation-with-imani?event=179141
+END:VEVENT
+BEGIN:VEVENT
+UID:38d2cd287f23fcf5e5906354cba799c2717713f9@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261114T000000Z
+DTEND:20261114T020000Z
+SUMMARY:Artful Evenings
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/artful-evenings?event=1
+ 57576\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/artful-evenings?event=157576
+END:VEVENT
+BEGIN:VEVENT
+UID:12d226db04b0114bc67e00ab75c8218fedce9000@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261114T003000Z
+DTEND:20261114T023000Z
+SUMMARY:Night of Blindness (Kör Gece)
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/night-of-blindness-kor-gece?even
+ t=181696\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/film/night-of-blindness-kor-gece?event=181696
+END:VEVENT
+BEGIN:VEVENT
+UID:d703561713c0ff0eee65765628a817d081bf5c14@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261114T150000Z
+DTEND:20261114T170000Z
+SUMMARY:Artisan Market
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/artisan-market?event=15
+ 4301\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/artisan-market?event=154301
+END:VEVENT
+BEGIN:VEVENT
+UID:22c76a1fa7ff22bc72a477df0fd16fd9f895dc12@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+SUMMARY:On the Dry Rock (Kuru Taşın Başı)
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/on-the-dry-rock-kuru-tasin-basi?
+ event=181706\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/film/on-the-dry-rock-kuru-tasin-basi?event=18
+ 1706
+END:VEVENT
+BEGIN:VEVENT
+UID:8ac9e56d5e1362add7bf0d5f314f1ff0a13c42e3@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261115T190000Z
+DTEND:20261115T210000Z
+SUMMARY:Yellow Letters (Gelbe Briefe)
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/yellow-letters-gelbe-briefe?even
+ t=181716\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/film/yellow-letters-gelbe-briefe?event=181716
+END:VEVENT
+BEGIN:VEVENT
+UID:ac34660251a083dada00aeb66608c74593e45bc6@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261118T180000Z
+DTEND:20261118T200000Z
+SUMMARY:The United States and Haiti: When History (and Revolutions) Binds U
+ s
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/the-united-states-and-haiti-w
+ hen-history-and-revolutions-binds-us?event=178421\nFrom Pushpin Boston: ht
+ tps://pushpin.city/boston/
+URL:https://www.mfa.org/event/lecture/the-united-states-and-haiti-when-hist
+ ory-and-revolutions-binds-us?event=178421
+END:VEVENT
+BEGIN:VEVENT
+UID:e065fae67c6d914badf533745018b0430e7a73d4@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261119T220000Z
+DTEND:20261120T000000Z
+SUMMARY:$5 Third Thursday
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/5-third-thursday-novemb
+ er-2026?event=182336\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/special-event/5-third-thursday-november-2026?
+ event=182336
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d907d759b3c52eb0dec9634f36cc983fe0cc9a@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261119T220000Z
+DTEND:20261120T000000Z
+SUMMARY:HERitage emBODYment: ‘Mavericks’ Performance and Talk
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/heritage-embodyment-mav
+ ericks-performance-and-talk?event=182311\nFrom Pushpin Boston: https://pus
+ hpin.city/boston/
+URL:https://www.mfa.org/event/special-event/heritage-embodyment-mavericks-p
+ erformance-and-talk?event=182311
+END:VEVENT
+BEGIN:VEVENT
+UID:c889d1c9d0bfa30d5bf3c870e8c1ca2da9124f3c@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+SUMMARY:Tim Hall Experience
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:Times: 6pm\, 7:15pm\nhttps://www.mfa.org/event/sound-bites-nanc
+ y-lee-clark-concert-series/tim-hall-experience?event=181351\nFrom Pushpin 
+ Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/sound-bites-nancy-lee-clark-concert-series/ti
+ m-hall-experience?event=181351
+END:VEVENT
+BEGIN:VEVENT
+UID:33dd6bd8305b7f0be0f0cc258273634ef3978e69@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261120T230000Z
+DTEND:20261121T010000Z
+SUMMARY:HERitage emBODYment Presents ‘Mavericks’
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/heritage-embodyment-pre
+ sents-mavericks?event=182326\nFrom Pushpin Boston: https://pushpin.city/bo
+ ston/
+URL:https://www.mfa.org/event/special-event/heritage-embodyment-presents-ma
+ vericks?event=182326
+END:VEVENT
+BEGIN:VEVENT
+UID:4c7e1bbe8040a5863c4346431db1a9a99eb6912b@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261121T000000Z
+DTEND:20261121T020000Z
+SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a 
+ Fragmentary Passage
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/castration-movie-chapter-iii-jun
+ ior-ghosts-premorphic-drift-a-fragmentary-passage?event=181726\nFrom Pushp
+ in Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/film/castration-movie-chapter-iii-junior-ghos
+ ts-premorphic-drift-a-fragmentary-passage?event=181726
+END:VEVENT
+BEGIN:VEVENT
+UID:19291b931d8dfb710fd31bde935c6bd3b2782078@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:In a Whisper (À voix basse)
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/in-a-whisper-a-voix-basse?event=
+ 181736\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/film/in-a-whisper-a-voix-basse?event=181736
+END:VEVENT
+BEGIN:VEVENT
+UID:f2e81d231378680c965953309eb2a8f4b269503f@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261122T180000Z
+DTEND:20261122T200000Z
+SUMMARY:Mickey & Richard
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/mickey-richard?event=181746\nFro
+ m Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/film/mickey-richard?event=181746
+END:VEVENT
+BEGIN:VEVENT
+UID:f41291821cdcc1a21c0a3b354615cc0d08083c11@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:The Art of the Greek Laouto
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/music/the-art-of-the-greek-laouto?eve
+ nt=179121\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/music/the-art-of-the-greek-laouto?event=17912
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:530120b1b7fc8393d317f3ee2866f03d772aac76@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:Millennium Gospel Choir
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/music/millennium-gospel-choir?event=1
+ 81591\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/music/millennium-gospel-choir?event=181591
+END:VEVENT
+BEGIN:VEVENT
+UID:7cba1daf134c708fc72ab4751c7bf46d57af1905@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:Millennium Gospel Choir
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/music/millennium-gospel-choir?event=1
+ 81596\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/music/millennium-gospel-choir?event=181596
+END:VEVENT
+BEGIN:VEVENT
+UID:ed68637fb89b96eec435ab55ce1c235088d0f0e5@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:Millennium Gospel Choir
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/music/millennium-gospel-choir?event=1
+ 81601\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/music/millennium-gospel-choir?event=181601
+END:VEVENT
+BEGIN:VEVENT
+UID:fab12025e8d79eaa8645a0c58fc14c4e670ca4de@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261219T190000Z
+DTEND:20261219T210000Z
+SUMMARY:Millennium Gospel Choir
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/music/millennium-gospel-choir?event=1
+ 81606\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.mfa.org/event/music/millennium-gospel-choir?event=181606
+END:VEVENT
+END:VCALENDAR

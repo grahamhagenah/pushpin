@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Mahaiwe
+X-WR-CALDESC:What’s coming up at Mahaiwe\, from Pushpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:986d41debc0222255719ca42ee7459c5e5eba9f9@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:La Pena Máxima 2
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:Únase a la productora de cine María Isabel Pâramo y al actor
+  Biassini Segura para una sesión de preguntas y respuestas en vivo despu
+ és de la proyección de su película\, La Pena Máxima 2.\nhttps://mahaiw
+ e.org/event/la-pena-maxima-2/\nFrom Pushpin Western Mass: https://pushpin.
+ city/westernma/
+URL:https://mahaiwe.org/event/la-pena-maxima-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ecd7b360993f4fd6010f3cf0fd26d9bac64365f2@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261101T210000Z
+DTEND:20261101T230000Z
+SUMMARY:Close Encounters With Music: Saluting the Clarinet – Mozart\, Bee
+ thoven\, Bartok and Gershwin
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$35 Balcony / $60 Orchestra (plus processing fees)\nhttps://mah
+ aiwe.org/event/close-encounters-with-music-saluting-the-clarinet-mozart-be
+ ethoven-bartok-and-gershwin/\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://mahaiwe.org/event/close-encounters-with-music-saluting-the-clar
+ inet-mozart-beethoven-bartok-and-gershwin/
+END:VEVENT
+BEGIN:VEVENT
+UID:dd3fe312f57ca141cd72280ac484dd81e7cc10aa@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261107T000000Z
+DTEND:20261107T020000Z
+SUMMARY:London’s National Theatre in HD: Les Liaisons Dangereuses
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:TICKETS–\nhttps://mahaiwe.org/event/londons-national-theatre-
+ in-hd-les-liaisons-dangereuses/\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://mahaiwe.org/event/londons-national-theatre-in-hd-les-liaisons-d
+ angereuses/
+END:VEVENT
+BEGIN:VEVENT
+UID:54093b97a6cb2b2163fb09567d5b1616b19c36c9@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+SUMMARY:Cowboy Junkies - Celebrating 40 Years and Beyond
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$40 to $65 (plus processing fees)\nhttps://mahaiwe.org/event/co
+ wboy-junkies-celebrating-40-years-and-beyond/\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/cowboy-junkies-celebrating-40-years-and-beyon
+ d/
+END:VEVENT
+BEGIN:VEVENT
+UID:fab57fda0091271bf35f19624ad66ea5f32f470a@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261121T223000Z
+DTEND:20261122T003000Z
+SUMMARY:Sean Mason Trio
+LOCATION:Mahaiwe\, 20 Castle Street\, Great Barrington\, MA
+DESCRIPTION:Times: 5:30pm\, 8:30pm\nIndigo Room\n$49 General Admission (plu
+ s processing fees)\nhttps://mahaiwe.org/event/sean-mason-trio/2026-11-21/1
+ /\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/sean-mason-trio/2026-11-21/1/
+END:VEVENT
+BEGIN:VEVENT
+UID:1b6b5ee63b998dd3013bb788d9e92d156f788d5e@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261122T210000Z
+DTEND:20261122T230000Z
+SUMMARY:Shire Stories with Sheela Clary
+LOCATION:Mahaiwe\, 20 Castle Street\, Great Barrington\, MA
+DESCRIPTION:Indigo Room\n$20 General Admission (plus processing fees)\nhttp
+ s://mahaiwe.org/event/shire-stories-with-sheela-clary/\nFrom Pushpin Weste
+ rn Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/shire-stories-with-sheela-clary/
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d9266581eca1dab9fd4c10b658b413caed50f0@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:The Wizard of Oz (1939)
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$8 / $5 ages 12 and under (plus processing fees)\nhttps://mahai
+ we.org/event/the-wizard-of-oz-1939-4/\nFrom Pushpin Western Mass: https://
+ pushpin.city/westernma/
+URL:https://mahaiwe.org/event/the-wizard-of-oz-1939-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:910255d30eb19da67b014e232863f514251effd3@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:Richard Marx
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$49 – $99 (plus processing fees)\nhttps://mahaiwe.org/event/r
+ ichard-marx/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/richard-marx/
+END:VEVENT
+BEGIN:VEVENT
+UID:a90c1ad6c4beb9c24cfef4f94b46f953e6383f8c@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Chris Thile and Aoife O’Donovan - Wassail! An Evening of Carols a
+ nd Merriment
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$65 – $99 (plus processing fees)\nhttps://mahaiwe.org/event/c
+ hris-thile-and-aoife-odonovan-wassail-an-evening-of-carols-and-merriment/\
+ nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/chris-thile-and-aoife-odonovan-wassail-an-eve
+ ning-of-carols-and-merriment/
+END:VEVENT
+BEGIN:VEVENT
+UID:62b14c91960b7e8eafc5388c062db1174a46d561@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261213T210000Z
+DTEND:20261213T230000Z
+SUMMARY:Close Encounters With Music: Come to the Cabaret! Paris and Weimar 
+ Berlin
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$35 Balcony / $60 Orchestra (plus processing fees)\nhttps://mah
+ aiwe.org/event/close-encounters-with-music-come-to-the-cabaret-paris-and-w
+ eimar-berlin/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/close-encounters-with-music-come-to-the-cabar
+ et-paris-and-weimar-berlin/
+END:VEVENT
+BEGIN:VEVENT
+UID:94ac01be0ffee46e17b1511fa8b610841cf4dfd8@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261220T010000Z
+DTEND:20261220T030000Z
+SUMMARY:John Pizzarelli Trio with Jessica Molaskey – The Glory of Love: M
+ arried to Jazz
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$55 – $95 (plus processing fees)\nhttps://mahaiwe.org/event/j
+ ohn-pizzarelli-trio-with-jessica-molaskey-the-glory-of-love-married-to-jaz
+ z/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/john-pizzarelli-trio-with-jessica-molaskey-th
+ e-glory-of-love-married-to-jazz/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Bay Area//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Bay Area · Oakland Museum
+X-WR-CALDESC:What’s coming up at Oakland Museum\, from Pushpin Bay Area.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:79a016f99986bd3dfd5b76d61e568b524c26f646@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261101T210000Z
+DTEND:20261101T230000Z
+SUMMARY:OMCA Architecture Walk and Talk
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Walk through OMCA’s landmark building and gardens with member
+ s of the Council on Architecture\, and learn about the history\, design\, 
+ and evolution of this award-winning structure with guides who are passiona
+ te about OMCA and Oakland.\nhttps://museumca.org/event/omca-architecture-w
+ alk-and-talk-6/2026-11-01/\nFrom Pushpin Bay Area: https://pushpin.city/ba
+ yarea/
+URL:https://museumca.org/event/omca-architecture-walk-and-talk-6/2026-11-01
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab1db52766926d9f19dc7da567ba273340837f9@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261107T210000Z
+DTEND:20261107T230000Z
+SUMMARY:Special Guest Gallery Chat: Exploring BeHere / 1942 with Margaret Y
+ ee
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Special Guest Gallery Chat: Exploring BeHere / 1942 with Margar
+ et Yee Join us in our latest special exhibition\, BeHere / 1942: A New Len
+ s on the Japanese American Incarceration\, for a special walkthrough with 
+ museum educator and Gallery Chats facilitator Margaret Yee.\nhttps://museu
+ mca.org/event/special-guest-gallery-chat-exploring-behere-1942-with-margar
+ et-yee/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/special-guest-gallery-chat-exploring-behere-
+ 1942-with-margaret-yee/
+END:VEVENT
+BEGIN:VEVENT
+UID:cbf7f96d59bffb64736bccb3f9f80fe720d44f75@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Closing of Fairyland @ 75: A Legacy of Magic
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Closing of Fairyland @ 75: A Legacy of Magic With just a few we
+ eks left to experience it\, OMCA welcomes you to explore Fairyland’s ric
+ h history and impact on Oakland’s cultural landscape with Fairyland @ 75
+ : A Legacy of Magic.\nhttps://museumca.org/event/closing-of-fairyland-75-a
+ -legacy-of-magic/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/closing-of-fairyland-75-a-legacy-of-magic/
+END:VEVENT
+BEGIN:VEVENT
+UID:a4bfdb2c1ef1947f7d83bc4754502817abbc2c00@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Member Bonus Reciprocity Week at Asian Art Museum
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Join us for a celebratory partnership between the Oakland Museu
+ m of California and the Asian Art Museum (AAM) with this bonus reciprocity
+  weekend!\nhttps://museumca.org/event/member-bonus-reciprocity-week-at-asi
+ an-art-museum/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/member-bonus-reciprocity-week-at-asian-art-m
+ useum/
+END:VEVENT
+BEGIN:VEVENT
+UID:c4c655debceb59b2b8ac0d787b1649780fcc0dbb@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261115T210000Z
+DTEND:20261115T230000Z
+SUMMARY:Spotlight Sundays: Japanese American Legacies of Resistance
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Your browser does not support the video tag.\nhttps://museumca.
+ org/event/spotlight-sundays-japanese-american-legacies-of-resistance/\nFro
+ m Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/spotlight-sundays-japanese-american-legacies
+ -of-resistance/
+END:VEVENT
+END:VCALENDAR

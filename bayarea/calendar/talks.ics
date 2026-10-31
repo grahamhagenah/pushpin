@@ -1,0 +1,548 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Bay Area//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Bay Area · Art & talks
+X-WR-CALDESC:Art & talks around San Francisco\, Oakland and Berkeley\, from
+  Pushpin Bay Area.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:400644937ba40895e99e90b19a83213aa2521783@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:Performance / Entanglement: Steffani Jemison and Leslie Cuyjet on M
+ aren Hassinger and Senga Nengudi
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Tickets required. Gallery admission included with ticket purcha
+ se.\nhttps://bampfa.org/event/steffani-jemison-and-leslie-cuyjet\nFrom Pus
+ hpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/steffani-jemison-and-leslie-cuyjet
+END:VEVENT
+BEGIN:VEVENT
+UID:79a016f99986bd3dfd5b76d61e568b524c26f646@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261101T210000Z
+DTEND:20261101T230000Z
+SUMMARY:OMCA Architecture Walk and Talk
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Walk through OMCA’s landmark building and gardens with member
+ s of the Council on Architecture\, and learn about the history\, design\, 
+ and evolution of this award-winning structure with guides who are passiona
+ te about OMCA and Oakland.\nhttps://museumca.org/event/omca-architecture-w
+ alk-and-talk-6/2026-11-01/\nFrom Pushpin Bay Area: https://pushpin.city/ba
+ yarea/
+URL:https://museumca.org/event/omca-architecture-walk-and-talk-6/2026-11-01
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:1a23aa412a2154de2c3274a56937bb7433a44bda@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261101T220000Z
+DTEND:20261102T000000Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:ae22f5222db4ff038871d4ceb64264a1b5711181@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261104T201500Z
+DTEND:20261104T221500Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:9b0e7c47be17bc64d4355dfafa018502d3e9590f@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261104T220000Z
+DTEND:20261105T000000Z
+SUMMARY:Free Art Workshop: Clay Tile Textures
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Learn how to carve marks and textures on clay tiles.\nhttps://y
+ bca.org/event/free-art-workshop-clay-tile-textures-11-4-26/\nFrom Pushpin 
+ Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/free-art-workshop-clay-tile-textures-11-4-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:8a28cefdb9def57a96fdd357bf50b3775dc68ff4@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Gallery Tour & Sketching Activity: Dread Scott & Rael San Fratello
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Learn more about the exhibitions in this guided tour and sketch
+ ing activity.\nhttps://ybca.org/event/gallery-tour-sketching-activity-drea
+ d-scott-rael-san-fratello-11-4-26/\nFrom Pushpin Bay Area: https://pushpin
+ .city/bayarea/
+URL:https://ybca.org/event/gallery-tour-sketching-activity-dread-scott-rael
+ -san-fratello-11-4-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d5ee3aa147a7c2e10ebf0efd6f655a2996ccd79@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261105T030000Z
+DTEND:20261105T050000Z
+SUMMARY:Ryli
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Known for their melodic yet melancholic sound\, Ryli will provi
+ de a sonic juxtaposition to Gahee Park’s moody and introspective paintin
+ gs.\nhttps://ybca.org/event/ryli/\nFrom Pushpin Bay Area: https://pushpin.
+ city/bayarea/
+URL:https://ybca.org/event/ryli/
+END:VEVENT
+BEGIN:VEVENT
+UID:07edc91b313e42e737e5dcf7b9d0b7c4a7e54752@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261105T211500Z
+DTEND:20261105T231500Z
+SUMMARY:Curator’s Tour / Anthony Graham on Maren Hassinger: Living Moving
+  Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Senior Curator Anthony Graham offers a tour of Maren Hassinger:
+  Living Moving Growing which he co-curated with Chief Curator Margot Norto
+ n. Author of the lead exhibition catalogue essay\, Graham will explore the
+  evolution of Hassinger's practice through her material experiments in scu
+ lpture\, her long-standing engagement with movement and performance\, and 
+ her work with the moving image.\nhttps://bampfa.org/event/curators-tour-an
+ thony-graham-maren-hassinger\nFrom Pushpin Bay Area: https://pushpin.city/
+ bayarea/
+URL:https://bampfa.org/event/curators-tour-anthony-graham-maren-hassinger
+END:VEVENT
+BEGIN:VEVENT
+UID:95bf511441b3141f1fc597b11f2eaa2f19338398@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261105T211500Z
+DTEND:20261105T231500Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:ecccde23a75e29da3630d79cd46bcbfd0482b535@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261105T230000Z
+DTEND:20261106T010000Z
+SUMMARY:Wrenching News Workshops
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/wrenching-ne
+ ws-workshops\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/wrenching-news-workshops
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3f48a53d5b568a2f39b31f5e56a05c79f6400c@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261106T200000Z
+DTEND:20261106T220000Z
+SUMMARY:Jam Session with Creativity Explored
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Join us for an afternoon jam session featuring Creativity Explo
+ red artists and their handmade instruments.\nhttps://ybca.org/event/jam-se
+ ssion-with-creativity-explored-11-6-26/\nFrom Pushpin Bay Area: https://pu
+ shpin.city/bayarea/
+URL:https://ybca.org/event/jam-session-with-creativity-explored-11-6-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:2f5e6c6054b855226d328f0a1b0eb7ce568867cf@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261107T190000Z
+DTEND:20261107T210000Z
+SUMMARY:Make a Kite with Jacob Hashimoto
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/make-a-kite-with-jacob-hashimoto/\
+ nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/make-a-kite-with-jacob-hashimoto/
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab1db52766926d9f19dc7da567ba273340837f9@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261107T210000Z
+DTEND:20261107T230000Z
+SUMMARY:Special Guest Gallery Chat: Exploring BeHere / 1942 with Margaret Y
+ ee
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Special Guest Gallery Chat: Exploring BeHere / 1942 with Margar
+ et Yee Join us in our latest special exhibition\, BeHere / 1942: A New Len
+ s on the Japanese American Incarceration\, for a special walkthrough with 
+ museum educator and Gallery Chats facilitator Margaret Yee.\nhttps://museu
+ mca.org/event/special-guest-gallery-chat-exploring-behere-1942-with-margar
+ et-yee/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/special-guest-gallery-chat-exploring-behere-
+ 1942-with-margaret-yee/
+END:VEVENT
+BEGIN:VEVENT
+UID:cbf7f96d59bffb64736bccb3f9f80fe720d44f75@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Closing of Fairyland @ 75: A Legacy of Magic
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Closing of Fairyland @ 75: A Legacy of Magic With just a few we
+ eks left to experience it\, OMCA welcomes you to explore Fairyland’s ric
+ h history and impact on Oakland’s cultural landscape with Fairyland @ 75
+ : A Legacy of Magic.\nhttps://museumca.org/event/closing-of-fairyland-75-a
+ -legacy-of-magic/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/closing-of-fairyland-75-a-legacy-of-magic/
+END:VEVENT
+BEGIN:VEVENT
+UID:fbb32ea454d5b2e3b3f633cfe2bbcf8fa374a057@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261108T180000Z
+DTEND:20261108T200000Z
+SUMMARY:Family Studio: Lines That Move
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Sundays\nhttps://www.sfmoma.org/event/family-studio-line
+ s-that-move-11-8/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/family-studio-lines-that-move-11-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:f10322c3d5245037efda116178e1510072ceee9e@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261108T210000Z
+DTEND:20261108T230000Z
+SUMMARY:Mapping Utopias
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Space is limited\; RSVP required.\nhttps://bampfa.org/event/map
+ ping-utopias\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/mapping-utopias
+END:VEVENT
+BEGIN:VEVENT
+UID:69469c6e6f804c0648f1897ed841d83d8165edaf@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261108T210000Z
+DTEND:20261108T230000Z
+SUMMARY:Parol-Making Workshop with SOMA Pilipinas
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/parol-making-workshop-with-soma-pi
+ lipinas/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/parol-making-workshop-with-soma-pilipinas/
+END:VEVENT
+BEGIN:VEVENT
+UID:9725587c7ed6c47a7e1bb47eae640adb99ddf79c@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261108T220000Z
+DTEND:20261109T000000Z
+SUMMARY:Exhibition Tour: Some Particular Heaven: Ideas of Utopia in the BAM
+ PFA Collection
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-some-particular-heaven\nFrom Pushpin Bay Area: https://pushpin.city/ba
+ yarea/
+URL:https://bampfa.org/event/exhibition-tour-some-particular-heaven
+END:VEVENT
+BEGIN:VEVENT
+UID:3d8e67be7cf82e92292fc03354784c23b00854d1@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261108T220000Z
+DTEND:20261109T000000Z
+SUMMARY:William Kentridge
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Artist Talk\nhttps://www.sfmoma.org/event/artist-talk-william-k
+ entridge/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/artist-talk-william-kentridge/
+END:VEVENT
+BEGIN:VEVENT
+UID:f6bf4dfa10c5231454dba3f7e00cd32c091b972b@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261111T201500Z
+DTEND:20261111T221500Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:a4bfdb2c1ef1947f7d83bc4754502817abbc2c00@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Member Bonus Reciprocity Week at Asian Art Museum
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Join us for a celebratory partnership between the Oakland Museu
+ m of California and the Asian Art Museum (AAM) with this bonus reciprocity
+  weekend!\nhttps://museumca.org/event/member-bonus-reciprocity-week-at-asi
+ an-art-museum/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/member-bonus-reciprocity-week-at-asian-art-m
+ useum/
+END:VEVENT
+BEGIN:VEVENT
+UID:13bbc6c3e6c5ac0e313224eb60a58045826d1bec@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+SUMMARY:Hansik Cooking Class Inspired by Little Forest
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/hansik-cooking-class-inspired-by-l
+ ittle-forest/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/hansik-cooking-class-inspired-by-little-fo
+ rest/
+END:VEVENT
+BEGIN:VEVENT
+UID:a2eccaa5da1f60141716dc6914dd07efc7e5b2c8@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261114T210000Z
+DTEND:20261114T230000Z
+SUMMARY:Artists’ Conversation: Emory Douglas and William Rhodes
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Tickets required. Gallery admission included with ticket purcha
+ se.\nhttps://bampfa.org/event/artists-conversation-emory-douglas-and-willi
+ am-rhodes\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/artists-conversation-emory-douglas-and-william
+ -rhodes
+END:VEVENT
+BEGIN:VEVENT
+UID:71ecc8d240658f7ed4ebc2d8743aec5622754893@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261115T190000Z
+DTEND:20261115T210000Z
+SUMMARY:The Doctor Is In: Kids’ Answers to Your Art Problems with the Jea
+ lous Curator
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Program\nhttps://www.sfmoma.org/event/the-doctor-is-in-k
+ ids-answers-to-your-art-problems-with-the-jealous-curator/\nFrom Pushpin B
+ ay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/the-doctor-is-in-kids-answers-to-your-art-
+ problems-with-the-jealous-curator/
+END:VEVENT
+BEGIN:VEVENT
+UID:05796c0511e0478aee0cbc2742ba98ecefd7c540@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261115T210000Z
+DTEND:20261115T230000Z
+SUMMARY:Real Artists Wear Black with the Jealous Curator
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Artist Talk\nhttps://www.sfmoma.org/event/real-artists-wear-bla
+ ck-with-the-jealous-curator/\nFrom Pushpin Bay Area: https://pushpin.city/
+ bayarea/
+URL:https://www.sfmoma.org/event/real-artists-wear-black-with-the-jealous-c
+ urator/
+END:VEVENT
+BEGIN:VEVENT
+UID:c4c655debceb59b2b8ac0d787b1649780fcc0dbb@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261115T210000Z
+DTEND:20261115T230000Z
+SUMMARY:Spotlight Sundays: Japanese American Legacies of Resistance
+LOCATION:Oakland Museum\, 1000 Oak St\, Oakland\, CA 94607
+DESCRIPTION:Your browser does not support the video tag.\nhttps://museumca.
+ org/event/spotlight-sundays-japanese-american-legacies-of-resistance/\nFro
+ m Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://museumca.org/event/spotlight-sundays-japanese-american-legacies
+ -of-resistance/
+END:VEVENT
+BEGIN:VEVENT
+UID:86fa8c0e1b85021a6c3f86e3c5b3c064fb8a519c@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261115T220000Z
+DTEND:20261116T000000Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:446591db0bd31aadf3a881511b122c591f8ca921@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261116T000000Z
+DTEND:20261116T020000Z
+SUMMARY:Art in the Age of AI: A Conversation Between Holly Herndon\, Mat Dr
+ yhurst\, and Hans Ulrich Obrist
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/art-in-the-age-of-ai-a-conversatio
+ n-between-holly-herndon-mat-dryhurst-and-hans-ulrich-obrist/\nFrom Pushpin
+  Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/art-in-the-age-of-ai-a-conversation-betwee
+ n-holly-herndon-mat-dryhurst-and-hans-ulrich-obrist/
+END:VEVENT
+BEGIN:VEVENT
+UID:b5a6e0471752989e62665acf0b6edad1961b68ed@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261116T003000Z
+DTEND:20261116T023000Z
+SUMMARY:Communal Land Care with TERREMOTO and Test Plot
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Landscape architecture design studio TERREMOTO and nonprofit Te
+ st Plot discuss their approach to radical communal land care that cultivat
+ es beauty and biodiversity\, and explore the belief that ecological and cl
+ imate crises require a repairing of kinship with our lands and a return to
+  the commons and to care.\nhttps://bampfa.org/event/communal-land-care-ter
+ remoto-and-test-plot\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/communal-land-care-terremoto-and-test-plot
+END:VEVENT
+BEGIN:VEVENT
+UID:5b1e15526edfa912cb5a653d90cb9c48efa6c0be@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261118T201500Z
+DTEND:20261118T221500Z
+SUMMARY:Exhibition Tour: Some Particular Heaven: Ideas of Utopia in the BAM
+ PFA Collection
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-some-particular-heaven\nFrom Pushpin Bay Area: https://pushpin.city/ba
+ yarea/
+URL:https://bampfa.org/event/exhibition-tour-some-particular-heaven
+END:VEVENT
+BEGIN:VEVENT
+UID:5df37b9313c94c6350450954ea72324411d17259@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261118T220000Z
+DTEND:20261119T000000Z
+SUMMARY:Free Art Workshop: Velveteen Rabbit Pop-up Book
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:Design an imaginative pop-up book featuring characters from the
+  story of “The Velveteen Rabbit.”\nhttps://ybca.org/event/free-art-wor
+ kshop-velveteen-rabbit-pop-up-book-11-18-26/\nFrom Pushpin Bay Area: https
+ ://pushpin.city/bayarea/
+URL:https://ybca.org/event/free-art-workshop-velveteen-rabbit-pop-up-book-1
+ 1-18-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:48e0c4104995dbb938a34448e4975a8373621360@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261119T023000Z
+DTEND:20261119T043000Z
+SUMMARY:Progressive Art Studio Models: A Lecture By Cléa Massiani
+LOCATION:YBCA\, 701 Mission St\, San Francisco\, CA 94103
+DESCRIPTION:A lecture on Progress Art Studios (PAS)\; radical spaces that s
+ upport artists with intellectual and developmental disabilities while disr
+ upting normative assumptions about art\, labor\, and value.\nhttps://ybca.
+ org/event/progressive-art-studio-models-a-lecture-by-clea-massiani/\nFrom 
+ Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://ybca.org/event/progressive-art-studio-models-a-lecture-by-clea-
+ massiani/
+END:VEVENT
+BEGIN:VEVENT
+UID:bcea5ad8efd06d241071f3defe96a6a286b14730@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261120T020000Z
+DTEND:20261120T040000Z
+SUMMARY:The Art of Butoh
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/the-art-of-butoh/\nFrom Pushpin Ba
+ y Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/the-art-of-butoh/
+END:VEVENT
+BEGIN:VEVENT
+UID:afeecb4baf4844fdb1b55a5b03285871d0ac507a@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261120T020000Z
+DTEND:20261120T040000Z
+SUMMARY:Works on Paper Book Club: The Poetics of Space by Gaston Bachelard
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:https://www.sfmoma.org/event/works-on-paper-book-club-the-poeti
+ cs-of-space-by-gaston-bachelard/\nFrom Pushpin Bay Area: https://pushpin.c
+ ity/bayarea/
+URL:https://www.sfmoma.org/event/works-on-paper-book-club-the-poetics-of-sp
+ ace-by-gaston-bachelard/
+END:VEVENT
+BEGIN:VEVENT
+UID:67994dad933e8a241f7f1bfe712e7287ec98516e@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261121T033000Z
+DTEND:20261121T053000Z
+SUMMARY:CineSpin: He Who Gets Slapped
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Free admission. Tickets available at the admissions desk beginn
+ ing at 6:30 PM.\nhttps://bampfa.org/event/cinespin\nFrom Pushpin Bay Area:
+  https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/cinespin
+END:VEVENT
+BEGIN:VEVENT
+UID:e883466cd872aa57f80c662c44ca7fe56fabfa6b@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261121T210000Z
+DTEND:20261121T230000Z
+SUMMARY:Panel on Hassinger’s Moving Image Work: Leigh Raiford and Zana Sa
+ nders in Conversation with Robyn Farrell and Kristin Juarez
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Tickets required. Gallery admission included with ticket purcha
+ se.\nhttps://bampfa.org/event/panel-hassinger-moving-image-panel\nFrom Pus
+ hpin Bay Area: https://pushpin.city/bayarea/
+URL:https://bampfa.org/event/panel-hassinger-moving-image-panel
+END:VEVENT
+BEGIN:VEVENT
+UID:0e33c18004682a64bcbffc21d5b78d384eb5e500@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261122T180000Z
+DTEND:20261122T200000Z
+SUMMARY:Krazy Kites with SCRAP
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Program\nhttps://www.sfmoma.org/event/krazy-kites-with-s
+ crap/\nFrom Pushpin Bay Area: https://pushpin.city/bayarea/
+URL:https://www.sfmoma.org/event/krazy-kites-with-scrap/
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cb6665c6ef3886bb079f0b4547e5a6a4573251@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261122T220000Z
+DTEND:20261123T000000Z
+SUMMARY:Butoh Family Workshop with Judith Kajiwara
+LOCATION:SFMOMA\, 151 Third St\, San Francisco\, CA 94103
+DESCRIPTION:Family Program\nhttps://www.sfmoma.org/event/butoh-family-works
+ hop-with-judith-kajiwara/\nFrom Pushpin Bay Area: https://pushpin.city/bay
+ area/
+URL:https://www.sfmoma.org/event/butoh-family-workshop-with-judith-kajiwara
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:c19b15ba1c8278ae6db7425410c7fe46a5a47785@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261122T220000Z
+DTEND:20261123T000000Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:f2f191e6a65de32e4edf9e3fcb6aae8c75fcbb36@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261125T201500Z
+DTEND:20261125T221500Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+BEGIN:VEVENT
+UID:f5f58f7bcddb801b51a05a907e0c508c8806d116@pushpin.city
+DTSTAMP:20261031T193113Z
+DTSTART:20261129T220000Z
+DTEND:20261130T000000Z
+SUMMARY:Exhibition Tour: Maren Hassinger: Living Moving Growing
+LOCATION:BAMPFA\, 2155 Center St\, Berkeley\, CA 94704
+DESCRIPTION:Included with admission.\nhttps://bampfa.org/event/exhibition-t
+ our-maren-hassinger-living-moving-growing\nFrom Pushpin Bay Area: https://
+ pushpin.city/bayarea/
+URL:https://bampfa.org/event/exhibition-tour-maren-hassinger-living-moving-
+ growing
+END:VEVENT
+END:VCALENDAR
