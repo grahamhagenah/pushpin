@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · The Middle East
+X-WR-CALDESC:What’s coming up at The Middle East\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:9fd4fd9d876d05d47ba28794fbb3f729b3b5ea30@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261107T220000Z
+DTEND:20261108T000000Z
+SUMMARY:Taha Gazipour
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/taha-gazipour-middle-east-corne
+ rbakery-tickets/14323594?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/taha-gazipour-middle-east-cornerbakery-
+ tickets/14323594?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:b463a2f481b0c68b35a1cf0a7062c4b378e312c5@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261107T230000Z
+DTEND:20261108T010000Z
+SUMMARY:Lorena Ometto\, Simona Kara\, Jane Kristiansen
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/lorena-ometto-simona-kara-jane-
+ middle-east-upstairs-tickets/14407404?pl=mideastclub&REFID=clientsitewp\nF
+ rom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/lorena-ometto-simona-kara-jane-middle-e
+ ast-upstairs-tickets/14407404?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:639dfd111436200bfbf200a9c9cb94a5464cd6a5@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261108T020000Z
+DTEND:20261108T040000Z
+SUMMARY:GLOBAL ENTRY
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/global-entry-middle-east-corner
+ bakery-tickets/14031914?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bo
+ ston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/global-entry-middle-east-cornerbakery-t
+ ickets/14031914?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:bb7bec46e092ab4079cbaa3960b6e5ff665e3166@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261108T020000Z
+DTEND:20261108T040000Z
+SUMMARY:Love In The Club
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/love-in-the-club-middle-east-do
+ wnstairs-tickets/15045083?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin 
+ Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/love-in-the-club-middle-east-downstairs
+ -tickets/15045083?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:ed40b415d49835af9d93d5962d182e568d990f71@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261108T030000Z
+DTEND:20261108T050000Z
+SUMMARY:Disco Fatale
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/disco-fatale-middle-east-zuzu-t
+ ickets/15045453?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: ht
+ tps://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/disco-fatale-middle-east-zuzu-tickets/1
+ 5045453?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:714da7278b3f0fcd6768430ce2c65a8c6dad97a8@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261108T220000Z
+DTEND:20261109T000000Z
+SUMMARY:Jazz Dinner w/ Armand & Nina
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/jazz-dinner-w-armand-middle-eas
+ t-cornerbakery-tickets/14345504?pl=mideastclub&REFID=clientsitewp\nFrom Pu
+ shpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/jazz-dinner-w-armand-middle-east-corner
+ bakery-tickets/14345504?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:5f205149045841a1c7608e1d97c5f1b5fe28b7e3@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261108T233000Z
+DTEND:20261109T013000Z
+SUMMARY:Surely Tempo\, Dogs with Hats
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/surely-tempo-dogs-with-hats-son
+ ia-tickets/14274084?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston
+ : https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/surely-tempo-dogs-with-hats-sonia-ticke
+ ts/14274084?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:69f0b9edebc0ea565107a227820c6b66a0010c08@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261109T000000Z
+DTEND:20261109T020000Z
+SUMMARY:The Frontground\, Violet Green\, Main St
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-frontground-violet-green-ma
+ in-middle-east-upstairs-tickets/14407334?pl=mideastclub&REFID=clientsitewp
+ \nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/the-frontground-violet-green-main-middl
+ e-east-upstairs-tickets/14407334?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:4aca9d45d8a23460aa8ff64a41f80315babdcee6@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261109T020000Z
+DTEND:20261109T040000Z
+SUMMARY:Housewerk
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/housewerk-middle-east-zuzu-tick
+ ets/14407204?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: https
+ ://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/housewerk-middle-east-zuzu-tickets/1440
+ 7204?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:93ecc6555cba8639955e5510992abf006b5abc8e@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261110T233000Z
+DTEND:20261111T013000Z
+SUMMARY:Ho99o9 & N8NOFACE – Sincerely___ The Void
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/ho99o9-n8noface-middle-east-dow
+ nstairs-tickets/14241884?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin B
+ oston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/ho99o9-n8noface-middle-east-downstairs-
+ tickets/14241884?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:371bc5c635ac726849a529f1e2159730fcaeae17@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261111T000000Z
+DTEND:20261111T020000Z
+SUMMARY:Exosphere\, Cain\, Project Flora\, The Spiral Continuum\, Nine Circ
+ les
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/exosphere-cain-project-flora-th
+ e-middle-east-upstairs-tickets/14400974?pl=mideastclub&REFID=clientsitewp\
+ nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/exosphere-cain-project-flora-the-middle
+ -east-upstairs-tickets/14400974?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:c112b658c86712fa577012e132ed4c1a8520b8d0@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261111T000000Z
+DTEND:20261111T020000Z
+SUMMARY:Giles Corey\,  Kathryn Mohr\, Val Acton Loper
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/giles-corey-kathryn-mohr-sonia-
+ tickets/15017583?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: h
+ ttps://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/giles-corey-kathryn-mohr-sonia-tickets/
+ 15017583?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:91f88692673e28b64194518a3510966ec01c76e8@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261111T020000Z
+DTEND:20261111T040000Z
+SUMMARY:Bunny Rave w/ Rabbit Crimes & Mere Notilde
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/bunny-rave-w-rabbit-crimes-midd
+ le-east-zuzu-tickets/14269554?pl=mideastclub&REFID=clientsitewp\nFrom Push
+ pin Boston: https://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/bunny-rave-w-rabbit-crimes-middle-east-
+ zuzu-tickets/14269554?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:9d60a65140827eb4d95e15cd5f8adf3950b958a4@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261111T023000Z
+DTEND:20261111T043000Z
+SUMMARY:Mood
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-t
+ ickets/14031554?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: ht
+ tps://pushpin.city/boston/
+URL:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-tickets/1
+ 4031554?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

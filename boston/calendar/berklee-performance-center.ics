@@ -1,0 +1,237 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Berklee Performance Center
+X-WR-CALDESC:What’s coming up at Berklee Performance Center\, from Pushpi
+ n Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:c883c0d5ee34475b23197191e863dcadb999e520@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261110T010000Z
+DTEND:20261110T030000Z
+SUMMARY:Jazz Composers Alliance Orchestra in Concert
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:The Jazz Composers Alliance Orchestra presents the music of fac
+ ulty members Bob Pilkington\, Dave Harris\, Mimi Rabson\, and Darrell Katz
+  in concert.\nhttps://www.berklee.edu/BPC/events/jazz-composers-alliance-o
+ rchestra-in-concert-2\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.berklee.edu/BPC/events/jazz-composers-alliance-orchestra-in
+ -concert-2
+END:VEVENT
+BEGIN:VEVENT
+UID:6b9b9115940ab6468e7f75d798f2588697f27a62@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+SUMMARY:Emperor's New Clothes
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:The Emperor's New Clothes is a musical adaptation for family au
+ diences based on the classic tale\, written by Berklee Theater Arts Collab
+ orative Artistic Director Rene Pfister\, and featuring the Theater for You
+ ng Audiences Ensemble.\nhttps://www.berklee.edu/BPC/events/emperors-new-cl
+ othes\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.berklee.edu/BPC/events/emperors-new-clothes
+END:VEVENT
+BEGIN:VEVENT
+UID:d86dd558210306665f7502ab3b75eafeb41cf423@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261115T003000Z
+DTEND:20261115T023000Z
+SUMMARY:The Canadian Arabic Orchestra: Nightingale
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:Nightingale celebrates the romance\, nostalgia\, and timeless b
+ eauty of Arabic music’s golden era.\nhttps://www.berklee.edu/BPC/events/
+ the-canadian-arabic-orchestra-the-nightingale\nFrom Pushpin Boston: https:
+ //pushpin.city/boston/
+URL:https://www.berklee.edu/BPC/events/the-canadian-arabic-orchestra-the-ni
+ ghtingale
+END:VEVENT
+BEGIN:VEVENT
+UID:15b01a36a06dc8cfb994771dd2c37f28153cdc33@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261118T010000Z
+DTEND:20261118T030000Z
+SUMMARY:Singers Night: Journey—Don't Stop Believin'
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:Each semester\, 250 talented Berklee College of Music vocal stu
+ dents audition for a coveted spot in Singers Night\, one of the Voice Depa
+ rtment’s most prestigious showcases. This semester\, they present the mu
+ sic of Journey.\nhttps://www.berklee.edu/BPC/events/singers-night-journey-
+ dont-stop-believin\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.berklee.edu/BPC/events/singers-night-journey-dont-stop-beli
+ evin
+END:VEVENT
+BEGIN:VEVENT
+UID:75776f0219ca42b230e0f3ec8839665c0add17de@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261120T010000Z
+DTEND:20261120T030000Z
+SUMMARY:A Celebration of Hip-Hop: Berklee Hip-Hop Hall of Fame Inducts Big 
+ Daddy Kane
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:Join the Berklee community for A Celebration of Hip-Hop\, an ex
+ traordinary evening presented by the Berklee Africana Studies Division\, b
+ ringing together legendary pioneers and the next generation of musical inn
+ ovators.\nhttps://www.berklee.edu/BPC/events/a-celebration-of-hip-hop-berk
+ lee-hip-hop-hall-of-fame-induction-featuring-the-induction-of-big-daddy-ka
+ ne\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.berklee.edu/BPC/events/a-celebration-of-hip-hop-berklee-hip
+ -hop-hall-of-fame-induction-featuring-the-induction-of-big-daddy-kane
+END:VEVENT
+BEGIN:VEVENT
+UID:dcbebb67d2087586cb1af2d8e3e26173ac223832@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261121T010000Z
+DTEND:20261121T030000Z
+SUMMARY:Pooh: La Nostra Storia North America Tour 2026
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:Experience the legendary Italian pop-rock band Pooh live for th
+ e final time in North America as they celebrate 60 years of iconic music i
+ n a once-in-a-lifetime farewell.\nhttps://www.berklee.edu/BPC/events/pooh-
+ la-nostra-storia-north-america-tour-2026\nFrom Pushpin Boston: https://pus
+ hpin.city/boston/
+URL:https://www.berklee.edu/BPC/events/pooh-la-nostra-storia-north-america-
+ tour-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:cc8b5ed757c70d1f619a8c8c9360718de499c161@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:Coltrane 100: Both Directions at Once
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:2026 marks the centennial of John Coltrane's birth. Coltrane 10
+ 0 brings together saxophonists Joe Lovano and Melissa Aldana\, pianist Leo
+  Genovese\, bassist Linda May Han Oh\, and drummer Jeff "Tain" Watts for a
+  collective tribute to Coltrane's enduring influence.\nhttps://www.berklee
+ .edu/BPC/events/coltrane-100-both-directions-at-once\nFrom Pushpin Boston:
+  https://pushpin.city/boston/
+URL:https://www.berklee.edu/BPC/events/coltrane-100-both-directions-at-once
+END:VEVENT
+BEGIN:VEVENT
+UID:fe34d9a6b6817cdf077357283e610bf570bdcfb2@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:Singers Showcase: Forever Whitney Houston
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:Berklee’s Singers Showcase presents Forever Whitney Houston\,
+  a celebration of the artistry\, performance\, and legacy of one of the gr
+ eatest singers of all time\, featuring a global student cast.\nhttps://www
+ .berklee.edu/BPC/events/singers-showcase-forever-whitney-houston\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://www.berklee.edu/BPC/events/singers-showcase-forever-whitney-hou
+ ston
+END:VEVENT
+BEGIN:VEVENT
+UID:97577cb23c547fb28893295a79af0cfdfbde83ee@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:Singers Showcase: Forever Whitney Houston
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:Berklee’s Singers Showcase presents Forever Whitney Houston\,
+  a celebration of the artistry\, performance\, and legacy of one of the gr
+ eatest singers of all time\, featuring a global student cast.\nhttps://www
+ .berklee.edu/BPC/events/singers-showcase-forever-whitney-houston\nFrom Pus
+ hpin Boston: https://pushpin.city/boston/
+URL:https://www.berklee.edu/BPC/events/singers-showcase-forever-whitney-hou
+ ston
+END:VEVENT
+BEGIN:VEVENT
+UID:11c4a8d3de9e651b0f33547f07b30628d9405e29@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261209T010000Z
+DTEND:20261209T030000Z
+SUMMARY:Holiday Spectacular: Nutcracker Suite with Diamond Cut Big Band
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:This two-part concert features arrangements of holiday songs pe
+ rformed by the Gen-Next All-Stars\, and Duke Ellington's Nutcracker Suite 
+ performed by the Diamond Cut Big Band.\nhttps://www.berklee.edu/BPC/events
+ /holiday-spectacular-nutcracker-suite-with-diamond-cut-big-band\nFrom Push
+ pin Boston: https://pushpin.city/boston/
+URL:https://www.berklee.edu/BPC/events/holiday-spectacular-nutcracker-suite
+ -with-diamond-cut-big-band
+END:VEVENT
+BEGIN:VEVENT
+UID:80db7816aa9f9a4b83dc862358596998232d50df@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:Berklee City Music High School Academy Winter Showcase Concert
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:The Berklee City Music High School Academy Winter Showcase Conc
+ ert features seven ensembles performing various musical styles and arrange
+ ments.\nhttps://www.berklee.edu/BPC/events/berklee-city-music-high-school-
+ academy-winter-showcase-concert-2\nFrom Pushpin Boston: https://pushpin.ci
+ ty/boston/
+URL:https://www.berklee.edu/BPC/events/berklee-city-music-high-school-acade
+ my-winter-showcase-concert-2
+END:VEVENT
+BEGIN:VEVENT
+UID:a50dbefc4a2eb40f1ceaad1f2f5f72f76818921a@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:The 8-Bit Big Band: The Great Video Game Songbook
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:The 8-Bit Big Band is a Grammy Award–winning contemporary sym
+ phonic jazz orchestra created to celebrate and reimagine the most beloved 
+ music from video game history.\nhttps://www.berklee.edu/BPC/events/the-8-b
+ it-big-band-the-great-video-game-songbook\nFrom Pushpin Boston: https://pu
+ shpin.city/boston/
+URL:https://www.berklee.edu/BPC/events/the-8-bit-big-band-the-great-video-g
+ ame-songbook
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d58a12d7f62df28468fd622036593743dde0ca@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261214T010000Z
+DTEND:20261214T030000Z
+SUMMARY:FORMIDABLE! Aznavour: The Story of a Legend
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:FORMIDABLE! Aznavour: The Story of a Legend\, is far more than 
+ a tribute concert. It is a moving journey through the life\, music\, passi
+ on\, and extraordinary international career of the legendary performer Cha
+ rles Aznavour\, whose songs touched millions around the world.\nhttps://ww
+ w.berklee.edu/BPC/events/formidable-aznavour-the-story-of-a-legend\nFrom P
+ ushpin Boston: https://pushpin.city/boston/
+URL:https://www.berklee.edu/BPC/events/formidable-aznavour-the-story-of-a-l
+ egend
+END:VEVENT
+BEGIN:VEVENT
+UID:ee838590a78925c4940305c00c7c6844fd85ca07@pushpin.city
+DTSTAMP:20261107T091553Z
+DTSTART:20261219T010000Z
+DTEND:20261219T030000Z
+SUMMARY:Pink Martini All-Stars: A Season of Stars
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:Thomas Lauderdale’s globe-trotting “little orchestra\,” P
+ ink Martini\, brings an all-new holiday show filled with triple the joy\, 
+ featuring the radiant voices of NPR’s dashing Ari Shapiro\, the soulful 
+ Edna Vazquez\, and sensational America’s Got Talent finalist Jimmie Herr
+ od.\nhttps://www.berklee.edu/BPC/events/pink-martini-all-stars-a-season-of
+ -stars\nFrom Pushpin Boston: https://pushpin.city/boston/
+URL:https://www.berklee.edu/BPC/events/pink-martini-all-stars-a-season-of-s
+ tars
+END:VEVENT
+END:VCALENDAR
