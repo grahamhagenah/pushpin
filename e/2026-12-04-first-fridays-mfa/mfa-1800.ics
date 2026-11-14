@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dc70f30243078962e0c10e212b1e550a9a16d7f7@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261204T230000Z
+DTEND:20261205T010000Z
+SUMMARY:First Fridays
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/mfa-first-fridays?event
+ =179356
+URL:https://www.mfa.org/event/special-event/mfa-first-fridays?event=179356
+END:VEVENT
+END:VCALENDAR

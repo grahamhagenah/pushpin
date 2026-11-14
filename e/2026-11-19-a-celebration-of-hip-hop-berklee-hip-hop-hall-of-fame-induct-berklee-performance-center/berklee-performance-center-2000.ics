@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cded9b67924e3fc67f1206a24d7f4159ba95c291@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T010000Z
+DTEND:20261120T030000Z
+SUMMARY:A Celebration of Hip-Hop: Berklee Hip-Hop Hall of Fame Inducts Big 
+ Daddy Kane
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/a-celebration-of-hip-hop-ber
+ klee-hip-hop-hall-of-fame-induction-featuring-the-induction-of-big-daddy-k
+ ane
+URL:https://www.berklee.edu/BPC/events/a-celebration-of-hip-hop-berklee-hip
+ -hop-hall-of-fame-induction-featuring-the-induction-of-big-daddy-kane
+END:VEVENT
+END:VCALENDAR

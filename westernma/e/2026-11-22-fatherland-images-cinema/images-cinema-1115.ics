@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c85a4437e9522ae57319a9a43fcb6883540651d4@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T161500Z
+DTEND:20261122T181500Z
+SUMMARY:Fatherland
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/fatherland
+URL:https://www.imagescinema.org/movie/fatherland
+END:VEVENT
+END:VCALENDAR

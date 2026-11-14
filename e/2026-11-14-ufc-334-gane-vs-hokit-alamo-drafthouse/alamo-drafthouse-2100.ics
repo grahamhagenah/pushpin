@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:89645a2475bca8f225427e8f96e776a0d4081d6d@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T020000Z
+DTEND:20261115T040000Z
+SUMMARY:UFC 334: Gane vs. Hokit
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/ufc-334-gane-vs-hokit
+URL:https://drafthouse.com/boston/show/ufc-334-gane-vs-hokit
+END:VEVENT
+END:VCALENDAR

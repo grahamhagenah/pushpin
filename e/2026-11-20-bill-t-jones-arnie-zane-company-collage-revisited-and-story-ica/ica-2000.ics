@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8a6e28b68fedb987d5ef86797efdf4ea4d61feb4@pushpin.city
+DTSTAMP:20261120T000000Z
+DTSTART:20261121T010000Z
+DTEND:20261121T030000Z
+SUMMARY:Bill T. Jones/Arnie Zane Company: Collage Revisited and Story/
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:https://www.icaboston.org/events/bill-t-jones-arnie-zane-compan
+ y-collage-revisited-and-story/
+URL:https://www.icaboston.org/events/bill-t-jones-arnie-zane-company-collag
+ e-revisited-and-story/
+END:VEVENT
+END:VCALENDAR

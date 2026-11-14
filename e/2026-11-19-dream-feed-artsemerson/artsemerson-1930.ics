@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:329c4d6a294c3cb1f9eff0e87cf3ad72dff1d1d9@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T003000Z
+DTEND:20261120T023000Z
+SUMMARY:Dream Feed
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/dream-feed-5/
+URL:https://artsemerson.org/event/dream-feed-5/
+END:VEVENT
+END:VCALENDAR

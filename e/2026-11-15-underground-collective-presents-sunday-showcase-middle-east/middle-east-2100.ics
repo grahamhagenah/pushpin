@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5fc13580b2542ad2907d7fada2dabb58340c73aa@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261116T020000Z
+DTEND:20261116T040000Z
+SUMMARY:Underground Collective Presents: Sunday Showcase
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/underground-collective-presents
+ -sunday-showcase-middle-east-cornerbakery-tickets/14438284?pl=mideastclub&
+ REFID=clientsitewp
+URL:https://www.ticketweb.com/event/underground-collective-presents-sunday-
+ showcase-middle-east-cornerbakery-tickets/14438284?pl=mideastclub&REFID=cl
+ ientsitewp
+END:VEVENT
+END:VCALENDAR

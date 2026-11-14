@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0692f1a0efe45a0499c690da1bc7b6f33ecb4fc9@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T190000Z
+DTEND:20261206T210000Z
+SUMMARY:Chris Smither
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/instance
+ s/a0FV500000NNAfmMAH
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/instances/a0FV50
+ 0000NNAfmMAH
+END:VEVENT
+END:VCALENDAR

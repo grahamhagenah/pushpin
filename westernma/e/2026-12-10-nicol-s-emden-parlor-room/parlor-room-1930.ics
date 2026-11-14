@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f938811595d71780ad2b7bf2ef898142b27b3795@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T003000Z
+DTEND:20261211T023000Z
+SUMMARY:Nicolás Emden
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000DBGWbMAP
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0DBGWbMAP
+END:VEVENT
+END:VCALENDAR

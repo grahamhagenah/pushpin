@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b9e9df64b20ef83544dc3b183b7966e4fd65cde1@pushpin.city
+DTSTAMP:20261120T000000Z
+DTSTART:20261121T000000Z
+DTEND:20261121T020000Z
+SUMMARY:AJ Lee & Blue Summit
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000BxFSvMAN
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0BxFSvMAN
+END:VEVENT
+END:VCALENDAR

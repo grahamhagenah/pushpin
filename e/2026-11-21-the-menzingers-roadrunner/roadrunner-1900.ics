@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:592a658dbef0140ec22b4481e22bbdd60933f28f@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T020000Z
+SUMMARY:The Menzingers
+LOCATION:Roadrunner\, 89 Guest St\, Boston\, MA 02135
+DESCRIPTION:https://www.axs.com/events/1423304/the-menzingers-tickets
+URL:https://www.axs.com/events/1423304/the-menzingers-tickets
+END:VEVENT
+END:VCALENDAR

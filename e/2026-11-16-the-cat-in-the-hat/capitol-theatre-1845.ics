@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3e6d21c51d7053a641adb37863746e5be99f8d91@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261116T234500Z
+DTEND:20261117T014500Z
+SUMMARY:The Cat in the Hat
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:https://www.capitoltheatreusa.com/movie/the-cat-in-the-hat/
+URL:https://www.capitoltheatreusa.com/movie/the-cat-in-the-hat/
+END:VEVENT
+END:VCALENDAR

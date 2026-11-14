@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a52b37141ee49cdaeb32bec0c1bb78e0c16e531c@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261115T200000Z
+DTEND:20261115T220000Z
+SUMMARY:Tom Swafford Quartet / John McDonald
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/11/15/tom-swafford-quart
+ et-john-mcdonald-piano
+URL:https://www.lilypadinman.com/home/2026/11/15/tom-swafford-quartet-john-
+ mcdonald-piano
+END:VEVENT
+END:VCALENDAR

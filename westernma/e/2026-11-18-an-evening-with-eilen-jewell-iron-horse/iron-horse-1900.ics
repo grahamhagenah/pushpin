@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c55f27e4e2fc7b1446752466d3e73db9ff5a96e4@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:An Evening with Eilen Jewell
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/instance
+ s/a0FV500000KXi6nMAD
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/instances/a0FV50
+ 0000KXi6nMAD
+END:VEVENT
+END:VCALENDAR

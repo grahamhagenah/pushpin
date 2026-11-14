@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e6e3f22c8ab61bc74a9ba1fbead3401c9efd6b4a@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261118T011000Z
+DTEND:20261118T031000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.phoenixmovies.net/movies/wild-horse-nine/HO00001795
+URL:https://www.phoenixmovies.net/movies/wild-horse-nine/HO00001795
+END:VEVENT
+END:VCALENDAR

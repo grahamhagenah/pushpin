@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e9abce1f57780f1179f71409a2861cb561de3685@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T030000Z
+DTEND:20261115T050000Z
+SUMMARY:How to Rob a Bank
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/how-to-rob-a-bank
+URL:https://drafthouse.com/boston/show/how-to-rob-a-bank
+END:VEVENT
+END:VCALENDAR

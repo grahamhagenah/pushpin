@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:06994edff27b65c2ee2b3b3b161f859c7b34028c@pushpin.city
+DTSTAMP:20261231T000000Z
+DTSTART:20270101T020000Z
+DTEND:20270101T040000Z
+SUMMARY:Whiskey Treaty Roadshow ft. Jackson Whalan
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000D7FndMAF
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0D7FndMAF
+END:VEVENT
+END:VCALENDAR

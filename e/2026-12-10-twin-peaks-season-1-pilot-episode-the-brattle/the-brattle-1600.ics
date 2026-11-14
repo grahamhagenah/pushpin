@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4168e94837a2fe8978bcf496932da62b170ccf29@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261210T210000Z
+DTEND:20261210T230000Z
+SUMMARY:Twin Peaks\, Season 1 (Pilot Episode)
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/special_events/twin-peaks-season-1-pilo
+ t-episode/
+URL:https://brattlefilm.org/special_events/twin-peaks-season-1-pilot-episod
+ e/
+END:VEVENT
+END:VCALENDAR

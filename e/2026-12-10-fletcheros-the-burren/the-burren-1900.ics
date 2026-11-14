@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2ce911cc222e308bf8706b957a2b347a85cb806d@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:Fletcheros
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=746
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=746
+END:VEVENT
+END:VCALENDAR

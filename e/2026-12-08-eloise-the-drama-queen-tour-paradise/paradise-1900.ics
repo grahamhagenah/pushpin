@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70d5239193980c7c45f2d645f0b65bdf1771cc96@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261209T000000Z
+DTEND:20261209T020000Z
+SUMMARY:Eloise: The Drama Queen Tour
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/eloise-the-drama-queen-tour-boston
+ -massachusetts-12-08-2026/event/010064E99F60D835
+URL:https://www.ticketmaster.com/eloise-the-drama-queen-tour-boston-massach
+ usetts-12-08-2026/event/010064E99F60D835
+END:VEVENT
+END:VCALENDAR

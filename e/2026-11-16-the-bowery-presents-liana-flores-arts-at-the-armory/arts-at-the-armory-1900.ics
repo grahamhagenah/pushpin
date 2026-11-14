@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:78dcbda15cc6b6fc7624517020f397897c6fbcb8@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261117T000000Z
+DTEND:20261117T020000Z
+SUMMARY:The Bowery Presents Liana Flores
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/liana-flores/
+URL:https://artsatthearmory.org/events/liana-flores/
+END:VEVENT
+END:VCALENDAR

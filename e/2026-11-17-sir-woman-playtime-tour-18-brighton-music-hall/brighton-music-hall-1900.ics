@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:28b1202c1b1ca354030bc45ad6419ed130621375@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+SUMMARY:Sir Woman: Playtime Tour (18+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/sir-woman-playtime-tour-18-boston-
+ massachusetts-11-17-2026/event/01006515C60417B6
+URL:https://www.ticketmaster.com/sir-woman-playtime-tour-18-boston-massachu
+ setts-11-17-2026/event/01006515C60417B6
+END:VEVENT
+END:VCALENDAR

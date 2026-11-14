@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:40fecae9125597439a1de6af4ad9625a4fc20430@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T003000Z
+DTEND:20261115T023000Z
+SUMMARY:12th Annual CoreyFest featuring Brothers Osborne 21+
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/12th-annual-coreyfest-featuring-br
+ others-osborne-boston-massachusetts-11-14-2026/event/010064C2E373ED36
+URL:https://www.ticketmaster.com/12th-annual-coreyfest-featuring-brothers-o
+ sborne-boston-massachusetts-11-14-2026/event/010064C2E373ED36
+END:VEVENT
+END:VCALENDAR

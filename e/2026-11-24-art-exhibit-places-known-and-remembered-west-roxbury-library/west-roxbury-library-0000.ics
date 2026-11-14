@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70d52f63bae961afb4b0d9538911adc4a5fdab4d@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261124T050000Z
+DTEND:20261124T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89057
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89057
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f6369a88d96b2522ccf44b703897c7d04ac3fdd9@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261119T220000Z
+DTEND:20261120T000000Z
+SUMMARY:HERitage emBODYment: ‘Mavericks’ Performance and Talk
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/heritage-embodyment-mav
+ ericks-performance-and-talk?event=182311
+URL:https://www.mfa.org/event/special-event/heritage-embodyment-mavericks-p
+ erformance-and-talk?event=182311
+END:VEVENT
+END:VCALENDAR

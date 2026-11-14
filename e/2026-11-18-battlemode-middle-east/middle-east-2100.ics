@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c45f2bce2415dd381e725ef0796c4f176b9a0c13@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261119T020000Z
+DTEND:20261119T040000Z
+SUMMARY:Battlemode
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/battlemode-middle-east-zuzu-tic
+ kets/14368324?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/battlemode-middle-east-zuzu-tickets/143
+ 68324?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

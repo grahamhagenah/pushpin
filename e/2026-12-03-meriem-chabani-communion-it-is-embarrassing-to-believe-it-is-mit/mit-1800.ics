@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bf5eae79ef9a4f2ab315689dacb88d64e8dbc185@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:Meriem Chabani. Communion It is embarrassing to believe. It is terr
+ ifying to care. What happens when we dare anyway?
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://calendar.mit.edu/event/meriem-chabani-communion-it-is-e
+ mbarrassing-to-believe-it-is-terrifying-to-care-what-happens-when-we-dare-
+ anyway
+URL:https://calendar.mit.edu/event/meriem-chabani-communion-it-is-embarrass
+ ing-to-believe-it-is-terrifying-to-care-what-happens-when-we-dare-anyway
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1e783f24e6de2af107dc43d59d5f2e9f5a87f1df@pushpin.city
+DTSTAMP:20261127T000000Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Dinty Child & Mark Erelli
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/dinty-child-mark-erell
+ i/
+URL:https://www.passim.org/live-music/events/dinty-child-mark-erelli/
+END:VEVENT
+END:VCALENDAR

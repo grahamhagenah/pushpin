@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1c9b7ae9d87d02854818ed0798c2705f101722aa@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/the-only-living-pickpocket-i
+ n-new-york
+URL:https://www.imagescinema.org/movie/the-only-living-pickpocket-in-new-yo
+ rk
+END:VEVENT
+END:VCALENDAR

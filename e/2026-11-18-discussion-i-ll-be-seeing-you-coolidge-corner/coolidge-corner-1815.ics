@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4c1759bd7fc8aec1bb0c20e7835fd7e74587dd29@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261118T231500Z
+DTEND:20261119T011500Z
+SUMMARY:Discussion: I’ll Be Seeing You
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/events/discussion-ill-be-seeing-you
+URL:https://coolidge.org/events/discussion-ill-be-seeing-you
+END:VEVENT
+END:VCALENDAR

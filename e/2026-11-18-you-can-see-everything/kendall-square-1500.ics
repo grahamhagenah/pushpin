@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ddad38d0f977b0f5f03409b61ada51d3598c599c@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261118T200000Z
+DTEND:20261118T220000Z
+SUMMARY:You Can See Everything
+LOCATION:Kendall Square\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/02478be4-
+ 748c-583d-8990-6471adeb2f94
+URL:https://booking.landmarktheatres.com/launch/ticketing/02478be4-748c-583
+ d-8990-6471adeb2f94
+END:VEVENT
+END:VCALENDAR

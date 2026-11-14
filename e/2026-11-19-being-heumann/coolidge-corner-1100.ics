@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:daf72cfd9fe4c226d1639887f6b94456bdf50765@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261119T160000Z
+DTEND:20261119T180000Z
+SUMMARY:Being Heumann
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/films/being-heumann
+URL:https://coolidge.org/films/being-heumann
+END:VEVENT
+END:VCALENDAR

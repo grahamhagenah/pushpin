@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dd28e59f0a8dbf0e0d9c4f262019f1de07fb7fed@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T023000Z
+DTEND:20261123T043000Z
+SUMMARY:I Play Rocky
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/i-play-rocky
+URL:https://drafthouse.com/boston/show/i-play-rocky
+END:VEVENT
+END:VCALENDAR

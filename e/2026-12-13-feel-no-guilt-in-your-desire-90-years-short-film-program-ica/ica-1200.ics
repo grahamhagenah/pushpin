@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1d3976c97c2b0beecce07862ff0534576af13a88@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T170000Z
+DTEND:20261213T190000Z
+SUMMARY:“Feel no guilt in your desire:” 90 YEARS Short Film Program
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:https://www.icaboston.org/events/90-years-short-film-program/
+URL:https://www.icaboston.org/events/90-years-short-film-program/
+END:VEVENT
+END:VCALENDAR

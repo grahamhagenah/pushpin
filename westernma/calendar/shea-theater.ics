@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Shea Theater
+X-WR-CALDESC:What’s coming up at Shea Theater\, from Pushpin Western Mass
+ .
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:5af0aef240434139fdd11e65345d1e51102daf72@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+SUMMARY:Little Lies- A Tribute to Fleetwood Mac
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:We would never break the chain\, so we are pleased to once agai
+ n welcome Little Lies in November! Their last two performances were sellou
+ ts so don’t wait to get your tickets- or else you’ll be never going ba
+ ck again!\nhttps://sheatheater.org/d/23327/Shea-Presents-Little-Lies--A-Tr
+ ibute-to-Fleetwood-Mac\nFrom Pushpin Western Mass: https://pushpin.city/we
+ sternma/
+URL:https://sheatheater.org/d/23327/Shea-Presents-Little-Lies--A-Tribute-to
+ -Fleetwood-Mac
+END:VEVENT
+BEGIN:VEVENT
+UID:8feb78e60e225f3a7a500366100401e89034960a@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Greenfield Community College Department of Music Concert
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:The talented students at GCC return to present an evening of va
+ rious music stylings including jazz\, rock\, and classics!\nhttps://sheath
+ eater.org/d/23339/Greenfield-Community-College-Department-of-Music-Concert
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23339/Greenfield-Community-College-Department
+ -of-Music-Concert
+END:VEVENT
+BEGIN:VEVENT
+UID:35da8d093e3ef64d3dac253423ecfbfa3867eadf@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:Donna The Buffalo
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:We had such a great time hosting Donna The Buffalo last year we
+  all decided it would be most prudent to have it all happen again this com
+ ing November! Plenty of dance floor plus seated options. Tickets are on sa
+ le now!\nhttps://sheatheater.org/d/23293/Shea-Presents-Donna-The-Buffalo\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23293/Shea-Presents-Donna-The-Buffalo
+END:VEVENT
+BEGIN:VEVENT
+UID:8388400d3fb9af11e05556430b33778cf6200d8f@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Will Evans
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:with s/g Wallace Field\nWill Evans pulls everyone into his embr
+ ace. He musically accesses a space without boundaries where all are welcom
+ e to commune openly and move freely. Through quotable folk-inspired lyrics
+ \, breezy grooves\, and roots energy! Doors 7:00/ Show.\nhttps://sheatheat
+ er.org/d/23325/Shea-Presents-Will-Evans-wsg-Wallace-Field\nFrom Pushpin We
+ stern Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23325/Shea-Presents-Will-Evans-wsg-Wallace-Fi
+ eld
+END:VEVENT
+BEGIN:VEVENT
+UID:18bba1c233451e7ec9279b45928f268d22adb901@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:Miracle on Drag Street
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Eggtooth Productions presents\nThe Drag Family returns for anot
+ her year of glitter\, joy\, and chaos for this riff on a holiday classic\n
+ https://sheatheater.org/d/23344/Eggtooth-Productions-Presents-Miracle-on-D
+ rag-Street\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23344/Eggtooth-Productions-Presents-Miracle-o
+ n-Drag-Street
+END:VEVENT
+BEGIN:VEVENT
+UID:4d0ba963dcfb9822c7e8910744230294b6173953@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:Miracle on Drag Street
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Eggtooth Productions presents\nThe Drag Family returns for anot
+ her year of glitter\, joy\, and chaos for this riff on a holiday classic.\
+ nhttps://sheatheater.org/d/23345/Eggtooth-Productions-Presents-Miracle-on-
+ Drag-Street\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23345/Eggtooth-Productions-Presents-Miracle-o
+ n-Drag-Street
+END:VEVENT
+BEGIN:VEVENT
+UID:66730251680a397cbd28bc22dfceb68cdff45040@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:Midwinter Celebration
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Welcome Yule presents\nWelcome Yule: A Midwinter Celebration Re
+ turns for Its 42nd Season\, Featuring Dutch and Nordic Traditions\nhttps:/
+ /sheatheater.org/d/23341/Welcome-Yule-Presents-Midwinter-Celebration\nFrom
+  Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23341/Welcome-Yule-Presents-Midwinter-Celebra
+ tion
+END:VEVENT
+BEGIN:VEVENT
+UID:78eb2dc87cce7227b961055ffd08abbb46ff2df2@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261213T003000Z
+DTEND:20261213T023000Z
+SUMMARY:Midwinter Celebration
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Welcome Yule presents\nWelcome Yule: A Midwinter Celebration Re
+ turns for Its 42nd Season\, Featuring Dutch and Nordic Traditions\nhttps:/
+ /sheatheater.org/d/23342/Welcome-Yule-Presents-Midwinter-Celebration\nFrom
+  Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23342/Welcome-Yule-Presents-Midwinter-Celebra
+ tion
+END:VEVENT
+BEGIN:VEVENT
+UID:4928b9fe88de561d6f0eb3c07a6e086627648cb5@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261213T190000Z
+DTEND:20261213T210000Z
+SUMMARY:Midwinter Celebration
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Welcome Yule presents\nWelcome Yule: A Midwinter Celebration Re
+ turns for Its 42nd Season\, Featuring Dutch and Nordic Traditions\nhttps:/
+ /sheatheater.org/d/23343/Welcome-Yule-Presents-Midwinter-Celebration\nFrom
+  Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23343/Welcome-Yule-Presents-Midwinter-Celebra
+ tion
+END:VEVENT
+BEGIN:VEVENT
+UID:7495cff131ed944aae815836e0034c36abc1e057@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20270101T010000Z
+DTEND:20270101T030000Z
+SUMMARY:NEW YEARS WITH MAX CREEK
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Join us on Thursday\, December 31st 2026 for an evening with le
+ gendary staples of the Northeast jamband scene Max Creek at the Shea Theat
+ er Arts Center in Turners Falls\nhttps://sheatheater.org/d/23346/Shea-Pres
+ ents-NEW-YEARS-WITH-MAX-CREEK\nFrom Pushpin Western Mass: https://pushpin.
+ city/westernma/
+URL:https://sheatheater.org/d/23346/Shea-Presents-NEW-YEARS-WITH-MAX-CREEK
+END:VEVENT
+END:VCALENDAR

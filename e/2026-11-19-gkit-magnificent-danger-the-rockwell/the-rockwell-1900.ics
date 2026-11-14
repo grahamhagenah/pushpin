@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2c5e777dcca5f7ccb72f66ba4a09293b97aa775a@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:GKit & Magnificent Danger
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/gkit-magnificent-danger/
+URL:https://therockwell.org/calendar/gkit-magnificent-danger/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:60ec603efc99c3e66697541f5e938309df5da3be@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261117T000000Z
+DTEND:20261117T020000Z
+SUMMARY:Dive in Wonderland
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/dive-in-wonderland
+URL:https://drafthouse.com/boston/show/dive-in-wonderland
+END:VEVENT
+END:VCALENDAR

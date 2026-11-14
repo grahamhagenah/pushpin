@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d8f10211c63107ab4d2460ff25aae97c296dadf0@pushpin.city
+DTSTAMP:20261214T000000Z
+DTSTART:20261215T000000Z
+DTEND:20261215T020000Z
+SUMMARY:Mike Block & Yacouba Sissoko
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/mike-block-yacouba-sis
+ soko/
+URL:https://www.passim.org/live-music/events/mike-block-yacouba-sissoko/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:93037c1ee598c29f3cd36149990aa57dd34552ce@pushpin.city
+DTSTAMP:20261120T000000Z
+DTSTART:20261120T233000Z
+DTEND:20261121T013000Z
+SUMMARY:Riverdogs & The Bend in the River
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/riverdogs-the-bend-in-th
+ e-river-with-filmmaker-r
+URL:https://www.westnewtoncinema.com/movie/riverdogs-the-bend-in-the-river-
+ with-filmmaker-r
+END:VEVENT
+END:VCALENDAR

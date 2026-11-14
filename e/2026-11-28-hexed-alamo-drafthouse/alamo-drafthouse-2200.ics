@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f387bb13be4b338d0508726bb49ca04baca11e86@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:Hexed
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/hexed
+URL:https://drafthouse.com/boston/show/hexed
+END:VEVENT
+END:VCALENDAR

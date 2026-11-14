@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:31a39213bc0446765f1401212887aa7a1f651595@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261116T184500Z
+DTEND:20261116T204500Z
+SUMMARY:Wicker
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/wicker
+URL:https://amherstcinema.org/films-and-events/wicker
+END:VEVENT
+END:VCALENDAR

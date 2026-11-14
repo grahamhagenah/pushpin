@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:38d2141b7049649eefe4a66592d6f6c6edd1bc35@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261118T233000Z
+DTEND:20261119T013000Z
+SUMMARY:Jessie Mazin\, Anya True
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/jessie-mazin-anya-true-sonia-ti
+ ckets/14368994?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/jessie-mazin-anya-true-sonia-tickets/14
+ 368994?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c4da56390b3a36eecb5fb2a688bde03ac303b418@pushpin.city
+DTSTAMP:20270101T000000Z
+DTSTART:20270102T000000Z
+DTEND:20270102T020000Z
+SUMMARY:Girlyman
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/girlyman/
+URL:https://www.passim.org/live-music/events/girlyman/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1423 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Art & talks
+X-WR-CALDESC:Art & talks around Boston\, Cambridge\, and Somerville\, from 
+ Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:d703561713c0ff0eee65765628a817d081bf5c14@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261114T150000Z
+DTEND:20261114T170000Z
+SUMMARY:Artisan Market
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/artisan-market?event=15
+ 4301\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/special-event/artisan-market?event=154301
+END:VEVENT
+BEGIN:VEVENT
+UID:03172b6a51924a3e8682eef8960076f4a0eef25c@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261114T180000Z
+DTEND:20261114T200000Z
+SUMMARY:90 YEARS Exhibition Tour
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Engage with nine decades of ICA history during a guided tour of
+  90 YEARS. Led by a Graduate Student Lecturer\, deepen your understanding 
+ of exhibition artists and themes through guided close looking and discussi
+ on.\nhttps://www.icaboston.org/events/90-years-exhibition-tour/\nFrom Push
+ pin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/90-years-exhibition-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:61f0b57bac19d4d7ff03555ace027366b3f6d171@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261114T233000Z
+DTEND:20261115T013000Z
+SUMMARY:Tiger Mom Academy
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/tiger-mom-academy/\nFrom Pushpin 
+ Boston: https://pushpin.city/
+URL:https://artsemerson.org/event/tiger-mom-academy/
+END:VEVENT
+BEGIN:VEVENT
+UID:3c55dfe31ee4373a79378b2f70bb74f6cb93c3ec@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:Lives Behind the Numbers: Mona Chalabi on the Art of Understanding 
+ Others
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Pulitzer Prize-winning data journalist Mona Chalabi has spent h
+ er career bridging the gap between what numbers reveal and what they conce
+ al about who we really are.\nhttps://calendar.mit.edu/event/lives-behind-t
+ he-numbers-mona-chalabi-on-the-art-of-understanding-others\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/lives-behind-the-numbers-mona-chalabi-on
+ -the-art-of-understanding-others
+END:VEVENT
+BEGIN:VEVENT
+UID:1ea0d861fe2c9fe063016f9c2f816f6af669d57b@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T050000Z
+DTEND:20261116T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8904f\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8904f
+END:VEVENT
+BEGIN:VEVENT
+UID:a3286dd49d32fa6ca7aed3f33dde7f8cc34962f9@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T220000Z
+DTEND:20261117T000000Z
+SUMMARY:History of Now Lectures Series - Reluctant Neighbors: History of Je
+ ws in Palestine and the Levant\, 1700-1850
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:History at MIT invites you to join us on Monday\, November 16th
+  at 5 pm in E51-095 for the third lecture in the History of Now series\, f
+ eaturing Orit Bashkin\, the Mabel Greene Myers Professor of Modern Middle 
+ Eastern History and Director of Graduate Studies\, Modern Fields at the Un
+ iversity of Chicago. Her talk is titled "Reluctant Neighbors: History of J
+ ews in Palestine and the Levant\, 1700-1850."\nhttps://calendar.mit.edu/ev
+ ent/copy-of-history-of-now-lectures-series-on-sultans-prophets-and-the-ear
+ ly-modern-amalek-history-of-jews-in-arab-ottoman-provinces-1517-1882\nFrom
+  Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/copy-of-history-of-now-lectures-series-o
+ n-sultans-prophets-and-the-early-modern-amalek-history-of-jews-in-arab-ott
+ oman-provinces-1517-1882
+END:VEVENT
+BEGIN:VEVENT
+UID:33c10c62096e5bd4065819f8d14c93c74ac99ad8@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T230000Z
+DTEND:20261117T010000Z
+SUMMARY:MIT / French Library Author talk: Elisa Shua Dusapin on The Old Fir
+ e
+LOCATION:MIT\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Join National Book Award winner Elisa Shua Dusapin for a conver
+ sation about The Old Fire\, her acclaimed new novel about two estranged si
+ sters\, a childhood home\, and all that remains unspoken between them.\nht
+ tps://calendar.mit.edu/event/mit-french-library-author-talk-elisa-shua-dus
+ apin-on-the-old-fire\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/mit-french-library-author-talk-elisa-shu
+ a-dusapin-on-the-old-fire
+END:VEVENT
+BEGIN:VEVENT
+UID:bf0407235d22ff0042b5696a20edbd242ad511de@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T230000Z
+DTEND:20261117T010000Z
+SUMMARY:The Old Fire: On Writing\, Memory\, and Belonging
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Join French-Swiss-Korean author Elisa Shua Dusapin for a conver
+ sation about her acclaimed new novel\, The Old Fire\, and her distinctive 
+ literary voice.\nhttps://frenchlibrary.org/events/elisa-shua-dusapin-2026/
+ \nFrom Pushpin Boston: https://pushpin.city/
+URL:https://frenchlibrary.org/events/elisa-shua-dusapin-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ce41447cd44a00fbf5f4645f3d2281ca3a6a42a5@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261117T050000Z
+DTEND:20261117T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89050\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89050
+END:VEVENT
+BEGIN:VEVENT
+UID:7312c818d2bc7c2eb63f184f6986267923a52527@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261117T170000Z
+DTEND:20261117T190000Z
+SUMMARY:Art + Science: Inpainting Techniques
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:In this session\, paintings conservator Kate Smith will talk ab
+ out various philosophical approaches to restoring loss in paintings.\nhttp
+ s://harvardartmuseums.org/event/4216\nFrom Pushpin Boston: https://pushpin
+ .city/
+URL:https://harvardartmuseums.org/event/4216
+END:VEVENT
+BEGIN:VEVENT
+UID:a05e16b830b03fe1e1ae86cddebc4c8297629b0f@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261117T190000Z
+DTEND:20261117T210000Z
+SUMMARY:Pop-Up Renaissance Concert
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join us for a pop-up concert of Renaissance music performed by 
+ the student group Harvard Viol Consort.\nhttps://harvardartmuseums.org/eve
+ nt/4135\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardartmuseums.org/event/4135
+END:VEVENT
+BEGIN:VEVENT
+UID:9f7c4342f20ca26fda3a0788101eea3ad78966cd@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261117T233000Z
+DTEND:20261118T013000Z
+SUMMARY:The Moth: Boston StorySLAM: KEEPING THE FAITH
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Join us the fourth Tuesday of each month for the Boston Moth St
+ orySLAM! This community-focused\, open-mic storytelling competition is ope
+ n to anyone can share a story on the night’s theme (changes every month)
+ .\nhttps://artsatthearmory.org/events/the-moth-boston-storyslam-2026-11-24
+ /\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artsatthearmory.org/events/the-moth-boston-storyslam-2026-11-24
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:cc0211a0975c8438662beb53c3c5a1d78012de36@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T050000Z
+DTEND:20261118T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89051\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89051
+END:VEVENT
+BEGIN:VEVENT
+UID:ac34660251a083dada00aeb66608c74593e45bc6@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T180000Z
+DTEND:20261118T200000Z
+SUMMARY:The United States and Haiti: When History (and Revolutions) Binds U
+ s
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/the-united-states-and-haiti-w
+ hen-history-and-revolutions-binds-us?event=178421\nFrom Pushpin Boston: ht
+ tps://pushpin.city/
+URL:https://www.mfa.org/event/lecture/the-united-states-and-haiti-when-hist
+ ory-and-revolutions-binds-us?event=178421
+END:VEVENT
+BEGIN:VEVENT
+UID:61400b7bd09d4193fb6838b58efa321a1502a67e@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T220000Z
+DTEND:20261119T000000Z
+SUMMARY:MIT Music Tech Speaker Series Presents: Mark Ethier
+LOCATION:MIT\, 182 MEMORIAL DR (REAR)\, Cambridge\, MA 02139
+DESCRIPTION:Tools for Musicians in the Age of AI: From iZotope to Berklee M
+ usic and technology have always co-evolved. Long before the synthesizer\, 
+ innovations ranging from new tuning systems to the piano's sustain pedal h
+ aven’t just made music easier to produce — they’ve fundamentally cha
+ nged what kind of music is possible to make. How will AI as an underlying 
+ technology fit into this history?\nhttps://calendar.mit.edu/event/mit-musi
+ c-tech-speaker-series-presents-mark-ethier\nFrom Pushpin Boston: https://p
+ ushpin.city/
+URL:https://calendar.mit.edu/event/mit-music-tech-speaker-series-presents-m
+ ark-ethier
+END:VEVENT
+BEGIN:VEVENT
+UID:af6a5ca733c7e778c4a0ab17997ba7097954333c@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T220000Z
+DTEND:20261119T000000Z
+SUMMARY:Starr Forum: AI and Global Power: Democracy\, Competition\, and Con
+ trol
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:Jake Sullivan is a former US national security advisor and curr
+ ently the Kissinger Professor of the Practice of Statecraft and World Orde
+ r at the Belfer Center\, Harvard Kennedy School. He also served as the 28t
+ h assistant to the president for national security affairs (national secur
+ ity advisor) where he focused on artificial intelligence (AI) as a top nat
+ ional security priority. In the Obama administration\, he served as nation
+ al security advisor to then-Vice President Biden\, director of the policy 
+ planning staff at the US Department of State\, and deputy chief of staff t
+ o Secretary of State Hillary Clinton. He is the co-host of The Long Game\,
+  a weekly podcast that explores national security issues.\nhttps://calenda
+ r.mit.edu/event/starr-forum-ai-and-global-power-democracy-competition-and-
+ control\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/starr-forum-ai-and-global-power-democrac
+ y-competition-and-control
+END:VEVENT
+BEGIN:VEVENT
+UID:fd9211d6888bfd5b1a519a594255de23a18fee18@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T230000Z
+DTEND:20261119T010000Z
+SUMMARY:Author Talk: A Pox on Fools
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Join us for an engaging evening with author Thomas Levenson as 
+ he discusses his new book\, "A Pox on Fools: The True Believers\, Grifters
+ \, and Cynics Who Convinced Us to Reject Vaccines\," in conversation with 
+ MIT Museum Director Michael John Gorman.\nhttps://calendar.mit.edu/event/a
+ uthor-talk-a-pox-on-fools\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/author-talk-a-pox-on-fools
+END:VEVENT
+BEGIN:VEVENT
+UID:51ad6f0ffbaa5814aaa7ac8844cec491890406ef@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T233000Z
+DTEND:20261119T013000Z
+SUMMARY:Before Salem: Witchcraft in Boston’s North End\, 1688 — Cotton 
+ Mather\, Martha Goodwin\, and the Making of a Witchcraft Panic
+LOCATION:North End Library\, 25 Parmenter St\, Boston\, MA 02113
+DESCRIPTION:Historian James S. Pasto leads Before Salem: Witchcraft in Bost
+ on’s North End\, 1688 — Cotton Mather\, Martha Goodwin\, and the Makin
+ g of a Witchcraft Panic\, a lecture focusing on witchcraft in Boston's Nor
+ th End neighborhood in the 17th century.\nhttps://bpl.bibliocommons.com/ev
+ ents/6ae0bad8de300e00451d15ca\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6ae0bad8de300e00451d15ca
+END:VEVENT
+BEGIN:VEVENT
+UID:eda41ac7ea0cdd1f60b4d9129371f222363427d6@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T050000Z
+DTEND:20261119T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89052\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89052
+END:VEVENT
+BEGIN:VEVENT
+UID:5d323070fc046a41c26de80c727cda4212a48661@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T171500Z
+DTEND:20261119T191500Z
+SUMMARY:Midday Organ Recital: Louise Mundinger
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Recitals are performed on Harvard’s famous 1958 D. A. Flentro
+ p organ\, at Adolphus Busch Hall.\nhttps://harvardartmuseums.org/event/422
+ 9\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardartmuseums.org/event/4229
+END:VEVENT
+BEGIN:VEVENT
+UID:ddabe4e5331fbe7303b1d2423f372b6394f847cb@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T173000Z
+DTEND:20261119T193000Z
+SUMMARY:Gallery Talk: On Location: Drawing the Outdoors
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Discover the materials 19th-century European artists used—bot
+ h in the studio and outdoors—to record and represent the landscapes arou
+ nd them.\nhttps://harvardartmuseums.org/event/4144\nFrom Pushpin Boston: h
+ ttps://pushpin.city/
+URL:https://harvardartmuseums.org/event/4144
+END:VEVENT
+BEGIN:VEVENT
+UID:747600d7f269459d352ae15afb114ac0d842f050@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T210000Z
+DTEND:20261119T230000Z
+SUMMARY:Author Talk: Maria Termini — Available Details
+LOCATION:Jamaica Plain Library\, 30 South Street\, Jamaica Plain\, MA 02130
+DESCRIPTION:Join local Author Maria Termini as she reads from her new book 
+ Available Details: Wonder\, Adventure and More!\nhttps://bpl.bibliocommons
+ .com/events/6ad26bcf29c3d60033306286\nFrom Pushpin Boston: https://pushpin
+ .city/
+URL:https://bpl.bibliocommons.com/events/6ad26bcf29c3d60033306286
+END:VEVENT
+BEGIN:VEVENT
+UID:e065fae67c6d914badf533745018b0430e7a73d4@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T220000Z
+DTEND:20261120T000000Z
+SUMMARY:$5 Third Thursday
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/5-third-thursday-novemb
+ er-2026?event=182336\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/special-event/5-third-thursday-november-2026?
+ event=182336
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d907d759b3c52eb0dec9634f36cc983fe0cc9a@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T220000Z
+DTEND:20261120T000000Z
+SUMMARY:HERitage emBODYment: ‘Mavericks’ Performance and Talk
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/heritage-embodyment-mav
+ ericks-performance-and-talk?event=182311\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://www.mfa.org/event/special-event/heritage-embodyment-mavericks-p
+ erformance-and-talk?event=182311
+END:VEVENT
+BEGIN:VEVENT
+UID:93252a61f61f37182e3a5d99493902f8011c9226@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T220000Z
+DTEND:20261120T000000Z
+SUMMARY:History of Now Lectures Series - A Different Critique: MENA Jewish 
+ Approaches to Zionism and Imperialism\, 1830-1948
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:History at MIT invites you to join us on Thursday\, November 19
+ th at 5 pm in E51-095 for the final lecture in the History of Now series\,
+  featuring Orit Bashkin\, the Mabel Greene Myers Professor of Modern Middl
+ e Eastern History and Director of Graduate Studies\, Modern Fields at the 
+ University of Chicago. Her talk is titled "A Different Critique: MENA Jewi
+ sh Approaches to Zionism and Imperialism\, 1830-1948."\nhttps://calendar.m
+ it.edu/event/copy-of-history-of-now-lectures-series-reluctant-neighbors-hi
+ story-of-jews-in-palestine-and-the-levant-1700-1850\nFrom Pushpin Boston: 
+ https://pushpin.city/
+URL:https://calendar.mit.edu/event/copy-of-history-of-now-lectures-series-r
+ eluctant-neighbors-history-of-jews-in-palestine-and-the-levant-1700-1850
+END:VEVENT
+BEGIN:VEVENT
+UID:54e55aee281d3f800383f0b28b74d57838acd345@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+SUMMARY:Co-Adaptive—Ruth Mandl and Bobby Johnston
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Part of the MIT Fall 2026 Architecture Lecture Series Presented
+  with the Architecture and Urbanism Group As our planet gets hotter\, and 
+ more extreme weather events become the norm\, CO Adaptive is positioning t
+ hemselves as an unbuild\, design and build practice: a new model that reun
+ ites designers and builders through collaboration in order to re-think our
+  joint role in shaping the built environment\; contending with architectur
+ e at the intersection of saving embodied carbon and reducing operational e
+ nergy. As stewards of the existing material repository contained in our ci
+ ties\, CO Adaptive aims to increase the resilience and reusability of all 
+ that already surrounds us.\nhttps://calendar.mit.edu/event/co-adaptiveruth
+ -mandl-and-bobby-johnston\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/co-adaptiveruth-mandl-and-bobby-johnston
+END:VEVENT
+BEGIN:VEVENT
+UID:2aa028b403c0f85417bb0d117496df5c53eee584@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+SUMMARY:Lost Rivers: Mapping the History of Charlestown's Miller’s River
+LOCATION:Charlestown Library\, 179 Main St\, Charlestown\, MA 02129
+DESCRIPTION:Where were the original rivers in the Boston area? When and why
+  did Miller’s River\, once located near Charlestown\, disappear? Join th
+ e Leventhal Map & Education Center for a deep dive into the history and ge
+ ography of Miller’s River. Come learn about the river\, the history of o
+ ther bodies of water in Charlestown\, and the urban transformations that c
+ ontributed to their disappearance.\nhttps://bpl.bibliocommons.com/events/6
+ a9ac3edb88596143287eeea\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6a9ac3edb88596143287eeea
+END:VEVENT
+BEGIN:VEVENT
+UID:dade05b113c6de1c63d0a0a24249916fb0afb2ae@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+SUMMARY:Unseen and Unhoused: The Crisis of Sex Trafficking in Boston (Panel
+  Discussion with Boston HEAT)
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:A panel discussion hosted by Boston HEAT: Unseen and Unhoused: 
+ The Crisis of Sex Trafficking in Boston.\nhttps://bpl.bibliocommons.com/ev
+ ents/6adba32a377296003a4e1f7d\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6adba32a377296003a4e1f7d
+END:VEVENT
+BEGIN:VEVENT
+UID:30ba764d125054f7d5f59841b2e9e83fc36182b0@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261120T003000Z
+DTEND:20261120T023000Z
+SUMMARY:Dream Feed
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/dream-feed-5/\nFrom Pushpin Bosto
+ n: https://pushpin.city/
+URL:https://artsemerson.org/event/dream-feed-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:69b26376ac618231f034d4aff79ecf37a44669a0@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261120T050000Z
+DTEND:20261120T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89053\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89053
+END:VEVENT
+BEGIN:VEVENT
+UID:33dd6bd8305b7f0be0f0cc258273634ef3978e69@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261120T230000Z
+DTEND:20261121T010000Z
+SUMMARY:HERitage emBODYment Presents ‘Mavericks’
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/heritage-embodyment-pre
+ sents-mavericks?event=182326\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/special-event/heritage-embodyment-presents-ma
+ vericks?event=182326
+END:VEVENT
+BEGIN:VEVENT
+UID:6e6cbc4359fea805916e35b034ef02aa4465565a@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261121T010000Z
+DTEND:20261121T030000Z
+SUMMARY:Bill T. Jones/Arnie Zane Company: Collage Revisited and Story/
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:The Bill T. Jones/Arnie Zane Company return to the ICA with a p
+ rogram reflecting on history\, legacy\, and continued experimentation.\nht
+ tps://www.icaboston.org/events/bill-t-jones-arnie-zane-company-collage-rev
+ isited-and-story/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/bill-t-jones-arnie-zane-company-collag
+ e-revisited-and-story/
+END:VEVENT
+BEGIN:VEVENT
+UID:73a9e0536ab14443a2880187a0b0a345ca2ad2fe@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261121T010000Z
+DTEND:20261121T030000Z
+SUMMARY:Dream Feed
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/dream-feed-4/\nFrom Pushpin Bosto
+ n: https://pushpin.city/
+URL:https://artsemerson.org/event/dream-feed-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:c2e0ab7a31ce57b31ade086fbf3dafdf8c555c45@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261121T050000Z
+DTEND:20261121T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89054\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89054
+END:VEVENT
+BEGIN:VEVENT
+UID:837fe66aa525d3b0e6e4120502b75c37c5538b5f@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:Author Talk — Alex Krieger: Greenhorn
+LOCATION:Jamaica Plain Library\, 30 South Street\, Jamaica Plain\, MA 02130
+DESCRIPTION:Join local author Alex Krieger as he reads from and discusses h
+ is new memoir Greenhorn: Episodes in an Immigrant's Life. It explores a li
+ fe shaped by motion\, memory\, cultures and careers\, which unfolds in the
+  art of making a home in the unfamiliar. At the age of nine\, Alex Krieger
+  arrived in America with his three parents—survivors of the Holocaust. I
+ n Chicago\, he finds his fourth first-grade classroom to learn a fourth la
+ nguage in four years. From displaced childhood\, the journeying continues 
+ as teacher\, architect\, planner of cities. With a poet's sensitivity and 
+ a craftsman's precision\, Krieger reflects on that greenhorn's instinct to
+  embrace the values of an adopted nation while remaining eyewitness to par
+ adoxes.\nhttps://bpl.bibliocommons.com/events/6ad26ad6fee2d21deb23b8a7\nFr
+ om Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6ad26ad6fee2d21deb23b8a7
+END:VEVENT
+BEGIN:VEVENT
+UID:edbf1cbf9561b8caa4a4c1c7f36b7b68f8640b4a@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:Dream Feed
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:Times: 2pm\, 8pm\nhttps://artsemerson.org/event/dream-feed-3/\n
+ From Pushpin Boston: https://pushpin.city/
+URL:https://artsemerson.org/event/dream-feed-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:250ad6917c9892854b20be667fb9a8b3bfe751e7@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261122T050000Z
+DTEND:20261122T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89055\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89055
+END:VEVENT
+BEGIN:VEVENT
+UID:bae8678e8f06ab911006667bed53a8022e7123b1@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261122T173000Z
+DTEND:20261122T193000Z
+SUMMARY:New on View: Community and Self-Representation in the David and Jan
+ e Shapiro Collection
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Leah Yeshitila for a discussion of her installation featur
+ ing renowned Black artists of the later 20th century.\nhttps://harvardartm
+ useums.org/event/4217\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardartmuseums.org/event/4217
+END:VEVENT
+BEGIN:VEVENT
+UID:4a83e67fcf7ba979bec653a0e590807d57f154ed@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:Dream Feed
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/dream-feed/\nFrom Pushpin Boston:
+  https://pushpin.city/
+URL:https://artsemerson.org/event/dream-feed/
+END:VEVENT
+BEGIN:VEVENT
+UID:8430b499dbad4bda50831d32cae34de672f5b6e7@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:Gallery Talk: Max Gruber on 90 YEARS
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Founded in 1936\, the ICA is one of the oldest museums dedicate
+ d to contemporary art in the United States. On this special anniversary\, 
+ 90 YEARS revisits nine exhibitions and initiatives from the ICA’s histor
+ y\, tracing the museum’s evolution alongside the ever-changing landscape
+  of contemporary art. Join Curatorial Assistant Max Gruber for a conversat
+ ion about pivotal moments in the ICA’s history with a focus on the landm
+ ark 1941 exhibition Modern Mexican Painters.\nhttps://www.icaboston.org/ev
+ ents/gallery-talk-max-gruber-on-90-years/\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://www.icaboston.org/events/gallery-talk-max-gruber-on-90-years/
+END:VEVENT
+BEGIN:VEVENT
+UID:5a5790b9a55f71cc6ba1f6e48437886c2b6197a3@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261123T050000Z
+DTEND:20261123T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89056\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89056
+END:VEVENT
+BEGIN:VEVENT
+UID:c9c520440b326c0ac47067c4ebe3f271cafd225e@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261124T050000Z
+DTEND:20261124T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89057\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89057
+END:VEVENT
+BEGIN:VEVENT
+UID:31024616a4e4d1f369a6638d8ea29d7e14b2993e@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261124T173000Z
+DTEND:20261124T193000Z
+SUMMARY:Gallery Talk: On Location: Drawing the Outdoors
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Curatorial fellow Alec Aldrich will discuss an 1827 drawing mad
+ e with the camera lucida by inventor Sir John Frederick William Herschel.\
+ nhttps://harvardartmuseums.org/event/4251\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://harvardartmuseums.org/event/4251
+END:VEVENT
+BEGIN:VEVENT
+UID:d17e882a3ccfcdc1d55aa5d0d3716d7a664aa861@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261124T230000Z
+DTEND:20261125T010000Z
+SUMMARY:Beaumarchais: Playwright\, Secret Agent\, Revolutionary
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:The little-known story of the man behind Figaro and the secret 
+ French support that helped sustain the American Revolution.\nhttps://frenc
+ hlibrary.org/events/beaumarchais-robert-allison-250-2026/\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://frenchlibrary.org/events/beaumarchais-robert-allison-250-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:60a5ef0162886475b5d2abb5d6cda78334ade395@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261125T050000Z
+DTEND:20261125T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89058\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89058
+END:VEVENT
+BEGIN:VEVENT
+UID:283918d01db5b636277e5de052f9cff7e764f9d4@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261126T050000Z
+DTEND:20261126T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89059\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89059
+END:VEVENT
+BEGIN:VEVENT
+UID:4449c624c7b71ae02a8ad9574a3bd4e61dd87a23@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261127T050000Z
+DTEND:20261127T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905a\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905a
+END:VEVENT
+BEGIN:VEVENT
+UID:0e926e3b38c9044d79e259d80b11791fd9f2cecd@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261128T050000Z
+DTEND:20261128T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905b\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905b
+END:VEVENT
+BEGIN:VEVENT
+UID:904e18993019ebfdd5118461e895729575fbf5da@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261129T050000Z
+DTEND:20261129T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905c\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905c
+END:VEVENT
+BEGIN:VEVENT
+UID:ca556ed37f7cfb7699fca636a957b5eca6b0211f@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261130T050000Z
+DTEND:20261130T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905d\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905d
+END:VEVENT
+BEGIN:VEVENT
+UID:8b1174a4aa1fe4765d394d0faf614ddf081394b3@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261201T050000Z
+DTEND:20261201T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905e\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905e
+END:VEVENT
+BEGIN:VEVENT
+UID:2fe6efa3947d0696ece1b4213c5b778720b03664@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261201T053000Z
+DTEND:20261201T073000Z
+SUMMARY:Gallery Talk: Activation of Moholy-Nagy’s Light Prop for an Elect
+ ric Stage
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join staff as they discuss and activate this experimental devic
+ e from 1930 by Bauhaus pioneer László Moholy-Nagy.\nhttps://harvardartmu
+ seums.org/event/4204\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardartmuseums.org/event/4204
+END:VEVENT
+BEGIN:VEVENT
+UID:4aa6ddf8fc386b7233a2de5a0fcbf21ffaf090bd@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261202T003000Z
+DTEND:20261202T023000Z
+SUMMARY:Smut Slam
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:What's a SMUT SLAM? I'm so glad you asked! It's a fast-paced st
+ orytelling open mic based on REAL life\, REAL lust\, REAL sex. Consenting 
+ Slammers sign up on the night of to tell a 5-minute dirty story\, based on
+  their real lives\, and a lucky 8-10 names will be drawn at random. A pane
+ l of celebrity judges will be on hand to evaluate your stories\, and besto
+ w the top three Slammers with a sack of sexy swag from Good Vibrations Har
+ vard Square. You will also have the opportunity to win goodies from NJOY b
+ y submitting your anonymous questions and confessions!\nhttps://artsatthea
+ rmory.org/events/smut-slam-3-2026-08-04-2026-09-01-2026-10-06-2026-11-03-2
+ 026-12-01/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artsatthearmory.org/events/smut-slam-3-2026-08-04-2026-09-01-20
+ 26-10-06-2026-11-03-2026-12-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:591779ddcba9d6048c61ed89d172c335851c7191@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261202T050000Z
+DTEND:20261202T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905f\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905f
+END:VEVENT
+BEGIN:VEVENT
+UID:24a8ba545761df3dcf1dace5f898a2b5d5f04657@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261202T173000Z
+DTEND:20261202T193000Z
+SUMMARY:Gallery Talk: On Location: Drawing the Outdoors
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Curatorial fellow Alec Aldrich will discuss an 1827 drawing mad
+ e with the camera lucida by inventor Sir John Frederick William Herschel.\
+ nhttps://harvardartmuseums.org/event/4252\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://harvardartmuseums.org/event/4252
+END:VEVENT
+BEGIN:VEVENT
+UID:829a4c7aef31f75d10be478fd5fdda1654c0cb74@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261202T180000Z
+DTEND:20261202T200000Z
+SUMMARY:Presses\, Plates\, and Propaganda: 18th-Century Print Culture in th
+ e Americas
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/presses-plates-and-propaganda
+ -18th-century-print-culture-in-the-americas?event=178431\nFrom Pushpin Bos
+ ton: https://pushpin.city/
+URL:https://www.mfa.org/event/lecture/presses-plates-and-propaganda-18th-ce
+ ntury-print-culture-in-the-americas?event=178431
+END:VEVENT
+BEGIN:VEVENT
+UID:8d6b0e6b4cc738a21f791d8eaeeba92cafcd3b44@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261202T230000Z
+DTEND:20261203T010000Z
+SUMMARY:Author Talk: Carlton Champion - Notes to My Father
+LOCATION:Adams Street Library\, 690 Adams Street\, Dorchester\, MA 02122
+DESCRIPTION:Join Boston author Carlton Champian for a reading and conversat
+ ion centered on Notes to My Father\, a personal collection exploring fathe
+ rhood\, absence\, grief\, and healing. Participants can expect heartfelt s
+ torytelling\, space for reflection and discussion\, and an opportunity to 
+ write a letter of their own. Sharing is optional.\nhttps://bpl.bibliocommo
+ ns.com/events/6aee234e9dbc2b002c93d361\nFrom Pushpin Boston: https://pushp
+ in.city/
+URL:https://bpl.bibliocommons.com/events/6aee234e9dbc2b002c93d361
+END:VEVENT
+BEGIN:VEVENT
+UID:9c1547d9eaae5afa0fce90d437c24c059eea1339@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261202T230000Z
+DTEND:20261203T010000Z
+SUMMARY:John Constable and the Outdoors: Writing about Drawing
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join author Susan Owens and curator Joachim Homann for a conver
+ sation about the drawings and paintings of John Constable.\nhttps://harvar
+ dartmuseums.org/event/4170\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardartmuseums.org/event/4170
+END:VEVENT
+BEGIN:VEVENT
+UID:36ccdeeaae23a991c664e7687e3389db0d43e370@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261203T050000Z
+DTEND:20261203T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89060\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89060
+END:VEVENT
+BEGIN:VEVENT
+UID:2b40ef3265b5af34a850a5c69a7e9627cc958509@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261203T220000Z
+DTEND:20261204T000000Z
+SUMMARY:Author Ted Chiang in Conversation with MIT President Sally Kornblut
+ h
+LOCATION:MIT\, 160 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:Join us for a special conversation with author Ted Chiang and M
+ IT President Sally Kornbluth about Exhalation. President Kornbluth has cho
+ sen Chiang’s celebrated science fiction short story collection to celebr
+ ate 10 years of MIT Reads. Exploring the book’s provocative questions ab
+ out technology and humanity\, their discussion will focus on the stories "
+ The Truth of Fact\, the Truth of Feeling\,” "The Lifecycle of Software O
+ bjects\,” “Omphalos\,” “What’s Expected of Us\," and "Exhalation
+ ."\nhttps://calendar.mit.edu/event/author-ted-chiang-in-conversation-with-
+ mit-president-sally-kornbluth\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/author-ted-chiang-in-conversation-with-m
+ it-president-sally-kornbluth
+END:VEVENT
+BEGIN:VEVENT
+UID:848d6bf9364df230629e8c7e53e985382175164e@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:Meriem Chabani. Communion It is embarrassing to believe. It is terr
+ ifying to care. What happens when we dare anyway?
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Algerian born\, Paris based Meriem Chabani is the founder and P
+ rincipal of NEW SOUTH\, an award-winning architecture\, urban planning and
+  anthropology practice that puts the margin at the center. Her work on civ
+ ic spaces\, memory and belonging includes includes the Taungdwingyi cultur
+ al center in Myanmar\, the Globe Aroma refugee art center in Brussels\, an
+ d the upcoming Mosque Zero in Paris. She is currently a finalist for the N
+ ational Slavery Museum in Amsterdam. As an educator\, Chabani has taught a
+ nd lectured extensively. She has notably served as Aga Khan Design Critic 
+ in Architecture at Harvard GSD (USA)\, and currently teaches at Ecole Pari
+ s Malaquais (FR). Her work has regularly been distinguished and showcased 
+ at a number of international architecture Biennials\, including Venice\, I
+ stanbul\, Oslo and Lagos. In 2020 Chabani won the Europe 40 under 40 award
+  from The European Centre for Architecture and The Chicago Athenaeum. In 2
+ 023\, she is one of the emerging women architects for AMC. In 2025\, Le Mo
+ nde names her one of the leading voices in culture in France.\nhttps://cal
+ endar.mit.edu/event/meriem-chabani-communion-it-is-embarrassing-to-believe
+ -it-is-terrifying-to-care-what-happens-when-we-dare-anyway\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/meriem-chabani-communion-it-is-embarrass
+ ing-to-believe-it-is-terrifying-to-care-what-happens-when-we-dare-anyway
+END:VEVENT
+BEGIN:VEVENT
+UID:9f1f79d26cbab18b29c211c648727b54eeacb8f1@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:New South—Meriem Chabani
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Part of the MIT Fall 2026 Architecture Lecture Series.\nhttps:/
+ /calendar.mit.edu/event/new-southmeriem-chabani\nFrom Pushpin Boston: http
+ s://pushpin.city/
+URL:https://calendar.mit.edu/event/new-southmeriem-chabani
+END:VEVENT
+BEGIN:VEVENT
+UID:9e993b79f7750139a7008e8bcd8d89f15754f471@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Mo Rocca’s Variety Pack Approach to Living
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity
+ -lectures/mo-roccas-variety-pack-approach-to-living?event=178931\nFrom Pus
+ hpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity-lecture
+ s/mo-roccas-variety-pack-approach-to-living?event=178931
+END:VEVENT
+BEGIN:VEVENT
+UID:f26a5e1b4a737b769b86a60177a7005c7e5da601@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261204T050000Z
+DTEND:20261204T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89061\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89061
+END:VEVENT
+BEGIN:VEVENT
+UID:e9ebbed14221c7bbc6ed943cd99f273c5d29cf32@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261204T160000Z
+DTEND:20261204T180000Z
+SUMMARY:Art Study Center Seminar: A Closer Look at the Forbes Pigment Colle
+ ction
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Alison Cariens for an exploration of the history of the pi
+ gments in our famed Forbes Pigment Collection.\nhttps://harvardartmuseums.
+ org/event/4246\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardartmuseums.org/event/4246
+END:VEVENT
+BEGIN:VEVENT
+UID:b51fe8f0741cd41e8836c0413d6c24bd649677fe@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261204T180000Z
+DTEND:20261204T200000Z
+SUMMARY:Charla En El Grupo De Lectura
+LOCATION:Connolly Library\, 433 Centre St\, Jamaica Plain\, MA 02130
+DESCRIPTION:La mula ciega por Karen Castañeda Una historia inspirada en ac
+ ontecimientos reales enlaza tres vidas como consecuencia de un plan monstr
+ uoso creado por un crimen organizado. Un malhechor\, una madre soltera y u
+ na mujer arrepentida desarrollan una trama llena de ambición\, dolor y ju
+ sticia. La aventura de María la lleva a destapar un caso terrorífico que
+  conmocionó todos los niveles políticos y sociales en las comunidades fr
+ onterizas de El Paso\, Texas\, y Ciudad Juárez En esta charla vamos a exp
+ lorar una conversación sobre la frontera\, la resiliencia\, la injusticia
+  constitucional y la importancia de contar historias que nacen de nuestra 
+ comunidad y en nuestra lenguas. Después\, tendremos una sesión de pregun
+ tas para conversar directamente con la autora.\nhttps://bpl.bibliocommons.
+ com/events/6aea362b035faf0033e12533\nFrom Pushpin Boston: https://pushpin.
+ city/
+URL:https://bpl.bibliocommons.com/events/6aea362b035faf0033e12533
+END:VEVENT
+BEGIN:VEVENT
+UID:55b1a93534b7d2188f486debe8d56046b1f0828e@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261204T190000Z
+DTEND:20261204T210000Z
+SUMMARY:First/Hand Fridays: Emergent Grounds—Drawing as Public Practice
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Calling all Harvard students! Check out landscape drawings with
+  staff and consider how they can articulate environments and states of bei
+ ng.\nhttps://harvardartmuseums.org/event/4140\nFrom Pushpin Boston: https:
+ //pushpin.city/
+URL:https://harvardartmuseums.org/event/4140
+END:VEVENT
+BEGIN:VEVENT
+UID:2c11ad8d34d90e0e98ff2ca00c544acca90f7abc@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261204T220000Z
+DTEND:20261205T000000Z
+SUMMARY:First Friday
+LOCATION:SoWa\, 450 Harrison Ave\, Boston\, MA 02118
+DESCRIPTION:On the First Friday of every month\, the artists\, galleries\, 
+ shops and showrooms of the SoWa Art + Design District in the South End ope
+ n their doors to the public for an evening of art\, culture and inspiratio
+ n. Meet the artists in their element\, view the latest gallery exhibitions
+ \, shop small\, and dine at one of SoWa’s world-class restaurants.\nhttp
+ s://www.sowaboston.com/event/first-friday-40/\nFrom Pushpin Boston: https:
+ //pushpin.city/
+URL:https://www.sowaboston.com/event/first-friday-40/
+END:VEVENT
+BEGIN:VEVENT
+UID:a2a0120da3f90532db1441698aff72e4251b0dac@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261204T230000Z
+DTEND:20261205T010000Z
+SUMMARY:First Fridays
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/mfa-first-fridays?event
+ =179356\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/special-event/mfa-first-fridays?event=179356
+END:VEVENT
+BEGIN:VEVENT
+UID:f8f0d6eee84ce4ec6a16170c0ab3c1aecfab5912@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261204T230000Z
+DTEND:20261205T010000Z
+SUMMARY:First Fridays: Made with Love
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:*Tickets will be available for nonmembers on 11/18 at 11 AM.\nh
+ ttps://www.icaboston.org/events/first-friday-made-with-love/\nFrom Pushpin
+  Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/first-friday-made-with-love/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d88aa6aa907c97f1c8b194b08e374ccc37126ce@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261205T050000Z
+DTEND:20261205T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89062\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89062
+END:VEVENT
+BEGIN:VEVENT
+UID:8361b6d91d6bbd0a120c56e03394fe9ea79ae7d1@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Author Talk: Paul Lewis — How "The Raven" Became America's Most F
+ amous Poem
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join Boston College Professor Emeritus Paul Lewis in a discussi
+ on of his new book on Edgar Allan Poe's famous poem.\nhttps://bpl.biblioco
+ mmons.com/events/6a8f3fed29a7dd0d6746ddcb\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://bpl.bibliocommons.com/events/6a8f3fed29a7dd0d6746ddcb
+END:VEVENT
+BEGIN:VEVENT
+UID:a8dbaf5ea1f49677760857299d32647a1fc88894@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Brighton on Atlascope: Exploring the Urban History of Brighton thro
+ ugh Maps
+LOCATION:Brighton Library\, 40 Academy Hill Rd\, Brighton\, MA 02135
+DESCRIPTION:How has the landscape of Brighton changed over time? How can yo
+ u use digital map collections to investigate the history of a house\, a ne
+ ighborhood\, or a city? How can the stories of places open up new perspect
+ ives on the past and present?\nhttps://bpl.bibliocommons.com/events/6acfc8
+ 6529c3d600332fe56f\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6acfc86529c3d600332fe56f
+END:VEVENT
+BEGIN:VEVENT
+UID:eb6618106603525b65b9cc03e25d33891bc4f386@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Royal Portraiture of Amenhotep III at Thebes
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/barbara-w-herman-memorial-lecture/roy
+ al-portraiture-of-amenhotep-iii-at-thebes?event=179111\nFrom Pushpin Bosto
+ n: https://pushpin.city/
+URL:https://www.mfa.org/event/barbara-w-herman-memorial-lecture/royal-portr
+ aiture-of-amenhotep-iii-at-thebes?event=179111
+END:VEVENT
+BEGIN:VEVENT
+UID:1496dacf46f6b8072ee853159c0fd244aedf66e5@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261206T050000Z
+DTEND:20261206T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89063\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89063
+END:VEVENT
+BEGIN:VEVENT
+UID:e7af131357ccf4cb8f7e091980fd53b505536914@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261206T150000Z
+DTEND:20261206T170000Z
+SUMMARY:Hanukkah
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/hanukkah?event=6043\nFr
+ om Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/special-event/hanukkah?event=6043
+END:VEVENT
+BEGIN:VEVENT
+UID:f0a6b870867f92542c9ea401f7bbd7466c92dbb2@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261207T050000Z
+DTEND:20261207T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89064\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89064
+END:VEVENT
+BEGIN:VEVENT
+UID:0cbbdb774284cba83723398d97d2738330a2a9fe@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261208T050000Z
+DTEND:20261208T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89065\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89065
+END:VEVENT
+BEGIN:VEVENT
+UID:cbafdb8dd2f0954c29c678f082a5349f69f45787@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261208T230000Z
+DTEND:20261209T010000Z
+SUMMARY:Author Talk: Steven Levitsky with "How Democracies Die"
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join us for this talk with author Steven Levitsky on his book\,
+  How Democracies Die. This program is a partnership between the Boston Pub
+ lic Library and the Citywide Friends of the BPL.\nhttps://bpl.bibliocommon
+ s.com/events/6ae24987198b996a80a93ffb\nFrom Pushpin Boston: https://pushpi
+ n.city/
+URL:https://bpl.bibliocommons.com/events/6ae24987198b996a80a93ffb
+END:VEVENT
+BEGIN:VEVENT
+UID:40f316fc5bda79facc33adee7f692db16f18fffd@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261209T050000Z
+DTEND:20261209T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89066\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89066
+END:VEVENT
+BEGIN:VEVENT
+UID:4b07248f917aeb4e0578a14afddd23d6f94fc3f3@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261209T173000Z
+DTEND:20261209T193000Z
+SUMMARY:State of the Library with BPL President David Leonard
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join Boston Public Library President David Leonard for the Stat
+ e of the Library.\nhttps://bpl.bibliocommons.com/events/6aeba3569d27a00045
+ 55bdf9\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aeba3569d27a0004555bdf9
+END:VEVENT
+BEGIN:VEVENT
+UID:712ae9a5cbf13ec6c77717dc4d601c8980496b85@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261209T180000Z
+DTEND:20261209T200000Z
+SUMMARY:Representations of Liberty in American Folk Art
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/representations-of-liberty-in
+ -american-folk-art?event=178441\nFrom Pushpin Boston: https://pushpin.city
+ /
+URL:https://www.mfa.org/event/lecture/representations-of-liberty-in-america
+ n-folk-art?event=178441
+END:VEVENT
+BEGIN:VEVENT
+UID:801c80acb556e5294395f94911ee52a65ee2ff5e@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261209T223000Z
+DTEND:20261210T003000Z
+SUMMARY:Casse-Noisette: A Holiday Tale in Music
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:The Arpeggione Ensemble presents a magical mini Nutcracker: Tch
+ aikovsky's music paired with French narration and illustrations from Dumas
+ 's Histoire d'un casse-noisette.\nhttps://frenchlibrary.org/events/french_
+ nutcracker-2026/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://frenchlibrary.org/events/french_nutcracker-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:7d9284ab05cefeaca55d6914abe18696fd3e13da@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261209T230000Z
+DTEND:20261210T010000Z
+SUMMARY:The Material Culture of Islamic Calligraphy
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Learn about the tools used in Islamic calligraphy\, from reed p
+ ens and penknives to cutting boards and scissors.\nhttps://harvardartmuseu
+ ms.org/event/4172\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardartmuseums.org/event/4172
+END:VEVENT
+BEGIN:VEVENT
+UID:e380ec30980d13c3cf13fcffa81f5f3a4816da78@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261209T233000Z
+DTEND:20261210T013000Z
+SUMMARY:Author Talk: Jason Allison—The Killing Yards
+LOCATION:South End Library\, 685 Tremont St\, Boston\, MA 02118
+DESCRIPTION:The Fall 2026 Author Talk Series\, presented by the Friends of 
+ the South End Library\, will wrap up with Jason Allison sharing his debut 
+ novel\, The Killing Yards. Please join us on Wednesday\, December 9 starti
+ ng at 6:30 pm at Union Church (Connection Room\, 485 Columbus Ave.) for a 
+ fun and lively conversation in this author talk series!\nhttps://bpl.bibli
+ ocommons.com/events/6aa9a8c9a5dbde002aa4cafc\nFrom Pushpin Boston: https:/
+ /pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aa9a8c9a5dbde002aa4cafc
+END:VEVENT
+BEGIN:VEVENT
+UID:89ef210bec97b4e5d56b6c5e5a81304751733ed3@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261210T050000Z
+DTEND:20261210T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89067\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89067
+END:VEVENT
+BEGIN:VEVENT
+UID:e8c44d9dbc357434aa5bd024c27b28cb3f372eed@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261210T170000Z
+DTEND:20261210T190000Z
+SUMMARY:Author Talk: Cotten Seiler on “White Care”
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join Dickinson College professor Cotten Seiler for a conversati
+ on about his new book\, White Care. The book discusses how few of us\, goi
+ ng about our daily lives\, notice the infrastructure that surrounds us and
+  makes those lives possible. What also remains hidden in plain sight is ho
+ w public infrastructure in the United States has been shaped by theories o
+ f race and human evolution. Cotten Seiler’s White Care shows that\, from
+  the late 1800s to the present\, expert assessments of the quality of the 
+ national population have both driven and thwarted the state’s provision 
+ of infrastructures of water\, sanitation\, energy\, transportation\, recre
+ ation\, and education. If a nation’s infrastructure is a concrete measur
+ e of its belief in its population’s future\, what does the current state
+  of American infrastructure say about us?\nhttps://bpl.bibliocommons.com/e
+ vents/6aea33f296ec3a003adf1244\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aea33f296ec3a003adf1244
+END:VEVENT
+BEGIN:VEVENT
+UID:5d7b1b90ac045c5ba39bc7e189ddc4b4c6b39b16@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261210T173000Z
+DTEND:20261210T193000Z
+SUMMARY:Gallery Talk: The Gelatin Silver Print
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join photographs conservator Tatiana Cole for a talk about the 
+ most popular photographic process of the 20th century: the gelatin silver 
+ print.\nhttps://harvardartmuseums.org/event/4190\nFrom Pushpin Boston: htt
+ ps://pushpin.city/
+URL:https://harvardartmuseums.org/event/4190
+END:VEVENT
+BEGIN:VEVENT
+UID:f4841c6570f88d082633cc46581f9e7bdea23835@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261211T050000Z
+DTEND:20261211T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89068\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89068
+END:VEVENT
+BEGIN:VEVENT
+UID:b2e47d7d5bc20521ad2c229ff4a5a64d7bce01e9@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:The Inevitable Return: Exploding Plastic Revisited
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:On October 29\, 1966\, the ICA/Boston hosted a groundbreaking m
+ ultimedia performance by Andy Warhol and the Velvet Underground under the 
+ enigmatic title “Exploding Plastic Inevitable.” Presented as part of W
+ arhol’s second-ever museum exhibition\, the event invited audiences to e
+ xperience a cacophony of durational light and sound activations\, meant to
+  challenge any expectations of instant pleasure or gratification. The Velv
+ et Underground had become well-known for their dark\, minimalist\, and occ
+ asionally abrasive sound. Among Warhol’s goals for the piece were to exp
+ lore the capacity to bestow renewed interest upon details that are often s
+ ubmerged in the normative\, evenly lit flow of time. In addition to live m
+ usic\, the night consisted of film projections\, a variety of strobe and s
+ potlights\, and choreographed dance\, to create a singular\, and confronta
+ tional\, total-art experience.\nhttps://www.icaboston.org/events/the-inevi
+ table-return-exploding-plastic-revisited/\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://www.icaboston.org/events/the-inevitable-return-exploding-plasti
+ c-revisited/
+END:VEVENT
+BEGIN:VEVENT
+UID:44a1b3cfff567115d44f851d5e3017bc9d11b24f@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261212T050000Z
+DTEND:20261212T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89069\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89069
+END:VEVENT
+BEGIN:VEVENT
+UID:29c78758096403f271cbed84957983782c6f7e2b@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Life Sciences in the Galleries
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Times: 11am\, 2pm\nJoin Harvard grad students and postdocs in l
+ ife sciences for 5-minute lightning talks about art that offers a window i
+ nto their research.\nhttps://harvardartmuseums.org/event/4207\nFrom Pushpi
+ n Boston: https://pushpin.city/
+URL:https://harvardartmuseums.org/event/4207
+END:VEVENT
+BEGIN:VEVENT
+UID:3b490089124aa7207ca097f6c5cf1914d24e36d6@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261213T050000Z
+DTEND:20261213T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8906a\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8906a
+END:VEVENT
+BEGIN:VEVENT
+UID:87a5d8cd14ae81be5b1a99733b96b093ab7069d6@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261213T190000Z
+DTEND:20261213T210000Z
+SUMMARY:Gallery Talk: Ruth Erickson on Leilah Babirye: Embaga ya Naki ne Na
+ ki (Wedding of Naki and Naki)
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:You’re invited to Leilah Babirye: Embaga ya Naki ne Naki (Wed
+ ding of Naki and Naki)!\nhttps://www.icaboston.org/events/gallery-talk-rut
+ h-erickson-on-leilah-babirye-embaga-ya-naki-ne-naki-wedding-of-naki-and-na
+ ki/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/gallery-talk-ruth-erickson-on-leilah-b
+ abirye-embaga-ya-naki-ne-naki-wedding-of-naki-and-naki/
+END:VEVENT
+BEGIN:VEVENT
+UID:f7dbdaf74b7e059c4da580f8438a326b2489cd95@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261214T050000Z
+DTEND:20261214T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8906b\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8906b
+END:VEVENT
+END:VCALENDAR

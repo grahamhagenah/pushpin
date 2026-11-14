@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5b07926c2c24681d9924586c1c1edae015f7269e@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T011500Z
+DTEND:20261115T031500Z
+SUMMARY:Lucy Wainwright Roche
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/instance
+ s/a0FV500000NSLfNMAX
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/instances/a0FV50
+ 0000NSLfNMAX
+END:VEVENT
+END:VCALENDAR

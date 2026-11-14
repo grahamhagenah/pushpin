@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:94bbc87c38b70030f1315c9cc518570d1f42542e@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T031500Z
+DTEND:20261205T051500Z
+SUMMARY:Violent Night 2
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/movie-party-violent-night-2
+URL:https://drafthouse.com/boston/show/movie-party-violent-night-2
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:19c37bf8397b524e3017390afecd405e3d984ac3@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T210000Z
+DTEND:20261212T230000Z
+SUMMARY:Olaf’s Frozen Adventure (2017)
+LOCATION:Mahaiwe\, 20 Castle Street\, Great Barrington\, MA
+DESCRIPTION:https://mahaiwe.org/event/olafs-frozen-adventure-2017-2/
+URL:https://mahaiwe.org/event/olafs-frozen-adventure-2017-2/
+END:VEVENT
+END:VCALENDAR

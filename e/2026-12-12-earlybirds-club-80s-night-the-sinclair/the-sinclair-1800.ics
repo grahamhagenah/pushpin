@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4a526be293a2d70d995394f7797fec6a2bf74c01@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T230000Z
+DTEND:20261213T010000Z
+SUMMARY:Earlybirds Club - 80s Night
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1645194
+URL:https://www.sinclaircambridge.com/events/detail/1645194
+END:VEVENT
+END:VCALENDAR

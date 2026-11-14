@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e29cbc42ddc6c8fc04eb44fb565fe8ae2e0e755e@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261119T184500Z
+DTEND:20261119T204500Z
+SUMMARY:Wild Horse Nine
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/wild-horse-nine
+URL:https://www.thetriplex.org/movie/wild-horse-nine
+END:VEVENT
+END:VCALENDAR

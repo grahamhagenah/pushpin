@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ce000e52ebed3baa0443c61e30254e80eea2e406@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Tunes For Tots (fundraiser show for Toys for Tots) ft. The McGunks\
+ , Mass Spy\, Matt Trainor\, and Jeff Bousquet
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/2758/1795982400000
+URL:https://tockify.com/midwaycafejp/detail/2758/1795982400000
+END:VEVENT
+END:VCALENDAR

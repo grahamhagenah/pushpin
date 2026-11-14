@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9dc244e989958233c35f4eb299b31fba80575466@pushpin.city
+DTSTAMP:20261120T000000Z
+DTSTART:20261121T031500Z
+DTEND:20261121T051500Z
+SUMMARY:Paper Tiger
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/paper-tiger
+URL:https://drafthouse.com/boston/show/paper-tiger
+END:VEVENT
+END:VCALENDAR

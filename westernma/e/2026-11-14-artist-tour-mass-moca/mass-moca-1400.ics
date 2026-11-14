@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1bf13f872777d2017d3dd074c80c6450aedf784d@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+SUMMARY:Artist Tour
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:https://massmoca.org/event/artist-tour-jimena-sarno-rhapsody/
+URL:https://massmoca.org/event/artist-tour-jimena-sarno-rhapsody/
+END:VEVENT
+END:VCALENDAR

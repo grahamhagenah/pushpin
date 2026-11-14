@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:364d18b2fd4e577856dc530fccf35193872a6bc9@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:New England Irish Harp Orchestra - NEIHO
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=100
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=100
+END:VEVENT
+END:VCALENDAR

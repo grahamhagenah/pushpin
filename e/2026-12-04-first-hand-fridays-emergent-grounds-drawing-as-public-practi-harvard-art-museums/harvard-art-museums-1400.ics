@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:587d2bd251e92a289a001f58b383e34b9f9f86c4@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261204T190000Z
+DTEND:20261204T210000Z
+SUMMARY:First/Hand Fridays: Emergent Grounds—Drawing as Public Practice
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardartmuseums.org/event/4140
+URL:https://harvardartmuseums.org/event/4140
+END:VEVENT
+END:VCALENDAR

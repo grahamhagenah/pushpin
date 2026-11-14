@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f281b49fd0e92d96b52fdad63a933f5938468f63@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261209T173000Z
+DTEND:20261209T193000Z
+SUMMARY:State of the Library with BPL President David Leonard
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:https://bpl.bibliocommons.com/events/6aeba3569d27a0004555bdf9
+URL:https://bpl.bibliocommons.com/events/6aeba3569d27a0004555bdf9
+END:VEVENT
+END:VCALENDAR

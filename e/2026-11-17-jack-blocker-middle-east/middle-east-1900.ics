@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7e798b0665d4d0e984cb03f8b64ee5c05ae8c934@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+SUMMARY:Jack Blocker
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/jack-blocker-middle-east-upstai
+ rs-tickets/14292494?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/jack-blocker-middle-east-upstairs-ticke
+ ts/14292494?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

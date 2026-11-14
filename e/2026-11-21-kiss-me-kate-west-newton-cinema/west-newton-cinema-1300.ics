@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a30f11fe9520f592a9a3e0086426c8a875d265d6@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T200000Z
+SUMMARY:Kiss Me Kate
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/kiss-me-kate
+URL:https://www.westnewtoncinema.com/movie/kiss-me-kate
+END:VEVENT
+END:VCALENDAR

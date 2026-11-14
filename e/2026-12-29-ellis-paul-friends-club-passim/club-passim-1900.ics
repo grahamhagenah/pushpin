@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:11edc6fe6dbf1666bb105fa00f5788f7adb34597@pushpin.city
+DTSTAMP:20261229T000000Z
+DTSTART:20261230T000000Z
+DTEND:20261230T020000Z
+SUMMARY:Ellis Paul & Friends
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/ellis-paul-friends/
+URL:https://www.passim.org/live-music/events/ellis-paul-friends/
+END:VEVENT
+END:VCALENDAR

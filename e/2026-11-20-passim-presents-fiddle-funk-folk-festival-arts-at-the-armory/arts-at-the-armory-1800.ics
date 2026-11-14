@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c841447e3336e2ded33abeccab3c0d4da3209265@pushpin.city
+DTSTAMP:20261120T000000Z
+DTSTART:20261120T230000Z
+DTEND:20261121T010000Z
+SUMMARY:Passim Presents Fiddle Funk Folk Festival
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/fiddle-funk-folk-festival/
+URL:https://artsatthearmory.org/events/fiddle-funk-folk-festival/
+END:VEVENT
+END:VCALENDAR

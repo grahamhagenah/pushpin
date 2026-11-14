@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ead3a8f07a01cdecf346d464911bb07ff095b0cd@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T201500Z
+DTEND:20261114T221500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:https://www.capitoltheatreusa.com/movie/the-only-living-pickpoc
+ ket-in-new-york/
+URL:https://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-in-n
+ ew-york/
+END:VEVENT
+END:VCALENDAR

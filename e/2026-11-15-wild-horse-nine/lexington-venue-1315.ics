@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d14c212e2ea946ff36a23a35592d4f1b8a6d8f3f@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261115T181500Z
+DTEND:20261115T201500Z
+SUMMARY:Wild Horse Nine
+LOCATION:Lexington Venue\, 1794 Massachusetts Ave\, Lexington\, MA 02420
+DESCRIPTION:https://www.internet-ticketing.com/websales/sales/LEXLEX/start
+URL:https://www.internet-ticketing.com/websales/sales/LEXLEX/start
+END:VEVENT
+END:VCALENDAR

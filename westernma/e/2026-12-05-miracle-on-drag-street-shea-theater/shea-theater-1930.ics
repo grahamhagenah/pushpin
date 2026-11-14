@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:024a4ed80e3a841a59604f1c7d9edf6998757171@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:Miracle on Drag Street
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:https://sheatheater.org/d/23345/Eggtooth-Productions-Presents-M
+ iracle-on-Drag-Street
+URL:https://sheatheater.org/d/23345/Eggtooth-Productions-Presents-Miracle-o
+ n-Drag-Street
+END:VEVENT
+END:VCALENDAR

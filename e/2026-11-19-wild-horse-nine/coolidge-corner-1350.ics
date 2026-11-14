@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:51dd1ef1d7bd6a86c616d5a177e8e240e2e5734c@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261119T185000Z
+DTEND:20261119T205000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/films/wild-horse-nine
+URL:https://coolidge.org/films/wild-horse-nine
+END:VEVENT
+END:VCALENDAR

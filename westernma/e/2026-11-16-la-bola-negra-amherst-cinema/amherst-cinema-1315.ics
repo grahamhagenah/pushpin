@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e401ad90de12aac509b9092c7ac18fa7a9d6ab68@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261116T181500Z
+DTEND:20261116T201500Z
+SUMMARY:La Bola Negra
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/la-bola-negra
+URL:https://amherstcinema.org/films-and-events/la-bola-negra
+END:VEVENT
+END:VCALENDAR

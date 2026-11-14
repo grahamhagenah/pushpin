@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cb06c11c5b043c0c2e763845903d3b8f15dcc2ed@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261117T000000Z
+DTEND:20261117T020000Z
+SUMMARY:Yung Gravy: The Joyrider Tour
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/yung-gravy-the-joyrider-tour-bosto
+ n-massachusetts-11-16-2026/event/01006515C83A26C8
+URL:https://www.ticketmaster.com/yung-gravy-the-joyrider-tour-boston-massac
+ husetts-11-16-2026/event/01006515C83A26C8
+END:VEVENT
+END:VCALENDAR

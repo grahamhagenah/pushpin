@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:905e2baf60d4854a8b7fda47a5e841f08b2bc59a@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261208T230000Z
+DTEND:20261209T010000Z
+SUMMARY:Author Talk: Steven Levitsky with "How Democracies Die"
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:https://bpl.bibliocommons.com/events/6ae24987198b996a80a93ffb
+URL:https://bpl.bibliocommons.com/events/6ae24987198b996a80a93ffb
+END:VEVENT
+END:VCALENDAR

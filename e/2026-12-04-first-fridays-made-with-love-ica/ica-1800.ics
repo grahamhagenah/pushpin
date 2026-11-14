@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bc07b5a6660b54d8d19b9cc6749a39caef9502d1@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261204T230000Z
+DTEND:20261205T010000Z
+SUMMARY:First Fridays: Made with Love
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:https://www.icaboston.org/events/first-friday-made-with-love/
+URL:https://www.icaboston.org/events/first-friday-made-with-love/
+END:VEVENT
+END:VCALENDAR

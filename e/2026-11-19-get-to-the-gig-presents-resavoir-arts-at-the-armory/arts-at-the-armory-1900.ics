@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:627f0628f0dc804427108ea84db58e65dee05614@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Get To the Gig Presents Resavoir
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/get-to-the-gig-presents-resa
+ voir/
+URL:https://artsatthearmory.org/events/get-to-the-gig-presents-resavoir/
+END:VEVENT
+END:VCALENDAR

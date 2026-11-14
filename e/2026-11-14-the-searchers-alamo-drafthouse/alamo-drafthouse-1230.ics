@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:138c099d8b5d6ed94affbd53754aa495695f5c8f@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T173000Z
+DTEND:20261114T193000Z
+SUMMARY:The Searchers
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/the-searchers
+URL:https://drafthouse.com/boston/show/the-searchers
+END:VEVENT
+END:VCALENDAR

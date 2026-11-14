@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:80d8c300a6b4ed557a57024f216c472a8d3eac29@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T210000Z
+DTEND:20261114T230000Z
+SUMMARY:Ebenezer
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/ebenezer
+URL:https://drafthouse.com/boston/show/ebenezer
+END:VEVENT
+END:VCALENDAR

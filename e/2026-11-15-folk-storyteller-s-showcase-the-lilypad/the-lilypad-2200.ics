@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f37934ea288e60ce62545073f25cafcc37818cea@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261116T030000Z
+DTEND:20261116T050000Z
+SUMMARY:Folk Storyteller's Showcase
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/11/15/folk-storytellers-
+ showcase
+URL:https://www.lilypadinman.com/home/2026/11/15/folk-storytellers-showcase
+END:VEVENT
+END:VCALENDAR

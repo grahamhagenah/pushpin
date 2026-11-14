@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8f2a732563b0b3672185a4e26b6eb33212dc9b80@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261119T220000Z
+DTEND:20261120T000000Z
+SUMMARY:$5 Third Thursday
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/5-third-thursday-novemb
+ er-2026?event=182336
+URL:https://www.mfa.org/event/special-event/5-third-thursday-november-2026?
+ event=182336
+END:VEVENT
+END:VCALENDAR

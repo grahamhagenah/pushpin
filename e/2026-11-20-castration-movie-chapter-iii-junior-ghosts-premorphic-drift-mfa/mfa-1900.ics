@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab5d0f64fe7bf7129ea46c8220d55dc991c2988c@pushpin.city
+DTSTAMP:20261120T000000Z
+DTSTART:20261121T000000Z
+DTEND:20261121T020000Z
+SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a 
+ Fragmentary Passage
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/castration-movie-chapter-iii-jun
+ ior-ghosts-premorphic-drift-a-fragmentary-passage?event=181726
+URL:https://www.mfa.org/event/film/castration-movie-chapter-iii-junior-ghos
+ ts-premorphic-drift-a-fragmentary-passage?event=181726
+END:VEVENT
+END:VCALENDAR

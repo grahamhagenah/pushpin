@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:06e9e411a689e898b1e1cd396113bc2c569e4533@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Sol y Canto
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/sol-y-canto/
+URL:https://www.passim.org/live-music/events/sol-y-canto/
+END:VEVENT
+END:VCALENDAR

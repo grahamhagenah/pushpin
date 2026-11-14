@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2f3033d987dac04dbad8881a8d661ce216dd8d24@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:Jesse Gallagher + Steve Fell
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/jesse-gallagher-steve-fe
+ ll-l4sd9-l9hcp-9x5ym-9cxt7-37jb4-62el8-8ftnb-xsaw3
+URL:https://www.lilypadinman.com/home/2026/jesse-gallagher-steve-fell-l4sd9
+ -l9hcp-9x5ym-9cxt7-37jb4-62el8-8ftnb-xsaw3
+END:VEVENT
+END:VCALENDAR

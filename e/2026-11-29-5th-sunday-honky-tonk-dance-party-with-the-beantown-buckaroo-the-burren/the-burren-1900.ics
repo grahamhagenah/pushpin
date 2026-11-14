@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f101522029b20bfaec36c2168838ef3593207bc1@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:5th Sunday Honky Tonk Dance Party with The Beantown Buckaroos
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1129
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1129
+END:VEVENT
+END:VCALENDAR

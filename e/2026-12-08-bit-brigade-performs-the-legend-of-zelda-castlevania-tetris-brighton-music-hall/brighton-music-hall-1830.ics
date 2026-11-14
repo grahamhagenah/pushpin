@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8fba5d000183e3e6961674fac9c11e3480576244@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261208T233000Z
+DTEND:20261209T013000Z
+SUMMARY:Bit Brigade Performs The Legend of Zelda + Castlevania + Tetris LIV
+ E
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/bit-brigade-performs-the-legend-of
+ -boston-massachusetts-12-08-2026/event/01006531B78E73E9
+URL:https://www.ticketmaster.com/bit-brigade-performs-the-legend-of-boston-
+ massachusetts-12-08-2026/event/01006531B78E73E9
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3d9656717865eb5248e6eacf08b4e21c5087ccd6@pushpin.city
+DTSTAMP:20270113T000000Z
+DTSTART:20270113T233000Z
+DTEND:20270114T013000Z
+SUMMARY:Bill Blumenreich Presents Payne Lindsey
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/bill-blumenreich-presents-pa
+ yne-lindsey/
+URL:https://artsatthearmory.org/events/bill-blumenreich-presents-payne-lind
+ sey/
+END:VEVENT
+END:VCALENDAR

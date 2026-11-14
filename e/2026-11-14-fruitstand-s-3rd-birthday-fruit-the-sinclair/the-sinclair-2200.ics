@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:15e7ff4ff87d58fd3b8ca9170bbc72649468f98b@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T030000Z
+DTEND:20261115T050000Z
+SUMMARY:fruitstand’s 3rd birthday: fruit
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1660240
+URL:https://www.sinclaircambridge.com/events/detail/1660240
+END:VEVENT
+END:VCALENDAR

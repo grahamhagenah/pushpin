@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b5425a524f57e29a6dc605e960d2a3dc14ba2fd2@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261116T000000Z
+DTEND:20261116T020000Z
+SUMMARY:Sarah Jarosz: 10 Years of Undercurrent
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000C59IHMAZ
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0C59IHMAZ
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:62e910cd0ebb5d531659d2313932ae02c868f1f8@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Sparks The Rescue (18+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/sparks-the-rescue-18-boston-massac
+ husetts-12-11-2026/event/0100654CE7D3FDCD
+URL:https://www.ticketmaster.com/sparks-the-rescue-18-boston-massachusetts-
+ 12-11-2026/event/0100654CE7D3FDCD
+END:VEVENT
+END:VCALENDAR

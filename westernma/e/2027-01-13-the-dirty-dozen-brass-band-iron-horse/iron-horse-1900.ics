@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e018accd32ebb4a24b7b84e667d0e70cd421f82d@pushpin.city
+DTSTAMP:20270113T000000Z
+DTSTART:20270114T000000Z
+DTEND:20270114T020000Z
+SUMMARY:The Dirty Dozen Brass Band
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000CoZBlMAN
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0CoZBlMAN
+END:VEVENT
+END:VCALENDAR

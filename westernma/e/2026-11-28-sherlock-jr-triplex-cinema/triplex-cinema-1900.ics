@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:25b6ff589c66da76fc77de103044bdee7d6d00da@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Sherlock Jr.
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/sherlock-jr
+URL:https://www.thetriplex.org/movie/sherlock-jr
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2ecaf48e136111a8dd54d03b15b1e6fb7570b7d0@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T220000Z
+DTEND:20261122T000000Z
+SUMMARY:Café Gherkinforke
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/11/21/caf-gherkinforke
+URL:https://www.lilypadinman.com/home/2026/11/21/caf-gherkinforke
+END:VEVENT
+END:VCALENDAR

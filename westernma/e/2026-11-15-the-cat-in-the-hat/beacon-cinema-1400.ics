@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3b8446d42d9d23554d06ff4767233f726d53be04@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261115T190000Z
+DTEND:20261115T210000Z
+SUMMARY:The Cat in the Hat
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.phoenixmovies.net/movies/the-cat-in-the-hat/HO00001
+ 721
+URL:https://www.phoenixmovies.net/movies/the-cat-in-the-hat/HO00001721
+END:VEVENT
+END:VCALENDAR

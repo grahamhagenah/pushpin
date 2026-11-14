@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d43b5a273cc211515f3d7f207ba3804f6e94f1de@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:Ali Vlachos | Cloudbelly | Bog Berries | A Pleasure to Have in Clas
+ s
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/2771/1797123600000
+URL:https://tockify.com/midwaycafejp/detail/2771/1797123600000
+END:VEVENT
+END:VCALENDAR

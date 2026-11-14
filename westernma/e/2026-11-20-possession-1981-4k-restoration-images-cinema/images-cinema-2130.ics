@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1e66c644f0f2ee2f613be6fa37e071ea6210091d@pushpin.city
+DTSTAMP:20261120T000000Z
+DTSTART:20261121T023000Z
+DTEND:20261121T043000Z
+SUMMARY:Possession (1981) 4K Restoration
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/possession-1981-4k-restorati
+ on
+URL:https://www.imagescinema.org/movie/possession-1981-4k-restoration
+END:VEVENT
+END:VCALENDAR

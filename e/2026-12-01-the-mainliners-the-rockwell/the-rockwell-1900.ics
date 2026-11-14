@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ca8242438a44600e1ffec9aa23c801532b36ae6d@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:The Mainliners
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/the-mainliners/
+URL:https://therockwell.org/calendar/the-mainliners/
+END:VEVENT
+END:VCALENDAR

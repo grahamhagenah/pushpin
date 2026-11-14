@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:de3c7c7d8eaeb7f4e4b7207c71c6a30c50482158@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T013000Z
+DTEND:20261122T033000Z
+SUMMARY:Sean Mason Trio
+LOCATION:Mahaiwe\, 20 Castle Street\, Great Barrington\, MA
+DESCRIPTION:https://mahaiwe.org/event/sean-mason-trio/2026-11-21/1/
+URL:https://mahaiwe.org/event/sean-mason-trio/2026-11-21/1/
+END:VEVENT
+END:VCALENDAR

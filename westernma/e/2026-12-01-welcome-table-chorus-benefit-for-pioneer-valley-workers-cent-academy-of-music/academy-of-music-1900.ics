@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:426942ee112cbda57340910b77dfaa99d96311eb@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:Welcome Table Chorus Benefit for Pioneer Valley Workers Center
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/welcome-table-chorus-benefit-f
+ or-pioneer-valley-workers-center/
+URL:https://aomtheatre.com/aom_event/welcome-table-chorus-benefit-for-pione
+ er-valley-workers-center/
+END:VEVENT
+END:VCALENDAR

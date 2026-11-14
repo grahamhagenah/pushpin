@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ea57b39aa08b8278bbd8f76b98980a9239c3bd23@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:Lyle Brewer + Max Wareham & Jack Holland
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000D7HavMAF
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0D7HavMAF
+END:VEVENT
+END:VCALENDAR

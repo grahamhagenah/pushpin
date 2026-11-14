@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:52753289fb4eaac63e74e7ef1e48906e1ef2416e@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261118T001500Z
+DTEND:20261118T021500Z
+SUMMARY:Being Heumann
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/being-heumann
+URL:https://www.westnewtoncinema.com/movie/being-heumann
+END:VEVENT
+END:VCALENDAR

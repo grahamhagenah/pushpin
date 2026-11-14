@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:36268fb698db8cdf4dcd45d77213300e61f7630b@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261208T233000Z
+DTEND:20261209T013000Z
+SUMMARY:Smith & Myers
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/smith-myers-boston-massachusetts-1
+ 2-08-2026/event/01006529E945557D
+URL:https://www.ticketmaster.com/smith-myers-boston-massachusetts-12-08-202
+ 6/event/01006529E945557D
+END:VEVENT
+END:VCALENDAR

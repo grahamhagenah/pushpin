@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:23e8ca8f20a6283f9dc91677b02af92b6b1a5823@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T220000Z
+DTEND:20261221T000000Z
+SUMMARY:Lori McKenna Band
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/lori-mckenna-band/
+URL:https://www.passim.org/live-music/events/lori-mckenna-band/
+END:VEVENT
+END:VCALENDAR

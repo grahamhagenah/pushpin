@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cc29b2ca30f57ce3e3263aa5c58c9bf58ed0b86e@pushpin.city
+DTSTAMP:20261120T000000Z
+DTSTART:20261121T024500Z
+DTEND:20261121T044500Z
+SUMMARY:The Devil Queen
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/devil-queen
+URL:https://amherstcinema.org/films-and-events/devil-queen
+END:VEVENT
+END:VCALENDAR

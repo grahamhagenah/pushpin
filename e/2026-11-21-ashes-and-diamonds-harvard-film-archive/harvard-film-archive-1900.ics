@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ca490fbcc1f1878e22c1038129a78bd107b315e3@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T020000Z
+SUMMARY:Ashes and Diamonds
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardfilmarchive.org/calendar/ashes-and-diamonds-2026
+ -12
+URL:https://harvardfilmarchive.org/calendar/ashes-and-diamonds-2026-12
+END:VEVENT
+END:VCALENDAR

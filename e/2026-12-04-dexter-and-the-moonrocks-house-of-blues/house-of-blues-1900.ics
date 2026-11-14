@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:75565d2062b6d8eac57ee51a804f0a9e901b25d7@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:Dexter and The Moonrocks
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/dexter-and-the-moonrocks-boston-ma
+ ssachusetts-12-04-2026/event/010064C4A79158F5
+URL:https://www.ticketmaster.com/dexter-and-the-moonrocks-boston-massachuse
+ tts-12-04-2026/event/010064C4A79158F5
+END:VEVENT
+END:VCALENDAR

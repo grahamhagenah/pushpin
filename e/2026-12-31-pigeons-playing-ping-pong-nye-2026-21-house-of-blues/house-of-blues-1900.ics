@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b70e38c4f918b6c67466b0f7ae892c2f7d22248b@pushpin.city
+DTSTAMP:20261231T000000Z
+DTSTART:20270101T000000Z
+DTEND:20270101T020000Z
+SUMMARY:Pigeons Playing Ping Pong - NYE 2026 (21+)
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/pigeons-playing-ping-pong-nye-2026
+ -boston-massachusetts-12-31-2026/event/010064EFE3B83EE5
+URL:https://www.ticketmaster.com/pigeons-playing-ping-pong-nye-2026-boston-
+ massachusetts-12-31-2026/event/010064EFE3B83EE5
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6442468f09904fdd1f6de471cb555e2d30255d4f@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261119T204000Z
+DTEND:20261119T224000Z
+SUMMARY:La Bola Negra
+LOCATION:Kendall Square\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/fa382943-
+ 2b3c-56c9-9517-a3d2bce23aee
+URL:https://booking.landmarktheatres.com/launch/ticketing/fa382943-2b3c-56c
+ 9-9517-a3d2bce23aee
+END:VEVENT
+END:VCALENDAR

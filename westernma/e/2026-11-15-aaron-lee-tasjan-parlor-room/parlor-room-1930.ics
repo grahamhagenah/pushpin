@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0a47488674256fefe9e502a5c964edb3cfa823a2@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261116T003000Z
+DTEND:20261116T023000Z
+SUMMARY:Aaron Lee Tasjan
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000BPp7RMAT
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0BPp7RMAT
+END:VEVENT
+END:VCALENDAR

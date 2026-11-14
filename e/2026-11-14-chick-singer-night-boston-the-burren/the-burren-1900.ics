@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:abc50bc95e8d7eb4261c00d430d5e6c9d983e9fb@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:Chick Singer Night Boston
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=774
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=774
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:285e8ad615b138c20222356fc0bf03e1e44abe04@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:Gallery Talk: Max Gruber on 90 YEARS
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:https://www.icaboston.org/events/gallery-talk-max-gruber-on-90-
+ years/
+URL:https://www.icaboston.org/events/gallery-talk-max-gruber-on-90-years/
+END:VEVENT
+END:VCALENDAR

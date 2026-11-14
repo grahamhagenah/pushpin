@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:17b0d70c0e3562cec245ea09a0a8ac86df8f69ca@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T001500Z
+DTEND:20261125T021500Z
+SUMMARY:September Songs: The Music of Kurt Weill
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/september-songs
+URL:https://drafthouse.com/boston/show/september-songs
+END:VEVENT
+END:VCALENDAR

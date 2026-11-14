@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:94df592b7a54d06cc4cc5e55cf21146d0277fb98@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261118T230000Z
+DTEND:20261119T010000Z
+SUMMARY:Author Talk: A Pox on Fools
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://calendar.mit.edu/event/author-talk-a-pox-on-fools
+URL:https://calendar.mit.edu/event/author-talk-a-pox-on-fools
+END:VEVENT
+END:VCALENDAR

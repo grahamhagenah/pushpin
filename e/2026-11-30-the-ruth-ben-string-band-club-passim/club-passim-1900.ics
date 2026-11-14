@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e610f2b9fe89b16c7d93adb69a93b44352bc4ab6@pushpin.city
+DTSTAMP:20261130T000000Z
+DTSTART:20261201T000000Z
+DTEND:20261201T020000Z
+SUMMARY:The Ruth & Ben String Band
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/the-ruth-ben-string-ba
+ nd/
+URL:https://www.passim.org/live-music/events/the-ruth-ben-string-band/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:878fb9f90dc80ceec9a5557b81d7a3e5b7e61d18@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T163000Z
+DTEND:20261212T183000Z
+SUMMARY:Opera Untapped : Drunk Opera History: Messiah Sing
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1053
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1053
+END:VEVENT
+END:VCALENDAR

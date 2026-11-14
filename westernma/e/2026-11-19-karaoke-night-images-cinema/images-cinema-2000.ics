@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c2a6235080ab7094b46dd3a1fa693a09faed0b13@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T010000Z
+DTEND:20261120T030000Z
+SUMMARY:Karaoke Night
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/karaoke-night
+URL:https://www.imagescinema.org/movie/karaoke-night
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3ba7fac9bef389eb0b61195edb29604ac40c16df@pushpin.city
+DTSTAMP:20261127T000000Z
+DTSTART:20261128T014500Z
+DTEND:20261128T034500Z
+SUMMARY:Focker-in-Law
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.phoenixmovies.net/movies/focker-in-law/HO00001814
+URL:https://www.phoenixmovies.net/movies/focker-in-law/HO00001814
+END:VEVENT
+END:VCALENDAR

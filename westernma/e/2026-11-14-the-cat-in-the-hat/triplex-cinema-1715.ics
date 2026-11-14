@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3e59f53dcf2165d25dcd1dc0f5e30e2ed1c5ea02@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T221500Z
+DTEND:20261115T001500Z
+SUMMARY:The Cat in the Hat
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/the-cat-in-the-hat
+URL:https://www.thetriplex.org/movie/the-cat-in-the-hat
+END:VEVENT
+END:VCALENDAR

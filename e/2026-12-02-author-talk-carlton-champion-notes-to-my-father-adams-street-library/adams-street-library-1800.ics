@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ca8528bd0d2ba8a8877d335ae0b96dfad2cb84e2@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261202T230000Z
+DTEND:20261203T010000Z
+SUMMARY:Author Talk: Carlton Champion - Notes to My Father
+LOCATION:Adams Street Library\, 690 Adams Street\, Dorchester\, MA 02122
+DESCRIPTION:https://bpl.bibliocommons.com/events/6aee234e9dbc2b002c93d361
+URL:https://bpl.bibliocommons.com/events/6aee234e9dbc2b002c93d361
+END:VEVENT
+END:VCALENDAR

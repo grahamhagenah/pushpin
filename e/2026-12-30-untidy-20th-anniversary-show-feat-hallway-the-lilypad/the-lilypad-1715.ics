@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:18ad140ce9038ea6933bd0d2d0369b9087c3fdef@pushpin.city
+DTSTAMP:20261230T000000Z
+DTSTART:20261230T221500Z
+DTEND:20261231T001500Z
+SUMMARY:Untidy 20th Anniversary Show feat. Hallway
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/12/30/untidy-20th-annive
+ rsary-show-feat-hallway
+URL:https://www.lilypadinman.com/home/2026/12/30/untidy-20th-anniversary-sh
+ ow-feat-hallway
+END:VEVENT
+END:VCALENDAR

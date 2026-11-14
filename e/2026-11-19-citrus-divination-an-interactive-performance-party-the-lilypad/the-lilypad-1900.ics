@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fe6c1892fb8412248ee7c12397f9af98b205b1bc@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Citrus Divination: An Interactive Performance & Party
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/11/14/citrus-divination-
+ an-interactive-performance-party
+URL:https://www.lilypadinman.com/home/2026/11/14/citrus-divination-an-inter
+ active-performance-party
+END:VEVENT
+END:VCALENDAR

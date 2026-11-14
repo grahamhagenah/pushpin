@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a91699799da01d49abb8ee45ffec7e5d03a581b5@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261202T180000Z
+DTEND:20261202T200000Z
+SUMMARY:Presses\, Plates\, and Propaganda: 18th-Century Print Culture in th
+ e Americas
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/presses-plates-and-propaganda
+ -18th-century-print-culture-in-the-americas?event=178431
+URL:https://www.mfa.org/event/lecture/presses-plates-and-propaganda-18th-ce
+ ntury-print-culture-in-the-americas?event=178431
+END:VEVENT
+END:VCALENDAR

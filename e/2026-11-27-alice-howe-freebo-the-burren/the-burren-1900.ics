@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b10b8980cc9b2cc82e60cd8515f6bcce70d1193d@pushpin.city
+DTSTAMP:20261127T000000Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Alice Howe & Freebo
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1000
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1000
+END:VEVENT
+END:VCALENDAR

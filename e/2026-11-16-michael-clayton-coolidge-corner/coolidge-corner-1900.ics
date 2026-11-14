@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:322164db0e1792cd17996f2eddfbcab03a5c27e4@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261117T000000Z
+DTEND:20261117T020000Z
+SUMMARY:Michael Clayton
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/films/michael-clayton
+URL:https://coolidge.org/films/michael-clayton
+END:VEVENT
+END:VCALENDAR

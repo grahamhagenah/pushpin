@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e2deaf5829ee7500273aff30088d0af21aabeaea@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261119T214500Z
+DTEND:20261119T234500Z
+SUMMARY:Wild Horse Nine
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/wild-horse-nine
+URL:https://www.imagescinema.org/movie/wild-horse-nine
+END:VEVENT
+END:VCALENDAR

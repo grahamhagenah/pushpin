@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67248ea39aad68c49415ec08e2ffee92e4523b1c@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T010000Z
+DTEND:20261202T030000Z
+SUMMARY:Love Has Come: A Holiday Variety Show
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/love-has-come-a-holida
+ y-variety-show/
+URL:https://www.passim.org/live-music/events/love-has-come-a-holiday-variet
+ y-show/
+END:VEVENT
+END:VCALENDAR

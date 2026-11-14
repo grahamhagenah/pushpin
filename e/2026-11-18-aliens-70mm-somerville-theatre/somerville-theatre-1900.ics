@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a4afe1cc3b6ba1a6abddbfb8718dbd19651de6ae@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:Aliens 70mm
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.somervilletheatre.com/production/aliens-70mm/
+URL:https://www.somervilletheatre.com/production/aliens-70mm/
+END:VEVENT
+END:VCALENDAR

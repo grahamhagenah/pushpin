@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:891b8110342c2072ffbc45368c27ccab5c08e0d1@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Kimberly Bartosik: bLUr
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:https://massmoca.org/event/kimberly-bartosik-blur/
+URL:https://massmoca.org/event/kimberly-bartosik-blur/
+END:VEVENT
+END:VCALENDAR

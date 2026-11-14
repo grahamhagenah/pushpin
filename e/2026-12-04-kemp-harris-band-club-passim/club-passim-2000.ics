@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:617370f97b65a0e5fed8aaed646ca03b66a72709@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:Kemp Harris Band
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/kemp-harris-band/
+URL:https://www.passim.org/live-music/events/kemp-harris-band/
+END:VEVENT
+END:VCALENDAR

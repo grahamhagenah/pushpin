@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d8bfcdb5da99bf3657bca316c54fe6fbb885c26e@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T003000Z
+DTEND:20261120T023000Z
+SUMMARY:Warren Miller's Days Off
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/warren-millers-days-off/
+URL:https://aomtheatre.com/aom_event/warren-millers-days-off/
+END:VEVENT
+END:VCALENDAR

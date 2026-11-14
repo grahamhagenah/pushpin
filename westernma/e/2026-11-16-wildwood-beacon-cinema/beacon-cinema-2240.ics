@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e42add8d8d38e48e5e8501c0221af6fbfc36cb0c@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261117T034000Z
+DTEND:20261117T054000Z
+SUMMARY:Wildwood
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.phoenixmovies.net/movies/wildwood/HO00001782
+URL:https://www.phoenixmovies.net/movies/wildwood/HO00001782
+END:VEVENT
+END:VCALENDAR

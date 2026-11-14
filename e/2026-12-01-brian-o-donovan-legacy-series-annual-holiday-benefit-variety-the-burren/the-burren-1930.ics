@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:de1d9279f4a98c649181b866018e07fc0b2322fd@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T003000Z
+DTEND:20261202T023000Z
+SUMMARY:Brian O’Donovan Legacy Series: Annual Holiday Benefit Variety Sho
+ w
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=970
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=970
+END:VEVENT
+END:VCALENDAR

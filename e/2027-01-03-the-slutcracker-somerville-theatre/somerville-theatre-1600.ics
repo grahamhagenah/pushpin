@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:34c93602e102c4df023c6a395182b1c36682595a@pushpin.city
+DTSTAMP:20270103T000000Z
+DTSTART:20270103T210000Z
+DTEND:20270103T230000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.somervilletheatre.com/production/the-slutcracker/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+END:VCALENDAR

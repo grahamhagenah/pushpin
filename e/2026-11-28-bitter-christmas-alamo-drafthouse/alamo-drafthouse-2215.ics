@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0527cbc31c461e5b805d576dab1093033537aa5f@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T031500Z
+DTEND:20261129T051500Z
+SUMMARY:Bitter Christmas
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/bitter-christmas
+URL:https://drafthouse.com/boston/show/bitter-christmas
+END:VEVENT
+END:VCALENDAR

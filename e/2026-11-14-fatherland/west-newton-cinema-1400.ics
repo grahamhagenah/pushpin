@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3d95de25873539ef25166a52e5ea9f91d8cfd557@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+SUMMARY:Fatherland
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/fatherland
+URL:https://www.westnewtoncinema.com/movie/fatherland
+END:VEVENT
+END:VCALENDAR

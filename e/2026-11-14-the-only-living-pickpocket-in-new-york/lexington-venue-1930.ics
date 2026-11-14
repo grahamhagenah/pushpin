@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:14cf76360657786943502f31529b5d28afb68af5@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T003000Z
+DTEND:20261115T023000Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Lexington Venue\, 1794 Massachusetts Ave\, Lexington\, MA 02420
+DESCRIPTION:https://www.internet-ticketing.com/websales/sales/LEXLEX/start
+URL:https://www.internet-ticketing.com/websales/sales/LEXLEX/start
+END:VEVENT
+END:VCALENDAR

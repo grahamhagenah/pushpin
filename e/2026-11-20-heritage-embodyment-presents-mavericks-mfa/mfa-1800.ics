@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aeecc92e6d04c48fc4a741692b6bd0b363d3d197@pushpin.city
+DTSTAMP:20261120T000000Z
+DTSTART:20261120T230000Z
+DTEND:20261121T010000Z
+SUMMARY:HERitage emBODYment Presents ‘Mavericks’
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/heritage-embodyment-pre
+ sents-mavericks?event=182326
+URL:https://www.mfa.org/event/special-event/heritage-embodyment-presents-ma
+ vericks?event=182326
+END:VEVENT
+END:VCALENDAR

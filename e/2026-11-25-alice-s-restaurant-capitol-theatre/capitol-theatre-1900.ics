@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b4dbfa7e4b06c7eb5f883d0e5ea24e5532caac1e@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Alice's Restaurant
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:https://www.capitoltheatreusa.com/movie/alices-restaurant/
+URL:https://www.capitoltheatreusa.com/movie/alices-restaurant/
+END:VEVENT
+END:VCALENDAR

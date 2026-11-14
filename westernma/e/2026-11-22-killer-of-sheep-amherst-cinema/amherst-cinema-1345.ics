@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c8e94e0e04cb9c09f370d15a59d99b1fad3ea1fd@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T184500Z
+DTEND:20261122T204500Z
+SUMMARY:Killer of Sheep
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/killer-sheep
+URL:https://amherstcinema.org/films-and-events/killer-sheep
+END:VEVENT
+END:VCALENDAR

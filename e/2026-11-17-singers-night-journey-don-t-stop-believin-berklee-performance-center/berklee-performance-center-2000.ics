@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3c179cb4da97be046299aa77ff4182de0df17cef@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261118T010000Z
+DTEND:20261118T030000Z
+SUMMARY:Singers Night: Journey—Don't Stop Believin'
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/singers-night-journey-dont-s
+ top-believin
+URL:https://www.berklee.edu/BPC/events/singers-night-journey-dont-stop-beli
+ evin
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6ebd891d24cdfbfb85802ad17ad060fd3d9c1c92@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T230000Z
+DTEND:20261123T010000Z
+SUMMARY:Being Heumann
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.somervilletheatre.com/production/being-heumann/
+URL:https://www.somervilletheatre.com/production/being-heumann/
+END:VEVENT
+END:VCALENDAR

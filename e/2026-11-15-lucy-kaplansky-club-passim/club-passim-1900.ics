@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eb19a5bcf65b282dbe9fcae3016eb01bcf0d1d17@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261116T000000Z
+DTEND:20261116T020000Z
+SUMMARY:Lucy Kaplansky
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/lucy-kaplansky/
+URL:https://www.passim.org/live-music/events/lucy-kaplansky/
+END:VEVENT
+END:VCALENDAR

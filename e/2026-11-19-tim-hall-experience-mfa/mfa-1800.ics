@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7f32bdf1222ae11dbe57c27230ebbe0d914acddd@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+SUMMARY:Tim Hall Experience
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/sound-bites-nancy-lee-clark-concert-s
+ eries/tim-hall-experience?event=181351
+URL:https://www.mfa.org/event/sound-bites-nancy-lee-clark-concert-series/ti
+ m-hall-experience?event=181351
+END:VEVENT
+END:VCALENDAR

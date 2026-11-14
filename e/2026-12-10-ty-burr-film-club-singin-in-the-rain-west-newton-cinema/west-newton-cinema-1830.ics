@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dcdf65e8add8cef0de115e56ab717ff8977b4d9b@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261210T233000Z
+DTEND:20261211T013000Z
+SUMMARY:Ty Burr Film Club: Singin' in the Rain
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/ty-burr-film-club-singin
+ -in-the-rain
+URL:https://www.westnewtoncinema.com/movie/ty-burr-film-club-singin-in-the-
+ rain
+END:VEVENT
+END:VCALENDAR

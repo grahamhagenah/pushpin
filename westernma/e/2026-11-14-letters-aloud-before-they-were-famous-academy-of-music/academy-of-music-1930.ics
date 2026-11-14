@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7fef7f6b465959f6f5430ee6955463fe621d9cc7@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T003000Z
+DTEND:20261115T023000Z
+SUMMARY:Letters Aloud: Before They Were Famous
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/letters-aloud-before-they-were
+ -famous/
+URL:https://aomtheatre.com/aom_event/letters-aloud-before-they-were-famous/
+END:VEVENT
+END:VCALENDAR

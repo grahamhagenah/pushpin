@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:45e346281aff6ed7427cfe122d6fc63fc522685f@pushpin.city
+DTSTAMP:20261224T000000Z
+DTSTART:20261225T010000Z
+DTEND:20261225T030000Z
+SUMMARY:club closed
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/club-closed/
+URL:https://www.passim.org/live-music/events/club-closed/
+END:VEVENT
+END:VCALENDAR

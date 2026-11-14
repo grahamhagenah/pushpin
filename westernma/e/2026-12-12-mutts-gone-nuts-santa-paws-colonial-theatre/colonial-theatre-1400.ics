@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f29700f2d2e38469bd3514b514dffac918ec1750@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:Mutts Gone Nuts: Santa Paws
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.berkshiretheatregroup.org/event/mutts-gone-nuts-san
+ ta-paws/
+URL:https://www.berkshiretheatregroup.org/event/mutts-gone-nuts-santa-paws/
+END:VEVENT
+END:VCALENDAR

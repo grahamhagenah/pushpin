@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b564a6d5b154b05a7f1b112ac5888de1b889b606@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T213000Z
+DTEND:20261205T233000Z
+SUMMARY:Fjord
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/fjord
+URL:https://www.imagescinema.org/movie/fjord
+END:VEVENT
+END:VCALENDAR

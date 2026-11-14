@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4a4426523e81397220b60aaeb4d99798749e392c@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+SUMMARY:How to Rob a Bank
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:https://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/
+URL:https://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:81d96d07fc94a1d57276597873adcc5a3f023553@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Albany Berkshire Ballet Presents: The Nutcracker
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.berkshiretheatregroup.org/event/albany-berkshire-ba
+ llet-presents-the-nutcracker/
+URL:https://www.berkshiretheatregroup.org/event/albany-berkshire-ballet-pre
+ sents-the-nutcracker/
+END:VEVENT
+END:VCALENDAR

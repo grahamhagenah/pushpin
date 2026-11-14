@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8bcdc0f78dba5faec00bec1fab0437d57a0f0965@pushpin.city
+DTSTAMP:20261120T000000Z
+DTSTART:20261120T230000Z
+DTEND:20261121T010000Z
+SUMMARY:UNMUTED - a benefit concert
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1622815
+URL:https://www.sinclaircambridge.com/events/detail/1622815
+END:VEVENT
+END:VCALENDAR

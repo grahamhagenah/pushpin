@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ecaf2cac7382d9d577051b98c7c2dc7d0bf0665e@pushpin.city
+DTSTAMP:20261127T000000Z
+DTSTART:20261128T030000Z
+DTEND:20261128T050000Z
+SUMMARY:The Glitter Boys
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1509043
+URL:https://www.sinclaircambridge.com/events/detail/1509043
+END:VEVENT
+END:VCALENDAR

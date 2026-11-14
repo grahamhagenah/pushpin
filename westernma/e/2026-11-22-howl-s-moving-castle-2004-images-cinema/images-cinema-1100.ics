@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e1125495afc098f49e7c61920d6a8fb7da3450d8@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T160000Z
+DTEND:20261122T180000Z
+SUMMARY:Howl's Moving Castle (2004)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/howls-moving-castle-2004
+URL:https://www.imagescinema.org/movie/howls-moving-castle-2004
+END:VEVENT
+END:VCALENDAR

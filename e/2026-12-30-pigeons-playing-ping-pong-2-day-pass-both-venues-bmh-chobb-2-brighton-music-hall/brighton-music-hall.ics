@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:25a126ef6bfc9c0c5a717e2af65c904940c367e2@pushpin.city
+DTSTAMP:20261230T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Pigeons Playing Ping Pong: 2-DAY PASS [BOTH VENUES: BMH & CHOBB] (2
+ 1+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/pigeons-playing-ping-pong-2day-pas
+ s-boston-massachusetts-12-30-2026/event/010064F5F8548E5D
+URL:https://www.ticketmaster.com/pigeons-playing-ping-pong-2day-pass-boston
+ -massachusetts-12-30-2026/event/010064F5F8548E5D
+END:VEVENT
+END:VCALENDAR

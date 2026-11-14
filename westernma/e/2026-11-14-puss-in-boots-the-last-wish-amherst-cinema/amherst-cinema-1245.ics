@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8c1998ea7f89e53174fb4c83a25b1997d3491164@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T174500Z
+DTEND:20261114T194500Z
+SUMMARY:Puss in Boots: The Last Wish
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/puss-boots-last-wish
+URL:https://amherstcinema.org/films-and-events/puss-boots-last-wish
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3574a22a6ce2a76c34f77123e4e886b382929732@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T170000Z
+DTEND:20261114T190000Z
+SUMMARY:Passim School of Music Recital
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/passim-school-of-music
+ -recital/
+URL:https://www.passim.org/live-music/events/passim-school-of-music-recital
+ /
+END:VEVENT
+END:VCALENDAR

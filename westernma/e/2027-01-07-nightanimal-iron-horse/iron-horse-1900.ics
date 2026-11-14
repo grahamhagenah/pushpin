@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:57e7dc0c2563581356cc7d6a09eb859a5ba2c9cb@pushpin.city
+DTSTAMP:20270107T000000Z
+DTSTART:20270108T000000Z
+DTEND:20270108T020000Z
+SUMMARY:nightanimal
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000D4aS1MAJ
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0D4aS1MAJ
+END:VEVENT
+END:VCALENDAR

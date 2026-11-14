@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8bf14b8f63831de6796b52e2c363c26259f63c8e@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261117T230000Z
+DTEND:20261118T010000Z
+SUMMARY:Harvard Book Store Welcomes James Gleick
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/special_events/harvard-book-store-welco
+ mes-james-gleick/
+URL:https://brattlefilm.org/special_events/harvard-book-store-welcomes-jame
+ s-gleick/
+END:VEVENT
+END:VCALENDAR

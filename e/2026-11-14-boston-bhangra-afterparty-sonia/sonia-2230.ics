@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:606e34f537fe7ea70cb7babb0442d50d684613c3@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T033000Z
+DTEND:20261115T053000Z
+SUMMARY:Boston Bhangra Afterparty
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/boston-bhangra-afterparty-sonia
+ -tickets/14400854?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/boston-bhangra-afterparty-sonia-tickets
+ /14400854?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

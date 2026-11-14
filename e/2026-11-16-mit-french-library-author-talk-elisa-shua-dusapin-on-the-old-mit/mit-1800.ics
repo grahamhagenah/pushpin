@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cc6023512488f53e16f84a661d9064b2e2a04e68@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261116T230000Z
+DTEND:20261117T010000Z
+SUMMARY:MIT / French Library Author talk: Elisa Shua Dusapin on The Old Fir
+ e
+LOCATION:MIT\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:https://calendar.mit.edu/event/mit-french-library-author-talk-e
+ lisa-shua-dusapin-on-the-old-fire
+URL:https://calendar.mit.edu/event/mit-french-library-author-talk-elisa-shu
+ a-dusapin-on-the-old-fire
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4ee339b18bf5068069e172716260fc3ea4a8a0a0@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261115T220000Z
+DTEND:20261116T000000Z
+SUMMARY:Out of the Past
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/out-of-the-past
+URL:https://www.thetriplex.org/movie/out-of-the-past
+END:VEVENT
+END:VCALENDAR

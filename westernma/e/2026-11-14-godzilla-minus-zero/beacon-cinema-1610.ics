@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:396e5423aaeab9014b5ac4c118ddaad9bdb96fbb@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T211000Z
+DTEND:20261114T231000Z
+SUMMARY:Godzilla Minus Zero
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.phoenixmovies.net/movies/godzilla-minus-zero/HO0000
+ 1786
+URL:https://www.phoenixmovies.net/movies/godzilla-minus-zero/HO00001786
+END:VEVENT
+END:VCALENDAR

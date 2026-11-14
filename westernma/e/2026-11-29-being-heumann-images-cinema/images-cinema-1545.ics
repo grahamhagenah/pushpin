@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5b412929b90c21a8c42e0c141ccf94b5b490f3f8@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T204500Z
+DTEND:20261129T224500Z
+SUMMARY:Being Heumann
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/being-heumann
+URL:https://www.imagescinema.org/movie/being-heumann
+END:VEVENT
+END:VCALENDAR

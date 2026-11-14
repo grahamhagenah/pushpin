@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:18c39503a8126e64e3e99c65c7881a4f11f21bd1@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261210T173000Z
+DTEND:20261210T193000Z
+SUMMARY:Gallery Talk: The Gelatin Silver Print
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardartmuseums.org/event/4190
+URL:https://harvardartmuseums.org/event/4190
+END:VEVENT
+END:VCALENDAR

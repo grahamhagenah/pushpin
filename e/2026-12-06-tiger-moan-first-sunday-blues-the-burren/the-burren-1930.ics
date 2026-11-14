@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ac029946f24c0477d154682ae477bcf307f76d98@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261207T003000Z
+DTEND:20261207T023000Z
+SUMMARY:Tiger Moan First Sunday Blues
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=788
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=788
+END:VEVENT
+END:VCALENDAR

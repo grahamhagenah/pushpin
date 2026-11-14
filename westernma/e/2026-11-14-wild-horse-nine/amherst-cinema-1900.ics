@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:19d2570dff405404dbd3725e67a99d4b0f955393@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/wild-horse-nine
+URL:https://amherstcinema.org/films-and-events/wild-horse-nine
+END:VEVENT
+END:VCALENDAR

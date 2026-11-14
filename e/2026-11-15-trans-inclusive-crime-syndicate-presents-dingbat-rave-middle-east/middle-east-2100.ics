@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2e7e0e7c6c012ff6374b5c4f9c4f606a506d559c@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261116T020000Z
+DTEND:20261116T040000Z
+SUMMARY:Trans Inclusive Crime Syndicate Presents: Dingbat Rave
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/trans-inclusive-crime-syndicate
+ -presents-middle-east-zuzu-tickets/14287714?pl=mideastclub&REFID=clientsit
+ ewp
+URL:https://www.ticketweb.com/event/trans-inclusive-crime-syndicate-present
+ s-middle-east-zuzu-tickets/14287714?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

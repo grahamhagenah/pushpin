@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:661eb1e5c5eb2170df01bf9f8c91b24f255de8f2@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T220000Z
+DTEND:20261214T000000Z
+SUMMARY:Under the Covers
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/under-the-covers/
+URL:https://www.passim.org/live-music/events/under-the-covers/
+END:VEVENT
+END:VCALENDAR

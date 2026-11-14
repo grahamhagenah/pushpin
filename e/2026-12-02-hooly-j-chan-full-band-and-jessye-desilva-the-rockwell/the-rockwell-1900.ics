@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:65f4f8d819974204f73c3da5655e46bb6d04badc@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Hooly J Chan Full Band and Jessye DeSilva
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/hooly-j-chan/
+URL:https://therockwell.org/calendar/hooly-j-chan/
+END:VEVENT
+END:VCALENDAR

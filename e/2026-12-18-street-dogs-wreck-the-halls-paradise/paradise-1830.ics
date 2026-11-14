@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f6607196670fb3ea0b0b2d999d0fd752ea7e9c6d@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261218T233000Z
+DTEND:20261219T013000Z
+SUMMARY:Street Dogs: Wreck The Halls
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/street-dogs-wreck-the-halls-boston
+ -massachusetts-12-18-2026/event/01006530E5334BEB
+URL:https://www.ticketmaster.com/street-dogs-wreck-the-halls-boston-massach
+ usetts-12-18-2026/event/01006530E5334BEB
+END:VEVENT
+END:VCALENDAR

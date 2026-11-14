@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cf62c535974281c997610c933e79a04f20432ee7@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Speed Racer (2008) (4K Restoration)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/speed-racer-2008-4k-restorat
+ ion
+URL:https://www.imagescinema.org/movie/speed-racer-2008-4k-restoration
+END:VEVENT
+END:VCALENDAR

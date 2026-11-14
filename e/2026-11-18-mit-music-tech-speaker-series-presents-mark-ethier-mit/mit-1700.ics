@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:771f747c2ba8c1f1dd08891f4b7b4062ca30fac7@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261118T220000Z
+DTEND:20261119T000000Z
+SUMMARY:MIT Music Tech Speaker Series Presents: Mark Ethier
+LOCATION:MIT\, 182 MEMORIAL DR (REAR)\, Cambridge\, MA 02139
+DESCRIPTION:https://calendar.mit.edu/event/mit-music-tech-speaker-series-pr
+ esents-mark-ethier
+URL:https://calendar.mit.edu/event/mit-music-tech-speaker-series-presents-m
+ ark-ethier
+END:VEVENT
+END:VCALENDAR

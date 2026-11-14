@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cf5f2dc9a97486bda1bec361408a11f499e357c6@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Homeboy Sandman\, NAHreally\, Loman\, & Jesse The Tree
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/homeboy-sandman-nahreally-loma
+ n-jesse-the-tree/
+URL:https://therockwell.org/calendar/homeboy-sandman-nahreally-loman-jesse-
+ the-tree/
+END:VEVENT
+END:VCALENDAR

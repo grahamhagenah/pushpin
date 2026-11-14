@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:474f911d2b9a4741cbf2ceb7d4c9e948a39caee3@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T210000Z
+DTEND:20261114T230000Z
+SUMMARY:Wandering Dance Festival
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.berkshiretheatregroup.org/event/wandering-dance-fes
+ tival/
+URL:https://www.berkshiretheatregroup.org/event/wandering-dance-festival/
+END:VEVENT
+END:VCALENDAR

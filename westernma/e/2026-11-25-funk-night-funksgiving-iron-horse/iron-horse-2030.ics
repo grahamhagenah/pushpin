@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5c5d1996e2eb44d622be1a41ae1075596c742bf1@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261126T013000Z
+DTEND:20261126T033000Z
+SUMMARY:Funk Night: Funksgiving
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV5000009W9hKMAS
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 09W9hKMAS
+END:VEVENT
+END:VCALENDAR

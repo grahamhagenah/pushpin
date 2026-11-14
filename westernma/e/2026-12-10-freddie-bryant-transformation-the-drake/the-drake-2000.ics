@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ccc2e0f239c72a4c717a732b6dbe1b1fa51963c8@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T010000Z
+DTEND:20261211T030000Z
+SUMMARY:FREDDIE BRYANT - TRANSFORMATION
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/freddie-bryant-transform
+ ation
+URL:https://www.thedrakeamherst.org/events/freddie-bryant-transformation
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66c671c9afacc7a5e0639621021829bf10df36e5@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261203T223000Z
+DTEND:20261204T003000Z
+SUMMARY:Scott Eyerly’s Virtual Met Opera Lecture: Saint-Saëns's Samson e
+ t Delila
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:https://mahaiwe.org/event/scott-eyerlys-virtual-met-opera-lectu
+ re-verdis-macbeth-duplicate-1/
+URL:https://mahaiwe.org/event/scott-eyerlys-virtual-met-opera-lecture-verdi
+ s-macbeth-duplicate-1/
+END:VEVENT
+END:VCALENDAR

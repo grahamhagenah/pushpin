@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69dcf6eb5c0563fc5aee7e21d94fa829e4e4045b@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261116T203000Z
+DTEND:20261116T223000Z
+SUMMARY:I Play Rocky
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/films/i-play-rocky
+URL:https://coolidge.org/films/i-play-rocky
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4e850dd760a6ae7d14afdb05567f59e046648e68@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T163000Z
+DTEND:20261220T183000Z
+SUMMARY:A Charlie Brown Christmas
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1719
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1719
+END:VEVENT
+END:VCALENDAR

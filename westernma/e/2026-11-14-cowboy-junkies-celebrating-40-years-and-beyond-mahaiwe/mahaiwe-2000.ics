@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b21c4462588debc200d37ee4fbb4ba61277faf83@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+SUMMARY:Cowboy Junkies - Celebrating 40 Years and Beyond
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:https://mahaiwe.org/event/cowboy-junkies-celebrating-40-years-a
+ nd-beyond/
+URL:https://mahaiwe.org/event/cowboy-junkies-celebrating-40-years-and-beyon
+ d/
+END:VEVENT
+END:VCALENDAR

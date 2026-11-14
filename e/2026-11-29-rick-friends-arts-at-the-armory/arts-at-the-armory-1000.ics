@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0d39a0daa2f1d54aade1746d11295f42e87dd4ef@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T150000Z
+DTEND:20261129T170000Z
+SUMMARY:Rick & Friends
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/rick-friends-sunday2/
+URL:https://artsatthearmory.org/events/rick-friends-sunday2/
+END:VEVENT
+END:VCALENDAR

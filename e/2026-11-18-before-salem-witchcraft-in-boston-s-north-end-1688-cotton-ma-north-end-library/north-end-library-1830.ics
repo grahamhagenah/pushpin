@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:51474c2fd95a5cd44d4fbd0cd9fdfc4f9c1a6c1f@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261118T233000Z
+DTEND:20261119T013000Z
+SUMMARY:Before Salem: Witchcraft in Boston’s North End\, 1688 — Cotton 
+ Mather\, Martha Goodwin\, and the Making of a Witchcraft Panic
+LOCATION:North End Library\, 25 Parmenter St\, Boston\, MA 02113
+DESCRIPTION:https://bpl.bibliocommons.com/events/6ae0bad8de300e00451d15ca
+URL:https://bpl.bibliocommons.com/events/6ae0bad8de300e00451d15ca
+END:VEVENT
+END:VCALENDAR

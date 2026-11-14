@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aed9a216e47f7cb6ca1b7d4491bdef1256b86301@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T000000Z
+DTEND:20261125T020000Z
+SUMMARY:Celluloid Confidential
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:https://www.capitoltheatreusa.com/movie/celluloid-confidential/
+URL:https://www.capitoltheatreusa.com/movie/celluloid-confidential/
+END:VEVENT
+END:VCALENDAR

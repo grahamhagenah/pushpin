@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:db6cffc5c0aeb093253b0dcf761b1ee8961fbb6a@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:The Little Mermen & The Princess Pals: Disney Sing Along The Ultima
+ te Disney Tribute Band
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.berkshiretheatregroup.org/event/the-little-mermen-t
+ he-princess-pals-disney-sing-along/
+URL:https://www.berkshiretheatregroup.org/event/the-little-mermen-the-princ
+ ess-pals-disney-sing-along/
+END:VEVENT
+END:VCALENDAR

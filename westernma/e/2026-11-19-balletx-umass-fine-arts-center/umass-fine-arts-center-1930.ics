@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:decc8f48091ef5f23c8c3652b75a9aff27191400@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T003000Z
+DTEND:20261120T023000Z
+SUMMARY:BalletX
+LOCATION:UMass Fine Arts Center
+DESCRIPTION:https://arts.umass.edu/performing-arts/events/2026-2027/balletx
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/balletx
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:622b720f49cbf43089760f1001b10babce8bf6cc@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+SUMMARY:All About Lily Chou-Chou
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardfilmarchive.org/calendar/all-about-lily-chou-cho
+ u-2026-11
+URL:https://harvardfilmarchive.org/calendar/all-about-lily-chou-chou-2026-1
+ 1
+END:VEVENT
+END:VCALENDAR

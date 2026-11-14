@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · MIT
+X-WR-CALDESC:What’s coming up at MIT\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:3c55dfe31ee4373a79378b2f70bb74f6cb93c3ec@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:Lives Behind the Numbers: Mona Chalabi on the Art of Understanding 
+ Others
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Pulitzer Prize-winning data journalist Mona Chalabi has spent h
+ er career bridging the gap between what numbers reveal and what they conce
+ al about who we really are.\nhttps://calendar.mit.edu/event/lives-behind-t
+ he-numbers-mona-chalabi-on-the-art-of-understanding-others\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/lives-behind-the-numbers-mona-chalabi-on
+ -the-art-of-understanding-others
+END:VEVENT
+BEGIN:VEVENT
+UID:a3286dd49d32fa6ca7aed3f33dde7f8cc34962f9@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T220000Z
+DTEND:20261117T000000Z
+SUMMARY:History of Now Lectures Series - Reluctant Neighbors: History of Je
+ ws in Palestine and the Levant\, 1700-1850
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:History at MIT invites you to join us on Monday\, November 16th
+  at 5 pm in E51-095 for the third lecture in the History of Now series\, f
+ eaturing Orit Bashkin\, the Mabel Greene Myers Professor of Modern Middle 
+ Eastern History and Director of Graduate Studies\, Modern Fields at the Un
+ iversity of Chicago. Her talk is titled "Reluctant Neighbors: History of J
+ ews in Palestine and the Levant\, 1700-1850."\nhttps://calendar.mit.edu/ev
+ ent/copy-of-history-of-now-lectures-series-on-sultans-prophets-and-the-ear
+ ly-modern-amalek-history-of-jews-in-arab-ottoman-provinces-1517-1882\nFrom
+  Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/copy-of-history-of-now-lectures-series-o
+ n-sultans-prophets-and-the-early-modern-amalek-history-of-jews-in-arab-ott
+ oman-provinces-1517-1882
+END:VEVENT
+BEGIN:VEVENT
+UID:33c10c62096e5bd4065819f8d14c93c74ac99ad8@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T230000Z
+DTEND:20261117T010000Z
+SUMMARY:MIT / French Library Author talk: Elisa Shua Dusapin on The Old Fir
+ e
+LOCATION:MIT\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Join National Book Award winner Elisa Shua Dusapin for a conver
+ sation about The Old Fire\, her acclaimed new novel about two estranged si
+ sters\, a childhood home\, and all that remains unspoken between them.\nht
+ tps://calendar.mit.edu/event/mit-french-library-author-talk-elisa-shua-dus
+ apin-on-the-old-fire\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/mit-french-library-author-talk-elisa-shu
+ a-dusapin-on-the-old-fire
+END:VEVENT
+BEGIN:VEVENT
+UID:61400b7bd09d4193fb6838b58efa321a1502a67e@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T220000Z
+DTEND:20261119T000000Z
+SUMMARY:MIT Music Tech Speaker Series Presents: Mark Ethier
+LOCATION:MIT\, 182 MEMORIAL DR (REAR)\, Cambridge\, MA 02139
+DESCRIPTION:Tools for Musicians in the Age of AI: From iZotope to Berklee M
+ usic and technology have always co-evolved. Long before the synthesizer\, 
+ innovations ranging from new tuning systems to the piano's sustain pedal h
+ aven’t just made music easier to produce — they’ve fundamentally cha
+ nged what kind of music is possible to make. How will AI as an underlying 
+ technology fit into this history?\nhttps://calendar.mit.edu/event/mit-musi
+ c-tech-speaker-series-presents-mark-ethier\nFrom Pushpin Boston: https://p
+ ushpin.city/
+URL:https://calendar.mit.edu/event/mit-music-tech-speaker-series-presents-m
+ ark-ethier
+END:VEVENT
+BEGIN:VEVENT
+UID:af6a5ca733c7e778c4a0ab17997ba7097954333c@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T220000Z
+DTEND:20261119T000000Z
+SUMMARY:Starr Forum: AI and Global Power: Democracy\, Competition\, and Con
+ trol
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:Jake Sullivan is a former US national security advisor and curr
+ ently the Kissinger Professor of the Practice of Statecraft and World Orde
+ r at the Belfer Center\, Harvard Kennedy School. He also served as the 28t
+ h assistant to the president for national security affairs (national secur
+ ity advisor) where he focused on artificial intelligence (AI) as a top nat
+ ional security priority. In the Obama administration\, he served as nation
+ al security advisor to then-Vice President Biden\, director of the policy 
+ planning staff at the US Department of State\, and deputy chief of staff t
+ o Secretary of State Hillary Clinton. He is the co-host of The Long Game\,
+  a weekly podcast that explores national security issues.\nhttps://calenda
+ r.mit.edu/event/starr-forum-ai-and-global-power-democracy-competition-and-
+ control\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/starr-forum-ai-and-global-power-democrac
+ y-competition-and-control
+END:VEVENT
+BEGIN:VEVENT
+UID:fd9211d6888bfd5b1a519a594255de23a18fee18@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T230000Z
+DTEND:20261119T010000Z
+SUMMARY:Author Talk: A Pox on Fools
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Join us for an engaging evening with author Thomas Levenson as 
+ he discusses his new book\, "A Pox on Fools: The True Believers\, Grifters
+ \, and Cynics Who Convinced Us to Reject Vaccines\," in conversation with 
+ MIT Museum Director Michael John Gorman.\nhttps://calendar.mit.edu/event/a
+ uthor-talk-a-pox-on-fools\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/author-talk-a-pox-on-fools
+END:VEVENT
+BEGIN:VEVENT
+UID:93252a61f61f37182e3a5d99493902f8011c9226@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T220000Z
+DTEND:20261120T000000Z
+SUMMARY:History of Now Lectures Series - A Different Critique: MENA Jewish 
+ Approaches to Zionism and Imperialism\, 1830-1948
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:History at MIT invites you to join us on Thursday\, November 19
+ th at 5 pm in E51-095 for the final lecture in the History of Now series\,
+  featuring Orit Bashkin\, the Mabel Greene Myers Professor of Modern Middl
+ e Eastern History and Director of Graduate Studies\, Modern Fields at the 
+ University of Chicago. Her talk is titled "A Different Critique: MENA Jewi
+ sh Approaches to Zionism and Imperialism\, 1830-1948."\nhttps://calendar.m
+ it.edu/event/copy-of-history-of-now-lectures-series-reluctant-neighbors-hi
+ story-of-jews-in-palestine-and-the-levant-1700-1850\nFrom Pushpin Boston: 
+ https://pushpin.city/
+URL:https://calendar.mit.edu/event/copy-of-history-of-now-lectures-series-r
+ eluctant-neighbors-history-of-jews-in-palestine-and-the-levant-1700-1850
+END:VEVENT
+BEGIN:VEVENT
+UID:54e55aee281d3f800383f0b28b74d57838acd345@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+SUMMARY:Co-Adaptive—Ruth Mandl and Bobby Johnston
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Part of the MIT Fall 2026 Architecture Lecture Series Presented
+  with the Architecture and Urbanism Group As our planet gets hotter\, and 
+ more extreme weather events become the norm\, CO Adaptive is positioning t
+ hemselves as an unbuild\, design and build practice: a new model that reun
+ ites designers and builders through collaboration in order to re-think our
+  joint role in shaping the built environment\; contending with architectur
+ e at the intersection of saving embodied carbon and reducing operational e
+ nergy. As stewards of the existing material repository contained in our ci
+ ties\, CO Adaptive aims to increase the resilience and reusability of all 
+ that already surrounds us.\nhttps://calendar.mit.edu/event/co-adaptiveruth
+ -mandl-and-bobby-johnston\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/co-adaptiveruth-mandl-and-bobby-johnston
+END:VEVENT
+BEGIN:VEVENT
+UID:2b40ef3265b5af34a850a5c69a7e9627cc958509@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261203T220000Z
+DTEND:20261204T000000Z
+SUMMARY:Author Ted Chiang in Conversation with MIT President Sally Kornblut
+ h
+LOCATION:MIT\, 160 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:Join us for a special conversation with author Ted Chiang and M
+ IT President Sally Kornbluth about Exhalation. President Kornbluth has cho
+ sen Chiang’s celebrated science fiction short story collection to celebr
+ ate 10 years of MIT Reads. Exploring the book’s provocative questions ab
+ out technology and humanity\, their discussion will focus on the stories "
+ The Truth of Fact\, the Truth of Feeling\,” "The Lifecycle of Software O
+ bjects\,” “Omphalos\,” “What’s Expected of Us\," and "Exhalation
+ ."\nhttps://calendar.mit.edu/event/author-ted-chiang-in-conversation-with-
+ mit-president-sally-kornbluth\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/author-ted-chiang-in-conversation-with-m
+ it-president-sally-kornbluth
+END:VEVENT
+BEGIN:VEVENT
+UID:848d6bf9364df230629e8c7e53e985382175164e@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:Meriem Chabani. Communion It is embarrassing to believe. It is terr
+ ifying to care. What happens when we dare anyway?
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Algerian born\, Paris based Meriem Chabani is the founder and P
+ rincipal of NEW SOUTH\, an award-winning architecture\, urban planning and
+  anthropology practice that puts the margin at the center. Her work on civ
+ ic spaces\, memory and belonging includes includes the Taungdwingyi cultur
+ al center in Myanmar\, the Globe Aroma refugee art center in Brussels\, an
+ d the upcoming Mosque Zero in Paris. She is currently a finalist for the N
+ ational Slavery Museum in Amsterdam. As an educator\, Chabani has taught a
+ nd lectured extensively. She has notably served as Aga Khan Design Critic 
+ in Architecture at Harvard GSD (USA)\, and currently teaches at Ecole Pari
+ s Malaquais (FR). Her work has regularly been distinguished and showcased 
+ at a number of international architecture Biennials\, including Venice\, I
+ stanbul\, Oslo and Lagos. In 2020 Chabani won the Europe 40 under 40 award
+  from The European Centre for Architecture and The Chicago Athenaeum. In 2
+ 023\, she is one of the emerging women architects for AMC. In 2025\, Le Mo
+ nde names her one of the leading voices in culture in France.\nhttps://cal
+ endar.mit.edu/event/meriem-chabani-communion-it-is-embarrassing-to-believe
+ -it-is-terrifying-to-care-what-happens-when-we-dare-anyway\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/meriem-chabani-communion-it-is-embarrass
+ ing-to-believe-it-is-terrifying-to-care-what-happens-when-we-dare-anyway
+END:VEVENT
+BEGIN:VEVENT
+UID:9f1f79d26cbab18b29c211c648727b54eeacb8f1@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:New South—Meriem Chabani
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Part of the MIT Fall 2026 Architecture Lecture Series.\nhttps:/
+ /calendar.mit.edu/event/new-southmeriem-chabani\nFrom Pushpin Boston: http
+ s://pushpin.city/
+URL:https://calendar.mit.edu/event/new-southmeriem-chabani
+END:VEVENT
+END:VCALENDAR

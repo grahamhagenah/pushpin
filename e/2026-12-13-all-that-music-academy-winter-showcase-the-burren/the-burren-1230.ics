@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:57eb60c4199c4e30d220252988cfa8e3d158b1c6@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:All That Music Academy - Winter Showcase!
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1077
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1077
+END:VEVENT
+END:VCALENDAR

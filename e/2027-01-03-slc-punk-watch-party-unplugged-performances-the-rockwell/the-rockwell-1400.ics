@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e3ec84d9dbe0c296857330f22252df9be0a18cef@pushpin.city
+DTSTAMP:20270103T000000Z
+DTSTART:20270103T190000Z
+DTEND:20270103T210000Z
+SUMMARY:‘SLC Punk’ Watch Party + Unplugged Performances
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/slc-punk-unplugged/
+URL:https://therockwell.org/calendar/slc-punk-unplugged/
+END:VEVENT
+END:VCALENDAR

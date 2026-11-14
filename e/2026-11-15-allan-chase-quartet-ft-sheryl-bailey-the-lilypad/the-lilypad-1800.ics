@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:087f0fc0828bb6a066a06916c4cab7b3e9e8132e@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261115T230000Z
+DTEND:20261116T010000Z
+SUMMARY:Allan Chase Quartet ft. Sheryl Bailey
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/allan-chase-quartet-w-sh
+ eryl-bailey
+URL:https://www.lilypadinman.com/home/2026/allan-chase-quartet-w-sheryl-bai
+ ley
+END:VEVENT
+END:VCALENDAR

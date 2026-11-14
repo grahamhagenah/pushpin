@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66272b53b5ffea6b6ab1142ba0bbfb3d2d7c19fa@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T003000Z
+DTEND:20261115T023000Z
+SUMMARY:The Canadian Arabic Orchestra: Nightingale
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/the-canadian-arabic-orchestr
+ a-the-nightingale
+URL:https://www.berklee.edu/BPC/events/the-canadian-arabic-orchestra-the-ni
+ ghtingale
+END:VEVENT
+END:VCALENDAR

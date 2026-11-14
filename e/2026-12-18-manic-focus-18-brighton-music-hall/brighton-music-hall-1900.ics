@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:db979784eb2a09075b8076cea3297cadac64051b@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T000000Z
+DTEND:20261219T020000Z
+SUMMARY:Manic Focus (18+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/manic-focus-18-boston-massachusett
+ s-12-18-2026/event/01006545D7F64D76
+URL:https://www.ticketmaster.com/manic-focus-18-boston-massachusetts-12-18-
+ 2026/event/01006545D7F64D76
+END:VEVENT
+END:VCALENDAR

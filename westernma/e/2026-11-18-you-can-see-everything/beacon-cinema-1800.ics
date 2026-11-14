@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3fa0d2174a4427ab40791a49b1d92f3474231a17@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261118T230000Z
+DTEND:20261119T010000Z
+SUMMARY:You Can See Everything
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.phoenixmovies.net/movies/you-can-see-everything/HO0
+ 0001794
+URL:https://www.phoenixmovies.net/movies/you-can-see-everything/HO00001794
+END:VEVENT
+END:VCALENDAR

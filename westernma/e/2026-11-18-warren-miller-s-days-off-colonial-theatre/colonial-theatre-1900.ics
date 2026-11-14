@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:430f56f93d052cb989fc8681ec075aa89b902eb0@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:Warren Miller's Days Off
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.berkshiretheatregroup.org/event/warren-millers-days
+ -off/
+URL:https://www.berkshiretheatregroup.org/event/warren-millers-days-off/
+END:VEVENT
+END:VCALENDAR

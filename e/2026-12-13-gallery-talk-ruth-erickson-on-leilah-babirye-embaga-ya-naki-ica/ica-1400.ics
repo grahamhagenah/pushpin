@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8702bed5fde3814943d77f61099c5fc1a6eb1bf4@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T190000Z
+DTEND:20261213T210000Z
+SUMMARY:Gallery Talk: Ruth Erickson on Leilah Babirye: Embaga ya Naki ne Na
+ ki (Wedding of Naki and Naki)
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:https://www.icaboston.org/events/gallery-talk-ruth-erickson-on-
+ leilah-babirye-embaga-ya-naki-ne-naki-wedding-of-naki-and-naki/
+URL:https://www.icaboston.org/events/gallery-talk-ruth-erickson-on-leilah-b
+ abirye-embaga-ya-naki-ne-naki-wedding-of-naki-and-naki/
+END:VEVENT
+END:VCALENDAR

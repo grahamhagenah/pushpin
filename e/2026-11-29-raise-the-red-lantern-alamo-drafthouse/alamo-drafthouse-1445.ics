@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0cafbc4065123fc0f16a1efeac05ad564b90a2dc@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T194500Z
+DTEND:20261129T214500Z
+SUMMARY:Raise the Red Lantern
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/raise-the-red-lantern
+URL:https://drafthouse.com/boston/show/raise-the-red-lantern
+END:VEVENT
+END:VCALENDAR

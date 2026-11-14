@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5d12e7c8ac310a729d9a1a70440bfee62b5500db@pushpin.city
+DTSTAMP:20261226T000000Z
+DTSTART:20261226T220000Z
+DTEND:20261227T000000Z
+SUMMARY:Chris Smither
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/chris-smither/
+URL:https://www.passim.org/live-music/events/chris-smither/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b90e68f7cd21ca3f675fb3fb834d578d3477af0a@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261116T010000Z
+DTEND:20261116T030000Z
+SUMMARY:Freak Slug
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1510656
+URL:https://www.sinclaircambridge.com/events/detail/1510656
+END:VEVENT
+END:VCALENDAR

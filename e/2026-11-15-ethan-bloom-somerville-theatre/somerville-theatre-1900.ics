@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:87f99556b4238c9e0a6791288c31f0d2a0f3c9d5@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261116T000000Z
+DTEND:20261116T020000Z
+SUMMARY:Ethan Bloom
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.internet-ticketing.com/websales/sales/CSBSOM/start
+URL:https://www.internet-ticketing.com/websales/sales/CSBSOM/start
+END:VEVENT
+END:VCALENDAR

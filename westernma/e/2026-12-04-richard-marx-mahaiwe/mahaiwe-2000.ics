@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bf358674b8f7cfb3b54f62c85089f7fceebc4c99@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:Richard Marx
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:https://mahaiwe.org/event/richard-marx/
+URL:https://mahaiwe.org/event/richard-marx/
+END:VEVENT
+END:VCALENDAR

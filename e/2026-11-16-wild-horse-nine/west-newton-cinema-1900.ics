@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:209f46548ba0f74aae6d211a866f659c2bc01436@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261117T000000Z
+DTEND:20261117T020000Z
+SUMMARY:Wild Horse Nine
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/wild-horse-nine
+URL:https://www.westnewtoncinema.com/movie/wild-horse-nine
+END:VEVENT
+END:VCALENDAR

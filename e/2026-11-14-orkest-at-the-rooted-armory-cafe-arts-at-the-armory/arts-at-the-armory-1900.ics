@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7fab41aefe1b0ff159110220145499fc9a7040ef@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:Orkest at the ROOTED Armory Cafe
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/orkest-at-the-rooted-armory-
+ cafe/
+URL:https://artsatthearmory.org/events/orkest-at-the-rooted-armory-cafe/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:05fee6e092a5afa2209eea271be325716ab24820@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261214T010000Z
+DTEND:20261214T030000Z
+SUMMARY:JGB Tribute\, The Diamond Blues
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=822
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=822
+END:VEVENT
+END:VCALENDAR

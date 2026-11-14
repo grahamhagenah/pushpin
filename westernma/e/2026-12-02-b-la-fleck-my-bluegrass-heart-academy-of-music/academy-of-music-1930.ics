@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5f1fafa24294314a6a9e9700a5fdc32ece61e712@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T003000Z
+DTEND:20261203T023000Z
+SUMMARY:Béla Fleck: My Bluegrass Heart
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/bela-fleck-my-bluegrass-heart/
+URL:https://aomtheatre.com/aom_event/bela-fleck-my-bluegrass-heart/
+END:VEVENT
+END:VCALENDAR

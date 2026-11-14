@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e597491bd2df1aafebc2c6d885ba67b00f4185b0@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261119T003000Z
+DTEND:20261119T023000Z
+SUMMARY:Sadurn
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1557025
+URL:https://www.sinclaircambridge.com/events/detail/1557025
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:39f480621f8c0dfaf3351db97d7e5966cfcb3cf4@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:West 22nd: Places To Be
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/west-22nd-places-to-be-boston-mass
+ achusetts-11-19-2026/event/01006487A8D5D52D
+URL:https://www.ticketmaster.com/west-22nd-places-to-be-boston-massachusett
+ s-11-19-2026/event/01006487A8D5D52D
+END:VEVENT
+END:VCALENDAR

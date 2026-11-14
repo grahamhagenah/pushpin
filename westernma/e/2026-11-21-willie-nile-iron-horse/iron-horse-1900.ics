@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4850ff9fa038b4acf930b489983235a162caf0b4@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T020000Z
+SUMMARY:Willie Nile
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000BDAJNMA5
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0BDAJNMA5
+END:VEVENT
+END:VCALENDAR

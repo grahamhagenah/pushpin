@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cf1e3f6506b2e0c654921cc0f25bdf013a42d3fe@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T194500Z
+DTEND:20261114T214500Z
+SUMMARY:Wild Horse Nine
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.somervilletheatre.com/production/wild-horse-nine/
+URL:https://www.somervilletheatre.com/production/wild-horse-nine/
+END:VEVENT
+END:VCALENDAR

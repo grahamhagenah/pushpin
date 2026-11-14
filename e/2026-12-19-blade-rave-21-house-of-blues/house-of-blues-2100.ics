@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69fca34f149513b2db417be3800ce7daf5c94898@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261220T020000Z
+DTEND:20261220T040000Z
+SUMMARY:Blade Rave (21+)
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/blade-rave-21-boston-massachusetts
+ -12-19-2026/event/01006564E1D4E410
+URL:https://www.ticketmaster.com/blade-rave-21-boston-massachusetts-12-19-2
+ 026/event/01006564E1D4E410
+END:VEVENT
+END:VCALENDAR

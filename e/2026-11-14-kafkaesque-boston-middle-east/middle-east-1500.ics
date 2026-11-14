@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fee58489f1563cd748a2f0bd09417ab603a60a5d@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T200000Z
+DTEND:20261114T220000Z
+SUMMARY:Kafkaesque Boston
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/kafkaesque-boston-middle-east-d
+ ownstairs-tickets/15045233?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/kafkaesque-boston-middle-east-downstair
+ s-tickets/15045233?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

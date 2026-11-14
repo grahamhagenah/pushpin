@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ce099efa4b852d197cb5c577ee6522cf1ae18bf2@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261118T204500Z
+DTEND:20261118T224500Z
+SUMMARY:You Can See Everything
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.somervilletheatre.com/production/you-can-see-everyt
+ hing/
+URL:https://www.somervilletheatre.com/production/you-can-see-everything/
+END:VEVENT
+END:VCALENDAR

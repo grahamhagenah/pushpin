@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f5b13d11e0f64688c91740dfa2708879f7e37e67@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:Mor Ve Otesi
+LOCATION:Crystal Ballroom\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.ticketmaster.com/mor-ve-otesi-somerville-massachuse
+ tts-11-29-2026/event/010064EAC0D66C45
+URL:https://www.ticketmaster.com/mor-ve-otesi-somerville-massachusetts-11-2
+ 9-2026/event/010064EAC0D66C45
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dbe4bf40d38c2349a38f78a5d4df398899a91334@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261119T204500Z
+DTEND:20261119T224500Z
+SUMMARY:You Can See Everything
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/you-can-see-everything
+URL:https://www.thetriplex.org/movie/you-can-see-everything
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c87a3f727d42feb33a3e04ae90c0c633d8e45d84@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261116T231500Z
+DTEND:20261117T011500Z
+SUMMARY:Seminar: Michael Clayton
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/events/seminar-michael-clayton
+URL:https://coolidge.org/events/seminar-michael-clayton
+END:VEVENT
+END:VCALENDAR

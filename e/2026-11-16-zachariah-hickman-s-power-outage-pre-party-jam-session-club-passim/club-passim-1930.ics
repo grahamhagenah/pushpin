@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:212d8148a515ad9751abc158984e72d5d5a334c2@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261117T003000Z
+DTEND:20261117T023000Z
+SUMMARY:Zachariah Hickman’s Power Outage PRE-Party Jam Session!
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/zachariah-hickmans-pow
+ er-outage-pre-party-jam-session/
+URL:https://www.passim.org/live-music/events/zachariah-hickmans-power-outag
+ e-pre-party-jam-session/
+END:VEVENT
+END:VCALENDAR

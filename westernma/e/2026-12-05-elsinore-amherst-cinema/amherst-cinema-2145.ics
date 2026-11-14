@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bc1bddd383a3686d2b60e347b28c065dfe1398f9@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T024500Z
+DTEND:20261206T044500Z
+SUMMARY:Elsinore
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/elsinore
+URL:https://amherstcinema.org/films-and-events/elsinore
+END:VEVENT
+END:VCALENDAR

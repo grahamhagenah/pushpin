@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:19357529348781b5b07752f972a881c5a53226fd@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+SUMMARY:Lost Rivers: Mapping the History of Charlestown's Miller’s River
+LOCATION:Charlestown Library\, 179 Main St\, Charlestown\, MA 02129
+DESCRIPTION:https://bpl.bibliocommons.com/events/6a9ac3edb88596143287eeea
+URL:https://bpl.bibliocommons.com/events/6a9ac3edb88596143287eeea
+END:VEVENT
+END:VCALENDAR

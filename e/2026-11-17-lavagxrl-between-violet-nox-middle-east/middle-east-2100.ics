@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e0363c117a4370150b4c8e9d28a8c0fc49945ba1@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261118T020000Z
+DTEND:20261118T040000Z
+SUMMARY:LAVAGXRL\, Between\, Violet Nox
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/lavagxrl-between-violet-nox-mid
+ dle-east-zuzu-tickets/14447634?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/lavagxrl-between-violet-nox-middle-east
+ -zuzu-tickets/14447634?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

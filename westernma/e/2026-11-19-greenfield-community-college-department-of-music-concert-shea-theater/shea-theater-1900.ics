@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:715f7ba5777e648790ac790376ea24161963098f@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Greenfield Community College Department of Music Concert
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:https://sheatheater.org/d/23339/Greenfield-Community-College-De
+ partment-of-Music-Concert
+URL:https://sheatheater.org/d/23339/Greenfield-Community-College-Department
+ -of-Music-Concert
+END:VEVENT
+END:VCALENDAR

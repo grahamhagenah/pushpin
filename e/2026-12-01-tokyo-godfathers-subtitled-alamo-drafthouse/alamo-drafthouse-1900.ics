@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ed77716f7a7b2eb06a8d51cf12d37ea971c16b50@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:Tokyo Godfathers (Subtitled)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/tokyo-godfathers-subtitled
+URL:https://drafthouse.com/boston/show/tokyo-godfathers-subtitled
+END:VEVENT
+END:VCALENDAR

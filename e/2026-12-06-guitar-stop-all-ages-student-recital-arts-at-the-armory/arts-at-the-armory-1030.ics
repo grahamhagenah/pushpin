@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bef44c1f87317b35ac7b5c2653789af4de16a115@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T153000Z
+DTEND:20261206T173000Z
+SUMMARY:Guitar Stop All Ages Student Recital
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/guitar-stop-all-ages-student
+ -recital/
+URL:https://artsatthearmory.org/events/guitar-stop-all-ages-student-recital
+ /
+END:VEVENT
+END:VCALENDAR

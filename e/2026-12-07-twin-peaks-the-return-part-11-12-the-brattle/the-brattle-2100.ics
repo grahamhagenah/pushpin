@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:416d773fc6edf00cc015e838c632d8939bd59739@pushpin.city
+DTSTAMP:20261207T000000Z
+DTSTART:20261208T020000Z
+DTEND:20261208T040000Z
+SUMMARY:Twin Peaks: The Return (Part 11 & 12)
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/special_events/twin-peaks-the-return-pa
+ rt-11-12/
+URL:https://brattlefilm.org/special_events/twin-peaks-the-return-part-11-12
+ /
+END:VEVENT
+END:VCALENDAR

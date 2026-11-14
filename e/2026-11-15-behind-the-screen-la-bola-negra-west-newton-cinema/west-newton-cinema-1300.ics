@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:169084840991ba0b9097ba55dc140947641a5b1a@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261115T180000Z
+DTEND:20261115T200000Z
+SUMMARY:Behind the Screen: La Bola Negra
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/behind-the-screen-la-bol
+ a-negra
+URL:https://www.westnewtoncinema.com/movie/behind-the-screen-la-bola-negra
+END:VEVENT
+END:VCALENDAR

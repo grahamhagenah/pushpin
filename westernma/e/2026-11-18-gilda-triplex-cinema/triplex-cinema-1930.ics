@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:669baa469c23a316345abbb27dbba87e989008b5@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261119T003000Z
+DTEND:20261119T023000Z
+SUMMARY:Gilda
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/gilda
+URL:https://www.thetriplex.org/movie/gilda
+END:VEVENT
+END:VCALENDAR

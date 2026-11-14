@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f9f41d946700ab42258b88d54daa30e7a1a40b42@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:An Evening with The Walrus - A mind blowing Beatles Tribute
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000CjVjtMAF
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0CjVjtMAF
+END:VEVENT
+END:VCALENDAR

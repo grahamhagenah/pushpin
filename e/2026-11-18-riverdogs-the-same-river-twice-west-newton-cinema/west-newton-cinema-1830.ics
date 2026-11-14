@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:76e9caaf8c8d20f8ce0d749f19fadf9bfa940623@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261118T233000Z
+DTEND:20261119T013000Z
+SUMMARY:Riverdogs & The Same River Twice
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/the-same-river-twice-riv
+ erdogs-with-filmmaker-ro
+URL:https://www.westnewtoncinema.com/movie/the-same-river-twice-riverdogs-w
+ ith-filmmaker-ro
+END:VEVENT
+END:VCALENDAR

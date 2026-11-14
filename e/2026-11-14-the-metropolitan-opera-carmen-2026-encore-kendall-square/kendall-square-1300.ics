@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4acf3c5bd3b7b4a9ee1e9b84090d34fa5238990b@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T200000Z
+SUMMARY:The Metropolitan Opera: Carmen (2026 ENCORE)
+LOCATION:Kendall Square\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/01ab85ac-
+ e2ff-5cee-a44f-d7658bf56a80
+URL:https://booking.landmarktheatres.com/launch/ticketing/01ab85ac-e2ff-5ce
+ e-a44f-d7658bf56a80
+END:VEVENT
+END:VCALENDAR

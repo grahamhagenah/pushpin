@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3f38a8b7d72b000522d3cd5813f5d84277e601a3@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:The Inevitable Return: Exploding Plastic Revisited
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:https://www.icaboston.org/events/the-inevitable-return-explodin
+ g-plastic-revisited/
+URL:https://www.icaboston.org/events/the-inevitable-return-exploding-plasti
+ c-revisited/
+END:VEVENT
+END:VCALENDAR

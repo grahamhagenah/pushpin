@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · The Middle East
+X-WR-CALDESC:What’s coming up at The Middle East\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:b5c9dc15b9d800c85d5fcef7379295e3a9a7d151@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261114T200000Z
+DTEND:20261114T220000Z
+SUMMARY:Kafkaesque Boston
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/kafkaesque-boston-middle-east-d
+ ownstairs-tickets/15045233?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin
+  Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/kafkaesque-boston-middle-east-downstair
+ s-tickets/15045233?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:d190f8f0a30d0051fab39dd2650d28f561eacb85@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261114T220000Z
+DTEND:20261115T000000Z
+SUMMARY:Phia Lauree
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/phia-lauree-middle-east-cornerb
+ akery-tickets/15054423?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bos
+ ton: https://pushpin.city/
+URL:https://www.ticketweb.com/event/phia-lauree-middle-east-cornerbakery-ti
+ ckets/15054423?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:71ceb13f33c2b78c93086e6809188b501127d52a@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261114T233000Z
+DTEND:20261115T013000Z
+SUMMARY:The Tumblers\, Air Traffic Controller (trio)
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-tumblers-air-traffic-contro
+ ller-middle-east-upstairs-tickets/14303044?pl=mideastclub&REFID=clientsite
+ wp\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/the-tumblers-air-traffic-controller-mid
+ dle-east-upstairs-tickets/14303044?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:1a66184636ad9060d580715782a57db04e6de120@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261115T023000Z
+DTEND:20261115T043000Z
+SUMMARY:Green Dreams\, DJ Sourpuppy\, iTZY BITZY\, DJ PRONTO
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/green-dreams-dj-sourpuppy-itzy-
+ middle-east-zuzu-tickets/14950553?pl=mideastclub&REFID=clientsitewp\nFrom 
+ Pushpin Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/green-dreams-dj-sourpuppy-itzy-middle-e
+ ast-zuzu-tickets/14950553?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:bfa82d60659be555d216fbcfc1d4e57b73b4d4e2@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261115T030000Z
+DTEND:20261115T050000Z
+SUMMARY:Garage Sale
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/garage-sale-middle-east-cornerb
+ akery-tickets/14421184?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bos
+ ton: https://pushpin.city/
+URL:https://www.ticketweb.com/event/garage-sale-middle-east-cornerbakery-ti
+ ckets/14421184?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3ea5847e96ac1caab70bba7d7803faf6b9dc11@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261115T033000Z
+DTEND:20261115T053000Z
+SUMMARY:Boston Bhangra Afterparty
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/boston-bhangra-afterparty-sonia
+ -tickets/14400854?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: 
+ https://pushpin.city/
+URL:https://www.ticketweb.com/event/boston-bhangra-afterparty-sonia-tickets
+ /14400854?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:d9926f2b5d058c02789b7c33c71c7a8040cdd3b4@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T000000Z
+DTEND:20261116T020000Z
+SUMMARY:The Kilans – Could You Keep It Dark? Tour
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-kilans-could-middle-east-up
+ stairs-tickets/15005053?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/the-kilans-could-middle-east-upstairs-t
+ ickets/15005053?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:d77950e516ffe09be614d1e366797429dbe4d302@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T000000Z
+DTEND:20261116T020000Z
+SUMMARY:Trophy Wife\, Exit 18\, Sophie's Body
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/trophy-wife-exit-18-sophies-son
+ ia-tickets/14348174?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston
+ : https://pushpin.city/
+URL:https://www.ticketweb.com/event/trophy-wife-exit-18-sophies-sonia-ticke
+ ts/14348174?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:434fd7a3c79803d45fa0394af93fb14f0319a6fe@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T020000Z
+DTEND:20261116T040000Z
+SUMMARY:Trans Inclusive Crime Syndicate Presents: Dingbat Rave
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/trans-inclusive-crime-syndicate
+ -presents-middle-east-zuzu-tickets/14287714?pl=mideastclub&REFID=clientsit
+ ewp\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/trans-inclusive-crime-syndicate-present
+ s-middle-east-zuzu-tickets/14287714?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:ff9f81d2c2f5447ee0c892f495da780f8e1dcb6b@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T020000Z
+DTEND:20261116T040000Z
+SUMMARY:Underground Collective Presents: Sunday Showcase
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/underground-collective-presents
+ -sunday-showcase-middle-east-cornerbakery-tickets/14438284?pl=mideastclub&
+ REFID=clientsitewp\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/underground-collective-presents-sunday-
+ showcase-middle-east-cornerbakery-tickets/14438284?pl=mideastclub&REFID=cl
+ ientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:eb8cdbf2511e63a18181e2fa874c6bc64da11312@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+SUMMARY:Jack Blocker
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/jack-blocker-middle-east-upstai
+ rs-tickets/14292494?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston
+ : https://pushpin.city/
+URL:https://www.ticketweb.com/event/jack-blocker-middle-east-upstairs-ticke
+ ts/14292494?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:bf3476714c1c8136bd5c2ca6a4c96ffa2ce9a9ff@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T020000Z
+DTEND:20261118T040000Z
+SUMMARY:LAVAGXRL\, Between\, Violet Nox
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/lavagxrl-between-violet-nox-mid
+ dle-east-zuzu-tickets/14447634?pl=mideastclub&REFID=clientsitewp\nFrom Pus
+ hpin Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/lavagxrl-between-violet-nox-middle-east
+ -zuzu-tickets/14447634?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a87f5ae01cd00c3c82dc300648987522c5c58c@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T023000Z
+DTEND:20261118T043000Z
+SUMMARY:Mood
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-t
+ ickets/14031774?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: ht
+ tps://pushpin.city/
+URL:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-tickets/1
+ 4031774?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:0d57eb0d747ff7acc5a0736a92012dcae99b59ca@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T233000Z
+DTEND:20261119T013000Z
+SUMMARY:Jessie Mazin\, Anya True
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/jessie-mazin-anya-true-sonia-ti
+ ckets/14368994?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: htt
+ ps://pushpin.city/
+URL:https://www.ticketweb.com/event/jessie-mazin-anya-true-sonia-tickets/14
+ 368994?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:27c5be05db8ce9d26c45bbf4b576a1fae7443c04@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:First to Eleven
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/first-to-eleven-middle-east-ups
+ tairs-tickets/14244324?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bos
+ ton: https://pushpin.city/
+URL:https://www.ticketweb.com/event/first-to-eleven-middle-east-upstairs-ti
+ ckets/14244324?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:1aca007760efd6ca19feb74c7f5db42a89e5876d@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T020000Z
+DTEND:20261119T040000Z
+SUMMARY:amateurLSDJ\, VOIDRIPPER\, Steph Andrews\, Princent Vice\, DJ Meist
+ er
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/amateurlsdj-voidripper-steph-an
+ drews-princent-middle-east-zuzu-tickets/14441634?pl=mideastclub&REFID=clie
+ ntsitewp\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/amateurlsdj-voidripper-steph-andrews-pr
+ incent-middle-east-zuzu-tickets/14441634?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:5cf42b6db18d7b5e3ca972a98aecc07f1e23c852@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T020000Z
+DTEND:20261119T040000Z
+SUMMARY:Battlemode
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/battlemode-middle-east-zuzu-tic
+ kets/14368324?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: http
+ s://pushpin.city/
+URL:https://www.ticketweb.com/event/battlemode-middle-east-zuzu-tickets/143
+ 68324?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

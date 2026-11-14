@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c286cfab1281793814c164d0dd1dc332418d7799@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T200000Z
+SUMMARY:Uncomputable Thread
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:https://massmoca.org/event/uncomputable-thread-a-technologies-o
+ f-relation-lecture-performance/
+URL:https://massmoca.org/event/uncomputable-thread-a-technologies-of-relati
+ on-lecture-performance/
+END:VEVENT
+END:VCALENDAR

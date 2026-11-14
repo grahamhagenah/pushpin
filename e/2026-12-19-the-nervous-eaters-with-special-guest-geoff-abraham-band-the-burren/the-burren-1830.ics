@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68daab67bd5328c7d23730fbdd351a07d2f59318@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261219T233000Z
+DTEND:20261220T013000Z
+SUMMARY:The Nervous Eaters with Special Guest Geoff Abraham Band
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=794
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=794
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8b4bd39ebc426d6bceead5046252a4e6bda9111a@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261115T220000Z
+DTEND:20261116T000000Z
+SUMMARY:Brian O’Donovan Legacy Series: VOICES OF IRELAND - Don Stiffe •
+  Ger O’Donnell • Trevor Sexton
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1907
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1907
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:29ccc6212e28809107c0a54347e53a39671e5a1e@pushpin.city
+DTSTAMP:20261120T000000Z
+DTSTART:20261121T024500Z
+DTEND:20261121T044500Z
+SUMMARY:The Cook\, The Thief\, His Wife\, & Her Lover
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/the-cook-the-thief-his-wife-
+ her-lover
+URL:https://drafthouse.com/boston/show/the-cook-the-thief-his-wife-her-love
+ r
+END:VEVENT
+END:VCALENDAR

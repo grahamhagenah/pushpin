@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8fd256075350b116605e90b301a594601a3fa688@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T030500Z
+DTEND:20261115T050500Z
+SUMMARY:Godzilla Minus Zero
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/godzilla-minus-zero
+URL:https://drafthouse.com/boston/show/godzilla-minus-zero
+END:VEVENT
+END:VCALENDAR

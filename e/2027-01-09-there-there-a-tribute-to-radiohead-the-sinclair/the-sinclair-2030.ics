@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ed8db3371fa0a3cd45b3e918992806ac40e90f37@pushpin.city
+DTSTAMP:20270109T000000Z
+DTSTART:20270110T013000Z
+DTEND:20270110T033000Z
+SUMMARY:There\, There (A Tribute to Radiohead)
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1659839
+URL:https://www.sinclaircambridge.com/events/detail/1659839
+END:VEVENT
+END:VCALENDAR

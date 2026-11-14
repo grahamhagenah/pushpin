@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:06ba20ef30e07993b87325c609e8dc9db976bb85@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261116T211500Z
+DTEND:20261116T231500Z
+SUMMARY:Sense and Sensibility
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:https://www.capitoltheatreusa.com/movie/sense-and-sensibility/
+URL:https://www.capitoltheatreusa.com/movie/sense-and-sensibility/
+END:VEVENT
+END:VCALENDAR

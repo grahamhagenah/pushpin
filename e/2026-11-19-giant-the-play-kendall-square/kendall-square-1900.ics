@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ef6a9d33dc7e0426a9834ee263d0b22b2c98ebcc@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:GIANT - The Play
+LOCATION:Kendall Square\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/bb0b8c9a-
+ 469e-5e80-bcc2-6b09ca1838eb
+URL:https://booking.landmarktheatres.com/launch/ticketing/bb0b8c9a-469e-5e8
+ 0-bcc2-6b09ca1838eb
+END:VEVENT
+END:VCALENDAR

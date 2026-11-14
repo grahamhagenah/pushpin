@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3df963ce59ac832af2b868eeb319a3087e08d756@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Hot Start
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1923
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1923
+END:VEVENT
+END:VCALENDAR

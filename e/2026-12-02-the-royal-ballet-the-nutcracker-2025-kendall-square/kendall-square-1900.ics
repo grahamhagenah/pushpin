@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eb5e84ed22fff21aacd8fa782f5f148353d24dc2@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:The Royal Ballet - The Nutcracker (2025)
+LOCATION:Kendall Square\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/1800ef42-
+ 3875-50ef-9799-f0b6087224de
+URL:https://booking.landmarktheatres.com/launch/ticketing/1800ef42-3875-50e
+ f-9799-f0b6087224de
+END:VEVENT
+END:VCALENDAR

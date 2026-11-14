@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:933f17a748ccca0ab5c8ef560bcde58b24c614c2@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261118T010000Z
+DTEND:20261118T030000Z
+SUMMARY:Which Side?: A Protest Music Teach-Out
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1779
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1779
+END:VEVENT
+END:VCALENDAR

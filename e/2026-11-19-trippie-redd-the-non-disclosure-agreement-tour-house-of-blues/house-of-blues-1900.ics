@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7b8171f48219b6eb819bb3e2e812a29f81107962@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Trippie Redd - The Non-disclosure Agreement Tour
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/trippie-redd-the-nondisclosure-agr
+ eement-tour-boston-massachusetts-11-19-2026/event/01006532AECD362E
+URL:https://www.ticketmaster.com/trippie-redd-the-nondisclosure-agreement-t
+ our-boston-massachusetts-11-19-2026/event/01006532AECD362E
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bdd7fa5ce0fb30aa76e20dd45147c715c7182c5e@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T000000Z
+DTEND:20261125T020000Z
+SUMMARY:The Songs of Dolly Parton - Back Porch Songwriter Series
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/songs-of-dolly-parton-ba
+ ck-porch-songwriter-series
+URL:https://www.thedrakeamherst.org/events/songs-of-dolly-parton-back-porch
+ -songwriter-series
+END:VEVENT
+END:VCALENDAR

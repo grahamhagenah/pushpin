@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:625ec1ff329ab3fb5967f1971d941efd81ff76a1@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T150000Z
+DTEND:20261206T170000Z
+SUMMARY:Hanukkah
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/hanukkah?event=6043
+URL:https://www.mfa.org/event/special-event/hanukkah?event=6043
+END:VEVENT
+END:VCALENDAR

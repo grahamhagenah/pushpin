@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:34636278fea8111ee85b271b48aa2ec25c3b22ea@pushpin.city
+DTSTAMP:20261222T000000Z
+DTSTART:20261223T000000Z
+DTEND:20261223T020000Z
+SUMMARY:Alisa Amador
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/alisa-amador/
+URL:https://www.passim.org/live-music/events/alisa-amador/
+END:VEVENT
+END:VCALENDAR

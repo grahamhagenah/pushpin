@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:38732baf23bedb56ab9cc7dd1de0ed4b4505744e@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:Worst Party Ever / Equipment
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/worst-party-ever-equipment/
+URL:https://therockwell.org/calendar/worst-party-ever-equipment/
+END:VEVENT
+END:VCALENDAR

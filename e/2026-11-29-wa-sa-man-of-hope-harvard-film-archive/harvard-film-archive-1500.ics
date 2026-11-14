@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:98e8550348c9687453740db7bc1a3b9f230e4b44@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Wałęsa: Man of Hope
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardfilmarchive.org/calendar/walesa-man-of-hope-2026
+ -11
+URL:https://harvardfilmarchive.org/calendar/walesa-man-of-hope-2026-11
+END:VEVENT
+END:VCALENDAR

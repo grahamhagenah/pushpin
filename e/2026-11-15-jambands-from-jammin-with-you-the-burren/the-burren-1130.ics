@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a51be0c32e8aa88c4ddbe129c3c3a3effa750327@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261115T163000Z
+DTEND:20261115T183000Z
+SUMMARY:JamBANDS from Jammin With You
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1557
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1557
+END:VEVENT
+END:VCALENDAR

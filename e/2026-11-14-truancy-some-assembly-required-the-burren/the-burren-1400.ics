@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7c2dc2e2b2872fa7b083de6e190e71aa54509d1b@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+SUMMARY:Truancy\, Some Assembly Required
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1743
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1743
+END:VEVENT
+END:VCALENDAR

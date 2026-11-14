@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e0ed1691cbda5f7c5e82c9946232c0273a80f31e@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261116T030000Z
+DTEND:20261116T050000Z
+SUMMARY:Ebenezer: A Christmas Carol
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.phoenixmovies.net/movies/ebenezer:-a-christmas-caro
+ l/HO00001797
+URL:https://www.phoenixmovies.net/movies/ebenezer:-a-christmas-carol/HO0000
+ 1797
+END:VEVENT
+END:VCALENDAR

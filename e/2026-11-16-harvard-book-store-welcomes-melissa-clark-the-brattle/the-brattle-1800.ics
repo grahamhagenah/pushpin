@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9a1ec41c488b6c888f4b86827c1fd7d3fc54796a@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261116T230000Z
+DTEND:20261117T010000Z
+SUMMARY:Harvard Book Store Welcomes Melissa Clark
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/special_events/harvard-book-store-welco
+ mes-melissa-clark/
+URL:https://brattlefilm.org/special_events/harvard-book-store-welcomes-meli
+ ssa-clark/
+END:VEVENT
+END:VCALENDAR

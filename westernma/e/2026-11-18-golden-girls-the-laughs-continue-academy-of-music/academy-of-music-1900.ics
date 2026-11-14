@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9b8ffeceaec2f63d114adf0f8021bbd2f49f215e@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:Golden Girls: The Laughs Continue
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/golden-girls-the-laughs-contin
+ ue/
+URL:https://aomtheatre.com/aom_event/golden-girls-the-laughs-continue/
+END:VEVENT
+END:VCALENDAR

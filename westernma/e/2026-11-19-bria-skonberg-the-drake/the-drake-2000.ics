@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:130a6a342eca666b851ce3220f1c35d7a922970a@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T010000Z
+DTEND:20261120T030000Z
+SUMMARY:BRIA SKONBERG
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/bria-skonberg
+URL:https://www.thedrakeamherst.org/events/bria-skonberg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:29a84566f6db40648e769d8a674d93d01a9630aa@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T010000Z
+DTEND:20261125T030000Z
+SUMMARY:Red McAdam
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/red-mcadam/
+URL:https://www.passim.org/live-music/events/red-mcadam/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9dd9d112405648e0892a20f81bc94383de1c54ea@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T003000Z
+DTEND:20261124T023000Z
+SUMMARY:Sina Bathaie Live in Boston - White Lotus World Tour | Back Togethe
+ r
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/sina-bathaie-white-lotus-wor
+ ld-tour/
+URL:https://artsatthearmory.org/events/sina-bathaie-white-lotus-world-tour/
+END:VEVENT
+END:VCALENDAR

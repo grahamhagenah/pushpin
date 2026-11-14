@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:59398b3effc465fedf9b949efa8eebee4ba1c623@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261117T001500Z
+DTEND:20261117T021500Z
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/once-upon-time-harle
+ m
+URL:https://amherstcinema.org/films-and-events/once-upon-time-harlem
+END:VEVENT
+END:VCALENDAR

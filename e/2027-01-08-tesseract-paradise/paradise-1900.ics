@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:43035755ffd9e500bec618bde528d33322fb745d@pushpin.city
+DTSTAMP:20270108T000000Z
+DTSTART:20270109T000000Z
+DTEND:20270109T020000Z
+SUMMARY:TesseracT
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/tesseract-boston-massachusetts-01-
+ 08-2027/event/01006542DD85A85A
+URL:https://www.ticketmaster.com/tesseract-boston-massachusetts-01-08-2027/
+ event/01006542DD85A85A
+END:VEVENT
+END:VCALENDAR

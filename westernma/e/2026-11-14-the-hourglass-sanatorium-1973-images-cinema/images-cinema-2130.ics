@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7a9a9e28e9388d8d1d82d5434e9790ed2fb91446@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T023000Z
+DTEND:20261115T043000Z
+SUMMARY:The Hourglass Sanatorium (1973)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/the-hourglass-sanatorium-197
+ 3
+URL:https://www.imagescinema.org/movie/the-hourglass-sanatorium-1973
+END:VEVENT
+END:VCALENDAR

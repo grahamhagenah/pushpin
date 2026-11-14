@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a502f42087eafa1d0a8d1a6fff337beec6d303b9@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:The Art of the Greek Laouto
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/music/the-art-of-the-greek-laouto?eve
+ nt=179121
+URL:https://www.mfa.org/event/music/the-art-of-the-greek-laouto?event=17912
+ 1
+END:VEVENT
+END:VCALENDAR

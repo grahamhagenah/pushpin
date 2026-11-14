@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a294a2c20e61dc69dba596447369422ebf660c36@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T160000Z
+DTEND:20261206T180000Z
+SUMMARY:Matt Heaton’s Burren Boogie - Family Music Sundays Holiday Editio
+ n
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1922
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1922
+END:VEVENT
+END:VCALENDAR

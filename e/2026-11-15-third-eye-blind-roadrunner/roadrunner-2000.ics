@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7cdd3cc2c6fe55727975070f0f3fcd4100f228a9@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261116T010000Z
+DTEND:20261116T030000Z
+SUMMARY:Third Eye Blind
+LOCATION:Roadrunner\, 89 Guest St\, Boston\, MA 02135
+DESCRIPTION:https://www.axs.com/events/1610760/third-eye-blind-tickets
+URL:https://www.axs.com/events/1610760/third-eye-blind-tickets
+END:VEVENT
+END:VCALENDAR

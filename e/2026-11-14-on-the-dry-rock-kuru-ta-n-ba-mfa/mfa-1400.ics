@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b66be9b5244273e13714e9e70b2af3ee67bd87d3@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+SUMMARY:On the Dry Rock (Kuru Taşın Başı)
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/on-the-dry-rock-kuru-tasin-basi?
+ event=181706
+URL:https://www.mfa.org/event/film/on-the-dry-rock-kuru-tasin-basi?event=18
+ 1706
+END:VEVENT
+END:VCALENDAR

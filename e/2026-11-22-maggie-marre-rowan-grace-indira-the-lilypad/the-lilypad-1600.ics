@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d32dba4d7faf6c1586e34bab51ed59bd74b863bf@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T210000Z
+DTEND:20261122T230000Z
+SUMMARY:Maggie Marre / Rowan Grace / Indira
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/11/22/maggie-marre-rowan
+ -grace-indira
+URL:https://www.lilypadinman.com/home/2026/11/22/maggie-marre-rowan-grace-i
+ ndira
+END:VEVENT
+END:VCALENDAR

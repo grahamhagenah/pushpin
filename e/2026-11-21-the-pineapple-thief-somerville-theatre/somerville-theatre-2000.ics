@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6f64141f6ddd190e34cf4d23d5a855f643bb2567@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:The Pineapple Thief
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.somervilletheatre.com/production/the-pineapple-thie
+ f/
+URL:https://www.somervilletheatre.com/production/the-pineapple-thief/
+END:VEVENT
+END:VCALENDAR

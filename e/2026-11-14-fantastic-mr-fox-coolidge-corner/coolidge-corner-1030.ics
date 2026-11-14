@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9f72c059a4b9c08629dfc6d8faf7ffed8382ffae@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T153000Z
+DTEND:20261114T173000Z
+SUMMARY:Fantastic Mr. Fox
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/films/fantastic-mr-fox
+URL:https://coolidge.org/films/fantastic-mr-fox
+END:VEVENT
+END:VCALENDAR

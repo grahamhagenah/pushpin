@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8428caf5ef2610803aa716cc89842ba0577a0292@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T003000Z
+DTEND:20261120T023000Z
+SUMMARY:Global Arts Live Presents: JOHN SCOFIELD’S “ELECTROSPECTIVE”
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.somervilletheatre.com/production/global-arts-live-p
+ resents-john-scofields-electrospective/
+URL:https://www.somervilletheatre.com/production/global-arts-live-presents-
+ john-scofields-electrospective/
+END:VEVENT
+END:VCALENDAR

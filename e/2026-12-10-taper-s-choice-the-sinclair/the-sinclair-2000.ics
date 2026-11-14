@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8288527cbb3e417310d1e3ce19b2bf98ae4dee72@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T010000Z
+DTEND:20261211T030000Z
+SUMMARY:Taper's Choice
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1613827
+URL:https://www.sinclaircambridge.com/events/detail/1613827
+END:VEVENT
+END:VCALENDAR

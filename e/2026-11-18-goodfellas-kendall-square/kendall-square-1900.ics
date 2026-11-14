@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aceaa31ce1e26701fc6035567e3b2d1bbd8f7105@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:Goodfellas
+LOCATION:Kendall Square\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/4f06e5a9-
+ 6441-5d9c-bb96-c08b8d371318
+URL:https://booking.landmarktheatres.com/launch/ticketing/4f06e5a9-6441-5d9
+ c-bb96-c08b8d371318
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d42a78ac1f75ca37203c48defeb7530fd0bfca04@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261209T180000Z
+DTEND:20261209T200000Z
+SUMMARY:Representations of Liberty in American Folk Art
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/representations-of-liberty-in
+ -american-folk-art?event=178441
+URL:https://www.mfa.org/event/lecture/representations-of-liberty-in-america
+ n-folk-art?event=178441
+END:VEVENT
+END:VCALENDAR

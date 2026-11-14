@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:227eb101810e375c8a931fb763180ee05d7e1ef1@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T233000Z
+DTEND:20261115T013000Z
+SUMMARY:Tiger Mom Academy
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/tiger-mom-academy/
+URL:https://artsemerson.org/event/tiger-mom-academy/
+END:VEVENT
+END:VCALENDAR

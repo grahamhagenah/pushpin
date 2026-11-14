@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a2d2a5e54d0ee416aeda902f12676ba7bc1f4d99@pushpin.city
+DTSTAMP:20261130T000000Z
+DTSTART:20261201T010000Z
+DTEND:20261201T030000Z
+SUMMARY:Temples
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1405650
+URL:https://www.sinclaircambridge.com/events/detail/1405650
+END:VEVENT
+END:VCALENDAR

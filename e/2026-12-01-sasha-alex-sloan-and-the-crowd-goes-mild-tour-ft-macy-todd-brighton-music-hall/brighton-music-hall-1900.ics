@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cf6795ccaf634f3cb27aa28dc9667db09435fadf@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:Sasha Alex Sloan: And The Crowd Goes Mild Tour ft Macy Todd
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/sasha-alex-sloan-and-the-crowd-bos
+ ton-massachusetts-12-01-2026/event/0100653EE3C72939
+URL:https://www.ticketmaster.com/sasha-alex-sloan-and-the-crowd-boston-mass
+ achusetts-12-01-2026/event/0100653EE3C72939
+END:VEVENT
+END:VCALENDAR

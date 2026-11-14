@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:275a11b77a9d47687fe233fd20ad7fb5709bbe3c@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T230000Z
+DTEND:20261214T010000Z
+SUMMARY:Silverstein & Story Of The Year: CAMP SCREAMO TOUR
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/silverstein-story-of-the-year-camp
+ -boston-massachusetts-12-13-2026/event/010064F6E8B91C31
+URL:https://www.ticketmaster.com/silverstein-story-of-the-year-camp-boston-
+ massachusetts-12-13-2026/event/010064F6E8B91C31
+END:VEVENT
+END:VCALENDAR

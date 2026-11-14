@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:56ac6716bc17616d38646dc5f90a1233a1b84485@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:KING TUFF & SHEER MAG
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/king-tuff-x-sheer-mag
+URL:https://www.thedrakeamherst.org/events/king-tuff-x-sheer-mag
+END:VEVENT
+END:VCALENDAR

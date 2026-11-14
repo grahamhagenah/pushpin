@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:acab417d8e7f281fb076f4d22e19832aaafe8f84@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261117T233000Z
+DTEND:20261118T013000Z
+SUMMARY:Insomnium & Amorphis (18+)
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/insomnium-amorphis-18-boston-massa
+ chusetts-11-17-2026/event/01006518A1A2BBE8
+URL:https://www.ticketmaster.com/insomnium-amorphis-18-boston-massachusetts
+ -11-17-2026/event/01006518A1A2BBE8
+END:VEVENT
+END:VCALENDAR

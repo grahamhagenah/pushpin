@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8eda5859b236dec9f26bc70b13a3366804f3fac5@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261116T220000Z
+DTEND:20261117T000000Z
+SUMMARY:History of Now Lectures Series - Reluctant Neighbors: History of Je
+ ws in Palestine and the Levant\, 1700-1850
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:https://calendar.mit.edu/event/copy-of-history-of-now-lectures-
+ series-on-sultans-prophets-and-the-early-modern-amalek-history-of-jews-in-
+ arab-ottoman-provinces-1517-1882
+URL:https://calendar.mit.edu/event/copy-of-history-of-now-lectures-series-o
+ n-sultans-prophets-and-the-early-modern-amalek-history-of-jews-in-arab-ott
+ oman-provinces-1517-1882
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:05a7e42085f8e70dc63f55b3f08c27eed6b5ff4d@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261116T000000Z
+DTEND:20261116T020000Z
+SUMMARY:Strawberry Guy
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/strawberry-guy-boston-massachusett
+ s-11-15-2026/event/010064B4CF37AFDD
+URL:https://www.ticketmaster.com/strawberry-guy-boston-massachusetts-11-15-
+ 2026/event/010064B4CF37AFDD
+END:VEVENT
+END:VCALENDAR

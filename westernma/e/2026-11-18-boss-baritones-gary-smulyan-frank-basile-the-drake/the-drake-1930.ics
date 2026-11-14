@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:622df3adcd0f64142555ccc9c70c294f8cc5d0d8@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261119T003000Z
+DTEND:20261119T023000Z
+SUMMARY:BOSS BARITONES - Gary Smulyan & Frank Basile
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/boss-baritones-1118
+URL:https://www.thedrakeamherst.org/events/boss-baritones-1118
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:124dcf5e54e2417610677dafebe345f4cb060e21@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+SUMMARY:Lonely Leesa & the Lost Cowboys | Lower Falls | Owl Haus | Minsplit
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/2749/1794704400000
+URL:https://tockify.com/midwaycafejp/detail/2749/1794704400000
+END:VEVENT
+END:VCALENDAR

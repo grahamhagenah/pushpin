@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:276fea54ba751778501309ca0f423fa89b6a1b76@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261117T234500Z
+DTEND:20261118T014500Z
+SUMMARY:You Can See Everything
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/you-can-see-everything
+URL:https://www.westnewtoncinema.com/movie/you-can-see-everything
+END:VEVENT
+END:VCALENDAR

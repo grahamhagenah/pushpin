@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:316abddaa48329cc07d18e8dea2c5f6f0cd78b0d@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T004500Z
+DTEND:20261203T024500Z
+SUMMARY:I Play Rocky
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/i-play-rocky
+URL:https://www.thetriplex.org/movie/i-play-rocky
+END:VEVENT
+END:VCALENDAR

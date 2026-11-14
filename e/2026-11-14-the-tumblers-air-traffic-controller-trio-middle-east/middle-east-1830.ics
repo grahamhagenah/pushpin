@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d36cc29dd6df95012b1c98e995f467e264fcd16e@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T233000Z
+DTEND:20261115T013000Z
+SUMMARY:The Tumblers\, Air Traffic Controller (trio)
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-tumblers-air-traffic-contro
+ ller-middle-east-upstairs-tickets/14303044?pl=mideastclub&REFID=clientsite
+ wp
+URL:https://www.ticketweb.com/event/the-tumblers-air-traffic-controller-mid
+ dle-east-upstairs-tickets/14303044?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

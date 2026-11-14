@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · ICA
+X-WR-CALDESC:What’s coming up at ICA\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:03172b6a51924a3e8682eef8960076f4a0eef25c@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261114T180000Z
+DTEND:20261114T200000Z
+SUMMARY:90 YEARS Exhibition Tour
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Engage with nine decades of ICA history during a guided tour of
+  90 YEARS. Led by a Graduate Student Lecturer\, deepen your understanding 
+ of exhibition artists and themes through guided close looking and discussi
+ on.\nhttps://www.icaboston.org/events/90-years-exhibition-tour/\nFrom Push
+ pin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/90-years-exhibition-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:6e6cbc4359fea805916e35b034ef02aa4465565a@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261121T010000Z
+DTEND:20261121T030000Z
+SUMMARY:Bill T. Jones/Arnie Zane Company: Collage Revisited and Story/
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:The Bill T. Jones/Arnie Zane Company return to the ICA with a p
+ rogram reflecting on history\, legacy\, and continued experimentation.\nht
+ tps://www.icaboston.org/events/bill-t-jones-arnie-zane-company-collage-rev
+ isited-and-story/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/bill-t-jones-arnie-zane-company-collag
+ e-revisited-and-story/
+END:VEVENT
+BEGIN:VEVENT
+UID:8430b499dbad4bda50831d32cae34de672f5b6e7@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:Gallery Talk: Max Gruber on 90 YEARS
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Founded in 1936\, the ICA is one of the oldest museums dedicate
+ d to contemporary art in the United States. On this special anniversary\, 
+ 90 YEARS revisits nine exhibitions and initiatives from the ICA’s histor
+ y\, tracing the museum’s evolution alongside the ever-changing landscape
+  of contemporary art. Join Curatorial Assistant Max Gruber for a conversat
+ ion about pivotal moments in the ICA’s history with a focus on the landm
+ ark 1941 exhibition Modern Mexican Painters.\nhttps://www.icaboston.org/ev
+ ents/gallery-talk-max-gruber-on-90-years/\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://www.icaboston.org/events/gallery-talk-max-gruber-on-90-years/
+END:VEVENT
+BEGIN:VEVENT
+UID:f8f0d6eee84ce4ec6a16170c0ab3c1aecfab5912@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261204T230000Z
+DTEND:20261205T010000Z
+SUMMARY:First Fridays: Made with Love
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:*Tickets will be available for nonmembers on 11/18 at 11 AM.\nh
+ ttps://www.icaboston.org/events/first-friday-made-with-love/\nFrom Pushpin
+  Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/first-friday-made-with-love/
+END:VEVENT
+BEGIN:VEVENT
+UID:b2e47d7d5bc20521ad2c229ff4a5a64d7bce01e9@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:The Inevitable Return: Exploding Plastic Revisited
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:On October 29\, 1966\, the ICA/Boston hosted a groundbreaking m
+ ultimedia performance by Andy Warhol and the Velvet Underground under the 
+ enigmatic title “Exploding Plastic Inevitable.” Presented as part of W
+ arhol’s second-ever museum exhibition\, the event invited audiences to e
+ xperience a cacophony of durational light and sound activations\, meant to
+  challenge any expectations of instant pleasure or gratification. The Velv
+ et Underground had become well-known for their dark\, minimalist\, and occ
+ asionally abrasive sound. Among Warhol’s goals for the piece were to exp
+ lore the capacity to bestow renewed interest upon details that are often s
+ ubmerged in the normative\, evenly lit flow of time. In addition to live m
+ usic\, the night consisted of film projections\, a variety of strobe and s
+ potlights\, and choreographed dance\, to create a singular\, and confronta
+ tional\, total-art experience.\nhttps://www.icaboston.org/events/the-inevi
+ table-return-exploding-plastic-revisited/\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://www.icaboston.org/events/the-inevitable-return-exploding-plasti
+ c-revisited/
+END:VEVENT
+BEGIN:VEVENT
+UID:252016abe9f5861ef14dafcfa8278a7241c5816c@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261213T170000Z
+DTEND:20261213T190000Z
+SUMMARY:“Feel no guilt in your desire:” 90 YEARS Short Film Program
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Drop in for a looping series of short films in conjunction with
+  90 YEARS. Each of the following films were presented at the ICA during th
+ e 1980s\, a dynamic period for video art in Boston and beyond.\nhttps://ww
+ w.icaboston.org/events/90-years-short-film-program/\nFrom Pushpin Boston: 
+ https://pushpin.city/
+URL:https://www.icaboston.org/events/90-years-short-film-program/
+END:VEVENT
+BEGIN:VEVENT
+UID:87a5d8cd14ae81be5b1a99733b96b093ab7069d6@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261213T190000Z
+DTEND:20261213T210000Z
+SUMMARY:Gallery Talk: Ruth Erickson on Leilah Babirye: Embaga ya Naki ne Na
+ ki (Wedding of Naki and Naki)
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:You’re invited to Leilah Babirye: Embaga ya Naki ne Naki (Wed
+ ding of Naki and Naki)!\nhttps://www.icaboston.org/events/gallery-talk-rut
+ h-erickson-on-leilah-babirye-embaga-ya-naki-ne-naki-wedding-of-naki-and-na
+ ki/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/gallery-talk-ruth-erickson-on-leilah-b
+ abirye-embaga-ya-naki-ne-naki-wedding-of-naki-and-naki/
+END:VEVENT
+END:VCALENDAR

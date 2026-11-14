@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7460bcb105cf96b1a8cf18f4257e9913f06c7f9b@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261118T213000Z
+DTEND:20261118T233000Z
+SUMMARY:Godzilla Minus Zero
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/godzilla-minus-zero
+URL:https://www.imagescinema.org/movie/godzilla-minus-zero
+END:VEVENT
+END:VCALENDAR

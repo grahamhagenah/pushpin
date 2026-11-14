@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7de50b20c4b69ef6d6151586f423eddca64f44b6@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261118T220000Z
+DTEND:20261119T000000Z
+SUMMARY:On the Calculation of Volume (Book I) by Solvej Balle
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:https://massmoca.org/event/lizzie-whitman-on-on-the-calculation
+ -of-volume-book-i/
+URL:https://massmoca.org/event/lizzie-whitman-on-on-the-calculation-of-volu
+ me-book-i/
+END:VEVENT
+END:VCALENDAR

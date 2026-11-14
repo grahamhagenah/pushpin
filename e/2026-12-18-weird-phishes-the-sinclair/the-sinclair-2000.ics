@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:12c9d7015eda6b0b16f6e95b2688f771595cf87b@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T010000Z
+DTEND:20261219T030000Z
+SUMMARY:Weird Phishes
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1502899
+URL:https://www.sinclaircambridge.com/events/detail/1502899
+END:VEVENT
+END:VCALENDAR

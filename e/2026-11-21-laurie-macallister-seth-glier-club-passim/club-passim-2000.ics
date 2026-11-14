@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:35ae9fcb9675fbf18c055335c75bd9b3f7843187@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:Laurie MacAllister & Seth Glier
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/laurie-macallister-set
+ h-glier/
+URL:https://www.passim.org/live-music/events/laurie-macallister-seth-glier/
+END:VEVENT
+END:VCALENDAR

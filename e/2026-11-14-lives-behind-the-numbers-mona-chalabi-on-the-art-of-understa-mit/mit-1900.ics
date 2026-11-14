@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b9f7828f851ff69a12fc4d17d25167cb70cc256d@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:Lives Behind the Numbers: Mona Chalabi on the Art of Understanding 
+ Others
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://calendar.mit.edu/event/lives-behind-the-numbers-mona-ch
+ alabi-on-the-art-of-understanding-others
+URL:https://calendar.mit.edu/event/lives-behind-the-numbers-mona-chalabi-on
+ -the-art-of-understanding-others
+END:VEVENT
+END:VCALENDAR

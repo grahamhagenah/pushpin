@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:406bad9ae8309e4bf04f6af0a63de01c5a681a2b@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261220T010000Z
+DTEND:20261220T030000Z
+SUMMARY:The Sweetback Sisters - XMAS Sing Along Spectacular
+LOCATION:Crystal Ballroom\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.ticketmaster.com/the-sweetback-sisters-xmas-sing-al
+ ong-somerville-massachusetts-12-19-2026/event/01006548281C5DE1
+URL:https://www.ticketmaster.com/the-sweetback-sisters-xmas-sing-along-some
+ rville-massachusetts-12-19-2026/event/01006548281C5DE1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9eeaf579f5b49976ec253064daecce535d73d429@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261119T003000Z
+DTEND:20261119T023000Z
+SUMMARY:Matt Charette | Matt Woods | Coffin Salesman | Mic Harrison
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/2737/1795048200000
+URL:https://tockify.com/midwaycafejp/detail/2737/1795048200000
+END:VEVENT
+END:VCALENDAR

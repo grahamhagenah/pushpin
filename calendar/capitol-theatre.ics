@@ -1,0 +1,481 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Capitol Theatre
+X-WR-CALDESC:What’s coming up at Capitol Theatre\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:37c5ca80dafb9732826a4b308aac302b28315960@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261114T170000Z
+DTEND:20261114T190000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12pm\, 3:30pm\, 7:10pm\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-ev
+ erything/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:fed8dd595f69310b8105e758ea13fd373be8a325@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261114T174500Z
+DTEND:20261114T194500Z
+SUMMARY:How to Rob a Bank
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12:45pm\, 5:20pm\, 8pm\nA crew of social media-savvy ban
+ k robbers broadcasts their daring heists\, unaware that their growing vira
+ l fame has put them in the crosshairs of a veteran FBI agent and a brillia
+ nt software engineer. Despite the unlikely duo closing in\, the crime ring
+  pushes past their limits\, putting everything on the line for their most 
+ ambitious…\nhttps://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/\n
+ From Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/
+END:VEVENT
+BEGIN:VEVENT
+UID:8f36025521689abe6e986ea2b75f43bc67e45afa@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261114T180000Z
+DTEND:20261114T200000Z
+SUMMARY:The Cat in the Hat
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 1pm\, 4pm\, 6:45pm\nAssigned his toughest mission yet\, 
+ the Cat must cheer up siblings Gabby and Sebastian as they adjust to life 
+ in a new town. Known for pushing boundaries\, this agent of chaos must pro
+ ve himself or risk losing his magical hat forever.\nhttps://www.capitolthe
+ atreusa.com/movie/the-cat-in-the-hat/\nFrom Pushpin Boston: https://pushpi
+ n.city/
+URL:https://www.capitoltheatreusa.com/movie/the-cat-in-the-hat/
+END:VEVENT
+BEGIN:VEVENT
+UID:3046fd9446d94cd85d3ee26ebe7c499a1284dde2@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261114T201500Z
+DTEND:20261114T221500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:15pm\, 7:30pm\nHarry Lehman is an aging pickpocket who
+  plies his trade with ever-diminishing returns in a drastically changed Ne
+ w York. Wallets stuffed with cash have been replaced by easily cancelled c
+ redit cards\, and Harry struggles to make ends meet as he cares for his di
+ sabled wife\, Rosie. When he unwittingly purloins and fences a valuable US
+ B…\nhttps://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-i
+ n-new-york/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-in-n
+ ew-york/
+END:VEVENT
+BEGIN:VEVENT
+UID:3f790ea30fa8f3de3ed638322c4bd00bd88451fe@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261115T170000Z
+DTEND:20261115T190000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12pm\, 3:30pm\, 7:10pm\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-ev
+ erything/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:261c0ad612a8a649dae247f2a38fc87f6399e498@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261115T174500Z
+DTEND:20261115T194500Z
+SUMMARY:How to Rob a Bank
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12:45pm\, 5:20pm\, 8pm\nA crew of social media-savvy ban
+ k robbers broadcasts their daring heists\, unaware that their growing vira
+ l fame has put them in the crosshairs of a veteran FBI agent and a brillia
+ nt software engineer. Despite the unlikely duo closing in\, the crime ring
+  pushes past their limits\, putting everything on the line for their most 
+ ambitious…\nhttps://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/\n
+ From Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/
+END:VEVENT
+BEGIN:VEVENT
+UID:667359b60d62b91b5ca93f32d676618f8092b3fe@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261115T180000Z
+DTEND:20261115T200000Z
+SUMMARY:The Cat in the Hat
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 1pm\, 4pm\, 6:45pm\nAssigned his toughest mission yet\, 
+ the Cat must cheer up siblings Gabby and Sebastian as they adjust to life 
+ in a new town. Known for pushing boundaries\, this agent of chaos must pro
+ ve himself or risk losing his magical hat forever.\nhttps://www.capitolthe
+ atreusa.com/movie/the-cat-in-the-hat/\nFrom Pushpin Boston: https://pushpi
+ n.city/
+URL:https://www.capitoltheatreusa.com/movie/the-cat-in-the-hat/
+END:VEVENT
+BEGIN:VEVENT
+UID:456d7996365f149189caa27a762ae46f344dfc10@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261115T201500Z
+DTEND:20261115T221500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:15pm\, 7:30pm\nHarry Lehman is an aging pickpocket who
+  plies his trade with ever-diminishing returns in a drastically changed Ne
+ w York. Wallets stuffed with cash have been replaced by easily cancelled c
+ redit cards\, and Harry struggles to make ends meet as he cares for his di
+ sabled wife\, Rosie. When he unwittingly purloins and fences a valuable US
+ B…\nhttps://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-i
+ n-new-york/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-in-n
+ ew-york/
+END:VEVENT
+BEGIN:VEVENT
+UID:e7829ba8b24a2d26a0127fefc6829590752f1011@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T000000Z
+DTEND:20261116T020000Z
+SUMMARY:Sense and Sensibility
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:See an irresistible new take on Jane Austen’s iconic Sense an
+ d Sensibility: a charming\, witty\, and deeply relatable story of love and
+  sisterhood starring Daisy Edgar-Jones and Esmé Creed-Miles. The film ope
+ ns on Friday\, October 16th\, but you’re invited to a SENSE AND SENSIBIL
+ ITY: EARLY ACCESS MOVIE PARTY on Wednesday\, October 14th at 7pm!\nhttps:/
+ /www.capitoltheatreusa.com/movie/sense-and-sensibility/\nFrom Pushpin Bost
+ on: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/sense-and-sensibility/
+END:VEVENT
+BEGIN:VEVENT
+UID:f4bdfffe972f155aeb8984c2e681b317ccb879e2@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T170000Z
+DTEND:20261116T190000Z
+SUMMARY:How to Rob a Bank
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12pm\, 5:20pm\, 8pm\nA crew of social media-savvy bank r
+ obbers broadcasts their daring heists\, unaware that their growing viral f
+ ame has put them in the crosshairs of a veteran FBI agent and a brilliant 
+ software engineer. Despite the unlikely duo closing in\, the crime ring pu
+ shes past their limits\, putting everything on the line for their most amb
+ itious…\nhttps://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/
+END:VEVENT
+BEGIN:VEVENT
+UID:5e64ce8b7911916add9fb60a55d5c36177a944dd@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T203000Z
+DTEND:20261116T223000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:30pm\, 7:10pm\nThirty-four days before she’s sent to
+  prison\, notorious Silicon Valley founder Elizabeth Holmes invites a skep
+ tical film crew to document her every move. What begins as an intimate por
+ trait of an enigmatic felon becomes a mind-bending three-year journey into
+  the abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-everythin
+ g/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd1a52b795a18d14c5d20f0f45581fdfe2d0ffb@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T210000Z
+DTEND:20261116T230000Z
+SUMMARY:The Cat in the Hat
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 4pm\, 6:45pm\nAssigned his toughest mission yet\, the Ca
+ t must cheer up siblings Gabby and Sebastian as they adjust to life in a n
+ ew town. Known for pushing boundaries\, this agent of chaos must prove him
+ self or risk losing his magical hat forever.\nhttps://www.capitoltheatreus
+ a.com/movie/the-cat-in-the-hat/\nFrom Pushpin Boston: https://pushpin.city
+ /
+URL:https://www.capitoltheatreusa.com/movie/the-cat-in-the-hat/
+END:VEVENT
+BEGIN:VEVENT
+UID:51e1b46f9f30c177027a5a1d30a6aff484b53d24@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T211500Z
+DTEND:20261116T231500Z
+SUMMARY:Sense and Sensibility
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 4:15pm\, 7pm\nSee an irresistible new take on Jane Auste
+ n’s iconic Sense and Sensibility: a charming\, witty\, and deeply relata
+ ble story of love and sisterhood starring Daisy Edgar-Jones and Esmé Cree
+ d-Miles. The film opens on Friday\, October 16th\, but you’re invited to
+  a SENSE AND SENSIBILITY: EARLY ACCESS MOVIE PARTY on Wednesday\, October 
+ 14th at 7pm!\nhttps://www.capitoltheatreusa.com/movie/sense-and-sensibilit
+ y/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/sense-and-sensibility/
+END:VEVENT
+BEGIN:VEVENT
+UID:8dc94d1128b6f049a172706784163f72a0eed09b@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T221500Z
+DTEND:20261117T001500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 5:15pm\, 7:30pm\nHarry Lehman is an aging pickpocket who
+  plies his trade with ever-diminishing returns in a drastically changed Ne
+ w York. Wallets stuffed with cash have been replaced by easily cancelled c
+ redit cards\, and Harry struggles to make ends meet as he cares for his di
+ sabled wife\, Rosie. When he unwittingly purloins and fences a valuable US
+ B…\nhttps://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-i
+ n-new-york/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-in-n
+ ew-york/
+END:VEVENT
+BEGIN:VEVENT
+UID:6ad5a7063c983c2541542ba8642acf31302542b1@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261117T203000Z
+DTEND:20261117T223000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:30pm\, 7:10pm\nThirty-four days before she’s sent to
+  prison\, notorious Silicon Valley founder Elizabeth Holmes invites a skep
+ tical film crew to document her every move. What begins as an intimate por
+ trait of an enigmatic felon becomes a mind-bending three-year journey into
+  the abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-everythin
+ g/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:5be98478ba2d397af9257fd427054ae828653690@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261117T210000Z
+DTEND:20261117T230000Z
+SUMMARY:The Cat in the Hat
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 4pm\, 6:45pm\nAssigned his toughest mission yet\, the Ca
+ t must cheer up siblings Gabby and Sebastian as they adjust to life in a n
+ ew town. Known for pushing boundaries\, this agent of chaos must prove him
+ self or risk losing his magical hat forever.\nhttps://www.capitoltheatreus
+ a.com/movie/the-cat-in-the-hat/\nFrom Pushpin Boston: https://pushpin.city
+ /
+URL:https://www.capitoltheatreusa.com/movie/the-cat-in-the-hat/
+END:VEVENT
+BEGIN:VEVENT
+UID:1e5dfe0409734b662a4698d0671d08f70b896391@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261117T211500Z
+DTEND:20261117T231500Z
+SUMMARY:Sense and Sensibility
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 4:15pm\, 7pm\nSee an irresistible new take on Jane Auste
+ n’s iconic Sense and Sensibility: a charming\, witty\, and deeply relata
+ ble story of love and sisterhood starring Daisy Edgar-Jones and Esmé Cree
+ d-Miles. The film opens on Friday\, October 16th\, but you’re invited to
+  a SENSE AND SENSIBILITY: EARLY ACCESS MOVIE PARTY on Wednesday\, October 
+ 14th at 7pm!\nhttps://www.capitoltheatreusa.com/movie/sense-and-sensibilit
+ y/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/sense-and-sensibility/
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac250d71e9ee31799269922c66031c0d1f9112e@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261117T221500Z
+DTEND:20261118T001500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 5:15pm\, 7:30pm\nHarry Lehman is an aging pickpocket who
+  plies his trade with ever-diminishing returns in a drastically changed Ne
+ w York. Wallets stuffed with cash have been replaced by easily cancelled c
+ redit cards\, and Harry struggles to make ends meet as he cares for his di
+ sabled wife\, Rosie. When he unwittingly purloins and fences a valuable US
+ B…\nhttps://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-i
+ n-new-york/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-in-n
+ ew-york/
+END:VEVENT
+BEGIN:VEVENT
+UID:d04533660422ed99f0f3c10d3d2211952745253c@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261117T222000Z
+DTEND:20261118T002000Z
+SUMMARY:How to Rob a Bank
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 5:20pm\, 8pm\nA crew of social media-savvy bank robbers 
+ broadcasts their daring heists\, unaware that their growing viral fame has
+  put them in the crosshairs of a veteran FBI agent and a brilliant softwar
+ e engineer. Despite the unlikely duo closing in\, the crime ring pushes pa
+ st their limits\, putting everything on the line for their most ambitious
+ …\nhttps://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/\nFrom Push
+ pin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/
+END:VEVENT
+BEGIN:VEVENT
+UID:9052967a0802c3eb60634fb93bd6774bcc2378c0@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T203000Z
+DTEND:20261118T223000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:30pm\, 7:10pm\nThirty-four days before she’s sent to
+  prison\, notorious Silicon Valley founder Elizabeth Holmes invites a skep
+ tical film crew to document her every move. What begins as an intimate por
+ trait of an enigmatic felon becomes a mind-bending three-year journey into
+  the abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-everythin
+ g/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:187ebabb4b369243fd68790051061647aa169b64@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T210000Z
+DTEND:20261118T230000Z
+SUMMARY:The Cat in the Hat
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 4pm\, 6:45pm\nAssigned his toughest mission yet\, the Ca
+ t must cheer up siblings Gabby and Sebastian as they adjust to life in a n
+ ew town. Known for pushing boundaries\, this agent of chaos must prove him
+ self or risk losing his magical hat forever.\nhttps://www.capitoltheatreus
+ a.com/movie/the-cat-in-the-hat/\nFrom Pushpin Boston: https://pushpin.city
+ /
+URL:https://www.capitoltheatreusa.com/movie/the-cat-in-the-hat/
+END:VEVENT
+BEGIN:VEVENT
+UID:8946a3da78314f7eeef3aeffb70660ea34d7523b@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T221500Z
+DTEND:20261119T001500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 5:15pm\, 7:30pm\nHarry Lehman is an aging pickpocket who
+  plies his trade with ever-diminishing returns in a drastically changed Ne
+ w York. Wallets stuffed with cash have been replaced by easily cancelled c
+ redit cards\, and Harry struggles to make ends meet as he cares for his di
+ sabled wife\, Rosie. When he unwittingly purloins and fences a valuable US
+ B…\nhttps://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-i
+ n-new-york/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-in-n
+ ew-york/
+END:VEVENT
+BEGIN:VEVENT
+UID:986b29377c86c3229b54eb093e4019e5ad74dd6c@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T222000Z
+DTEND:20261119T002000Z
+SUMMARY:How to Rob a Bank
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 5:20pm\, 8pm\nA crew of social media-savvy bank robbers 
+ broadcasts their daring heists\, unaware that their growing viral fame has
+  put them in the crosshairs of a veteran FBI agent and a brilliant softwar
+ e engineer. Despite the unlikely duo closing in\, the crime ring pushes pa
+ st their limits\, putting everything on the line for their most ambitious
+ …\nhttps://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/\nFrom Push
+ pin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/
+END:VEVENT
+BEGIN:VEVENT
+UID:0bd5369b02be2627d272757e53f59b65b7e0bcb2@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T203000Z
+DTEND:20261119T223000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:30pm\, 7:10pm\nThirty-four days before she’s sent to
+  prison\, notorious Silicon Valley founder Elizabeth Holmes invites a skep
+ tical film crew to document her every move. What begins as an intimate por
+ trait of an enigmatic felon becomes a mind-bending three-year journey into
+  the abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-everythin
+ g/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:f22856066c84ddd27bd29a6b87262ecec988b950@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T210000Z
+DTEND:20261119T230000Z
+SUMMARY:The Cat in the Hat
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 4pm\, 6:45pm\nAssigned his toughest mission yet\, the Ca
+ t must cheer up siblings Gabby and Sebastian as they adjust to life in a n
+ ew town. Known for pushing boundaries\, this agent of chaos must prove him
+ self or risk losing his magical hat forever.\nhttps://www.capitoltheatreus
+ a.com/movie/the-cat-in-the-hat/\nFrom Pushpin Boston: https://pushpin.city
+ /
+URL:https://www.capitoltheatreusa.com/movie/the-cat-in-the-hat/
+END:VEVENT
+BEGIN:VEVENT
+UID:be9e7234508457c83e24488e67e17cbb36f68c4d@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T221500Z
+DTEND:20261120T001500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 5:15pm\, 7:30pm\nHarry Lehman is an aging pickpocket who
+  plies his trade with ever-diminishing returns in a drastically changed Ne
+ w York. Wallets stuffed with cash have been replaced by easily cancelled c
+ redit cards\, and Harry struggles to make ends meet as he cares for his di
+ sabled wife\, Rosie. When he unwittingly purloins and fences a valuable US
+ B…\nhttps://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-i
+ n-new-york/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-in-n
+ ew-york/
+END:VEVENT
+BEGIN:VEVENT
+UID:4823766b4777abfa65a67e2a6d5026dd564ad88a@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T222000Z
+DTEND:20261120T002000Z
+SUMMARY:How to Rob a Bank
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 5:20pm\, 8pm\nA crew of social media-savvy bank robbers 
+ broadcasts their daring heists\, unaware that their growing viral fame has
+  put them in the crosshairs of a veteran FBI agent and a brilliant softwar
+ e engineer. Despite the unlikely duo closing in\, the crime ring pushes pa
+ st their limits\, putting everything on the line for their most ambitious
+ …\nhttps://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/\nFrom Push
+ pin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/
+END:VEVENT
+BEGIN:VEVENT
+UID:1f9375cda3f37ed74f5e285e2aef23d6ffdb3c11@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261125T000000Z
+DTEND:20261125T020000Z
+SUMMARY:Celluloid Confidential
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Celluloid Confidential returns with a horror 16mm marathon!\nht
+ tps://www.capitoltheatreusa.com/movie/celluloid-confidential/\nFrom Pushpi
+ n Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/celluloid-confidential/
+END:VEVENT
+BEGIN:VEVENT
+UID:297313d27be1c5106b9c784470ff24b1ca34f5d1@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Alice's Restaurant
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Inspired by Arlo Guthrie’s song “The Alice’s Restaurant M
+ assacree\,” Bonnie and Clyde director Arthur Penn (with screenwriting su
+ pport from Venable Herndon) took the loose and rambling structure of the s
+ ong and transformed it into a lyrical and bittersweet movie\, starring Gut
+ hrie as himself. Alice’s Restaurant was filmed in and around Stockbridge
+ \, Pittsfield\, and Great Barrington\, Massachusetts\, and…\nhttps://www
+ .capitoltheatreusa.com/movie/alices-restaurant/\nFrom Pushpin Boston: http
+ s://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/alices-restaurant/
+END:VEVENT
+BEGIN:VEVENT
+UID:54a1a2c6196e2d01e99661fd53fab64513e2672f@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Christmas in Connecticut
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Barbara Stanwyck stars as a famous expert on marriage\, cooking
+  and homemaking who is asked by her publisher to host a national hero for 
+ Christmas dinner at her famous Connecticut home. It should be simple\, but
+  she must scramble to keep the secret that she’s single\, can’t cook a
+ nd doesn’t own a home. With a…\nhttps://www.capitoltheatreusa.com/movi
+ e/christmas-in-connecticut/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/christmas-in-connecticut/
+END:VEVENT
+END:VCALENDAR

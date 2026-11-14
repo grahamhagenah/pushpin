@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:be46983a75af5ac7852e7d1ccd79e03eb38c1f09@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+SUMMARY:Ms. Ezra Furman Doing What She Wants
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/ms-ezra-furman-2/
+URL:https://therockwell.org/calendar/ms-ezra-furman-2/
+END:VEVENT
+END:VCALENDAR

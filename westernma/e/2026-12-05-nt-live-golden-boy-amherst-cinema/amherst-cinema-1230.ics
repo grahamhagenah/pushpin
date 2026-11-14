@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:164e47810a7648cf2dc12f0e0fd583cba28a7ec6@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T173000Z
+DTEND:20261205T193000Z
+SUMMARY:NT Live: Golden Boy
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/nt-live-golden-boy
+URL:https://amherstcinema.org/films-and-events/nt-live-golden-boy
+END:VEVENT
+END:VCALENDAR

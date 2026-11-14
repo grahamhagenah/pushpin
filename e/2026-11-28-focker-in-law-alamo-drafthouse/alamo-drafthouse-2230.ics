@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2d2406b039b54b4464be6a15d9803e4849ba79b4@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T033000Z
+DTEND:20261129T053000Z
+SUMMARY:Focker In-Law
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/focker-in-law
+URL:https://drafthouse.com/boston/show/focker-in-law
+END:VEVENT
+END:VCALENDAR

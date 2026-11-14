@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3b1a37e1cb89ba93de317c556efecbbb87bf0ed8@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261119T220000Z
+DTEND:20261120T000000Z
+SUMMARY:History of Now Lectures Series - A Different Critique: MENA Jewish 
+ Approaches to Zionism and Imperialism\, 1830-1948
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:https://calendar.mit.edu/event/copy-of-history-of-now-lectures-
+ series-reluctant-neighbors-history-of-jews-in-palestine-and-the-levant-170
+ 0-1850
+URL:https://calendar.mit.edu/event/copy-of-history-of-now-lectures-series-r
+ eluctant-neighbors-history-of-jews-in-palestine-and-the-levant-1700-1850
+END:VEVENT
+END:VCALENDAR

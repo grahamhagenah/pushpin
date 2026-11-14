@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4b41434e68bf87eea9cf49e9377736fed23fec6f@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261214T010000Z
+DTEND:20261214T030000Z
+SUMMARY:FORMIDABLE! Aznavour: The Story of a Legend
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/formidable-aznavour-the-stor
+ y-of-a-legend
+URL:https://www.berklee.edu/BPC/events/formidable-aznavour-the-story-of-a-l
+ egend
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8b0ff04e71fe507ff06a56e2a5f9e1d2ee4af4ff@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261117T174500Z
+DTEND:20261117T194500Z
+SUMMARY:Wicker
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/wicker
+URL:https://drafthouse.com/boston/show/wicker
+END:VEVENT
+END:VCALENDAR

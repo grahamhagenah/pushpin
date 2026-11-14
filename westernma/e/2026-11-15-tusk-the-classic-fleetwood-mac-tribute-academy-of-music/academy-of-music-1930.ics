@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fadb0f2240b4b481e74338af4f3da7da126658b7@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261116T003000Z
+DTEND:20261116T023000Z
+SUMMARY:Tusk: The Classic Fleetwood Mac Tribute
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/tusk-the-classic-fleetwood-mac
+ -tribute/
+URL:https://aomtheatre.com/aom_event/tusk-the-classic-fleetwood-mac-tribute
+ /
+END:VEVENT
+END:VCALENDAR

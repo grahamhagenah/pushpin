@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8d694ea24f8358acdaa2e07173b2862d16abb4b7@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+SUMMARY:Little Lies- A Tribute to Fleetwood Mac
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:https://sheatheater.org/d/23327/Shea-Presents-Little-Lies--A-Tr
+ ibute-to-Fleetwood-Mac
+URL:https://sheatheater.org/d/23327/Shea-Presents-Little-Lies--A-Tribute-to
+ -Fleetwood-Mac
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e1a2bfdbdedfb25200bed0b1ec8f111979e518d0@pushpin.city
+DTSTAMP:20261217T000000Z
+DTSTART:20261218T003000Z
+DTEND:20261218T023000Z
+SUMMARY:Rebecca Mac Klezmer String Band
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000D7HUTMA3
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0D7HUTMA3
+END:VEVENT
+END:VCALENDAR

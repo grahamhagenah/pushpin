@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:424596595df23d032aaa0e57ade5fe3a8554e9cc@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T150000Z
+DTEND:20261114T170000Z
+SUMMARY:Artisan Market
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/artisan-market?event=15
+ 4301
+URL:https://www.mfa.org/event/special-event/artisan-market?event=154301
+END:VEVENT
+END:VCALENDAR

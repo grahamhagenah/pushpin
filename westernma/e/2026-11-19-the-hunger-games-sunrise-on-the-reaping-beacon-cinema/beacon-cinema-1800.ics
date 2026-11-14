@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4d85ef66cf4811a9b350423d0b0628dd20aadb4e@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-
+ on-the-reaping/HO00001788
+URL:https://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-r
+ eaping/HO00001788
+END:VEVENT
+END:VCALENDAR

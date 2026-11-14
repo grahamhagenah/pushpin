@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5bee06c7ca60569ff15bf646474c5daccaf833cf@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:Fanny and Alexander
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardfilmarchive.org/calendar/fanny-and-alexander-202
+ 6-12
+URL:https://harvardfilmarchive.org/calendar/fanny-and-alexander-2026-12
+END:VEVENT
+END:VCALENDAR

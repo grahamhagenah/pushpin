@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4b8d2dd9ad7c6bac8591ac672a394e397034535f@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261117T150000Z
+DTEND:20261117T170000Z
+SUMMARY:Crime\, Comedy\, and Chaos: The Early Cinema of the Coen Brothers
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/events/crime-comedy-and-chaos-early-cinema
+ -coen-brothers
+URL:https://coolidge.org/events/crime-comedy-and-chaos-early-cinema-coen-br
+ others
+END:VEVENT
+END:VCALENDAR

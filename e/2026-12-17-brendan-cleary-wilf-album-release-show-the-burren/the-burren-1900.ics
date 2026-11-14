@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9ea50954a4578534a2a631f182ac561834141044@pushpin.city
+DTSTAMP:20261217T000000Z
+DTSTART:20261218T000000Z
+DTEND:20261218T020000Z
+SUMMARY:Brendan Cleary + Wilf: Album Release Show
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1924
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1924
+END:VEVENT
+END:VCALENDAR

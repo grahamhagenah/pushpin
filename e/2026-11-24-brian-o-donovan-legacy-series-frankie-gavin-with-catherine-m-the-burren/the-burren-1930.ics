@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:16b0520ce7b65993c06cd3ef6fe3c8931f7d63e8@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T003000Z
+DTEND:20261125T023000Z
+SUMMARY:Brian O’Donovan Legacy Series: Frankie Gavin with Catherine McHug
+ h
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1066
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1066
+END:VEVENT
+END:VCALENDAR

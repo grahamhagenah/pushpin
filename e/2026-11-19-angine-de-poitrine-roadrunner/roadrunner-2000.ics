@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2d1fcfc05b05dad82bf64aaf93f13f9963d51b66@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T010000Z
+DTEND:20261120T030000Z
+SUMMARY:Angine de Poitrine
+LOCATION:Roadrunner\, 89 Guest St\, Boston\, MA 02135
+DESCRIPTION:https://www.axs.com/events/1446392/angine-de-poitrine-tickets
+URL:https://www.axs.com/events/1446392/angine-de-poitrine-tickets
+END:VEVENT
+END:VCALENDAR

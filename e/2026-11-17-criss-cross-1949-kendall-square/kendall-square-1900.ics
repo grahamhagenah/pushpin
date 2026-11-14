@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b584ca83071638fbc428cffcf663397b380d712b@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+SUMMARY:Criss Cross (1949)
+LOCATION:Kendall Square\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/69194725-
+ fb85-5f79-9d77-2fd5ab80814c
+URL:https://booking.landmarktheatres.com/launch/ticketing/69194725-fb85-5f7
+ 9-9d77-2fd5ab80814c
+END:VEVENT
+END:VCALENDAR

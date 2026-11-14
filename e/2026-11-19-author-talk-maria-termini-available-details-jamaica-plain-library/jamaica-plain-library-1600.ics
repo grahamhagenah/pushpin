@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5f00c1d1e2478bb552951b6602fd4a40d4cf43c4@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261119T210000Z
+DTEND:20261119T230000Z
+SUMMARY:Author Talk: Maria Termini — Available Details
+LOCATION:Jamaica Plain Library\, 30 South Street\, Jamaica Plain\, MA 02130
+DESCRIPTION:https://bpl.bibliocommons.com/events/6ad26bcf29c3d60033306286
+URL:https://bpl.bibliocommons.com/events/6ad26bcf29c3d60033306286
+END:VEVENT
+END:VCALENDAR

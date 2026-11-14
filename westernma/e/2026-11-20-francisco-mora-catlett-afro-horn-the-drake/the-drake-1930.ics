@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e2253d775ea9e931b7a715b0c4ffc9464752d7b8@pushpin.city
+DTSTAMP:20261120T000000Z
+DTSTART:20261121T003000Z
+DTEND:20261121T023000Z
+SUMMARY:FRANCISCO MORA CATLETT - AFRO HORN
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/francisco-mora-catlett-a
+ fro-horn
+URL:https://www.thedrakeamherst.org/events/francisco-mora-catlett-afro-horn
+END:VEVENT
+END:VCALENDAR

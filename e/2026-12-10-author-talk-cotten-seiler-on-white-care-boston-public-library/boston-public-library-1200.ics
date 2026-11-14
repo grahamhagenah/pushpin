@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:115b6efd1f888af6f36737f3194b18b6d53bb902@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261210T170000Z
+DTEND:20261210T190000Z
+SUMMARY:Author Talk: Cotten Seiler on “White Care”
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:https://bpl.bibliocommons.com/events/6aea33f296ec3a003adf1244
+URL:https://bpl.bibliocommons.com/events/6aea33f296ec3a003adf1244
+END:VEVENT
+END:VCALENDAR

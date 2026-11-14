@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:87b473e38b3712a7cc992857b1d6f1fc7d580f47@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261207T000000Z
+DTEND:20261207T020000Z
+SUMMARY:LUCY (Cooper B. Handy)
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/lucy-cooper-b-handy/
+URL:https://therockwell.org/calendar/lucy-cooper-b-handy/
+END:VEVENT
+END:VCALENDAR

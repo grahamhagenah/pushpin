@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a5036117cf30724622dd36ee0a1d100865b0f747@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:Sophie Hunter Presents: Stereoscope The Tour
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/sophie-hunter-presents-stereoscope
+ -the-tour-boston-massachusetts-11-14-2026/event/010064D7B083FB73
+URL:https://www.ticketmaster.com/sophie-hunter-presents-stereoscope-the-tou
+ r-boston-massachusetts-11-14-2026/event/010064D7B083FB73
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0143b2ff9dd2e9643830e1123db1a1b386d1dadf@pushpin.city
+DTSTAMP:20261228T000000Z
+DTSTART:20261229T030000Z
+DTEND:20261229T050000Z
+SUMMARY:The Fringe
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/ywrtrppg8anwbf4-3fh88-l3ftc
+URL:https://www.lilypadinman.com/home/ywrtrppg8anwbf4-3fh88-l3ftc
+END:VEVENT
+END:VCALENDAR

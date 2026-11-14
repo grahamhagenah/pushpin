@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c3cff0c3779c61f4cae2b055ed63ea6646b84be7@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261116T213000Z
+DTEND:20261116T233000Z
+SUMMARY:The Cat in the Hat
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/the-cat-in-the-hat
+URL:https://www.westnewtoncinema.com/movie/the-cat-in-the-hat
+END:VEVENT
+END:VCALENDAR

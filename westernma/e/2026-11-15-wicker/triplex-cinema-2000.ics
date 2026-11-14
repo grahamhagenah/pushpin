@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:215d931611473cc098526fe6a91b10b81ec1fbf6@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261116T010000Z
+DTEND:20261116T030000Z
+SUMMARY:Wicker
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/wicker
+URL:https://www.thetriplex.org/movie/wicker
+END:VEVENT
+END:VCALENDAR

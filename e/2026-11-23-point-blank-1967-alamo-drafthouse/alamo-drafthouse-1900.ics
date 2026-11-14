@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:44688b5338bd52f9f01258e220ab9235b29d2841@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T000000Z
+DTEND:20261124T020000Z
+SUMMARY:Point Blank (1967)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/queer-film-theory-101-point-
+ blank-1967
+URL:https://drafthouse.com/boston/show/queer-film-theory-101-point-blank-19
+ 67
+END:VEVENT
+END:VCALENDAR

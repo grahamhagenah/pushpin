@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0e4f97d7b298f037a7c986c49b235b39f1461634@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+SUMMARY:David Geer Live in the Lounge
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/david-geer-live-in-the-loung
+ e
+URL:https://www.imagescinema.org/movie/david-geer-live-in-the-lounge
+END:VEVENT
+END:VCALENDAR

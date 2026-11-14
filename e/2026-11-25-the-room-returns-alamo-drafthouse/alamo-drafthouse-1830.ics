@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:de35f8da0e4e935a6a61ddc95e2ae5e091c8c4f8@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261125T233000Z
+DTEND:20261126T013000Z
+SUMMARY:The Room Returns
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/the-room-a-tribute
+URL:https://drafthouse.com/boston/show/the-room-a-tribute
+END:VEVENT
+END:VCALENDAR

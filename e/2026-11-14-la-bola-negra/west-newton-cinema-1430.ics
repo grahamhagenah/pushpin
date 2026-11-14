@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7ef40cf9f4b977efe10d805383fed8c1f6ee942c@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T193000Z
+DTEND:20261114T213000Z
+SUMMARY:La Bola Negra
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/la-bola-negra
+URL:https://www.westnewtoncinema.com/movie/la-bola-negra
+END:VEVENT
+END:VCALENDAR

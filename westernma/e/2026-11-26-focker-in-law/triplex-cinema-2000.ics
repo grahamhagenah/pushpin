@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f6482f9d1786a958825c27879521a6ce626b91e8@pushpin.city
+DTSTAMP:20261126T000000Z
+DTSTART:20261127T010000Z
+DTEND:20261127T030000Z
+SUMMARY:Focker In-Law
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/focker-in-law
+URL:https://www.thetriplex.org/movie/focker-in-law
+END:VEVENT
+END:VCALENDAR

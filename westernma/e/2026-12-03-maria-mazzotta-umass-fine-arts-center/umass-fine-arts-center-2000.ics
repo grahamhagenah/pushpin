@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b447b4f34387bb26ca4bc975396db2d6e2c6b2ab@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:Maria Mazzotta
+LOCATION:UMass Fine Arts Center
+DESCRIPTION:https://arts.umass.edu/performing-arts/events/2026-2027/maria-m
+ azzotta
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/maria-mazzotta
+END:VEVENT
+END:VCALENDAR

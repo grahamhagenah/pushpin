@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:606f5a2f3b9411abe984bc597d48431d36d72986@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261201T053000Z
+DTEND:20261201T073000Z
+SUMMARY:Gallery Talk: Activation of Moholy-Nagy’s Light Prop for an Elect
+ ric Stage
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardartmuseums.org/event/4204
+URL:https://harvardartmuseums.org/event/4204
+END:VEVENT
+END:VCALENDAR

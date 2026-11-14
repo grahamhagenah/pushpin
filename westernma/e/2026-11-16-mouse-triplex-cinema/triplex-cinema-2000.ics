@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d98cb1738c75fe7ab979b500a6601db9d7ec1d4b@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261117T010000Z
+DTEND:20261117T030000Z
+SUMMARY:Mouse
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/mouse
+URL:https://www.thetriplex.org/movie/mouse
+END:VEVENT
+END:VCALENDAR

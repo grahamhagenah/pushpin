@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fccf739d3b0f9e8de367cbdd74d587f3da875d0d@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261115T190000Z
+DTEND:20261115T210000Z
+SUMMARY:Yellow Letters (Gelbe Briefe)
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/yellow-letters-gelbe-briefe?even
+ t=181716
+URL:https://www.mfa.org/event/film/yellow-letters-gelbe-briefe?event=181716
+END:VEVENT
+END:VCALENDAR

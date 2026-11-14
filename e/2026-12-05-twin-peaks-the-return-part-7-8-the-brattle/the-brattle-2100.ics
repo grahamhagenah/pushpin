@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b006636a69686d83646c7c87997ecc76d4b68022@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T020000Z
+DTEND:20261206T040000Z
+SUMMARY:Twin Peaks: The Return (Part 7 & 8)
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/special_events/twin-peaks-the-return-pa
+ rt-7-8/
+URL:https://brattlefilm.org/special_events/twin-peaks-the-return-part-7-8/
+END:VEVENT
+END:VCALENDAR

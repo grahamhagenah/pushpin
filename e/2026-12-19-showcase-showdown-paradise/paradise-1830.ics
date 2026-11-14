@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f720da5fbeafdbd9287abf345ec6de073e2cdf50@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261219T233000Z
+DTEND:20261220T013000Z
+SUMMARY:Showcase Showdown
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/showcase-showdown-boston-massachus
+ etts-12-19-2026/event/0100650DD98CA9E3
+URL:https://www.ticketmaster.com/showcase-showdown-boston-massachusetts-12-
+ 19-2026/event/0100650DD98CA9E3
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:706d901341c2bc211049ec601f47e960dee99035@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261116T230000Z
+DTEND:20261117T010000Z
+SUMMARY:The Old Fire: On Writing\, Memory\, and Belonging
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:https://frenchlibrary.org/events/elisa-shua-dusapin-2026/
+URL:https://frenchlibrary.org/events/elisa-shua-dusapin-2026/
+END:VEVENT
+END:VCALENDAR

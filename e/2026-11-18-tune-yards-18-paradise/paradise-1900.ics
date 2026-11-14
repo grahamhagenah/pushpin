@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d6321623b96ccaff093d94ab95141641f0a46812@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:Tune-Yards (18+)
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/tuneyards-18-boston-massachusetts-
+ 11-18-2026/event/0100652ED9016FDB
+URL:https://www.ticketmaster.com/tuneyards-18-boston-massachusetts-11-18-20
+ 26/event/0100652ED9016FDB
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4760795fa0cb9568bba1f39bb2d14fc6fb7b2423@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261118T220000Z
+DTEND:20261119T000000Z
+SUMMARY:Starr Forum: AI and Global Power: Democracy\, Competition\, and Con
+ trol
+LOCATION:MIT\, 70 MEMORIAL DR\, Cambridge\, MA 02142
+DESCRIPTION:https://calendar.mit.edu/event/starr-forum-ai-and-global-power-
+ democracy-competition-and-control
+URL:https://calendar.mit.edu/event/starr-forum-ai-and-global-power-democrac
+ y-competition-and-control
+END:VEVENT
+END:VCALENDAR

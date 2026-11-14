@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:500c5c3cdd21bf336c2d2c476f67a60ed1e9cbbe@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261118T010000Z
+DTEND:20261118T030000Z
+SUMMARY:Stella Lefty
+LOCATION:Royale\, 279 Tremont St\, Boston\, MA 02116
+DESCRIPTION:https://www.axs.com/events/1449694/stella-lefty-tickets
+URL:https://www.axs.com/events/1449694/stella-lefty-tickets
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:acd086fabb99825463bc4ad114406c536f21e67f@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261116T010000Z
+DTEND:20261116T030000Z
+SUMMARY:JACK BLOCKER
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/jack-blocker
+URL:https://www.thedrakeamherst.org/events/jack-blocker
+END:VEVENT
+END:VCALENDAR

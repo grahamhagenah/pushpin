@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7f48a23cbf46f64c13f886f6f5d6ebb0ea4d5497@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:Hell is a City
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardfilmarchive.org/calendar/hell-is-a-city-2026-11
+URL:https://harvardfilmarchive.org/calendar/hell-is-a-city-2026-11
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:18bf4b5db6d55bfbd5c56fc0519b1965ad415ab2@pushpin.city
+DTSTAMP:20261120T000000Z
+DTSTART:20261121T003000Z
+DTEND:20261121T023000Z
+SUMMARY:The Mammals Duo
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000C2TrpMAF
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0C2TrpMAF
+END:VEVENT
+END:VCALENDAR

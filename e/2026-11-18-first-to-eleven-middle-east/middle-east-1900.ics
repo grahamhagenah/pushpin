@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bc52621d5e4199dfbb4bcaac5b2f5295f82e5ceb@pushpin.city
+DTSTAMP:20261118T000000Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:First to Eleven
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/first-to-eleven-middle-east-ups
+ tairs-tickets/14244324?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/first-to-eleven-middle-east-upstairs-ti
+ ckets/14244324?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

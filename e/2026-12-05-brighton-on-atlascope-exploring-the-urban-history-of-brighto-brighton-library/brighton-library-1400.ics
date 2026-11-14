@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6937bafdeada1d7c5cde7048c7706c31ee2e01c0@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Brighton on Atlascope: Exploring the Urban History of Brighton thro
+ ugh Maps
+LOCATION:Brighton Library\, 40 Academy Hill Rd\, Brighton\, MA 02135
+DESCRIPTION:https://bpl.bibliocommons.com/events/6acfc86529c3d600332fe56f
+URL:https://bpl.bibliocommons.com/events/6acfc86529c3d600332fe56f
+END:VEVENT
+END:VCALENDAR

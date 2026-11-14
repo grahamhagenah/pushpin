@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:309a44e79938bf01306b410c0a16963893fea305@pushpin.city
+DTSTAMP:20270107T000000Z
+DTSTART:20270108T010000Z
+DTEND:20270108T030000Z
+SUMMARY:Niall Connolly and Band
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/niall-connolly-and-ban
+ d/
+URL:https://www.passim.org/live-music/events/niall-connolly-and-band/
+END:VEVENT
+END:VCALENDAR

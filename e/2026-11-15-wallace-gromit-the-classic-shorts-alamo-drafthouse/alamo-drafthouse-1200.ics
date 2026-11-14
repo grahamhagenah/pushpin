@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:915ca4ee5d1cb8b7d77dc6fa8f5228562f89c74f@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261115T170000Z
+DTEND:20261115T190000Z
+SUMMARY:Wallace & Gromit: The Classic Shorts
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/alamo-crafthouse-wallace-gro
+ mit-the-classic-shorts
+URL:https://drafthouse.com/boston/show/alamo-crafthouse-wallace-gromit-the-
+ classic-shorts
+END:VEVENT
+END:VCALENDAR

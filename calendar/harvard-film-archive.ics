@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Harvard Film Archive
+X-WR-CALDESC:What’s coming up at Harvard Film Archive\, from Pushpin Bost
+ on.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:d1a58b9542cea2a7163bd56d839dd57351ecd4df@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+SUMMARY:All About Lily Chou-Chou
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Iwai Shunji\, 2001\nhttps://harvardfilmarchive.org/
+ calendar/all-about-lily-chou-chou-2026-11\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://harvardfilmarchive.org/calendar/all-about-lily-chou-chou-2026-1
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:e9b039e0063f397849416562db544b307add6958@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:Hell is a City
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Val Guest\, 1960\nhttps://harvardfilmarchive.org/ca
+ lendar/hell-is-a-city-2026-11\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardfilmarchive.org/calendar/hell-is-a-city-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:7bbb73b7fe239d3459dc09b6af758091c9bfeedf@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261115T020000Z
+DTEND:20261115T040000Z
+SUMMARY:Never Let Go
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by John Guillermin\, 1960\nhttps://harvardfilmarchive.
+ org/calendar/never-let-go-2026-11\nFrom Pushpin Boston: https://pushpin.ci
+ ty/
+URL:https://harvardfilmarchive.org/calendar/never-let-go-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:f02db6e8efff20ded4504f4933c91cc465c05ce9@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261115T200000Z
+DTEND:20261115T220000Z
+SUMMARY:Marie Antoinette
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Sofia Coppola\, 2006\nhttps://harvardfilmarchive.or
+ g/calendar/marie-antoinette-2026-10\nFrom Pushpin Boston: https://pushpin.
+ city/
+URL:https://harvardfilmarchive.org/calendar/marie-antoinette-2026-10
+END:VEVENT
+BEGIN:VEVENT
+UID:512addf3ecf53d0696f984903f2f4ffac8e289e3@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261117T000000Z
+DTEND:20261117T020000Z
+SUMMARY:Nowhere to Go
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Seth Holt\, 1958\nhttps://harvardfilmarchive.org/ca
+ lendar/nowhere-to-go-2026-11\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardfilmarchive.org/calendar/nowhere-to-go-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:925446328b2f7bf9d4cf99f02d45c3de6281d56d@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261121T000000Z
+DTEND:20261121T020000Z
+SUMMARY:This Was a Woman
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Tim Whelan\, 1948\nhttps://harvardfilmarchive.org/c
+ alendar/this-was-a-woman-2026-11\nFrom Pushpin Boston: https://pushpin.cit
+ y/
+URL:https://harvardfilmarchive.org/calendar/this-was-a-woman-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:160c2798cc412950c16413dc33095a377739c342@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261122T000000Z
+DTEND:20261122T020000Z
+SUMMARY:Ashes and Diamonds
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1958\nhttps://harvardfilmarchive.or
+ g/calendar/ashes-and-diamonds-2026-12\nFrom Pushpin Boston: https://pushpi
+ n.city/
+URL:https://harvardfilmarchive.org/calendar/ashes-and-diamonds-2026-12
+END:VEVENT
+BEGIN:VEVENT
+UID:37bcb36072530a72849cbbbbb446d22a8d68c6d7@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261122T021500Z
+DTEND:20261122T041500Z
+SUMMARY:A Generation
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1955\nhttps://harvardfilmarchive.or
+ g/calendar/a-generation-2026-11\nFrom Pushpin Boston: https://pushpin.city
+ /
+URL:https://harvardfilmarchive.org/calendar/a-generation-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:7e929922ceedc8955a85468d221a3b91886f3f68@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
+SUMMARY:Innocent Sorcerers
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1960\nhttps://harvardfilmarchive.or
+ g/calendar/innocent-sorcerers-2026-11\nFrom Pushpin Boston: https://pushpi
+ n.city/
+URL:https://harvardfilmarchive.org/calendar/innocent-sorcerers-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:19f27ec5e4e6f666b4a6bdb1615c931cbceee307@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261124T000000Z
+DTEND:20261124T020000Z
+SUMMARY:Kanał
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1957\nhttps://harvardfilmarchive.or
+ g/calendar/kanal-2026-11\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardfilmarchive.org/calendar/kanal-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:73f0ae41a14db2d262054b0f9d20e2500a9fbcd8@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:The Promised Land
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1975\nhttps://harvardfilmarchive.or
+ g/calendar/the-promised-land-2026-11\nFrom Pushpin Boston: https://pushpin
+ .city/
+URL:https://harvardfilmarchive.org/calendar/the-promised-land-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:662c875cc12cc7a9d5a9134cd0ec15f0db090af1@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Man of Marble
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1977\nhttps://harvardfilmarchive.or
+ g/calendar/man-of-marble-2026-11\nFrom Pushpin Boston: https://pushpin.cit
+ y/
+URL:https://harvardfilmarchive.org/calendar/man-of-marble-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:c80384296a4753f6800f4b32be968d36ca3ab02f@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Wałęsa: Man of Hope
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 2013\nhttps://harvardfilmarchive.or
+ g/calendar/walesa-man-of-hope-2026-11\nFrom Pushpin Boston: https://pushpi
+ n.city/
+URL:https://harvardfilmarchive.org/calendar/walesa-man-of-hope-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:7b0336ec9750641775411be1d1c7d0f360dfe9cb@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261201T000000Z
+DTEND:20261201T020000Z
+SUMMARY:Man of Iron
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1981\nhttps://harvardfilmarchive.or
+ g/calendar/man-of-iron-2026-11\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardfilmarchive.org/calendar/man-of-iron-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:c4d34bd55909ef397903da513d7dfbf9839be8f2@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261208T000000Z
+DTEND:20261208T020000Z
+SUMMARY:The Conductor
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1980\nhttps://harvardfilmarchive.or
+ g/calendar/the-conductor-2026-12\nFrom Pushpin Boston: https://pushpin.cit
+ y/
+URL:https://harvardfilmarchive.org/calendar/the-conductor-2026-12
+END:VEVENT
+BEGIN:VEVENT
+UID:6d9b0c35989279df25d881f3ff4c4093c2364b65@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Without Anesthesia\, aka Rough Treatment
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1978\nhttps://harvardfilmarchive.or
+ g/calendar/without-anesthesia-aka-rough-treatment-2026-12\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://harvardfilmarchive.org/calendar/without-anesthesia-aka-rough-tr
+ eatment-2026-12
+END:VEVENT
+BEGIN:VEVENT
+UID:787b0b3de5808b20746ab3ada30f4eb622e8e726@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:Fanny and Alexander
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Ingmar Bergman\, 1982\nhttps://harvardfilmarchive.o
+ rg/calendar/fanny-and-alexander-2026-12\nFrom Pushpin Boston: https://push
+ pin.city/
+URL:https://harvardfilmarchive.org/calendar/fanny-and-alexander-2026-12
+END:VEVENT
+BEGIN:VEVENT
+UID:9478915e397a41da5a816e1dc00b86e58a309e4f@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:The Ashes
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1965\nhttps://harvardfilmarchive.or
+ g/calendar/the-ashes-2026-12\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardfilmarchive.org/calendar/the-ashes-2026-12
+END:VEVENT
+BEGIN:VEVENT
+UID:7da956e4b4fb10c5571230b6406447cf2fb42556@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261213T200000Z
+DTEND:20261213T220000Z
+SUMMARY:Pan Tadeusz\, aka The Last Days
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1999\nhttps://harvardfilmarchive.or
+ g/calendar/pan-tadeusz-aka-the-last-days-2026-12\nFrom Pushpin Boston: htt
+ ps://pushpin.city/
+URL:https://harvardfilmarchive.org/calendar/pan-tadeusz-aka-the-last-days-2
+ 026-12
+END:VEVENT
+END:VCALENDAR

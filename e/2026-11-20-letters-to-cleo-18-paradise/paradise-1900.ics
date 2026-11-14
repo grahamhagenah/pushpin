@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8ca912f40a3795cdfc57ed8eaa40058d38c6bb66@pushpin.city
+DTSTAMP:20261120T000000Z
+DTSTART:20261121T000000Z
+DTEND:20261121T020000Z
+SUMMARY:Letters To Cleo (18+)
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/letters-to-cleo-18-boston-massachu
+ setts-11-20-2026/event/0100650BE782A083
+URL:https://www.ticketmaster.com/letters-to-cleo-18-boston-massachusetts-11
+ -20-2026/event/0100650BE782A083
+END:VEVENT
+END:VCALENDAR

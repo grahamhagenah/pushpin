@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a7056c48500ccea4a02fc8c4e9b7f8b376fc43a1@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261115T200000Z
+DTEND:20261115T220000Z
+SUMMARY:Marie Antoinette
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardfilmarchive.org/calendar/marie-antoinette-2026-1
+ 0
+URL:https://harvardfilmarchive.org/calendar/marie-antoinette-2026-10
+END:VEVENT
+END:VCALENDAR

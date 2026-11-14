@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d30f6dd8c6ac15215a8611efedc7793fc0ba7b02@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261116T000000Z
+DTEND:20261116T020000Z
+SUMMARY:The Kilans – Could You Keep It Dark? Tour
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-kilans-could-middle-east-up
+ stairs-tickets/15005053?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/the-kilans-could-middle-east-upstairs-t
+ ickets/15005053?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

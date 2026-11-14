@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4428f1cd73e5745123d00a4ef5741bfb48bcba3d@pushpin.city
+DTSTAMP:20261117T000000Z
+DTSTART:20261118T010000Z
+DTEND:20261118T030000Z
+SUMMARY:caroline
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1438381
+URL:https://www.sinclaircambridge.com/events/detail/1438381
+END:VEVENT
+END:VCALENDAR

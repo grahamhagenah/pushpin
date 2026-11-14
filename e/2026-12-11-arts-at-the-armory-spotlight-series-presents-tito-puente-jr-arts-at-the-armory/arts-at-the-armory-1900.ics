@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:63de5c3694320b9756ed4fd886e8893a67a0397e@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Arts at the Armory Spotlight Series Presents Tito Puente Jr.
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/arts-at-the-armory-spotlight
+ -series-presents-tito-puente-jr/
+URL:https://artsatthearmory.org/events/arts-at-the-armory-spotlight-series-
+ presents-tito-puente-jr/
+END:VEVENT
+END:VCALENDAR

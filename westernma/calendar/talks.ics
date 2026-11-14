@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Art & talks
+X-WR-CALDESC:Art & talks around the Pioneer Valley and the Berkshires\, fro
+ m Pushpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:e917113de064fa1b382b5f98144f1a2bc82dcc3d@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261114T180000Z
+DTEND:20261114T200000Z
+SUMMARY:Uncomputable Thread
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Presentation and Movement Workshop\nUncomputable Thread is a pr
+ esentation\, conversation and participatory movement workshop by artist Ta
+ eyoon Choi\, created in collaboration with scholar Alexander R. Galloway\,
+  choreographer Cori Kresge and artist Roopa Vasudevan. The work examines t
+ he history of textile in relation to computing\, alongside the artistic an
+ d political significance of what cannot be computed and draws on themes of
+  the current exhibition\, Technologies of Relation\, which includes works 
+ by both Choi and Vasudevan.\nhttps://massmoca.org/event/uncomputable-threa
+ d-a-technologies-of-relation-lecture-performance/\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/uncomputable-thread-a-technologies-of-relati
+ on-lecture-performance/
+END:VEVENT
+BEGIN:VEVENT
+UID:172cb6fe60b0e7931bdfdda517e98e0662549b21@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+SUMMARY:Artist Tour
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Jimena Sarno: Rhapsody\nJoin Exhibiting Artist Jimena Sarno for
+  a special public tour of the exhibition Rhapsody.\nhttps://massmoca.org/e
+ vent/artist-tour-jimena-sarno-rhapsody/\nFrom Pushpin Western Mass: https:
+ //pushpin.city/westernma/
+URL:https://massmoca.org/event/artist-tour-jimena-sarno-rhapsody/
+END:VEVENT
+BEGIN:VEVENT
+UID:7c7766375491838fa16a93e70b54d43e643db8f2@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261114T210000Z
+DTEND:20261114T230000Z
+SUMMARY:Wandering Dance Festival
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:Discover the joy of movement as the Wandering Dance Festival re
+ turns to downtown Pittsfield for its fourth year. Developed and sponsored 
+ by Mill Town Foundation\, the festival brings people of all ages and backg
+ rounds together through workshops and community events from November 6–1
+ 3.\nhttps://www.berkshiretheatregroup.org/event/wandering-dance-festival/\
+ nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.berkshiretheatregroup.org/event/wandering-dance-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:1c7495b454698d22e4f3714b030ee6f3629def0d@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T220000Z
+DTEND:20261119T000000Z
+SUMMARY:On the Calculation of Volume (Book I) by Solvej Balle
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Book Talk with Lizzie Whitman\n“How on earth did this book co
+ me into being? It’s like it has always been here in this world with us\,
+  like one feels about the best art. I am torn as I read it between lingeri
+ ng and racing ahead\, and I think about my days completely differently now
+ .” — Sheila Heti Lizzie Whitman convenes this casual book club around 
+ Solvej Balle’s utterly riveting On the Calculation of Volume (Book I) 
+ — the grand opening of her speculative fiction septology\, winner of the
+  2022 Nordic Council Literature Prize (Scandinavia’s most important lite
+ rary award) for being “a masterpiece of its time.” Balle was also nomi
+ nated for the International Booker Prize and a National Book Award for thi
+ s book.\nhttps://massmoca.org/event/lizzie-whitman-on-on-the-calculation-o
+ f-volume-book-i/\nFrom Pushpin Western Mass: https://pushpin.city/westernm
+ a/
+URL:https://massmoca.org/event/lizzie-whitman-on-on-the-calculation-of-volu
+ me-book-i/
+END:VEVENT
+BEGIN:VEVENT
+UID:879fca8b1e35ed3f08a4b751f779e5f58f90214d@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261120T003000Z
+DTEND:20261120T023000Z
+SUMMARY:BalletX
+LOCATION:UMass Fine Arts Center
+DESCRIPTION:Frederick C. Tillis Performance Hall\nPhiladelphia’s premier 
+ contemporary ballet company BalletX unites artistic innovation with techni
+ cal excellence to forge new works of athleticism\, emotion\, and grace.\nh
+ ttps://arts.umass.edu/performing-arts/events/2026-2027/balletx\nFrom Pushp
+ in Western Mass: https://pushpin.city/westernma/
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/balletx
+END:VEVENT
+BEGIN:VEVENT
+UID:b478b7c140927a9a3c9d233b63f54a89c0ec3b4d@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261121T220000Z
+DTEND:20261122T000000Z
+SUMMARY:Last Week in End Times Cinema & Algorithm of the Night
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:A.S. Hamrah\n“A. S. Hamrah’s writing on film is a delight..
+ . Like all the best criticism\, his writing makes art and life feel less l
+ onely.” —Elif Batuman A.S. Hamrah is single-handedly re-inventing film
+  criticism with a unique archive of unfortunate movie bulletins published 
+ in the best indie print journals and magazines\, and compiled for his belo
+ ved weekly newsletter. His two most recent books\, Last Week in End Times 
+ Cinema (Semiotext(e)) and Algorithm of the Night (n+1) are R&D Store best-
+ sellers. Join Hamrah for a conversation about film\, filmmakers\, critical
+  writing\, and the state of movies in 2026.\nhttps://massmoca.org/event/a-
+ s-hamrah-last-week-in-end-times-cinema/\nFrom Pushpin Western Mass: https:
+ //pushpin.city/westernma/
+URL:https://massmoca.org/event/a-s-hamrah-last-week-in-end-times-cinema/
+END:VEVENT
+BEGIN:VEVENT
+UID:42337c968d893ccaab98eeccbb23d51c056983d5@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261122T000000Z
+DTEND:20261122T020000Z
+SUMMARY:Mirrored Pool
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Tom Lee\, Lisa Kaplan and Matthew Duvall\nWhere do we fit in th
+ is endless universe? Glimpse the precious fragility of our life on Planet 
+ Earth as we peer into the Mirrored Pool.\nhttps://massmoca.org/event/mirro
+ red-pool/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/mirrored-pool/
+END:VEVENT
+BEGIN:VEVENT
+UID:1b6b5ee63b998dd3013bb788d9e92d156f788d5e@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261122T210000Z
+DTEND:20261122T230000Z
+SUMMARY:Shire Stories with Sheela Clary
+LOCATION:Mahaiwe\, 20 Castle Street\, Great Barrington\, MA
+DESCRIPTION:Indigo Room\n$20 General Admission (plus processing fees)\nhttp
+ s://mahaiwe.org/event/shire-stories-with-sheela-clary/\nFrom Pushpin Weste
+ rn Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/shire-stories-with-sheela-clary/
+END:VEVENT
+BEGIN:VEVENT
+UID:22e9a52d95cd56282c7f6fe61692a9b5e2fe262a@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261203T223000Z
+DTEND:20261204T003000Z
+SUMMARY:Scott Eyerly’s Virtual Met Opera Lecture: Saint-Saëns's Samson e
+ t Delila
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:FREE\nhttps://mahaiwe.org/event/scott-eyerlys-virtual-met-opera
+ -lecture-verdis-macbeth-duplicate-1/\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://mahaiwe.org/event/scott-eyerlys-virtual-met-opera-lecture-verdi
+ s-macbeth-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:9f120ffd5363b8dba1612deb0af371582fc0a173@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Albany Berkshire Ballet Presents: The Nutcracker
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 2pm\, 6pm\nCelebrate the magic of the holiday season as 
+ Albany Berkshire Ballet (ABB) returns with its annual tour of The Nutcrack
+ er. Choreographed by ABB’s Artistic Director Madeline Cantarella Culpo\,
+  this beloved production features lavish sets and scenery by Stockbridge n
+ ative and renowned theatre and film set designer Carl Sprague\, with costu
+ mes by Sam Meredith. Young local dance students join professional ABB danc
+ ers in special children’s roles\, sharing the stage with a company of pe
+ rformers from across the United States and around the world.\nhttps://www.
+ berkshiretheatregroup.org/event/albany-berkshire-ballet-presents-the-nutcr
+ acker/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.berkshiretheatregroup.org/event/albany-berkshire-ballet-pre
+ sents-the-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:458157a3e3c694768ff9d63c32c4dd3ca015cf40@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261206T180000Z
+DTEND:20261206T200000Z
+SUMMARY:Albany Berkshire Ballet Presents: The Nutcracker
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:Celebrate the magic of the holiday season as Albany Berkshire B
+ allet (ABB) returns with its annual tour of The Nutcracker. Choreographed 
+ by ABB’s Artistic Director Madeline Cantarella Culpo\, this beloved prod
+ uction features lavish sets and scenery by Stockbridge native and renowned
+  theatre and film set designer Carl Sprague\, with costumes by Sam Meredit
+ h. Young local dance students join professional ABB dancers in special chi
+ ldren’s roles\, sharing the stage with a company of performers from acro
+ ss the United States and around the world.\nhttps://www.berkshiretheatregr
+ oup.org/event/albany-berkshire-ballet-presents-the-nutcracker/\nFrom Pushp
+ in Western Mass: https://pushpin.city/westernma/
+URL:https://www.berkshiretheatregroup.org/event/albany-berkshire-ballet-pre
+ sents-the-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:92352d7371ab06bd6e509c137f7cc72b4c9c067a@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Kimberly Bartosik: bLUr
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:bLUr\, choreographed by Kimberly Bartosik\, is a highly physica
+ l and emotionally intense dance piece in which five performers navigate sc
+ enes of desire\, care\, violence\, and tender rescue.\nhttps://massmoca.or
+ g/event/kimberly-bartosik-blur/\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://massmoca.org/event/kimberly-bartosik-blur/
+END:VEVENT
+END:VCALENDAR

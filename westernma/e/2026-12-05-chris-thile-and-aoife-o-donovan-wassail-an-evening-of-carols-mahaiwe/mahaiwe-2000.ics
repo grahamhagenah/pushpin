@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:15423d7d92f743de43c8e65a703ef2794e919f34@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Chris Thile and Aoife O’Donovan - Wassail! An Evening of Carols a
+ nd Merriment
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:https://mahaiwe.org/event/chris-thile-and-aoife-odonovan-wassai
+ l-an-evening-of-carols-and-merriment/
+URL:https://mahaiwe.org/event/chris-thile-and-aoife-odonovan-wassail-an-eve
+ ning-of-carols-and-merriment/
+END:VEVENT
+END:VCALENDAR

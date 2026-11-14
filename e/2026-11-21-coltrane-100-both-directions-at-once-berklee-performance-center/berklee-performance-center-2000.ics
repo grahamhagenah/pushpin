@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:30d7ce014619376d302c05127537baad32a4313c@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:Coltrane 100: Both Directions at Once
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/coltrane-100-both-directions
+ -at-once
+URL:https://www.berklee.edu/BPC/events/coltrane-100-both-directions-at-once
+END:VEVENT
+END:VCALENDAR

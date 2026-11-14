@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fb13f5b4c9de9047d9137c2aabfe384aee268f0e@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T021500Z
+DTEND:20261122T041500Z
+SUMMARY:A Generation
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardfilmarchive.org/calendar/a-generation-2026-11
+URL:https://harvardfilmarchive.org/calendar/a-generation-2026-11
+END:VEVENT
+END:VCALENDAR

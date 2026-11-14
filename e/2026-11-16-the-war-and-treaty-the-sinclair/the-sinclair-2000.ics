@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6108b606b0ab34a9b53da464b8f28f716e7f5b8f@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261117T010000Z
+DTEND:20261117T030000Z
+SUMMARY:The War And Treaty
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1485565
+URL:https://www.sinclaircambridge.com/events/detail/1485565
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab2d5e2aef7843bccba718821512673e1ebd3f04@pushpin.city
+DTSTAMP:20261115T000000Z
+DTSTART:20261115T190000Z
+DTEND:20261115T210000Z
+SUMMARY:Jenna Moynihan & Owen Marshall
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/jenna-moynihan-owen-ma
+ rshall/
+URL:https://www.passim.org/live-music/events/jenna-moynihan-owen-marshall/
+END:VEVENT
+END:VCALENDAR

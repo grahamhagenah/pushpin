@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:31496c703ad5cba0c69d9c7b8618f8164e2bb36f@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261204T220000Z
+DTEND:20261205T000000Z
+SUMMARY:Wicker and Wine
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/wicker-and-wine
+URL:https://www.imagescinema.org/movie/wicker-and-wine
+END:VEVENT
+END:VCALENDAR

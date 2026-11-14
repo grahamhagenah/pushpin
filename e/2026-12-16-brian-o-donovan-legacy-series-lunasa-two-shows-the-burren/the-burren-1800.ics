@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:909b1ac64c37e7b192c8f37b3c2e85468fca7151@pushpin.city
+DTSTAMP:20261216T000000Z
+DTSTART:20261216T230000Z
+DTEND:20261217T010000Z
+SUMMARY:Brian O'Donovan Legacy Series: Lunasa - TWO SHOWS
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=779
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=779
+END:VEVENT
+END:VCALENDAR

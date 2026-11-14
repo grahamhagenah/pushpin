@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8d5ce93ef8594e1e8d6b6acba0629b58437fcc9e@pushpin.city
+DTSTAMP:20261207T000000Z
+DTSTART:20261207T210000Z
+DTEND:20261207T230000Z
+SUMMARY:The Return Part 8 + Selected Music Videos
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/special_events/twin-peaks-the-return-pa
+ rt-8-music-videos/
+URL:https://brattlefilm.org/special_events/twin-peaks-the-return-part-8-mus
+ ic-videos/
+END:VEVENT
+END:VCALENDAR

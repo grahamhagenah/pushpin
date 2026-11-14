@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a5cb3d1923cc334c4597b33cd7b1f60d85e22189@pushpin.city
+DTSTAMP:20261114T000000Z
+DTSTART:20261114T160000Z
+DTEND:20261114T180000Z
+SUMMARY:La Bola Negra
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/la-bola-negra
+URL:https://drafthouse.com/boston/show/la-bola-negra
+END:VEVENT
+END:VCALENDAR

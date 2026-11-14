@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab20b220764fbd2056d097cb2ad96e8d33ce57b3@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261221T010000Z
+DTEND:20261221T030000Z
+SUMMARY:Joe Hunt Group
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026-joe-hunt-xw3dr-j33lh-3mt
+ rl-5dcmh-jf2re
+URL:https://www.lilypadinman.com/home/2026-joe-hunt-xw3dr-j33lh-3mtrl-5dcmh
+ -jf2re
+END:VEVENT
+END:VCALENDAR

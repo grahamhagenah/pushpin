@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:22c5a3bdd7a205364bce268c6d5fe19c874977dd@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T200000Z
+DTEND:20261220T220000Z
+SUMMARY:Shepards | Sublimbic | Trouble With Parachutes | Adam Femino of OC4
+ 5
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/2761/1797796800000
+URL:https://tockify.com/midwaycafejp/detail/2761/1797796800000
+END:VEVENT
+END:VCALENDAR

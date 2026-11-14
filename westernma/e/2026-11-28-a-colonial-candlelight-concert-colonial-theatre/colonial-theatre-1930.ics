@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e703c531730d164bddf185cee21029e735437d85@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:A Colonial Candlelight Concert
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.berkshiretheatregroup.org/calendar/
+URL:https://www.berkshiretheatregroup.org/calendar/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:af6c052e5463896e3164f3c0a23646c1a355977b@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T203000Z
+DTEND:20261213T223000Z
+SUMMARY:Little Women (2019)
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/sad-girl-cinema-club-little-
+ women-2019
+URL:https://drafthouse.com/boston/show/sad-girl-cinema-club-little-women-20
+ 19
+END:VEVENT
+END:VCALENDAR

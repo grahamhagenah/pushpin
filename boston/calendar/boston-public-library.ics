@@ -1,0 +1,656 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Boston Public Library
+X-WR-CALDESC:What’s coming up at Boston Public Library\, from Pushpin Bos
+ ton.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:1ea0d861fe2c9fe063016f9c2f816f6af669d57b@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T050000Z
+DTEND:20261116T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8904f\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8904f
+END:VEVENT
+BEGIN:VEVENT
+UID:ce41447cd44a00fbf5f4645f3d2281ca3a6a42a5@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261117T050000Z
+DTEND:20261117T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89050\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89050
+END:VEVENT
+BEGIN:VEVENT
+UID:cc0211a0975c8438662beb53c3c5a1d78012de36@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T050000Z
+DTEND:20261118T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89051\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89051
+END:VEVENT
+BEGIN:VEVENT
+UID:51ad6f0ffbaa5814aaa7ac8844cec491890406ef@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261118T233000Z
+DTEND:20261119T013000Z
+SUMMARY:Before Salem: Witchcraft in Boston’s North End\, 1688 — Cotton 
+ Mather\, Martha Goodwin\, and the Making of a Witchcraft Panic
+LOCATION:North End Library\, 25 Parmenter St\, Boston\, MA 02113
+DESCRIPTION:Historian James S. Pasto leads Before Salem: Witchcraft in Bost
+ on’s North End\, 1688 — Cotton Mather\, Martha Goodwin\, and the Makin
+ g of a Witchcraft Panic\, a lecture focusing on witchcraft in Boston's Nor
+ th End neighborhood in the 17th century.\nhttps://bpl.bibliocommons.com/ev
+ ents/6ae0bad8de300e00451d15ca\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6ae0bad8de300e00451d15ca
+END:VEVENT
+BEGIN:VEVENT
+UID:eda41ac7ea0cdd1f60b4d9129371f222363427d6@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T050000Z
+DTEND:20261119T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89052\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89052
+END:VEVENT
+BEGIN:VEVENT
+UID:747600d7f269459d352ae15afb114ac0d842f050@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T210000Z
+DTEND:20261119T230000Z
+SUMMARY:Author Talk: Maria Termini — Available Details
+LOCATION:Jamaica Plain Library\, 30 South Street\, Jamaica Plain\, MA 02130
+DESCRIPTION:Join local Author Maria Termini as she reads from her new book 
+ Available Details: Wonder\, Adventure and More!\nhttps://bpl.bibliocommons
+ .com/events/6ad26bcf29c3d60033306286\nFrom Pushpin Boston: https://pushpin
+ .city/
+URL:https://bpl.bibliocommons.com/events/6ad26bcf29c3d60033306286
+END:VEVENT
+BEGIN:VEVENT
+UID:2aa028b403c0f85417bb0d117496df5c53eee584@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+SUMMARY:Lost Rivers: Mapping the History of Charlestown's Miller’s River
+LOCATION:Charlestown Library\, 179 Main St\, Charlestown\, MA 02129
+DESCRIPTION:Where were the original rivers in the Boston area? When and why
+  did Miller’s River\, once located near Charlestown\, disappear? Join th
+ e Leventhal Map & Education Center for a deep dive into the history and ge
+ ography of Miller’s River. Come learn about the river\, the history of o
+ ther bodies of water in Charlestown\, and the urban transformations that c
+ ontributed to their disappearance.\nhttps://bpl.bibliocommons.com/events/6
+ a9ac3edb88596143287eeea\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6a9ac3edb88596143287eeea
+END:VEVENT
+BEGIN:VEVENT
+UID:dade05b113c6de1c63d0a0a24249916fb0afb2ae@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+SUMMARY:Unseen and Unhoused: The Crisis of Sex Trafficking in Boston (Panel
+  Discussion with Boston HEAT)
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:A panel discussion hosted by Boston HEAT: Unseen and Unhoused: 
+ The Crisis of Sex Trafficking in Boston.\nhttps://bpl.bibliocommons.com/ev
+ ents/6adba32a377296003a4e1f7d\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6adba32a377296003a4e1f7d
+END:VEVENT
+BEGIN:VEVENT
+UID:69b26376ac618231f034d4aff79ecf37a44669a0@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261120T050000Z
+DTEND:20261120T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89053\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89053
+END:VEVENT
+BEGIN:VEVENT
+UID:c2e0ab7a31ce57b31ade086fbf3dafdf8c555c45@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261121T050000Z
+DTEND:20261121T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89054\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89054
+END:VEVENT
+BEGIN:VEVENT
+UID:837fe66aa525d3b0e6e4120502b75c37c5538b5f@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:Author Talk — Alex Krieger: Greenhorn
+LOCATION:Jamaica Plain Library\, 30 South Street\, Jamaica Plain\, MA 02130
+DESCRIPTION:Join local author Alex Krieger as he reads from and discusses h
+ is new memoir Greenhorn: Episodes in an Immigrant's Life. It explores a li
+ fe shaped by motion\, memory\, cultures and careers\, which unfolds in the
+  art of making a home in the unfamiliar. At the age of nine\, Alex Krieger
+  arrived in America with his three parents—survivors of the Holocaust. I
+ n Chicago\, he finds his fourth first-grade classroom to learn a fourth la
+ nguage in four years. From displaced childhood\, the journeying continues 
+ as teacher\, architect\, planner of cities. With a poet's sensitivity and 
+ a craftsman's precision\, Krieger reflects on that greenhorn's instinct to
+  embrace the values of an adopted nation while remaining eyewitness to par
+ adoxes.\nhttps://bpl.bibliocommons.com/events/6ad26ad6fee2d21deb23b8a7\nFr
+ om Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6ad26ad6fee2d21deb23b8a7
+END:VEVENT
+BEGIN:VEVENT
+UID:250ad6917c9892854b20be667fb9a8b3bfe751e7@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261122T050000Z
+DTEND:20261122T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89055\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89055
+END:VEVENT
+BEGIN:VEVENT
+UID:5a5790b9a55f71cc6ba1f6e48437886c2b6197a3@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261123T050000Z
+DTEND:20261123T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89056\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89056
+END:VEVENT
+BEGIN:VEVENT
+UID:c9c520440b326c0ac47067c4ebe3f271cafd225e@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261124T050000Z
+DTEND:20261124T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89057\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89057
+END:VEVENT
+BEGIN:VEVENT
+UID:60a5ef0162886475b5d2abb5d6cda78334ade395@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261125T050000Z
+DTEND:20261125T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89058\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89058
+END:VEVENT
+BEGIN:VEVENT
+UID:283918d01db5b636277e5de052f9cff7e764f9d4@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261126T050000Z
+DTEND:20261126T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89059\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89059
+END:VEVENT
+BEGIN:VEVENT
+UID:4449c624c7b71ae02a8ad9574a3bd4e61dd87a23@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261127T050000Z
+DTEND:20261127T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905a\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905a
+END:VEVENT
+BEGIN:VEVENT
+UID:0e926e3b38c9044d79e259d80b11791fd9f2cecd@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261128T050000Z
+DTEND:20261128T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905b\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905b
+END:VEVENT
+BEGIN:VEVENT
+UID:904e18993019ebfdd5118461e895729575fbf5da@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261129T050000Z
+DTEND:20261129T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905c\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905c
+END:VEVENT
+BEGIN:VEVENT
+UID:ca556ed37f7cfb7699fca636a957b5eca6b0211f@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261130T050000Z
+DTEND:20261130T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905d\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905d
+END:VEVENT
+BEGIN:VEVENT
+UID:8b1174a4aa1fe4765d394d0faf614ddf081394b3@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261201T050000Z
+DTEND:20261201T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905e\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905e
+END:VEVENT
+BEGIN:VEVENT
+UID:591779ddcba9d6048c61ed89d172c335851c7191@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261202T050000Z
+DTEND:20261202T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905f\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905f
+END:VEVENT
+BEGIN:VEVENT
+UID:8d6b0e6b4cc738a21f791d8eaeeba92cafcd3b44@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261202T230000Z
+DTEND:20261203T010000Z
+SUMMARY:Author Talk: Carlton Champion - Notes to My Father
+LOCATION:Adams Street Library\, 690 Adams Street\, Dorchester\, MA 02122
+DESCRIPTION:Join Boston author Carlton Champian for a reading and conversat
+ ion centered on Notes to My Father\, a personal collection exploring fathe
+ rhood\, absence\, grief\, and healing. Participants can expect heartfelt s
+ torytelling\, space for reflection and discussion\, and an opportunity to 
+ write a letter of their own. Sharing is optional.\nhttps://bpl.bibliocommo
+ ns.com/events/6aee234e9dbc2b002c93d361\nFrom Pushpin Boston: https://pushp
+ in.city/
+URL:https://bpl.bibliocommons.com/events/6aee234e9dbc2b002c93d361
+END:VEVENT
+BEGIN:VEVENT
+UID:36ccdeeaae23a991c664e7687e3389db0d43e370@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261203T050000Z
+DTEND:20261203T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89060\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89060
+END:VEVENT
+BEGIN:VEVENT
+UID:f26a5e1b4a737b769b86a60177a7005c7e5da601@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261204T050000Z
+DTEND:20261204T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89061\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89061
+END:VEVENT
+BEGIN:VEVENT
+UID:b51fe8f0741cd41e8836c0413d6c24bd649677fe@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261204T180000Z
+DTEND:20261204T200000Z
+SUMMARY:Charla En El Grupo De Lectura
+LOCATION:Connolly Library\, 433 Centre St\, Jamaica Plain\, MA 02130
+DESCRIPTION:La mula ciega por Karen Castañeda Una historia inspirada en ac
+ ontecimientos reales enlaza tres vidas como consecuencia de un plan monstr
+ uoso creado por un crimen organizado. Un malhechor\, una madre soltera y u
+ na mujer arrepentida desarrollan una trama llena de ambición\, dolor y ju
+ sticia. La aventura de María la lleva a destapar un caso terrorífico que
+  conmocionó todos los niveles políticos y sociales en las comunidades fr
+ onterizas de El Paso\, Texas\, y Ciudad Juárez En esta charla vamos a exp
+ lorar una conversación sobre la frontera\, la resiliencia\, la injusticia
+  constitucional y la importancia de contar historias que nacen de nuestra 
+ comunidad y en nuestra lenguas. Después\, tendremos una sesión de pregun
+ tas para conversar directamente con la autora.\nhttps://bpl.bibliocommons.
+ com/events/6aea362b035faf0033e12533\nFrom Pushpin Boston: https://pushpin.
+ city/
+URL:https://bpl.bibliocommons.com/events/6aea362b035faf0033e12533
+END:VEVENT
+BEGIN:VEVENT
+UID:8d88aa6aa907c97f1c8b194b08e374ccc37126ce@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261205T050000Z
+DTEND:20261205T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89062\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89062
+END:VEVENT
+BEGIN:VEVENT
+UID:8361b6d91d6bbd0a120c56e03394fe9ea79ae7d1@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Author Talk: Paul Lewis — How "The Raven" Became America's Most F
+ amous Poem
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join Boston College Professor Emeritus Paul Lewis in a discussi
+ on of his new book on Edgar Allan Poe's famous poem.\nhttps://bpl.biblioco
+ mmons.com/events/6a8f3fed29a7dd0d6746ddcb\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://bpl.bibliocommons.com/events/6a8f3fed29a7dd0d6746ddcb
+END:VEVENT
+BEGIN:VEVENT
+UID:a8dbaf5ea1f49677760857299d32647a1fc88894@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Brighton on Atlascope: Exploring the Urban History of Brighton thro
+ ugh Maps
+LOCATION:Brighton Library\, 40 Academy Hill Rd\, Brighton\, MA 02135
+DESCRIPTION:How has the landscape of Brighton changed over time? How can yo
+ u use digital map collections to investigate the history of a house\, a ne
+ ighborhood\, or a city? How can the stories of places open up new perspect
+ ives on the past and present?\nhttps://bpl.bibliocommons.com/events/6acfc8
+ 6529c3d600332fe56f\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6acfc86529c3d600332fe56f
+END:VEVENT
+BEGIN:VEVENT
+UID:1496dacf46f6b8072ee853159c0fd244aedf66e5@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261206T050000Z
+DTEND:20261206T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89063\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89063
+END:VEVENT
+BEGIN:VEVENT
+UID:f0a6b870867f92542c9ea401f7bbd7466c92dbb2@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261207T050000Z
+DTEND:20261207T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89064\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89064
+END:VEVENT
+BEGIN:VEVENT
+UID:0cbbdb774284cba83723398d97d2738330a2a9fe@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261208T050000Z
+DTEND:20261208T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89065\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89065
+END:VEVENT
+BEGIN:VEVENT
+UID:cbafdb8dd2f0954c29c678f082a5349f69f45787@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261208T230000Z
+DTEND:20261209T010000Z
+SUMMARY:Author Talk: Steven Levitsky with "How Democracies Die"
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join us for this talk with author Steven Levitsky on his book\,
+  How Democracies Die. This program is a partnership between the Boston Pub
+ lic Library and the Citywide Friends of the BPL.\nhttps://bpl.bibliocommon
+ s.com/events/6ae24987198b996a80a93ffb\nFrom Pushpin Boston: https://pushpi
+ n.city/
+URL:https://bpl.bibliocommons.com/events/6ae24987198b996a80a93ffb
+END:VEVENT
+BEGIN:VEVENT
+UID:40f316fc5bda79facc33adee7f692db16f18fffd@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261209T050000Z
+DTEND:20261209T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89066\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89066
+END:VEVENT
+BEGIN:VEVENT
+UID:4b07248f917aeb4e0578a14afddd23d6f94fc3f3@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261209T173000Z
+DTEND:20261209T193000Z
+SUMMARY:State of the Library with BPL President David Leonard
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join Boston Public Library President David Leonard for the Stat
+ e of the Library.\nhttps://bpl.bibliocommons.com/events/6aeba3569d27a00045
+ 55bdf9\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aeba3569d27a0004555bdf9
+END:VEVENT
+BEGIN:VEVENT
+UID:e380ec30980d13c3cf13fcffa81f5f3a4816da78@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261209T233000Z
+DTEND:20261210T013000Z
+SUMMARY:Author Talk: Jason Allison—The Killing Yards
+LOCATION:South End Library\, 685 Tremont St\, Boston\, MA 02118
+DESCRIPTION:The Fall 2026 Author Talk Series\, presented by the Friends of 
+ the South End Library\, will wrap up with Jason Allison sharing his debut 
+ novel\, The Killing Yards. Please join us on Wednesday\, December 9 starti
+ ng at 6:30 pm at Union Church (Connection Room\, 485 Columbus Ave.) for a 
+ fun and lively conversation in this author talk series!\nhttps://bpl.bibli
+ ocommons.com/events/6aa9a8c9a5dbde002aa4cafc\nFrom Pushpin Boston: https:/
+ /pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aa9a8c9a5dbde002aa4cafc
+END:VEVENT
+BEGIN:VEVENT
+UID:89ef210bec97b4e5d56b6c5e5a81304751733ed3@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261210T050000Z
+DTEND:20261210T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89067\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89067
+END:VEVENT
+BEGIN:VEVENT
+UID:e8c44d9dbc357434aa5bd024c27b28cb3f372eed@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261210T170000Z
+DTEND:20261210T190000Z
+SUMMARY:Author Talk: Cotten Seiler on “White Care”
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join Dickinson College professor Cotten Seiler for a conversati
+ on about his new book\, White Care. The book discusses how few of us\, goi
+ ng about our daily lives\, notice the infrastructure that surrounds us and
+  makes those lives possible. What also remains hidden in plain sight is ho
+ w public infrastructure in the United States has been shaped by theories o
+ f race and human evolution. Cotten Seiler’s White Care shows that\, from
+  the late 1800s to the present\, expert assessments of the quality of the 
+ national population have both driven and thwarted the state’s provision 
+ of infrastructures of water\, sanitation\, energy\, transportation\, recre
+ ation\, and education. If a nation’s infrastructure is a concrete measur
+ e of its belief in its population’s future\, what does the current state
+  of American infrastructure say about us?\nhttps://bpl.bibliocommons.com/e
+ vents/6aea33f296ec3a003adf1244\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aea33f296ec3a003adf1244
+END:VEVENT
+BEGIN:VEVENT
+UID:f4841c6570f88d082633cc46581f9e7bdea23835@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261211T050000Z
+DTEND:20261211T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89068\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89068
+END:VEVENT
+BEGIN:VEVENT
+UID:44a1b3cfff567115d44f851d5e3017bc9d11b24f@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261212T050000Z
+DTEND:20261212T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc89069\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc89069
+END:VEVENT
+BEGIN:VEVENT
+UID:3b490089124aa7207ca097f6c5cf1914d24e36d6@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261213T050000Z
+DTEND:20261213T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8906a\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8906a
+END:VEVENT
+BEGIN:VEVENT
+UID:f7dbdaf74b7e059c4da580f8438a326b2489cd95@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261214T050000Z
+DTEND:20261214T070000Z
+SUMMARY:Art Exhibit: "Places Known and Remembered"
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:"I create art that is detailed\, yet calm\, brightly colored\, 
+ yet gentle. In a world that encourages cynicism\, sarcasm\, and hard edges
+ \, my art offers an alternate proposition where kindness is valued\, and t
+ he restorative properties of the natural world can offer a soothing respit
+ e.\nhttps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8906b\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8906b
+END:VEVENT
+END:VCALENDAR

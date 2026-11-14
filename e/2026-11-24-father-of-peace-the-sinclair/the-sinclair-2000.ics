@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bb14cc36352050bace74ff457e38a9d035d5af6e@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T010000Z
+DTEND:20261125T030000Z
+SUMMARY:Father Of Peace
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1493829
+URL:https://www.sinclaircambridge.com/events/detail/1493829
+END:VEVENT
+END:VCALENDAR

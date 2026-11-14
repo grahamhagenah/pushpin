@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7b8cff1f912065d5a9a7e0f823643405f8f7a447@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261209T010000Z
+DTEND:20261209T030000Z
+SUMMARY:Holiday Spectacular: Nutcracker Suite with Diamond Cut Big Band
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/holiday-spectacular-nutcrack
+ er-suite-with-diamond-cut-big-band
+URL:https://www.berklee.edu/BPC/events/holiday-spectacular-nutcracker-suite
+ -with-diamond-cut-big-band
+END:VEVENT
+END:VCALENDAR

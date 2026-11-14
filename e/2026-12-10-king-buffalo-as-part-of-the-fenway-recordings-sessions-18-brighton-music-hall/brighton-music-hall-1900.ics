@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a4f98f1f96723e54d62eefb463c486d830bc889f@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:King Buffalo - As Part of the Fenway Recordings Sessions (18+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/king-buffalo-as-part-of-the-boston
+ -massachusetts-12-10-2026/event/010064AEF47828B5
+URL:https://www.ticketmaster.com/king-buffalo-as-part-of-the-boston-massach
+ usetts-12-10-2026/event/010064AEF47828B5
+END:VEVENT
+END:VCALENDAR

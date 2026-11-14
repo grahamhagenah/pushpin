@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9d2bc899a7569a3deee1e0e8be98c23256b1f1d3@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261209T233000Z
+DTEND:20261210T013000Z
+SUMMARY:Author Talk: Jason Allison—The Killing Yards
+LOCATION:South End Library\, 685 Tremont St\, Boston\, MA 02118
+DESCRIPTION:https://bpl.bibliocommons.com/events/6aa9a8c9a5dbde002aa4cafc
+URL:https://bpl.bibliocommons.com/events/6aa9a8c9a5dbde002aa4cafc
+END:VEVENT
+END:VCALENDAR

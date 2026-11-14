@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9cce998b9bb3c61f95f6fb1837aa6e7c15f3ad15@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T000000Z
+DTEND:20261219T020000Z
+SUMMARY:Evan Goodrow
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1
+END:VEVENT
+END:VCALENDAR

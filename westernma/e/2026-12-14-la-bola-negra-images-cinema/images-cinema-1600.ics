@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f0211bcb702f8128fc5afcceddb885338462307a@pushpin.city
+DTSTAMP:20261214T000000Z
+DTSTART:20261214T210000Z
+DTEND:20261214T230000Z
+SUMMARY:La Bola Negra
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/la-bola-negra
+URL:https://www.imagescinema.org/movie/la-bola-negra
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b0d97b9c58787f854442fd004c5305cda977297e@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261210T003000Z
+DTEND:20261210T023000Z
+SUMMARY:Brian O’Donovan Legacy Series: Coig Christmas
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1235
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1235
+END:VEVENT
+END:VCALENDAR

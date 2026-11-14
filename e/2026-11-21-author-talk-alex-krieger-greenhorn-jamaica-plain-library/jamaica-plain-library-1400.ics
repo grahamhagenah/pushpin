@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5c7e74901f9f7615864fdf0d0c5e3f6f4932cb48@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:Author Talk — Alex Krieger: Greenhorn
+LOCATION:Jamaica Plain Library\, 30 South Street\, Jamaica Plain\, MA 02130
+DESCRIPTION:https://bpl.bibliocommons.com/events/6ad26ad6fee2d21deb23b8a7
+URL:https://bpl.bibliocommons.com/events/6ad26ad6fee2d21deb23b8a7
+END:VEVENT
+END:VCALENDAR

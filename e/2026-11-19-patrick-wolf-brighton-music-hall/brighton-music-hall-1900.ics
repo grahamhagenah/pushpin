@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:042db21744a95fa14ecc58f336f5123f79eb73d9@pushpin.city
+DTSTAMP:20261119T000000Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Patrick Wolf
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/patrick-wolf-boston-massachusetts-
+ 11-19-2026/event/010064F5D9C272B1
+URL:https://www.ticketmaster.com/patrick-wolf-boston-massachusetts-11-19-20
+ 26/event/010064F5D9C272B1
+END:VEVENT
+END:VCALENDAR

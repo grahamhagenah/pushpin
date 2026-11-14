@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1a506601a6082fafccb123880ea3fb599bd35fb4@pushpin.city
+DTSTAMP:20261116T000000Z
+DTSTART:20261116T203000Z
+DTEND:20261116T223000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+END:VCALENDAR

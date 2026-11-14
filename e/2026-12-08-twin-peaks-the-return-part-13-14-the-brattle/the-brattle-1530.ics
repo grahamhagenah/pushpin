@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8cc49270b452fe4f00a70874b84cecd461039168@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261208T203000Z
+DTEND:20261208T223000Z
+SUMMARY:Twin Peaks: The Return (Part 13 & 14)
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/special_events/twin-peaks-the-return-pa
+ rt-13-14/
+URL:https://brattlefilm.org/special_events/twin-peaks-the-return-part-13-14
+ /
+END:VEVENT
+END:VCALENDAR

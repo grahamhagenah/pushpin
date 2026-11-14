@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b33d9b890b3be0ccf827fbec4e1ea47ff8a440fe@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T010000Z
+DTEND:20261203T030000Z
+SUMMARY:Kat Wallace & Steven Manwaring perform Time (The Revelator)
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/kat-wallace-steven-man
+ waring-perform-time-the-revelator/
+URL:https://www.passim.org/live-music/events/kat-wallace-steven-manwaring-p
+ erform-time-the-revelator/
+END:VEVENT
+END:VCALENDAR

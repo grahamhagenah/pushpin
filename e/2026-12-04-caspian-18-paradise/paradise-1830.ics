@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:375334b10f8f227020a1c5a318b0ad045a8cf780@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261204T233000Z
+DTEND:20261205T013000Z
+SUMMARY:Caspian (18+)
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/caspian-18-boston-massachusetts-12
+ -04-2026/event/01006528BEA462D4
+URL:https://www.ticketmaster.com/caspian-18-boston-massachusetts-12-04-2026
+ /event/01006528BEA462D4
+END:VEVENT
+END:VCALENDAR

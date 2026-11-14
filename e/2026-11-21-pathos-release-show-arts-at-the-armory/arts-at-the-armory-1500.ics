@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a9d2c1d6ae9ef395f54ff3a0f92ff5ba782238d1@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T200000Z
+DTEND:20261121T220000Z
+SUMMARY:Pathos Release Show
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/pathos-release-show/
+URL:https://artsatthearmory.org/events/pathos-release-show/
+END:VEVENT
+END:VCALENDAR

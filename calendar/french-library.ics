@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · French Library
+X-WR-CALDESC:What’s coming up at French Library\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:bf0407235d22ff0042b5696a20edbd242ad511de@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261116T230000Z
+DTEND:20261117T010000Z
+SUMMARY:The Old Fire: On Writing\, Memory\, and Belonging
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Join French-Swiss-Korean author Elisa Shua Dusapin for a conver
+ sation about her acclaimed new novel\, The Old Fire\, and her distinctive 
+ literary voice.\nhttps://frenchlibrary.org/events/elisa-shua-dusapin-2026/
+ \nFrom Pushpin Boston: https://pushpin.city/
+URL:https://frenchlibrary.org/events/elisa-shua-dusapin-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:82e49cfcb3458b19416d5a4c67761e56b564cf04@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+SUMMARY:Ciné Club: Auction by Pascal Bonitzer
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:A long-lost masterpiece. A dark chapter of history. And a disco
+ very that sends shockwaves through the Paris art world.\nhttps://frenchlib
+ rary.org/events/auction-bonitzer-november-2026/\nFrom Pushpin Boston: http
+ s://pushpin.city/
+URL:https://frenchlibrary.org/events/auction-bonitzer-november-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:d17e882a3ccfcdc1d55aa5d0d3716d7a664aa861@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261124T230000Z
+DTEND:20261125T010000Z
+SUMMARY:Beaumarchais: Playwright\, Secret Agent\, Revolutionary
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:The little-known story of the man behind Figaro and the secret 
+ French support that helped sustain the American Revolution.\nhttps://frenc
+ hlibrary.org/events/beaumarchais-robert-allison-250-2026/\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://frenchlibrary.org/events/beaumarchais-robert-allison-250-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:801c80acb556e5294395f94911ee52a65ee2ff5e@pushpin.city
+DTSTAMP:20261114T153123Z
+DTSTART:20261209T223000Z
+DTEND:20261210T003000Z
+SUMMARY:Casse-Noisette: A Holiday Tale in Music
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:The Arpeggione Ensemble presents a magical mini Nutcracker: Tch
+ aikovsky's music paired with French narration and illustrations from Dumas
+ 's Histoire d'un casse-noisette.\nhttps://frenchlibrary.org/events/french_
+ nutcracker-2026/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://frenchlibrary.org/events/french_nutcracker-2026/
+END:VEVENT
+END:VCALENDAR
