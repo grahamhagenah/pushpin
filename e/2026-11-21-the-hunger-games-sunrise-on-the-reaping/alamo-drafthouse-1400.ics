@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:00180680195e93af6f097f070c03761f4eb8b52f@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/book-club-screening-the-hung
+ er-games-sunrise-on-the-reaping-book-club-dress-up-screening
+URL:https://drafthouse.com/boston/show/book-club-screening-the-hunger-games
+ -sunrise-on-the-reaping-book-club-dress-up-screening
+END:VEVENT
+END:VCALENDAR

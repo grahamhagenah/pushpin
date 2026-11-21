@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c3540605ca9e654902f7c4a946d7a6a3700d2b11@pushpin.city
+DTSTAMP:20261130T000000Z
+DTSTART:20261201T000000Z
+DTEND:20261201T020000Z
+SUMMARY:Man of Iron
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardfilmarchive.org/calendar/man-of-iron-2026-11
+URL:https://harvardfilmarchive.org/calendar/man-of-iron-2026-11
+END:VEVENT
+END:VCALENDAR

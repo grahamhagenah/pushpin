@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:59c93513996247dc13c7d25ac6d350b4e372135d@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261128T161500Z
+DTEND:20261128T181500Z
+SUMMARY:Citizen Kane
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/citizen-kane/
+URL:https://nitehawkcinema.com/williamsburg/movies/citizen-kane/
+END:VEVENT
+END:VCALENDAR

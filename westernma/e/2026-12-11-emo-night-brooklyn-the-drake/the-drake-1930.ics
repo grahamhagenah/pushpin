@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9427c4daf457bf5f83adcbcffef68064fd28058e@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:Emo Night Brooklyn
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/emo-night-brooklyn-1
+URL:https://www.thedrakeamherst.org/events/emo-night-brooklyn-1
+END:VEVENT
+END:VCALENDAR

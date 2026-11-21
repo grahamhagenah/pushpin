@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c92d8241accceb0d79af42dcb11c866408aae15a@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Michael Bravata: “The Montcalms” Release Show
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/michael-bravata-the-montcalms/
+URL:https://therockwell.org/calendar/michael-bravata-the-montcalms/
+END:VEVENT
+END:VCALENDAR

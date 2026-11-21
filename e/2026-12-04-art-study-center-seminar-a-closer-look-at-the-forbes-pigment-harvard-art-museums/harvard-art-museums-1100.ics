@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b50ed34584a27e0e13e60b63e0a6205c0c7f6750@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261204T160000Z
+DTEND:20261204T180000Z
+SUMMARY:Art Study Center Seminar: A Closer Look at the Forbes Pigment Colle
+ ction
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardartmuseums.org/event/4246
+URL:https://harvardartmuseums.org/event/4246
+END:VEVENT
+END:VCALENDAR

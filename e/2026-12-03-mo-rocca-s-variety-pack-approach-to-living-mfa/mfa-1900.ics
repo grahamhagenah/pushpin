@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8f1a6f18583f35187909061c6e1dbaf0b96163f2@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Mo Rocca’s Variety Pack Approach to Living
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity
+ -lectures/mo-roccas-variety-pack-approach-to-living?event=178931
+URL:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity-lecture
+ s/mo-roccas-variety-pack-approach-to-living?event=178931
+END:VEVENT
+END:VCALENDAR

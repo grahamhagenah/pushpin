@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:32d347192f82126e5b22de9252dd4b42a816e6a3@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261209T000000Z
+DTEND:20261209T020000Z
+SUMMARY:Air Mail
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/air-mail/
+URL:https://nitehawkcinema.com/prospectpark/movies/air-mail/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fdd5a4f64809f2b824419912b85e58a191c9dbc5@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T023000Z
+DTEND:20261122T043000Z
+SUMMARY:Uplifting Tinashe\, a tribute party
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1678781
+URL:https://www.sinclaircambridge.com/events/detail/1678781
+END:VEVENT
+END:VCALENDAR

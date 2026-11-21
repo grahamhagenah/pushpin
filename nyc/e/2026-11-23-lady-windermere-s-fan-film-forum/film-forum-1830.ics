@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:079aef31cf6bd3c9e634c6c37e6795950e80cbbc@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261123T233000Z
+DTEND:20261124T013000Z
+SUMMARY:Lady Windermere's Fan
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/lady-windermeres-fan-silent-lubitsch
+URL:https://filmforum.org/film/lady-windermeres-fan-silent-lubitsch
+END:VEVENT
+END:VCALENDAR

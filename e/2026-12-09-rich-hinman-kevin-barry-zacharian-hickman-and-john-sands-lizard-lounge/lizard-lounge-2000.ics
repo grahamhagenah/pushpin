@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:75996f9f80d50b26e77bef38204c284c07caaa17@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261210T010000Z
+DTEND:20261210T030000Z
+SUMMARY:Rich Hinman\, Kevin Barry\, Zacharian Hickman and John Sands
+LOCATION:Lizard Lounge\, 1667 Massachusetts Ave\, Cambridge\, MA 02138
+DESCRIPTION:https://lizardloungeclub.com/event/rich-hinman-kevin-barry-zach
+ arian-hickman-and-john-sands-7/
+URL:https://lizardloungeclub.com/event/rich-hinman-kevin-barry-zacharian-hi
+ ckman-and-john-sands-7/
+END:VEVENT
+END:VCALENDAR

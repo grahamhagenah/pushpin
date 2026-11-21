@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ae96f796b9dae12527a852b9e54813eac22c6b5c@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261209T000000Z
+DTEND:20261209T020000Z
+SUMMARY:American Psycho
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/terror-tuesday-american-psyc
+ ho-the-king-of-the-full-moon-night
+URL:https://drafthouse.com/boston/show/terror-tuesday-american-psycho-the-k
+ ing-of-the-full-moon-night
+END:VEVENT
+END:VCALENDAR

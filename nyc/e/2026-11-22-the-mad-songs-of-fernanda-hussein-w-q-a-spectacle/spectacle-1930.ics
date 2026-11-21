@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:26e85f5d8d7e8c67975ea766f7e65d8646e7a774@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T003000Z
+DTEND:20261123T023000Z
+SUMMARY:The Mad Songs of Fernanda Hussein w / Q&A
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/gianvito/
+URL:https://www.spectacletheater.com/gianvito/
+END:VEVENT
+END:VCALENDAR

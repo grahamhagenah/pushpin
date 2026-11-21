@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:22172722f6cafd94e4da99bc608d2b55cf8de174@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Jason Myles Goss
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/jason-myles-goss/
+URL:https://www.passim.org/live-music/events/jason-myles-goss/
+END:VEVENT
+END:VCALENDAR

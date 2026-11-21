@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c4cb53e16b6979633f5343a3abf3054e67becfa6@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261125T231500Z
+DTEND:20261126T011500Z
+SUMMARY:Discussion: Spellbound
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/events/discussion-spellbound
+URL:https://coolidge.org/events/discussion-spellbound
+END:VEVENT
+END:VCALENDAR

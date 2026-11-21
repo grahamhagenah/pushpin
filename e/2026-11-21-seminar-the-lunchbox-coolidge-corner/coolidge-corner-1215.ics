@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:85353d246cba093f7a4614b6147d8bdd8cd89918@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T171500Z
+DTEND:20261121T191500Z
+SUMMARY:Seminar: The Lunchbox
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/events/seminar-lunchbox
+URL:https://coolidge.org/events/seminar-lunchbox
+END:VEVENT
+END:VCALENDAR

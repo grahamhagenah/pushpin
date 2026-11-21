@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:21021f5eadeb1e30fbb6bfed8a93c446c874086c@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:Theater of the Matters Presents: Gassan + Woman of Tokyo
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://www.bam.org/film/2026/theater-of-the-matter-gassan
+URL:https://www.bam.org/film/2026/theater-of-the-matter-gassan
+END:VEVENT
+END:VCALENDAR

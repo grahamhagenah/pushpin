@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:adee966926c90d4ca46d393db81d1b95c7c0d3a9@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T200000Z
+DTEND:20261121T220000Z
+SUMMARY:Spectacle | Modern Day Idols | Tad Overbaugh and the Late Arrivals
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/2742/1795291200000
+URL:https://tockify.com/midwaycafejp/detail/2742/1795291200000
+END:VEVENT
+END:VCALENDAR

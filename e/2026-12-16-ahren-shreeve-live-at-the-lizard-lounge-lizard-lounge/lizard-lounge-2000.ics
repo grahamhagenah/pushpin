@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:12b54e55145ef2bb34c0f00cc897c832a4f60a4e@pushpin.city
+DTSTAMP:20261216T000000Z
+DTSTART:20261217T010000Z
+DTEND:20261217T030000Z
+SUMMARY:Ahren Shreeve-Live at the Lizard Lounge
+LOCATION:Lizard Lounge\, 1667 Massachusetts Ave\, Cambridge\, MA 02138
+DESCRIPTION:https://lizardloungeclub.com/event/ahren-shreeve-live-at-the-li
+ zard-lounge/
+URL:https://lizardloungeclub.com/event/ahren-shreeve-live-at-the-lizard-lou
+ nge/
+END:VEVENT
+END:VCALENDAR

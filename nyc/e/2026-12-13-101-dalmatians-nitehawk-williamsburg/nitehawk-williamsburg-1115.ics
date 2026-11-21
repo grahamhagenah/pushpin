@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d8f725155fd67c65e8d92603d7d2f8bc80e61b25@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T161500Z
+DTEND:20261213T181500Z
+SUMMARY:101 Dalmatians
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/101-dalmatians/
+URL:https://nitehawkcinema.com/williamsburg/movies/101-dalmatians/
+END:VEVENT
+END:VCALENDAR

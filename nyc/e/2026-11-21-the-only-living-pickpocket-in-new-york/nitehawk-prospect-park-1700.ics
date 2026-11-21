@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3eb3139ec47d7cb3b330314e5a78fe1bb37a875e@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T220000Z
+DTEND:20261122T000000Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/the-only-living-
+ pickpocket-in-new-york/
+URL:https://nitehawkcinema.com/prospectpark/movies/the-only-living-pickpock
+ et-in-new-york/
+END:VEVENT
+END:VCALENDAR

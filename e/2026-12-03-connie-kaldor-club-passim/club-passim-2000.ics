@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9cd6f0bf5159ae8a24fca511252911641c5418e9@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:Connie Kaldor
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/connie-kaldor/
+URL:https://www.passim.org/live-music/events/connie-kaldor/
+END:VEVENT
+END:VCALENDAR

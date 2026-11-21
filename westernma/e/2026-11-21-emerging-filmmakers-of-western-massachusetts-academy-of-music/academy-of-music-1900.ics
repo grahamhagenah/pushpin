@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f078ee3591eaae6ae6e713238967831acceb6a77@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T020000Z
+SUMMARY:Emerging Filmmakers of Western Massachusetts
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/emerging-filmmakers-of-western
+ -massachusetts/
+URL:https://aomtheatre.com/aom_event/emerging-filmmakers-of-western-massach
+ usetts/
+END:VEVENT
+END:VCALENDAR

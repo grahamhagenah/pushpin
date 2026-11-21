@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0fa67f21f71d850e00c100ad60f4455ada51dbb0@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/once-upon-a-time
+ -in-harlem/
+URL:https://nitehawkcinema.com/prospectpark/movies/once-upon-a-time-in-harl
+ em/
+END:VEVENT
+END:VCALENDAR

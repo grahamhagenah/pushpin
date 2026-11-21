@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c843bee21de2f463592a406a636472113ad5c41e@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:John Zorn’s New Masada Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:https://vv.squadup.com/artists/john-zorn-new-masada-quartet
+URL:https://vv.squadup.com/artists/john-zorn-new-masada-quartet
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:37a22df5aea18b2803eea3cbefb7095360bc3b39@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T231500Z
+DTEND:20261122T011500Z
+SUMMARY:The Dambuilders - TWO SHOWS with Special Guests
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1911
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1911
+END:VEVENT
+END:VCALENDAR

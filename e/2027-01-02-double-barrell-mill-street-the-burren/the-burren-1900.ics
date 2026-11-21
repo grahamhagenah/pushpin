@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aac5b75d9ddbf50665d5c27ae901fd6572c9d30d@pushpin.city
+DTSTAMP:20270102T000000Z
+DTSTART:20270103T000000Z
+DTEND:20270103T020000Z
+SUMMARY:Double Barrell\, Mill Street
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1930
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1930
+END:VEVENT
+END:VCALENDAR

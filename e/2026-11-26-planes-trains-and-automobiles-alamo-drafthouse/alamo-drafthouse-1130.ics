@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e0fb49a71ae18a9b8fe83c130ecc9069f1ce33b7@pushpin.city
+DTSTAMP:20261126T000000Z
+DTSTART:20261126T163000Z
+DTEND:20261126T183000Z
+SUMMARY:Planes\, Trains and Automobiles
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/planes-trains-automobiles
+URL:https://drafthouse.com/boston/show/planes-trains-automobiles
+END:VEVENT
+END:VCALENDAR

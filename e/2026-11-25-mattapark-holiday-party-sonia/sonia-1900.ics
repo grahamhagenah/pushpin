@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e20f1e7e7f8c74550d8f395d091bfaaa9f482681@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:MATTAPARK Holiday Party
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/mattapark-holiday-party-sonia-t
+ ickets/14394114?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/mattapark-holiday-party-sonia-tickets/1
+ 4394114?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

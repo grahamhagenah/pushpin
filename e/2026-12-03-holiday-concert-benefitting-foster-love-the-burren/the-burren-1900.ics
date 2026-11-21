@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2b245ba972ad08802149965dc86f191099addf9f@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Holiday Concert Benefitting Foster Love
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1931
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1931
+END:VEVENT
+END:VCALENDAR

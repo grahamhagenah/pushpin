@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4d8c24b1e46a9e8043d1c1136789d44631ed48b9@pushpin.city
+DTSTAMP:20261229T000000Z
+DTSTART:20261230T000000Z
+DTEND:20261230T020000Z
+SUMMARY:Fantastic Cat
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/instance
+ s/a0FV500000KdOdGMAV
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/instances/a0FV50
+ 0000KdOdGMAV
+END:VEVENT
+END:VCALENDAR

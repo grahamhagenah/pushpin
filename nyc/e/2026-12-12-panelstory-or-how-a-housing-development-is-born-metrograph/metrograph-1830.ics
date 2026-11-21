@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:edd17ad26cd6573566b846dd35e9bfcd7f14ab3a@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T233000Z
+DTEND:20261213T013000Z
+SUMMARY:Panelstory\, or How a Housing Development Is Born
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005135-panelstory-or-how-a-hous
+ ing-development-is-born/
+URL:https://metrograph.com/film/9999005135-panelstory-or-how-a-housing-deve
+ lopment-is-born/
+END:VEVENT
+END:VCALENDAR

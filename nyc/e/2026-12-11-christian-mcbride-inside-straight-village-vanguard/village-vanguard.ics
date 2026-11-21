@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3f5e99e0e5c73d4dd8f84c8e8de8d2646bad410e@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Christian McBRIDE & Inside Straight
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:https://vv.squadup.com/artists/christian-mcbride-inside-straigh
+ t
+URL:https://vv.squadup.com/artists/christian-mcbride-inside-straight
+END:VEVENT
+END:VCALENDAR

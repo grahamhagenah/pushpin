@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Spectacle
+X-WR-CALDESC:What’s coming up at Spectacle\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:44f29b6a2c0732fe9b464cd0fe00e8f7c297fdc9@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T200000Z
+DTEND:20261121T220000Z
+SUMMARY:Anime No Gogo
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/anime-no-gogo/\nFrom Pushpin N
+ YC: https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/anime-no-gogo/
+END:VEVENT
+BEGIN:VEVENT
+UID:70e00037459b17553dfa16c8f8c944ee9066cc71@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T003000Z
+DTEND:20261122T023000Z
+SUMMARY:Perfumed Nightmare
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/cha-kidlat/\nFrom Pushpin NYC:
+  https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/cha-kidlat/
+END:VEVENT
+BEGIN:VEVENT
+UID:a04d84551bb7bf0367a47e803a471124a40e25ba@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T045500Z
+DTEND:20261122T065500Z
+SUMMARY:Mummy Theme Park
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/tombs-and-turbulence-two-from-
+ passeri/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/tombs-and-turbulence-two-from-passeri/
+END:VEVENT
+BEGIN:VEVENT
+UID:00ef3d045c444ed298381c835837aeec65b2e783@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
+SUMMARY:Fist Church
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/fist-church/\nFrom Pushpin NYC
+ : https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/fist-church/
+END:VEVENT
+BEGIN:VEVENT
+UID:a330c02bb5f4cdf3f196ddd7f37bb6417db13600@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T220000Z
+DTEND:20261123T000000Z
+SUMMARY:Profit Motive and the Whispering Wind
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/gianvito/\nFrom Pushpin NYC: h
+ ttps://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/gianvito/
+END:VEVENT
+BEGIN:VEVENT
+UID:f3010642ba2dd9afda8ce69e2727a4f0943dd69c@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T003000Z
+DTEND:20261123T023000Z
+SUMMARY:The Mad Songs of Fernanda Hussein w / Q&A
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/gianvito/\nFrom Pushpin NYC: h
+ ttps://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/gianvito/
+END:VEVENT
+BEGIN:VEVENT
+UID:79ccd5e97194e562ba064352b269d8e09d11da33@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T003000Z
+DTEND:20261124T023000Z
+SUMMARY:The Crow Double Feature
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/ohio-teens-ramke-the-crow/\nFr
+ om Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/ohio-teens-ramke-the-crow/
+END:VEVENT
+BEGIN:VEVENT
+UID:bdc2b3db5b15d99d9e4b11e4456e02e8db9d3a25@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T030000Z
+DTEND:20261124T050000Z
+SUMMARY:Cold Journey
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/journey-through-the-past-70s-c
+ anadian-classics/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/journey-through-the-past-70s-canadian-
+ classics/
+END:VEVENT
+BEGIN:VEVENT
+UID:ed3306f7ab5a878c52e7ba57d73479fdaf7202e3@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T003000Z
+DTEND:20261125T023000Z
+SUMMARY:Johnny O'Clock
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/noirvember-goes-gambling-3-cas
+ ino-noir-picks/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/noirvember-goes-gambling-3-casino-noir
+ -picks/
+END:VEVENT
+BEGIN:VEVENT
+UID:94e97a8b8ed9d47dd7ea04300629c5c8b4585345@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T030000Z
+DTEND:20261125T050000Z
+SUMMARY:5 Against the House
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/noirvember-goes-gambling-3-cas
+ ino-noir-picks/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/noirvember-goes-gambling-3-casino-noir
+ -picks/
+END:VEVENT
+BEGIN:VEVENT
+UID:ad8d6833c787ce6e1b39f17a418a287d3a509c7b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T003000Z
+DTEND:20261126T023000Z
+SUMMARY:Flight to Hell
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/tombs-and-turbulence-two-from-
+ passeri/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/tombs-and-turbulence-two-from-passeri/
+END:VEVENT
+BEGIN:VEVENT
+UID:99f25af6c864e04fe8a9e64618d881c4e7beb2bd@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T030000Z
+DTEND:20261126T050000Z
+SUMMARY:Mummy Theme Park
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/tombs-and-turbulence-two-from-
+ passeri/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/tombs-and-turbulence-two-from-passeri/
+END:VEVENT
+BEGIN:VEVENT
+UID:5581820aaf0afba68a5946609d2547019e0ab76f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261127T220000Z
+DTEND:20261128T000000Z
+SUMMARY:His Kind of Woman
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/noirvember-goes-gambling-3-cas
+ ino-noir-picks/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/noirvember-goes-gambling-3-casino-noir
+ -picks/
+END:VEVENT
+END:VCALENDAR

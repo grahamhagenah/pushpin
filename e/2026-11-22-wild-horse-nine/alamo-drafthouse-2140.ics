@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3dee8827530946a7464b01aa264c0512389e07b8@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T024000Z
+DTEND:20261123T044000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/wild-horse-nine
+URL:https://drafthouse.com/boston/show/wild-horse-nine
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e2e062e1f7ae19af763400946de4513f9b04b531@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261123T235000Z
+DTEND:20261124T015000Z
+SUMMARY:threeASFOUR: Full Circle
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/threeasfour-full-circle
+URL:https://filmforum.org/film/threeasfour-full-circle
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a0493057dbfa2fb1087225ad43937a40ca99058d@pushpin.city
+DTSTAMP:20270117T000000Z
+DTSTART:20270118T000000Z
+DTEND:20270118T020000Z
+SUMMARY:Larry Campbell & Teresa Williams
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000CytE1MAJ
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0CytE1MAJ
+END:VEVENT
+END:VCALENDAR

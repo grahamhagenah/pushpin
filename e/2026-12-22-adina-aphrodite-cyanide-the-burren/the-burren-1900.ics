@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fc31aa498436810460e3a545643dc5c253587365@pushpin.city
+DTSTAMP:20261222T000000Z
+DTSTART:20261223T000000Z
+DTEND:20261223T020000Z
+SUMMARY:Adina\, Aphrodite\, Cyanide
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1935
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1935
+END:VEVENT
+END:VCALENDAR

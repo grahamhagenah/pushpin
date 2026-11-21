@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab95217503b37f8be4625ef74a09e2cee7ed2259@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T203000Z
+DTEND:20261220T223000Z
+SUMMARY:Dune: Part Three
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/dune-part-three
+URL:https://www.imagescinema.org/movie/dune-part-three
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2f6374136c1b257f16406364a9810f08bf2e8a68@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T030000Z
+DTEND:20261124T050000Z
+SUMMARY:Official Latto Concert After-Party Hosted by Latto
+LOCATION:Roadrunner\, 89 Guest St\, Boston\, MA 02135
+DESCRIPTION:https://www.axs.com/events/1640199/official-latto-concert-after
+ -party-hosted-by-latto-tickets
+URL:https://www.axs.com/events/1640199/official-latto-concert-after-party-h
+ osted-by-latto-tickets
+END:VEVENT
+END:VCALENDAR

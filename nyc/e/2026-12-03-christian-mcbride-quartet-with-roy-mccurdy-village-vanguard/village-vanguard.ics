@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3490c9c541c1a55165cbed4632b4e5cde7ffc208@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Christian McBride Quartet with Roy McCurdy
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:https://vv.squadup.com/artists/christian-mcbride-quartet-featur
+ ing-roy-mccurdy
+URL:https://vv.squadup.com/artists/christian-mcbride-quartet-featuring-roy-
+ mccurdy
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:373402e5b970e8c173e687060c6aac93867a5217@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261219T183000Z
+DTEND:20261219T203000Z
+SUMMARY:Gremlins
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/gremlins
+URL:https://amherstcinema.org/films-and-events/gremlins
+END:VEVENT
+END:VCALENDAR

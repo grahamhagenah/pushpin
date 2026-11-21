@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ba605bbbd8a41a5fbe312bc292e5a4fcee71e9e7@pushpin.city
+DTSTAMP:20261127T000000Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:15th Annual David Boobie
+LOCATION:Crystal Ballroom\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.ticketmaster.com/15th-annual-david-boobie-somervill
+ e-massachusetts-11-27-2026/event/01006566A0B1AB60
+URL:https://www.ticketmaster.com/15th-annual-david-boobie-somerville-massac
+ husetts-11-27-2026/event/01006566A0B1AB60
+END:VEVENT
+END:VCALENDAR

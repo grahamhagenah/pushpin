@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ad75f7c5e7bebc0e51fb38ddd7da7b9a5fdec08d@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261123T220000Z
+DTEND:20261124T000000Z
+SUMMARY:You Can See Everything
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/you-can-see-ever
+ ything/
+URL:https://nitehawkcinema.com/prospectpark/movies/you-can-see-everything/
+END:VEVENT
+END:VCALENDAR

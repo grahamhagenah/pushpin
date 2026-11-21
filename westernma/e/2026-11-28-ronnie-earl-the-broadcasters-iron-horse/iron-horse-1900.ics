@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6997d35d668e9975b2c4a898861cc0d19a971013@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Ronnie Earl & The Broadcasters
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000BE4yHMAT
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0BE4yHMAT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,937 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Beacon Cinema
+X-WR-CALDESC:What’s coming up at Beacon Cinema\, from Pushpin Western Mas
+ s.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:9a301051ef64aa2e0a795904c199805a94ae84bb@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
+SUMMARY:The Cat in the Hat
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:20am\, 1:45pm\, 4:10pm\, 6:35pm\nA clever cat b
+ rings chaos and mischief to the home of two young children.\nhttps://www.p
+ hoenixmovies.net/movies/the-cat-in-the-hat/HO00001721\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/the-cat-in-the-hat/HO00001721
+END:VEVENT
+BEGIN:VEVENT
+UID:466c1d7e548958d2c9d904552c586a12fda6bd4a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 10am\, 11:30am\, 12:20pm\, 1:20pm\, 2:50pm\, 3:40p
+ m\, 4:40pm\, 6:10pm\, 7pm\, 8pm\, 9pm\, 9:25pm\, 10:20pm\, 11:10pm\nThe Hu
+ nger Games: Sunrise on the Reaping will revisit the world of Panem twenty-
+ four years before the events of The Hunger Games\, starting on the morning
+  of the reaping of the Fiftieth Hunger Games\, also known as the Second Qu
+ arter Quell.\nhttps://www.phoenixmovies.net/movies/the-hunger-games:-sunri
+ se-on-the-reaping/HO00001788\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-r
+ eaping/HO00001788
+END:VEVENT
+BEGIN:VEVENT
+UID:3f1cfd14269a447a2adc88a9df55bde1ebcbdb1c@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T142000Z
+DTEND:20261121T162000Z
+SUMMARY:Ebenezer: A Christmas Carol
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:20am\, 11:50am\, 2:25pm\, 5pm\, 7:30pm\, 10pm\nA thril
+ ling ghost story set in Dickens' London\, following one man's supernatural
+  journey to face his past\, present and future as he fights for a second c
+ hance at redemption.\nhttps://www.phoenixmovies.net/movies/ebenezer:-a-chr
+ istmas-carol/HO00001797\nFrom Pushpin Western Mass: https://pushpin.city/w
+ esternma/
+URL:https://www.phoenixmovies.net/movies/ebenezer:-a-christmas-carol/HO0000
+ 1797
+END:VEVENT
+BEGIN:VEVENT
+UID:c86a1596ac79a39bb61fc8f2524c9251a20a35a8@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T151000Z
+DTEND:20261121T171000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 10:10am\, 12:40pm\, 3:10pm\, 5:40pm\, 8:10pm\nShortly be
+ fore the 1973 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sa
+ m Rockwell) are dispatched from Santiago to Easter island by their bureau 
+ chief\, MJ (Steve Buscemi). Amongst the Island's iconic statues\, and as t
+ he longtime partners wrestle with their dark pasts and present conspiracie
+ s\, Chris's newfound bond with a pair of rebellious students (Mariana di G
+ irolamo and Ailín Salas) threatens to send everyone’s trip to this remo
+ te paradise sideways.\nhttps://www.phoenixmovies.net/movies/wild-horse-nin
+ e/HO00001795\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/wild-horse-nine/HO00001795
+END:VEVENT
+BEGIN:VEVENT
+UID:996083ba9e8542b5e2afcf294b3484045ba28307@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T034000Z
+DTEND:20261122T054000Z
+SUMMARY:Godzilla Minus Zero
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus.
+  Two years have passed since then\, and the country has faced agonizing st
+ ruggles to achieve recovery and finally reclaim its daily life.\nhttps://w
+ ww.phoenixmovies.net/movies/godzilla-minus-zero/HO00001786\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/godzilla-minus-zero/HO00001786
+END:VEVENT
+BEGIN:VEVENT
+UID:3a2abe6dd464d55eccdd5b73bc3d681b679a4e0d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:The Cat in the Hat
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:20am\, 1:45pm\, 4:10pm\, 6:35pm\nA clever cat b
+ rings chaos and mischief to the home of two young children.\nhttps://www.p
+ hoenixmovies.net/movies/the-cat-in-the-hat/HO00001721\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/the-cat-in-the-hat/HO00001721
+END:VEVENT
+BEGIN:VEVENT
+UID:c10e38b77151cb434d106372d2536eb4fb080024@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 10am\, 11:30am\, 12:20pm\, 1:20pm\, 2:50pm\, 3:40p
+ m\, 4:40pm\, 6:10pm\, 7pm\, 8pm\, 9pm\, 9:25pm\, 10:20pm\, 11:10pm\nThe Hu
+ nger Games: Sunrise on the Reaping will revisit the world of Panem twenty-
+ four years before the events of The Hunger Games\, starting on the morning
+  of the reaping of the Fiftieth Hunger Games\, also known as the Second Qu
+ arter Quell.\nhttps://www.phoenixmovies.net/movies/the-hunger-games:-sunri
+ se-on-the-reaping/HO00001788\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-r
+ eaping/HO00001788
+END:VEVENT
+BEGIN:VEVENT
+UID:080b8d70a2bf61b9cc8d0173c36b4f79f1061571@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T142000Z
+DTEND:20261122T162000Z
+SUMMARY:Ebenezer: A Christmas Carol
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:20am\, 11:50am\, 2:25pm\, 5pm\, 7:30pm\, 10pm\nA thril
+ ling ghost story set in Dickens' London\, following one man's supernatural
+  journey to face his past\, present and future as he fights for a second c
+ hance at redemption.\nhttps://www.phoenixmovies.net/movies/ebenezer:-a-chr
+ istmas-carol/HO00001797\nFrom Pushpin Western Mass: https://pushpin.city/w
+ esternma/
+URL:https://www.phoenixmovies.net/movies/ebenezer:-a-christmas-carol/HO0000
+ 1797
+END:VEVENT
+BEGIN:VEVENT
+UID:7911472d659836987c3427b2f96ec7c70919c116@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T151000Z
+DTEND:20261122T171000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 10:10am\, 12:40pm\, 3:10pm\, 5:40pm\, 8:10pm\nShortly be
+ fore the 1973 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sa
+ m Rockwell) are dispatched from Santiago to Easter island by their bureau 
+ chief\, MJ (Steve Buscemi). Amongst the Island's iconic statues\, and as t
+ he longtime partners wrestle with their dark pasts and present conspiracie
+ s\, Chris's newfound bond with a pair of rebellious students (Mariana di G
+ irolamo and Ailín Salas) threatens to send everyone’s trip to this remo
+ te paradise sideways.\nhttps://www.phoenixmovies.net/movies/wild-horse-nin
+ e/HO00001795\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/wild-horse-nine/HO00001795
+END:VEVENT
+BEGIN:VEVENT
+UID:299266e7c96ef8a1c072b6308fc7d672e6d09181@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T034000Z
+DTEND:20261123T054000Z
+SUMMARY:Godzilla Minus Zero
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus.
+  Two years have passed since then\, and the country has faced agonizing st
+ ruggles to achieve recovery and finally reclaim its daily life.\nhttps://w
+ ww.phoenixmovies.net/movies/godzilla-minus-zero/HO00001786\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/godzilla-minus-zero/HO00001786
+END:VEVENT
+BEGIN:VEVENT
+UID:d766cc522b61e40034bc607d4de22a6dde1a238c@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T140000Z
+DTEND:20261123T160000Z
+SUMMARY:The Cat in the Hat
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:20am\, 1:45pm\, 4:10pm\, 6:35pm\nA clever cat b
+ rings chaos and mischief to the home of two young children.\nhttps://www.p
+ hoenixmovies.net/movies/the-cat-in-the-hat/HO00001721\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/the-cat-in-the-hat/HO00001721
+END:VEVENT
+BEGIN:VEVENT
+UID:5df462c4c8f3ff064625d8d6230569a3f394b237@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T140000Z
+DTEND:20261123T160000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 10am\, 11:30am\, 12:20pm\, 1:20pm\, 2:50pm\, 3:40p
+ m\, 4:40pm\, 6:10pm\, 7pm\, 8pm\, 9pm\, 9:25pm\, 10:20pm\, 11:10pm\nThe Hu
+ nger Games: Sunrise on the Reaping will revisit the world of Panem twenty-
+ four years before the events of The Hunger Games\, starting on the morning
+  of the reaping of the Fiftieth Hunger Games\, also known as the Second Qu
+ arter Quell.\nhttps://www.phoenixmovies.net/movies/the-hunger-games:-sunri
+ se-on-the-reaping/HO00001788\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-r
+ eaping/HO00001788
+END:VEVENT
+BEGIN:VEVENT
+UID:cbcc31aa277552bebca5c16c33155286f6c83a65@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T142000Z
+DTEND:20261123T162000Z
+SUMMARY:Ebenezer: A Christmas Carol
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:20am\, 11:50am\, 2:25pm\, 5pm\, 7:30pm\, 10pm\nA thril
+ ling ghost story set in Dickens' London\, following one man's supernatural
+  journey to face his past\, present and future as he fights for a second c
+ hance at redemption.\nhttps://www.phoenixmovies.net/movies/ebenezer:-a-chr
+ istmas-carol/HO00001797\nFrom Pushpin Western Mass: https://pushpin.city/w
+ esternma/
+URL:https://www.phoenixmovies.net/movies/ebenezer:-a-christmas-carol/HO0000
+ 1797
+END:VEVENT
+BEGIN:VEVENT
+UID:c17608531319098011aedf3cca9ebf12bfd91357@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T151000Z
+DTEND:20261123T171000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 10:10am\, 12:40pm\, 3:10pm\, 5:40pm\, 8:10pm\nShortly be
+ fore the 1973 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sa
+ m Rockwell) are dispatched from Santiago to Easter island by their bureau 
+ chief\, MJ (Steve Buscemi). Amongst the Island's iconic statues\, and as t
+ he longtime partners wrestle with their dark pasts and present conspiracie
+ s\, Chris's newfound bond with a pair of rebellious students (Mariana di G
+ irolamo and Ailín Salas) threatens to send everyone’s trip to this remo
+ te paradise sideways.\nhttps://www.phoenixmovies.net/movies/wild-horse-nin
+ e/HO00001795\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/wild-horse-nine/HO00001795
+END:VEVENT
+BEGIN:VEVENT
+UID:d69d8975511608240ac05eb11a3ca85f9b01a340@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T034000Z
+DTEND:20261124T054000Z
+SUMMARY:Godzilla Minus Zero
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus.
+  Two years have passed since then\, and the country has faced agonizing st
+ ruggles to achieve recovery and finally reclaim its daily life.\nhttps://w
+ ww.phoenixmovies.net/movies/godzilla-minus-zero/HO00001786\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/godzilla-minus-zero/HO00001786
+END:VEVENT
+BEGIN:VEVENT
+UID:e85c1426a4e5d1ee4800e204c7469e709dd95b2f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T140000Z
+DTEND:20261124T160000Z
+SUMMARY:The Cat in the Hat
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:20am\, 1:45pm\, 4:10pm\, 6:35pm\nA clever cat b
+ rings chaos and mischief to the home of two young children.\nhttps://www.p
+ hoenixmovies.net/movies/the-cat-in-the-hat/HO00001721\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/the-cat-in-the-hat/HO00001721
+END:VEVENT
+BEGIN:VEVENT
+UID:0c6e909207b417f769fc466a79c478d25387a93c@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T140000Z
+DTEND:20261124T160000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 10am\, 11am\, 12:20pm\, 1:20pm\, 3:40pm\, 4:45pm\,
+  7pm\, 8pm\, 9pm\, 10:20pm\, 11:10pm\nThe Hunger Games: Sunrise on the Rea
+ ping will revisit the world of Panem twenty-four years before the events o
+ f The Hunger Games\, starting on the morning of the reaping of the Fiftiet
+ h Hunger Games\, also known as the Second Quarter Quell.\nhttps://www.phoe
+ nixmovies.net/movies/the-hunger-games:-sunrise-on-the-reaping/HO00001788\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-r
+ eaping/HO00001788
+END:VEVENT
+BEGIN:VEVENT
+UID:b7add66e3dee64b096f088e5f3f2b3a9d7fb0318@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T142000Z
+DTEND:20261124T162000Z
+SUMMARY:Ebenezer: A Christmas Carol
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:20am\, 11:50am\, 2:25pm\, 5pm\, 7:30pm\, 10pm\nA thril
+ ling ghost story set in Dickens' London\, following one man's supernatural
+  journey to face his past\, present and future as he fights for a second c
+ hance at redemption.\nhttps://www.phoenixmovies.net/movies/ebenezer:-a-chr
+ istmas-carol/HO00001797\nFrom Pushpin Western Mass: https://pushpin.city/w
+ esternma/
+URL:https://www.phoenixmovies.net/movies/ebenezer:-a-christmas-carol/HO0000
+ 1797
+END:VEVENT
+BEGIN:VEVENT
+UID:34a7c73bc7f6166eda8f741f951e71ad79943ddd@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T151000Z
+DTEND:20261124T171000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 10:10am\, 12:40pm\, 3:10pm\, 5:40pm\, 8:10pm\nShortly be
+ fore the 1973 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sa
+ m Rockwell) are dispatched from Santiago to Easter island by their bureau 
+ chief\, MJ (Steve Buscemi). Amongst the Island's iconic statues\, and as t
+ he longtime partners wrestle with their dark pasts and present conspiracie
+ s\, Chris's newfound bond with a pair of rebellious students (Mariana di G
+ irolamo and Ailín Salas) threatens to send everyone’s trip to this remo
+ te paradise sideways.\nhttps://www.phoenixmovies.net/movies/wild-horse-nin
+ e/HO00001795\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/wild-horse-nine/HO00001795
+END:VEVENT
+BEGIN:VEVENT
+UID:d54f508c6d6da9dfb1295ca3c4b95c19b42323e4@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T191000Z
+DTEND:20261124T211000Z
+SUMMARY:Hexed
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 2:10pm\, 4:40pm\, 7:10pm\, 9:40pm\nIn Walt Disney Animat
+ ion Studios' all-new magical coming-of-age saga\, “Hexed\,” an impulsi
+ ve and unconventional teenage girl named Billie (voice of Hailee Steinfeld
+ ) discovers secret magical abilities which\, once unleashed\, hurtle her i
+ nto a spectacle-filled journey out of suburbia and into a vast witch realm
+  called Hexe. Forced to team up with her cautious mother\, Alice (voice of
+  Rashida Jones)\, they uncover family mysteries that could change the worl
+ d of witches forever. Directed by Fawn Veerasunthorn and Jason Hand\, co-d
+ irected by Josie Trinidad and produced by Roy Conli\, Disney’s “Hexed
+ ” opens exclusively in theaters November 25\, 2026.\nhttps://www.phoenix
+ movies.net/movies/hexed/HO00001806\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/hexed/HO00001806
+END:VEVENT
+BEGIN:VEVENT
+UID:92d37085e7fc3cebe29e0a2c1335fab25fe78920@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T034000Z
+DTEND:20261125T054000Z
+SUMMARY:Godzilla Minus Zero
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:War reduced Japan to zero\, and Godzilla plunged it into minus.
+  Two years have passed since then\, and the country has faced agonizing st
+ ruggles to achieve recovery and finally reclaim its daily life.\nhttps://w
+ ww.phoenixmovies.net/movies/godzilla-minus-zero/HO00001786\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/godzilla-minus-zero/HO00001786
+END:VEVENT
+BEGIN:VEVENT
+UID:fd1367d1608d5ae9a6b4174dd06955d0d80436ab@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T140000Z
+DTEND:20261125T160000Z
+SUMMARY:Ebenezer: A Christmas Carol
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:25am\, 1:50pm\, 4:20pm\, 6:50pm\, 9:20pm\nA thr
+ illing ghost story set in Dickens' London\, following one man's supernatur
+ al journey to face his past\, present and future as he fights for a second
+  chance at redemption.\nhttps://www.phoenixmovies.net/movies/ebenezer:-a-c
+ hristmas-carol/HO00001797\nFrom Pushpin Western Mass: https://pushpin.city
+ /westernma/
+URL:https://www.phoenixmovies.net/movies/ebenezer:-a-christmas-carol/HO0000
+ 1797
+END:VEVENT
+BEGIN:VEVENT
+UID:d3cc92df978dc8d3baa022c084a4b8d5145a83b7@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T140000Z
+DTEND:20261125T160000Z
+SUMMARY:Focker In-Law
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:10am\, 1:35pm\, 3:55pm\, 6:20pm\, 8:45pm\, 11pm
+ \nThis Thanksgiving\, the Circle of Trust expands as Ben Stiller\, Robert 
+ De Niro and Ariana Grande star in a hilarious new chapter in the blockbust
+ er Meet the Parents franchise. Still operating as a helicopter parent to h
+ is adult kids\, Greg Focker’s anxieties spiral out of control when his s
+ on brings home a formidable new girlfriend and reveals that he plans to pr
+ opose.\nhttps://www.phoenixmovies.net/movies/focker-in-law/HO00001814\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/focker-in-law/HO00001814
+END:VEVENT
+BEGIN:VEVENT
+UID:9c5baf04a9a133d2e2eaad4a88c2718653f5ba2c@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T140000Z
+DTEND:20261125T160000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 12:20pm\, 3:40pm\, 7pm\, 10:20pm\nThe Hunger Games
+ : Sunrise on the Reaping will revisit the world of Panem twenty-four years
+  before the events of The Hunger Games\, starting on the morning of the re
+ aping of the Fiftieth Hunger Games\, also known as the Second Quarter Quel
+ l.\nhttps://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-
+ reaping/HO00001788\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-r
+ eaping/HO00001788
+END:VEVENT
+BEGIN:VEVENT
+UID:78241b55a35b8941b0a4e8392d6e6af8857de724@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T141000Z
+DTEND:20261125T161000Z
+SUMMARY:Hexed
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:10am\, 11:40am\, 2:10pm\, 4:40pm\, 7:10pm\, 9:40pm\nIn
+  Walt Disney Animation Studios' all-new magical coming-of-age saga\, “He
+ xed\,” an impulsive and unconventional teenage girl named Billie (voice 
+ of Hailee Steinfeld) discovers secret magical abilities which\, once unlea
+ shed\, hurtle her into a spectacle-filled journey out of suburbia and into
+  a vast witch realm called Hexe. Forced to team up with her cautious mothe
+ r\, Alice (voice of Rashida Jones)\, they uncover family mysteries that co
+ uld change the world of witches forever. Directed by Fawn Veerasunthorn an
+ d Jason Hand\, co-directed by Josie Trinidad and produced by Roy Conli\, D
+ isney’s “Hexed” opens exclusively in theaters November 25\, 2026.\nh
+ ttps://www.phoenixmovies.net/movies/hexed/HO00001806\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/hexed/HO00001806
+END:VEVENT
+BEGIN:VEVENT
+UID:10beadb3f790948226d21b3b2e24337688632148@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T140000Z
+DTEND:20261126T160000Z
+SUMMARY:Ebenezer: A Christmas Carol
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:25am\, 1:50pm\, 4:20pm\, 6:50pm\nA thrilling gh
+ ost story set in Dickens' London\, following one man's supernatural journe
+ y to face his past\, present and future as he fights for a second chance a
+ t redemption.\nhttps://www.phoenixmovies.net/movies/ebenezer:-a-christmas-
+ carol/HO00001797\nFrom Pushpin Western Mass: https://pushpin.city/westernm
+ a/
+URL:https://www.phoenixmovies.net/movies/ebenezer:-a-christmas-carol/HO0000
+ 1797
+END:VEVENT
+BEGIN:VEVENT
+UID:585c81424fc07dffa0d71deecb92e8986dd50ae5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T140000Z
+DTEND:20261126T160000Z
+SUMMARY:Focker In-Law
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:10am\, 1:35pm\, 3:55pm\, 6:20pm\, 8:45pm\, 11pm
+ \nThis Thanksgiving\, the Circle of Trust expands as Ben Stiller\, Robert 
+ De Niro and Ariana Grande star in a hilarious new chapter in the blockbust
+ er Meet the Parents franchise. Still operating as a helicopter parent to h
+ is adult kids\, Greg Focker’s anxieties spiral out of control when his s
+ on brings home a formidable new girlfriend and reveals that he plans to pr
+ opose.\nhttps://www.phoenixmovies.net/movies/focker-in-law/HO00001814\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/focker-in-law/HO00001814
+END:VEVENT
+BEGIN:VEVENT
+UID:e863cc8dbbb5fe9269b004dd9f058eb7c2af88f2@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T140000Z
+DTEND:20261126T160000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 12:20pm\, 3:40pm\, 7pm\, 10:20pm\nThe Hunger Games
+ : Sunrise on the Reaping will revisit the world of Panem twenty-four years
+  before the events of The Hunger Games\, starting on the morning of the re
+ aping of the Fiftieth Hunger Games\, also known as the Second Quarter Quel
+ l.\nhttps://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-
+ reaping/HO00001788\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-r
+ eaping/HO00001788
+END:VEVENT
+BEGIN:VEVENT
+UID:4a3496eabf578cb0ea8629479957ca7b00522d1f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T141000Z
+DTEND:20261126T161000Z
+SUMMARY:Hexed
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:10am\, 11:40am\, 2:10pm\, 4:40pm\, 7:10pm\, 9:40pm\nIn
+  Walt Disney Animation Studios' all-new magical coming-of-age saga\, “He
+ xed\,” an impulsive and unconventional teenage girl named Billie (voice 
+ of Hailee Steinfeld) discovers secret magical abilities which\, once unlea
+ shed\, hurtle her into a spectacle-filled journey out of suburbia and into
+  a vast witch realm called Hexe. Forced to team up with her cautious mothe
+ r\, Alice (voice of Rashida Jones)\, they uncover family mysteries that co
+ uld change the world of witches forever. Directed by Fawn Veerasunthorn an
+ d Jason Hand\, co-directed by Josie Trinidad and produced by Roy Conli\, D
+ isney’s “Hexed” opens exclusively in theaters November 25\, 2026.\nh
+ ttps://www.phoenixmovies.net/movies/hexed/HO00001806\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/hexed/HO00001806
+END:VEVENT
+BEGIN:VEVENT
+UID:64ca4a45f6c7774e78b39ee81b97cbcb57ec9435@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261127T140000Z
+DTEND:20261127T160000Z
+SUMMARY:Focker In-Law
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:10am\, 1:35pm\, 3:55pm\, 6:20pm\, 8:45pm\, 11pm
+ \nThis Thanksgiving\, the Circle of Trust expands as Ben Stiller\, Robert 
+ De Niro and Ariana Grande star in a hilarious new chapter in the blockbust
+ er Meet the Parents franchise. Still operating as a helicopter parent to h
+ is adult kids\, Greg Focker’s anxieties spiral out of control when his s
+ on brings home a formidable new girlfriend and reveals that he plans to pr
+ opose.\nhttps://www.phoenixmovies.net/movies/focker-in-law/HO00001814\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/focker-in-law/HO00001814
+END:VEVENT
+BEGIN:VEVENT
+UID:7a02e544bf8a1eb924ea0de18f9bf1f9a3b87274@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261127T140000Z
+DTEND:20261127T160000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 12:20pm\, 3:40pm\, 7pm\, 10:20pm\nThe Hunger Games
+ : Sunrise on the Reaping will revisit the world of Panem twenty-four years
+  before the events of The Hunger Games\, starting on the morning of the re
+ aping of the Fiftieth Hunger Games\, also known as the Second Quarter Quel
+ l.\nhttps://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-
+ reaping/HO00001788\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-r
+ eaping/HO00001788
+END:VEVENT
+BEGIN:VEVENT
+UID:176fc4a7ea67d7bb1d63cf63d3923d3d7cbefdd8@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261127T141000Z
+DTEND:20261127T161000Z
+SUMMARY:Hexed
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:10am\, 11:40am\, 2:10pm\, 4:40pm\, 7:10pm\, 9:40pm\nIn
+  Walt Disney Animation Studios' all-new magical coming-of-age saga\, “He
+ xed\,” an impulsive and unconventional teenage girl named Billie (voice 
+ of Hailee Steinfeld) discovers secret magical abilities which\, once unlea
+ shed\, hurtle her into a spectacle-filled journey out of suburbia and into
+  a vast witch realm called Hexe. Forced to team up with her cautious mothe
+ r\, Alice (voice of Rashida Jones)\, they uncover family mysteries that co
+ uld change the world of witches forever. Directed by Fawn Veerasunthorn an
+ d Jason Hand\, co-directed by Josie Trinidad and produced by Roy Conli\, D
+ isney’s “Hexed” opens exclusively in theaters November 25\, 2026.\nh
+ ttps://www.phoenixmovies.net/movies/hexed/HO00001806\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/hexed/HO00001806
+END:VEVENT
+BEGIN:VEVENT
+UID:3ef1aa13829d3a27f6ef1a2fb134a7e4253dc226@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T140000Z
+DTEND:20261128T160000Z
+SUMMARY:Focker In-Law
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:10am\, 1:35pm\, 3:55pm\, 6:20pm\, 8:45pm\, 11pm
+ \nThis Thanksgiving\, the Circle of Trust expands as Ben Stiller\, Robert 
+ De Niro and Ariana Grande star in a hilarious new chapter in the blockbust
+ er Meet the Parents franchise. Still operating as a helicopter parent to h
+ is adult kids\, Greg Focker’s anxieties spiral out of control when his s
+ on brings home a formidable new girlfriend and reveals that he plans to pr
+ opose.\nhttps://www.phoenixmovies.net/movies/focker-in-law/HO00001814\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/focker-in-law/HO00001814
+END:VEVENT
+BEGIN:VEVENT
+UID:7f89bce3e245b1f5ada26cfbad61ef30d744cafa@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T140000Z
+DTEND:20261128T160000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 12:20pm\, 3:40pm\, 7pm\, 10:20pm\nThe Hunger Games
+ : Sunrise on the Reaping will revisit the world of Panem twenty-four years
+  before the events of The Hunger Games\, starting on the morning of the re
+ aping of the Fiftieth Hunger Games\, also known as the Second Quarter Quel
+ l.\nhttps://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-
+ reaping/HO00001788\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-r
+ eaping/HO00001788
+END:VEVENT
+BEGIN:VEVENT
+UID:cebf032b6841e32d8a59c62a889b8563593c06af@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T141000Z
+DTEND:20261128T161000Z
+SUMMARY:Hexed
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:10am\, 11:40am\, 2:10pm\, 4:40pm\, 7:10pm\, 9:40pm\nIn
+  Walt Disney Animation Studios' all-new magical coming-of-age saga\, “He
+ xed\,” an impulsive and unconventional teenage girl named Billie (voice 
+ of Hailee Steinfeld) discovers secret magical abilities which\, once unlea
+ shed\, hurtle her into a spectacle-filled journey out of suburbia and into
+  a vast witch realm called Hexe. Forced to team up with her cautious mothe
+ r\, Alice (voice of Rashida Jones)\, they uncover family mysteries that co
+ uld change the world of witches forever. Directed by Fawn Veerasunthorn an
+ d Jason Hand\, co-directed by Josie Trinidad and produced by Roy Conli\, D
+ isney’s “Hexed” opens exclusively in theaters November 25\, 2026.\nh
+ ttps://www.phoenixmovies.net/movies/hexed/HO00001806\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/hexed/HO00001806
+END:VEVENT
+BEGIN:VEVENT
+UID:3b6dbbb669e70c7229a2b84a8a4c41db18b3095b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Focker In-Law
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:10am\, 1:35pm\, 3:55pm\, 6:20pm\, 8:45pm\, 11pm
+ \nThis Thanksgiving\, the Circle of Trust expands as Ben Stiller\, Robert 
+ De Niro and Ariana Grande star in a hilarious new chapter in the blockbust
+ er Meet the Parents franchise. Still operating as a helicopter parent to h
+ is adult kids\, Greg Focker’s anxieties spiral out of control when his s
+ on brings home a formidable new girlfriend and reveals that he plans to pr
+ opose.\nhttps://www.phoenixmovies.net/movies/focker-in-law/HO00001814\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/focker-in-law/HO00001814
+END:VEVENT
+BEGIN:VEVENT
+UID:b1e2a05adb481ec708da4b8aa28b0a97d8a0c179@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 12:20pm\, 3:40pm\, 7pm\, 10:20pm\nThe Hunger Games
+ : Sunrise on the Reaping will revisit the world of Panem twenty-four years
+  before the events of The Hunger Games\, starting on the morning of the re
+ aping of the Fiftieth Hunger Games\, also known as the Second Quarter Quel
+ l.\nhttps://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-
+ reaping/HO00001788\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-r
+ eaping/HO00001788
+END:VEVENT
+BEGIN:VEVENT
+UID:a0002cfdb901c97a67ae3f1fa1fe8d3a4328d951@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T141000Z
+DTEND:20261129T161000Z
+SUMMARY:Hexed
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:10am\, 11:40am\, 2:10pm\, 4:40pm\, 7:10pm\, 9:40pm\nIn
+  Walt Disney Animation Studios' all-new magical coming-of-age saga\, “He
+ xed\,” an impulsive and unconventional teenage girl named Billie (voice 
+ of Hailee Steinfeld) discovers secret magical abilities which\, once unlea
+ shed\, hurtle her into a spectacle-filled journey out of suburbia and into
+  a vast witch realm called Hexe. Forced to team up with her cautious mothe
+ r\, Alice (voice of Rashida Jones)\, they uncover family mysteries that co
+ uld change the world of witches forever. Directed by Fawn Veerasunthorn an
+ d Jason Hand\, co-directed by Josie Trinidad and produced by Roy Conli\, D
+ isney’s “Hexed” opens exclusively in theaters November 25\, 2026.\nh
+ ttps://www.phoenixmovies.net/movies/hexed/HO00001806\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/hexed/HO00001806
+END:VEVENT
+BEGIN:VEVENT
+UID:6aad9716b395d9cdb7243081eb4e5452144fd8b1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261130T140000Z
+DTEND:20261130T160000Z
+SUMMARY:Focker In-Law
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:10am\, 1:35pm\, 3:55pm\, 6:20pm\, 8:45pm\, 11pm
+ \nThis Thanksgiving\, the Circle of Trust expands as Ben Stiller\, Robert 
+ De Niro and Ariana Grande star in a hilarious new chapter in the blockbust
+ er Meet the Parents franchise. Still operating as a helicopter parent to h
+ is adult kids\, Greg Focker’s anxieties spiral out of control when his s
+ on brings home a formidable new girlfriend and reveals that he plans to pr
+ opose.\nhttps://www.phoenixmovies.net/movies/focker-in-law/HO00001814\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/focker-in-law/HO00001814
+END:VEVENT
+BEGIN:VEVENT
+UID:bc70b46748bb9a076a7d4d8db2c3f5f9e22805b7@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261130T140000Z
+DTEND:20261130T160000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 12:20pm\, 3:40pm\, 7pm\, 10:20pm\nThe Hunger Games
+ : Sunrise on the Reaping will revisit the world of Panem twenty-four years
+  before the events of The Hunger Games\, starting on the morning of the re
+ aping of the Fiftieth Hunger Games\, also known as the Second Quarter Quel
+ l.\nhttps://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-
+ reaping/HO00001788\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-r
+ eaping/HO00001788
+END:VEVENT
+BEGIN:VEVENT
+UID:f33c159e6cc827d1f084afb26a9d4c232c786ce3@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261130T141000Z
+DTEND:20261130T161000Z
+SUMMARY:Hexed
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:10am\, 11:40am\, 2:10pm\, 4:40pm\, 7:10pm\, 9:40pm\nIn
+  Walt Disney Animation Studios' all-new magical coming-of-age saga\, “He
+ xed\,” an impulsive and unconventional teenage girl named Billie (voice 
+ of Hailee Steinfeld) discovers secret magical abilities which\, once unlea
+ shed\, hurtle her into a spectacle-filled journey out of suburbia and into
+  a vast witch realm called Hexe. Forced to team up with her cautious mothe
+ r\, Alice (voice of Rashida Jones)\, they uncover family mysteries that co
+ uld change the world of witches forever. Directed by Fawn Veerasunthorn an
+ d Jason Hand\, co-directed by Josie Trinidad and produced by Roy Conli\, D
+ isney’s “Hexed” opens exclusively in theaters November 25\, 2026.\nh
+ ttps://www.phoenixmovies.net/movies/hexed/HO00001806\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/hexed/HO00001806
+END:VEVENT
+BEGIN:VEVENT
+UID:f84451a44e15fc5ea62d1904830a66d11f80b3c1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261201T140000Z
+DTEND:20261201T160000Z
+SUMMARY:Focker In-Law
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:10am\, 1:35pm\, 3:55pm\, 6:20pm\, 8:45pm\, 11pm
+ \nThis Thanksgiving\, the Circle of Trust expands as Ben Stiller\, Robert 
+ De Niro and Ariana Grande star in a hilarious new chapter in the blockbust
+ er Meet the Parents franchise. Still operating as a helicopter parent to h
+ is adult kids\, Greg Focker’s anxieties spiral out of control when his s
+ on brings home a formidable new girlfriend and reveals that he plans to pr
+ opose.\nhttps://www.phoenixmovies.net/movies/focker-in-law/HO00001814\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/focker-in-law/HO00001814
+END:VEVENT
+BEGIN:VEVENT
+UID:c5f74d74eebb6d17001a37bdcdb88ebefb856f81@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261201T140000Z
+DTEND:20261201T160000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 12:20pm\, 3:40pm\, 7pm\, 10:20pm\nThe Hunger Games
+ : Sunrise on the Reaping will revisit the world of Panem twenty-four years
+  before the events of The Hunger Games\, starting on the morning of the re
+ aping of the Fiftieth Hunger Games\, also known as the Second Quarter Quel
+ l.\nhttps://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-
+ reaping/HO00001788\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-r
+ eaping/HO00001788
+END:VEVENT
+BEGIN:VEVENT
+UID:3e6be7bb3d531a12104fc50b0703b79c3c72e234@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261201T141000Z
+DTEND:20261201T161000Z
+SUMMARY:Hexed
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:10am\, 11:40am\, 2:10pm\, 4:40pm\, 7:10pm\, 9:40pm\nIn
+  Walt Disney Animation Studios' all-new magical coming-of-age saga\, “He
+ xed\,” an impulsive and unconventional teenage girl named Billie (voice 
+ of Hailee Steinfeld) discovers secret magical abilities which\, once unlea
+ shed\, hurtle her into a spectacle-filled journey out of suburbia and into
+  a vast witch realm called Hexe. Forced to team up with her cautious mothe
+ r\, Alice (voice of Rashida Jones)\, they uncover family mysteries that co
+ uld change the world of witches forever. Directed by Fawn Veerasunthorn an
+ d Jason Hand\, co-directed by Josie Trinidad and produced by Roy Conli\, D
+ isney’s “Hexed” opens exclusively in theaters November 25\, 2026.\nh
+ ttps://www.phoenixmovies.net/movies/hexed/HO00001806\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/hexed/HO00001806
+END:VEVENT
+BEGIN:VEVENT
+UID:26b9d65deaa0a17b7041c5422a831f8691869fe6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261202T140000Z
+DTEND:20261202T160000Z
+SUMMARY:Focker In-Law
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:10am\, 1:35pm\, 3:55pm\, 6:20pm\, 8:45pm\, 11pm
+ \nThis Thanksgiving\, the Circle of Trust expands as Ben Stiller\, Robert 
+ De Niro and Ariana Grande star in a hilarious new chapter in the blockbust
+ er Meet the Parents franchise. Still operating as a helicopter parent to h
+ is adult kids\, Greg Focker’s anxieties spiral out of control when his s
+ on brings home a formidable new girlfriend and reveals that he plans to pr
+ opose.\nhttps://www.phoenixmovies.net/movies/focker-in-law/HO00001814\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/focker-in-law/HO00001814
+END:VEVENT
+BEGIN:VEVENT
+UID:f6566bc268bc24fda32de45e9b76f060cd7ca0a8@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261202T140000Z
+DTEND:20261202T160000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 12:20pm\, 3:40pm\, 7pm\, 10:20pm\nThe Hunger Games
+ : Sunrise on the Reaping will revisit the world of Panem twenty-four years
+  before the events of The Hunger Games\, starting on the morning of the re
+ aping of the Fiftieth Hunger Games\, also known as the Second Quarter Quel
+ l.\nhttps://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-
+ reaping/HO00001788\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-r
+ eaping/HO00001788
+END:VEVENT
+BEGIN:VEVENT
+UID:fbef6588ed447a5b36fbfaf9fb27245242b3c510@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261202T141000Z
+DTEND:20261202T161000Z
+SUMMARY:Hexed
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:10am\, 11:40am\, 2:10pm\, 4:40pm\, 7:10pm\, 9:40pm\nIn
+  Walt Disney Animation Studios' all-new magical coming-of-age saga\, “He
+ xed\,” an impulsive and unconventional teenage girl named Billie (voice 
+ of Hailee Steinfeld) discovers secret magical abilities which\, once unlea
+ shed\, hurtle her into a spectacle-filled journey out of suburbia and into
+  a vast witch realm called Hexe. Forced to team up with her cautious mothe
+ r\, Alice (voice of Rashida Jones)\, they uncover family mysteries that co
+ uld change the world of witches forever. Directed by Fawn Veerasunthorn an
+ d Jason Hand\, co-directed by Josie Trinidad and produced by Roy Conli\, D
+ isney’s “Hexed” opens exclusively in theaters November 25\, 2026.\nh
+ ttps://www.phoenixmovies.net/movies/hexed/HO00001806\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/hexed/HO00001806
+END:VEVENT
+BEGIN:VEVENT
+UID:ece941b32ea78fed1f57aaef923301f5e3acc9b6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261203T140000Z
+DTEND:20261203T160000Z
+SUMMARY:Focker In-Law
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 11:10am\, 1:35pm\, 3:55pm\, 6:20pm\, 8:45pm\, 11pm
+ \nThis Thanksgiving\, the Circle of Trust expands as Ben Stiller\, Robert 
+ De Niro and Ariana Grande star in a hilarious new chapter in the blockbust
+ er Meet the Parents franchise. Still operating as a helicopter parent to h
+ is adult kids\, Greg Focker’s anxieties spiral out of control when his s
+ on brings home a formidable new girlfriend and reveals that he plans to pr
+ opose.\nhttps://www.phoenixmovies.net/movies/focker-in-law/HO00001814\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/focker-in-law/HO00001814
+END:VEVENT
+BEGIN:VEVENT
+UID:ac5ffa53d331ebf32e52505c32380897a8beabb2@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261203T140000Z
+DTEND:20261203T160000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9am\, 12:20pm\, 3:40pm\, 7pm\, 10:20pm\nThe Hunger Games
+ : Sunrise on the Reaping will revisit the world of Panem twenty-four years
+  before the events of The Hunger Games\, starting on the morning of the re
+ aping of the Fiftieth Hunger Games\, also known as the Second Quarter Quel
+ l.\nhttps://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-
+ reaping/HO00001788\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://www.phoenixmovies.net/movies/the-hunger-games:-sunrise-on-the-r
+ eaping/HO00001788
+END:VEVENT
+BEGIN:VEVENT
+UID:dbcf00c445169575eb7b0a8f4a6e9bcd7bfbb4e1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261203T141000Z
+DTEND:20261203T161000Z
+SUMMARY:Hexed
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:10am\, 11:40am\, 2:10pm\, 4:40pm\, 7:10pm\, 9:40pm\nIn
+  Walt Disney Animation Studios' all-new magical coming-of-age saga\, “He
+ xed\,” an impulsive and unconventional teenage girl named Billie (voice 
+ of Hailee Steinfeld) discovers secret magical abilities which\, once unlea
+ shed\, hurtle her into a spectacle-filled journey out of suburbia and into
+  a vast witch realm called Hexe. Forced to team up with her cautious mothe
+ r\, Alice (voice of Rashida Jones)\, they uncover family mysteries that co
+ uld change the world of witches forever. Directed by Fawn Veerasunthorn an
+ d Jason Hand\, co-directed by Josie Trinidad and produced by Roy Conli\, D
+ isney’s “Hexed” opens exclusively in theaters November 25\, 2026.\nh
+ ttps://www.phoenixmovies.net/movies/hexed/HO00001806\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/hexed/HO00001806
+END:VEVENT
+BEGIN:VEVENT
+UID:8020a3ecdb3ce9393bf42f481388e53dddc53df7@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261203T195000Z
+DTEND:20261203T215000Z
+SUMMARY:Violent Night 2
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 2:50pm\, 5:20pm\, 7:50pm\, 10:15pm\nNot-so-jolly Saint N
+ ick suits up again to take on a ruthless gangster terrorizing the merchant
+ s of the Silver Bell Mall. But when Santa forgets the true meaning of Chri
+ stmas\, he finds himself in the heart of a lively mall community in desper
+ ate need of his help. Sapped of his magic\, Santa has to rediscover his fa
+ ith in goodness and call in some last-minute reinforcements from the one p
+ erson no baddie wants to tangle with: Mrs. Claus.\nhttps://www.phoenixmovi
+ es.net/movies/violent-night-2/HO00001815\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/violent-night-2/HO00001815
+END:VEVENT
+BEGIN:VEVENT
+UID:5e58dbc2cd8fe7825df451d8932950946ed5589c@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261203T233000Z
+DTEND:20261204T013000Z
+SUMMARY:Behemoth!
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:A gifted cellist\, Alex Serian (Pedro Pascal)\, returns home to
+  Los Angeles after 20 years on the road.\nhttps://www.phoenixmovies.net/mo
+ vies/behemoth!/HO00001825\nFrom Pushpin Western Mass: https://pushpin.city
+ /westernma/
+URL:https://www.phoenixmovies.net/movies/behemoth!/HO00001825
+END:VEVENT
+BEGIN:VEVENT
+UID:1040f9129f2f95611dccc5024fe74a3c050bdd5b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T145500Z
+DTEND:20261204T165500Z
+SUMMARY:Violent Night 2
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 9:55am\, 12:25pm\, 2:50pm\, 5:20pm\, 7:50pm\, 10:15pm\nN
+ ot-so-jolly Saint Nick suits up again to take on a ruthless gangster terro
+ rizing the merchants of the Silver Bell Mall. But when Santa forgets the t
+ rue meaning of Christmas\, he finds himself in the heart of a lively mall 
+ community in desperate need of his help. Sapped of his magic\, Santa has t
+ o rediscover his faith in goodness and call in some last-minute reinforcem
+ ents from the one person no baddie wants to tangle with: Mrs. Claus.\nhttp
+ s://www.phoenixmovies.net/movies/violent-night-2/HO00001815\nFrom Pushpin 
+ Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/violent-night-2/HO00001815
+END:VEVENT
+BEGIN:VEVENT
+UID:b1effecab69db1f18de7c4617b94b0489db204d5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T160000Z
+DTEND:20261204T180000Z
+SUMMARY:Behemoth!
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 11am\, 1:40pm\, 4:20pm\, 7:10pm\, 9:50pm\nA gifted celli
+ st\, Alex Serian (Pedro Pascal)\, returns home to Los Angeles after 20 yea
+ rs on the road.\nhttps://www.phoenixmovies.net/movies/behemoth!/HO00001825
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.phoenixmovies.net/movies/behemoth!/HO00001825
+END:VEVENT
+END:VCALENDAR

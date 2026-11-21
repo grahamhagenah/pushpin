@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:17df0f0106add3cec91d402035c8a094ca8880a0@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:Madoc “Cake” Single Release with Prophet PM
+LOCATION:Lizard Lounge\, 1667 Massachusetts Ave\, Cambridge\, MA 02138
+DESCRIPTION:https://lizardloungeclub.com/event/madoc-cake-single-release-wi
+ th-prophet-pm/
+URL:https://lizardloungeclub.com/event/madoc-cake-single-release-with-proph
+ et-pm/
+END:VEVENT
+END:VCALENDAR

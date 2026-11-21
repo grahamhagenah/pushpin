@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d76468c8457d4e4ddb3af6617db1d5cc256d4b82@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:Once Upon A Time In The West
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999001482-once-upon-a-time-in-the-
+ west/
+URL:https://metrograph.com/film/9999001482-once-upon-a-time-in-the-west/
+END:VEVENT
+END:VCALENDAR

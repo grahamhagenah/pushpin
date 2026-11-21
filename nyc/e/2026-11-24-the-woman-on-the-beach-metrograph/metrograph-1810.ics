@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:99e228c5b656bdafdc4d9aaef920fa1591ffd9b0@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261124T231000Z
+DTEND:20261125T011000Z
+SUMMARY:The Woman on the Beach
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005088-the-woman-on-the-beach/
+URL:https://metrograph.com/film/9999005088-the-woman-on-the-beach/
+END:VEVENT
+END:VCALENDAR

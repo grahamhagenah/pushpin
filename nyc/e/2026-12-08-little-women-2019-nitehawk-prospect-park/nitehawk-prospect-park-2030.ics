@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a0c42c9495d271d0a549190cb8d09027603e4dea@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261209T013000Z
+DTEND:20261209T033000Z
+SUMMARY:Little Women (2019)
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/little-women-201
+ 9/
+URL:https://nitehawkcinema.com/prospectpark/movies/little-women-2019/
+END:VEVENT
+END:VCALENDAR

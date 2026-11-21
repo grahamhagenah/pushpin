@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:45722ca957e5af196f8b2cdcb73ca5d74a7c992a@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T160000Z
+DTEND:20261122T180000Z
+SUMMARY:Little Fugitive
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/little-fugitive-ffjr-2026
+URL:https://filmforum.org/film/little-fugitive-ffjr-2026
+END:VEVENT
+END:VCALENDAR

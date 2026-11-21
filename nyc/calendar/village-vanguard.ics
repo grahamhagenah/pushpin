@@ -1,0 +1,509 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Village Vanguard
+X-WR-CALDESC:What’s coming up at Village Vanguard\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:2b6a5c402df32a725c7bad512a067c43e5006c91@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:John Zorn’s New Masada Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:John Zorn – Saxophone · Julian Lage – Guitar · Jorge Roed
+ er – Bass · Kenny Wollesen – Drums\nhttps://vv.squadup.com/artists/jo
+ hn-zorn-new-masada-quartet\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/john-zorn-new-masada-quartet
+END:VEVENT
+BEGIN:VEVENT
+UID:9b8c3a130f9712d2538ae67ece1da94c29335129@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:John Zorn’s New Masada Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:John Zorn – Saxophone · Julian Lage – Guitar · Jorge Roed
+ er – Bass · Kenny Wollesen – Drums\nhttps://vv.squadup.com/artists/jo
+ hn-zorn-new-masada-quartet\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/john-zorn-new-masada-quartet
+END:VEVENT
+BEGIN:VEVENT
+UID:9603b0b934bf6081f976388a0a63b932260ba41b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Jason Moran & the Bandwagon
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Jason Moran – Piano · Tarus Mateen – Bass · Nasheet Waits
+  – Drums · Devon Gates – Bass & Voice (special guest)\nhttps://vv.squ
+ adup.com/artists/jason-moran-and-the-bandwagon\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/jason-moran-and-the-bandwagon
+END:VEVENT
+BEGIN:VEVENT
+UID:e315aa687b5561e4969e82caafa2b296c1e31c3d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Jason Moran & the Bandwagon
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Jason Moran – Piano · Tarus Mateen – Bass · Nasheet Waits
+  – Drums · Devon Gates – Bass & Voice (special guest)\nhttps://vv.squ
+ adup.com/artists/jason-moran-and-the-bandwagon\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/jason-moran-and-the-bandwagon
+END:VEVENT
+BEGIN:VEVENT
+UID:cc03332c268dfd835c6992ddd5643232de60154f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Jason Moran & the Bandwagon
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Jason Moran – Piano · Tarus Mateen – Bass · Nasheet Waits
+  – Drums · Devon Gates – Bass & Voice (special guest)\nhttps://vv.squ
+ adup.com/artists/jason-moran-and-the-bandwagon\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/jason-moran-and-the-bandwagon
+END:VEVENT
+BEGIN:VEVENT
+UID:7ab799e0a7e897463ce5949dff9be195d782cb71@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Jason Moran & the Bandwagon
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Jason Moran – Piano · Tarus Mateen – Bass · Nasheet Waits
+  – Drums · Devon Gates – Bass & Voice (special guest)\nhttps://vv.squ
+ adup.com/artists/jason-moran-and-the-bandwagon\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/jason-moran-and-the-bandwagon
+END:VEVENT
+BEGIN:VEVENT
+UID:b4e0516041c0b7929cdb38354c413f9ca47c2091@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Jason Moran & the Bandwagon
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Jason Moran – Piano · Tarus Mateen – Bass · Nasheet Waits
+  – Drums · Devon Gates – Bass & Voice (special guest)\nhttps://vv.squ
+ adup.com/artists/jason-moran-and-the-bandwagon\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/jason-moran-and-the-bandwagon
+END:VEVENT
+BEGIN:VEVENT
+UID:bf32a8d0ddf2ae3e465b3c70f8348ee0649fe98b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Jason Moran & the Bandwagon
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Jason Moran – Piano · Tarus Mateen – Bass · Nasheet Waits
+  – Drums · Devon Gates – Bass & Voice (special guest)\nhttps://vv.squ
+ adup.com/artists/jason-moran-and-the-bandwagon\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/jason-moran-and-the-bandwagon
+END:VEVENT
+BEGIN:VEVENT
+UID:13b88e15a0a2894d0bd8765dea831665a8e04579@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Christian McBride Quartet with Roy McCurdy
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Christian McBride – Bass · Jaleel Shaw – Alto Saxophone ·
+  Nicole Glover – Tenor Saxophone · Roy McCurdy – Drums\nhttps://vv.sq
+ uadup.com/artists/christian-mcbride-quartet-featuring-roy-mccurdy\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/christian-mcbride-quartet-featuring-roy-
+ mccurdy
+END:VEVENT
+BEGIN:VEVENT
+UID:e0b3382785bdfb337535a497f44c409ce3c58fbf@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Christian McBride Quartet with Roy McCurdy
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Christian McBride – Bass · Jaleel Shaw – Alto Saxophone ·
+  Nicole Glover – Tenor Saxophone · Roy McCurdy – Drums\nhttps://vv.sq
+ uadup.com/artists/christian-mcbride-quartet-featuring-roy-mccurdy\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/christian-mcbride-quartet-featuring-roy-
+ mccurdy
+END:VEVENT
+BEGIN:VEVENT
+UID:641caffea63e42ad0d1b728d0e73eb4bdaa593cb@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Christian McBride Quartet with Roy McCurdy
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Christian McBride – Bass · Jaleel Shaw – Alto Saxophone ·
+  Nicole Glover – Tenor Saxophone · Roy McCurdy – Drums\nhttps://vv.sq
+ uadup.com/artists/christian-mcbride-quartet-featuring-roy-mccurdy\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/christian-mcbride-quartet-featuring-roy-
+ mccurdy
+END:VEVENT
+BEGIN:VEVENT
+UID:5f3a3a66b2302665b85c2580debb34bb066e8543@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Christian McBride Quartet with Roy McCurdy
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Christian McBride – Bass · Jaleel Shaw – Alto Saxophone ·
+  Nicole Glover – Tenor Saxophone · Roy McCurdy – Drums\nhttps://vv.sq
+ uadup.com/artists/christian-mcbride-quartet-featuring-roy-mccurdy\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/christian-mcbride-quartet-featuring-roy-
+ mccurdy
+END:VEVENT
+BEGIN:VEVENT
+UID:372accf612bfbfcb114006bc134ffea1994410dd@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Christian McBride Quartet with Roy McCurdy
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Christian McBride – Bass · Jaleel Shaw – Alto Saxophone ·
+  Nicole Glover – Tenor Saxophone · Roy McCurdy – Drums\nhttps://vv.sq
+ uadup.com/artists/christian-mcbride-quartet-featuring-roy-mccurdy\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/christian-mcbride-quartet-featuring-roy-
+ mccurdy
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a1caa1e3f6762ab72f9765b8037f97600602bc@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Christian McBride Quartet with Roy McCurdy
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Christian McBride – Bass · Jaleel Shaw – Alto Saxophone ·
+  Nicole Glover – Tenor Saxophone · Roy McCurdy – Drums\nhttps://vv.sq
+ uadup.com/artists/christian-mcbride-quartet-featuring-roy-mccurdy\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/christian-mcbride-quartet-featuring-roy-
+ mccurdy
+END:VEVENT
+BEGIN:VEVENT
+UID:8a852b1c97bb14f98e217e2c9507e7d1f94e7cb4@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Christian McBRIDE & Inside Straight
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Christian McBride – Bass · Steve Wilson – Alto Saxophone 
+ · Warren Wolf – Vibraphone · Caelen Cardello – Piano · Carl Allen 
+ – Drums\nhttps://vv.squadup.com/artists/christian-mcbride-inside-straigh
+ t\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/christian-mcbride-inside-straight
+END:VEVENT
+BEGIN:VEVENT
+UID:2779c08bc52d5bbebd9ed840b25d5f9e60d67135@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Christian McBRIDE & Inside Straight
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Christian McBride – Bass · Steve Wilson – Alto Saxophone 
+ · Warren Wolf – Vibraphone · Caelen Cardello – Piano · Carl Allen 
+ – Drums\nhttps://vv.squadup.com/artists/christian-mcbride-inside-straigh
+ t\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/christian-mcbride-inside-straight
+END:VEVENT
+BEGIN:VEVENT
+UID:03f43ab1a6e5674deb58ecef382147cb879be307@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Christian McBRIDE & Inside Straight
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Christian McBride – Bass · Steve Wilson – Alto Saxophone 
+ · Warren Wolf – Vibraphone · Caelen Cardello – Piano · Carl Allen 
+ – Drums\nhttps://vv.squadup.com/artists/christian-mcbride-inside-straigh
+ t\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/christian-mcbride-inside-straight
+END:VEVENT
+BEGIN:VEVENT
+UID:6b4aa911470e3e8466f9bbaf9f22101f15f2d432@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Christian McBRIDE & Inside Straight
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Christian McBride – Bass · Steve Wilson – Alto Saxophone 
+ · Warren Wolf – Vibraphone · Caelen Cardello – Piano · Carl Allen 
+ – Drums\nhttps://vv.squadup.com/artists/christian-mcbride-inside-straigh
+ t\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/christian-mcbride-inside-straight
+END:VEVENT
+BEGIN:VEVENT
+UID:2132411c1bca1c81d8d9eb0d8390d63d77555d18@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Christian McBRIDE & Inside Straight
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Christian McBride – Bass · Steve Wilson – Alto Saxophone 
+ · Warren Wolf – Vibraphone · Caelen Cardello – Piano · Carl Allen 
+ – Drums\nhttps://vv.squadup.com/artists/christian-mcbride-inside-straigh
+ t\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/christian-mcbride-inside-straight
+END:VEVENT
+BEGIN:VEVENT
+UID:79890d6fe3a918d70570f1031d10146a7fe486ea@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Christian McBRIDE & Inside Straight
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Christian McBride – Bass · Steve Wilson – Alto Saxophone 
+ · Warren Wolf – Vibraphone · Caelen Cardello – Piano · Carl Allen 
+ – Drums\nhttps://vv.squadup.com/artists/christian-mcbride-inside-straigh
+ t\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/christian-mcbride-inside-straight
+END:VEVENT
+BEGIN:VEVENT
+UID:e29f276049f270d79d41275d93a9517e5f04bc69@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Kenny Barron Sextet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Kenny Barron – Piano · Immanuel Wilkins – Saxophone · Ele
+ na Pinderhughes – Flute · Gregoire Maret – Harmonica · Kenoa Mendenh
+ all – Bass · Johnathan Blake – Drums\nhttps://vv.squadup.com/artists/
+ kenny-barron-sextet\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/kenny-barron-sextet
+END:VEVENT
+BEGIN:VEVENT
+UID:6f2a9e413d0100750aa0cca70dc78ea9465751f0@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Kenny Barron Sextet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Kenny Barron – Piano · Immanuel Wilkins – Saxophone · Ele
+ na Pinderhughes – Flute · Gregoire Maret – Harmonica · Kenoa Mendenh
+ all – Bass · Johnathan Blake – Drums\nhttps://vv.squadup.com/artists/
+ kenny-barron-sextet\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/kenny-barron-sextet
+END:VEVENT
+BEGIN:VEVENT
+UID:2595f44f4569abc02b633f8dab9580360a339218@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Kenny Barron Sextet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Kenny Barron – Piano · Immanuel Wilkins – Saxophone · Ele
+ na Pinderhughes – Flute · Gregoire Maret – Harmonica · Kenoa Mendenh
+ all – Bass · Johnathan Blake – Drums\nhttps://vv.squadup.com/artists/
+ kenny-barron-sextet\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/kenny-barron-sextet
+END:VEVENT
+BEGIN:VEVENT
+UID:812bcd360b506e0f3c38d67e7029c47551d654d5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Kenny Barron Sextet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Kenny Barron – Piano · Immanuel Wilkins – Saxophone · Ele
+ na Pinderhughes – Flute · Gregoire Maret – Harmonica · Kenoa Mendenh
+ all – Bass · Johnathan Blake – Drums\nhttps://vv.squadup.com/artists/
+ kenny-barron-sextet\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/kenny-barron-sextet
+END:VEVENT
+BEGIN:VEVENT
+UID:da75edb55a1196c93389be885a95a4f127e60dab@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Kenny Barron Sextet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Kenny Barron – Piano · Immanuel Wilkins – Saxophone · Ele
+ na Pinderhughes – Flute · Gregoire Maret – Harmonica · Kenoa Mendenh
+ all – Bass · Johnathan Blake – Drums\nhttps://vv.squadup.com/artists/
+ kenny-barron-sextet\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/kenny-barron-sextet
+END:VEVENT
+BEGIN:VEVENT
+UID:237f9691b7617627844cc4cbe98ac75c849e4df1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Kenny Barron Sextet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Kenny Barron – Piano · Immanuel Wilkins – Saxophone · Ele
+ na Pinderhughes – Flute · Gregoire Maret – Harmonica · Kenoa Mendenh
+ all – Bass · Johnathan Blake – Drums\nhttps://vv.squadup.com/artists/
+ kenny-barron-sextet\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/kenny-barron-sextet
+END:VEVENT
+BEGIN:VEVENT
+UID:3719fb933f5c5eb6b85de239128e625306fc00ff@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Kenny Barron Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Riko Sasaki – Saxophone · Kenny Barron – Piano · Dezron D
+ ouglas – Bass · Johnathan Blake – Drums\nhttps://vv.squadup.com/artis
+ ts/kenny-barron-quartet\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/kenny-barron-quartet
+END:VEVENT
+BEGIN:VEVENT
+UID:a4b9691bd0432c58cd05efaa0de363cc70ba01b6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Kenny Barron Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Riko Sasaki – Saxophone · Kenny Barron – Piano · Dezron D
+ ouglas – Bass · Johnathan Blake – Drums\nhttps://vv.squadup.com/artis
+ ts/kenny-barron-quartet\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/kenny-barron-quartet
+END:VEVENT
+BEGIN:VEVENT
+UID:4ecf44e636d86146be82208f43fcd6a51ad83a25@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Kenny Barron Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Riko Sasaki – Saxophone · Kenny Barron – Piano · Dezron D
+ ouglas – Bass · Johnathan Blake – Drums\nhttps://vv.squadup.com/artis
+ ts/kenny-barron-quartet\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/kenny-barron-quartet
+END:VEVENT
+BEGIN:VEVENT
+UID:c8261d50f52e7fa63d8a22baa2345e3cb4ae0eb6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Kenny Barron Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Riko Sasaki – Saxophone · Kenny Barron – Piano · Dezron D
+ ouglas – Bass · Johnathan Blake – Drums\nhttps://vv.squadup.com/artis
+ ts/kenny-barron-quartet\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/kenny-barron-quartet
+END:VEVENT
+BEGIN:VEVENT
+UID:a0a5683cf4095684bcfe370c720904bef380c65d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Kenny Barron Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Riko Sasaki – Saxophone · Kenny Barron – Piano · Dezron D
+ ouglas – Bass · Johnathan Blake – Drums\nhttps://vv.squadup.com/artis
+ ts/kenny-barron-quartet\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/kenny-barron-quartet
+END:VEVENT
+BEGIN:VEVENT
+UID:a05f1d806075efcdfbd98ce24ddab6acfe05006b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Kenny Barron Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Riko Sasaki – Saxophone · Kenny Barron – Piano · Dezron D
+ ouglas – Bass · Johnathan Blake – Drums\nhttps://vv.squadup.com/artis
+ ts/kenny-barron-quartet\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/kenny-barron-quartet
+END:VEVENT
+BEGIN:VEVENT
+UID:da7c34a897e5285d2a03e3bf85324dfe372ec3a1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Chris Potter Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Craig Taborn – Piano · Scott Colley – Bass · Marcus Gilmo
+ re – Drums\nhttps://vv.squadup.com/artists/chris-potter-quartet\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/chris-potter-quartet
+END:VEVENT
+BEGIN:VEVENT
+UID:087590520a35a4993911605296b541e9c847e5d9@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Chris Potter Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Craig Taborn – Piano · Scott Colley – Bass · Marcus Gilmo
+ re – Drums\nhttps://vv.squadup.com/artists/chris-potter-quartet\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/chris-potter-quartet
+END:VEVENT
+BEGIN:VEVENT
+UID:dc668cffe9626a419fe0704992d561e9a868ad50@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Chris Potter Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Craig Taborn – Piano · Scott Colley – Bass · Marcus Gilmo
+ re – Drums\nhttps://vv.squadup.com/artists/chris-potter-quartet\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/chris-potter-quartet
+END:VEVENT
+BEGIN:VEVENT
+UID:b69a8911792d26179147e2d5f0018ff9a004fc8b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:New Year’s Eve 2027 with Chris Potter Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Craig Taborn – Piano · Scott Colley – Bass · Marcus Gilmo
+ re – Drums\nhttps://vv.squadup.com/artists/nye-2027-chris-potter-quartet
+ \nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/nye-2027-chris-potter-quartet
+END:VEVENT
+BEGIN:VEVENT
+UID:e65699c03f9cc307a2f032581111d423091e9d6f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Chris Potter Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Craig Taborn – Piano · Scott Colley – Bass · Marcus Gilmo
+ re – Drums\nhttps://vv.squadup.com/artists/chris-potter-quartet\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/chris-potter-quartet
+END:VEVENT
+BEGIN:VEVENT
+UID:d72c291c81a5b20d69137f1a2dfa19b0aba1f910@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Chris Potter Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Craig Taborn – Piano · Scott Colley – Bass · Marcus Gilmo
+ re – Drums\nhttps://vv.squadup.com/artists/chris-potter-quartet\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/chris-potter-quartet
+END:VEVENT
+BEGIN:VEVENT
+UID:7312e460346c35684f0fa19df270341900dadae6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Chris Potter Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:Craig Taborn – Piano · Scott Colley – Bass · Marcus Gilmo
+ re – Drums\nhttps://vv.squadup.com/artists/chris-potter-quartet\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://vv.squadup.com/artists/chris-potter-quartet
+END:VEVENT
+END:VCALENDAR

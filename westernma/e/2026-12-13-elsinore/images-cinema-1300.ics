@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d77fa0f7eec133ac22315726414be992fb5479b6@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T180000Z
+DTEND:20261213T200000Z
+SUMMARY:Elsinore
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/elsinore
+URL:https://www.imagescinema.org/movie/elsinore
+END:VEVENT
+END:VCALENDAR

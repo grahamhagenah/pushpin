@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bcdca2e2bc2c01341efc3d32e1acf3b39f28a319@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:Club Kid
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.somervilletheatre.com/production/club-kid/
+URL:https://www.somervilletheatre.com/production/club-kid/
+END:VEVENT
+END:VCALENDAR

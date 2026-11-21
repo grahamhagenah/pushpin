@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:df5c754fe8d5e8042c3d051aec5a013e26e74f70@pushpin.city
+DTSTAMP:20261221T000000Z
+DTSTART:20261222T010000Z
+DTEND:20261222T030000Z
+SUMMARY:Sweet Petunia
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/sweet-petunia/
+URL:https://www.passim.org/live-music/events/sweet-petunia/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:923efa5221dbb5b054b0e88547ce2e1854d996e8@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T163000Z
+DTEND:20261220T183000Z
+SUMMARY:The Preacher's Wife
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/the-preachers-wi
+ fe/
+URL:https://nitehawkcinema.com/williamsburg/movies/the-preachers-wife/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bf095950b34ce40ff703533b252cb8f2b21653ce@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T214500Z
+DTEND:20261122T234500Z
+SUMMARY:Club Kid
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/club-kid
+URL:https://amherstcinema.org/films-and-events/club-kid
+END:VEVENT
+END:VCALENDAR

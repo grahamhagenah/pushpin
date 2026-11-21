@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:79e6f2a727a3cee211ab672a6e59db700302ad8b@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T023000Z
+DTEND:20261125T043000Z
+SUMMARY:Boyz n the Hood
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/boyz-n-the-hood/
+URL:https://nitehawkcinema.com/williamsburg/movies/boyz-n-the-hood/
+END:VEVENT
+END:VCALENDAR

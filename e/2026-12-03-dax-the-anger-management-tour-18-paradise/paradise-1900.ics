@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:87207ef117294959c3f5d3a29050c1881e735a30@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:DAX - The Anger Management Tour (18+)
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/dax-the-anger-management-tour-18-b
+ oston-massachusetts-12-03-2026/event/010064AEC6FA7601
+URL:https://www.ticketmaster.com/dax-the-anger-management-tour-18-boston-ma
+ ssachusetts-12-03-2026/event/010064AEC6FA7601
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:29fb9dc4ebf842b105935f35eedbd81e40d2e87b@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261123T171500Z
+DTEND:20261123T191500Z
+SUMMARY:Rome\, Open City
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/rome-open-city-rossellini-120
+URL:https://filmforum.org/film/rome-open-city-rossellini-120
+END:VEVENT
+END:VCALENDAR

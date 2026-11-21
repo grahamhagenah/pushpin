@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0dbf423f71d9df13f89f0f2f47011e9a5f942bc4@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T010000Z
+DTEND:20261123T030000Z
+SUMMARY:Henry Threadgill’s Zooid
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/henry-threadgill-zooid-cut-you-where
+ -you-was/
+URL:https://roulette.org/event/henry-threadgill-zooid-cut-you-where-you-was
+ /
+END:VEVENT
+END:VCALENDAR

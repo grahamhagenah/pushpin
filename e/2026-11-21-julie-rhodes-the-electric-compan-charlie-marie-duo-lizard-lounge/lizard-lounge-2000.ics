@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3861e5c5a67b3cea8ceda56ee6b2fa50c04cdcd7@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:Julie Rhodes & The Electric Compan/Charlie Marie Duo
+LOCATION:Lizard Lounge\, 1667 Massachusetts Ave\, Cambridge\, MA 02138
+DESCRIPTION:https://lizardloungeclub.com/event/julie-rhodes-and-the-electri
+ c-company-2/
+URL:https://lizardloungeclub.com/event/julie-rhodes-and-the-electric-compan
+ y-2/
+END:VEVENT
+END:VCALENDAR

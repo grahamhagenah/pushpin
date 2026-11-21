@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a47ffbff91c089f7155e51d1edcfb8b75bb82f2e@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T220000Z
+DTEND:20261122T000000Z
+SUMMARY:Matinee Social Club: 90s vs. 00s Decade Battle
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/mscnov26nyc/
+URL:https://lpr.com/lpr_events/mscnov26nyc/
+END:VEVENT
+END:VCALENDAR

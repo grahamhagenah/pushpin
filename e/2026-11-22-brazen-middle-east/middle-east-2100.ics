@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c9b2ad7496708859388037560d9fd3f76cc68929@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T020000Z
+DTEND:20261123T040000Z
+SUMMARY:Brazen
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/brazen-middle-east-cornerbakery
+ -tickets/14441344?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/brazen-middle-east-cornerbakery-tickets
+ /14441344?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

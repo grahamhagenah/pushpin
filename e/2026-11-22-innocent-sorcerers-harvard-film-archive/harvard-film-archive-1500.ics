@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8ec7f1f94f7595ddee306cd7d66e66e4ad624a08@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
+SUMMARY:Innocent Sorcerers
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardfilmarchive.org/calendar/innocent-sorcerers-2026
+ -11
+URL:https://harvardfilmarchive.org/calendar/innocent-sorcerers-2026-11
+END:VEVENT
+END:VCALENDAR

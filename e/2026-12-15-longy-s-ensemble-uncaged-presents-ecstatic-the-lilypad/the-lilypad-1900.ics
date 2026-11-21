@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:52591b8a6024ead07c1aa6832a54ee8abdc42f99@pushpin.city
+DTSTAMP:20261215T000000Z
+DTSTART:20261216T000000Z
+DTEND:20261216T020000Z
+SUMMARY:Longy's Ensemble Uncaged Presents: Ecstatic
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/12/15/longys-ensemble-un
+ caged-presents-ecstatic
+URL:https://www.lilypadinman.com/home/2026/12/15/longys-ensemble-uncaged-pr
+ esents-ecstatic
+END:VEVENT
+END:VCALENDAR

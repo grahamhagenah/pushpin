@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5cb064ec930f3de2036a89c6df3bf2e1a987383e@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T171501Z
+DTEND:20261121T191501Z
+SUMMARY:Tally Brown\, New York
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/tally-brown-new-
+ york/
+URL:https://nitehawkcinema.com/prospectpark/movies/tally-brown-new-york/
+END:VEVENT
+END:VCALENDAR

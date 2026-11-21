@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab163cab4e544d31b10ebf9f2aa71110210e9305@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T220000Z
+DTEND:20261214T000000Z
+SUMMARY:Lady Ray and Her Jazz Birds
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/lady-ray-and-her-jazz-birds-
+ 9/
+URL:https://artsatthearmory.org/events/lady-ray-and-her-jazz-birds-9/
+END:VEVENT
+END:VCALENDAR

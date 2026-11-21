@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:33f30d057c7e1e204c7ea5d4e8203d2dbb5e65bb@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T024500Z
+DTEND:20261124T044500Z
+SUMMARY:Club Kid
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/club-kid/
+URL:https://nitehawkcinema.com/prospectpark/movies/club-kid/
+END:VEVENT
+END:VCALENDAR

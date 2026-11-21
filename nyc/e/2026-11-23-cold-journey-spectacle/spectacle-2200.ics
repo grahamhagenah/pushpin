@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8d38de92701718accec48781dc446a0fd94b6f5c@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T030000Z
+DTEND:20261124T050000Z
+SUMMARY:Cold Journey
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/journey-through-the-past-70s-c
+ anadian-classics/
+URL:https://www.spectacletheater.com/journey-through-the-past-70s-canadian-
+ classics/
+END:VEVENT
+END:VCALENDAR

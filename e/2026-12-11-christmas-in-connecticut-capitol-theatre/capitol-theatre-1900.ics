@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:accf03151db88a98059a47e2cacf2fec14c0b370@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Christmas in Connecticut
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:https://www.capitoltheatreusa.com/movie/christmas-in-connecticu
+ t/
+URL:https://www.capitoltheatreusa.com/movie/christmas-in-connecticut/
+END:VEVENT
+END:VCALENDAR

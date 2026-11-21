@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6db394e4f4904e836d29660cdde42a0bd5db0443@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261124T214500Z
+DTEND:20261124T234500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/only-living-pickpock
+ et-new-york
+URL:https://amherstcinema.org/films-and-events/only-living-pickpocket-new-y
+ ork
+END:VEVENT
+END:VCALENDAR

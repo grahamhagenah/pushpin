@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8e88c6a92687ae0959964cf4aadd1cd0a5ed2d2f@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:Focker-in-Law
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/focker-in-law
+URL:https://www.westnewtoncinema.com/movie/focker-in-law
+END:VEVENT
+END:VCALENDAR

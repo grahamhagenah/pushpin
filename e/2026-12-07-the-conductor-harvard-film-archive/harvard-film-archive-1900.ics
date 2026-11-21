@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:767edf82b121ec225c29d0beb746c3122565bbc7@pushpin.city
+DTSTAMP:20261207T000000Z
+DTSTART:20261208T000000Z
+DTEND:20261208T020000Z
+SUMMARY:The Conductor
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardfilmarchive.org/calendar/the-conductor-2026-12
+URL:https://harvardfilmarchive.org/calendar/the-conductor-2026-12
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0d57107af5688df00bea3fc5bc866c4536e25a6d@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T000000Z
+DTEND:20261125T020000Z
+SUMMARY:Chicken Shop Date: The Final Series
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/chicken-shop-date-the-final-ser
+ ies/
+URL:https://www.ifccenter.com/films/chicken-shop-date-the-final-series/
+END:VEVENT
+END:VCALENDAR

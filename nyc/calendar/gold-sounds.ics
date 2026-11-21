@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Gold Sounds
+X-WR-CALDESC:What’s coming up at Gold Sounds\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:023ecbe9957fc6bdacef6d2c9b76d45f4c2832a8@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T000000Z
+DTEND:20261122T020000Z
+SUMMARY:MICHAEL YOUNKER // SHORT PORCH // COLD DICE // BAD GUY NETWORK // S
+ OMETHING BITTER
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6aeb1248fb76170001206235\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aeb1248fb76170001206235
+END:VEVENT
+BEGIN:VEVENT
+UID:1c724e7b7b6ac8c7abdc8bbed94b0a4385255f8c@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T034500Z
+DTEND:20261122T054500Z
+SUMMARY:Dark Dance DJ night: Goth\, Darkwave\, Post Punk
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6b00925c8e2e3900012b5e89\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6b00925c8e2e3900012b5e89
+END:VEVENT
+BEGIN:VEVENT
+UID:9a5752d091b13ae952b246711300d7e2baf7cf20@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T003000Z
+DTEND:20261123T023000Z
+SUMMARY:Dethwish //Ludoh // Tilt //TÜF
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ad6beec4e2c3400019d23d5\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad6beec4e2c3400019d23d5
+END:VEVENT
+BEGIN:VEVENT
+UID:d391876cb9758f5d5d366907b7038554a5b253e6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T000000Z
+DTEND:20261124T020000Z
+SUMMARY:Lose Sight\, Against The World\, New Society +
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ad6282e252ce60001779f89\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad6282e252ce60001779f89
+END:VEVENT
+BEGIN:VEVENT
+UID:a3f6b0ddfed49ee9d8048b9632119f9d78965144@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Selendis Sebastian Alexander Johnson Big Band // Office Hours // Di
+ tch
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af5e23b78c10b000126aca1\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af5e23b78c10b000126aca1
+END:VEVENT
+BEGIN:VEVENT
+UID:c627b724a36e59b2c016b14e4606f29b37b8183e@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:At Risk // Sober Bill // Falco the Owl
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af226ecdc27ff0001dddefd\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af226ecdc27ff0001dddefd
+END:VEVENT
+BEGIN:VEVENT
+UID:3a38f52f322e8a97167dfad4c34c845c5a04b092@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:BEAST FROM THE EAST // STREETS OF RAGE PAHC // CROOKS DIE SLOW // I
+ NHUMANE // DEAD & VIOLATED
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af5472a2000850001cf20f1\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af5472a2000850001cf20f1
+END:VEVENT
+BEGIN:VEVENT
+UID:5bdb5a6abbbc076d62bede42fdbfa915bbc8f38d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261203T003000Z
+DTEND:20261203T023000Z
+SUMMARY:Fight Music // Poor York // Anna Sun
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af21402b93e4f00013fc452\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af21402b93e4f00013fc452
+END:VEVENT
+BEGIN:VEVENT
+UID:af0460274d37a859f1d06694f37295644e81f3c6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T003000Z
+DTEND:20261204T023000Z
+SUMMARY:Everly Estelle // Alester // Hazzard // Anthony Dibella
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af4abfc9b13f30001b5befd\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af4abfc9b13f30001b5befd
+END:VEVENT
+BEGIN:VEVENT
+UID:3548a0a9e8dd1c43b4831b44430dab54823c3fc3@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:Pyrrhon\, Worm Altar\, Death Posession\, Convulsant
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ac9070417765b000149906c\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ac9070417765b000149906c
+END:VEVENT
+BEGIN:VEVENT
+UID:27ad77d85ac19f453ed6d53981a8ac26f3f62528@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:The Smashing Times// Mairead Band (record release) // John Grilp //
+  Dj Starcleaner Reunion & Tuesday
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af9fef225a1a1000136d4ce\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af9fef225a1a1000136d4ce
+END:VEVENT
+BEGIN:VEVENT
+UID:f6ab075a919aea2d4ed19087d4036f6af05fa082@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T220000Z
+DTEND:20261207T000000Z
+SUMMARY:Windsor Market // All Hat Electric // Revolving Ghost
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6afa060843605700019c329b\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afa060843605700019c329b
+END:VEVENT
+BEGIN:VEVENT
+UID:246684700c1171591e25a01e04a40c89ca2dcfdc@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261208T003000Z
+DTEND:20261208T023000Z
+SUMMARY:Figure Eighty // halfway up a jagged hill // Proofreader // Water F
+ or Thieves
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6afde61635d49e0001bc5d77\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afde61635d49e0001bc5d77
+END:VEVENT
+BEGIN:VEVENT
+UID:72f451066702f99f8a4bbe216501a9c00b5cc685@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261210T003000Z
+DTEND:20261210T023000Z
+SUMMARY:Suburban Drugs // Lather! // It's Worse
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af4c851f0373b0001e87d3f\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af4c851f0373b0001e87d3f
+END:VEVENT
+BEGIN:VEVENT
+UID:f49c4c20808b95c2021277a2667d5ea2db0e544c@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261211T003000Z
+DTEND:20261211T023000Z
+SUMMARY:Love of Everything  // True Summit // Animal\, Surrender !
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af5ea815673f900016f6f67\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af5ea815673f900016f6f67
+END:VEVENT
+BEGIN:VEVENT
+UID:1d6e0cf4a775c556971231e315ef2c2b480f9613@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:Halo3 // En Plastic // Dream Share (ep release) //shea on air // Te
+ mbien
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6adbe04a79b9350001cdd7f7\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6adbe04a79b9350001cdd7f7
+END:VEVENT
+BEGIN:VEVENT
+UID:557edbcc1bf8b3ecc1dd0629c758bfc236adbba7@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261215T000000Z
+DTEND:20261215T020000Z
+SUMMARY:Massa Nera // Shy\, Low // Burial Dance // Mayakovsky
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6afd4fe035994c00011354de\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afd4fe035994c00011354de
+END:VEVENT
+BEGIN:VEVENT
+UID:d39b581093001c9e0d52eaf384d071c6661e9621@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261218T003000Z
+DTEND:20261218T023000Z
+SUMMARY:Ryan Pennock & The Real Friends // Sleeptalker // Deathblow // Nick
+  Chiapparino
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af9fd3143605700011ebb4f\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af9fd3143605700011ebb4f
+END:VEVENT
+BEGIN:VEVENT
+UID:38c4f2d0f3835458d7a1a460caf72cc4113ed321@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261228T003000Z
+DTEND:20261228T023000Z
+SUMMARY:Gursday // Meserve // Soft Spot // Flatliner
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ae23e73c68aac000187765b\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ae23e73c68aac000187765b
+END:VEVENT
+BEGIN:VEVENT
+UID:3d25ea605df89a3f1786c0c8d89e7ee2293626a6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20270111T000000Z
+DTEND:20270111T020000Z
+SUMMARY:Waiver.\, Sunday Morning\, Wormbound\, Pursuit +
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af1f4a1dda6be000180dd90\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af1f4a1dda6be000180dd90
+END:VEVENT
+BEGIN:VEVENT
+UID:ff51dc5150c52205ec27440e1c67acefdbd382ee@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20270117T000000Z
+DTEND:20270117T020000Z
+SUMMARY:Outta Pocket\, Special Move\, Humiliate +
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ae90515d94d1900013c9547\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ae90515d94d1900013c9547
+END:VEVENT
+END:VCALENDAR

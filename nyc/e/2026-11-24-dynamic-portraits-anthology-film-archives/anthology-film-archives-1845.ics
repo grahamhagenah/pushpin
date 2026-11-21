@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4e763af798acd431383a0076782322c9647758e5@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261124T234500Z
+DTEND:20261125T014500Z
+SUMMARY:Dynamic Portraits
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62306
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62306
+END:VEVENT
+END:VCALENDAR

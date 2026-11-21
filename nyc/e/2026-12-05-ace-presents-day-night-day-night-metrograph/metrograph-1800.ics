@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d786dd59e11612d90af6ae1ac3596ecc6b10e504@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T230000Z
+DTEND:20261206T010000Z
+SUMMARY:ACE Presents: Day Night Day Night
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005122-ace-presents-day-night-d
+ ay-night/
+URL:https://metrograph.com/film/9999005122-ace-presents-day-night-day-night
+ /
+END:VEVENT
+END:VCALENDAR

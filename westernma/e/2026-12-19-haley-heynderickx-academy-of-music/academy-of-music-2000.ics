@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2ed2d76ad939bed3ec162bba1867d0523704f0dd@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261220T010000Z
+DTEND:20261220T030000Z
+SUMMARY:Haley Heynderickx
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/haley-heynderickx/
+URL:https://aomtheatre.com/aom_event/haley-heynderickx/
+END:VEVENT
+END:VCALENDAR

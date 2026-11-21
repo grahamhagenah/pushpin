@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5d0e0a042d8f187f8d94b689cd682f3d7d67e7b2@pushpin.city
+DTSTAMP:20261126T000000Z
+DTSTART:20261126T230000Z
+DTEND:20261127T010000Z
+SUMMARY:Hexed
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/hexed
+URL:https://www.westnewtoncinema.com/movie/hexed
+END:VEVENT
+END:VCALENDAR

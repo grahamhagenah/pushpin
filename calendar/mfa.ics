@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · MFA
+X-WR-CALDESC:What’s coming up at MFA\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:19291b931d8dfb710fd31bde935c6bd3b2782078@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:In a Whisper (À voix basse)
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/in-a-whisper-a-voix-basse?event=
+ 181736\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/film/in-a-whisper-a-voix-basse?event=181736
+END:VEVENT
+BEGIN:VEVENT
+UID:f2e81d231378680c965953309eb2a8f4b269503f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T180000Z
+DTEND:20261122T200000Z
+SUMMARY:Mickey & Richard
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/mickey-richard?event=181746\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/film/mickey-richard?event=181746
+END:VEVENT
+BEGIN:VEVENT
+UID:f41291821cdcc1a21c0a3b354615cc0d08083c11@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:The Art of the Greek Laouto
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/music/the-art-of-the-greek-laouto?eve
+ nt=179121\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/music/the-art-of-the-greek-laouto?event=17912
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:829a4c7aef31f75d10be478fd5fdda1654c0cb74@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261202T180000Z
+DTEND:20261202T200000Z
+SUMMARY:Presses\, Plates\, and Propaganda: 18th-Century Print Culture in th
+ e Americas
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/presses-plates-and-propaganda
+ -18th-century-print-culture-in-the-americas?event=178431\nFrom Pushpin Bos
+ ton: https://pushpin.city/
+URL:https://www.mfa.org/event/lecture/presses-plates-and-propaganda-18th-ce
+ ntury-print-culture-in-the-americas?event=178431
+END:VEVENT
+BEGIN:VEVENT
+UID:9e993b79f7750139a7008e8bcd8d89f15754f471@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Mo Rocca’s Variety Pack Approach to Living
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity
+ -lectures/mo-roccas-variety-pack-approach-to-living?event=178931\nFrom Pus
+ hpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity-lecture
+ s/mo-roccas-variety-pack-approach-to-living?event=178931
+END:VEVENT
+BEGIN:VEVENT
+UID:a2a0120da3f90532db1441698aff72e4251b0dac@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T230000Z
+DTEND:20261205T010000Z
+SUMMARY:First Fridays
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/mfa-first-fridays?event
+ =179356\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/special-event/mfa-first-fridays?event=179356
+END:VEVENT
+BEGIN:VEVENT
+UID:eb6618106603525b65b9cc03e25d33891bc4f386@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Royal Portraiture of Amenhotep III at Thebes
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/barbara-w-herman-memorial-lecture/roy
+ al-portraiture-of-amenhotep-iii-at-thebes?event=179111\nFrom Pushpin Bosto
+ n: https://pushpin.city/
+URL:https://www.mfa.org/event/barbara-w-herman-memorial-lecture/royal-portr
+ aiture-of-amenhotep-iii-at-thebes?event=179111
+END:VEVENT
+BEGIN:VEVENT
+UID:e7af131357ccf4cb8f7e091980fd53b505536914@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T150000Z
+DTEND:20261206T170000Z
+SUMMARY:Hanukkah
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/hanukkah?event=6043\nFr
+ om Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/special-event/hanukkah?event=6043
+END:VEVENT
+BEGIN:VEVENT
+UID:712ae9a5cbf13ec6c77717dc4d601c8980496b85@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261209T180000Z
+DTEND:20261209T200000Z
+SUMMARY:Representations of Liberty in American Folk Art
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/representations-of-liberty-in
+ -american-folk-art?event=178441\nFrom Pushpin Boston: https://pushpin.city
+ /
+URL:https://www.mfa.org/event/lecture/representations-of-liberty-in-america
+ n-folk-art?event=178441
+END:VEVENT
+BEGIN:VEVENT
+UID:530120b1b7fc8393d317f3ee2866f03d772aac76@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:Millennium Gospel Choir
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/music/millennium-gospel-choir?event=1
+ 81591\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/music/millennium-gospel-choir?event=181591
+END:VEVENT
+BEGIN:VEVENT
+UID:7cba1daf134c708fc72ab4751c7bf46d57af1905@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:Millennium Gospel Choir
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/music/millennium-gospel-choir?event=1
+ 81596\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/music/millennium-gospel-choir?event=181596
+END:VEVENT
+BEGIN:VEVENT
+UID:5d9db6e2907e5b41108184039c14bc2e648db3ea@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261217T220000Z
+DTEND:20261218T000000Z
+SUMMARY:$5 Third Thursday
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/5-third-thursday-decemb
+ er-2026?event=182531\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/special-event/5-third-thursday-december-2026?
+ event=182531
+END:VEVENT
+BEGIN:VEVENT
+UID:60478376e68d2c465271b5965ad97dffc771d924@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261217T230000Z
+DTEND:20261218T010000Z
+SUMMARY:Hey Rim Jeon: Beyond Keys
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:Times: 6pm\, 7:15pm\nhttps://www.mfa.org/event/sound-bites-nanc
+ y-lee-clark-concert-series/hey-rim-jeon-beyond-keys?event=182501\nFrom Pus
+ hpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/sound-bites-nancy-lee-clark-concert-series/he
+ y-rim-jeon-beyond-keys?event=182501
+END:VEVENT
+BEGIN:VEVENT
+UID:ed68637fb89b96eec435ab55ce1c235088d0f0e5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:Millennium Gospel Choir
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/music/millennium-gospel-choir?event=1
+ 81601\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/music/millennium-gospel-choir?event=181601
+END:VEVENT
+BEGIN:VEVENT
+UID:fab12025e8d79eaa8645a0c58fc14c4e670ca4de@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261219T190000Z
+DTEND:20261219T210000Z
+SUMMARY:Millennium Gospel Choir
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/music/millennium-gospel-choir?event=1
+ 81606\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/music/millennium-gospel-choir?event=181606
+END:VEVENT
+END:VCALENDAR

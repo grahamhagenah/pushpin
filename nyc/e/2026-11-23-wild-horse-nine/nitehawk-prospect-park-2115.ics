@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fe541d994f32999a76389d605ad1d3800107de5b@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T021500Z
+DTEND:20261124T041500Z
+SUMMARY:Wild Horse Nine
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/wild-horse-nine/
+URL:https://nitehawkcinema.com/prospectpark/movies/wild-horse-nine/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fbf7b38dda237b77867a94f05c306085cfd34768@pushpin.city
+DTSTAMP:20270116T000000Z
+DTSTART:20270117T000000Z
+DTEND:20270117T020000Z
+SUMMARY:Wild Taxi
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000C9eNVMAZ
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0C9eNVMAZ
+END:VEVENT
+END:VCALENDAR

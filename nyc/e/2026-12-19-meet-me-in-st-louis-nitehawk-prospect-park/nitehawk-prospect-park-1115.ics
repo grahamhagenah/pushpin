@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eaa1e91b657fc8b1e1482bb51d2090b5d74ad327@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261219T161500Z
+DTEND:20261219T181500Z
+SUMMARY:Meet Me in St. Louis
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/meet-me-in-st-lo
+ uis/
+URL:https://nitehawkcinema.com/prospectpark/movies/meet-me-in-st-louis/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1394 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Anthology Film Archives
+X-WR-CALDESC:What’s coming up at Anthology Film Archives\, from Pushpin N
+ YC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:d0ba5239688b27572d5e32a493bcb81ab2cbb933@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T201500Z
+DTEND:20261121T221500Z
+SUMMARY:EC: Tom\, Tom\, the Piper’s Son
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62234\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62234
+END:VEVENT
+BEGIN:VEVENT
+UID:8f39671242e99e06af44b9e043843a1feb50ed16@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T220000Z
+DTEND:20261122T000000Z
+SUMMARY:Zorn I + II
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62196\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62196
+END:VEVENT
+BEGIN:VEVENT
+UID:0cd91fbc2e51a3de1728fbe83a0a6fa934480f47@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T230000Z
+DTEND:20261122T010000Z
+SUMMARY:Film NO. 5 (Smile)
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62289\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62289
+END:VEVENT
+BEGIN:VEVENT
+UID:f31035b64726b2a6535ccbade09c34efe7c43fd0@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T004500Z
+DTEND:20261122T024500Z
+SUMMARY:Barbara
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62206\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62206
+END:VEVENT
+BEGIN:VEVENT
+UID:f01f2ca037c0f765d13013c8e0ed375b1ad99b40@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:Andy Warhol’s 'screen Tests' + Conrad Ventur’s 'screen Tests Re
+ visited'\, PGM 1
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62292\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62292
+END:VEVENT
+BEGIN:VEVENT
+UID:84389649b1049540ec8b92425340eb0f35343ebf@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T194500Z
+DTEND:20261122T214500Z
+SUMMARY:EC: Lawrence Jordan
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62235\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62235
+END:VEVENT
+BEGIN:VEVENT
+UID:6c919f4f4a97dbf75a594c776e9277f368369367@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T220000Z
+DTEND:20261123T000000Z
+SUMMARY:Andy Warhol’s 'screen Tests' + Conrad Ventur’s 'screen Tests Re
+ visited'\, PGM 2
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62295\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62295
+END:VEVENT
+BEGIN:VEVENT
+UID:e53baaa200c182f91aa53fb908cffde59f63b0b8@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T223000Z
+DTEND:20261123T003000Z
+SUMMARY:Zorn III
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62202\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62202
+END:VEVENT
+BEGIN:VEVENT
+UID:2c2e416d2daad0baf2a5970755cb75dc95f53db5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T003000Z
+DTEND:20261123T023000Z
+SUMMARY:Portrait Collections
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62298\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62298
+END:VEVENT
+BEGIN:VEVENT
+UID:803874dac44d53cdcb88bc18b9aee2540f351cd3@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T004500Z
+DTEND:20261123T024500Z
+SUMMARY:Maîtres Anciens – Comédie
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62216\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62216
+END:VEVENT
+BEGIN:VEVENT
+UID:4bb20da0976f5314f070fad373958fee9716d22c@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T233000Z
+DTEND:20261124T013000Z
+SUMMARY:Portrait Studies
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62300\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62300
+END:VEVENT
+BEGIN:VEVENT
+UID:2d6dd92d37873cfc5c89313fb76037e59935d7e2@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T234500Z
+DTEND:20261124T014500Z
+SUMMARY:Hold Me Tight / Serre Moi Fort
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62210\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62210
+END:VEVENT
+BEGIN:VEVENT
+UID:5e2e25d4b417521ee541214f4b1b3cb6e66cc6db@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T014500Z
+DTEND:20261124T034500Z
+SUMMARY:Cinématon\, Program 1
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62302\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62302
+END:VEVENT
+BEGIN:VEVENT
+UID:3b1030941d1a60c7648bcd9f373fe1fc774155cd@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T021500Z
+DTEND:20261124T041500Z
+SUMMARY:Barbara
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62207\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62207
+END:VEVENT
+BEGIN:VEVENT
+UID:b43c48d37e4d628c0014248fa794b35a85d96d36@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T234500Z
+DTEND:20261125T014500Z
+SUMMARY:Dynamic Portraits
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62306\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62306
+END:VEVENT
+BEGIN:VEVENT
+UID:eb331b7caae307b7bf263fc0c89bd677fbed7c95@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T000000Z
+DTEND:20261125T020000Z
+SUMMARY:Zorn I + II
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62197\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62197
+END:VEVENT
+BEGIN:VEVENT
+UID:fc7c89c37bd109d41cee0927f80b09a56bfed04b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T013000Z
+DTEND:20261125T033000Z
+SUMMARY:Portraits of the Artist
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62309\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62309
+END:VEVENT
+BEGIN:VEVENT
+UID:ae0517995e5dde9f632a229d310f7b52e4224b09@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T233000Z
+DTEND:20261126T013000Z
+SUMMARY:Family Portraits
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62312\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62312
+END:VEVENT
+BEGIN:VEVENT
+UID:36c2b9d15f599e26aa172a41449cc30ae1b23b74@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T234500Z
+DTEND:20261126T014500Z
+SUMMARY:Zorn III
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62203\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62203
+END:VEVENT
+BEGIN:VEVENT
+UID:9e4081b0ac1dd72322026c5aed025b0aac8ab908@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T013000Z
+DTEND:20261126T033000Z
+SUMMARY:Self-Portraits
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62314\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62314
+END:VEVENT
+BEGIN:VEVENT
+UID:d85feae642b43af3e265797db20bcaaf5c82d166@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T020000Z
+DTEND:20261126T040000Z
+SUMMARY:Music Is Music + Before It's Too Late
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62213\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62213
+END:VEVENT
+BEGIN:VEVENT
+UID:923eab25e77e5724040ef6fae2822ba661ac4152@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261127T233000Z
+DTEND:20261128T013000Z
+SUMMARY:Andy Warhol’s 'screen Tests' + Conrad Ventur’s 'screen Tests Re
+ visited'\, PGM 1
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62293\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62293
+END:VEVENT
+BEGIN:VEVENT
+UID:af7717c0c94a28dc553f53a48c185740dcacdbee@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T014500Z
+DTEND:20261128T034500Z
+SUMMARY:Andy Warhol’s 'screen Tests' + Conrad Ventur’s 'screen Tests Re
+ visited'\, PGM 2
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62296\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62296
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd894087c1bcd1a5bda3b71ddc25d7c47c304a9@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T221500Z
+DTEND:20261129T001500Z
+SUMMARY:EC: Jennings / Kirsanoff
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62236\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62236
+END:VEVENT
+BEGIN:VEVENT
+UID:e45327d6a0ca52e5441ef52d48d8193558da396b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:Portraits of the Artist
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62310\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62310
+END:VEVENT
+BEGIN:VEVENT
+UID:99c0d52dcf6622fe55a20d14d94e1f550518ecc2@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:EC: The General
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62237\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62237
+END:VEVENT
+BEGIN:VEVENT
+UID:2bcc7efac4559d504aa8c966f8ea5b19ae18f0b9@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Film NO. 5 (Smile)
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62290\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62290
+END:VEVENT
+BEGIN:VEVENT
+UID:277c92e19fc86100e45a63a24909f7f3f0d8c40f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T214500Z
+DTEND:20261129T234500Z
+SUMMARY:EC: Rapt
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62239\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62239
+END:VEVENT
+BEGIN:VEVENT
+UID:2b6cdcc3b1998e555bdb0f1f9568407cddc00334@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T223000Z
+DTEND:20261130T003000Z
+SUMMARY:Self-Portraits
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62315\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62315
+END:VEVENT
+BEGIN:VEVENT
+UID:4961b1786337b996f999afe16b27810767c788f3@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:EC: The General
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62238\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62238
+END:VEVENT
+BEGIN:VEVENT
+UID:e2d54af1da781d36ecb193442510756656e1685e@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261130T003000Z
+DTEND:20261130T023000Z
+SUMMARY:Dynamic Portraits
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62307\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62307
+END:VEVENT
+BEGIN:VEVENT
+UID:34fca22d75be28d9ad3e79c659dc0478b8aa6c55@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261130T233000Z
+DTEND:20261201T013000Z
+SUMMARY:Cinématon\, Program 2
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62304\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62304
+END:VEVENT
+BEGIN:VEVENT
+UID:a8c138e80dcb5d1a02b499d7b257142ab9029f03@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261201T000000Z
+DTEND:20261201T020000Z
+SUMMARY:Day With(Out) Art 2026: Seeds in a Dying Colony (Free Screening!)
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62184\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62184
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7ab215f88fbdd6a0159552f84866a1f3bc1a6f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261201T014500Z
+DTEND:20261201T034500Z
+SUMMARY:Galaxie
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62285\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62285
+END:VEVENT
+BEGIN:VEVENT
+UID:a5faac4175f241395ccf4a612a5b0ded61d49fd4@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261201T234500Z
+DTEND:20261202T014500Z
+SUMMARY:Presences + Doppelganger
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62317\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62317
+END:VEVENT
+BEGIN:VEVENT
+UID:9085045607298aadeac47032d7353dcea43cc7bb@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261202T013000Z
+DTEND:20261202T033000Z
+SUMMARY:Eat + Blow Job
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62319\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62319
+END:VEVENT
+BEGIN:VEVENT
+UID:e422b5a7e5c5cc9cf133ef7478af9d04d58bad55@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261203T003000Z
+DTEND:20261203T023000Z
+SUMMARY:Millennium Film Journal NO. 84 Launch Screening
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62421\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62421
+END:VEVENT
+BEGIN:VEVENT
+UID:239aa85591cdf6aeabbf0b921ae87b0b94302362@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Mono No Aware XX: East Facing West
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62430\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62430
+END:VEVENT
+BEGIN:VEVENT
+UID:d05dde95df8f79e551adff0ec7aeaeed80c329bd@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T233000Z
+DTEND:20261205T013000Z
+SUMMARY:New Yorkers + Before the First Word
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62360\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62360
+END:VEVENT
+BEGIN:VEVENT
+UID:16901853d073acb13e747e4aec70904beffd7173@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:Every Contact Leaves a Trace
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62327\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62327
+END:VEVENT
+BEGIN:VEVENT
+UID:1c3558b3aeb2fbc663a23eef2d4a44b426b3dbb8@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T014500Z
+DTEND:20261205T034500Z
+SUMMARY:Brighton Beach
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62363\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62363
+END:VEVENT
+BEGIN:VEVENT
+UID:f3891ff98f720b531a08fb07ca0373b660a570b3@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T221500Z
+DTEND:20261206T001500Z
+SUMMARY:Paradox on 72ND Street
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62366\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62366
+END:VEVENT
+BEGIN:VEVENT
+UID:789b07902ee0925b64eb0ae774bf1f6ead9cbada@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T223000Z
+DTEND:20261206T003000Z
+SUMMARY:Every Contact Leaves a Trace
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62328\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62328
+END:VEVENT
+BEGIN:VEVENT
+UID:b8497f8b7797d4c35806b302eca727c9213a671b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:The Social Life of Small Urban Spaces
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62369\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62369
+END:VEVENT
+BEGIN:VEVENT
+UID:1dc6fcd726b8eef2104c4299649c35285c94ae57@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Precipice (Filmmaker in Person!)
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62401\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62401
+END:VEVENT
+BEGIN:VEVENT
+UID:640ffdcb0200a303c3c246c9db9669bcfdb4e73e@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T014500Z
+DTEND:20261206T034500Z
+SUMMARY:What Is the City but the People?
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62372\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62372
+END:VEVENT
+BEGIN:VEVENT
+UID:0b51b3e68d5875b04636fe323086833b0ed6b4d9@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T200000Z
+DTEND:20261206T220000Z
+SUMMARY:Cinexpérimentaux: A Meeting with Abigail Child
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62405\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62405
+END:VEVENT
+BEGIN:VEVENT
+UID:69a8cd9d9ba1ae22313455657cf4485eba189822@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T220000Z
+DTEND:20261207T000000Z
+SUMMARY:Third Avenue: Only the Strong Survive
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62375\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62375
+END:VEVENT
+BEGIN:VEVENT
+UID:8ca06ca53e7310143f13e20ac225d9c597f3498a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T223000Z
+DTEND:20261207T003000Z
+SUMMARY:Precipice (Filmmaker in Person!)
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62402\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62402
+END:VEVENT
+BEGIN:VEVENT
+UID:315551fd372c7f305dfd01b380dea2a5c9fb0322@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261207T003000Z
+DTEND:20261207T023000Z
+SUMMARY:What Is the City: Dean + Newsreel + Danska
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62378\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62378
+END:VEVENT
+BEGIN:VEVENT
+UID:d4907c27d46449e7f3806ce636116895031c9ab5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261207T010000Z
+DTEND:20261207T030000Z
+SUMMARY:Every Contact Leaves a Trace
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62329\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62329
+END:VEVENT
+BEGIN:VEVENT
+UID:c4e83f4cf5a765ad3fe67c7a537777b5876eb7ce@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261207T233000Z
+DTEND:20261208T013000Z
+SUMMARY:Every Contact Leaves a Trace
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:Times: 6:30pm\, 8:45pm\nhttps://www.anthologyfilmarchives.org/f
+ ilm_screenings/calendar?view=list&month=12&year=2026#showing-62330\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62330
+END:VEVENT
+BEGIN:VEVENT
+UID:e3b9884a787b7cb9fad3baa984c0c71826828f8b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261207T234500Z
+DTEND:20261208T014500Z
+SUMMARY:Childcare + Break and Enter
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62380\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62380
+END:VEVENT
+BEGIN:VEVENT
+UID:eacb69d17fe518b8c46038b48d4d3c4ed84dfde2@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261208T013000Z
+DTEND:20261208T033000Z
+SUMMARY:Brave New York
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62382\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62382
+END:VEVENT
+BEGIN:VEVENT
+UID:d38ab63bab9fb0a3fa9147fb9731d9514de65e6d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261208T233000Z
+DTEND:20261209T013000Z
+SUMMARY:Cinexpérimentaux: A Meeting with Abigail Child
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62406\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62406
+END:VEVENT
+BEGIN:VEVENT
+UID:4fcd440f406050fcc1dfbd82ed3093950971e140@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261209T000000Z
+DTEND:20261209T020000Z
+SUMMARY:Urban Video Project
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62384\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62384
+END:VEVENT
+BEGIN:VEVENT
+UID:4a2af82eb7b1ffe1a9626a819d98af0136a27a9c@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261209T014500Z
+DTEND:20261209T034500Z
+SUMMARY:Precipice (Filmmaker in Person!)
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62403\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62403
+END:VEVENT
+BEGIN:VEVENT
+UID:6be41c6adcf36c5e5c2fb1da86816ac31d50f344@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261209T020000Z
+DTEND:20261209T040000Z
+SUMMARY:Wreck of the New York Subways + Subway City
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62386\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62386
+END:VEVENT
+BEGIN:VEVENT
+UID:57345bb490def6f72dc59bcdab2ab3730f1140ed@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261209T231500Z
+DTEND:20261210T011500Z
+SUMMARY:What Is the City: NYC Businesses
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62388\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62388
+END:VEVENT
+BEGIN:VEVENT
+UID:73ea04f05da876fd7f0d6f6c6cf466657bb8ce40@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261209T233000Z
+DTEND:20261210T013000Z
+SUMMARY:Every Contact Leaves a Trace
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:Times: 6:30pm\, 8:45pm\nhttps://www.anthologyfilmarchives.org/f
+ ilm_screenings/calendar?view=list&month=12&year=2026#showing-62332\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62332
+END:VEVENT
+BEGIN:VEVENT
+UID:175fd115c297cc8fda21c7615b1a40692ecc366f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261210T011500Z
+DTEND:20261210T031500Z
+SUMMARY:Bill Moyers Journal: Rosedale: The Way It Is
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62390\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62390
+END:VEVENT
+BEGIN:VEVENT
+UID:47a72d192cefde317a673fe213122a4b4697df38@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261210T233000Z
+DTEND:20261211T013000Z
+SUMMARY:Black Women’s Hands
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62336\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62336
+END:VEVENT
+BEGIN:VEVENT
+UID:df44ab006e289572dca7a40b6d8c5b9af8e49023@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261210T234500Z
+DTEND:20261211T014500Z
+SUMMARY:#7 Train + Chinatown + Tourist Buses Go Home!
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62396\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62396
+END:VEVENT
+BEGIN:VEVENT
+UID:ea6d1abdfef6352d45fc4cd4845e6f2f221a3cde@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261211T013000Z
+DTEND:20261211T033000Z
+SUMMARY:À Tout Prendre
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62338\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62338
+END:VEVENT
+BEGIN:VEVENT
+UID:181e0528680f8a3c09bb648c83cbed08206e980a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261211T014500Z
+DTEND:20261211T034500Z
+SUMMARY:World of Piri Thomas + El Pueblo Se Levanta
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62399\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62399
+END:VEVENT
+BEGIN:VEVENT
+UID:35278c2140db3d9364475b853b7c893fe04f06d8@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261211T233000Z
+DTEND:20261212T013000Z
+SUMMARY:Different Images
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62340\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62340
+END:VEVENT
+BEGIN:VEVENT
+UID:d5398c69119186ab30d55f68b3dad620635e1ffa@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261211T234500Z
+DTEND:20261212T014500Z
+SUMMARY:Third Avenue: Only the Strong Survive
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62376\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62376
+END:VEVENT
+BEGIN:VEVENT
+UID:d0085b5f88660aabccc4fd0443d83db764266f4b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T014500Z
+DTEND:20261212T034500Z
+SUMMARY:Simply Johanne
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62342\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62342
+END:VEVENT
+BEGIN:VEVENT
+UID:43d2cafe8b328277159aec7291647d1f072e6d75@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T020000Z
+DTEND:20261212T040000Z
+SUMMARY:New Yorkers + Before the First Word
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62361\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62361
+END:VEVENT
+BEGIN:VEVENT
+UID:e261d2b2fad0e76483ae39b89f24527fdb3c542e@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T220000Z
+DTEND:20261213T000000Z
+SUMMARY:The Social Life of Small Urban Spaces
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62370\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62370
+END:VEVENT
+BEGIN:VEVENT
+UID:b5fe4a0be964134e31512d8ba3ef50ff2ca0f9c3@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T233000Z
+DTEND:20261213T013000Z
+SUMMARY:The Sword in the Stone
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62345\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62345
+END:VEVENT
+BEGIN:VEVENT
+UID:6009fd42464cff209ab16fc279e02aa0d8e6291f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:What Is the City but the People?
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62373\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62373
+END:VEVENT
+BEGIN:VEVENT
+UID:30456a40657a0c62cdc24bfd9df5672d1ba96986@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T014500Z
+DTEND:20261213T034500Z
+SUMMARY:Wizards
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62349\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62349
+END:VEVENT
+BEGIN:VEVENT
+UID:884e676ff4cc09cb68e9d0204525bac7f0e80a28@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T020000Z
+DTEND:20261213T040000Z
+SUMMARY:Paradox on 72ND Street
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62367\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62367
+END:VEVENT
+BEGIN:VEVENT
+UID:cec4a032ffe7953cc7bb0cf42cb3007c53fe5926@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T190000Z
+DTEND:20261213T210000Z
+SUMMARY:The Orbit of Minor Satellites
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62435\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62435
+END:VEVENT
+BEGIN:VEVENT
+UID:4b8c4fa30abfa9f1fe44e099848e090b722f6719@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T223000Z
+DTEND:20261214T003000Z
+SUMMARY:Eyeworks Short Film PGM 1
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62437\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62437
+END:VEVENT
+BEGIN:VEVENT
+UID:d2e304cbe44de73d7e7ab691f0ef6cb499e0d041@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T230000Z
+DTEND:20261214T010000Z
+SUMMARY:The Magician
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62352\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62352
+END:VEVENT
+BEGIN:VEVENT
+UID:288d7ced507e6b444f7db8a93ffb33a6423952f4@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261214T010000Z
+DTEND:20261214T030000Z
+SUMMARY:Eyeworks Short Film PGM 2
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62439\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62439
+END:VEVENT
+BEGIN:VEVENT
+UID:d73a5a7e948545bdca2934baaa8a827371efd9c0@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261214T013000Z
+DTEND:20261214T033000Z
+SUMMARY:The Tempest
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62355\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62355
+END:VEVENT
+BEGIN:VEVENT
+UID:fcb3b600c3c19812b3dd13378a2482c86dfc92af@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261214T233000Z
+DTEND:20261215T013000Z
+SUMMARY:The Sword in the Stone
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62346\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62346
+END:VEVENT
+BEGIN:VEVENT
+UID:86a6b38b9e69d857fba3eb639325c020b1db9c68@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261214T234500Z
+DTEND:20261215T014500Z
+SUMMARY:Brighton Beach
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62364\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62364
+END:VEVENT
+BEGIN:VEVENT
+UID:edabd55e1e86a53a6a3c82b50a41c4b66621029a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261215T013000Z
+DTEND:20261215T033000Z
+SUMMARY:#7 Train + Chinatown + Tourist Buses Go Home!
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62397\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62397
+END:VEVENT
+BEGIN:VEVENT
+UID:f161a4069026283c8ee61e0228f50d27618019c4@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261215T014500Z
+DTEND:20261215T034500Z
+SUMMARY:The Magician
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62353\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62353
+END:VEVENT
+BEGIN:VEVENT
+UID:b3d2ef614d587a40630b6fdfc46abdfeec4b2afd@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261215T233000Z
+DTEND:20261216T013000Z
+SUMMARY:The Tempest
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62356\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62356
+END:VEVENT
+BEGIN:VEVENT
+UID:64e87a25f15912774ca11c6c83927d393b22e88c@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261215T234500Z
+DTEND:20261216T014500Z
+SUMMARY:EC: Peter Kubelka (the Complete Works): New 35MM Prints!
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62241\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62241
+END:VEVENT
+BEGIN:VEVENT
+UID:7d5b83c05d0151c96c10cf791a59ed61b07df1e0@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261216T014500Z
+DTEND:20261216T034500Z
+SUMMARY:EC: Kuchar / Lye
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62243\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62243
+END:VEVENT
+BEGIN:VEVENT
+UID:87908309a50885c7e66ff42e5d8cf124e3f463b5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261216T020000Z
+DTEND:20261216T040000Z
+SUMMARY:Wizards
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62350\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62350
+END:VEVENT
+BEGIN:VEVENT
+UID:c516f3ab90f88f6e981e11bb4faff5a38b0c9d98@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261216T233000Z
+DTEND:20261217T013000Z
+SUMMARY:The Tempest
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62357\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62357
+END:VEVENT
+BEGIN:VEVENT
+UID:63d1924d2816bdbeb3855966246ac801970ce877@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261217T000000Z
+DTEND:20261217T020000Z
+SUMMARY:(Posthumous) + No Title
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62442\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62442
+END:VEVENT
+BEGIN:VEVENT
+UID:fadd2082de1eaa81f0468a8f1db91198abc6f8f1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261217T020000Z
+DTEND:20261217T040000Z
+SUMMARY:The Sword in the Stone
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62347\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62347
+END:VEVENT
+BEGIN:VEVENT
+UID:b7d90e3fcbed9a6bbec75506c4af33524b5e6748@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261218T000000Z
+DTEND:20261218T020000Z
+SUMMARY:The Valley / Al-Wadi
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62444\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62444
+END:VEVENT
+BEGIN:VEVENT
+UID:21fb7615937ca02c5214517f4a692fd62e2eff32@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261218T234500Z
+DTEND:20261219T014500Z
+SUMMARY:Ciprì & Maresco PGM 1: Cinema
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62409\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62409
+END:VEVENT
+BEGIN:VEVENT
+UID:a86d3430a4249f18282991ac82caa36d2e1131a6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:Narrow Rooms: Terence Davies Trilogy
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62227\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62227
+END:VEVENT
+BEGIN:VEVENT
+UID:f4ab4cd97de7e1c795a2fe998f8e2e80d19f2a46@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261219T014500Z
+DTEND:20261219T034500Z
+SUMMARY:Ciprì & Maresco PGM 2: (In)human Urges
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62412\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62412
+END:VEVENT
+BEGIN:VEVENT
+UID:84efda5ad184ec518cd9a7061f36bc3415d3b29d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261219T211500Z
+DTEND:20261219T231500Z
+SUMMARY:EC: George Landow\, Aka Owen Land
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62244\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62244
+END:VEVENT
+BEGIN:VEVENT
+UID:d0253f1bd61d27c42266ffc0b7a16947dae796c1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261219T231500Z
+DTEND:20261220T011500Z
+SUMMARY:EC: Laurel and Hardy: Our Relations
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62246\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62246
+END:VEVENT
+BEGIN:VEVENT
+UID:130b7bc146d2a40540e485121db2978050a0d076@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261219T233000Z
+DTEND:20261220T013000Z
+SUMMARY:Ciprì & Maresco PGM 3: Criminal (Dis)organization
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62415\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62415
+END:VEVENT
+BEGIN:VEVENT
+UID:21bd283a265f6dc703593064dc55b2861b15ef0a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261220T011500Z
+DTEND:20261220T031500Z
+SUMMARY:EC: Léger & Murphy / Picabia & Clair / Man Ray & Duchamp
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62247\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62247
+END:VEVENT
+BEGIN:VEVENT
+UID:0406c106c2134dbc62a88797ad45972bf57e1cd5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261220T013000Z
+DTEND:20261220T033000Z
+SUMMARY:Ciprì & Maresco PGM 4: With(Out) Freedom
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62418\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62418
+END:VEVENT
+BEGIN:VEVENT
+UID:1194fc4e0eb0efab1815fade6fcc52247e508c3f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261220T210000Z
+DTEND:20261220T230000Z
+SUMMARY:EC: Christopher Maclaine
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62248\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62248
+END:VEVENT
+BEGIN:VEVENT
+UID:62d74eb9729495eb676dd07864044aaf3690a839@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261220T230000Z
+DTEND:20261221T010000Z
+SUMMARY:Mono No Aware XX: Redux Program
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62432\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62432
+END:VEVENT
+BEGIN:VEVENT
+UID:f2775cb7dd817e5ec597704b636584320471e328@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261220T233000Z
+DTEND:20261221T013000Z
+SUMMARY:Ciprì & Maresco PGM 2: (In)human Urges
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62413\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62413
+END:VEVENT
+BEGIN:VEVENT
+UID:a359ac7f4531665887a4a8d99c9706388863c4a6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261221T013000Z
+DTEND:20261221T033000Z
+SUMMARY:Ciprì & Maresco PGM 3: Criminal (Dis)organization
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62416\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62416
+END:VEVENT
+BEGIN:VEVENT
+UID:bbe28e79796475b1976ab1d933d5bc9738713e93@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261221T234500Z
+DTEND:20261222T014500Z
+SUMMARY:Ciprì & Maresco PGM 4: With(Out) Freedom
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62419\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62419
+END:VEVENT
+BEGIN:VEVENT
+UID:4aa403738ac660bba46de926c234f33d7c036506@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261222T000000Z
+DTEND:20261222T020000Z
+SUMMARY:EC: Walden (Diaries\, Notes\, and Sketches)
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62249\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62249
+END:VEVENT
+BEGIN:VEVENT
+UID:74459bd3a08d8321b4217fb08bbb736232112ca2@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261222T014500Z
+DTEND:20261222T034500Z
+SUMMARY:Ciprì & Maresco PGM 1: Cinema
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62410\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62410
+END:VEVENT
+END:VCALENDAR

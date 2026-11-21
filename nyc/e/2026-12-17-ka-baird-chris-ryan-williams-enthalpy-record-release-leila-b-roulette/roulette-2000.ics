@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1fc6118b81d856895b212250e3f479df446e7c5e@pushpin.city
+DTSTAMP:20261217T000000Z
+DTSTART:20261218T010000Z
+DTEND:20261218T030000Z
+SUMMARY:Ka Baird & Chris Ryan Williams “Enthalpy” Record Release // Lei
+ la Bordreuil & Luke Stewart
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/ka-baird-chris-ryan-williams-leila-b
+ ordreuil-luke-stewart/
+URL:https://roulette.org/event/ka-baird-chris-ryan-williams-leila-bordreuil
+ -luke-stewart/
+END:VEVENT
+END:VCALENDAR

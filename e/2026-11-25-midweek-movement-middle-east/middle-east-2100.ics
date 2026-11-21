@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fca8cdd4797340080b3f6dd84a88a906e7444a42@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261126T020000Z
+DTEND:20261126T040000Z
+SUMMARY:Midweek Movement
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/midweek-movement-middle-east-co
+ rnerbakery-tickets/14441374?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/midweek-movement-middle-east-cornerbake
+ ry-tickets/14441374?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c3352b5dba43902c01c227353091008c32c3acb6@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T000000Z
+DTEND:20261122T020000Z
+SUMMARY:A Special Night of Western Mass Hip-Hop
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/11/21/a-special-night-of
+ -western-mass-hip-hop
+URL:https://www.lilypadinman.com/home/2026/11/21/a-special-night-of-western
+ -mass-hip-hop
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:de8429e9da06b27c4c2e7d3896c588dd62ccf192@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Machine Dazzle: Changes
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:https://massmoca.org/event/machine-dazzle-changes-the-costume-d
+ esign-for-taylor-macs-a-24-decade-history-of-popular-music/
+URL:https://massmoca.org/event/machine-dazzle-changes-the-costume-design-fo
+ r-taylor-macs-a-24-decade-history-of-popular-music/
+END:VEVENT
+END:VCALENDAR

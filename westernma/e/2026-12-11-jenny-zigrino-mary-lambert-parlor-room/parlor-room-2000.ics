@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:512cac1ab8a8225aea6ad7b997f7b2520728e012@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T010000Z
+DTEND:20261212T030000Z
+SUMMARY:Jenny Zigrino + Mary Lambert
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000DCpk1MAD
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0DCpk1MAD
+END:VEVENT
+END:VCALENDAR

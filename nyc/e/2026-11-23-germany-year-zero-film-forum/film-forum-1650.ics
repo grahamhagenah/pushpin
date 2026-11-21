@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6d8075aff5bba70815a710a84ba3175e1e608663@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261123T215000Z
+DTEND:20261123T235000Z
+SUMMARY:Germany\, Year Zero
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/germany-year-zero-rossellini-120
+URL:https://filmforum.org/film/germany-year-zero-rossellini-120
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:661a1c027f819477e103b60686c1e5c3e1e91094@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T000000Z
+DTEND:20261123T020000Z
+SUMMARY:Fireside Sessions
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/11/22/fireside-sessions
+URL:https://www.lilypadinman.com/home/2026/11/22/fireside-sessions
+END:VEVENT
+END:VCALENDAR

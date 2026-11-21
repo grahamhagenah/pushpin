@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f269f98e7c2b698016b5baa42e030e193160c202@pushpin.city
+DTSTAMP:20270113T000000Z
+DTSTART:20270114T003000Z
+DTEND:20270114T023000Z
+SUMMARY:Brian O’Donovan Legacy Series: Rockaway Bound
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1929
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1929
+END:VEVENT
+END:VCALENDAR

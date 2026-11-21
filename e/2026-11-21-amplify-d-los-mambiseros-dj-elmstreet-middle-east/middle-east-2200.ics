@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a17cc67d6af4eab0b129dc178678783f62dd3b42@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T030000Z
+DTEND:20261122T050000Z
+SUMMARY:Amplify'd\,  Los Mambiseros\, DJ Elmstreet
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/amplifyd-los-mambiseros-dj-midd
+ le-east-zuzu-tickets/14164974?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/amplifyd-los-mambiseros-dj-middle-east-
+ zuzu-tickets/14164974?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

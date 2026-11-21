@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:15d699865c9e27531248472f5854adb23f1c31d2@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261210T230000Z
+DTEND:20261211T010000Z
+SUMMARY:After Dark: The Twilight Zone
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://calendar.mit.edu/event/after-dark-the-twilight-zone
+URL:https://calendar.mit.edu/event/after-dark-the-twilight-zone
+END:VEVENT
+END:VCALENDAR

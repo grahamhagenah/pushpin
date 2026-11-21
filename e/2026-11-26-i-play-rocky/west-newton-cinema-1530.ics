@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f7fe5fbf7f7dce7f60937d341e5f470e42df625b@pushpin.city
+DTSTAMP:20261126T000000Z
+DTSTART:20261126T203000Z
+DTEND:20261126T223000Z
+SUMMARY:I Play Rocky
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/i-play-rocky
+URL:https://www.westnewtoncinema.com/movie/i-play-rocky
+END:VEVENT
+END:VCALENDAR

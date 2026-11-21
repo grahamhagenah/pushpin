@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fcbccac4f876f2ec085908f4528c7a09e282eb4d@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T210000Z
+DTEND:20261122T230000Z
+SUMMARY:Jiayan Sun
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/jiayan-sun
+URL:https://www.thedrakeamherst.org/events/jiayan-sun
+END:VEVENT
+END:VCALENDAR

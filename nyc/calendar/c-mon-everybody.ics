@@ -1,0 +1,287 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · C'mon Everybody
+X-WR-CALDESC:What’s coming up at C'mon Everybody\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:d681007305ecb9bd25699ce09d463a73ade6675e@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T003000Z
+DTEND:20261122T023000Z
+SUMMARY:Happy Birthday Björk!
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6aece35d45019d000175ddcb\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aece35d45019d000175ddcb
+END:VEVENT
+BEGIN:VEVENT
+UID:611224123bf0c9ac9cb38f5a3973a88b198f59e6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T010000Z
+DTEND:20261123T030000Z
+SUMMARY:Fagnet
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6aefc360c962040001fd67b8\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aefc360c962040001fd67b8
+END:VEVENT
+BEGIN:VEVENT
+UID:b6eed8dac72c3ea41dcf32dc48119e0065c203cc@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T010000Z
+DTEND:20261124T030000Z
+SUMMARY:Shrines - 'The Wild' Single Release Show w/ A. Renee
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6acfbc719caad400018f1e6c\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6acfbc719caad400018f1e6c
+END:VEVENT
+BEGIN:VEVENT
+UID:467f9c82f877f5ff563242cd613d31b7e7f0123b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T010000Z
+DTEND:20261125T030000Z
+SUMMARY:THE ENNUI AND THE ECSTASY: A MADROMANTIC EVENING
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6ada3392eca4f30001edb0c5\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ada3392eca4f30001edb0c5
+END:VEVENT
+BEGIN:VEVENT
+UID:635e6a88195264a4cd0046fe139e7497208adc28@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T010000Z
+DTEND:20261126T030000Z
+SUMMARY:Finger Bang
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6ae0fd77dfeeed0001b75f3a\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ae0fd77dfeeed0001b75f3a
+END:VEVENT
+BEGIN:VEVENT
+UID:f08bec093faa41fede4b34d6e9a05f28dff0a882@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T033000Z
+DTEND:20261126T053000Z
+SUMMARY:CHUDAI
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6afbad41350fc600018dfc3e\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afbad41350fc600018dfc3e
+END:VEVENT
+BEGIN:VEVENT
+UID:6ee160dfd8e292fbfec5c2c8701f7f7b43412c88@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T033000Z
+DTEND:20261128T053000Z
+SUMMARY:Lezzie McGuire: Dykesgiving
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6af36a1e3d4b160001b9f2af\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af36a1e3d4b160001b9f2af
+END:VEVENT
+BEGIN:VEVENT
+UID:2f34ce5cd617ba2c4aae9082ac2b0addb17ee435@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T230000Z
+DTEND:20261129T010000Z
+SUMMARY:Bear Belly • Bear Tea Dance
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6afb3d44067b0b000122c44b\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afb3d44067b0b000122c44b
+END:VEVENT
+BEGIN:VEVENT
+UID:0bde210578485434d70f5cac5365d988db520f24@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T033000Z
+DTEND:20261129T053000Z
+SUMMARY:Suck My Disco!
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6af79ea74b8173000159f01b\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af79ea74b8173000159f01b
+END:VEVENT
+BEGIN:VEVENT
+UID:c7694f48fd1afe38561dc29ca1fba5ae156c52f4@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T220000Z
+DTEND:20261130T000000Z
+SUMMARY:Lady Bunny's Disco Tea Dance
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6afc593bc919510001def9fe\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afc593bc919510001def9fe
+END:VEVENT
+BEGIN:VEVENT
+UID:0581ccf102c3c58eb2858cee4f93b610395551d9@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261201T010000Z
+DTEND:20261201T030000Z
+SUMMARY:Figure Drawing Group by Gaysian Art Gang
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6af3789de49266000177fba9\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af3789de49266000177fba9
+END:VEVENT
+BEGIN:VEVENT
+UID:adeebc582da84901d1519713e96f21b350bcee77@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261203T010000Z
+DTEND:20261203T030000Z
+SUMMARY:Los Cumpleaños "Pisa Suave" 45 Vinyl Release Show
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6b007d82ad89d00001542f0f\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6b007d82ad89d00001542f0f
+END:VEVENT
+BEGIN:VEVENT
+UID:01ea37a858a3da11f8698d59a5b2f1c729dcabef@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:Theophobia's Crazy Christmas ft Theophobia\, Kristeen Young\, Headf
+ ooter
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6afb3a6844f330000101b530\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afb3a6844f330000101b530
+END:VEVENT
+BEGIN:VEVENT
+UID:7334e9973149bb32960b45e7420d0b44a0bf33fd@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T033000Z
+DTEND:20261205T053000Z
+SUMMARY:MISS JUDYVERSE 2026
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6afe18c82d01250001af4020\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afe18c82d01250001af4020
+END:VEVENT
+BEGIN:VEVENT
+UID:bd5ce26bbdaa09be4635a2273c9b05a725f807a0@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T033000Z
+DTEND:20261206T053000Z
+SUMMARY:STANK.BK
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6aeca47881ac400001e0781b\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aeca47881ac400001e0781b
+END:VEVENT
+BEGIN:VEVENT
+UID:e00d28f95ba5808778c628e90198cf7696869c16@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261209T010000Z
+DTEND:20261209T030000Z
+SUMMARY:Mx Brooklyn Vampire
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6aba937974c287000150be4b\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aba937974c287000150be4b
+END:VEVENT
+BEGIN:VEVENT
+UID:45afe07cbf817805cec4a6dd6198f459d6caf790@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261210T010000Z
+DTEND:20261210T030000Z
+SUMMARY:IMMATERIAL! Christmas Spectacular!
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6afb61923dae300001117257\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afb61923dae300001117257
+END:VEVENT
+BEGIN:VEVENT
+UID:c420819ee65fa1e45d1f11bded27c5994142dfa2@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T033000Z
+DTEND:20261212T053000Z
+SUMMARY:SUPERSTRUCTURE: One Year Anniversary
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6af4d18ba2483d00010c4f69\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af4d18ba2483d00010c4f69
+END:VEVENT
+BEGIN:VEVENT
+UID:f023c0d48ff9957707f3d4f79a81c834ada94654@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T033000Z
+DTEND:20261213T053000Z
+SUMMARY:WITNESS
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6af644c2900b4a0001eed4df\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af644c2900b4a0001eed4df
+END:VEVENT
+BEGIN:VEVENT
+UID:33e095026863a590c42373b7016b568ccaee9735@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261214T010000Z
+DTEND:20261214T030000Z
+SUMMARY:THEATRICS: TURKEY LURKEY TIME!
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6afb67b8b5ef650001117a93\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afb67b8b5ef650001117a93
+END:VEVENT
+BEGIN:VEVENT
+UID:213f4482049d265db2942c34d986625cc729f4f6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261216T010000Z
+DTEND:20261216T030000Z
+SUMMARY:FULLSOME
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6afda8c69ec99a0001dd029b\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afda8c69ec99a0001dd029b
+END:VEVENT
+BEGIN:VEVENT
+UID:2d7f3bd64a4a8475ddcf9abf7d7e393878c9e8b1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261218T003000Z
+DTEND:20261218T023000Z
+SUMMARY:La Banda Chuska
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6afefebc5a28a200015a6bab\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afefebc5a28a200015a6bab
+END:VEVENT
+BEGIN:VEVENT
+UID:da4037b0107b711dad4e83d63207616a7d1fcf57@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261220T010000Z
+DTEND:20261220T030000Z
+SUMMARY:Bob's Burgers Christmas Drag Spectacular
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6afc650ad1d85d00011b2247\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afc650ad1d85d00011b2247
+END:VEVENT
+BEGIN:VEVENT
+UID:002cb263472127a6cc16c050931a99212500353f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261223T010000Z
+DTEND:20261223T030000Z
+SUMMARY:Finger Bang
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6ad78a2db1e67f0001cb6067\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad78a2db1e67f0001cb6067
+END:VEVENT
+BEGIN:VEVENT
+UID:f6d902934fad9fe06e40dae256379b8ba986ddee@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20270107T010000Z
+DTEND:20270107T030000Z
+SUMMARY:The Anne Awards
+LOCATION:C'mon Everybody\, 325 Franklin Ave\, Brooklyn\, NY 11238
+DESCRIPTION:https://dice.fm/event/6ace396285f248000176fcce\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ace396285f248000176fcce
+END:VEVENT
+END:VCALENDAR

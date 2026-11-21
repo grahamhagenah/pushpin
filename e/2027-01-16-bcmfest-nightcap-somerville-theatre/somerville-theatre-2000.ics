@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:76ccec13287cce1097fe7ea9c3a8972f2386e657@pushpin.city
+DTSTAMP:20270116T000000Z
+DTSTART:20270117T010000Z
+DTEND:20270117T030000Z
+SUMMARY:BCMFest: Nightcap
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.somervilletheatre.com/production/bcmfest-nightcap/
+URL:https://www.somervilletheatre.com/production/bcmfest-nightcap/
+END:VEVENT
+END:VCALENDAR

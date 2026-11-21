@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a934070329fe7fb42350e52baecfc1cd02f17f24@pushpin.city
+DTSTAMP:20270114T000000Z
+DTSTART:20270115T000000Z
+DTEND:20270115T020000Z
+SUMMARY:Jean-Michel Blais
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000CoVWLMA3
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0CoVWLMA3
+END:VEVENT
+END:VCALENDAR

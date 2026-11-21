@@ -1,0 +1,167 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Harvard Art Museums
+X-WR-CALDESC:What’s coming up at Harvard Art Museums\, from Pushpin Bosto
+ n.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:bae8678e8f06ab911006667bed53a8022e7123b1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T173000Z
+DTEND:20261122T193000Z
+SUMMARY:New on View: Community and Self-Representation in the David and Jan
+ e Shapiro Collection
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Leah Yeshitila for a discussion of her installation featur
+ ing renowned Black artists of the later 20th century.\nhttps://harvardartm
+ useums.org/event/4217\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardartmuseums.org/event/4217
+END:VEVENT
+BEGIN:VEVENT
+UID:31024616a4e4d1f369a6638d8ea29d7e14b2993e@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T173000Z
+DTEND:20261124T193000Z
+SUMMARY:Gallery Talk: On Location: Drawing the Outdoors
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Curatorial fellow Alec Aldrich will discuss an 1827 drawing mad
+ e with the camera lucida by inventor Sir John Frederick William Herschel.\
+ nhttps://harvardartmuseums.org/event/4251\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://harvardartmuseums.org/event/4251
+END:VEVENT
+BEGIN:VEVENT
+UID:2fe6efa3947d0696ece1b4213c5b778720b03664@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261201T053000Z
+DTEND:20261201T073000Z
+SUMMARY:Gallery Talk: Activation of Moholy-Nagy’s Light Prop for an Elect
+ ric Stage
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join staff as they discuss and activate this experimental devic
+ e from 1930 by Bauhaus pioneer László Moholy-Nagy.\nhttps://harvardartmu
+ seums.org/event/4204\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardartmuseums.org/event/4204
+END:VEVENT
+BEGIN:VEVENT
+UID:24a8ba545761df3dcf1dace5f898a2b5d5f04657@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261202T173000Z
+DTEND:20261202T193000Z
+SUMMARY:Gallery Talk: On Location: Drawing the Outdoors
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Curatorial fellow Alec Aldrich will discuss an 1827 drawing mad
+ e with the camera lucida by inventor Sir John Frederick William Herschel.\
+ nhttps://harvardartmuseums.org/event/4252\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://harvardartmuseums.org/event/4252
+END:VEVENT
+BEGIN:VEVENT
+UID:9c1547d9eaae5afa0fce90d437c24c059eea1339@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261202T230000Z
+DTEND:20261203T010000Z
+SUMMARY:John Constable and the Outdoors: Writing about Drawing
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join author Susan Owens and curator Joachim Homann for a conver
+ sation about the drawings and paintings of John Constable.\nhttps://harvar
+ dartmuseums.org/event/4170\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardartmuseums.org/event/4170
+END:VEVENT
+BEGIN:VEVENT
+UID:e9ebbed14221c7bbc6ed943cd99f273c5d29cf32@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T160000Z
+DTEND:20261204T180000Z
+SUMMARY:Art Study Center Seminar: A Closer Look at the Forbes Pigment Colle
+ ction
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Alison Cariens for an exploration of the history of the pi
+ gments in our famed Forbes Pigment Collection.\nhttps://harvardartmuseums.
+ org/event/4246\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardartmuseums.org/event/4246
+END:VEVENT
+BEGIN:VEVENT
+UID:55b1a93534b7d2188f486debe8d56046b1f0828e@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T190000Z
+DTEND:20261204T210000Z
+SUMMARY:First/Hand Fridays: Emergent Grounds—Drawing as Public Practice
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Calling all Harvard students! Check out landscape drawings with
+  staff and consider how they can articulate environments and states of bei
+ ng.\nhttps://harvardartmuseums.org/event/4140\nFrom Pushpin Boston: https:
+ //pushpin.city/
+URL:https://harvardartmuseums.org/event/4140
+END:VEVENT
+BEGIN:VEVENT
+UID:7d9284ab05cefeaca55d6914abe18696fd3e13da@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261209T230000Z
+DTEND:20261210T010000Z
+SUMMARY:The Material Culture of Islamic Calligraphy
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Learn about the tools used in Islamic calligraphy\, from reed p
+ ens and penknives to cutting boards and scissors.\nhttps://harvardartmuseu
+ ms.org/event/4172\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardartmuseums.org/event/4172
+END:VEVENT
+BEGIN:VEVENT
+UID:5d7b1b90ac045c5ba39bc7e189ddc4b4c6b39b16@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261210T173000Z
+DTEND:20261210T193000Z
+SUMMARY:Gallery Talk: The Gelatin Silver Print
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join photographs conservator Tatiana Cole for a talk about the 
+ most popular photographic process of the 20th century: the gelatin silver 
+ print.\nhttps://harvardartmuseums.org/event/4190\nFrom Pushpin Boston: htt
+ ps://pushpin.city/
+URL:https://harvardartmuseums.org/event/4190
+END:VEVENT
+BEGIN:VEVENT
+UID:29c78758096403f271cbed84957983782c6f7e2b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Life Sciences in the Galleries
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Times: 11am\, 2pm\nJoin Harvard grad students and postdocs in l
+ ife sciences for 5-minute lightning talks about art that offers a window i
+ nto their research.\nhttps://harvardartmuseums.org/event/4207\nFrom Pushpi
+ n Boston: https://pushpin.city/
+URL:https://harvardartmuseums.org/event/4207
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab0dbe4d95ba44ca345a0b65bc27df6ed144c08@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261215T170000Z
+DTEND:20261215T190000Z
+SUMMARY:Art + Science: Exhibition Preparation
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:In this session\, conservation technician Yi Bin Liang will giv
+ e a demonstration of construction methods used to prepare objects for exhi
+ bition.\nhttps://harvardartmuseums.org/event/4248\nFrom Pushpin Boston: ht
+ tps://pushpin.city/
+URL:https://harvardartmuseums.org/event/4248
+END:VEVENT
+BEGIN:VEVENT
+UID:74f101356224840b008d29b58c9e3119cf2f4d4a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261217T173000Z
+DTEND:20261217T193000Z
+SUMMARY:Gallery Talk: Taking the Stage—Ancient Greek Performers and Their
+  Masks
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join curatorial intern Sarah Gonzalez to learn about the relati
+ onship between actors and theatrical masks in ancient Mediterranean art.\n
+ https://harvardartmuseums.org/event/4274\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://harvardartmuseums.org/event/4274
+END:VEVENT
+END:VCALENDAR

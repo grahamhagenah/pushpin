@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0853ab8e5c1e8a5db9c17ccf7a8652cd808f3b93@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Eliza McLamb with Lily Konigsberg
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/eliza-mclamb/
+URL:https://artsatthearmory.org/events/eliza-mclamb/
+END:VEVENT
+END:VCALENDAR

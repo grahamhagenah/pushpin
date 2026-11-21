@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aaeea74eb9f83634caf81d60901caa1c4f3a62c6@pushpin.city
+DTSTAMP:20261126T000000Z
+DTSTART:20261126T233000Z
+DTEND:20261127T013000Z
+SUMMARY:Hexed
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/hexed/
+URL:https://nitehawkcinema.com/prospectpark/movies/hexed/
+END:VEVENT
+END:VCALENDAR

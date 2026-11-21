@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4ab31d671443fdb446178ad3b5c4eb95dbf75461@pushpin.city
+DTSTAMP:20261217T000000Z
+DTSTART:20261218T000000Z
+DTEND:20261218T020000Z
+SUMMARY:Sundance Film Festival Shorts
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:https://www.icaboston.org/events/sundance-film-festival-shorts-
+ 2026/
+URL:https://www.icaboston.org/events/sundance-film-festival-shorts-2026/
+END:VEVENT
+END:VCALENDAR

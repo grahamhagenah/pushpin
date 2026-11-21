@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e5172bbe33b6f54bccbb43af0c36aabe89eede65@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T220000Z
+DTEND:20261206T000000Z
+SUMMARY:Elsinore
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/elsinore
+URL:https://www.westnewtoncinema.com/movie/elsinore
+END:VEVENT
+END:VCALENDAR

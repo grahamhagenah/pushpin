@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:09de2100e4ce82bf405e1417bf3b473d5ca44196@pushpin.city
+DTSTAMP:20261215T000000Z
+DTSTART:20261216T000000Z
+DTEND:20261216T020000Z
+SUMMARY:Eyes Wide Shut
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/queer-film-theory-101-eyes-w
+ ide-shut
+URL:https://drafthouse.com/boston/show/queer-film-theory-101-eyes-wide-shut
+END:VEVENT
+END:VCALENDAR

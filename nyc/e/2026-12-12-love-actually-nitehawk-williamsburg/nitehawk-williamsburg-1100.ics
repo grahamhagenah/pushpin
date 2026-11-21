@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b43883b799d109f1029f90d647f6a99dbe818aeb@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Love Actually
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/love-actually/
+URL:https://nitehawkcinema.com/williamsburg/movies/love-actually/
+END:VEVENT
+END:VCALENDAR

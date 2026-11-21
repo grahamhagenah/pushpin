@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:500b6db6054b405679bec9bf087d93135386ba88@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T003000Z
+DTEND:20261125T023000Z
+SUMMARY:Blast of Silence
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/films/blast-silence
+URL:https://coolidge.org/films/blast-silence
+END:VEVENT
+END:VCALENDAR

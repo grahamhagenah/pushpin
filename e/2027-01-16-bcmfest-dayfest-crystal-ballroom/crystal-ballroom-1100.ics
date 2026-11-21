@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bcb82335a2ae9d251df20b3081523fd30b014c06@pushpin.city
+DTSTAMP:20270116T000000Z
+DTSTART:20270116T160000Z
+DTEND:20270116T180000Z
+SUMMARY:BCMFest: Dayfest
+LOCATION:Crystal Ballroom\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.ticketmaster.com/bcmfest-dayfest-somerville-massach
+ usetts-01-16-2027/event/0100655A3C0A2920
+URL:https://www.ticketmaster.com/bcmfest-dayfest-somerville-massachusetts-0
+ 1-16-2027/event/0100655A3C0A2920
+END:VEVENT
+END:VCALENDAR

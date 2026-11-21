@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:547ef51695760b5900be6d08e8ddc2a67cf080bd@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T173000Z
+DTEND:20261122T193000Z
+SUMMARY:New on View: Community and Self-Representation in the David and Jan
+ e Shapiro Collection
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardartmuseums.org/event/4217
+URL:https://harvardartmuseums.org/event/4217
+END:VEVENT
+END:VCALENDAR

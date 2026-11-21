@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f88e98dd2c37eca77375cc75936f6ab1aa491a8d@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T223000Z
+DTEND:20261207T003000Z
+SUMMARY:Precipice (Filmmaker in Person!)
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62402
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62402
+END:VEVENT
+END:VCALENDAR

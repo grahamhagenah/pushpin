@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e585c1906fa70cac156ee76310cb14d1e7e7a158@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T190000Z
+SUMMARY:The Annual Women of the Pit Boston Winter Coat Drive: Clock Out\, B
+ urn Kit\,
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-annual-women-of-the-middle-
+ east-upstairs-tickets/14372884?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/the-annual-women-of-the-middle-east-ups
+ tairs-tickets/14372884?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

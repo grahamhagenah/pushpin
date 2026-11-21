@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab06c5b050d1e91199fc3057c3c0680a584b4aa5@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T210000Z
+DTEND:20261220T230000Z
+SUMMARY:Avengers: Doomsday
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/avengers-doomsday
+URL:https://www.thetriplex.org/movie/avengers-doomsday
+END:VEVENT
+END:VCALENDAR

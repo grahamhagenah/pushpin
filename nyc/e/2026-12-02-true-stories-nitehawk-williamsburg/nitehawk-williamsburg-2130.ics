@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:277e26cd1e66b7807807748a35805bcdc36eeecf@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T023000Z
+DTEND:20261203T043000Z
+SUMMARY:True Stories
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/true-stories-vid
+ eo-store-gems/
+URL:https://nitehawkcinema.com/williamsburg/movies/true-stories-video-store
+ -gems/
+END:VEVENT
+END:VCALENDAR

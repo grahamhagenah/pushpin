@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dadd182bcf0735e8bb275eaa1b14abf25f650f55@pushpin.city
+DTSTAMP:20270114T000000Z
+DTSTART:20270114T230000Z
+DTEND:20270115T010000Z
+SUMMARY:Lakecia Benjamin\, Sullivan Fortner\, Tyreek McDole\, Davell Crawfo
+ rd + Georgia Heers
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/wjz27nyc/
+URL:https://lpr.com/lpr_events/wjz27nyc/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9811eb26749ae266a15f5ea24c0d285aa7b08acc@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Dov’è LA Libertà?
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/dove-la-liberta-rossellini-120
+URL:https://filmforum.org/film/dove-la-liberta-rossellini-120
+END:VEVENT
+END:VCALENDAR

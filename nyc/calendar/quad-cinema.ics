@@ -1,0 +1,343 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Quad Cinema
+X-WR-CALDESC:What’s coming up at Quad Cinema\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:db54f591c33106f35d5545bd0d22b98c0f95e8b2@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T172000Z
+DTEND:20261121T192000Z
+SUMMARY:Steps
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 12:20pm\, 3:45pm\, 9:30pm\nhttps://quadcinema.com/film/s
+ teps-2/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/steps-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:60d6147a50541525d2d494d64403561c32f3ed46@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T173000Z
+DTEND:20261121T193000Z
+SUMMARY:You Can See Everything
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 12:30pm\, 2:45pm\, 4pm\, 6pm\, 7:30pm\, 9pm\nhttps://qua
+ dcinema.com/film/you-can-see-everything/\nFrom Pushpin NYC: https://pushpi
+ n.city/nyc/
+URL:https://quadcinema.com/film/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:b257e8bd864d3a31a1aa5f7077edd54f41a7c2e9@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T174000Z
+DTEND:20261121T194000Z
+SUMMARY:Digger
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 12:40pm\, 6:15pm\nhttps://quadcinema.com/film/digger-202
+ 6/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/digger-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:903ffe436be7516cd2497b655705da7873266b47@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T175000Z
+DTEND:20261121T195000Z
+SUMMARY:Fjord
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 12:50pm\, 6:20pm\, 9:15pm\nhttps://quadcinema.com/film/f
+ jord/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/fjord/
+END:VEVENT
+BEGIN:VEVENT
+UID:a1a810d6e189725baafdda058dabfbca3d70863d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T203000Z
+DTEND:20261121T223000Z
+SUMMARY:Body Heat
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Femme Noir\nhttps://quadcinema.com/film/body-heat/\nFrom Pushpi
+ n NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/body-heat/
+END:VEVENT
+BEGIN:VEVENT
+UID:f1b1f097c0378d829ca54e633ffaa2f6e18c383d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T175000Z
+DTEND:20261122T195000Z
+SUMMARY:Digger
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 12:50pm\, 4:55pm\nhttps://quadcinema.com/film/digger-202
+ 6/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/digger-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:d3de081713347f1f2ab78b0c62375e4d97c1e3e8@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T180000Z
+DTEND:20261122T200000Z
+SUMMARY:Steps
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 1pm\, 3:25pm\, 7:30pm\nhttps://quadcinema.com/film/steps
+ -2/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/steps-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:6a6152dd352a620e6ef8e191ad415e887a45217f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T181500Z
+DTEND:20261122T201500Z
+SUMMARY:Fjord
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7:15pm\nhttps://quadcinema.com/film/fj
+ ord/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/fjord/
+END:VEVENT
+BEGIN:VEVENT
+UID:fa5f672a30e3d27473aad4facf7e579dd7d8eee8@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T183000Z
+DTEND:20261122T203000Z
+SUMMARY:You Can See Everything
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 1:30pm\, 3:30pm\, 6pm\, 7pm\nhttps://quadcinema.com/film
+ /you-can-see-everything/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:0b1ceffe146980db41032753d16d0579c62efd94@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T175500Z
+DTEND:20261123T195500Z
+SUMMARY:Fjord
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 12:55pm\, 3:55pm\, 7:15pm\nhttps://quadcinema.com/film/f
+ jord/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/fjord/
+END:VEVENT
+BEGIN:VEVENT
+UID:26f8fbbe98071960dd1fbba30a8a7f8050586e31@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T180000Z
+DTEND:20261123T200000Z
+SUMMARY:Steps
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 1pm\, 3:25pm\, 7:35pm\nhttps://quadcinema.com/film/steps
+ -2/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/steps-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:b847db9732be9f866e837b09cbb0d4288d5cd1a4@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T181500Z
+DTEND:20261123T201500Z
+SUMMARY:Digger
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 1:15pm\, 5pm\nhttps://quadcinema.com/film/digger-2026/\n
+ From Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/digger-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:b4416828e6080dfda82524a78675b965b69c3456@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T183000Z
+DTEND:20261123T203000Z
+SUMMARY:You Can See Everything
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 1:30pm\, 4pm\, 7pm\nhttps://quadcinema.com/film/you-can-
+ see-everything/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:549da0995021eddf8e5d6398d00db0ff54df636a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T003000Z
+DTEND:20261124T023000Z
+SUMMARY:Basic Instinct
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Femme Noir\nhttps://quadcinema.com/film/basic-instinct/\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/basic-instinct/
+END:VEVENT
+BEGIN:VEVENT
+UID:03d802b5736e8c2ebb6f7756513e96fed9a45e79@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T175500Z
+DTEND:20261124T195500Z
+SUMMARY:Fjord
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 12:55pm\, 3:55pm\nhttps://quadcinema.com/film/fjord/\nFr
+ om Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/fjord/
+END:VEVENT
+BEGIN:VEVENT
+UID:2f45402f34984d4df55737e3e76baf511f37ba00@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T180000Z
+DTEND:20261124T200000Z
+SUMMARY:Steps
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 1pm\, 3:25pm\, 7:35pm\nhttps://quadcinema.com/film/steps
+ -2/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/steps-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:c60677dbd2cffb2966d785c362cba768e67d6804@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T181500Z
+DTEND:20261124T201500Z
+SUMMARY:Digger
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 1:15pm\, 5pm\nhttps://quadcinema.com/film/digger-2026/\n
+ From Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/digger-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:eaf1491476b0492905caec1709bd3521724b7736@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T183000Z
+DTEND:20261124T203000Z
+SUMMARY:You Can See Everything
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 1:30pm\, 4pm\, 6pm\, 7pm\nhttps://quadcinema.com/film/yo
+ u-can-see-everything/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:cf6fee4dca9ca34743080f60a8757857da451e54@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T003000Z
+DTEND:20261125T023000Z
+SUMMARY:Basic Instinct
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Femme Noir\nhttps://quadcinema.com/film/basic-instinct/\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/basic-instinct/
+END:VEVENT
+BEGIN:VEVENT
+UID:e7f738b61962affdd9c9098e8ff02a4a09e9de93@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T175500Z
+DTEND:20261125T195500Z
+SUMMARY:Fjord
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 12:55pm\, 3:55pm\nhttps://quadcinema.com/film/fjord/\nFr
+ om Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/fjord/
+END:VEVENT
+BEGIN:VEVENT
+UID:20d0d367f210383ddbc4e88e80af8fc9270116ee@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T180000Z
+DTEND:20261125T200000Z
+SUMMARY:Steps
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 1pm\, 3:25pm\, 7:35pm\nhttps://quadcinema.com/film/steps
+ -2/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/steps-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:0a9a31be8d57cc1d13009feda9464e1ad21758f6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T181500Z
+DTEND:20261125T201500Z
+SUMMARY:Digger
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 1:15pm\, 5pm\nhttps://quadcinema.com/film/digger-2026/\n
+ From Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/digger-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:10aa71a167aceddb728e0426ebfe4d49da786e6d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T183000Z
+DTEND:20261125T203000Z
+SUMMARY:You Can See Everything
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 1:30pm\, 4pm\, 6pm\, 7pm\nhttps://quadcinema.com/film/yo
+ u-can-see-everything/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:85da9f3f61f94190dda446deaaf7e1a1c7007cdf@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T003000Z
+DTEND:20261126T023000Z
+SUMMARY:Basic Instinct
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Femme Noir\nhttps://quadcinema.com/film/basic-instinct/\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/basic-instinct/
+END:VEVENT
+BEGIN:VEVENT
+UID:b70685af4248ca06c859b4ad8f55c1690dc70ddc@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T175000Z
+DTEND:20261126T195000Z
+SUMMARY:Digger
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 12:50pm\, 4:55pm\nhttps://quadcinema.com/film/digger-202
+ 6/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/digger-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:b3b0423eeca210e031f554f53ac9ebb521a86300@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T180000Z
+DTEND:20261126T200000Z
+SUMMARY:Steps
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 1pm\, 3:25pm\, 7:30pm\nhttps://quadcinema.com/film/steps
+ -2/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/steps-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:cbf2fd630318394f25c694a6d35ac87546a22408@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T181500Z
+DTEND:20261126T201500Z
+SUMMARY:Fjord
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7:15pm\nhttps://quadcinema.com/film/fj
+ ord/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/fjord/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d2e64b53a19b557c8d2faf6502e39cd55835b33@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T183000Z
+DTEND:20261126T203000Z
+SUMMARY:You Can See Everything
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Times: 1:30pm\, 3:30pm\, 6pm\, 7pm\nhttps://quadcinema.com/film
+ /you-can-see-everything/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:2e10a114daa92e2f0bf40fe85f7549d792dd64f9@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T203000Z
+DTEND:20261128T223000Z
+SUMMARY:Basic Instinct
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:Femme Noir\nhttps://quadcinema.com/film/basic-instinct/\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://quadcinema.com/film/basic-instinct/
+END:VEVENT
+BEGIN:VEVENT
+UID:8c71fe168da49cd73e349c20f72cb68d860094f5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T024500Z
+DTEND:20261129T044500Z
+SUMMARY:The Rocky Horror Picture Show: Live Shadow Cast
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:The Rocky Horror Picture Show\nhttps://quadcinema.com/film/the-
+ rocky-horror-picture-show-shadowcast/\nFrom Pushpin NYC: https://pushpin.c
+ ity/nyc/
+URL:https://quadcinema.com/film/the-rocky-horror-picture-show-shadowcast/
+END:VEVENT
+END:VCALENDAR

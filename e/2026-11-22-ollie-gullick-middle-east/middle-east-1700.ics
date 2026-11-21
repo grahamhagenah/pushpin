@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:21c7ca8f25edca929b1ea426335c682d8ee00adb@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T220000Z
+DTEND:20261123T000000Z
+SUMMARY:Ollie Gullick
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/-ollie-gullick-middle-east-corn
+ erbakery-tickets/14323314?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/-ollie-gullick-middle-east-cornerbakery
+ -tickets/14323314?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

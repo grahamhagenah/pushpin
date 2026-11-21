@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695fb61fae79165cc6dc141809f465acc7e3729f@pushpin.city
+DTSTAMP:20261130T000000Z
+DTSTART:20261201T000000Z
+DTEND:20261201T020000Z
+SUMMARY:Breakfast at Tiffany’s Book Club
+LOCATION:McNally Jackson\, 4 Fulton Street\, New York\, NY 10038
+DESCRIPTION:https://mcnallyjackson.com/event/2026-11-30/breakfast-tiffanys-
+ book-club
+URL:https://mcnallyjackson.com/event/2026-11-30/breakfast-tiffanys-book-clu
+ b
+END:VEVENT
+END:VCALENDAR

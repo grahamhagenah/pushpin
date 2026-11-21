@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3c8bf1114318ac85e8d4252676c9ec9f65cfb47a@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T023000Z
+DTEND:20261202T043000Z
+SUMMARY:Die Hard
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/die-hard/
+URL:https://nitehawkcinema.com/williamsburg/movies/die-hard/
+END:VEVENT
+END:VCALENDAR

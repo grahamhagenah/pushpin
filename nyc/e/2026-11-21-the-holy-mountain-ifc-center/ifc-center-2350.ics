@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2e7a5bc44ca3308b035530ee9049056c341eff8d@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T045000Z
+DTEND:20261122T065000Z
+SUMMARY:The Holy Mountain
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/the-holy-mountain/
+URL:https://www.ifccenter.com/films/the-holy-mountain/
+END:VEVENT
+END:VCALENDAR

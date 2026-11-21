@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2ecb802913335ef9d73db494f8aea3a6a1006d9a@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T045500Z
+DTEND:20261122T065500Z
+SUMMARY:Mummy Theme Park
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/tombs-and-turbulence-two-from-
+ passeri/
+URL:https://www.spectacletheater.com/tombs-and-turbulence-two-from-passeri/
+END:VEVENT
+END:VCALENDAR

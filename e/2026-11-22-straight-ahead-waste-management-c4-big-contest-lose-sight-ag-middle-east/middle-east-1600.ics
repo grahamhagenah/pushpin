@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:01dfd961d8c3aa4bf6e57cc6e9f84e5acd19df8d@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T210000Z
+DTEND:20261122T230000Z
+SUMMARY:Straight Ahead\, Waste Management\, c4\, Big Contest\, Lose Sight\,
+  Against The
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/straight-ahead-waste-management
+ -c4-middle-east-upstairs-tickets/14309954?pl=mideastclub&REFID=clientsitew
+ p
+URL:https://www.ticketweb.com/event/straight-ahead-waste-management-c4-midd
+ le-east-upstairs-tickets/14309954?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

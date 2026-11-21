@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f4a7416b78f836445ed12aaa379fe355312bc3bb@pushpin.city
+DTSTAMP:20261221T000000Z
+DTSTART:20261221T230000Z
+DTEND:20261222T010000Z
+SUMMARY:Phill Niblock Winter Solstice 2026: 6 Hours of Music and Film
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/phill-niblock-winter-solstice-2026/
+URL:https://roulette.org/event/phill-niblock-winter-solstice-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ff9916386bc6f27a160fd1a5f8733f8a62848943@pushpin.city
+DTSTAMP:20261207T000000Z
+DTSTART:20261208T000000Z
+DTEND:20261208T020000Z
+SUMMARY:Jeffrey Martin
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/jeffrey-martin/
+URL:https://www.passim.org/live-music/events/jeffrey-martin/
+END:VEVENT
+END:VCALENDAR

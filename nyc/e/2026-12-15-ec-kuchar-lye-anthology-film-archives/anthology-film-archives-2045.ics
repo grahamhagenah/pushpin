@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:78a9591c11e68e6b2f740814d2174d3be4b71044@pushpin.city
+DTSTAMP:20261215T000000Z
+DTSTART:20261216T014500Z
+DTEND:20261216T034500Z
+SUMMARY:EC: Kuchar / Lye
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62243
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62243
+END:VEVENT
+END:VCALENDAR

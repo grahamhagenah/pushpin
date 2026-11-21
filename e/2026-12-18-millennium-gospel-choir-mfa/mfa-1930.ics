@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3a479b2463728d88a40aaa697148ef87f5507aea@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:Millennium Gospel Choir
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/music/millennium-gospel-choir?event=1
+ 81601
+URL:https://www.mfa.org/event/music/millennium-gospel-choir?event=181601
+END:VEVENT
+END:VCALENDAR

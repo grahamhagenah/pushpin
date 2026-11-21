@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3ecc120bacb51330875751a4348b0dea06ba6a19@pushpin.city
+DTSTAMP:20261231T000000Z
+DTSTART:20270101T020000Z
+DTEND:20270101T040000Z
+SUMMARY:The Glitter Boys NYE
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1696411
+URL:https://www.sinclaircambridge.com/events/detail/1696411
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dbb95fa4f44f3cbb4f93aa587441482f436bfc1c@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Genevieve Artadi ft. Louis Cole & Chiquita Magic
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/genevieve-artadi-ft-louis-cole-chi
+ quita-boston-massachusetts-12-02-2026/event/01006504CDD5AE81
+URL:https://www.ticketmaster.com/genevieve-artadi-ft-louis-cole-chiquita-bo
+ ston-massachusetts-12-02-2026/event/01006504CDD5AE81
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:671e241ffea50bcc10576ddc2b093e06fb773b54@pushpin.city
+DTSTAMP:20270113T000000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:National Sawdust Presents: Silkroad Up-Close featuring Kaoru Watana
+ be and Layale Chaker
+LOCATION:National Sawdust\, 80 N 6th St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.nationalsawdust.org/event/national-sawdust-presents
+ -silkroad-up-close-featuring-kaoru-watanabe-and-layale-chaker
+URL:https://www.nationalsawdust.org/event/national-sawdust-presents-silkroa
+ d-up-close-featuring-kaoru-watanabe-and-layale-chaker
+END:VEVENT
+END:VCALENDAR

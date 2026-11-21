@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5cd70ce8eea7321ff443aaff65434b5613dd29b3@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T204000Z
+DTEND:20261213T224000Z
+SUMMARY:ASC presents: Death to Smoochy
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005141-asc-presents-death-to-sm
+ oochy/
+URL:https://metrograph.com/film/9999005141-asc-presents-death-to-smoochy/
+END:VEVENT
+END:VCALENDAR

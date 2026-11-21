@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eab297c6127694a62c7fc099048cef4e1db1363b@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:The Nightflies
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1295
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1295
+END:VEVENT
+END:VCALENDAR

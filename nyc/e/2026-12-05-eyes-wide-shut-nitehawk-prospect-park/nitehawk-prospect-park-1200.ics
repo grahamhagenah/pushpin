@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8417ea37b7bb399417820c276253876b8b7aa7d9@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T190000Z
+SUMMARY:Eyes Wide Shut
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/eyes-wide-shut/
+URL:https://nitehawkcinema.com/prospectpark/movies/eyes-wide-shut/
+END:VEVENT
+END:VCALENDAR

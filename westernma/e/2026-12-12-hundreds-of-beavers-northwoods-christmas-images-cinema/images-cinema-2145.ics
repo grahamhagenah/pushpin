@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b0fb7a81ce6d5d4bcec0f182655de1d8c108387c@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T024500Z
+DTEND:20261213T044500Z
+SUMMARY:Hundreds of Beavers: Northwoods Christmas
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/hundreds-of-beavers-northwoo
+ ds-christmas
+URL:https://www.imagescinema.org/movie/hundreds-of-beavers-northwoods-chris
+ tmas
+END:VEVENT
+END:VCALENDAR

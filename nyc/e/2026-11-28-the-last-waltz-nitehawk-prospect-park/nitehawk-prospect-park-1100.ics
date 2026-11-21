@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c5f12a6f17f43cb08b6e3e82ad6ad279ae919b71@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:The Last Waltz
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/the-last-waltz/
+URL:https://nitehawkcinema.com/prospectpark/movies/the-last-waltz/
+END:VEVENT
+END:VCALENDAR

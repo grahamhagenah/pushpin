@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6e65620ed9a7baa6926dafeda84c486d10587ccc@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T234500Z
+DTEND:20261213T014500Z
+SUMMARY:Andrew Norman Wilson: Sound Works
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005136-andrew-norman-wilson-sou
+ nd-works/
+URL:https://metrograph.com/film/9999005136-andrew-norman-wilson-sound-works
+ /
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:272324da4758ca88b55d3af8af75c74259e47bfe@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:LPR Presents: Rising Appalachia
+LOCATION:National Sawdust\, 80 N 6th St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.nationalsawdust.org/event/lpr-presents-rising-appal
+ achia
+URL:https://www.nationalsawdust.org/event/lpr-presents-rising-appalachia
+END:VEVENT
+END:VCALENDAR

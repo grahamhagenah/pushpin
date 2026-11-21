@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cities · Pushpin</title>
+<meta name="description" content="Concerts, films, and talks, aggregated from select venues: Boston, Western Mass, NYC.">
+<link rel="canonical" href="https://pushpin.city/cities/">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" href="/favicon.svg?dot1" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?dot1">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Pushpin">
+<meta property="og:title" content="Cities · Pushpin">
+<meta property="og:description" content="Concerts, films, and talks, aggregated from select venues: Boston, Western Mass, NYC.">
+<meta property="og:url" content="https://pushpin.city/cities/">
+<meta property="og:image" content="https://pushpin.city/share/site/home.png?pin">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="color-scheme" content="dark">
+<script data-goatcounter="https://hagenah.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+<style>
+  /* Nothing scrolls the page sideways on a phone, whatever runs wide. On the page itself, which is the window's
+     own scrolling, as well as the body: Safari on an iPhone doesn't carry the body's to the window, and lets the
+     whole page slide sideways under a finger for anything a pixel too wide. Hidden on the page rather than
+     clipped, as a window's overflow is anyway; neither makes a box the sticky bar would stick inside instead.
+     And text at the sizes set here: Safari on an iPhone otherwise enlarges some of a page's text by its own
+     guess, and its fields' text by another, so a search set the size of the words beside it can come out bigger. */
+  html { background: #000; overflow-x: hidden; -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+  body { margin: 0; padding: 2rem 1.25rem 4rem; overflow-x: clip; color: #fff; background: #000;
+         font: 17px/1.45 -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+  main { max-width: 46rem; margin: 0 auto; }
+  header { display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-bottom: 2rem; }
+  .header-note { color: #666; font-size: .8rem; white-space: nowrap; }
+  .header-note time { margin: 0; font-size: inherit; }
+  /* The newsfeed and the events page, as a pair: the one you're on in white, the other a gray link to it. */
+  .sites { display: flex; gap: .9rem; }
+  .sites a, .sites a:visited { color: #555; font-size: 1.15rem; font-weight: 700; letter-spacing: -.01em; text-decoration: none; }
+  .sites a:hover { color: #999; }
+  .sites a[aria-current], .sites a[aria-current]:hover { color: #fff; }
+
+  /* Wider than the newsfeed and the jobs board it shares its styles with: a row here carries a name, its times
+     and its venue on one line, and the film and what's announced sit side by side over them. */
+  main { max-width: 52rem; }
+  /* The site's name a size up from the newsfeed's, and the page that's open beside it ("/ Film") with it; the
+     header closer to the top of the page and to what's under it, the name saying enough to need less room. */
+  body { padding-top: 1.5rem; }
+  header { margin-bottom: 1.25rem; }
+  .sites a, .sites a:visited, .sites .here { font-size: 1.35rem; }
+  /* The header's words on one baseline: the name, the line beside it and when it was updated are three sizes, and
+     centered on each other their bottoms don't meet. */
+  header { align-items: baseline; }
+  /* On a phone, a narrower gutter than the newsfeed's: every row here hangs its words after its kind's mark, which
+     is a gutter of its own on the left, so the page's needn't be as wide. */
+  @media (max-width: 34rem) { body { padding-left: 1rem; padding-right: 1rem; } }
+  /* The name's i, its dot a pin's head (WORDMARK): a quarter of an em across where a dot is a fifth, in amber. */
+  .wordmark .i { position: relative; }
+  .wordmark .tittle { position: absolute; left: 50%; top: .05em; width: .26em; height: .26em; margin-left: -.13em;
+                      border-radius: 50%; background: #fbbf24; }
+  h1.tagline { margin: -.5rem 0 1.6rem; color: #888; font-size: .9rem; font-weight: normal; line-height: 1.45; }
+  /* The home page's, in the header after the site's name, on its line: left with the name, not pushed off to the
+     right with the time it was updated. Where the page shows a kind in place, the header names that ("/ Film")
+     and on a wide screen this goes, since the two say different things. On a phone there isn't the width, so
+     it has a line of its own under them, as every other page's does. */
+  header h1.tagline { flex: 1 1 auto; min-width: 0; margin: 0; }  /* The header's own gap is room enough. */
+  @media not all and (max-width: 34rem) { header:has(.sites .here:not([hidden])) h1.tagline { display: none; } }
+  /* On a phone it stays, on its line under the name, whichever kind is showing: taking that line away when
+     a kind is chosen would pull the filter and the listings up under the finger that chose it. */
+  @media (max-width: 34rem) {
+    header:has(h1.tagline) { flex-wrap: wrap; row-gap: .9rem; }
+    header h1.tagline { order: 3; flex-basis: 100%; margin: 0; }
+  }
+  h1.tagline + .bar-mark + .filter { margin-top: 0; }  /* The filter's own pull-up would leave the line on top of it. */
+  /* The filter belongs to the listings it narrows, so it sits nearer them than what's above it: a full gap after
+     the film and what's announced, and under it, the room the day's heading's own margin leaves less a
+     pull-up — a negative margin, which comes off whichever day is the first one showing. */
+  /* The kinds as a choice of one, the way tabs are: the one chosen underlined, a fine line set well clear of its
+     word, and the others underlined faintly under a pointer, so it's plain they're for choosing. */
+  .filter button, .filter a { text-decoration: underline; text-decoration-thickness: 1px;
+                              text-underline-offset: .45em; text-decoration-color: transparent; }
+  .filter button[aria-pressed="true"], .filter a[aria-current="page"] { text-decoration-color: #777; }
+  @media (hover: hover) and (pointer: fine) {
+    .filter button:not([aria-pressed="true"]):hover, .filter a:not([aria-current]):hover {
+      text-decoration: underline; text-decoration-color: #3a3a3a; }
+  }
+  /* Tonight and this weekend: a pair of their own after the kinds, a hairline between, since they narrow by when
+     and the kinds by what. */
+  .when-links { display: flex; gap: inherit; padding-left: 1.1rem; border-left: 1px solid #262626; }
+  .when-links .later { display: none; }  /* Next weekend: a phone's row has the room (below); here, the weekend's page links to it. */
+  /* The kinds, when and where are wrapped together for a phone's row of chips; on a wide screen they sit in the
+     bar itself, the venue's menu at the end of it beside the search. */
+  .chips { display: contents; gap: inherit; }  /* The bar's gap, for tonight and the weekend to take in turn. */
+  .filter .chips .pick { margin-left: auto; }
+  .filter .finders { margin-left: .3rem; }
+  .lead + .bar-mark + .filter { margin-top: 0; }
+  .filter { margin-bottom: -1.3rem; }
+  /* What the page says when nothing's left to show takes that pull-up too, with no day between them; it gets back
+     the room a day's heading would have had. */
+  .filter ~ .empty { margin-top: 2.6rem; }
+  /* Its way out, when a search or a venue left nothing: a quiet link under it, with room around it to press. */
+  .empty-clear { display: block; margin: -.15rem 0 -.5rem; padding: .5rem 0; border: 0; background: none;
+                 color: #999; font: inherit; font-size: .9rem; text-decoration: underline;
+                 text-decoration-color: #555; text-underline-offset: .2em; cursor: pointer; }
+  .empty-clear:hover { color: #fff; }
+  /* The filter as a bar that stays at the top of the window while the listings scroll under it, black
+     so they're hidden there. Each day's heading stays under it while its day is passing.
+     The same room around it as before: padding now, where it's black, taken back out of its margins. */
+  .filter { position: sticky; top: 0; z-index: 3; padding: .55rem 0; margin-top: -1.3rem; margin-bottom: -1.85rem;
+            background: #000; }
+  h1.tagline + .bar-mark + .filter, .lead + .bar-mark + .filter { margin-top: -.55rem; }
+  /* On a phone, a slimmer bar, which is always there over a small screen: less padding, the same room around
+     it where it isn't stuck. */
+  @media (max-width: 34rem) {
+    .filter { padding: .3rem 0; margin-bottom: -1.35rem; }
+    h1.tagline + .bar-mark + .filter, .lead + .bar-mark + .filter { margin-top: -.3rem; }
+  }
+  /* Once it's stuck over the list, its edge: no line, a shadow, so the listings dim as they go under rather than
+     being cut off. Easing out, darkest at the bar and lifting slowly from there. It comes in gently as the bar
+     sticks, rather than appearing all at once. Out as far as a lit row's band reaches; on a phone, the width of
+     the screen. The script tells when it's stuck. */
+  .filter::after { content: ""; position: absolute; top: 100%; left: -.6rem; right: -.6rem; height: 22px;
+                   background: linear-gradient(rgba(0, 0, 0, .75), rgba(0, 0, 0, .5) 4px, rgba(0, 0, 0, .27) 9px,
+                                               rgba(0, 0, 0, .1) 15px, transparent);
+                   pointer-events: none; opacity: 0; transition: opacity .3s; }
+  .filter.stuck:not(.headed)::after { opacity: 1; }
+  @media (max-width: 34rem) { .filter::after { left: -1rem; right: -1rem; } }
+  /* A listing gone to, clear of the bar (--bar, its height, set by the script): on the rows alone, not the page, or
+     focusing the search in the bar would scroll the page back up to where the bar sits in it, to put the field
+     below the room. */
+  .day > ul > li { scroll-margin-top: calc(var(--bar, 0px) + var(--head, 0px) + .75rem); }
+  /* No scroll anchoring: as a search or a venue rewrites the list, the browser would scroll to keep whichever row
+     it had picked in place, pulling the page out from under the bar and the bar down off the top with it. What's
+     over the list is the page's own and settled, so there's nothing for anchoring to hold still. */
+  html { overflow-anchor: none; }
+  /* Beside the kinds, the venue's menu and then the search, at the end of the line. The search's ×, and the menu's
+     short word (below), are a phone's alone: a wide screen's menu says what's chosen itself. */
+  .search-clear, .pick-said { display: none; }
+  .pick-box { display: contents; }
+  @media (max-width: 34rem) {
+    /* Two rows, each a shape of its own rather than more words: the search, a box the width of the column, which
+       scrolls away with the page (the bar sticks --lift, its height, above the window, which the script
+       measures); and under it a row of chips, the row that stays at the top of the window: the kinds, then
+       tonight and the weekends, then the venue's menu. */
+    .filter { top: calc(-1 * var(--lift, 0px)); row-gap: .95rem; column-gap: 0; align-items: center; }
+    /* Room under the chips where the bar is stuck, and the day's label the same distance under them where it isn't. */
+    .filter { padding-bottom: .55rem; margin-bottom: -1.35rem; }
+    /* Scrolling back up, the search's line slides back down into the bar, and the day's heading held under the
+       bar with it; scrolling on down, both slide back up. */
+    .filter.revealed { top: 0; }
+    .filter, .day > h2 { transition: top .2s ease; }
+    @media (prefers-reduced-motion: reduce) { .filter, .day > h2 { transition: none; } }
+    /* The search: a box barely a shade off the page's black, quieter than the chips under it, the magnifying
+       glass and the word inside it; a little lighter while it's being typed in. Its text is 16 pixels: Safari on
+       an iPhone zooms the page in on a field whose text is any smaller, and doesn't zoom back out. */
+    .filter .finders { order: -1; flex: 1 1 100%; align-items: center; gap: 0; box-sizing: border-box; margin: 0;
+                       padding: 0 .15rem 0 .75rem; border-radius: 9px; background: #0e0e0e; }
+    .filter .finders:focus-within { background: #171717; }
+    .filter .finders .search { flex: 1 1 0; width: 0; min-width: 0; height: 2.35rem; box-sizing: border-box; margin: 0;
+                               padding: 0 0 0 1.55em; border: 0; background-size: .95em; font-size: 1rem; }
+    .filter .finders .search:not(:focus)::placeholder { color: #5c5c5c; }
+    /* Its ×, at the end of the box, while it has something in it (Tabler Icons' "x", MIT license): a press empties it. */
+    .filter .finders .search-clear { display: block; flex: none; width: 2.35rem; height: 2.35rem; padding: 0; cursor: pointer;
+                                     background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23777' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M18 6l-12 12'/%3E%3Cpath d='M6 6l12 12'/%3E%3C/svg%3E") no-repeat center / 18px; }
+    /* The chips: one row, out to the screen's edges, swiped along; one cut off at the edge says there's more.
+       The kinds, a hairline, tonight and the weekends, and the venue's menu last. */
+    .filter .chips { display: flex; flex: 1 1 100%; align-items: center; gap: .4rem; min-width: 0; margin: -6px -1rem;
+                     padding: 6px 0; overflow-x: auto; scrollbar-width: none; overscroll-behavior-x: contain; }
+    .filter .chips::-webkit-scrollbar { display: none; }
+    /* The column's margin at each end of the row, as room before its first and after its last rather than the
+       row's own padding, which not every browser keeps after the last when the row is swiped to its end. */
+    .filter .chips::before, .filter .chips::after { content: ""; flex: none; width: .6rem; height: 1px; }
+    .filter .chips::before { order: -2; }
+    /* A venue chosen is the row's first chip, ahead of the kinds, where it's seen without swiping: at the row's
+       end it would be off the screen, narrowing the list with nothing to say so. */
+    .filter .chips .pick-box.chosen { order: -1; }
+    /* A chip is pressed over more than is drawn of it: 44 pixels' height, the least a finger wants, and out to
+       halfway to the chips beside it. The row's own padding, taken back out of its margin, is the room for that,
+       since a row that's swiped along cuts off what's outside it. */
+    .filter .chips [data-show], .filter .when-links a { position: relative; }
+    .filter .chips [data-show]::after, .filter .when-links a::after { content: ""; position: absolute; inset: -7px -.2rem; }  /* From inside its border. */
+    .when-links { display: contents; }
+    .when-links::before { content: ""; flex: none; align-self: stretch; width: 1px; margin: .35rem .15rem; background: #2a2a2a; }
+    .filter .chips [data-show], .filter .when-links a, .filter .chips .pick-box {
+      display: inline-flex; flex: none; align-items: center; box-sizing: border-box; height: 2rem; padding: 0 .7rem;
+      border: 1px solid #2a2a2a; border-radius: 999px; color: #999; font-size: .9rem; white-space: nowrap;
+      text-decoration: none; }
+    /* Under a pointer, in a narrow window on a computer: a brighter outline, not the wide screen's underline. */
+    .filter .chips [data-show]:hover, .filter .chips .when-links a:hover { text-decoration: none; }
+    @media (hover: hover) and (pointer: fine) {
+      .filter .chips [data-show]:not([aria-current], [aria-pressed="true"]):hover,
+      .filter .chips .when-links a:not([aria-current]):hover { border-color: #555; color: #ccc; }
+    }
+    /* What's chosen, filled in: a kind, tonight or a weekend, a venue. */
+    .filter .chips [aria-current="page"], .filter .chips [aria-pressed="true"], .filter .chips .pick-box.chosen {
+      border-color: #fff; background: #fff; color: #000; }
+    /* The venue's chip says "Where", or what's chosen ("Bushwick", "Union Pool", a long one ending in "…"), with a
+       small arrow after it. The word is drawn over the menu itself, which is there in full but unseen, so a press
+       opens the phone's own list of choices; a menu's own width would be its longest choice in Safari, a venue's
+       whole name. */
+    .filter .chips .pick-box { position: relative; }
+    .pick-box .pick-said { display: block; min-width: 0; max-width: 9rem; overflow: hidden; white-space: nowrap;
+                           text-overflow: ellipsis; padding-right: 1em;
+                           background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%23999' stroke-width='1.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right center / .6em; }
+    .pick-box.chosen .pick-said { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%23000' stroke-width='1.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    .filter .chips .pick-box .pick { position: absolute; inset: -7px -.2rem; width: calc(100% + .4rem); max-width: none;
+                                     height: calc(100% + 14px); margin: 0; padding: 0; opacity: 0; font-size: 1rem;
+                                     cursor: pointer; }
+    .filter .chips .pick-box:focus-within { outline: 1px solid #555; outline-offset: 2px; }
+    /* A chip's word in the middle of it, by the letters themselves: centering the line leaves the word wherever
+       the font's own room over and under its letters puts it, a pixel or two high in some. Where a browser can
+       trim a line to its capitals' height and its baseline, the chip is that and the same padding over and
+       under, adding up to the height it has above. The venue's word keeps room of its own, taken back out, for
+       the tail of a "g", which its cutting off at the end would cut too. */
+    @supports (text-box: trim-both cap alphabetic) {
+      .filter .chips [data-show], .filter .when-links a, .filter .chips .pick-box {
+        display: block; height: auto; padding: calc((2rem - 2px - 1cap) / 2) .7rem; line-height: 1; }
+      .filter .chips [data-show], .filter .when-links a, .pick-box .pick-said { text-box: trim-both cap alphabetic; }
+      .pick-box .pick-said { padding-block: .4em; margin-block: -.4em; }
+    }
+  }
+  /* The search, as quiet as the menu beside it and the kinds across from it: its word in their grey with a
+     magnifying glass (Tabler Icons' "search", MIT license, its paths verbatim) before it, over a faint line. The
+     line is the field's whole width, out to the column's edge where the venues are, so the word isn't left
+     floating short of it; and it says "type here", brighter while something is being typed. The line a day's
+     heading's, so the bar's lines and the list's read as the same weight. */
+  .search { padding-left: 1.3em; border-bottom-color: #1c1c1c;
+            background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23666' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0'/%3E%3Cpath d='M21 21l-6 -6'/%3E%3C/svg%3E") no-repeat left center / .95em; }
+  .search::placeholder { color: #666; }
+  .search:hover::placeholder { color: #999; }
+  .search:focus { border-bottom-color: #555; }
+
+  .contact { display: grid; gap: 1.1rem; margin-top: 1.5rem; }
+  .contact label { display: grid; gap: .35rem; color: #888; font-size: .8rem; }
+  .contact input, .contact textarea { padding: .5rem .6rem; border: 1px solid #333; border-radius: 4px; background: #0a0a0a;
+                                      color: #fff; font: inherit; font-size: .95rem; }
+  .contact input:focus, .contact textarea:focus { border-color: #777; outline: none; }
+  /* The form's button, and after sending, the way home, which looks the same. */
+  .contact button, .sent .home { justify-self: start; padding: .45rem 1.2rem; border: 1px solid #555; border-radius: 999px;
+                    background: none; color: #ddd; font: inherit; font-size: .85rem; font-weight: 600; cursor: pointer;
+                    transition: border-color .15s, color .15s, background-color .15s; }
+  .contact button:hover, .contact button:focus-visible, .sent .home:hover, .sent .home:focus-visible {
+    border-color: #ccc; background: #151515; color: #fff; text-decoration: none; outline: none; }
+  .contact button:active, .sent .home:active { background: #222; }
+  .sent .home { display: inline-block; margin-top: .6rem; text-decoration: none; }
+  .contact .honey { display: none; }
+  .sites a, .sites a:visited { color: #fff; }
+  .sites .here { color: #fff; font-weight: 700; letter-spacing: -.01em; }
+  .sites .here::before { content: "/"; margin-right: .5em; color: #444; font-weight: 400; }
+  .prose { max-width: 34rem; color: #ccc; }
+  .prose p { margin: 0 0 1em; }
+  section { margin-bottom: 2rem; }
+  h2 { margin: 0 0 .7rem; color: #555; font-size: .65rem; font-weight: 500; letter-spacing: .1em; text-transform: uppercase; }
+  ul { margin: 0; padding: 0; list-style: none; }
+  li { padding: .9rem 0; border-top: 1px solid #1c1c1c; }
+  li:last-child { border-bottom: 1px solid #1c1c1c; }
+  li a { color: #fff; font-size: 1.15rem; font-weight: 700; letter-spacing: -.01em; text-decoration: none; }
+  li a::after { content: " →"; color: #555; font-weight: 400; }
+  .soon { color: #777; font-size: 1.15rem; font-weight: 700; letter-spacing: -.01em; }
+  .ask { margin: 2.25rem 0 0; color: #8c8c8c; font-size: .9rem; }
+  .ask a { color: #fff; text-decoration: underline; text-decoration-color: #555; text-underline-offset: .2em; }
+  li a:hover { text-decoration: underline; text-decoration-color: #555; text-underline-offset: .2em; }
+  li p { margin: .2rem 0 0; color: #8c8c8c; font-size: .9rem; }
+</style>
+<main>
+<header><nav class="sites" aria-label="Sites"><a href="/"><span class="wordmark" role="img" aria-label="Pushpin">pushp<span class="i">ı<span class="tittle"></span></span>n</span></a> <span class="here">Cities</span></nav></header>
+<h1 class="tagline">Concerts, films, and talks, aggregated from select venues. No algorithms, no ads, no accounts.</h1>
+<section><h2>Massachusetts</h2>
+<ul><li><a href="/">Boston</a><p>Boston, Cambridge, and Somerville</p></li>
+<li><a href="/westernma/">Western Mass</a><p>The Pioneer Valley and the Berkshires</p></li>
+</ul></section>
+<section><h2>New York</h2>
+<ul><li><a href="/nyc/">NYC</a><p>Brooklyn, Manhattan, and Queens</p></li>
+</ul></section>
+<p class="ask">Want your city on Pushpin? <a href="/contact/">Let us know</a>, and tell us the venues worth following.</p>
+</main>
+</html>

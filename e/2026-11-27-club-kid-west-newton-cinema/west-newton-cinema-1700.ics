@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0860bc9eff94fcf70138ab2c921a63a79e31546c@pushpin.city
+DTSTAMP:20261127T000000Z
+DTSTART:20261127T220000Z
+DTEND:20261128T000000Z
+SUMMARY:Club Kid
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/club-kid
+URL:https://www.westnewtoncinema.com/movie/club-kid
+END:VEVENT
+END:VCALENDAR

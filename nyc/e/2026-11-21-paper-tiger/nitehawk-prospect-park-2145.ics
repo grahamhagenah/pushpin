@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:678864ea79962e601136d1eb1a9ec7cf0ff51667@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T024500Z
+DTEND:20261122T044500Z
+SUMMARY:Paper Tiger
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/paper-tiger/
+URL:https://nitehawkcinema.com/prospectpark/movies/paper-tiger/
+END:VEVENT
+END:VCALENDAR

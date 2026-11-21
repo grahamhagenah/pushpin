@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:53e989c6744b9b0fa5407826b2b57c6ed3d2146b@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T200000Z
+DTEND:20261212T220000Z
+SUMMARY:Elf
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/movie-party-elf-movie-party-
+ sing-along
+URL:https://drafthouse.com/boston/show/movie-party-elf-movie-party-sing-alo
+ ng
+END:VEVENT
+END:VCALENDAR

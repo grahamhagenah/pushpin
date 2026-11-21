@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:90fdf3aa251a5b0cd01a30654447112b70d3c696@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T003000Z
+DTEND:20261213T023000Z
+SUMMARY:Minotaur
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/minotaur
+URL:https://www.westnewtoncinema.com/movie/minotaur
+END:VEVENT
+END:VCALENDAR

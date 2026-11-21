@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:97010c1dcb098f6d2e1c65339b8b51b8f2301a59@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T023000Z
+DTEND:20261203T043000Z
+SUMMARY:Twin Peaks: The Return (Part 1 & 2)
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/special_events/twin-peaks-the-return-pa
+ rt-1-2/
+URL:https://brattlefilm.org/special_events/twin-peaks-the-return-part-1-2/
+END:VEVENT
+END:VCALENDAR

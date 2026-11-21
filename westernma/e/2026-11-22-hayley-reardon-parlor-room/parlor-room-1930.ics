@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71c9508cf50be4054c4f29d8eb5991d89ae433d1@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T003000Z
+DTEND:20261123T023000Z
+SUMMARY:Hayley Reardon
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000C4FPlMAN
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0C4FPlMAN
+END:VEVENT
+END:VCALENDAR

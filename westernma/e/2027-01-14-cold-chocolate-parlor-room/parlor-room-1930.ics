@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c3e8724f2c838e5a4a1903c1346d667550bd762f@pushpin.city
+DTSTAMP:20270114T000000Z
+DTSTART:20270115T003000Z
+DTEND:20270115T023000Z
+SUMMARY:Cold Chocolate
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000D7HkbMAF
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0D7HkbMAF
+END:VEVENT
+END:VCALENDAR

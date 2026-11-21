@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b98bfdbe7223f55c83cb012b37404569c534dbea@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T200000Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://www.bam.org/film/2026/the-only-living-pickpocket
+URL:https://www.bam.org/film/2026/the-only-living-pickpocket
+END:VEVENT
+END:VCALENDAR

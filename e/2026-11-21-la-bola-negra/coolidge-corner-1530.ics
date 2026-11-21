@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7ac0c98ab94b23fcc80e145e0818407a27a63e57@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T203000Z
+DTEND:20261121T223000Z
+SUMMARY:La bola negra
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/films/la-bola-negra
+URL:https://coolidge.org/films/la-bola-negra
+END:VEVENT
+END:VCALENDAR

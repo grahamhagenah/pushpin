@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0b78b886b852a293c63b478c7ef5f6aa142d194a@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T173000Z
+DTEND:20261121T193000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/the-hunger-games
+ -sunrise-on-the-reaping/
+URL:https://nitehawkcinema.com/prospectpark/movies/the-hunger-games-sunrise
+ -on-the-reaping/
+END:VEVENT
+END:VCALENDAR

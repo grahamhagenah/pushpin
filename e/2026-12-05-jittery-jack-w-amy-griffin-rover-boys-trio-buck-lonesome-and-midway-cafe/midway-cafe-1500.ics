@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bac0781530f1793c09853e9689bdc25afbc077c7@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T200000Z
+DTEND:20261205T220000Z
+SUMMARY:Jittery Jack w/ Amy Griffin | Rover Boys Trio | Buck Lonesome and T
+ he Table for One
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/2762/1796500800000
+URL:https://tockify.com/midwaycafejp/detail/2762/1796500800000
+END:VEVENT
+END:VCALENDAR

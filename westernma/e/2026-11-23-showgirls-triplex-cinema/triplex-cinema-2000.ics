@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6b495b80d46717f15efb2a93341686a43d122e90@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T010000Z
+DTEND:20261124T030000Z
+SUMMARY:Showgirls
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/showgirls
+URL:https://www.thetriplex.org/movie/showgirls
+END:VEVENT
+END:VCALENDAR

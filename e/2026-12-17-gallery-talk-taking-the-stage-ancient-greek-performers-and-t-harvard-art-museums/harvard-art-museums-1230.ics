@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0eadf40c330a880ac6f2469227ebc79f534955c1@pushpin.city
+DTSTAMP:20261217T000000Z
+DTSTART:20261217T173000Z
+DTEND:20261217T193000Z
+SUMMARY:Gallery Talk: Taking the Stage—Ancient Greek Performers and Their
+  Masks
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardartmuseums.org/event/4274
+URL:https://harvardartmuseums.org/event/4274
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3ecefc6dd1b4581bbc01b96682b74573c769b6b3@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T020000Z
+DTEND:20261122T040000Z
+SUMMARY:Elysium
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/elysium-sonia-tickets/14164244?
+ pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/elysium-sonia-tickets/14164244?pl=midea
+ stclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

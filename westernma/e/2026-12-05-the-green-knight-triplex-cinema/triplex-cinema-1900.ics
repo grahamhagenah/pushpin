@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:be5a6d7c3e6a8deab84193cb4581193623c8021d@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:The Green Knight
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/the-green-knight
+URL:https://www.thetriplex.org/movie/the-green-knight
+END:VEVENT
+END:VCALENDAR

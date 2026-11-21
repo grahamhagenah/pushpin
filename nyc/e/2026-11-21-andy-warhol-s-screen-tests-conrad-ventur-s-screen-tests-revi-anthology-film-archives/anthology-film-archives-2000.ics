@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7ab1e82941716811801719d09f9852e0f307c81c@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:Andy Warhol’s 'screen Tests' + Conrad Ventur’s 'screen Tests Re
+ visited'\, PGM 1
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62292
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62292
+END:VEVENT
+END:VCALENDAR

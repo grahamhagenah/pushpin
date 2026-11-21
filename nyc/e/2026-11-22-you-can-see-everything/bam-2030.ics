@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7ff2a8c3cf0026fee6b8721aec7fd0e269706d87@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T013000Z
+DTEND:20261123T033000Z
+SUMMARY:You Can See Everything
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://www.bam.org/film/2026/you-can-see-everything
+URL:https://www.bam.org/film/2026/you-can-see-everything
+END:VEVENT
+END:VCALENDAR

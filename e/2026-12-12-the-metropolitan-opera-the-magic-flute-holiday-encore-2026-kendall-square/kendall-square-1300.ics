@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:80df60846592293adb9439dd32a3cc8a40b97834@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T200000Z
+SUMMARY:The Metropolitan Opera: The Magic Flute Holiday Encore (2026)
+LOCATION:Kendall Square\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/38ee20c4-
+ 2467-5f7e-96a3-ac1aa7255b8c
+URL:https://booking.landmarktheatres.com/launch/ticketing/38ee20c4-2467-5f7
+ e-96a3-ac1aa7255b8c
+END:VEVENT
+END:VCALENDAR

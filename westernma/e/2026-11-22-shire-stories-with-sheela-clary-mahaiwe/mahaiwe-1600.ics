@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4f33dc31f13e71399dd07807a8b5379cd8b7410a@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T210000Z
+DTEND:20261122T230000Z
+SUMMARY:Shire Stories with Sheela Clary
+LOCATION:Mahaiwe\, 20 Castle Street\, Great Barrington\, MA
+DESCRIPTION:https://mahaiwe.org/event/shire-stories-with-sheela-clary/
+URL:https://mahaiwe.org/event/shire-stories-with-sheela-clary/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0cdba4fc75fb29ba334f886205176412a22e1c16@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261219T180000Z
+DTEND:20261219T200000Z
+SUMMARY:White Christmas
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/white-christmas
+URL:https://www.westnewtoncinema.com/movie/white-christmas
+END:VEVENT
+END:VCALENDAR

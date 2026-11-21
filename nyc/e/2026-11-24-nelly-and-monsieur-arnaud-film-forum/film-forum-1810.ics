@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:484f42acbac1b8d1ee78cb381f4fdfd1ee0099d8@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261124T231000Z
+DTEND:20261125T011000Z
+SUMMARY:Nelly and Monsieur Arnaud
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/nelly-and-monsieur-arnaud
+URL:https://filmforum.org/film/nelly-and-monsieur-arnaud
+END:VEVENT
+END:VCALENDAR

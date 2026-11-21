@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fd4eb3565ca754696ece2e692b8b383166328c7e@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T030000Z
+DTEND:20261122T050000Z
+SUMMARY:NXOR / Charlie Silver / Sonny Jim Trio
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/11/21/nxor-charlie-silve
+ r-sonny-jim-trio
+URL:https://www.lilypadinman.com/home/2026/11/21/nxor-charlie-silver-sonny-
+ jim-trio
+END:VEVENT
+END:VCALENDAR

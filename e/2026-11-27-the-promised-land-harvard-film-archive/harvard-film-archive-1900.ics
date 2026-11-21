@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:efdbf037ef7fe72952d1db4669da8131b2bf4acb@pushpin.city
+DTSTAMP:20261127T000000Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:The Promised Land
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardfilmarchive.org/calendar/the-promised-land-2026-
+ 11
+URL:https://harvardfilmarchive.org/calendar/the-promised-land-2026-11
+END:VEVENT
+END:VCALENDAR

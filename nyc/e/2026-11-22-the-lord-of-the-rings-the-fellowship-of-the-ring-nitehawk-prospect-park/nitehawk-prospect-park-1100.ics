@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cff236112c72b87abab9ec4e2caf3577c6b2aa05@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T160000Z
+DTEND:20261122T180000Z
+SUMMARY:The Lord of the Rings: The Fellowship of the Ring
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/lotr-the-fellows
+ hip-of-the-ring/
+URL:https://nitehawkcinema.com/prospectpark/movies/lotr-the-fellowship-of-t
+ he-ring/
+END:VEVENT
+END:VCALENDAR

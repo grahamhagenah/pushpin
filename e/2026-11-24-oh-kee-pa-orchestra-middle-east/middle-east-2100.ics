@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:de97cb9f2911294fe1397fde2090f750324307f1@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T020000Z
+DTEND:20261125T040000Z
+SUMMARY:Oh Kee Pa Orchestra
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/oh-kee-pa-orchestra-middle-east
+ -zuzu-tickets/14806843?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/oh-kee-pa-orchestra-middle-east-zuzu-ti
+ ckets/14806843?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

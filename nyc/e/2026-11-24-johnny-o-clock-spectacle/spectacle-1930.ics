@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:afb0db6e07964e73bc8ef9724463bfc2cb141480@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T003000Z
+DTEND:20261125T023000Z
+SUMMARY:Johnny O'Clock
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/noirvember-goes-gambling-3-cas
+ ino-noir-picks/
+URL:https://www.spectacletheater.com/noirvember-goes-gambling-3-casino-noir
+ -picks/
+END:VEVENT
+END:VCALENDAR

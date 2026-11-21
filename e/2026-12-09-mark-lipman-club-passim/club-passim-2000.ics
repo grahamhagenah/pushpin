@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3bd6793ca6134f8e5682f756e4332b2efca60f23@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261210T010000Z
+DTEND:20261210T030000Z
+SUMMARY:Mark Lipman
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/mark-lipman/
+URL:https://www.passim.org/live-music/events/mark-lipman/
+END:VEVENT
+END:VCALENDAR

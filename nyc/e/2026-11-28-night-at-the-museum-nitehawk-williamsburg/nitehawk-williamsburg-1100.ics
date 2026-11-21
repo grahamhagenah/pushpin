@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:098354630cf3d69a93a4b4615a74138bcb767d2d@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Night at the Museum
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/night-at-the-mus
+ eum/
+URL:https://nitehawkcinema.com/williamsburg/movies/night-at-the-museum/
+END:VEVENT
+END:VCALENDAR

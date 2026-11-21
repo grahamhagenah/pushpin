@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b9d26efe15c9e2ed870f7605eda46c3d3f0030c4@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T010000Z
+DTEND:20261123T030000Z
+SUMMARY:HellBound
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/hellbound-middle-east-upstairs-
+ tickets/14120084?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/hellbound-middle-east-upstairs-tickets/
+ 14120084?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

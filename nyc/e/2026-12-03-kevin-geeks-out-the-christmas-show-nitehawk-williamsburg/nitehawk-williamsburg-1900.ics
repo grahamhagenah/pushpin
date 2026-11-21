@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6dec96256f65f88a81445ca50afd1e3b2150345f@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Kevin Geeks Out: The Christmas Show
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/kevin-geeks-out-
+ the-christmas-show-2026/
+URL:https://nitehawkcinema.com/williamsburg/movies/kevin-geeks-out-the-chri
+ stmas-show-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:54c57ca9e0d20c74907c46f4447500ba7fd07841@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Kenny Barron Sextet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:https://vv.squadup.com/artists/kenny-barron-sextet
+URL:https://vv.squadup.com/artists/kenny-barron-sextet
+END:VEVENT
+END:VCALENDAR

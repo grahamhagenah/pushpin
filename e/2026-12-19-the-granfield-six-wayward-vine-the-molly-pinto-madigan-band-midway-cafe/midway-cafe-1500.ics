@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:565ddb1505c5df7d9510d219e51464888eebe883@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261219T200000Z
+DTEND:20261219T220000Z
+SUMMARY:The Granfield Six | Wayward Vine | The Molly Pinto Madigan Band | G
+ oldfishers
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/2757/1797710400000
+URL:https://tockify.com/midwaycafejp/detail/2757/1797710400000
+END:VEVENT
+END:VCALENDAR

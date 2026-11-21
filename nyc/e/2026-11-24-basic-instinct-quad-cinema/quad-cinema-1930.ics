@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b77ef6ba2a43c60da903fa54d72cac1842dded61@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T003000Z
+DTEND:20261125T023000Z
+SUMMARY:Basic Instinct
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:https://quadcinema.com/film/basic-instinct/
+URL:https://quadcinema.com/film/basic-instinct/
+END:VEVENT
+END:VCALENDAR

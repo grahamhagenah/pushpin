@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:61af9101c0ea9e9023efcb820e83f3eb41d7220c@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:Joybubbles
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/joybubbles
+URL:https://amherstcinema.org/films-and-events/joybubbles
+END:VEVENT
+END:VCALENDAR

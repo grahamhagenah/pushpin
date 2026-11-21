@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:44576af94688ec462e45068c7b720aba5e383dc1@pushpin.city
+DTSTAMP:20270112T000000Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Inside PROTOTYPE 2027—A Conversation with OperaWire
+LOCATION:National Sawdust\, 80 N 6th St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.nationalsawdust.org/event/inside-prototype-2027--a-
+ conversation-with-operawire
+URL:https://www.nationalsawdust.org/event/inside-prototype-2027--a-conversa
+ tion-with-operawire
+END:VEVENT
+END:VCALENDAR

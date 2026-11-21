@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aa699dcd528d34f341d10127d82e573eeca7904f@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261126T020000Z
+DTEND:20261126T040000Z
+SUMMARY:Wobbly Wednesdays
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/wobbly-wednesdays-middle-east-z
+ uzu-tickets/14725593?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/wobbly-wednesdays-middle-east-zuzu-tick
+ ets/14725593?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1be911f0c4b644bbf936bc56add918209f088bb7@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T003000Z
+DTEND:20261122T023000Z
+SUMMARY:¡Guitarra! João Luiz Rezende Lopes
+LOCATION:UMass Fine Arts Center
+DESCRIPTION:https://arts.umass.edu/performing-arts/events/2026-2027/guitarr
+ a-joao-luiz-rezende-lopes
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/guitarra-joao-l
+ uiz-rezende-lopes
+END:VEVENT
+END:VCALENDAR

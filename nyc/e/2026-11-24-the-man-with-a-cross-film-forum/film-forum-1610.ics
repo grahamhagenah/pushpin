@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6eda862f52f1e78618b1932bf713dec1ee9e9f7a@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261124T211000Z
+DTEND:20261124T231000Z
+SUMMARY:The Man with a Cross
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/the-man-with-a-cross-rossellini-120
+URL:https://filmforum.org/film/the-man-with-a-cross-rossellini-120
+END:VEVENT
+END:VCALENDAR

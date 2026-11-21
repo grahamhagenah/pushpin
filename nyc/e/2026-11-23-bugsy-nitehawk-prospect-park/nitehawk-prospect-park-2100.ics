@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:753202a4b2ac0868f3602c0dd6b5c0715844aa4d@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T020000Z
+DTEND:20261124T040000Z
+SUMMARY:Bugsy
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/bugsy/
+URL:https://nitehawkcinema.com/prospectpark/movies/bugsy/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0b4c2ee7a0418541cdf88aa5edd6c6514938028b@pushpin.city
+DTSTAMP:20261217T000000Z
+DTSTART:20261217T190000Z
+DTEND:20261217T210000Z
+SUMMARY:Elsinore
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/elsinore
+URL:https://www.thetriplex.org/movie/elsinore
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3345ea8afae9c175d9deab959d10739d829f71a9@pushpin.city
+DTSTAMP:20261130T000000Z
+DTSTART:20261130T233000Z
+DTEND:20261201T013000Z
+SUMMARY:Little Children
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/little-children/
+URL:https://nitehawkcinema.com/prospectpark/movies/little-children/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:41ab7ef0159971ad12a66bd7c9f59dbf9be0431a@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T020000Z
+DTEND:20261125T040000Z
+SUMMARY:Paper Tiger
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/paper-tiger/
+URL:https://nitehawkcinema.com/williamsburg/movies/paper-tiger/
+END:VEVENT
+END:VCALENDAR

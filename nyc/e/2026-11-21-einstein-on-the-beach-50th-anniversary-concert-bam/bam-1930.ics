@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8a2d85aa9f9b03d68e4bda1b7f2a1c3bb312f97f@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T003000Z
+DTEND:20261122T023000Z
+SUMMARY:Einstein on the Beach–50th Anniversary Concert
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://www.bam.org/music/2026/einstein-on-the-beach-50
+URL:https://www.bam.org/music/2026/einstein-on-the-beach-50
+END:VEVENT
+END:VCALENDAR

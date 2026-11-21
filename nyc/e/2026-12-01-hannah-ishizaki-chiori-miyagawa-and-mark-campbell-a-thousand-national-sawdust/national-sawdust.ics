@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1d8e8ca333ae8d4f4ffe235e5c48f9fb85b2698c@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Hannah Ishizaki\, Chiori Miyagawa\, and Mark Campbell: A Thousand G
+ enerations
+LOCATION:National Sawdust\, 80 N 6th St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.nationalsawdust.org/event/hannah-ishizaki-chiori-mi
+ yagawa-and-mark-campbell-a-thousand-generations
+URL:https://www.nationalsawdust.org/event/hannah-ishizaki-chiori-miyagawa-a
+ nd-mark-campbell-a-thousand-generations
+END:VEVENT
+END:VCALENDAR

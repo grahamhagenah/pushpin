@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:479865d2e216a761b5ff015ca8cb26087e2f896e@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T221500Z
+DTEND:20261206T001500Z
+SUMMARY:Paradox on 72ND Street
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62366
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62366
+END:VEVENT
+END:VCALENDAR

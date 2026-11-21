@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e817997907de5ff28bc70fbfe29ab8754752247a@pushpin.city
+DTSTAMP:20261215T000000Z
+DTSTART:20261216T023000Z
+DTEND:20261216T043000Z
+SUMMARY:Glitter
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/glitter/
+URL:https://nitehawkcinema.com/williamsburg/movies/glitter/
+END:VEVENT
+END:VCALENDAR

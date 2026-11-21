@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:df96f173a00fc7776134aa923f908d8a1bb93697@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T233000Z
+DTEND:20261221T013000Z
+SUMMARY:Ciprì & Maresco PGM 2: (In)human Urges
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62413
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62413
+END:VEVENT
+END:VCALENDAR

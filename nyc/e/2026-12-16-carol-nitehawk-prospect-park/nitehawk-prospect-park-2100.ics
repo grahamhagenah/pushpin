@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fd18fda4bcca6ca7ff33830ddd0c597d0851531e@pushpin.city
+DTSTAMP:20261216T000000Z
+DTSTART:20261217T020000Z
+DTEND:20261217T040000Z
+SUMMARY:Carol
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/carol/
+URL:https://nitehawkcinema.com/prospectpark/movies/carol/
+END:VEVENT
+END:VCALENDAR

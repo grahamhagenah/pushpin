@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2bb3813d9c491a93faf2f3dd85e4738ba2b536d1@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Tall Heights - 'Neptune 10 Year Anniversary Tour'
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000Cdqz7MAB
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0Cdqz7MAB
+END:VEVENT
+END:VCALENDAR

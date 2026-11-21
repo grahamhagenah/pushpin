@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0d0257739b5f628345ccffeeb5f0ca3d51d1fd80@pushpin.city
+DTSTAMP:20261207T000000Z
+DTSTART:20261208T000000Z
+DTEND:20261208T020000Z
+SUMMARY:The Shop Around the Corner
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/the-shop-around-
+ the-corner/
+URL:https://nitehawkcinema.com/prospectpark/movies/the-shop-around-the-corn
+ er/
+END:VEVENT
+END:VCALENDAR

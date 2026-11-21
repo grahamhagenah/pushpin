@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7fd55e71de6d3b6e33886cf08d50db6f6160ea31@pushpin.city
+DTSTAMP:20261130T000000Z
+DTSTART:20261201T000000Z
+DTEND:20261201T020000Z
+SUMMARY:Cultural Collab
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/cultural-collab-2
+URL:https://www.imagescinema.org/movie/cultural-collab-2
+END:VEVENT
+END:VCALENDAR

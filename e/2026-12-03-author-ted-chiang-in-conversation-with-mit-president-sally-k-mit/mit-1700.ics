@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5c8c67917db83a79b9b1affcda2f3d9a8ebbc06e@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261203T220000Z
+DTEND:20261204T000000Z
+SUMMARY:Author Ted Chiang in Conversation with MIT President Sally Kornblut
+ h
+LOCATION:MIT\, 160 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:https://calendar.mit.edu/event/author-ted-chiang-in-conversatio
+ n-with-mit-president-sally-kornbluth
+URL:https://calendar.mit.edu/event/author-ted-chiang-in-conversation-with-m
+ it-president-sally-kornbluth
+END:VEVENT
+END:VCALENDAR

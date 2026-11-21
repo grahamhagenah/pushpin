@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cb73f3c51514125257146760483d9cd1baff993e@pushpin.city
+DTSTAMP:20270110T000000Z
+DTSTART:20270110T220000Z
+DTEND:20270111T000000Z
+SUMMARY:A Show of Support for Don White
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/a-show-of-support-for-
+ don-white/
+URL:https://www.passim.org/live-music/events/a-show-of-support-for-don-whit
+ e/
+END:VEVENT
+END:VCALENDAR

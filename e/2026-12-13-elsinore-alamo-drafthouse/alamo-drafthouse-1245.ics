@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4f0d05a03bd3c4bfb91508026b444ae1fa2403b1@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T174500Z
+DTEND:20261213T194500Z
+SUMMARY:Elsinore
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/elsinore
+URL:https://drafthouse.com/boston/show/elsinore
+END:VEVENT
+END:VCALENDAR

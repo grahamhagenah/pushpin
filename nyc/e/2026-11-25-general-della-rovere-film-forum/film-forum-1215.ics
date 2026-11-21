@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e0d4e70a58f8f7ecdd52dbc85a07a08b12b5bab5@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261125T171500Z
+DTEND:20261125T191500Z
+SUMMARY:General Della Rovere
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/general-della-rovere-rossellini-120
+URL:https://filmforum.org/film/general-della-rovere-rossellini-120
+END:VEVENT
+END:VCALENDAR

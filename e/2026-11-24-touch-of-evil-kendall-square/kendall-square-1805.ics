@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f0986df3705da69ab1edf05e39c4e00a5bf17486@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261124T230500Z
+DTEND:20261125T010500Z
+SUMMARY:Touch of Evil
+LOCATION:Kendall Square\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/91a4dc25-
+ 0b3d-599d-b44c-229c5947cc00
+URL:https://booking.landmarktheatres.com/launch/ticketing/91a4dc25-0b3d-599
+ d-b44c-229c5947cc00
+END:VEVENT
+END:VCALENDAR

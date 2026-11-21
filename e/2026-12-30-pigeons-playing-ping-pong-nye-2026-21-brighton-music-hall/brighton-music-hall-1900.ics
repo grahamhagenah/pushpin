@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e45e29120cad58e7e3ae47ccb578e87ecc517ea1@pushpin.city
+DTSTAMP:20261230T000000Z
+DTSTART:20261231T000000Z
+DTEND:20261231T020000Z
+SUMMARY:Pigeons Playing Ping Pong: NYE 2026 (21+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/pigeons-playing-ping-pong-nye-2026
+ -boston-massachusetts-12-30-2026/event/010064F5E3C3C6AF
+URL:https://www.ticketmaster.com/pigeons-playing-ping-pong-nye-2026-boston-
+ massachusetts-12-30-2026/event/010064F5E3C3C6AF
+END:VEVENT
+END:VCALENDAR

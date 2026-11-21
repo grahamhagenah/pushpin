@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:32d0fc9439c1b094f46043c74072ff1faeb4b215@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T021500Z
+DTEND:20261125T041500Z
+SUMMARY:Network
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/network/
+URL:https://nitehawkcinema.com/prospectpark/movies/network/
+END:VEVENT
+END:VCALENDAR

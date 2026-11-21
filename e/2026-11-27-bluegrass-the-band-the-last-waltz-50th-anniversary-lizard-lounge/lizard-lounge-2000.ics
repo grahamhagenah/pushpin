@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c3fe7e353fac0627953b0df1d14710f45a5b5d07@pushpin.city
+DTSTAMP:20261127T000000Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Bluegrass: The Band\, The Last Waltz 50th Anniversary
+LOCATION:Lizard Lounge\, 1667 Massachusetts Ave\, Cambridge\, MA 02138
+DESCRIPTION:https://lizardloungeclub.com/event/bluegrass-the-band-the-last-
+ waltz-50th-anniversary/
+URL:https://lizardloungeclub.com/event/bluegrass-the-band-the-last-waltz-50
+ th-anniversary/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f068ac34d65a1e5277eaf838b259345fdfd2d91d@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261125T211500Z
+DTEND:20261125T231500Z
+SUMMARY:Hexed
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/hexed
+URL:https://www.thetriplex.org/movie/hexed
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4e81dd0428fa79820af4b9b3c2f66b5e88b466cb@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T194500Z
+DTEND:20261121T214500Z
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/once-upon-a-time-in-harl
+ em
+URL:https://www.westnewtoncinema.com/movie/once-upon-a-time-in-harlem
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aa19a1393a7cc363f1e27743d157afe9773d8371@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261124T230000Z
+DTEND:20261125T010000Z
+SUMMARY:Beaumarchais: Playwright\, Secret Agent\, Revolutionary
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:https://frenchlibrary.org/events/beaumarchais-robert-allison-25
+ 0-2026/
+URL:https://frenchlibrary.org/events/beaumarchais-robert-allison-250-2026/
+END:VEVENT
+END:VCALENDAR

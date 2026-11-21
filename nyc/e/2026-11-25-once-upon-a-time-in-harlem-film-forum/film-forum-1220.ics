@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f69824dcdb4a86536232eda8c634a9a6acd09a48@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261125T172000Z
+DTEND:20261125T192000Z
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/once-upon-a-time-in-harlem
+URL:https://filmforum.org/film/once-upon-a-time-in-harlem
+END:VEVENT
+END:VCALENDAR

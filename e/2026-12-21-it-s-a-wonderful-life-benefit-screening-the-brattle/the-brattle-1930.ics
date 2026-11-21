@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e9c2f969edd09db80e90561f80e3acf4a84698b9@pushpin.city
+DTSTAMP:20261221T000000Z
+DTSTART:20261222T003000Z
+DTEND:20261222T023000Z
+SUMMARY:It's a Wonderful Life Benefit Screening
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.my.salesforce-sites.com/ticket/#/instances/
+ a0FJw00000K1WbpMAF
+URL:https://brattlefilm.my.salesforce-sites.com/ticket/#/instances/a0FJw000
+ 00K1WbpMAF
+END:VEVENT
+END:VCALENDAR

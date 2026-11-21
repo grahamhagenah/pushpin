@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f6b1736d5699e3b84a38572eb18b9a1505ab38c8@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:The Wankers – The Ultimate Britpop/New Wave Experience
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-wankers-the-middle-east-ups
+ tairs-tickets/14323064?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/the-wankers-the-middle-east-upstairs-ti
+ ckets/14323064?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

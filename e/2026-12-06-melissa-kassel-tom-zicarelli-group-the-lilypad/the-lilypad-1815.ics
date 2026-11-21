@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:774bd87477ad54989c91052e7fdc8e29797bf277@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T231500Z
+DTEND:20261207T011500Z
+SUMMARY:Melissa Kassel & Tom Zicarelli Group
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/melissa-kassel-tom-zicar
+ elli-group-oct-7w5w6
+URL:https://www.lilypadinman.com/home/2026/melissa-kassel-tom-zicarelli-gro
+ up-oct-7w5w6
+END:VEVENT
+END:VCALENDAR

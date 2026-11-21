@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b90f672a688a5aed21d7296fef9d31d77e3fd246@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:LPR Presents: S. Carey
+LOCATION:National Sawdust\, 80 N 6th St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.nationalsawdust.org/event/lpr-presents-s-carey
+URL:https://www.nationalsawdust.org/event/lpr-presents-s-carey
+END:VEVENT
+END:VCALENDAR

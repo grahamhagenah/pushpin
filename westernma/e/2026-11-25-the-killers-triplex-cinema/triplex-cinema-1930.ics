@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:261ca9c26ab99b3833a6aeb397a4252e5f1e110f@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261126T003000Z
+DTEND:20261126T023000Z
+SUMMARY:The Killers
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/the-killers
+URL:https://www.thetriplex.org/movie/the-killers
+END:VEVENT
+END:VCALENDAR

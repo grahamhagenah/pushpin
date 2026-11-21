@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0f4980356cf8da4b2e64706301dd4dc06a35dd33@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T220000Z
+DTEND:20261213T000000Z
+SUMMARY:Noboundaryfight XXXI
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/noboundaryfight-xxxi-boston-massac
+ husetts-12-12-2026/event/010064D7E500C675
+URL:https://www.ticketmaster.com/noboundaryfight-xxxi-boston-massachusetts-
+ 12-12-2026/event/010064D7E500C675
+END:VEVENT
+END:VCALENDAR

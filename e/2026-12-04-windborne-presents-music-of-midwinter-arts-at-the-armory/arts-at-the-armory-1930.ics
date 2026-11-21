@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c92c91b0e71b53ba4e48c5635c6cdc9425086464@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:Windborne Presents Music of Midwinter
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/windborne-presents-music-of-
+ midwinter/
+URL:https://artsatthearmory.org/events/windborne-presents-music-of-midwinte
+ r/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:324e3cf9236aa421c16134b297e4d607fd92adf9@pushpin.city
+DTSTAMP:20261127T000000Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:The Hotelier (18+)
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/the-hotelier-18-boston-massachuset
+ ts-11-27-2026/event/0100651FC3CE2C44
+URL:https://www.ticketmaster.com/the-hotelier-18-boston-massachusetts-11-27
+ -2026/event/0100651FC3CE2C44
+END:VEVENT
+END:VCALENDAR

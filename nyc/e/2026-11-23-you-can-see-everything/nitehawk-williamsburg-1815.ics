@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:089fc9bab4dc98ea683c1ba1a9c64658174c9708@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261123T231500Z
+DTEND:20261124T011500Z
+SUMMARY:You Can See Everything
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/you-can-see-ever
+ ything/
+URL:https://nitehawkcinema.com/williamsburg/movies/you-can-see-everything/
+END:VEVENT
+END:VCALENDAR

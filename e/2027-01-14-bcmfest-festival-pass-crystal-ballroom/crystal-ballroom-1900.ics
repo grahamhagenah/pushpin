@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:07bf7b8a4d645d00ddfa211d68466f64d5d7e8cc@pushpin.city
+DTSTAMP:20270114T000000Z
+DTSTART:20270115T000000Z
+DTEND:20270115T020000Z
+SUMMARY:BCMFest: Festival Pass
+LOCATION:Crystal Ballroom\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.ticketmaster.com/bcmfest-festival-pass-somerville-m
+ assachusetts-01-14-2027/event/0100655A421C2F7F
+URL:https://www.ticketmaster.com/bcmfest-festival-pass-somerville-massachus
+ etts-01-14-2027/event/0100655A421C2F7F
+END:VEVENT
+END:VCALENDAR

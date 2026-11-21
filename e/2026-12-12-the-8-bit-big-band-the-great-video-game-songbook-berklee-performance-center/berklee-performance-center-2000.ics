@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ca39ade2863916fe5d4e9db7b8b68f82f9782ae4@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:The 8-Bit Big Band: The Great Video Game Songbook
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/the-8-bit-big-band-the-great
+ -video-game-songbook
+URL:https://www.berklee.edu/BPC/events/the-8-bit-big-band-the-great-video-g
+ ame-songbook
+END:VEVENT
+END:VCALENDAR

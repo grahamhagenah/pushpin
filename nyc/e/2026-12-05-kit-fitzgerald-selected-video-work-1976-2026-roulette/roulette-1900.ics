@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f2cabdd5a369263f3dab4ac6b1f981f4c3db417a@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:Kit Fitzgerald Selected Video Work 1976 – 2026
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/kit-fitzgerald/
+URL:https://roulette.org/event/kit-fitzgerald/
+END:VEVENT
+END:VCALENDAR

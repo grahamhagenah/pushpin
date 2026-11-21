@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4abb12842f18f3d159ef72807031f80dafc419db@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T024500Z
+DTEND:20261122T044500Z
+SUMMARY:NOFX: 40 YEARS OF FUCKIN' UP
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/nofx-40-years-of-fuckin-up
+URL:https://drafthouse.com/boston/show/nofx-40-years-of-fuckin-up
+END:VEVENT
+END:VCALENDAR

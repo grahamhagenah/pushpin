@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:84c50519ee6edfb14b64a7db6afda7e87774b3ff@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:Singers Showcase: Forever Whitney Houston
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/singers-showcase-forever-whi
+ tney-houston
+URL:https://www.berklee.edu/BPC/events/singers-showcase-forever-whitney-hou
+ ston
+END:VEVENT
+END:VCALENDAR

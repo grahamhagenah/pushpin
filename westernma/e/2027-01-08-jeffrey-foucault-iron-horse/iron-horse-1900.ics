@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cec006b8a720fbf6627814a362de62e43c0506ed@pushpin.city
+DTSTAMP:20270108T000000Z
+DTSTART:20270109T000000Z
+DTEND:20270109T020000Z
+SUMMARY:Jeffrey Foucault
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000BMJ2TMAX
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0BMJ2TMAX
+END:VEVENT
+END:VCALENDAR

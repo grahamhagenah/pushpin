@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ca6419c8ecf42dedf5ec4739b7bad73b6f582110@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T000000Z
+DTEND:20261125T020000Z
+SUMMARY:Wildwood
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/wildwood
+URL:https://www.westnewtoncinema.com/movie/wildwood
+END:VEVENT
+END:VCALENDAR

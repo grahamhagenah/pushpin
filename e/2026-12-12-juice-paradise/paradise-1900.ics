@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2df3a111b9713e03b14ae1c0eaa42042369e0ce7@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Juice
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/juice-boston-massachusetts-12-12-2
+ 026/event/010064D9B3803088
+URL:https://www.ticketmaster.com/juice-boston-massachusetts-12-12-2026/even
+ t/010064D9B3803088
+END:VEVENT
+END:VCALENDAR

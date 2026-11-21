@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a6ece0e54ab77911423e34b02a119217503a601d@pushpin.city
+DTSTAMP:20270115T000000Z
+DTSTART:20270116T000000Z
+DTEND:20270116T020000Z
+SUMMARY:Amythyst Kiah
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000BTFYPMA5
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0BTFYPMA5
+END:VEVENT
+END:VCALENDAR

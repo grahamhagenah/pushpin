@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7f927828cc85476390d900461586aa9fadd1df73@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:Chris Lee-Rodriguez
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/12/5/chris-lee-rodriguez
+URL:https://www.lilypadinman.com/home/2026/12/5/chris-lee-rodriguez
+END:VEVENT
+END:VCALENDAR

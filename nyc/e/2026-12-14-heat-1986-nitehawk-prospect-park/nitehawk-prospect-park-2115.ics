@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8f96311079ca1bc408f0e448c139f6d15e7b5585@pushpin.city
+DTSTAMP:20261214T000000Z
+DTSTART:20261215T021500Z
+DTEND:20261215T041500Z
+SUMMARY:Heat (1986)
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/heat-1986/
+URL:https://nitehawkcinema.com/prospectpark/movies/heat-1986/
+END:VEVENT
+END:VCALENDAR

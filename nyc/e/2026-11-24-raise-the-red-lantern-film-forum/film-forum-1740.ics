@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f93d58366253c754312e0191eed30c27b1d195cf@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261124T224000Z
+DTEND:20261125T004000Z
+SUMMARY:Raise the Red Lantern
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/raise-the-red-lantern
+URL:https://filmforum.org/film/raise-the-red-lantern
+END:VEVENT
+END:VCALENDAR

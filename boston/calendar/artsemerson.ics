@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · ArtsEmerson
+X-WR-CALDESC:What’s coming up at ArtsEmerson\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:edbf1cbf9561b8caa4a4c1c7f36b7b68f8640b4a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:Dream Feed
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:Times: 2pm\, 8pm\nhttps://artsemerson.org/event/dream-feed-3/\n
+ From Pushpin Boston: https://pushpin.city/
+URL:https://artsemerson.org/event/dream-feed-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:4a83e67fcf7ba979bec653a0e590807d57f154ed@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:Dream Feed
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/dream-feed/\nFrom Pushpin Boston:
+  https://pushpin.city/
+URL:https://artsemerson.org/event/dream-feed/
+END:VEVENT
+END:VCALENDAR

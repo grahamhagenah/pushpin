@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6cfcf182b8c54069578fc8e826fbd45a796a005e@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T183000Z
+DTEND:20261212T203000Z
+SUMMARY:The Art of Looking: Netherlandish Paintings at the MIT Museum
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://calendar.mit.edu/event/the-art-of-looking-netherlandish
+ -paintings-at-the-mit-museum
+URL:https://calendar.mit.edu/event/the-art-of-looking-netherlandish-paintin
+ gs-at-the-mit-museum
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8b21e0a4da5795f2db93602ae6f3c8122f3d59a8@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T030000Z
+DTEND:20261125T050000Z
+SUMMARY:5 Against the House
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/noirvember-goes-gambling-3-cas
+ ino-noir-picks/
+URL:https://www.spectacletheater.com/noirvember-goes-gambling-3-casino-noir
+ -picks/
+END:VEVENT
+END:VCALENDAR

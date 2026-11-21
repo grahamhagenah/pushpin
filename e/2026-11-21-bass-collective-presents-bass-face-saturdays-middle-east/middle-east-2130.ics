@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ca0aa7d28ee9f6ba9ca5f7ee0c2bee2543d38e01@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T023000Z
+DTEND:20261122T043000Z
+SUMMARY:Bass Collective Presents: Bass Face Saturdays
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/bass-collective-presents-bass-f
+ ace-middle-east-cornerbakery-tickets/14404954?pl=mideastclub&REFID=clients
+ itewp
+URL:https://www.ticketweb.com/event/bass-collective-presents-bass-face-midd
+ le-east-cornerbakery-tickets/14404954?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:befef99ea169ebe1e5ac7ab7766d28a6388e5d16@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T010000Z
+DTEND:20261124T030000Z
+SUMMARY:Talujon with Brian Chase and John Hollenbeck
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/talujon-brian-chase-john-hollenbeck/
+URL:https://roulette.org/event/talujon-brian-chase-john-hollenbeck/
+END:VEVENT
+END:VCALENDAR

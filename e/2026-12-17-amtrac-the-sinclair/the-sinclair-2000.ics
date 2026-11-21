@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9baf065ce8aa7b9316e3f3ef682e8f6dc71c30b2@pushpin.city
+DTSTAMP:20261217T000000Z
+DTSTART:20261218T010000Z
+DTEND:20261218T030000Z
+SUMMARY:Amtrac
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1562195
+URL:https://www.sinclaircambridge.com/events/detail/1562195
+END:VEVENT
+END:VCALENDAR

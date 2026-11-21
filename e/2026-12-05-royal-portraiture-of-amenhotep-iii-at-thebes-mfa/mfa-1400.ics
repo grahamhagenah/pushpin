@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bac34e159416faf580b57c04eeb5fc1494874477@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Royal Portraiture of Amenhotep III at Thebes
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/barbara-w-herman-memorial-lecture/roy
+ al-portraiture-of-amenhotep-iii-at-thebes?event=179111
+URL:https://www.mfa.org/event/barbara-w-herman-memorial-lecture/royal-portr
+ aiture-of-amenhotep-iii-at-thebes?event=179111
+END:VEVENT
+END:VCALENDAR

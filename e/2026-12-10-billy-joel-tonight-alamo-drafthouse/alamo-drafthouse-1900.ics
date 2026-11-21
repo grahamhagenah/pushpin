@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6ab0fe1c1dd0305f5d983c4247897911f7721ee4@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:Billy Joel Tonight
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/billy-joel-tonight
+URL:https://drafthouse.com/boston/show/billy-joel-tonight
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Purgatory
+X-WR-CALDESC:What’s coming up at Purgatory\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:f644c6b22cd99a8b0c64f30df3efe640c1f1b130@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T200000Z
+DTEND:20261121T220000Z
+SUMMARY:Brooklyn Choir Project Sampler Show
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6afb40aa8d8dd300017b06b5\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afb40aa8d8dd300017b06b5
+END:VEVENT
+BEGIN:VEVENT
+UID:3e5819aa215b9940a4b3566f8b0ca2b4a5dcb96f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T000000Z
+DTEND:20261122T020000Z
+SUMMARY:Prom at Purgatory
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6ae8f4b3346df80001c2a4f6\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ae8f4b3346df80001c2a4f6
+END:VEVENT
+BEGIN:VEVENT
+UID:09228c1189341fa431df768d76dba7d8fc72c5cc@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T000000Z
+DTEND:20261123T020000Z
+SUMMARY:DOWNSTAIRS: ICED OUT!
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6afc85535a36ed00017f6004\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afc85535a36ed00017f6004
+END:VEVENT
+BEGIN:VEVENT
+UID:0fec4e60a6742756e5df074fc71a76128f82b0d3@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T000000Z
+DTEND:20261125T020000Z
+SUMMARY:DOWNSTAIRS: Level Up! Video Game Club
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6acd979168c7850001ba9334\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6acd979168c7850001ba9334
+END:VEVENT
+BEGIN:VEVENT
+UID:884a557d36d85147f036a9587d62d11b028d3395@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T003000Z
+DTEND:20261125T023000Z
+SUMMARY:GirlD!#ck Triage!
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6af399ecf16e8f000109ff7e\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af399ecf16e8f000109ff7e
+END:VEVENT
+BEGIN:VEVENT
+UID:c1c5dc19fcaf258e6af842c2da2c6d4550ba1132@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T030000Z
+DTEND:20261126T050000Z
+SUMMARY:Re[Visions]
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6a9431a67cc38b0001cc1547\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a9431a67cc38b0001cc1547
+END:VEVENT
+BEGIN:VEVENT
+UID:924440b40d60498c6eb0be3b1283b39477b6a077@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Binti\, Sumthing Orange\, and Joseph Komari
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6afc823a5816ac0001124502\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afc823a5816ac0001124502
+END:VEVENT
+BEGIN:VEVENT
+UID:c5bfd0e5863e556aceedb48e3fbfb240bfac16dc@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:HOUSE SHOW: A Wrestling Photography Event
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6acc027d75af86000152d4b5\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6acc027d75af86000152d4b5
+END:VEVENT
+BEGIN:VEVENT
+UID:7b2e976e00efc65c610ae202076dc1bfed36a541@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:DOWNSTAIRS: Level Up! Video Game Club
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6acd9791014bdf0001e4358a\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6acd9791014bdf0001e4358a
+END:VEVENT
+BEGIN:VEVENT
+UID:142b2100fad356e245835729b6ec607b03e6ddaa@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:Fantasy Issue 001 Launch Party and Fundraiser
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6afb425b44f33000012dd693\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afb425b44f33000012dd693
+END:VEVENT
+BEGIN:VEVENT
+UID:fe371fb19708049994c7bbc02b76e87050875f0b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:QUEEN OF JEANS\, Wetsuit
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6aaadd6e4ecd190001d1872d\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aaadd6e4ecd190001d1872d
+END:VEVENT
+BEGIN:VEVENT
+UID:8a83fc8da5434ed263faa798d8974ba3ac18df42@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:Bbymutha w/ MegaGoneFree
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6aaadabf4ecd190001e62628\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aaadabf4ecd190001e62628
+END:VEVENT
+BEGIN:VEVENT
+UID:37c6b0b8250be26b0e70e69507dd961c67ab0dbd@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261207T010000Z
+DTEND:20261207T030000Z
+SUMMARY:Ugly Ones\, Lovervoid\, Figure of Fun\, and Psychic of Orange
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6aee68488066410001333f74\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aee68488066410001333f74
+END:VEVENT
+BEGIN:VEVENT
+UID:65871ab7d0699909acebbfacdd0682fd3f7fa858@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261209T000000Z
+DTEND:20261209T020000Z
+SUMMARY:DOWNSTAIRS: Level Up! Video Game Club
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6acd9791acb2f70001a38e18\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6acd9791acb2f70001a38e18
+END:VEVENT
+BEGIN:VEVENT
+UID:bb91e5f0a552d43a1d9d4710e914a56738ef9e7d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261209T010000Z
+DTEND:20261209T030000Z
+SUMMARY:Sabrina & Friends 2nd Annual Holiday Show
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6af29d20b93e4f00019e9ef9\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af29d20b93e4f00019e9ef9
+END:VEVENT
+BEGIN:VEVENT
+UID:6dd6c01491af0f19a4f9ad2eead45eff0df7f300@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Bruiser and Bicycle\, BOYSCOUTMARIE\, Debbie Dopamine\, Houndsteeth
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6afc7e375816ac00018b77d6\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afc7e375816ac00018b77d6
+END:VEVENT
+BEGIN:VEVENT
+UID:590179a9d93c842a3e40638252d586ebe3f209de@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261210T030000Z
+DTEND:20261210T050000Z
+SUMMARY:Re[Visions]
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6a9431a63fb32f0001985838\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a9431a63fb32f0001985838
+END:VEVENT
+BEGIN:VEVENT
+UID:cddf587170744254e75110e748fdc5abcdf27d77@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Rosie Tucker
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6ad7978e3dafd60001ae0311\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad7978e3dafd60001ae0311
+END:VEVENT
+BEGIN:VEVENT
+UID:4682155d66e05a53f2a047fcba023be757df1b89@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T030000Z
+DTEND:20261212T050000Z
+SUMMARY:Emo Christmas
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6ae396c078d3660001d7ca06\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ae396c078d3660001d7ca06
+END:VEVENT
+BEGIN:VEVENT
+UID:ab77d0dab85e7bd9b18e71f6546580ac4e400ff5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:giAnna\, V V N\, and Sybil Creek
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6aff372e781e620001a1b731\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aff372e781e620001a1b731
+END:VEVENT
+BEGIN:VEVENT
+UID:8da271c46a0e391f07f925624c9b9a31fabe845f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261218T010000Z
+DTEND:20261218T030000Z
+SUMMARY:Strawberry Blonde\, Orlando\, and Greta Keating
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6aff3999a17fb700018ac8a4\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aff3999a17fb700018ac8a4
+END:VEVENT
+BEGIN:VEVENT
+UID:89f48ccb8b02f5670908465de57dd60b9f50507b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261219T000000Z
+DTEND:20261219T020000Z
+SUMMARY:Lucky Break\, Jehovah's Princess\, and Second Adolescence
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6aff346ca17fb70001f75ad3\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aff346ca17fb70001f75ad3
+END:VEVENT
+BEGIN:VEVENT
+UID:e68239f6869434cf93b6428bbbb0d1ed71780855@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261220T000000Z
+DTEND:20261220T020000Z
+SUMMARY:diet lemon w/ Tyler Ransom and Leo Lav
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6ad7b3639dbbd9000174a488\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad7b3639dbbd9000174a488
+END:VEVENT
+BEGIN:VEVENT
+UID:cc911734b2faafaa32f21d156ad5330a8aff8ee2@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20270115T010000Z
+DTEND:20270115T030000Z
+SUMMARY:STARDISCO: New York
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6b00b0bfad89d00001fbef5d\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6b00b0bfad89d00001fbef5d
+END:VEVENT
+BEGIN:VEVENT
+UID:67dd1e31a89fc8c2bac3e9ede44113fd428b1777@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20270116T000000Z
+DTEND:20270116T020000Z
+SUMMARY:Ultra Deluxe\, Cape Crush\, thisdogllhunt\, and Cotillion
+LOCATION:Purgatory\, 675 Central Ave\, Brooklyn\, NY 11207
+DESCRIPTION:https://dice.fm/event/6ae15c94845f100001a405eb\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ae15c94845f100001a405eb
+END:VEVENT
+END:VCALENDAR

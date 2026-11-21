@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:221f9483c26c98b28a8e93f4f2152c457077695f@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T023000Z
+DTEND:20261204T043000Z
+SUMMARY:Twin Peaks: The Return (Part 3 & 4)
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/special_events/twin-peaks-the-return-pa
+ rt-3-4/
+URL:https://brattlefilm.org/special_events/twin-peaks-the-return-part-3-4/
+END:VEVENT
+END:VCALENDAR

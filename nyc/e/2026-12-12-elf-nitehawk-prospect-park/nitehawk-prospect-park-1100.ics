@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2160889873d43a17a64cad27d5cf2c33c9a1a894@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Elf
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/elf/
+URL:https://nitehawkcinema.com/prospectpark/movies/elf/
+END:VEVENT
+END:VCALENDAR

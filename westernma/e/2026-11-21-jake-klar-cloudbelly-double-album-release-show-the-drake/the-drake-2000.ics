@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c7b3a9965100dd7701c19348a331c0723f3bb440@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:JAKE KLAR & CLOUDBELLY - Double Album Release Show
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/jake-klar-cloudbelly-dou
+ ble-album-release-show
+URL:https://www.thedrakeamherst.org/events/jake-klar-cloudbelly-double-albu
+ m-release-show
+END:VEVENT
+END:VCALENDAR

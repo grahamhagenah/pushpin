@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:873cf34acdc522f0d9cf6f6b06cfced62379d8d9@pushpin.city
+DTSTAMP:20261126T000000Z
+DTSTART:20261127T025000Z
+DTEND:20261127T045000Z
+SUMMARY:Best Pancakes in the County
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/best-pancakes-in-the-county/
+URL:https://www.ifccenter.com/films/best-pancakes-in-the-county/
+END:VEVENT
+END:VCALENDAR

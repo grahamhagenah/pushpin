@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ea5f3d9013171ffca1140614a62b31b476aa3a27@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T185000Z
+DTEND:20261213T205000Z
+SUMMARY:Afternoons of Solitude
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005127-afternoons-of-solitude/
+URL:https://metrograph.com/film/9999005127-afternoons-of-solitude/
+END:VEVENT
+END:VCALENDAR

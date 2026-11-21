@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5a7240afbbc08a034bb1fd291da9fdf0454e915b@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T010000Z
+DTEND:20261124T030000Z
+SUMMARY:Berklee Symphonic Winds Fall Concert: Together\, We Can
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/berklee-symphonic-winds-fall
+ -concert-together-we-can
+URL:https://www.berklee.edu/BPC/events/berklee-symphonic-winds-fall-concert
+ -together-we-can
+END:VEVENT
+END:VCALENDAR

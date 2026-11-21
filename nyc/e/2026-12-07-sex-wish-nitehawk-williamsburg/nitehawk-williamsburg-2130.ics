@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6ea98fb35a292e6f26893fe25f3ee000c1bb7ef1@pushpin.city
+DTSTAMP:20261207T000000Z
+DTSTART:20261208T023000Z
+DTEND:20261208T043000Z
+SUMMARY:Sex Wish
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/sex-wish/
+URL:https://nitehawkcinema.com/williamsburg/movies/sex-wish/
+END:VEVENT
+END:VCALENDAR

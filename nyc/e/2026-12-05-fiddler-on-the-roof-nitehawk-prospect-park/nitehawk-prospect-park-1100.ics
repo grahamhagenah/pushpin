@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ee676ad3dcbe8367ff9f95e4b4716fe2eaafc215@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Fiddler on the Roof
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/fiddler-on-the-r
+ oof/
+URL:https://nitehawkcinema.com/prospectpark/movies/fiddler-on-the-roof/
+END:VEVENT
+END:VCALENDAR

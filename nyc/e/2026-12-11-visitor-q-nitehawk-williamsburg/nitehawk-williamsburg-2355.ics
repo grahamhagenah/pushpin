@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:84931be3d46c2f69c22d80ce3ef216fee0fcc713@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T045500Z
+DTEND:20261212T065500Z
+SUMMARY:Visitor Q
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/visitor-q/
+URL:https://nitehawkcinema.com/williamsburg/movies/visitor-q/
+END:VEVENT
+END:VCALENDAR

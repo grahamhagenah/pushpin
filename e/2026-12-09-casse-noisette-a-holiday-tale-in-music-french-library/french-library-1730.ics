@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b49770511ab20625f231ca8036bea88e19127b25@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261209T223000Z
+DTEND:20261210T003000Z
+SUMMARY:Casse-Noisette: A Holiday Tale in Music
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:https://frenchlibrary.org/events/french_nutcracker-2026/
+URL:https://frenchlibrary.org/events/french_nutcracker-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a057578990d755df58a42217ff6fda423e6f184d@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261125T210000Z
+DTEND:20261125T230000Z
+SUMMARY:You Can See Everything
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:https://quadcinema.com/film/you-can-see-everything/
+URL:https://quadcinema.com/film/you-can-see-everything/
+END:VEVENT
+END:VCALENDAR

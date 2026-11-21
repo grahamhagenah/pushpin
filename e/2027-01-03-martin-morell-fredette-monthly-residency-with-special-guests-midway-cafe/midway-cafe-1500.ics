@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:48325342ed2e579ec3a565dd9d5f1bb83051e610@pushpin.city
+DTSTAMP:20270103T000000Z
+DTSTART:20270103T200000Z
+DTEND:20270103T220000Z
+SUMMARY:Martin / Morell / Fredette (monthly residency) with special guests!
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/1474/1799006400000
+URL:https://tockify.com/midwaycafejp/detail/1474/1799006400000
+END:VEVENT
+END:VCALENDAR

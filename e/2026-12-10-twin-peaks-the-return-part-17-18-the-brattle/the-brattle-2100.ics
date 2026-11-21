@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4445f68e8fddd3ef225d4aa9e5dbfbd82bfcdfc3@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T020000Z
+DTEND:20261211T040000Z
+SUMMARY:Twin Peaks: The Return (Part 17 & 18)
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/special_events/twin-peaks-the-return-pa
+ rt-17-18/
+URL:https://brattlefilm.org/special_events/twin-peaks-the-return-part-17-18
+ /
+END:VEVENT
+END:VCALENDAR

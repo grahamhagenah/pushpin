@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:64048b70b7606eb8d196f2fa706f5fd1d1dfe4bc@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261220T010000Z
+DTEND:20261220T030000Z
+SUMMARY:Leila Bordreuil: Numinosum
+LOCATION:ISSUE Project Room\, 22 Boerum Pl\, Brooklyn\, NY 11201
+DESCRIPTION:https://issueprojectroom.org/event/leila-bordreuil-numinosum
+URL:https://issueprojectroom.org/event/leila-bordreuil-numinosum
+END:VEVENT
+END:VCALENDAR

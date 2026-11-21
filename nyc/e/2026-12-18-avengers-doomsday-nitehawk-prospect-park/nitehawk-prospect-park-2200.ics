@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2fd14aad655d61f4436fab23d932cb5dd7c33772@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T030000Z
+DTEND:20261219T050000Z
+SUMMARY:Avengers: Doomsday
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/avengers-doomsda
+ y/
+URL:https://nitehawkcinema.com/prospectpark/movies/avengers-doomsday/
+END:VEVENT
+END:VCALENDAR

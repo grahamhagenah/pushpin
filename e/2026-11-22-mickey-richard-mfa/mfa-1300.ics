@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:86ed7d053ffaf32e4e0c3a565742d02f1d89de2a@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T180000Z
+DTEND:20261122T200000Z
+SUMMARY:Mickey & Richard
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/mickey-richard?event=181746
+URL:https://www.mfa.org/event/film/mickey-richard?event=181746
+END:VEVENT
+END:VCALENDAR

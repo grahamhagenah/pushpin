@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9d83393106070f7315fb584304e0e9b07f66a6f9@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T003000Z
+DTEND:20261122T023000Z
+SUMMARY:Goodnight Moonshine + Seth Walker
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000ChOTBMA3
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0ChOTBMA3
+END:VEVENT
+END:VCALENDAR

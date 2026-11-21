@@ -1,0 +1,483 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Capitol Theatre
+X-WR-CALDESC:What’s coming up at Capitol Theatre\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:f00b52991a15c95ac0e67998f579b5d071dacf52@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T170000Z
+DTEND:20261121T190000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12pm\, 3:30pm\, 7:15pm\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-ev
+ erything/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:7e64deacb9ac0d28b2ec5b8ea8c58d2ab09da1bb@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T171500Z
+DTEND:20261121T191500Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12:15pm\, 3:45pm\, 7pm\nReturn to the world of Panem 24 
+ years before the events of the original The Hunger Games\, starting on the
+  morning of the reaping of the 50th Hunger Games. The story chronicles the
+  youth and origins of Haymitch Abernathy as he navigates the deadly arena 
+ under the peak of President Snow’s tyrannical reign\nhttps://www.capitol
+ theatreusa.com/movie/the-hunger-games-sunrise-on-the-reaping/\nFrom Pushpi
+ n Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-hunger-games-sunrise-on-the
+ -reaping/
+END:VEVENT
+BEGIN:VEVENT
+UID:690ec00e8787e61649d7d5eaa000c123c488e02a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T183000Z
+DTEND:20261121T203000Z
+SUMMARY:I Play Rocky
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 1:30pm\, 4:30pm\, 7:30pm\nThe electrifying true story ab
+ out an unknown actor with an unshakable belief that he wasn’t just meant
+  to write Rocky-he was meant to be Rocky Balboa. Told “no” at every tu
+ rn\, Sylvester Stallone bets everything on himself\, holding the line on p
+ laying the lead against seemingly impossible odds.\nhttps://www.capitolthe
+ atreusa.com/movie/i-play-rocky/\nFrom Pushpin Boston: https://pushpin.city
+ /
+URL:https://www.capitoltheatreusa.com/movie/i-play-rocky/
+END:VEVENT
+BEGIN:VEVENT
+UID:28ba01dd8f710ea159a4dc02385555a341523eda@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T234500Z
+DTEND:20261122T014500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Harry Lehman is an aging pickpocket who plies his trade with ev
+ er-diminishing returns in a drastically changed New York. Wallets stuffed 
+ with cash have been replaced by easily cancelled credit cards\, and Harry 
+ struggles to make ends meet as he cares for his disabled wife\, Rosie. Whe
+ n he unwittingly purloins and fences a valuable USB…\nhttps://www.capito
+ ltheatreusa.com/movie/the-only-living-pickpocket-in-new-york/\nFrom Pushpi
+ n Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-in-n
+ ew-york/
+END:VEVENT
+BEGIN:VEVENT
+UID:aad84409067404c8ba1a4376a8d604e633451ed9@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T004000Z
+DTEND:20261122T024000Z
+SUMMARY:How to Rob a Bank
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:A crew of social media-savvy bank robbers broadcasts their dari
+ ng heists\, unaware that their growing viral fame has put them in the cros
+ shairs of a veteran FBI agent and a brilliant software engineer. Despite t
+ he unlikely duo closing in\, the crime ring pushes past their limits\, put
+ ting everything on the line for their most ambitious…\nhttps://www.capit
+ oltheatreusa.com/movie/how-to-rob-a-bank/\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/
+END:VEVENT
+BEGIN:VEVENT
+UID:1a992d44aa72ad56fb2fdeea3a837ffb4cd415b9@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T170000Z
+DTEND:20261122T190000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12pm\, 3:30pm\, 7:15pm\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-ev
+ erything/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:4966c635b99cd789af85b08e45c1a905ba653153@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T171500Z
+DTEND:20261122T191500Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12:15pm\, 3:45pm\, 7pm\nReturn to the world of Panem 24 
+ years before the events of the original The Hunger Games\, starting on the
+  morning of the reaping of the 50th Hunger Games. The story chronicles the
+  youth and origins of Haymitch Abernathy as he navigates the deadly arena 
+ under the peak of President Snow’s tyrannical reign\nhttps://www.capitol
+ theatreusa.com/movie/the-hunger-games-sunrise-on-the-reaping/\nFrom Pushpi
+ n Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-hunger-games-sunrise-on-the
+ -reaping/
+END:VEVENT
+BEGIN:VEVENT
+UID:6fb85421a072586f74a209896ab99ef97961f892@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T183000Z
+DTEND:20261122T203000Z
+SUMMARY:I Play Rocky
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 1:30pm\, 4:30pm\, 7:30pm\nThe electrifying true story ab
+ out an unknown actor with an unshakable belief that he wasn’t just meant
+  to write Rocky-he was meant to be Rocky Balboa. Told “no” at every tu
+ rn\, Sylvester Stallone bets everything on himself\, holding the line on p
+ laying the lead against seemingly impossible odds.\nhttps://www.capitolthe
+ atreusa.com/movie/i-play-rocky/\nFrom Pushpin Boston: https://pushpin.city
+ /
+URL:https://www.capitoltheatreusa.com/movie/i-play-rocky/
+END:VEVENT
+BEGIN:VEVENT
+UID:549c35c2b321fec8d78dc100a8f0ed47524e7f4f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T234500Z
+DTEND:20261123T014500Z
+SUMMARY:The Cat in the Hat
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Assigned his toughest mission yet\, the Cat must cheer up sibli
+ ngs Gabby and Sebastian as they adjust to life in a new town. Known for pu
+ shing boundaries\, this agent of chaos must prove himself or risk losing h
+ is magical hat forever.\nhttps://www.capitoltheatreusa.com/movie/the-cat-i
+ n-the-hat/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-cat-in-the-hat/
+END:VEVENT
+BEGIN:VEVENT
+UID:28753eba09d90bb21410157cdd1074e9ec87e3d9@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T001500Z
+DTEND:20261123T021500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Harry Lehman is an aging pickpocket who plies his trade with ev
+ er-diminishing returns in a drastically changed New York. Wallets stuffed 
+ with cash have been replaced by easily cancelled credit cards\, and Harry 
+ struggles to make ends meet as he cares for his disabled wife\, Rosie. Whe
+ n he unwittingly purloins and fences a valuable USB…\nhttps://www.capito
+ ltheatreusa.com/movie/the-only-living-pickpocket-in-new-york/\nFrom Pushpi
+ n Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-in-n
+ ew-york/
+END:VEVENT
+BEGIN:VEVENT
+UID:f43e66f413073f293f470ba9ea4087c79939dfea@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T170000Z
+DTEND:20261123T190000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12pm\, 3:45pm\, 7pm\nReturn to the world of Panem 24 yea
+ rs before the events of the original The Hunger Games\, starting on the mo
+ rning of the reaping of the 50th Hunger Games. The story chronicles the yo
+ uth and origins of Haymitch Abernathy as he navigates the deadly arena und
+ er the peak of President Snow’s tyrannical reign\nhttps://www.capitolthe
+ atreusa.com/movie/the-hunger-games-sunrise-on-the-reaping/\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-hunger-games-sunrise-on-the
+ -reaping/
+END:VEVENT
+BEGIN:VEVENT
+UID:91b1013809c9d347e8010adcbc9c193cf6147e59@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T203000Z
+DTEND:20261123T223000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:30pm\, 7:15pm\nThirty-four days before she’s sent to
+  prison\, notorious Silicon Valley founder Elizabeth Holmes invites a skep
+ tical film crew to document her every move. What begins as an intimate por
+ trait of an enigmatic felon becomes a mind-bending three-year journey into
+  the abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-everythin
+ g/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb927723e6753e4b0f35cb766dee4f19619d90a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T210000Z
+DTEND:20261123T230000Z
+SUMMARY:The Cat in the Hat
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Assigned his toughest mission yet\, the Cat must cheer up sibli
+ ngs Gabby and Sebastian as they adjust to life in a new town. Known for pu
+ shing boundaries\, this agent of chaos must prove himself or risk losing h
+ is magical hat forever.\nhttps://www.capitoltheatreusa.com/movie/the-cat-i
+ n-the-hat/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-cat-in-the-hat/
+END:VEVENT
+BEGIN:VEVENT
+UID:361bbe3965c3c23aadc88bbedde3a4c54d7d15c0@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T213000Z
+DTEND:20261123T233000Z
+SUMMARY:I Play Rocky
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 4:30pm\, 7:30pm\nThe electrifying true story about an un
+ known actor with an unshakable belief that he wasn’t just meant to write
+  Rocky-he was meant to be Rocky Balboa. Told “no” at every turn\, Sylv
+ ester Stallone bets everything on himself\, holding the line on playing th
+ e lead against seemingly impossible odds.\nhttps://www.capitoltheatreusa.c
+ om/movie/i-play-rocky/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/i-play-rocky/
+END:VEVENT
+BEGIN:VEVENT
+UID:55c5e67189bce720d7805ba7d5feab3d41db40d1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T214500Z
+DTEND:20261123T234500Z
+SUMMARY:How to Rob a Bank
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 4:45pm\, 7:40pm\nA crew of social media-savvy bank robbe
+ rs broadcasts their daring heists\, unaware that their growing viral fame 
+ has put them in the crosshairs of a veteran FBI agent and a brilliant soft
+ ware engineer. Despite the unlikely duo closing in\, the crime ring pushes
+  past their limits\, putting everything on the line for their most ambitio
+ us…\nhttps://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/
+END:VEVENT
+BEGIN:VEVENT
+UID:cbaf6a04c6000044a0d3d43a8fa88526c8903352@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T234500Z
+DTEND:20261124T014500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Harry Lehman is an aging pickpocket who plies his trade with ev
+ er-diminishing returns in a drastically changed New York. Wallets stuffed 
+ with cash have been replaced by easily cancelled credit cards\, and Harry 
+ struggles to make ends meet as he cares for his disabled wife\, Rosie. Whe
+ n he unwittingly purloins and fences a valuable USB…\nhttps://www.capito
+ ltheatreusa.com/movie/the-only-living-pickpocket-in-new-york/\nFrom Pushpi
+ n Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-in-n
+ ew-york/
+END:VEVENT
+BEGIN:VEVENT
+UID:5c5958182058da657c4a76682305fb8f375ffb3f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T203000Z
+DTEND:20261124T223000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:30pm\, 7:15pm\nThirty-four days before she’s sent to
+  prison\, notorious Silicon Valley founder Elizabeth Holmes invites a skep
+ tical film crew to document her every move. What begins as an intimate por
+ trait of an enigmatic felon becomes a mind-bending three-year journey into
+  the abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-everythin
+ g/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:98ebb05b7ff7ed82d3f0aeaab2b58cb2e2a2ad28@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T204500Z
+DTEND:20261124T224500Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:45pm\, 7pm\nReturn to the world of Panem 24 years befo
+ re the events of the original The Hunger Games\, starting on the morning o
+ f the reaping of the 50th Hunger Games. The story chronicles the youth and
+  origins of Haymitch Abernathy as he navigates the deadly arena under the 
+ peak of President Snow’s tyrannical reign\nhttps://www.capitoltheatreusa
+ .com/movie/the-hunger-games-sunrise-on-the-reaping/\nFrom Pushpin Boston: 
+ https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-hunger-games-sunrise-on-the
+ -reaping/
+END:VEVENT
+BEGIN:VEVENT
+UID:7f29a5071cdd669ccd1b984588293894ae2c76c5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T210000Z
+DTEND:20261124T230000Z
+SUMMARY:The Cat in the Hat
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Assigned his toughest mission yet\, the Cat must cheer up sibli
+ ngs Gabby and Sebastian as they adjust to life in a new town. Known for pu
+ shing boundaries\, this agent of chaos must prove himself or risk losing h
+ is magical hat forever.\nhttps://www.capitoltheatreusa.com/movie/the-cat-i
+ n-the-hat/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-cat-in-the-hat/
+END:VEVENT
+BEGIN:VEVENT
+UID:315600914fde72d978aa0abc7c8ed65beb29d7cc@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T213000Z
+DTEND:20261124T233000Z
+SUMMARY:I Play Rocky
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 4:30pm\, 7:30pm\nThe electrifying true story about an un
+ known actor with an unshakable belief that he wasn’t just meant to write
+  Rocky-he was meant to be Rocky Balboa. Told “no” at every turn\, Sylv
+ ester Stallone bets everything on himself\, holding the line on playing th
+ e lead against seemingly impossible odds.\nhttps://www.capitoltheatreusa.c
+ om/movie/i-play-rocky/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/i-play-rocky/
+END:VEVENT
+BEGIN:VEVENT
+UID:136673c8861d177f5eff130bc5b1a6431d79049c@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T214500Z
+DTEND:20261124T234500Z
+SUMMARY:How to Rob a Bank
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 4:45pm\, 7:40pm\nA crew of social media-savvy bank robbe
+ rs broadcasts their daring heists\, unaware that their growing viral fame 
+ has put them in the crosshairs of a veteran FBI agent and a brilliant soft
+ ware engineer. Despite the unlikely duo closing in\, the crime ring pushes
+  past their limits\, putting everything on the line for their most ambitio
+ us…\nhttps://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/how-to-rob-a-bank/
+END:VEVENT
+BEGIN:VEVENT
+UID:84b6a70b4775d2510a81ef1cbc65909bb73b3166@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T234500Z
+DTEND:20261125T014500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Harry Lehman is an aging pickpocket who plies his trade with ev
+ er-diminishing returns in a drastically changed New York. Wallets stuffed 
+ with cash have been replaced by easily cancelled credit cards\, and Harry 
+ struggles to make ends meet as he cares for his disabled wife\, Rosie. Whe
+ n he unwittingly purloins and fences a valuable USB…\nhttps://www.capito
+ ltheatreusa.com/movie/the-only-living-pickpocket-in-new-york/\nFrom Pushpi
+ n Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-only-living-pickpocket-in-n
+ ew-york/
+END:VEVENT
+BEGIN:VEVENT
+UID:1f9375cda3f37ed74f5e285e2aef23d6ffdb3c11@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T000000Z
+DTEND:20261125T020000Z
+SUMMARY:Celluloid Confidential
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Celluloid Confidential returns with a horror 16mm marathon!\nht
+ tps://www.capitoltheatreusa.com/movie/celluloid-confidential/\nFrom Pushpi
+ n Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/celluloid-confidential/
+END:VEVENT
+BEGIN:VEVENT
+UID:a77059afe45dfdade9d79f603486632a83b720e5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T170000Z
+DTEND:20261125T190000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12pm\, 3:30pm\nThirty-four days before she’s sent to p
+ rison\, notorious Silicon Valley founder Elizabeth Holmes invites a skepti
+ cal film crew to document her every move. What begins as an intimate portr
+ ait of an enigmatic felon becomes a mind-bending three-year journey into t
+ he abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-everything/
+ \nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:e6671f60342901dc3625c226c89e56d60081ba8c@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T171000Z
+DTEND:20261125T191000Z
+SUMMARY:Hexed
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12:10pm\, 2:30pm\, 5pm\, 7:20pm\nAn impulsive and unconv
+ entional teenage girl named Billie discovers secret magical abilities whic
+ h\, once unleashed\, hurtle her into a spectacle-filled journey out of sub
+ urbia and into a vast witch realm called Hexe. Forced to team up with her 
+ cautious mother\, Alice\, they uncover family mysteries that could change 
+ the world of witches forever.\nhttps://www.capitoltheatreusa.com/movie/hex
+ ed/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/hexed/
+END:VEVENT
+BEGIN:VEVENT
+UID:b661f96aae5badddf4d20690a3b7d79a58cf7398@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T171500Z
+DTEND:20261125T191500Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12:15pm\, 3:45pm\, 7pm\nReturn to the world of Panem 24 
+ years before the events of the original The Hunger Games\, starting on the
+  morning of the reaping of the 50th Hunger Games. The story chronicles the
+  youth and origins of Haymitch Abernathy as he navigates the deadly arena 
+ under the peak of President Snow’s tyrannical reign\nhttps://www.capitol
+ theatreusa.com/movie/the-hunger-games-sunrise-on-the-reaping/\nFrom Pushpi
+ n Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-hunger-games-sunrise-on-the
+ -reaping/
+END:VEVENT
+BEGIN:VEVENT
+UID:fe11971688c953d7df6197921d55bb4ee5f39ef4@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T173000Z
+DTEND:20261125T193000Z
+SUMMARY:Focker-in-Law
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12:30pm\, 2:45pm\, 5:15pm\, 7:40pm\nGreg Focker’s anxi
+ eties spiral when his son brings home a formidable new girlfriend and reve
+ als that he plans to propose. Focker-in-Law is the latest in the “Meet t
+ he Parents” franchise and features Robert De Niro\, Ben Stiller\, Ariana
+  Grande\, Owen Wilson\, Blythe Danner\, Teri Polo\, Skyler Gisondo\, Beani
+ e Feldstein\, and Eduardo Franco.\nhttps://www.capitoltheatreusa.com/movie
+ /focker-in-law/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/focker-in-law/
+END:VEVENT
+BEGIN:VEVENT
+UID:15428c7b49acd156029383a7f899546fd5729805@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T181500Z
+DTEND:20261125T201500Z
+SUMMARY:I Play Rocky
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7:30pm\nThe electrifying true story ab
+ out an unknown actor with an unshakable belief that he wasn’t just meant
+  to write Rocky-he was meant to be Rocky Balboa. Told “no” at every tu
+ rn\, Sylvester Stallone bets everything on himself\, holding the line on p
+ laying the lead against seemingly impossible odds.\nhttps://www.capitolthe
+ atreusa.com/movie/i-play-rocky/\nFrom Pushpin Boston: https://pushpin.city
+ /
+URL:https://www.capitoltheatreusa.com/movie/i-play-rocky/
+END:VEVENT
+BEGIN:VEVENT
+UID:297313d27be1c5106b9c784470ff24b1ca34f5d1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Alice's Restaurant
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Inspired by Arlo Guthrie’s song “The Alice’s Restaurant M
+ assacree\,” Bonnie and Clyde director Arthur Penn (with screenwriting su
+ pport from Venable Herndon) took the loose and rambling structure of the s
+ ong and transformed it into a lyrical and bittersweet movie\, starring Gut
+ hrie as himself. Alice’s Restaurant was filmed in and around Stockbridge
+ \, Pittsfield\, and Great Barrington\, Massachusetts\, and…\nhttps://www
+ .capitoltheatreusa.com/movie/alices-restaurant/\nFrom Pushpin Boston: http
+ s://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/alices-restaurant/
+END:VEVENT
+BEGIN:VEVENT
+UID:54a1a2c6196e2d01e99661fd53fab64513e2672f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Christmas in Connecticut
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Barbara Stanwyck stars as a famous expert on marriage\, cooking
+  and homemaking who is asked by her publisher to host a national hero for 
+ Christmas dinner at her famous Connecticut home. It should be simple\, but
+  she must scramble to keep the secret that she’s single\, can’t cook a
+ nd doesn’t own a home. With a…\nhttps://www.capitoltheatreusa.com/movi
+ e/christmas-in-connecticut/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/christmas-in-connecticut/
+END:VEVENT
+END:VCALENDAR

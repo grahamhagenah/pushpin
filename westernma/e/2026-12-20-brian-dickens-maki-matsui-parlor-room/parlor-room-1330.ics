@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d7b9c09a98fe6885c6aef6fc81459b31f6963de9@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T183000Z
+DTEND:20261220T203000Z
+SUMMARY:Brian Dickens + Maki Matsui
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000CzpjRMAR
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0CzpjRMAR
+END:VEVENT
+END:VCALENDAR

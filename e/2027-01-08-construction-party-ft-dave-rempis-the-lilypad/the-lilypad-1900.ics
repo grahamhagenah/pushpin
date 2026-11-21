@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cab7ff3e2b5dc80202ea2661485e86eed5a41f24@pushpin.city
+DTSTAMP:20270108T000000Z
+DTSTART:20270109T000000Z
+DTEND:20270109T020000Z
+SUMMARY:Construction Party ft. Dave Rempis
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2027/1/8/construction-party-f
+ eaturing-dave-rempis
+URL:https://www.lilypadinman.com/home/2027/1/8/construction-party-featuring
+ -dave-rempis
+END:VEVENT
+END:VCALENDAR

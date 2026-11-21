@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ae13fb495c6a41065b0fdae704cccc378239dcf2@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261124T173000Z
+DTEND:20261124T193000Z
+SUMMARY:Gallery Talk: On Location: Drawing the Outdoors
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardartmuseums.org/event/4251
+URL:https://harvardartmuseums.org/event/4251
+END:VEVENT
+END:VCALENDAR

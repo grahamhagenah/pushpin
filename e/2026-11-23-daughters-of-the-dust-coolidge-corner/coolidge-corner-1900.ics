@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e5578e83a764603b37f7ced5549c8534cf532ae7@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T000000Z
+DTEND:20261124T020000Z
+SUMMARY:Daughters of the Dust
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/films/daughters-dust
+URL:https://coolidge.org/films/daughters-dust
+END:VEVENT
+END:VCALENDAR

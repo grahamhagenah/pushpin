@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dd86dea8f93d366df24c517305d92a9f2b718808@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261211T233000Z
+DTEND:20261212T013000Z
+SUMMARY:Different Images
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62340
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62340
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d6f703153940fdd4d5e42fbdd504091a6cd6ff9e@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:Little Billy Lost | Typhoid Mary | Crow Follow | The BickerSins
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/2745/1795309200000
+URL:https://tockify.com/midwaycafejp/detail/2745/1795309200000
+END:VEVENT
+END:VCALENDAR

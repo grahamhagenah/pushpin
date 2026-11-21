@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9634b3da0ae3302fe330d4f55d0e9b13c02dbeab@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:EC: The General
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62237
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62237
+END:VEVENT
+END:VCALENDAR

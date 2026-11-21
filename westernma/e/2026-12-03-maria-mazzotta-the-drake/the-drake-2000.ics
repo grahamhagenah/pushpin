@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cbb65b0691c377304af66932dde12f687dc73145@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:MARIA MAZZOTTA
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/maria-mazzotta
+URL:https://www.thedrakeamherst.org/events/maria-mazzotta
+END:VEVENT
+END:VCALENDAR

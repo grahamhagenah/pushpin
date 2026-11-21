@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8b04d7dbad095547400aa5d5b03f185f733988f8@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T004500Z
+DTEND:20261123T024500Z
+SUMMARY:Maîtres Anciens – Comédie
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62216
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62216
+END:VEVENT
+END:VCALENDAR

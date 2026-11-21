@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fc6c8b63622af80a53487417a8c20c005f1c516a@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T234500Z
+DTEND:20261130T014500Z
+SUMMARY:Les Extemps
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/9/27/les-extemps-8ktal
+URL:https://www.lilypadinman.com/home/2026/9/27/les-extemps-8ktal
+END:VEVENT
+END:VCALENDAR

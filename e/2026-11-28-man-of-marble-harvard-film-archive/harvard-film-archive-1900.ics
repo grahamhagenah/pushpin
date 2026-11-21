@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e270663265814e10807b2e2712cb9055160f7bca@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Man of Marble
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardfilmarchive.org/calendar/man-of-marble-2026-11
+URL:https://harvardfilmarchive.org/calendar/man-of-marble-2026-11
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1897 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Metrograph
+X-WR-CALDESC:What’s coming up at Metrograph\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:43fedc829f0ee4e6c02a32c63dc3916c671951d6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T170000Z
+DTEND:20261121T190000Z
+SUMMARY:That Day\, On The Beach
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Edward Yang · 1983 · 166min · DCP\nhttps://metrograph.com/fi
+ lm/9999001444-that-day-on-the-beach/\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://metrograph.com/film/9999001444-that-day-on-the-beach/
+END:VEVENT
+BEGIN:VEVENT
+UID:722d92182672366b27234af2f9b8f3420d3c0115@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T180000Z
+DTEND:20261121T200000Z
+SUMMARY:Other People's Children
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Rebecca Zlotowski · 2022 · 104min · DCP\nhttps://metrograph.
+ com/film/9999005094-other-peoples-children/\nFrom Pushpin NYC: https://pus
+ hpin.city/nyc/
+URL:https://metrograph.com/film/9999005094-other-peoples-children/
+END:VEVENT
+BEGIN:VEVENT
+UID:758b8852deccd853364d65c4b3ce67a8d491e6f1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T201000Z
+DTEND:20261121T221000Z
+SUMMARY:Sibyl
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Justine Triet · 2019 · 101min · DCP\nhttps://metrograph.com/
+ film/9999003805-sibyl/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003805-sibyl/
+END:VEVENT
+BEGIN:VEVENT
+UID:b4d8f81a1a926400b6a4f279359f75d1ca816bee@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T201500Z
+DTEND:20261121T221500Z
+SUMMARY:Gunvor Nelson Program 1
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Gunvor Nelson · 1973 · 85min · 16mm\nhttps://metrograph.com/
+ film/9999005097-gunvor-nelson-program-1/\nFrom Pushpin NYC: https://pushpi
+ n.city/nyc/
+URL:https://metrograph.com/film/9999005097-gunvor-nelson-program-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:6becd334e74aaaf6051eb042868af4feb171b9b6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T221000Z
+DTEND:20261122T001000Z
+SUMMARY:ACE Presents: Ghost World
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Terry Zwigoff · 2001 · 111min · DCP\nhttps://metrograph.com/
+ film/9999005096-ace-presents-ghost-world/\nFrom Pushpin NYC: https://pushp
+ in.city/nyc/
+URL:https://metrograph.com/film/9999005096-ace-presents-ghost-world/
+END:VEVENT
+BEGIN:VEVENT
+UID:28e0eb31573dc6b65efdbb826e28e87c8d4657d4@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T221500Z
+DTEND:20261122T001500Z
+SUMMARY:Secrets & Lies
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Mike Leigh · 1996 · 136min · DCP\nhttps://metrograph.com/fil
+ m/9999003282-secrets-lies/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003282-secrets-lies/
+END:VEVENT
+BEGIN:VEVENT
+UID:d50464189a172051c78683062ec25f59c0862a32@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:Come Back to the 5 & Dime\, Jimmy Dean\, Jimmy Dean
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Robert Altman · 1982 · 109min · 4K DCP\nhttps://metrograph.c
+ om/film/9999003186-come-back-to-the-5-dime-jimmy-dean-jimmy-dean/\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003186-come-back-to-the-5-dime-jimmy-de
+ an-jimmy-dean/
+END:VEVENT
+BEGIN:VEVENT
+UID:af7c3c693759d91e43463dcb84037477b93a8342@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:The Ascent
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Larisa Shepitko · 1977 · 111min · DCP\nhttps://metrograph.co
+ m/film/9999003425-the-ascent/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003425-the-ascent/
+END:VEVENT
+BEGIN:VEVENT
+UID:7fe8bda28e1ee6ae36f288f75ff8d0ee48bfed6f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T031500Z
+DTEND:20261122T051500Z
+SUMMARY:Benedetta
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Paul Verhoeven · 2021 · 131min · DCP\nhttps://metrograph.com
+ /film/9999004248-benedetta/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999004248-benedetta/
+END:VEVENT
+BEGIN:VEVENT
+UID:b13743d8a739e6d21d677765c6dbf0d5f76651cf@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T032000Z
+DTEND:20261122T052000Z
+SUMMARY:A Clockwork Orange
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Stanley Kubrick · 1971 · 136min · 4K DCP\nhttps://metrograph
+ .com/film/9999001436-a-clockwork-orange/\nFrom Pushpin NYC: https://pushpi
+ n.city/nyc/
+URL:https://metrograph.com/film/9999001436-a-clockwork-orange/
+END:VEVENT
+BEGIN:VEVENT
+UID:6cc152e0ead4e8bfe9a4e6b41ca7739be61adfa8@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T161500Z
+DTEND:20261122T181500Z
+SUMMARY:The Rescuers
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Wolfgang Reitherman\, Art Stevens · 1977 · 76min · 35mm\nhtt
+ ps://metrograph.com/film/9999005098-the-rescuers/\nFrom Pushpin NYC: https
+ ://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005098-the-rescuers/
+END:VEVENT
+BEGIN:VEVENT
+UID:956a9d77d07d5e267a608046711799fae0ee2c2f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T161500Z
+DTEND:20261122T181500Z
+SUMMARY:Wallace & Gromit: The Classic Shorts
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Nick Park · 1995 · 85min · DCP\nhttps://metrograph.com/film/
+ 9999005087-wallace-gromit-the-classic-shorts/\nFrom Pushpin NYC: https://p
+ ushpin.city/nyc/
+URL:https://metrograph.com/film/9999005087-wallace-gromit-the-classic-short
+ s/
+END:VEVENT
+BEGIN:VEVENT
+UID:8a5ef761f8ade55caf08f017ccaf88ccd04409f0@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T180000Z
+DTEND:20261122T200000Z
+SUMMARY:Come Back to the 5 & Dime\, Jimmy Dean\, Jimmy Dean
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Robert Altman · 1982 · 109min · 4K DCP\nhttps://metrograph.c
+ om/film/9999003186-come-back-to-the-5-dime-jimmy-dean-jimmy-dean/\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003186-come-back-to-the-5-dime-jimmy-de
+ an-jimmy-dean/
+END:VEVENT
+BEGIN:VEVENT
+UID:8fe5b527d5922bd40d01e889c03e04de1b303957@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T181500Z
+DTEND:20261122T201500Z
+SUMMARY:Gunvor Nelson Program 2
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Gunvor Nelson · 1993 · 90min · 16mm\nhttps://metrograph.com/
+ film/9999005095-gunvor-nelson-program-2/\nFrom Pushpin NYC: https://pushpi
+ n.city/nyc/
+URL:https://metrograph.com/film/9999005095-gunvor-nelson-program-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:05b07a3c273533938293779019b1925958d214fe@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T201500Z
+DTEND:20261122T221500Z
+SUMMARY:Gunvor Nelson Program 3
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Gunvor Nelson · 1990 · 88min · 16mm\nhttps://metrograph.com/
+ film/9999005099-gunvor-nelson-program-3/\nFrom Pushpin NYC: https://pushpi
+ n.city/nyc/
+URL:https://metrograph.com/film/9999005099-gunvor-nelson-program-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:11aaaee5a928f22f486b8980ee365e3d307cd56b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T202000Z
+DTEND:20261122T222000Z
+SUMMARY:That Day\, On The Beach
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Edward Yang · 1983 · 166min · DCP\nhttps://metrograph.com/fi
+ lm/9999001444-that-day-on-the-beach/\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://metrograph.com/film/9999001444-that-day-on-the-beach/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d15cc30ce75a7178f596f376d59524213b9172d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T221000Z
+DTEND:20261123T001000Z
+SUMMARY:Emperor of the North
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Robert Aldrich · 1973 · 118min · 4K DCP\nhttps://metrograph.
+ com/film/9999002893-emperor-of-the-north/\nFrom Pushpin NYC: https://pushp
+ in.city/nyc/
+URL:https://metrograph.com/film/9999002893-emperor-of-the-north/
+END:VEVENT
+BEGIN:VEVENT
+UID:38d92d915b282f2d42a981557b74e53d45e546ac@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T233500Z
+DTEND:20261123T013500Z
+SUMMARY:Memento
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Christopher Nolan · 2000 · 113min · 35mm\nhttps://metrograph
+ .com/film/9999005093-memento/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005093-memento/
+END:VEVENT
+BEGIN:VEVENT
+UID:ef6d263bc1db70338878f1c81db4bd9ae6703070@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T003000Z
+DTEND:20261123T023000Z
+SUMMARY:Sibyl
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Justine Triet · 2019 · 101min · DCP\nhttps://metrograph.com/
+ film/9999003805-sibyl/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003805-sibyl/
+END:VEVENT
+BEGIN:VEVENT
+UID:778688c9e9b292d65c2b6fad3e0ef3e0f126eb0f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T020000Z
+DTEND:20261123T040000Z
+SUMMARY:A Clockwork Orange
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Stanley Kubrick · 1971 · 136min · 4K DCP\nhttps://metrograph
+ .com/film/9999001436-a-clockwork-orange/\nFrom Pushpin NYC: https://pushpi
+ n.city/nyc/
+URL:https://metrograph.com/film/9999001436-a-clockwork-orange/
+END:VEVENT
+BEGIN:VEVENT
+UID:c478a93bef948f733da041f80cabda38b57d75ff@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T023500Z
+DTEND:20261123T043500Z
+SUMMARY:Somewhere in the Night
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Joseph L. Mankiewicz · 1946 · 110min · 35mm\nhttps://metrogr
+ aph.com/film/9999005091-somewhere-in-the-night/\nFrom Pushpin NYC: https:/
+ /pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005091-somewhere-in-the-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:876930d5c2315a8e215fa78d5613f76786b3c690@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T210000Z
+DTEND:20261123T230000Z
+SUMMARY:Come Back to the 5 & Dime\, Jimmy Dean\, Jimmy Dean
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Robert Altman · 1982 · 109min · 4K DCP\nhttps://metrograph.c
+ om/film/9999003186-come-back-to-the-5-dime-jimmy-dean-jimmy-dean/\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003186-come-back-to-the-5-dime-jimmy-de
+ an-jimmy-dean/
+END:VEVENT
+BEGIN:VEVENT
+UID:e9afdbadfb41a8e1059e54b1d5f1576389752efe@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T211000Z
+DTEND:20261123T231000Z
+SUMMARY:Spellbound
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Alfred Hitchcock · 1945 · 111min · 4K DCP\nhttps://metrograp
+ h.com/film/9999001825-spellbound/\nFrom Pushpin NYC: https://pushpin.city/
+ nyc/
+URL:https://metrograph.com/film/9999001825-spellbound/
+END:VEVENT
+BEGIN:VEVENT
+UID:0f52eba41fcd243b07bddf0da0b35b5a5568af0d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T231500Z
+DTEND:20261124T011500Z
+SUMMARY:That Day\, On The Beach
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Edward Yang · 1983 · 166min · DCP\nhttps://metrograph.com/fi
+ lm/9999001444-that-day-on-the-beach/\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://metrograph.com/film/9999001444-that-day-on-the-beach/
+END:VEVENT
+BEGIN:VEVENT
+UID:cf52e3e4393eb5a07c80583be43d2df6db403f79@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T233000Z
+DTEND:20261124T013000Z
+SUMMARY:Sad Vacation
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Shinji Aoyama · 2007 · 136min · 35mm\nhttps://metrograph.com
+ /film/9999005077-sad-vacation/\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://metrograph.com/film/9999005077-sad-vacation/
+END:VEVENT
+BEGIN:VEVENT
+UID:da1220e62b409b9373896c0855a579b79a93f972@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T021500Z
+DTEND:20261124T041500Z
+SUMMARY:Lost Highway
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:David Lynch · 1997 · 134min · 4K DCP\nhttps://metrograph.com
+ /film/9999001208-lost-highway/\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://metrograph.com/film/9999001208-lost-highway/
+END:VEVENT
+BEGIN:VEVENT
+UID:5da0e9a84da19cfd8d28c84b64d2121359dabc26@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T023000Z
+DTEND:20261124T043000Z
+SUMMARY:Cría Cuervos
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Carlos Saura · 1976 · 105min · 35mm\nhttps://metrograph.com/
+ film/9999004160-cria-cuervos/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999004160-cria-cuervos/
+END:VEVENT
+BEGIN:VEVENT
+UID:fdde2325f7e5a496c997822fa55fe46cf9a22d42@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T210000Z
+DTEND:20261124T230000Z
+SUMMARY:Asako I & II
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Ryusuke Hamaguchi · 2019 · 119min · DCP\nhttps://metrograph.
+ com/film/9999001925-asako-i-ii/\nFrom Pushpin NYC: https://pushpin.city/ny
+ c/
+URL:https://metrograph.com/film/9999001925-asako-i-ii/
+END:VEVENT
+BEGIN:VEVENT
+UID:504827ee2c0e5cc04b71c361be6ba19bf5f55b1a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T210000Z
+DTEND:20261124T230000Z
+SUMMARY:The Woman in the Window
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Fritz Lang · 1944 · 95min · 35mm\nhttps://metrograph.com/fil
+ m/9999005072-the-woman-in-the-window/\nFrom Pushpin NYC: https://pushpin.c
+ ity/nyc/
+URL:https://metrograph.com/film/9999005072-the-woman-in-the-window/
+END:VEVENT
+BEGIN:VEVENT
+UID:60ea74811f727c16226d820b086cf86ae6b17685@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T231000Z
+DTEND:20261125T011000Z
+SUMMARY:The Woman on the Beach
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Jean Renoir · 1947 · 71min · 35mm\nhttps://metrograph.com/fi
+ lm/9999005088-the-woman-on-the-beach/\nFrom Pushpin NYC: https://pushpin.c
+ ity/nyc/
+URL:https://metrograph.com/film/9999005088-the-woman-on-the-beach/
+END:VEVENT
+BEGIN:VEVENT
+UID:3f550ace923d3a84f00073eddc8cbb9b21cdab5d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261124T233000Z
+DTEND:20261125T013000Z
+SUMMARY:That Day\, On The Beach
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Edward Yang · 1983 · 166min · DCP\nhttps://metrograph.com/fi
+ lm/9999001444-that-day-on-the-beach/\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://metrograph.com/film/9999001444-that-day-on-the-beach/
+END:VEVENT
+BEGIN:VEVENT
+UID:4a00ae41a729252213d58399431036e5ba863493@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T004500Z
+DTEND:20261125T024500Z
+SUMMARY:Come Back to the 5 & Dime\, Jimmy Dean\, Jimmy Dean
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Robert Altman · 1982 · 109min · 4K DCP\nhttps://metrograph.c
+ om/film/9999003186-come-back-to-the-5-dime-jimmy-dean-jimmy-dean/\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003186-come-back-to-the-5-dime-jimmy-de
+ an-jimmy-dean/
+END:VEVENT
+BEGIN:VEVENT
+UID:8777f6c48ca8d8233f5d50a24ba24a16c440b883@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T024500Z
+DTEND:20261125T044500Z
+SUMMARY:Drive
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Nicolas Winding Refn · 2011 · 100min · DCP\nhttps://metrogra
+ ph.com/film/9999003324-drive/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003324-drive/
+END:VEVENT
+BEGIN:VEVENT
+UID:45a95755572c539a53516965692e6d2a1d4986fc@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T030000Z
+DTEND:20261125T050000Z
+SUMMARY:Chinese Roulette
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Rainer Werner Fassbinder · 1976 · 86min · 35mm\nhttps://metr
+ ograph.com/film/9999004476-chinese-roulette/\nFrom Pushpin NYC: https://pu
+ shpin.city/nyc/
+URL:https://metrograph.com/film/9999004476-chinese-roulette/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe17698625f4c8c5f19bde0d1a66bcd15e9e01e@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T201500Z
+DTEND:20261125T221500Z
+SUMMARY:Suzhou River
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Ye Lou · 2000 · 83min · DCP\nhttps://metrograph.com/film/999
+ 9003167-suzhou-river/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003167-suzhou-river/
+END:VEVENT
+BEGIN:VEVENT
+UID:1aea42ff923612a2dc4c509bed378a1722e7ae91@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T203000Z
+DTEND:20261125T223000Z
+SUMMARY:News from Home + Interior NY Subway\, 14th Street
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Chantal Akerman\, G. W. "Billy" Bitzer · 1976 · 91min · DCP\
+ nhttps://metrograph.com/film/9999005065-news-from-home-interior-ny-subway-
+ 14th-street/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005065-news-from-home-interior-ny-subwa
+ y-14th-street/
+END:VEVENT
+BEGIN:VEVENT
+UID:b9fd1a8d0eacc0ede32b0fc7c7d95f93fdb31857@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T220000Z
+DTEND:20261126T000000Z
+SUMMARY:Je t'aime\, je t'aime
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Alain Resnais · 1968 · 91min · DCP\nhttps://metrograph.com/f
+ ilm/9999005075-je-taime-je-taime/\nFrom Pushpin NYC: https://pushpin.city/
+ nyc/
+URL:https://metrograph.com/film/9999005075-je-taime-je-taime/
+END:VEVENT
+BEGIN:VEVENT
+UID:ff8902d2ec3af72881f11455155012a97a1d7088@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261125T223000Z
+DTEND:20261126T003000Z
+SUMMARY:Autumn Sonata
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Ingmar Bergman · 1978 · 93min · DCP\nhttps://metrograph.com/
+ film/9999005045-autumn-sonata/\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://metrograph.com/film/9999005045-autumn-sonata/
+END:VEVENT
+BEGIN:VEVENT
+UID:0609a987da1f098ae2e2d41054cc32cfe72e16ce@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Come Back to the 5 & Dime\, Jimmy Dean\, Jimmy Dean
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Robert Altman · 1982 · 109min · 4K DCP\nhttps://metrograph.c
+ om/film/9999003186-come-back-to-the-5-dime-jimmy-dean-jimmy-dean/\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003186-come-back-to-the-5-dime-jimmy-de
+ an-jimmy-dean/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcabe6468c84e1c583b9b64002ac4bb838e75da6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T003000Z
+DTEND:20261126T023000Z
+SUMMARY:The Housemaid
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Kim Ki-young · 1960 · 108min · DCP\nhttps://metrograph.com/f
+ ilm/9999003128-the-housemaid/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003128-the-housemaid/
+END:VEVENT
+BEGIN:VEVENT
+UID:6503ed687271233afeae04014bee7704b776a164@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T021500Z
+DTEND:20261126T041500Z
+SUMMARY:That Day\, On The Beach
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Edward Yang · 1983 · 166min · DCP\nhttps://metrograph.com/fi
+ lm/9999001444-that-day-on-the-beach/\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://metrograph.com/film/9999001444-that-day-on-the-beach/
+END:VEVENT
+BEGIN:VEVENT
+UID:39836b3338d994f08669d1b81839d7e30ddcfa7a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T024500Z
+DTEND:20261126T044500Z
+SUMMARY:Shutter Island
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Martin Scorsese · 2010 · 138min · 35mm\nhttps://metrograph.c
+ om/film/9999005083-shutter-island/\nFrom Pushpin NYC: https://pushpin.city
+ /nyc/
+URL:https://metrograph.com/film/9999005083-shutter-island/
+END:VEVENT
+BEGIN:VEVENT
+UID:8345ace2ac74cdc998ebb7f00cb6ca67ff671c10@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261127T160000Z
+DTEND:20261127T180000Z
+SUMMARY:The Aristocats
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Wolfgang Reitherman · 1970 · 78min · DCP\nhttps://metrograph
+ .com/film/9999001577-the-aristocats/\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://metrograph.com/film/9999001577-the-aristocats/
+END:VEVENT
+BEGIN:VEVENT
+UID:e62fa7fa942e940cd44deda36e21d5a75da71323@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261127T161500Z
+DTEND:20261127T181500Z
+SUMMARY:The General
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Buster Keaton\, Clyde Bruckman · 1926 · 78min · 4K DCP\nhttp
+ s://metrograph.com/film/9999000730-the-general/\nFrom Pushpin NYC: https:/
+ /pushpin.city/nyc/
+URL:https://metrograph.com/film/9999000730-the-general/
+END:VEVENT
+BEGIN:VEVENT
+UID:cc5614c55f21a213d091d19e03d84db3695b543f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261127T180000Z
+DTEND:20261127T200000Z
+SUMMARY:The Sacrifice
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Andrei Tarkovsky · 1986 · 149min · 35mm\nhttps://metrograph.
+ com/film/9999003679-the-sacrifice/\nFrom Pushpin NYC: https://pushpin.city
+ /nyc/
+URL:https://metrograph.com/film/9999003679-the-sacrifice/
+END:VEVENT
+BEGIN:VEVENT
+UID:eff189c3b62d8b24eb161846f7a7702557ec915e@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261127T181500Z
+DTEND:20261127T201500Z
+SUMMARY:Secrets & Lies
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Mike Leigh · 1996 · 136min · DCP\nhttps://metrograph.com/fil
+ m/9999003282-secrets-lies/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003282-secrets-lies/
+END:VEVENT
+BEGIN:VEVENT
+UID:19655580518beec6d841860324c67d5505e6c3ac@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261127T210000Z
+DTEND:20261127T230000Z
+SUMMARY:Rashomon
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Akira Kurosawa · 1950 · 88min · DCP\nhttps://metrograph.com/
+ film/9999000358-rashomon/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999000358-rashomon/
+END:VEVENT
+BEGIN:VEVENT
+UID:ca0db6cf5b6446215b8cbdb5477b92225ce80f9d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261127T211500Z
+DTEND:20261127T231500Z
+SUMMARY:Medea (1988)
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Lars Von Trier · 1988 · 75min · Digital\nhttps://metrograph.
+ com/film/9999005042-medea-1988/\nFrom Pushpin NYC: https://pushpin.city/ny
+ c/
+URL:https://metrograph.com/film/9999005042-medea-1988/
+END:VEVENT
+BEGIN:VEVENT
+UID:4773f26924fc6856b848ad0aab29825e9fa14bb7@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261127T230000Z
+DTEND:20261128T010000Z
+SUMMARY:Columbus
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Kogonada . · 2017 · 100min · DCP\nhttps://metrograph.com/fil
+ m/9999005076-columbus/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005076-columbus/
+END:VEVENT
+BEGIN:VEVENT
+UID:ac672eae8fe1e525d5f5d26f54ca3d4e12cf90c2@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261127T230000Z
+DTEND:20261128T010000Z
+SUMMARY:The Best Secret Agent
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Zhang Ying · 1964 · 102min · DCP\nhttps://metrograph.com/fil
+ m/9999005102-the-best-secret-agent/\nFrom Pushpin NYC: https://pushpin.cit
+ y/nyc/
+URL:https://metrograph.com/film/9999005102-the-best-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+UID:4f79b97d6a855ef8b66a81de02486e54495ec119@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T011000Z
+DTEND:20261128T031000Z
+SUMMARY:Taxi Driver
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Martin Scorsese · 1976 · 113min · 4K DCP\nhttps://metrograph
+ .com/film/9999000036-taxi-driver/\nFrom Pushpin NYC: https://pushpin.city/
+ nyc/
+URL:https://metrograph.com/film/9999000036-taxi-driver/
+END:VEVENT
+BEGIN:VEVENT
+UID:19a3b7da098282facb404f82f07986d2e551b6de@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T011500Z
+DTEND:20261128T031500Z
+SUMMARY:Compartment No. 6
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Juho Kuosmanen · 2021 · 107min · DCP\nhttps://metrograph.com
+ /film/9999005104-compartment-no-6/\nFrom Pushpin NYC: https://pushpin.city
+ /nyc/
+URL:https://metrograph.com/film/9999005104-compartment-no-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:dc6a41c7a8beb71f5d1d62ef1d1e06026f066fff@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T033000Z
+DTEND:20261128T053000Z
+SUMMARY:A Clockwork Orange
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Stanley Kubrick · 1971 · 136min · 4K DCP\nhttps://metrograph
+ .com/film/9999001436-a-clockwork-orange/\nFrom Pushpin NYC: https://pushpi
+ n.city/nyc/
+URL:https://metrograph.com/film/9999001436-a-clockwork-orange/
+END:VEVENT
+BEGIN:VEVENT
+UID:61036f1a370c43b9d8ee9d4e54097095d2a1a0ae@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T033500Z
+DTEND:20261128T053500Z
+SUMMARY:Mandy
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Panos Cosmatos · 2018 · 121min · DCP\nhttps://metrograph.com
+ /film/9999001725-mandy/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999001725-mandy/
+END:VEVENT
+BEGIN:VEVENT
+UID:4c032895ab7f1c77bc36b329b27a134f824282b5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Rashomon
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Akira Kurosawa · 1950 · 88min · DCP\nhttps://metrograph.com/
+ film/9999000358-rashomon/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999000358-rashomon/
+END:VEVENT
+BEGIN:VEVENT
+UID:e49acb6f36afc4914c77693e9930ff58a546aa53@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T161500Z
+DTEND:20261128T181500Z
+SUMMARY:Goodbye\, Dragon Inn
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Tsai Ming-liang · 2003 · 82min · DCP\nhttps://metrograph.com
+ /film/9999000006-goodbye-dragon-inn/\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://metrograph.com/film/9999000006-goodbye-dragon-inn/
+END:VEVENT
+BEGIN:VEVENT
+UID:db63daf315b799fc7b9c3d09627de1b13165a7f5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T180000Z
+DTEND:20261128T200000Z
+SUMMARY:A Separation
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Asghar Farhadi · 2021 · 123min · 35mm\nhttps://metrograph.co
+ m/film/9999002406-a-separation/\nFrom Pushpin NYC: https://pushpin.city/ny
+ c/
+URL:https://metrograph.com/film/9999002406-a-separation/
+END:VEVENT
+BEGIN:VEVENT
+UID:d3ea4f5b924e74507c0281656d7e9335ec50197f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T181000Z
+DTEND:20261128T201000Z
+SUMMARY:Emperor of the North
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Robert Aldrich · 1973 · 118min · 4K DCP\nhttps://metrograph.
+ com/film/9999002893-emperor-of-the-north/\nFrom Pushpin NYC: https://pushp
+ in.city/nyc/
+URL:https://metrograph.com/film/9999002893-emperor-of-the-north/
+END:VEVENT
+BEGIN:VEVENT
+UID:c40365fd31c3ee9812ada0a99e07d519bcbbe24b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T203000Z
+DTEND:20261128T223000Z
+SUMMARY:Railway Sleepers preceded by A Child Already Knows
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Tiffany Sia\, Sompot Chidgasornpongse · 2017 · 135min · DCP\
+ nhttps://metrograph.com/film/9999005106-railway-sleepers-preceded-by-a-chi
+ ld-already-knows/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005106-railway-sleepers-preceded-by-a-c
+ hild-already-knows/
+END:VEVENT
+BEGIN:VEVENT
+UID:b409f1afd69db08a832a32c6fa904657a8be9366@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T203000Z
+DTEND:20261128T223000Z
+SUMMARY:The Manchurian Candidate
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:John Frankenheimer · 1962 · 126min · DCP\nhttps://metrograph
+ .com/film/9999005105-the-manchurian-candidate/\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005105-the-manchurian-candidate/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcbeef7a7f70cdb2d7eb11d723a9913c7f4b133d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T231000Z
+DTEND:20261129T011000Z
+SUMMARY:Salò\, or the 120 Days of Sodom
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Pier Paolo Pasolini · 1975 · 116min · 35mm\nhttps://metrogra
+ ph.com/film/9999000023-salo-or-the-120-days-of-sodom/\nFrom Pushpin NYC: h
+ ttps://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999000023-salo-or-the-120-days-of-sodom/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d8a6c42bae29b48fb1c4eb139b0146504b243e9@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T231500Z
+DTEND:20261129T011500Z
+SUMMARY:Six Suspects
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Lin Tuan-Chiu · 1965 · 108min · DCP\nhttps://metrograph.com/
+ film/9999005107-six-suspects/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005107-six-suspects/
+END:VEVENT
+BEGIN:VEVENT
+UID:d1314bcc8cd5f886ee0ec58bfd22784762e12fc6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T012500Z
+DTEND:20261129T032500Z
+SUMMARY:Mandy
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Panos Cosmatos · 2018 · 121min · DCP\nhttps://metrograph.com
+ /film/9999001725-mandy/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999001725-mandy/
+END:VEVENT
+BEGIN:VEVENT
+UID:e02b598af68fb59fd4c677e1deaebcb004a2811f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T014000Z
+DTEND:20261129T034000Z
+SUMMARY:Memento
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Christopher Nolan · 2000 · 113min · 35mm\nhttps://metrograph
+ .com/film/9999005093-memento/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005093-memento/
+END:VEVENT
+BEGIN:VEVENT
+UID:434ab8217f7a92248bbfaade211e3031236adcdd@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T040000Z
+DTEND:20261129T060000Z
+SUMMARY:Millennium Mambo
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Hou Hsiao-hsien · 2001 · 107min · DCP\nhttps://metrograph.co
+ m/film/9999001804-millennium-mambo/\nFrom Pushpin NYC: https://pushpin.cit
+ y/nyc/
+URL:https://metrograph.com/film/9999001804-millennium-mambo/
+END:VEVENT
+BEGIN:VEVENT
+UID:a6ddeaf17d3c5a9ee73606a3754ca29c834dab5b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T040000Z
+DTEND:20261129T060000Z
+SUMMARY:Suspiria [4K DCP]
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Dario Argento · 1977 · 98min · 4K DCP\nhttps://metrograph.co
+ m/film/9999004419-suspiria-4k-dcp/\nFrom Pushpin NYC: https://pushpin.city
+ /nyc/
+URL:https://metrograph.com/film/9999004419-suspiria-4k-dcp/
+END:VEVENT
+BEGIN:VEVENT
+UID:acd980eeb6572a6f30d81cc21070e1c16eaa5d69@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T161500Z
+DTEND:20261129T181500Z
+SUMMARY:The Ascent
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Larisa Shepitko · 1977 · 111min · DCP\nhttps://metrograph.co
+ m/film/9999003425-the-ascent/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003425-the-ascent/
+END:VEVENT
+BEGIN:VEVENT
+UID:19ceb6cca8903aa2db6b9561668b886ced7b0081@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T161500Z
+DTEND:20261129T181500Z
+SUMMARY:The Rescuers
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Wolfgang Reitherman\, Art Stevens · 1977 · 76min · 35mm\nhtt
+ ps://metrograph.com/film/9999005098-the-rescuers/\nFrom Pushpin NYC: https
+ ://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005098-the-rescuers/
+END:VEVENT
+BEGIN:VEVENT
+UID:c83b69a9dcbdaf12c68daf6fa24e12e7a4cde621@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:Once Upon A Time In The West
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Sergio Leone · 1968 · 164min · DCP\nhttps://metrograph.com/f
+ ilm/9999001482-once-upon-a-time-in-the-west/\nFrom Pushpin NYC: https://pu
+ shpin.city/nyc/
+URL:https://metrograph.com/film/9999001482-once-upon-a-time-in-the-west/
+END:VEVENT
+BEGIN:VEVENT
+UID:79bd9526b5e231e0aac925c390759f259a7d2087@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T183000Z
+DTEND:20261129T203000Z
+SUMMARY:The Manchurian Candidate
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:John Frankenheimer · 1962 · 126min · DCP\nhttps://metrograph
+ .com/film/9999005105-the-manchurian-candidate/\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005105-the-manchurian-candidate/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d886fe6e15fd6d1316dec09957dcdf79397d66e@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:Dragon Superman
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Satoru Kobayashi\, Shao Lo-hui · 1968 · 90min · DCP\nhttps:/
+ /metrograph.com/film/9999005108-dragon-superman/\nFrom Pushpin NYC: https:
+ //pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005108-dragon-superman/
+END:VEVENT
+BEGIN:VEVENT
+UID:661043c5b6a6af115b36ac2b8c807dc29f8c57d8@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T211500Z
+DTEND:20261129T231500Z
+SUMMARY:The Piano
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Jane Campion · 1993 · 120min · 4K DCP\nhttps://metrograph.co
+ m/film/9999005111-the-piano/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005111-the-piano/
+END:VEVENT
+BEGIN:VEVENT
+UID:f42d5b452338ba3878feaee12e4995010e4c4965@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T225000Z
+DTEND:20261130T005000Z
+SUMMARY:Moonlight Superman
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Satoru Kobayashi\, Bao-Hui Shao · 1968 · 90min · DCP\nhttps:
+ //metrograph.com/film/9999005109-moonlight-superman/\nFrom Pushpin NYC: ht
+ tps://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005109-moonlight-superman/
+END:VEVENT
+BEGIN:VEVENT
+UID:fb965e99cd6c06ff0191845f9946ac85968cbbee@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T234500Z
+DTEND:20261130T014500Z
+SUMMARY:The Sacrifice
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Andrei Tarkovsky · 1986 · 149min · 35mm\nhttps://metrograph.
+ com/film/9999003679-the-sacrifice/\nFrom Pushpin NYC: https://pushpin.city
+ /nyc/
+URL:https://metrograph.com/film/9999003679-the-sacrifice/
+END:VEVENT
+BEGIN:VEVENT
+UID:f5a5ffe2e75e5e4a85f34cb3af1c8a4d452fc37a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261130T004500Z
+DTEND:20261130T024500Z
+SUMMARY:Skyfly Superman
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Satoru Kobayashi\, Shao Lo-hui · 1968 · 90min · DCP\nhttps:/
+ /metrograph.com/film/9999005110-skyfly-superman/\nFrom Pushpin NYC: https:
+ //pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005110-skyfly-superman/
+END:VEVENT
+BEGIN:VEVENT
+UID:23651da51e0707885fcfa9265687349e9f727231@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261130T024000Z
+DTEND:20261130T044000Z
+SUMMARY:Taxi Driver
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Martin Scorsese · 1976 · 113min · 4K DCP\nhttps://metrograph
+ .com/film/9999000036-taxi-driver/\nFrom Pushpin NYC: https://pushpin.city/
+ nyc/
+URL:https://metrograph.com/film/9999000036-taxi-driver/
+END:VEVENT
+BEGIN:VEVENT
+UID:95e5f0fc5f3b436c6872552a44f88ba667b01864@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261130T024500Z
+DTEND:20261130T044500Z
+SUMMARY:Salò\, or the 120 Days of Sodom
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Pier Paolo Pasolini · 1975 · 116min · 35mm\nhttps://metrogra
+ ph.com/film/9999000023-salo-or-the-120-days-of-sodom/\nFrom Pushpin NYC: h
+ ttps://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999000023-salo-or-the-120-days-of-sodom/
+END:VEVENT
+BEGIN:VEVENT
+UID:986cb94180b90c623ce6f38bb132d602ed70536a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261130T214500Z
+DTEND:20261130T234500Z
+SUMMARY:Sans Soleil
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Chris Marker · 1983 · 103min · DCP\nhttps://metrograph.com/f
+ ilm/9999003788-sans-soleil/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003788-sans-soleil/
+END:VEVENT
+BEGIN:VEVENT
+UID:d9932f69964179813cdbbda343592c2e0a67701a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261130T215000Z
+DTEND:20261130T235000Z
+SUMMARY:The Flavor of Green Tea Over Rice
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Yasujirô Ozu · 1952 · 116min · 35mm\nhttps://metrograph.com
+ /film/9999003990-the-flavor-of-green-tea-over-rice/\nFrom Pushpin NYC: htt
+ ps://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003990-the-flavor-of-green-tea-over-ric
+ e/
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd40a8617362f27a1ec595e240418f1e2e8fbe0@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261201T000000Z
+DTEND:20261201T020000Z
+SUMMARY:Lost Highway
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:David Lynch · 1997 · 134min · 4K DCP\nhttps://metrograph.com
+ /film/9999001208-lost-highway/\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://metrograph.com/film/9999001208-lost-highway/
+END:VEVENT
+BEGIN:VEVENT
+UID:e27b93a52f7cbe0beecd2d8d008df3482955a152@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261201T001500Z
+DTEND:20261201T021500Z
+SUMMARY:Socrates
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Roberto Rossellini · 1970 · 120min · DCP\nhttps://metrograph
+ .com/film/9999005024-socrates/\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://metrograph.com/film/9999005024-socrates/
+END:VEVENT
+BEGIN:VEVENT
+UID:b1f94d9a1986669b925bf8a87490a2fd7d269d1f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261201T024000Z
+DTEND:20261201T044000Z
+SUMMARY:Night on Earth
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Jim Jarmusch · 1991 · 129min · 35mm\nhttps://metrograph.com/
+ film/9999001984-night-on-earth/\nFrom Pushpin NYC: https://pushpin.city/ny
+ c/
+URL:https://metrograph.com/film/9999001984-night-on-earth/
+END:VEVENT
+BEGIN:VEVENT
+UID:f9caf37b5cb22bf04454572f51e46ff46c8e265a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261201T024500Z
+DTEND:20261201T044500Z
+SUMMARY:Oldboy
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Park Chan-wook · 2003 · 120min · 4K DCP\nhttps://metrograph.
+ com/film/9999000490-oldboy/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999000490-oldboy/
+END:VEVENT
+BEGIN:VEVENT
+UID:c7d12d655b898b51b1183b9b425f9c49a50f3262@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261202T210000Z
+DTEND:20261202T230000Z
+SUMMARY:In Bed with Victoria
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Justine Triet · 2016 · 97min · DCP\nhttps://metrograph.com/f
+ ilm/9999005082-in-bed-with-victoria/\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://metrograph.com/film/9999005082-in-bed-with-victoria/
+END:VEVENT
+BEGIN:VEVENT
+UID:826f58af05913cb1c6fdea7d12902dc422a3271d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261202T211500Z
+DTEND:20261202T231500Z
+SUMMARY:The Piano
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Jane Campion · 1993 · 120min · 4K DCP\nhttps://metrograph.co
+ m/film/9999005111-the-piano/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005111-the-piano/
+END:VEVENT
+BEGIN:VEVENT
+UID:66b4ad2316e68184b04e4b39a990bce7d6170e14@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261202T230000Z
+DTEND:20261203T010000Z
+SUMMARY:An Autumn Afternoon
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Yasujirô Ozu · 1962 · 112min · DCP\nhttps://metrograph.com/
+ film/9999000844-an-autumn-afternoon/\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://metrograph.com/film/9999000844-an-autumn-afternoon/
+END:VEVENT
+BEGIN:VEVENT
+UID:dbf914996e76e48c0b3a8c88d0d4dac9ba2ed4fd@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261202T234500Z
+DTEND:20261203T014500Z
+SUMMARY:Shutter Island
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Martin Scorsese · 2010 · 138min · 35mm\nhttps://metrograph.c
+ om/film/9999005083-shutter-island/\nFrom Pushpin NYC: https://pushpin.city
+ /nyc/
+URL:https://metrograph.com/film/9999005083-shutter-island/
+END:VEVENT
+BEGIN:VEVENT
+UID:1dd77833dfe23829b12031fc5d0adce9b672fc10@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261203T011500Z
+DTEND:20261203T031500Z
+SUMMARY:The Cockpit
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Sho Miyake · 2014 · 64min · DCP\nhttps://metrograph.com/film
+ /9999005089-the-cockpit/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005089-the-cockpit/
+END:VEVENT
+BEGIN:VEVENT
+UID:58fec19eead5325289b5221678e381991006538a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261203T023000Z
+DTEND:20261203T043000Z
+SUMMARY:A Clockwork Orange
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Stanley Kubrick · 1971 · 136min · 4K DCP\nhttps://metrograph
+ .com/film/9999001436-a-clockwork-orange/\nFrom Pushpin NYC: https://pushpi
+ n.city/nyc/
+URL:https://metrograph.com/film/9999001436-a-clockwork-orange/
+END:VEVENT
+BEGIN:VEVENT
+UID:4aedf12ec6f3128bf7ace41673652fc0c813cdb8@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261203T024500Z
+DTEND:20261203T044500Z
+SUMMARY:And Your Bird Can Sing preceded by August 8th
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Sho Miyake · 2018 · 119min · DCP\nhttps://metrograph.com/fil
+ m/9999005084-and-your-bird-can-sing-preceded-by-august-8th/\nFrom Pushpin 
+ NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005084-and-your-bird-can-sing-preceded-
+ by-august-8th/
+END:VEVENT
+BEGIN:VEVENT
+UID:8942c1fa1b87ebfbbf35a1fd79974ae041b96f30@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261203T210000Z
+DTEND:20261203T230000Z
+SUMMARY:Once Upon A Time In The West
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Sergio Leone · 1968 · 164min · DCP\nhttps://metrograph.com/f
+ ilm/9999001482-once-upon-a-time-in-the-west/\nFrom Pushpin NYC: https://pu
+ shpin.city/nyc/
+URL:https://metrograph.com/film/9999001482-once-upon-a-time-in-the-west/
+END:VEVENT
+BEGIN:VEVENT
+UID:596b6c94ba7c4b3168ee78b8eccde09b35d68920@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261203T210000Z
+DTEND:20261203T230000Z
+SUMMARY:Small\, Slow But Steady
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Sho Miyake · 2022 · 99min · DCP\nhttps://metrograph.com/film
+ /9999005078-small-slow-but-steady/\nFrom Pushpin NYC: https://pushpin.city
+ /nyc/
+URL:https://metrograph.com/film/9999005078-small-slow-but-steady/
+END:VEVENT
+BEGIN:VEVENT
+UID:1274d60082270f1b6e81c397188086036603d55a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261203T231000Z
+DTEND:20261204T011000Z
+SUMMARY:All the Long Nights
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Sho Miyake · 2024 · 119min · DCP\nhttps://metrograph.com/fil
+ m/9999005085-all-the-long-nights/\nFrom Pushpin NYC: https://pushpin.city/
+ nyc/
+URL:https://metrograph.com/film/9999005085-all-the-long-nights/
+END:VEVENT
+BEGIN:VEVENT
+UID:abae24f3c3e14a8040dfb7e0120bb433d3655592@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T001500Z
+DTEND:20261204T021500Z
+SUMMARY:Memento
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Christopher Nolan · 2000 · 113min · 35mm\nhttps://metrograph
+ .com/film/9999005093-memento/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005093-memento/
+END:VEVENT
+BEGIN:VEVENT
+UID:2301b2b3a5570b679be7054f48d887cc0d5fff3b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T013000Z
+DTEND:20261204T033000Z
+SUMMARY:La Raulito
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Lautaro Murúa · 1975 · 95min · DCP\nhttps://metrograph.com/
+ film/9999005057-la-raulito/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005057-la-raulito/
+END:VEVENT
+BEGIN:VEVENT
+UID:ea88876f9d91e994e21165706359fe3b83af4a57@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T024500Z
+DTEND:20261204T044500Z
+SUMMARY:Lost Highway
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:David Lynch · 1997 · 134min · 4K DCP\nhttps://metrograph.com
+ /film/9999001208-lost-highway/\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://metrograph.com/film/9999001208-lost-highway/
+END:VEVENT
+BEGIN:VEVENT
+UID:80d310d6d20b6f893e00c144f37de9e80f7293e9@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T033000Z
+DTEND:20261204T053000Z
+SUMMARY:Tetsuo: The Iron Man
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Shinya Tsukamoto · 1989 · 67min · DCP\nhttps://metrograph.co
+ m/film/9999000929-tetsuo-the-iron-man/\nFrom Pushpin NYC: https://pushpin.
+ city/nyc/
+URL:https://metrograph.com/film/9999000929-tetsuo-the-iron-man/
+END:VEVENT
+BEGIN:VEVENT
+UID:d6f56bbe5b52ad5a87b0bee2354d7433c63827e1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T183000Z
+DTEND:20261204T203000Z
+SUMMARY:The Sacrifice
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Andrei Tarkovsky · 1986 · 149min · 35mm\nhttps://metrograph.
+ com/film/9999003679-the-sacrifice/\nFrom Pushpin NYC: https://pushpin.city
+ /nyc/
+URL:https://metrograph.com/film/9999003679-the-sacrifice/
+END:VEVENT
+BEGIN:VEVENT
+UID:482261c9b9dea960a973b3dac5d6d0a65648bcd0@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T190000Z
+DTEND:20261204T210000Z
+SUMMARY:Poetry
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Lee Chang-dong · 2010 · 139min · 35mm\nhttps://metrograph.co
+ m/film/9999003669-poetry/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003669-poetry/
+END:VEVENT
+BEGIN:VEVENT
+UID:2e6fa822c00ecbbb1fd04593ca3bbf554c9b8fcb@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T213000Z
+DTEND:20261204T233000Z
+SUMMARY:Tokyo Sonata
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Kiyoshi Kurosawa · 2008 · 119min · DCP\nhttps://metrograph.c
+ om/film/9999005113-tokyo-sonata/\nFrom Pushpin NYC: https://pushpin.city/n
+ yc/
+URL:https://metrograph.com/film/9999005113-tokyo-sonata/
+END:VEVENT
+BEGIN:VEVENT
+UID:4143c23d7d28b323f6dd43e714c81db37818866a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T220000Z
+DTEND:20261205T000000Z
+SUMMARY:Keane
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Lodge Kerrigan · 2004 · 100min · DCP\nhttps://metrograph.com
+ /film/9999005114-keane/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005114-keane/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcb221c6549c7f61d6a32f37961b55b7324dc419@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:On Cinematography: A Conversation with Arthur Jafa
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Julie Dash · 1991 · 112min · DCP\nhttps://metrograph.com/fil
+ m/9999005112-on-cinematography-a-conversation-with-arthur-jafa/\nFrom Push
+ pin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005112-on-cinematography-a-conversation
+ -with-arthur-jafa/
+END:VEVENT
+BEGIN:VEVENT
+UID:ff63d0ae1aa045b6f93fca453e5ab071b1f95986@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T001500Z
+DTEND:20261205T021500Z
+SUMMARY:Museum Hours
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Jem Cohen · 2012 · 107min · DCP\nhttps://metrograph.com/film
+ /9999005115-museum-hours/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005115-museum-hours/
+END:VEVENT
+BEGIN:VEVENT
+UID:c3de83dd90e356cca59b5674386b9ee808800672@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T030000Z
+DTEND:20261205T050000Z
+SUMMARY:Michael Mann's Manhunter: The Final Cut
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Michael Mann · 1986 · 122min · 4K DCP\nhttps://metrograph.co
+ m/film/9999005116-michael-manns-manhunter-the-final-cut/\nFrom Pushpin NYC
+ : https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005116-michael-manns-manhunter-the-fina
+ l-cut/
+END:VEVENT
+BEGIN:VEVENT
+UID:be5d84ac933f1815a37942e5b487a57b7f9b41ca@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T031500Z
+DTEND:20261205T051500Z
+SUMMARY:It Follows
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:David Robert Mitchell · 2014 · 100min · DCP\nhttps://metrogr
+ aph.com/film/9999005117-it-follows/\nFrom Pushpin NYC: https://pushpin.cit
+ y/nyc/
+URL:https://metrograph.com/film/9999005117-it-follows/
+END:VEVENT
+BEGIN:VEVENT
+UID:b76e0ccc894b23d82b897074a342885a4f7598f1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T161500Z
+DTEND:20261205T181500Z
+SUMMARY:Kaili Blues
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Bi Gan · 2015 · 109min · DCP\nhttps://metrograph.com/film/99
+ 99000148-kaili-blues/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999000148-kaili-blues/
+END:VEVENT
+BEGIN:VEVENT
+UID:ed6b9cb8bfc2a759d37aa2cddfb78d209f6b34c7@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T161500Z
+DTEND:20261205T181500Z
+SUMMARY:Lady Killer
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Jean Grémillon · 1937 · 94min · DCP\nhttps://metrograph.com
+ /film/9999003354-lady-killer/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003354-lady-killer/
+END:VEVENT
+BEGIN:VEVENT
+UID:ff166b0dcc819ef0ebc687feb47eeeecdf7ce878@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T181500Z
+DTEND:20261205T201500Z
+SUMMARY:The Saga of Anatahan
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Josef Von Sternberg · 1953 · 92min · DCP\nhttps://metrograph
+ .com/film/9999005119-the-saga-of-anatahan/\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://metrograph.com/film/9999005119-the-saga-of-anatahan/
+END:VEVENT
+BEGIN:VEVENT
+UID:ac56111dc12a83a31ce39b565ce207375052dcd7@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T183000Z
+DTEND:20261205T203000Z
+SUMMARY:Blue + Chinese Series
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Derek Jarman\, Stan Brakhage · 1993 · 81min · 35mm\nhttps://
+ metrograph.com/film/9999005118-blue-chinese-series/\nFrom Pushpin NYC: htt
+ ps://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005118-blue-chinese-series/
+END:VEVENT
+BEGIN:VEVENT
+UID:a382e16efeebb930f15d7c0d9d3fa9a25066b951@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T201500Z
+DTEND:20261205T221500Z
+SUMMARY:The Inugami Family
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Kon Ichikawa · 1976 · 146min · DCP\nhttps://metrograph.com/f
+ ilm/9999005120-the-inugami-family/\nFrom Pushpin NYC: https://pushpin.city
+ /nyc/
+URL:https://metrograph.com/film/9999005120-the-inugami-family/
+END:VEVENT
+BEGIN:VEVENT
+UID:3e82d5e3bcefa79ea4d9406a496650c3b1353b99@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T202000Z
+DTEND:20261205T222000Z
+SUMMARY:Time Indefinite
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Ross McElwee · 1993 · 103min · 35mm\nhttps://metrograph.com/
+ film/9999005121-time-indefinite/\nFrom Pushpin NYC: https://pushpin.city/n
+ yc/
+URL:https://metrograph.com/film/9999005121-time-indefinite/
+END:VEVENT
+BEGIN:VEVENT
+UID:ccfd3c5df67c386a97b5d0972b4a2706c50f52f1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T230000Z
+DTEND:20261206T010000Z
+SUMMARY:ACE Presents: Day Night Day Night
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Julia Loktev · 2006 · 94min · 35mm\nhttps://metrograph.com/f
+ ilm/9999005122-ace-presents-day-night-day-night/\nFrom Pushpin NYC: https:
+ //pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005122-ace-presents-day-night-day-night
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:afc785e59e01070a374474bbc7fd51be9bfd8464@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T231000Z
+DTEND:20261206T011000Z
+SUMMARY:Remake
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Ross McElwee · 2025 · 114min · DCP\nhttps://metrograph.com/f
+ ilm/9999005123-remake/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005123-remake/
+END:VEVENT
+BEGIN:VEVENT
+UID:b2f9c41640c4d9578c84af4cf569ea715e429d33@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T013500Z
+DTEND:20261206T033500Z
+SUMMARY:Tokyo Sonata
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Kiyoshi Kurosawa · 2008 · 119min · DCP\nhttps://metrograph.c
+ om/film/9999005113-tokyo-sonata/\nFrom Pushpin NYC: https://pushpin.city/n
+ yc/
+URL:https://metrograph.com/film/9999005113-tokyo-sonata/
+END:VEVENT
+BEGIN:VEVENT
+UID:0867dbb9416c2793745eaf0f42245437708e18d2@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T014000Z
+DTEND:20261206T034000Z
+SUMMARY:Taxi Driver
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Martin Scorsese · 1976 · 113min · 4K DCP\nhttps://metrograph
+ .com/film/9999000036-taxi-driver/\nFrom Pushpin NYC: https://pushpin.city/
+ nyc/
+URL:https://metrograph.com/film/9999000036-taxi-driver/
+END:VEVENT
+BEGIN:VEVENT
+UID:57fc89150828dba3fe427a64d843be72c0007039@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T040000Z
+DTEND:20261206T060000Z
+SUMMARY:It Follows
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:David Robert Mitchell · 2014 · 100min · DCP\nhttps://metrogr
+ aph.com/film/9999005117-it-follows/\nFrom Pushpin NYC: https://pushpin.cit
+ y/nyc/
+URL:https://metrograph.com/film/9999005117-it-follows/
+END:VEVENT
+BEGIN:VEVENT
+UID:eb6be9bf89642f90dda9cf7274289f198e53a762@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T040000Z
+DTEND:20261206T060000Z
+SUMMARY:Salò\, or the 120 Days of Sodom
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Pier Paolo Pasolini · 1975 · 116min · 35mm\nhttps://metrogra
+ ph.com/film/9999000023-salo-or-the-120-days-of-sodom/\nFrom Pushpin NYC: h
+ ttps://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999000023-salo-or-the-120-days-of-sodom/
+END:VEVENT
+BEGIN:VEVENT
+UID:b604cc54244dcaecd1967de8c38ec39db117b020@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T154500Z
+DTEND:20261206T174500Z
+SUMMARY:Wallace & Gromit: The Classic Shorts
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Nick Park · 1995 · 85min · DCP\nhttps://metrograph.com/film/
+ 9999005087-wallace-gromit-the-classic-shorts/\nFrom Pushpin NYC: https://p
+ ushpin.city/nyc/
+URL:https://metrograph.com/film/9999005087-wallace-gromit-the-classic-short
+ s/
+END:VEVENT
+BEGIN:VEVENT
+UID:4f101c2e55d9e904feb0b1967daa7a2ad32545d5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T160000Z
+DTEND:20261206T180000Z
+SUMMARY:Poetry
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Lee Chang-dong · 2010 · 139min · 35mm\nhttps://metrograph.co
+ m/film/9999003669-poetry/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003669-poetry/
+END:VEVENT
+BEGIN:VEVENT
+UID:060fa13aa64f36621b8191de29b0e5761c4babba@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Wild Boys of the Road
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:William A. Wellman · 1933 · 68min · 35mm\nhttps://metrograph
+ .com/film/9999005124-wild-boys-of-the-road/\nFrom Pushpin NYC: https://pus
+ hpin.city/nyc/
+URL:https://metrograph.com/film/9999005124-wild-boys-of-the-road/
+END:VEVENT
+BEGIN:VEVENT
+UID:197af0ed02def1e0fc222f029320a2965c61a479@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T184500Z
+DTEND:20261206T204500Z
+SUMMARY:Nayak (The Hero)
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Satyajit Ray · 1966 · 117min · 35mm\nhttps://metrograph.com/
+ film/9999005125-nayak-the-hero/\nFrom Pushpin NYC: https://pushpin.city/ny
+ c/
+URL:https://metrograph.com/film/9999005125-nayak-the-hero/
+END:VEVENT
+BEGIN:VEVENT
+UID:1368ac8d72977331701437b550264ff6af0a08a4@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T190000Z
+DTEND:20261206T210000Z
+SUMMARY:Daughters of the Dust
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Julie Dash · 1991 · 112min · DCP\nhttps://metrograph.com/fil
+ m/9999002729-daughters-of-the-dust/\nFrom Pushpin NYC: https://pushpin.cit
+ y/nyc/
+URL:https://metrograph.com/film/9999002729-daughters-of-the-dust/
+END:VEVENT
+BEGIN:VEVENT
+UID:52a8c905920491e07a199753e57e667b16c87a2f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T211500Z
+DTEND:20261206T231500Z
+SUMMARY:Leviathan
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Lucien Castaing-Taylor\, Vérena Paravel · 2012 · 87min · DC
+ P\nhttps://metrograph.com/film/9999003402-leviathan/\nFrom Pushpin NYC: ht
+ tps://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003402-leviathan/
+END:VEVENT
+BEGIN:VEVENT
+UID:26654708021bb345c04c253a0466b239def6a451@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T212000Z
+DTEND:20261206T232000Z
+SUMMARY:Still Life + Train-Trains #2: A Bypass
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Rania Stephan\, Sohrab Shahid Saless · 1974 · 123min · DCP\n
+ https://metrograph.com/film/9999005126-still-life-train-trains-2-a-bypass/
+ \nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005126-still-life-train-trains-2-a-bypa
+ ss/
+END:VEVENT
+BEGIN:VEVENT
+UID:69bc22a0da80a5e1de2518cf2ba162f7d1830c5f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T234500Z
+DTEND:20261207T014500Z
+SUMMARY:The Celebration
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Thomas Vinterbergs · 1998 · 105min · DCP\nhttps://metrograph
+ .com/film/9999005092-the-celebration/\nFrom Pushpin NYC: https://pushpin.c
+ ity/nyc/
+URL:https://metrograph.com/film/9999005092-the-celebration/
+END:VEVENT
+BEGIN:VEVENT
+UID:72c7c281d17358aab1dd1b4d146f6c242178f79a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261207T000000Z
+DTEND:20261207T020000Z
+SUMMARY:Lady Killer
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Jean Grémillon · 1937 · 94min · DCP\nhttps://metrograph.com
+ /film/9999003354-lady-killer/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003354-lady-killer/
+END:VEVENT
+BEGIN:VEVENT
+UID:b153040d1dc5f9f5f17f7c120158356bba9285d1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261207T020000Z
+DTEND:20261207T040000Z
+SUMMARY:Stalker
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Andrei Tarkovsky · 1979 · 163min · DCP\nhttps://metrograph.c
+ om/film/9999001012-stalker/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999001012-stalker/
+END:VEVENT
+BEGIN:VEVENT
+UID:b61bda22497ca6196752910a19b5a012166477ef@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261207T021000Z
+DTEND:20261207T041000Z
+SUMMARY:The Inugami Family
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Kon Ichikawa · 1976 · 146min · DCP\nhttps://metrograph.com/f
+ ilm/9999005120-the-inugami-family/\nFrom Pushpin NYC: https://pushpin.city
+ /nyc/
+URL:https://metrograph.com/film/9999005120-the-inugami-family/
+END:VEVENT
+BEGIN:VEVENT
+UID:feb9c9e08fc0d94d10ca689971b1ea1f91f8a869@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261211T190000Z
+DTEND:20261211T210000Z
+SUMMARY:Stalker
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Andrei Tarkovsky · 1979 · 163min · DCP\nhttps://metrograph.c
+ om/film/9999001012-stalker/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999001012-stalker/
+END:VEVENT
+BEGIN:VEVENT
+UID:4d2a4db6b571c887924ea38f4fddc89f58bb0fd1@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261211T193000Z
+DTEND:20261211T213000Z
+SUMMARY:Afternoons of Solitude
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Albert Serra · 2024 · 125min · DCP\nhttps://metrograph.com/f
+ ilm/9999005127-afternoons-of-solitude/\nFrom Pushpin NYC: https://pushpin.
+ city/nyc/
+URL:https://metrograph.com/film/9999005127-afternoons-of-solitude/
+END:VEVENT
+BEGIN:VEVENT
+UID:095278569d91da5334f2983d60e55036a02839fb@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261211T220000Z
+DTEND:20261212T000000Z
+SUMMARY:Keane
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Lodge Kerrigan · 2004 · 100min · DCP\nhttps://metrograph.com
+ /film/9999005114-keane/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005114-keane/
+END:VEVENT
+BEGIN:VEVENT
+UID:5c9fe700ff4f749ebbd681d173aac65c6c7b2e56@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261211T221500Z
+DTEND:20261212T001500Z
+SUMMARY:Rex: A Dinosaur's Story
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Haruki Kadokawa · 1993 · 106min · DCP\nhttps://metrograph.co
+ m/film/9999005128-rex-a-dinosaurs-story/\nFrom Pushpin NYC: https://pushpi
+ n.city/nyc/
+URL:https://metrograph.com/film/9999005128-rex-a-dinosaurs-story/
+END:VEVENT
+BEGIN:VEVENT
+UID:97ce1daae28f47370459e5a4437f43c56d83f7a7@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:Chronovisor
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Jack Auen\, Kevin Walker · 2026 · 106min · DCP\nhttps://metr
+ ograph.com/film/9999005130-chronovisor/\nFrom Pushpin NYC: https://pushpin
+ .city/nyc/
+URL:https://metrograph.com/film/9999005130-chronovisor/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a2feac92d43a7d89247f221067c856bf3a822de@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T004500Z
+DTEND:20261212T024500Z
+SUMMARY:Nocturama
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Bertrand Bonello · 2016 · 130min · DCP\nhttps://metrograph.c
+ om/film/9999000995-nocturama/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999000995-nocturama/
+END:VEVENT
+BEGIN:VEVENT
+UID:f1f54214cd40973638f01479ec5d91e12ea0f390@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T031500Z
+DTEND:20261212T051500Z
+SUMMARY:Scarface [35mm]
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Brian De Palma · 1983 · 170min · 35mm\nhttps://metrograph.co
+ m/film/9999000203-scarface-35mm/\nFrom Pushpin NYC: https://pushpin.city/n
+ yc/
+URL:https://metrograph.com/film/9999000203-scarface-35mm/
+END:VEVENT
+BEGIN:VEVENT
+UID:77ee2a3f173992f32390c7b5a25292559de2ef7f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T033000Z
+DTEND:20261212T053000Z
+SUMMARY:The Matrix Revolutions
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Lilly Wachowski\, Lana Wachowski · 2003 · 129min · DCP\nhttp
+ s://metrograph.com/film/9999005131-the-matrix-revolutions/\nFrom Pushpin N
+ YC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005131-the-matrix-revolutions/
+END:VEVENT
+BEGIN:VEVENT
+UID:45eb867c3cf11457cbcd01980fce2a24d7f5c065@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Jurassic Park
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Steven Spielberg · 1993 · 127min · 35mm\nhttps://metrograph.
+ com/film/9999000638-jurassic-park/\nFrom Pushpin NYC: https://pushpin.city
+ /nyc/
+URL:https://metrograph.com/film/9999000638-jurassic-park/
+END:VEVENT
+BEGIN:VEVENT
+UID:5d57cd60ab7f0644f50c3788c5eecadea005bae4@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T164500Z
+DTEND:20261212T184500Z
+SUMMARY:The Power of Kangwon Province
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Hong Sangsoo · 1998 · 110min · Digital\nhttps://metrograph.c
+ om/film/9999005132-the-power-of-kangwon-province/\nFrom Pushpin NYC: https
+ ://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005132-the-power-of-kangwon-province/
+END:VEVENT
+BEGIN:VEVENT
+UID:bf48760b895915b303476edf5ad5ac198f997a25@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T183500Z
+DTEND:20261212T203500Z
+SUMMARY:Rex: A Dinosaur's Story
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Haruki Kadokawa · 1993 · 106min · DCP\nhttps://metrograph.co
+ m/film/9999005128-rex-a-dinosaurs-story/\nFrom Pushpin NYC: https://pushpi
+ n.city/nyc/
+URL:https://metrograph.com/film/9999005128-rex-a-dinosaurs-story/
+END:VEVENT
+BEGIN:VEVENT
+UID:b7cfc2dee42146949abfcdb69d5ffa772751c0b6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:Chronicle of Anna Magdalena Bach
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Jean-Marie Straub\, Danièle Huillet · 1968 · 94min · DCP\nh
+ ttps://metrograph.com/film/9999003336-chronicle-of-anna-magdalena-bach/\nF
+ rom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999003336-chronicle-of-anna-magdalena-bach
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:2a098dbdf5ea29acf922d789c89bfda3b7773839@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T205000Z
+DTEND:20261212T225000Z
+SUMMARY:The Stranger
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Satyajit Ray · 1991 · 120min · 35mm\nhttps://metrograph.com/
+ film/9999005133-the-stranger/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005133-the-stranger/
+END:VEVENT
+BEGIN:VEVENT
+UID:a9b3d83449ce11faa76442e9f0092c44cb8fe9fd@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T210000Z
+DTEND:20261212T230000Z
+SUMMARY:Jollof Films presents The Price of Forgiveness
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Mansour Sora Wade · 2001 · 90min · DCP\nhttps://metrograph.c
+ om/film/9999005134-jollof-films-presents-the-price-of-forgiveness/\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005134-jollof-films-presents-the-price-
+ of-forgiveness/
+END:VEVENT
+BEGIN:VEVENT
+UID:364aac68f03fed15879c90f2d7b07d4a425873a4@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T233000Z
+DTEND:20261213T013000Z
+SUMMARY:Panelstory\, or How a Housing Development Is Born
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Věra Chytilová · 1979 · 100min · 4K DCP\nhttps://metrograp
+ h.com/film/9999005135-panelstory-or-how-a-housing-development-is-born/\nFr
+ om Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005135-panelstory-or-how-a-housing-deve
+ lopment-is-born/
+END:VEVENT
+BEGIN:VEVENT
+UID:e52ec504cd75037331c7d1db6ee146a9b2417bfc@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T234500Z
+DTEND:20261213T014500Z
+SUMMARY:Andrew Norman Wilson: Sound Works
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Andrew Norman Wilson · 2026 · 75min · DCP\nhttps://metrograp
+ h.com/film/9999005136-andrew-norman-wilson-sound-works/\nFrom Pushpin NYC:
+  https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005136-andrew-norman-wilson-sound-works
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:335ea285aedf325a945082148d0b3fa0562f1283@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T013500Z
+DTEND:20261213T033500Z
+SUMMARY:Suspiria [4K DCP]
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Dario Argento · 1977 · 98min · 4K DCP\nhttps://metrograph.co
+ m/film/9999004419-suspiria-4k-dcp/\nFrom Pushpin NYC: https://pushpin.city
+ /nyc/
+URL:https://metrograph.com/film/9999004419-suspiria-4k-dcp/
+END:VEVENT
+BEGIN:VEVENT
+UID:fb9b5987ea072910867bf2829057a82c44205c5a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T014000Z
+DTEND:20261213T034000Z
+SUMMARY:Wolf's Hole
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Věra Chytilová · 1987 · 92min · DCP\nhttps://metrograph.co
+ m/film/9999005137-wolfs-hole/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005137-wolfs-hole/
+END:VEVENT
+BEGIN:VEVENT
+UID:0d51eb02beb7917af16ef25acf1f890cda4ee27b@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T033500Z
+DTEND:20261213T053500Z
+SUMMARY:The Matrix Revolutions
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Lilly Wachowski\, Lana Wachowski · 2003 · 129min · DCP\nhttp
+ s://metrograph.com/film/9999005131-the-matrix-revolutions/\nFrom Pushpin N
+ YC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005131-the-matrix-revolutions/
+END:VEVENT
+BEGIN:VEVENT
+UID:26783402f55985563de62896e95c32cf02fa2a8a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T034000Z
+DTEND:20261213T054000Z
+SUMMARY:Salò\, or the 120 Days of Sodom
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Pier Paolo Pasolini · 1975 · 116min · 35mm\nhttps://metrogra
+ ph.com/film/9999000023-salo-or-the-120-days-of-sodom/\nFrom Pushpin NYC: h
+ ttps://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999000023-salo-or-the-120-days-of-sodom/
+END:VEVENT
+BEGIN:VEVENT
+UID:85e3c23ff65524cd73a9278c20227deeb19b3152@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T160000Z
+DTEND:20261213T180000Z
+SUMMARY:Art Cinema for Tots: Tales from the Forest
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Yuri Norstein · 1973 · 42min · DCP\nhttps://metrograph.com/f
+ ilm/9999005138-art-cinema-for-tots-tales-from-the-forest/\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005138-art-cinema-for-tots-tales-from-t
+ he-forest/
+END:VEVENT
+BEGIN:VEVENT
+UID:d1806d585112f5dcb72503dee7f733658bd2dda6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T160000Z
+DTEND:20261213T180000Z
+SUMMARY:Rex: A Dinosaur's Story
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Haruki Kadokawa · 1993 · 106min · DCP\nhttps://metrograph.co
+ m/film/9999005128-rex-a-dinosaurs-story/\nFrom Pushpin NYC: https://pushpi
+ n.city/nyc/
+URL:https://metrograph.com/film/9999005128-rex-a-dinosaurs-story/
+END:VEVENT
+BEGIN:VEVENT
+UID:e2f9f4f0e64fae407cee0a7df6976e9b2afb3d75@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T170000Z
+DTEND:20261213T190000Z
+SUMMARY:7 Women
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:John Ford · 1966 · 87min · DCP\nhttps://metrograph.com/film/
+ 9999005139-7-women/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005139-7-women/
+END:VEVENT
+BEGIN:VEVENT
+UID:418f02ad4e5c744660cbace74ca2d69a18ea0ac4@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T181500Z
+DTEND:20261213T201500Z
+SUMMARY:Unstoppable + The Lonedale Operator
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Tony Scott\, D. W. Griffith · 2010 · 115min · 35mm\nhttps://
+ metrograph.com/film/9999005140-unstoppable-the-lonedale-operator/\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005140-unstoppable-the-lonedale-operato
+ r/
+END:VEVENT
+BEGIN:VEVENT
+UID:f43962e53d5d2db2296187c75a4e0066354c0228@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T185000Z
+DTEND:20261213T205000Z
+SUMMARY:Afternoons of Solitude
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Albert Serra · 2024 · 125min · DCP\nhttps://metrograph.com/f
+ ilm/9999005127-afternoons-of-solitude/\nFrom Pushpin NYC: https://pushpin.
+ city/nyc/
+URL:https://metrograph.com/film/9999005127-afternoons-of-solitude/
+END:VEVENT
+BEGIN:VEVENT
+UID:082e2ca821e708b135b5d2fe44d8f51bc4616b22@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T204000Z
+DTEND:20261213T224000Z
+SUMMARY:ASC presents: Death to Smoochy
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Danny DeVito · 2002 · 109min · 35mm\nhttps://metrograph.com/
+ film/9999005141-asc-presents-death-to-smoochy/\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005141-asc-presents-death-to-smoochy/
+END:VEVENT
+BEGIN:VEVENT
+UID:5fe401a1f5a5b82006bc2963e5d452902b3be87e@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T212000Z
+DTEND:20261213T232000Z
+SUMMARY:Tainted Horseplay
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Věra Chytilová · 1988 · 134min · DCP\nhttps://metrograph.c
+ om/film/9999005142-tainted-horseplay/\nFrom Pushpin NYC: https://pushpin.c
+ ity/nyc/
+URL:https://metrograph.com/film/9999005142-tainted-horseplay/
+END:VEVENT
+BEGIN:VEVENT
+UID:55c16f2bf0e0d672927014094283e1910e889163@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T233000Z
+DTEND:20261214T013000Z
+SUMMARY:Scarface [35mm]
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Brian De Palma · 1983 · 170min · 35mm\nhttps://metrograph.co
+ m/film/9999000203-scarface-35mm/\nFrom Pushpin NYC: https://pushpin.city/n
+ yc/
+URL:https://metrograph.com/film/9999000203-scarface-35mm/
+END:VEVENT
+BEGIN:VEVENT
+UID:3e8aed031baaff67259b11897c87dfbaa479e243@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:The Empty Man
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:David Prior · 2020 · 137min · 4K DCP\nhttps://metrograph.com
+ /film/9999005143-the-empty-man/\nFrom Pushpin NYC: https://pushpin.city/ny
+ c/
+URL:https://metrograph.com/film/9999005143-the-empty-man/
+END:VEVENT
+BEGIN:VEVENT
+UID:2bb6a5a71a97c78001f09ebfba1dc336e7b3289d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261214T024500Z
+DTEND:20261214T044500Z
+SUMMARY:Calamity
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Věra Chytilová · 1982 · 101min · DCP\nhttps://metrograph.c
+ om/film/9999005129-calamity/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999005129-calamity/
+END:VEVENT
+BEGIN:VEVENT
+UID:b08b354b5ce0d59c95210eb31f3d945ae5d11c82@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261214T025000Z
+DTEND:20261214T045000Z
+SUMMARY:Kaili Blues
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:Bi Gan · 2015 · 109min · DCP\nhttps://metrograph.com/film/99
+ 99000148-kaili-blues/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://metrograph.com/film/9999000148-kaili-blues/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:af1751bfa7eb42873a2e128a1adc8e5fb698121a@pushpin.city
+DTSTAMP:20261214T000000Z
+DTSTART:20261215T000000Z
+DTEND:20261215T020000Z
+SUMMARY:The Apartment
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/apartment
+URL:https://amherstcinema.org/films-and-events/apartment
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:727d27be7f18ae3e5a217e6d8b9d65a30256e2cf@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T214500Z
+DTEND:20261121T234500Z
+SUMMARY:I Play Rocky
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/i-play-rocky/
+URL:https://nitehawkcinema.com/prospectpark/movies/i-play-rocky/
+END:VEVENT
+END:VCALENDAR

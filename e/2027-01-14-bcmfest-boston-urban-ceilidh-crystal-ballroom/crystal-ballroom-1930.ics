@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c8c3eb219e1c2346f927e84c9cba40cd58ac65ee@pushpin.city
+DTSTAMP:20270114T000000Z
+DTSTART:20270115T003000Z
+DTEND:20270115T023000Z
+SUMMARY:BCMFest: Boston Urban Ceilidh
+LOCATION:Crystal Ballroom\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.ticketmaster.com/bcmfest-boston-urban-ceilidh-somer
+ ville-massachusetts-01-14-2027/event/0100655A3A0C2658
+URL:https://www.ticketmaster.com/bcmfest-boston-urban-ceilidh-somerville-ma
+ ssachusetts-01-14-2027/event/0100655A3A0C2658
+END:VEVENT
+END:VCALENDAR

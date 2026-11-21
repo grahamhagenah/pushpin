@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8322f881325512d85bdc9c32f360e1f7ac18807b@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261211T234500Z
+DTEND:20261212T014500Z
+SUMMARY:Third Avenue: Only the Strong Survive
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62376
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62376
+END:VEVENT
+END:VCALENDAR

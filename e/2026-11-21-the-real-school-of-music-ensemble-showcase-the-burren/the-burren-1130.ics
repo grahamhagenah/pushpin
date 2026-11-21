@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f63574b6ef70ea99bd418d81476d2cf70afb3990@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T163000Z
+DTEND:20261121T183000Z
+SUMMARY:The Real School of Music Ensemble Showcase
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1583
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1583
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:01571e52f200f72f3ef5382d88f76b1c8425fcdd@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261219T191500Z
+DTEND:20261219T211500Z
+SUMMARY:Dune: Part Three
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/dune-part-three/
+URL:https://nitehawkcinema.com/williamsburg/movies/dune-part-three/
+END:VEVENT
+END:VCALENDAR

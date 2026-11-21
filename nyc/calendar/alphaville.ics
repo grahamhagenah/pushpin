@@ -1,0 +1,287 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Alphaville
+X-WR-CALDESC:What’s coming up at Alphaville\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:c0d35cbef4e5f21236272a0f979b26482aea797d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T233000Z
+DTEND:20261122T013000Z
+SUMMARY:Shower Beers\, Cheer Up Dusty\, Free Friends\, Break Out Day
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6aaea0b80a37b40001a2eb2d\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aaea0b80a37b40001a2eb2d
+END:VEVENT
+BEGIN:VEVENT
+UID:7357e06b8ac075363842708f71565ff1ecb3db59@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T033000Z
+DTEND:20261122T053000Z
+SUMMARY:Debt\, Juju Zissou (single release)\, Shyness
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6adb8bf279b93500014e3f37\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6adb8bf279b93500014e3f37
+END:VEVENT
+BEGIN:VEVENT
+UID:1c8a6e62a54f3663adbddd85e4f09c35f97edc71@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T033000Z
+DTEND:20261122T053000Z
+SUMMARY:Little Sally's Soul Shimmy
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6afa08acf8e085000117782d\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afa08acf8e085000117782d
+END:VEVENT
+BEGIN:VEVENT
+UID:8c4df4072b00e7658856c6ea6185cf7c4301fa35@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261123T000000Z
+DTEND:20261123T020000Z
+SUMMARY:Common Sage\, Dauber\, Cotillion\, Star Card
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ad7b98e6b31ce0001aeff36\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad7b98e6b31ce0001aeff36
+END:VEVENT
+BEGIN:VEVENT
+UID:c20d11af484d02a334f4e157c0d298d3d1495178@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Evolfo\, Braxton Marbury\, DJ Jonathan Toubin
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ad6341509c8de000160c374\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad6341509c8de000160c374
+END:VEVENT
+BEGIN:VEVENT
+UID:15254ac9dfae6fcf22e0b28320ad66cbb3c049e0@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261128T000000Z
+DTEND:20261128T020000Z
+SUMMARY:Hearts of Palm\, Brigid Hart\, Cookie
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6a9f7bc9a894f20001b2e0d0\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a9f7bc9a894f20001b2e0d0
+END:VEVENT
+BEGIN:VEVENT
+UID:196eaab531adc39517e85dc191569cc319cd18bf@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Patrick O'Neill\, Nebita\, Mt Saint Michael
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6aeba8dc6e90670001a6e327\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aeba8dc6e90670001a6e327
+END:VEVENT
+BEGIN:VEVENT
+UID:c9e687d17c090f652f62910cb76d92af51b209f2@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261129T033000Z
+DTEND:20261129T053000Z
+SUMMARY:SOIRÉ (live)\,  Josh Lomat
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ab3e588ffb93b0001078161\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ab3e588ffb93b0001078161
+END:VEVENT
+BEGIN:VEVENT
+UID:c86cc43b561723ac35045d4b850fee12f40f2971@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:Material Support\, Araw Tierra\, Dirsten Kunst\, suka.exe
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6acc583427ad220001cfbcad\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6acc583427ad220001cfbcad
+END:VEVENT
+BEGIN:VEVENT
+UID:62b47509ee0f51cee15daeb26a01a6efaf9fccf5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Evolfo\, Aubrey Haddard (The Band) DJ Arthur Moon
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ad635577294b00001b11c48\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad635577294b00001b11c48
+END:VEVENT
+BEGIN:VEVENT
+UID:7a3f4a0d8c3ed79f2191fc1209548da01a1ea9d7@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Net Loss (Album Release)\, Club Ecology\, PFFU
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ac6748119d9030001739634\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ac6748119d9030001739634
+END:VEVENT
+BEGIN:VEVENT
+UID:22435285eba29c276f8af4cd0aef9cab8f41db53@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261204T033000Z
+DTEND:20261204T053000Z
+SUMMARY:Java Jam
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6a97ad8e49639e0001b6693d\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a97ad8e49639e0001b6693d
+END:VEVENT
+BEGIN:VEVENT
+UID:a2fa033f4914e26e2735049d97c0aba98ce2fed9@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:postergirl\, Diamanta\, Awful Christine
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6aae949027956e0001226cd3\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aae949027956e0001226cd3
+END:VEVENT
+BEGIN:VEVENT
+UID:0a70e1be8b40f586750a638e92591c25db152228@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261205T033000Z
+DTEND:20261205T053000Z
+SUMMARY:Baby Baby Explores\, Fat Concubine\, Suburban Speed
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af8c0aaf8e08500015afb97\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af8c0aaf8e08500015afb97
+END:VEVENT
+BEGIN:VEVENT
+UID:a0eb6322163bc339181b91bea4b417220e5262ae@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:Wiring\, Touchdown Jesus\, Flatliner
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6a9f6c3552323b00016b0797\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a9f6c3552323b00016b0797
+END:VEVENT
+BEGIN:VEVENT
+UID:e5db4dc6f80e256806c0d550d34c1abe316bca33@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261207T000000Z
+DTEND:20261207T020000Z
+SUMMARY:Evolfo\, Secret Family\, Abby Jeanne & the Shadowband\, Low Noon\, 
+ DJs Thomas G Weed & ZZOLA
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ad6367b8c489300010ea6ba\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad6367b8c489300010ea6ba
+END:VEVENT
+BEGIN:VEVENT
+UID:46b77bf27361ec3fbb453d9cf5a169d3f207ec8f@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Free Chess Night at Alphaville
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6a97a32fb45d1e00016cfdbb\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a97a32fb45d1e00016cfdbb
+END:VEVENT
+BEGIN:VEVENT
+UID:32165d60331b2ef5c64c42d2fdefdb03b6154891@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Colebrooke
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af637bb153c1d000168c398\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af637bb153c1d000168c398
+END:VEVENT
+BEGIN:VEVENT
+UID:dce151426f1991c95ec8786af0e7d8689d1a9bf8@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261212T033000Z
+DTEND:20261212T053000Z
+SUMMARY:Fifth Column\, Liveright
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6afe37542d01250001715374\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afe37542d01250001715374
+END:VEVENT
+BEGIN:VEVENT
+UID:d4f172840f69d06a15c0098d67962b4a4122f78c@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Bort and Steve\,
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ac513510c2462000116faaf\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ac513510c2462000116faaf
+END:VEVENT
+BEGIN:VEVENT
+UID:0b5e01016003e7fc34b7d16a108e9a28bbe57dbc@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261216T000000Z
+DTEND:20261216T020000Z
+SUMMARY:Victor Jones Solo
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6afc8723754b0b0001193323\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afc8723754b0b0001193323
+END:VEVENT
+BEGIN:VEVENT
+UID:3637ff44db31fb7c7024ed1aaed4a78ca887f775@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261218T233000Z
+DTEND:20261219T013000Z
+SUMMARY:Punkest\, Hands First\, Nett\, Cult Goddess
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af62512153c1d0001be4d4b\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af62512153c1d0001be4d4b
+END:VEVENT
+BEGIN:VEVENT
+UID:a9b86efc5fdccda40fe039674bc33ab1310ae6a6@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261220T000000Z
+DTEND:20261220T020000Z
+SUMMARY:Bushwick Princess\, Two Cats and a Ball of Yarn
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6afe2efc35d49e0001ad1c27\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afe2efc35d49e0001ad1c27
+END:VEVENT
+BEGIN:VEVENT
+UID:b1752805399704fb21618355731fd1409f446ade@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261223T230000Z
+DTEND:20261224T010000Z
+SUMMARY:Fushwick Bilm Follective: Hosted by Brainzap
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6adfcbdb3e362400012957f6\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6adfcbdb3e362400012957f6
+END:VEVENT
+BEGIN:VEVENT
+UID:4255fe21aece945ea8612657011996a2265d26aa@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20270103T220000Z
+DTEND:20270104T000000Z
+SUMMARY:Locavore Cinema
+LOCATION:Alphaville\, 140 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6afdc21367ead800010ff5a8\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afdc21367ead800010ff5a8
+END:VEVENT
+END:VCALENDAR

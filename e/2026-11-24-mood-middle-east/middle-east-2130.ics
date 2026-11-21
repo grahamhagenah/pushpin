@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4a25ba52a1d6aac059842e67dcb335cd4c1e9c4a@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261125T023000Z
+DTEND:20261125T043000Z
+SUMMARY:Mood
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-t
+ ickets/14031484?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-tickets/1
+ 4031484?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

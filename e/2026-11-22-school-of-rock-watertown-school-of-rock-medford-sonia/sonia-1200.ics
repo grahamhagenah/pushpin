@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c0b01123470ac8604ac5a27cd816cebf3dc53ebb@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T170000Z
+DTEND:20261122T190000Z
+SUMMARY:School of Rock Watertown\, SCHOOL OF ROCK Medford
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/school-of-rock-watertown-school
+ -sonia-tickets/14451214?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/school-of-rock-watertown-school-sonia-t
+ ickets/14451214?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

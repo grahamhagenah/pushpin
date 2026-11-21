@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:870a64a9984a70086858ed652bb0e4c4ea436563@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261220T010000Z
+DTEND:20261220T030000Z
+SUMMARY:John Pizzarelli Trio with Jessica Molaskey – The Glory of Love: M
+ arried to Jazz
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:https://mahaiwe.org/event/john-pizzarelli-trio-with-jessica-mol
+ askey-the-glory-of-love-married-to-jazz/
+URL:https://mahaiwe.org/event/john-pizzarelli-trio-with-jessica-molaskey-th
+ e-glory-of-love-married-to-jazz/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:567773b61107904a00ac93627fb87ee3525260ee@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:In a Whisper (À voix basse)
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/film/in-a-whisper-a-voix-basse?event=
+ 181736
+URL:https://www.mfa.org/event/film/in-a-whisper-a-voix-basse?event=181736
+END:VEVENT
+END:VCALENDAR

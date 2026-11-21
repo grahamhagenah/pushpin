@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3277f07a04e58d7a283c6667401cc09d90166d5a@pushpin.city
+DTSTAMP:20261207T000000Z
+DTSTART:20261208T000000Z
+DTEND:20261208T020000Z
+SUMMARY:The Departed
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/special-event-the-departed-2
+ 0th-anniversary
+URL:https://drafthouse.com/boston/show/special-event-the-departed-20th-anni
+ versary
+END:VEVENT
+END:VCALENDAR

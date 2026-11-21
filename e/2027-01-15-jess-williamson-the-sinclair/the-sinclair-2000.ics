@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:27ac972c86000a602e7b7b91886cdab116a3c3ac@pushpin.city
+DTSTAMP:20270115T000000Z
+DTSTART:20270116T010000Z
+DTEND:20270116T030000Z
+SUMMARY:Jess Williamson
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1639057
+URL:https://www.sinclaircambridge.com/events/detail/1639057
+END:VEVENT
+END:VCALENDAR

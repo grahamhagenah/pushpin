@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c6403ea7927f71ed6e8ee9c9a5f3703c4fc47cd7@pushpin.city
+DTSTAMP:20261214T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Creatine Price Presents The Drag Messiah
+LOCATION:National Sawdust\, 80 N 6th St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.nationalsawdust.org/event/creatine-price-presents-t
+ he-drag-messiah-12-14-26
+URL:https://www.nationalsawdust.org/event/creatine-price-presents-the-drag-
+ messiah-12-14-26
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d06dbef8faf0900ea11978bd5db3b6431774e047@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T190000Z
+DTEND:20261213T210000Z
+SUMMARY:Midwinter Celebration
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:https://sheatheater.org/d/23343/Welcome-Yule-Presents-Midwinter
+ -Celebration
+URL:https://sheatheater.org/d/23343/Welcome-Yule-Presents-Midwinter-Celebra
+ tion
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ead6307ec3cc7ad11cb04f208ebe973cc26e77a4@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T003000Z
+DTEND:20261124T023000Z
+SUMMARY:Jack West | SilverHorizon | The Emotional Rollercoaster | A Nuclear
+  Design
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/2726/1795480200000
+URL:https://tockify.com/midwaycafejp/detail/2726/1795480200000
+END:VEVENT
+END:VCALENDAR

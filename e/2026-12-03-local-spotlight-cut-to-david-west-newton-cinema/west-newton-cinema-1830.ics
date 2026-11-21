@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6dbf48547fbc9e09377cc6d156427753e87a89a5@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261203T233000Z
+DTEND:20261204T013000Z
+SUMMARY:Local Spotlight: Cut To David
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/cut-to-david
+URL:https://www.westnewtoncinema.com/movie/cut-to-david
+END:VEVENT
+END:VCALENDAR

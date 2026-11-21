@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:06fa5291f6639eb01a373e5539b0a7c72cfdda21@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T000000Z
+DTEND:20261123T020000Z
+SUMMARY:Julia Minkin
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/julia-minkin/
+URL:https://therockwell.org/calendar/julia-minkin/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bbe40dc51d21236694ab346df91baf9ad1c69202@pushpin.city
+DTSTAMP:20261130T000000Z
+DTSTART:20261130T050000Z
+DTEND:20261130T070000Z
+SUMMARY:Places Known and Remembered: An Art Exhibition by ﻿Laura Gatzos
+LOCATION:West Roxbury Library\, 1961 Centre St\, West Roxbury\, MA 02132
+DESCRIPTION:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905d
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905d
+END:VEVENT
+END:VCALENDAR

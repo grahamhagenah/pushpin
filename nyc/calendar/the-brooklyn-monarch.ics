@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · The Brooklyn Monarch
+X-WR-CALDESC:What’s coming up at The Brooklyn Monarch\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:c7d015156c3de8524920b117a644e589e822f578@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T040000Z
+DTEND:20261206T060000Z
+SUMMARY:Reggaeton Rave | Brooklyn\, NY (21+)
+LOCATION:The Brooklyn Monarch\, 23 Meadow St\, Brooklyn\, NY 11206
+DESCRIPTION:https://dice.fm/event/6ab8f4eaa820210001578f0c\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ab8f4eaa820210001578f0c
+END:VEVENT
+END:VCALENDAR

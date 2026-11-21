@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b079d14267efdfd7371ba4e95d682fa431da1d3e@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261124T213000Z
+DTEND:20261124T233000Z
+SUMMARY:I Play Rocky
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:https://www.capitoltheatreusa.com/movie/i-play-rocky/
+URL:https://www.capitoltheatreusa.com/movie/i-play-rocky/
+END:VEVENT
+END:VCALENDAR

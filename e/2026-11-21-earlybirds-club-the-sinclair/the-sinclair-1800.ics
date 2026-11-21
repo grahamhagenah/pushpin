@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e12ca748b1fc66e01f4650fbde02a6e12f0d9fbf@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T230000Z
+DTEND:20261122T010000Z
+SUMMARY:Earlybirds Club
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1616235
+URL:https://www.sinclaircambridge.com/events/detail/1616235
+END:VEVENT
+END:VCALENDAR

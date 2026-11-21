@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7f9d0ce996de1695dd7af7dd57b33a6823b49dbc@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261123T234500Z
+DTEND:20261124T014500Z
+SUMMARY:Aquamarine
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/aquamarine/
+URL:https://nitehawkcinema.com/williamsburg/movies/aquamarine/
+END:VEVENT
+END:VCALENDAR

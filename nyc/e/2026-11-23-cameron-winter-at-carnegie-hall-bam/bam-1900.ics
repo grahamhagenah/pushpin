@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8913ea6df178a3bc41ecde03af65c7f9fc20cf7c@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T000000Z
+DTEND:20261124T020000Z
+SUMMARY:Cameron Winter at Carnegie Hall
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://www.bam.org/film/2026/cameron-winter
+URL:https://www.bam.org/film/2026/cameron-winter
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8b10caaffc5b8d6434a926e278c953ff5f8c6175@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:Narrow Rooms: Terence Davies Trilogy
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62227
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62227
+END:VEVENT
+END:VCALENDAR

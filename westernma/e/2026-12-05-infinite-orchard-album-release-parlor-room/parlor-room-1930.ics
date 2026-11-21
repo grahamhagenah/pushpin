@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a6be832297e3b1707535ddb9b86208c6da29c57b@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:Infinite Orchard Album Release
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000D7H33MAF
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0D7H33MAF
+END:VEVENT
+END:VCALENDAR

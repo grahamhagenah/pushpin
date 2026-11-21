@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:37d91aa9e6925b90dc506cfda6baa75d23f6fb7e@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T024500Z
+DTEND:20261203T044500Z
+SUMMARY:And Your Bird Can Sing preceded by August 8th
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005084-and-your-bird-can-sing-p
+ receded-by-august-8th/
+URL:https://metrograph.com/film/9999005084-and-your-bird-can-sing-preceded-
+ by-august-8th/
+END:VEVENT
+END:VCALENDAR

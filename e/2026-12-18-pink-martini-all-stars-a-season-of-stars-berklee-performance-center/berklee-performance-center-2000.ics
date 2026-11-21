@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7417f7b348cb8902e082ed0180bb0bc0f38afec0@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T010000Z
+DTEND:20261219T030000Z
+SUMMARY:Pink Martini All-Stars: A Season of Stars
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/pink-martini-all-stars-a-sea
+ son-of-stars
+URL:https://www.berklee.edu/BPC/events/pink-martini-all-stars-a-season-of-s
+ tars
+END:VEVENT
+END:VCALENDAR

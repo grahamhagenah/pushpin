@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fd77a5c5fbbacdd5d53c0e01b73a756b414a98f8@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T221000Z
+DTEND:20261122T001000Z
+SUMMARY:ACE Presents: Ghost World
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005096-ace-presents-ghost-world
+ /
+URL:https://metrograph.com/film/9999005096-ace-presents-ghost-world/
+END:VEVENT
+END:VCALENDAR

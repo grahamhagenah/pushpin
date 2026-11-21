@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8ccd5a8dfc3c1af279bd4f0195d3208ad600f742@pushpin.city
+DTSTAMP:20261217T000000Z
+DTSTART:20261217T210000Z
+DTEND:20261217T230000Z
+SUMMARY:Rome\, Open City
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/rome-open-city
+URL:https://www.westnewtoncinema.com/movie/rome-open-city
+END:VEVENT
+END:VCALENDAR

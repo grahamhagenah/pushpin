@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:86938d9369cf39a48e73fe24de63394b6a29daa5@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T003000Z
+DTEND:20261124T023000Z
+SUMMARY:The Crow Double Feature
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/ohio-teens-ramke-the-crow/
+URL:https://www.spectacletheater.com/ohio-teens-ramke-the-crow/
+END:VEVENT
+END:VCALENDAR

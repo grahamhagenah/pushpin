@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3982a1b0234710866475059a90387de0da22383c@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261211T233000Z
+DTEND:20261212T013000Z
+SUMMARY:LET'S ROCK CANCER! 2026
+LOCATION:Crystal Ballroom\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.ticketmaster.com/lets-rock-cancer-2026-somerville-m
+ assachusetts-12-11-2026/event/01006544367B983E
+URL:https://www.ticketmaster.com/lets-rock-cancer-2026-somerville-massachus
+ etts-12-11-2026/event/01006544367B983E
+END:VEVENT
+END:VCALENDAR

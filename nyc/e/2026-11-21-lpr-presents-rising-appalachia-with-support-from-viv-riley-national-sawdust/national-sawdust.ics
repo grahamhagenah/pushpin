@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:96944fd05f634596e3466eccaf62dcd86b09477e@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:LPR Presents: Rising Appalachia with support from Viv & Riley
+LOCATION:National Sawdust\, 80 N 6th St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.nationalsawdust.org/event/lpr-presents-rising-appal
+ achia-with-support-from-viv-riley
+URL:https://www.nationalsawdust.org/event/lpr-presents-rising-appalachia-wi
+ th-support-from-viv-riley
+END:VEVENT
+END:VCALENDAR

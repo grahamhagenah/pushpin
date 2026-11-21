@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a05c3fab17c1107340252e2354dfa7807d679111@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T025000Z
+DTEND:20261123T045000Z
+SUMMARY:Best Pancakes in the County (Open Captioning)
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/best-pancakes-in-the-county-ope
+ n-captioning/
+URL:https://www.ifccenter.com/films/best-pancakes-in-the-county-open-captio
+ ning/
+END:VEVENT
+END:VCALENDAR

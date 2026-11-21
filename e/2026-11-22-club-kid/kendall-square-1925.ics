@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f98d5cce79aa9357442cb018a242585d410b2452@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T002500Z
+DTEND:20261123T022500Z
+SUMMARY:Club Kid
+LOCATION:Kendall Square\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/195140aa-
+ 4b71-5cfc-85c2-79295a2608f0
+URL:https://booking.landmarktheatres.com/launch/ticketing/195140aa-4b71-5cf
+ c-85c2-79295a2608f0
+END:VEVENT
+END:VCALENDAR

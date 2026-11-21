@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b02f9c848fcc76a2d5dfa3f9ff6c210581378bb1@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T023500Z
+DTEND:20261123T043500Z
+SUMMARY:Somewhere in the Night
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005091-somewhere-in-the-night/
+URL:https://metrograph.com/film/9999005091-somewhere-in-the-night/
+END:VEVENT
+END:VCALENDAR

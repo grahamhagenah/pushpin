@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Mass MoCA
+X-WR-CALDESC:What’s coming up at Mass MoCA\, from Pushpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:b478b7c140927a9a3c9d233b63f54a89c0ec3b4d@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261121T220000Z
+DTEND:20261122T000000Z
+SUMMARY:Last Week in End Times Cinema & Algorithm of the Night
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:A.S. Hamrah\n“A. S. Hamrah’s writing on film is a delight..
+ . Like all the best criticism\, his writing makes art and life feel less l
+ onely.” —Elif Batuman A.S. Hamrah is single-handedly re-inventing film
+  criticism with a unique archive of unfortunate movie bulletins published 
+ in the best indie print journals and magazines\, and compiled for his belo
+ ved weekly newsletter. His two most recent books\, Last Week in End Times 
+ Cinema (Semiotext(e)) and Algorithm of the Night (n+1) are R&D Store best-
+ sellers. Join Hamrah for a conversation about film\, filmmakers\, critical
+  writing\, and the state of movies in 2026.\nhttps://massmoca.org/event/a-
+ s-hamrah-last-week-in-end-times-cinema/\nFrom Pushpin Western Mass: https:
+ //pushpin.city/westernma/
+URL:https://massmoca.org/event/a-s-hamrah-last-week-in-end-times-cinema/
+END:VEVENT
+BEGIN:VEVENT
+UID:42337c968d893ccaab98eeccbb23d51c056983d5@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261122T000000Z
+DTEND:20261122T020000Z
+SUMMARY:Mirrored Pool
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Tom Lee\, Lisa Kaplan and Matthew Duvall\nWhere do we fit in th
+ is endless universe? Glimpse the precious fragility of our life on Planet 
+ Earth as we peer into the Mirrored Pool.\nhttps://massmoca.org/event/mirro
+ red-pool/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/mirrored-pool/
+END:VEVENT
+BEGIN:VEVENT
+UID:92352d7371ab06bd6e509c137f7cc72b4c9c067a@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Kimberly Bartosik: bLUr
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:bLUr\, choreographed by Kimberly Bartosik\, is a highly physica
+ l and emotionally intense dance piece in which five performers navigate sc
+ enes of desire\, care\, violence\, and tender rescue.\nhttps://massmoca.or
+ g/event/kimberly-bartosik-blur/\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://massmoca.org/event/kimberly-bartosik-blur/
+END:VEVENT
+BEGIN:VEVENT
+UID:9db68444be0f8ad52d7c6653ddcdbbeae683f5c3@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261218T223000Z
+DTEND:20261219T003000Z
+SUMMARY:Weave\, Repair\, Connect
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Textile Repair Salon\nDip your toes into the world of textiles 
+ during MASS MoCA’s Textile Repair Salon! Join regional practitioners Jen
+ a Duncan and Elsa Cousins from Swanson’s Fabrics Stash House and MASS Mo
+ CA museum educators for a casual evening of textile repair\, embroidery\, 
+ and small-scale weaving.\nhttps://massmoca.org/event/textile-salon-weave-r
+ epair-connect/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/textile-salon-weave-repair-connect/
+END:VEVENT
+BEGIN:VEVENT
+UID:aa81200787ca17d942c116ac515b72b34e6a95ea@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Machine Dazzle: Changes
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:The Costume Design for Taylor Mac’s A 24-Decade History of Po
+ pular Music\nMachine Dazzle has been creating extraordinary costumes for o
+ ver 30 years. As an artist\, costume designer\, set designer\, and perform
+ ance artist\, he has presented his genre-defying work at venues ranging fr
+ om Broadway to the runway\, wowing audiences from Joe’s Pub to the Museu
+ m of Arts and Design in New York. As the nation marks 250 years of America
+ ’s history\, MASS MoCA will showcase wearable sculptural looks by the ar
+ tist that examine the 24 decades since the founding of the United States i
+ n 1776.\nhttps://massmoca.org/event/machine-dazzle-changes-the-costume-des
+ ign-for-taylor-macs-a-24-decade-history-of-popular-music/\nFrom Pushpin We
+ stern Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/machine-dazzle-changes-the-costume-design-fo
+ r-taylor-macs-a-24-decade-history-of-popular-music/
+END:VEVENT
+END:VCALENDAR

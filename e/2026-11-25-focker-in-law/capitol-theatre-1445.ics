@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f7cbb0f4fb701994fdd20481c17daeb90c5840e3@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261125T194500Z
+DTEND:20261125T214500Z
+SUMMARY:Focker-in-Law
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:https://www.capitoltheatreusa.com/movie/focker-in-law/
+URL:https://www.capitoltheatreusa.com/movie/focker-in-law/
+END:VEVENT
+END:VCALENDAR

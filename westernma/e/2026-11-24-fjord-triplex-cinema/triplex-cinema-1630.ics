@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e59d5c42705fd5f557bdd4f4d0f51e13e91c3dd9@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261124T213000Z
+DTEND:20261124T233000Z
+SUMMARY:Fjord
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/fjord
+URL:https://www.thetriplex.org/movie/fjord
+END:VEVENT
+END:VCALENDAR

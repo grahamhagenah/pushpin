@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dcf27260bd46c9835c1c1963974a352e785fa54a@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261125T203000Z
+DTEND:20261125T223000Z
+SUMMARY:News from Home + Interior NY Subway\, 14th Street
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005065-news-from-home-interior-
+ ny-subway-14th-street/
+URL:https://metrograph.com/film/9999005065-news-from-home-interior-ny-subwa
+ y-14th-street/
+END:VEVENT
+END:VCALENDAR

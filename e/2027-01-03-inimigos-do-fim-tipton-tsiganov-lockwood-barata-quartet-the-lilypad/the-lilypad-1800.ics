@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:376a14d841d826e96e6b3d898929b0dde65a93b4@pushpin.city
+DTSTAMP:20270103T000000Z
+DTSTART:20270103T230000Z
+DTEND:20270104T010000Z
+SUMMARY:"Inimigos do fim!" - Tipton-Tsiganov-Lockwood-Barata Quartet
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2027/1/3/inimigos-do-fim
+URL:https://www.lilypadinman.com/home/2027/1/3/inimigos-do-fim
+END:VEVENT
+END:VCALENDAR

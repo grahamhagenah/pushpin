@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3a2caef131f98ac1b4a03f5c1ca7544d1a5f228b@pushpin.city
+DTSTAMP:20261127T000000Z
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+SUMMARY:Will Evans
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:https://sheatheater.org/d/23325/Shea-Presents-Will-Evans-wsg-Wa
+ llace-Field
+URL:https://sheatheater.org/d/23325/Shea-Presents-Will-Evans-wsg-Wallace-Fi
+ eld
+END:VEVENT
+END:VCALENDAR

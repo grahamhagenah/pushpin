@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5b6c1ebaefbeb03708aa9c6d6ce348db58f8e3d8@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
+SUMMARY:2051: A Tango with the Universe
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/2051-a-tango-with-the-universe
+ /
+URL:https://aomtheatre.com/aom_event/2051-a-tango-with-the-universe/
+END:VEVENT
+END:VCALENDAR

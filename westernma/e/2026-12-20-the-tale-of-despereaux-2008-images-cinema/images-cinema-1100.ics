@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:04c094c0cd041b1edb547a19f5850a18d095026f@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T160000Z
+DTEND:20261220T180000Z
+SUMMARY:The Tale of Despereaux (2008)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/the-tale-of-despereaux-2008
+URL:https://www.imagescinema.org/movie/the-tale-of-despereaux-2008
+END:VEVENT
+END:VCALENDAR

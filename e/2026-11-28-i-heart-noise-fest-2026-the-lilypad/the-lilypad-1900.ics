@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2e77aefebd72ccf05db8ef7c69a8a3a72cefbd2a@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:I Heart Noise Fest 2026
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/11/28/i-heart-noise-fest
+ -2026
+URL:https://www.lilypadinman.com/home/2026/11/28/i-heart-noise-fest-2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b1ebdef1cdcf7b33fb4ac3395b5d8b135e89c672@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:Emo Night Brooklyn (18+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/emo-night-brooklyn-18-boston-massa
+ chusetts-11-21-2026/event/0100653EDAE6F4A9
+URL:https://www.ticketmaster.com/emo-night-brooklyn-18-boston-massachusetts
+ -11-21-2026/event/0100653EDAE6F4A9
+END:VEVENT
+END:VCALENDAR

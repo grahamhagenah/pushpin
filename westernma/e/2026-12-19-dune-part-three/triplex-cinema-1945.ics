@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3a1ed9aff2cde30e70032d489d10ff2fa58c9b91@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261220T004500Z
+DTEND:20261220T024500Z
+SUMMARY:Dune Part Three
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/dune-part-three
+URL:https://www.thetriplex.org/movie/dune-part-three
+END:VEVENT
+END:VCALENDAR

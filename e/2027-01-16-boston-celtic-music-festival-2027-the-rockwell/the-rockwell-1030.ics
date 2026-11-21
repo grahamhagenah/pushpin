@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8a949e8b2a8cf28263658792e23217f7c1b6d294@pushpin.city
+DTSTAMP:20270116T000000Z
+DTSTART:20270116T153000Z
+DTEND:20270116T173000Z
+SUMMARY:Boston Celtic Music Festival 2027
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/boston-celtic-music-festival-2
+ 027/
+URL:https://therockwell.org/calendar/boston-celtic-music-festival-2027/
+END:VEVENT
+END:VCALENDAR

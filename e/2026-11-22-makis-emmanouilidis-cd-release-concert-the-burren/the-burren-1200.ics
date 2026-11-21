@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:53b9223f2a18549e790033deffb7f351549d9ebc@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261122T170000Z
+DTEND:20261122T190000Z
+SUMMARY:Makis Emmanouilidis - CD Release Concert
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1902
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1902
+END:VEVENT
+END:VCALENDAR

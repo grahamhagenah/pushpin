@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:855324ec18c91daff2bab925531b18554234a233@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T181500Z
+DTEND:20261213T201500Z
+SUMMARY:Unstoppable + The Lonedale Operator
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005140-unstoppable-the-lonedale
+ -operator/
+URL:https://metrograph.com/film/9999005140-unstoppable-the-lonedale-operato
+ r/
+END:VEVENT
+END:VCALENDAR

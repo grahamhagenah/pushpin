@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:727c4b84521bda3f87ecaf8c696ef99149b20011@pushpin.city
+DTSTAMP:20270108T000000Z
+DTSTART:20270109T010000Z
+DTEND:20270109T030000Z
+SUMMARY:Dwight + Nicole
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/dwight-nicole/
+URL:https://www.passim.org/live-music/events/dwight-nicole/
+END:VEVENT
+END:VCALENDAR

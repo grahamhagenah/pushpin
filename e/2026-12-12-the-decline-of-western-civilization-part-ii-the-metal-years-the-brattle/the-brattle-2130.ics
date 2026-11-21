@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d2cdd8c96b4b8217de30cd8d1117c2d942642b51@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T023000Z
+DTEND:20261213T043000Z
+SUMMARY:The Decline of Western Civilization Part II: The Metal Years
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/purchase/1765549/
+URL:https://brattlefilm.org/purchase/1765549/
+END:VEVENT
+END:VCALENDAR

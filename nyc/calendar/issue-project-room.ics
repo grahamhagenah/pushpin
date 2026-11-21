@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · ISSUE Project Room
+X-WR-CALDESC:What’s coming up at ISSUE Project Room\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:deee960432b9b1039fcb6e78cb6e24d58112dcc4@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:Kou Records Presents: Eric Wubbels’ Altarpiece H. af K. / Ben Gre
+ enberg
+LOCATION:ISSUE Project Room\, 22 Boerum Pl\, Brooklyn\, NY 11201
+DESCRIPTION:Kou Records (Randall Dunn & 2019 ISSUE AIR Charmaine Lee) prese
+ nts the New York premiere of Eric Wubbels' Altarpiece H. af K. written for
+  bassoon trio and performed by Dana Jessen\, Ben Roidl-Ward\, and Katherin
+ e Young. Ben Greenberg (Uniform) opens the evening.\nhttps://issueprojectr
+ oom.org/event/kou-records-presents-eric-wubbels-altarpiece-h-af-k-ben-gree
+ nberg\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://issueprojectroom.org/event/kou-records-presents-eric-wubbels-al
+ tarpiece-h-af-k-ben-greenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:6b4aecb02d745dcbc5c0cbb9731a55a94e059322@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:Joel Watson
+LOCATION:ISSUE Project Room\, 22 Boerum Pl\, Brooklyn\, NY 11201
+DESCRIPTION:2026 Suzanne Fiol Curatorial Fellow Isabella Thorpe-Woods prese
+ nts her culminating commission featuring artist Joel Watson. "Valediction\
+ ," an expression used to say farewell at the end of a correspondence\, bri
+ ngs her yearlong exploration of letters as a curatorial prompt to a close.
+ \nhttps://issueprojectroom.org/event/joel-watson\nFrom Pushpin NYC: https:
+ //pushpin.city/nyc/
+URL:https://issueprojectroom.org/event/joel-watson
+END:VEVENT
+BEGIN:VEVENT
+UID:d8e7f653f624eb2068c7448cd172ae53047579a7@pushpin.city
+DTSTAMP:20261121T135110Z
+DTSTART:20261220T010000Z
+DTEND:20261220T030000Z
+SUMMARY:Leila Bordreuil: Numinosum
+LOCATION:ISSUE Project Room\, 22 Boerum Pl\, Brooklyn\, NY 11201
+DESCRIPTION:"Numinosum" closes ISSUE’s 2026 season and its celebration of
+  the AIR program. Led by French cellist and composer Leila Bordreuil (2016
+  AIR)\, the work treats resonance itself as the primary instrument.\nhttps
+ ://issueprojectroom.org/event/leila-bordreuil-numinosum\nFrom Pushpin NYC:
+  https://pushpin.city/nyc/
+URL:https://issueprojectroom.org/event/leila-bordreuil-numinosum
+END:VEVENT
+END:VCALENDAR

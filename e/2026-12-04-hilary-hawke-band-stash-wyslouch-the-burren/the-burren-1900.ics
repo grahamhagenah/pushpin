@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:89f61ab09ce5bccd2343ad2fb28738ba2b028dcb@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:Hilary Hawke Band\, Stash Wyslouch
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1928
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1928
+END:VEVENT
+END:VCALENDAR

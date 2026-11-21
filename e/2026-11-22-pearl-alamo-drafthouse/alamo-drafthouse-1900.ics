@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b26e21f47b53fe3356a4f82b8f8bfd0e9f196094@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T000000Z
+DTEND:20261123T020000Z
+SUMMARY:Pearl
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/a24-x-alamo-cinema-club-mand
+ atory-bundle-pearl
+URL:https://drafthouse.com/boston/show/a24-x-alamo-cinema-club-mandatory-bu
+ ndle-pearl
+END:VEVENT
+END:VCALENDAR

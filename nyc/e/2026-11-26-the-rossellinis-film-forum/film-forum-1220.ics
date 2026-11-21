@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4b51f4ad62947c9fed90fe38d9970ee930cdf568@pushpin.city
+DTSTAMP:20261126T000000Z
+DTSTART:20261126T172000Z
+DTEND:20261126T192000Z
+SUMMARY:The Rossellinis
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/the-rossellinis-rossellini-120
+URL:https://filmforum.org/film/the-rossellinis-rossellini-120
+END:VEVENT
+END:VCALENDAR

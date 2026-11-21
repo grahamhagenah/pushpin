@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9fb434ac165aff8ecbf2ff7266fb14cbb35ec0b0@pushpin.city
+DTSTAMP:20270102T000000Z
+DTSTART:20270102T200000Z
+DTEND:20270102T220000Z
+SUMMARY:The Cretins\, Hammered Saint\, Taken by Vultures\, Disco Volante\, 
+ Mister Wonderful
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/2774/1798920000000
+URL:https://tockify.com/midwaycafejp/detail/2774/1798920000000
+END:VEVENT
+END:VCALENDAR

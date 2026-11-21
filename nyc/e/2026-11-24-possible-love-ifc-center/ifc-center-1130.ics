@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c3ad31eb9b54157d1ebcd5b7c93fbebe5b1ecc3a@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261124T163000Z
+DTEND:20261124T183000Z
+SUMMARY:Possible Love
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/possible-love/
+URL:https://www.ifccenter.com/films/possible-love/
+END:VEVENT
+END:VCALENDAR

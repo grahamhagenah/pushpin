@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8d32947f3101eb73cd86d669c0fd88dfe96c82a9@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T210000Z
+DTEND:20261205T230000Z
+SUMMARY:Behemoth!
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/behemoth
+URL:https://www.westnewtoncinema.com/movie/behemoth
+END:VEVENT
+END:VCALENDAR

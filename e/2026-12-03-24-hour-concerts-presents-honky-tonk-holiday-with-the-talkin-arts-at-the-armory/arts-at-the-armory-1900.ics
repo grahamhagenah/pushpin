@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:475d1c456a859c9a9bbefa97669947653f371e1f@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:24 Hour Concerts Presents: Honky Tonk Holiday with the Talking Hear
+ ts
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/24-hour-concerts-presents-ho
+ nky-tonk-holiday-with-the-talking-hearts/
+URL:https://artsatthearmory.org/events/24-hour-concerts-presents-honky-tonk
+ -holiday-with-the-talking-hearts/
+END:VEVENT
+END:VCALENDAR

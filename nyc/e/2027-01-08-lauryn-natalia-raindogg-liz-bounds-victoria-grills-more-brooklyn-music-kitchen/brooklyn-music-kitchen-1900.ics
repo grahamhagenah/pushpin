@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d4be55d6488ae4cdb9770cfb23975bc2ad0be9cb@pushpin.city
+DTSTAMP:20270108T000000Z
+DTSTART:20270109T000000Z
+DTEND:20270109T020000Z
+SUMMARY:Lauryn Natalia\, raindogg\, Liz Bounds\, Victoria Grills + MORE!
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ac3cfb1e902670001a11baa
+URL:https://dice.fm/event/6ac3cfb1e902670001a11baa
+END:VEVENT
+END:VCALENDAR

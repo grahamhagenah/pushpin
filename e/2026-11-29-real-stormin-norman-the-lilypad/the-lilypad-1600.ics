@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4f482cd0360930df5027de12fbf5fa1621e7b80a@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:Real Stormin Norman
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/11/29/real-stormin-norma
+ n
+URL:https://www.lilypadinman.com/home/2026/11/29/real-stormin-norman
+END:VEVENT
+END:VCALENDAR

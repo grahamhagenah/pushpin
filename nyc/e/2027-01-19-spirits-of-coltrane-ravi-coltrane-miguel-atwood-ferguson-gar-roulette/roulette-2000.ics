@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3243e25cf54f3f8d20ad66dbd12d1e5904bcda8d@pushpin.city
+DTSTAMP:20270119T000000Z
+DTSTART:20270120T010000Z
+DTEND:20270120T030000Z
+SUMMARY:Spirits of Coltrane: Ravi Coltrane\, Miguel Atwood-Ferguson\, Gary 
+ Bartz\, aja monet\, Morgan Guerin\, Joel Ross\, Brandee Younger\, Justin B
+ rown (Winter Jazzfest)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/spirits-of-coltrane-ravi-coltrane-mi
+ guel-atwood-ferguson/
+URL:https://roulette.org/event/spirits-of-coltrane-ravi-coltrane-miguel-atw
+ ood-ferguson/
+END:VEVENT
+END:VCALENDAR

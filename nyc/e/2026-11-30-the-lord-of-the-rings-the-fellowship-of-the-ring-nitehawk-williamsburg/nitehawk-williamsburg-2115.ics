@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ca9e2bbae5aa35f8c7e4bccd663c046003cca6ac@pushpin.city
+DTSTAMP:20261130T000000Z
+DTSTART:20261201T021500Z
+DTEND:20261201T041500Z
+SUMMARY:The Lord of the Rings: The Fellowship of the Ring
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/lotr-the-fellows
+ hip-of-the-ring/
+URL:https://nitehawkcinema.com/williamsburg/movies/lotr-the-fellowship-of-t
+ he-ring/
+END:VEVENT
+END:VCALENDAR

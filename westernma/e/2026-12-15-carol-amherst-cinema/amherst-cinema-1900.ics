@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:caf800e4703d786382f355c626b4000e2d0c47aa@pushpin.city
+DTSTAMP:20261215T000000Z
+DTSTART:20261216T000000Z
+DTEND:20261216T020000Z
+SUMMARY:Carol
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/carol
+URL:https://amherstcinema.org/films-and-events/carol
+END:VEVENT
+END:VCALENDAR

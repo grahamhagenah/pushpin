@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0adfe210933c4740ab646bc4655175908d2e509d@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T010000Z
+DTEND:20261211T030000Z
+SUMMARY:Darmstadt at 80 Festival: Mivos Quartet plays Rebecca Saunders and 
+ Herbert Brün // GBSR Duo // Yaron Deutsch
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/darmstadt-at-80-festival-mivos-quart
+ et-rebecca-saunders-herbert-brun-yaron-deutsch-gbsr-duo/
+URL:https://roulette.org/event/darmstadt-at-80-festival-mivos-quartet-rebec
+ ca-saunders-herbert-brun-yaron-deutsch-gbsr-duo/
+END:VEVENT
+END:VCALENDAR

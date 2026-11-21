@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0c42a30a50eb68f4bf870b5cb16a3d8b3a4fab8a@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:Rock the Halls: A Rock & Roll Christmas
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.berkshiretheatregroup.org/event/rock-the-halls-a-ro
+ ck-roll-christmas/
+URL:https://www.berkshiretheatregroup.org/event/rock-the-halls-a-rock-roll-
+ christmas/
+END:VEVENT
+END:VCALENDAR

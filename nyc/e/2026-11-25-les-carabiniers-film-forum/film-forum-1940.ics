@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:092bf604cb4db2136af6ca8de3187b29dc67a8bb@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261126T004000Z
+DTEND:20261126T024000Z
+SUMMARY:Les Carabiniers
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/les-carabiniers-rossellini-120
+URL:https://filmforum.org/film/les-carabiniers-rossellini-120
+END:VEVENT
+END:VCALENDAR

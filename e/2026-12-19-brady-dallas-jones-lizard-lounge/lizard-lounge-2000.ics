@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:38eb6fb593615030697c218b1d1da2583fcc2b4e@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261220T010000Z
+DTEND:20261220T030000Z
+SUMMARY:Brady Dallas Jones
+LOCATION:Lizard Lounge\, 1667 Massachusetts Ave\, Cambridge\, MA 02138
+DESCRIPTION:https://lizardloungeclub.com/event/brady-dallas-jones/
+URL:https://lizardloungeclub.com/event/brady-dallas-jones/
+END:VEVENT
+END:VCALENDAR

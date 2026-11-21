@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:361f53ec435f8f4c78020e4523c754041e086e59@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:https://www.capitoltheatreusa.com/movie/the-hunger-games-sunris
+ e-on-the-reaping/
+URL:https://www.capitoltheatreusa.com/movie/the-hunger-games-sunrise-on-the
+ -reaping/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1f8a24641c0f41df0b56c7fde2bb11f7cdcb6e11@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T033500Z
+DTEND:20261213T053500Z
+SUMMARY:The Matrix Revolutions
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005131-the-matrix-revolutions/
+URL:https://metrograph.com/film/9999005131-the-matrix-revolutions/
+END:VEVENT
+END:VCALENDAR

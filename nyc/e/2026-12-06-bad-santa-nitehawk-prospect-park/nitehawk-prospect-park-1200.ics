@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a04708910d2fb08e6406f8e72dba17d5e899d359@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T170000Z
+DTEND:20261206T190000Z
+SUMMARY:Bad Santa
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/bad-santa/
+URL:https://nitehawkcinema.com/prospectpark/movies/bad-santa/
+END:VEVENT
+END:VCALENDAR

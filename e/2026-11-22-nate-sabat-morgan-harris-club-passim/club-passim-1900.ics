@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70281d6712644fb283d35c0fcec8c28991cd61ff@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T000000Z
+DTEND:20261123T020000Z
+SUMMARY:Nate Sabat & Morgan Harris
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/nate-sabat-morgan-harr
+ is/
+URL:https://www.passim.org/live-music/events/nate-sabat-morgan-harris/
+END:VEVENT
+END:VCALENDAR

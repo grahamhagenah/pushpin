@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cc6282408b3ab76f8c4687580a2060ac326d5d96@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T233000Z
+DTEND:20261213T013000Z
+SUMMARY:The Sword in the Stone
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62345
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62345
+END:VEVENT
+END:VCALENDAR

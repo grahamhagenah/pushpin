@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:10372798973d2755e1a4eb2451c2200dba40e584@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:The Smashing Times// Mairead Band (record release) // John Grilp //
+  Dj Starcleaner Reunion & Tuesday
+LOCATION:Gold Sounds\, 44 Wilson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af9fef225a1a1000136d4ce
+URL:https://dice.fm/event/6af9fef225a1a1000136d4ce
+END:VEVENT
+END:VCALENDAR

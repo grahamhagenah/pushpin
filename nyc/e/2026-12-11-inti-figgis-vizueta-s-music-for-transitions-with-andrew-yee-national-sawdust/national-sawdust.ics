@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d835df7bda9437dbb9515ed89dbb7202607d4070@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:inti figgis-vizueta’s Music for Transitions with Andrew Yee and R
+ othko String Quartet
+LOCATION:National Sawdust\, 80 N 6th St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.nationalsawdust.org/event/inti-figgis-vizuetas-musi
+ c-for-transitions-with-andrew-yee-and-rothko-string-quartet
+URL:https://www.nationalsawdust.org/event/inti-figgis-vizuetas-music-for-tr
+ ansitions-with-andrew-yee-and-rothko-string-quartet
+END:VEVENT
+END:VCALENDAR

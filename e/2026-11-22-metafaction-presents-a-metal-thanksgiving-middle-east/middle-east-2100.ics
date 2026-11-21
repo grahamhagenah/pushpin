@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:134845efdf1b0c85579a356dd28c308712cd5724@pushpin.city
+DTSTAMP:20261122T000000Z
+DTSTART:20261123T020000Z
+DTEND:20261123T040000Z
+SUMMARY:Metafaction Presents: A Metal Thanksgiving
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/metafaction-presents-a-metal-th
+ anksgiving-middle-east-zuzu-tickets/14089484?pl=mideastclub&REFID=clientsi
+ tewp
+URL:https://www.ticketweb.com/event/metafaction-presents-a-metal-thanksgivi
+ ng-middle-east-zuzu-tickets/14089484?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

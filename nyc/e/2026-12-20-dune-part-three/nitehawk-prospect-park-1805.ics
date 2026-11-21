@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:da7e141ec8c63ea9097deb06c8fadecb5c630b9f@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T230500Z
+DTEND:20261221T010500Z
+SUMMARY:Dune: Part Three
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/dune-part-three/
+URL:https://nitehawkcinema.com/prospectpark/movies/dune-part-three/
+END:VEVENT
+END:VCALENDAR

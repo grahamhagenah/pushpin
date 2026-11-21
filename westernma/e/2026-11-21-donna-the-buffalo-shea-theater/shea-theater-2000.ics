@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:223478b8413510e2793c3cbb4bcda7dd4af477ec@pushpin.city
+DTSTAMP:20261121T000000Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:Donna The Buffalo
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:https://sheatheater.org/d/23293/Shea-Presents-Donna-The-Buffalo
+URL:https://sheatheater.org/d/23293/Shea-Presents-Donna-The-Buffalo
+END:VEVENT
+END:VCALENDAR

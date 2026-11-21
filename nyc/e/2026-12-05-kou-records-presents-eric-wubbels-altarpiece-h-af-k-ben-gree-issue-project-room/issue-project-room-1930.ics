@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2c7f39cc70cca70ec97120ee3010c084afafa6eb@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:Kou Records Presents: Eric Wubbels’ Altarpiece H. af K. / Ben Gre
+ enberg
+LOCATION:ISSUE Project Room\, 22 Boerum Pl\, Brooklyn\, NY 11201
+DESCRIPTION:https://issueprojectroom.org/event/kou-records-presents-eric-wu
+ bbels-altarpiece-h-af-k-ben-greenberg
+URL:https://issueprojectroom.org/event/kou-records-presents-eric-wubbels-al
+ tarpiece-h-af-k-ben-greenberg
+END:VEVENT
+END:VCALENDAR

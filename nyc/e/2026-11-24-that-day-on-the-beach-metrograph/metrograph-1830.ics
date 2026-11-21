@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:be7f0283ecdd58bec12b7c5e24a22783f304de0a@pushpin.city
+DTSTAMP:20261124T000000Z
+DTSTART:20261124T233000Z
+DTEND:20261125T013000Z
+SUMMARY:That Day\, On The Beach
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999001444-that-day-on-the-beach/
+URL:https://metrograph.com/film/9999001444-that-day-on-the-beach/
+END:VEVENT
+END:VCALENDAR

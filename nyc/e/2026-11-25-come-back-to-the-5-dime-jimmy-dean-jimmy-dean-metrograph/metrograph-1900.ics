@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0e459f8e969911ed98f6a41f6449c8fa30c0433d@pushpin.city
+DTSTAMP:20261125T000000Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Come Back to the 5 & Dime\, Jimmy Dean\, Jimmy Dean
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999003186-come-back-to-the-5-dime-
+ jimmy-dean-jimmy-dean/
+URL:https://metrograph.com/film/9999003186-come-back-to-the-5-dime-jimmy-de
+ an-jimmy-dean/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a4231235eacd3655fe876cec158bd0067e0c04c2@pushpin.city
+DTSTAMP:20261123T000000Z
+DTSTART:20261124T014500Z
+DTEND:20261124T034500Z
+SUMMARY:Cinématon\, Program 1
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62302
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62302
+END:VEVENT
+END:VCALENDAR
