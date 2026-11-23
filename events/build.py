@@ -6321,8 +6321,8 @@ CSS = """
   .day .row .source { order: 2; display: block; max-width: none; color: #777; font-size: .9rem; text-align: left; }
   .day .row .source::before { content: none; }
   /* Where the evening starts in a day's list, a label over its first row: a listing on both before and after it
-     is listed again under it. A crescent moon (Tabler Icons' "moon", MIT license, its path verbatim) in a night's
-     lavender, then the word, over a hairline; quieter than the day's heading, and not held at the top. */
+     is listed again under it. A crescent moon (Tabler Icons' "moon", MIT license, its path verbatim) in
+     the word's own grey, then the word, over a hairline; quieter than the day's heading, and not held at the top. */
   .day > ul > li.row.evening-starts { margin-top: 2.6rem; }  /* Over the row's own margin, where it's lit under a pointer. */
   .day > ul > li.row.evening-starts::before {
     content: "Evening"; position: absolute; bottom: 100%; left: 0; right: 0;
@@ -6333,7 +6333,7 @@ CSS = """
        than as one more listing. Both in the row's own margins, which a row reaches past to light it under a pointer. */
     text-indent: 23px;
     background: linear-gradient(#1c1c1c, #1c1c1c) left 0 bottom calc(-.4rem - 1px) / 100% 1px no-repeat,
-                url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23a5b4fc' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z'/%3E%3C/svg%3E")
+                url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23bbb' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z'/%3E%3C/svg%3E")
                 no-repeat left center / 15px; background-origin: content-box; }
   .clock:not(:empty) ~ .source::before, .clock:not(:empty) ~ * .source::before { content: "·"; margin: 0 .35em; color: #555; }
   .day .headline { order: 3; flex-basis: 100%; }
