@@ -4610,7 +4610,7 @@ def site_page(path, title, description, said, body, styles=""):
 
 
 CITIES_CSS = ('  section { margin-bottom: 2rem; }\n'
-              '  h2 { margin: 0 0 .7rem; color: #666; font-size: .75rem; font-weight: 500; letter-spacing: .1em; text-transform: uppercase; }\n'
+              '  h2 { margin: 0 0 .7rem; color: #808080; font-size: .75rem; font-weight: 500; letter-spacing: .1em; text-transform: uppercase; }\n'
               '  ul { margin: 0; padding: 0; list-style: none; }\n'
               '  li { padding: .9rem 0; border-top: 1px solid #1c1c1c; }\n'
               '  li:last-child { border-bottom: 1px solid #1c1c1c; }\n'
@@ -6113,7 +6113,9 @@ PIN_CSS = """
     .filter .chips .pick-box .pick { position: absolute; inset: -7px -.2rem; width: calc(100% + .4rem); max-width: none;
                                      height: calc(100% + 14px); margin: 0; padding: 0; opacity: 0; font-size: 1rem;
                                      cursor: pointer; }
-    .filter .chips .pick-box:focus-within { outline: 1px solid #555; outline-offset: 2px; }
+    /* Focused from the keyboard, its own edge brighter, not a ring outside it: one there stayed after a venue was
+       picked with a finger or a click, a second outline that touched the chip beside it. */
+    .filter .chips .pick-box:has(.pick:focus-visible) { border-color: #999; }
     /* A chip's word in the middle of it, by the letters themselves: centering the line leaves the word wherever
        the font's own room over and under its letters puts it, a pixel or two high in some. Where a browser can
        trim a line to its capitals' height and its baseline, the chip is that and the same padding over and
@@ -6133,7 +6135,7 @@ PIN_CSS = """
      heading's, so the bar's lines and the list's read as the same weight. */
   .search { padding-left: 1.3em; border-bottom-color: #1c1c1c;
             background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23666' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0'/%3E%3Cpath d='M21 21l-6 -6'/%3E%3C/svg%3E") no-repeat left center / .95em; }
-  .search::placeholder { color: #666; }
+  .search::placeholder { color: #808080; }
   .search:hover::placeholder { color: #999; }
   .search:focus { border-bottom-color: #555; }
 """
@@ -6156,7 +6158,7 @@ PUBLIC_CSS = """
      where a repeat visitor won't have to read it. */
   footer .tagline { margin: 0 0 1.4rem; max-width: 34rem; color: #888; font-size: .9rem; line-height: 1.45; }
   /* A weekend page's way to the other weekend, where the pager goes on the others: next on the right, back on the left. */
-  .weekends { display: flex; justify-content: space-between; margin-top: 2.5rem; color: #666; font-size: .8rem; }
+  .weekends { display: flex; justify-content: space-between; margin-top: 2.5rem; color: #808080; font-size: .8rem; }
   .weekends a, .weekends a:visited { color: #999; }
   .prose { max-width: 34rem; color: #ccc; }
   .prose p { margin: 0 0 1em; }
@@ -6187,13 +6189,13 @@ PUBLIC_CSS = """
   .faq details p { margin: -.25rem 0 .9rem; color: #bbb; }
   .prose .venues a { text-decoration: none; }
   .prose .venues a:hover { text-decoration: underline; text-decoration-color: #555; }
-  .venues .count { margin-left: .35em; color: #666; font-size: .8em; }
+  .venues .count { margin-left: .35em; color: #808080; font-size: .8em; }
 """ + CONTACT_CSS + """
   /* The footer, set off from the page by a faint line. */
   footer { margin-top: 3.5rem; padding-top: 2.25rem; border-top: 1px solid rgba(255, 255, 255, .09); }
   /* The footer's lists of the site's pages: three short columns (two on a phone), under small, faint headings. */
   .site-links { display: grid; grid-template-columns: repeat(3, minmax(0, 11rem)); gap: 1.75rem 2.5rem; margin: .5rem 0 2rem; }
-  .site-links h2 { margin: 0 0 .7rem; color: #666; font-size: .75rem; font-weight: 500; letter-spacing: .1em; }
+  .site-links h2 { margin: 0 0 .7rem; color: #808080; font-size: .75rem; font-weight: 500; letter-spacing: .1em; }
   .site-links ul { display: grid; gap: .45rem; }
   footer .site-links a, footer .site-links a:visited { color: #999; font-size: .95rem; text-decoration: none; }
   footer .site-links a:hover { color: #fff; }
@@ -6243,7 +6245,7 @@ CSS = """
   h2 { margin: 2.25rem 0 .5rem; color: #777; font-size: .75rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; }
   /* A day's heading, in the bar's own voice, not the small capitals other headings have: the kinds' size and
      weight, in their gray, with the day itself in white as the kind chosen is. */
-  .day > h2 { margin: 1.6rem 0 0; padding: .65rem 0 .5rem; color: #666; font-size: .8rem; font-weight: 400;
+  .day > h2 { margin: 1.6rem 0 0; padding: .65rem 0 .5rem; color: #808080; font-size: .8rem; font-weight: 400;
               letter-spacing: 0; text-transform: none; }
   .day > h2 { margin-top: 1.8rem; padding: .25rem 0 .3rem; }  /* A phone's, on a wide screen too. */
   /* Under it, a faint line the width of the list, the site's hairline, so where one day ends and the next starts
@@ -6294,7 +6296,7 @@ CSS = """
     .headline > .when, .headline > .times, .headline > .detail, .headline .tail .times { margin-left: 0; }
     .row .source::before { content: "at "; }
   }
-  .times, .detail { margin-left: .6em; color: #666; font-size: .8em; white-space: nowrap; }
+  .times, .detail { margin-left: .6em; color: #808080; font-size: .8em; white-space: nowrap; }
   .times { flex: none; }
   /* A sold-out time, struck through; a listing with nothing left, a quiet tag after its times. */
   .times time.sold { color: #555; text-decoration: line-through; text-decoration-color: #555; }
@@ -6317,7 +6319,7 @@ CSS = """
   /* The time in grey, after its kind's mark. */
   .clock b { color: #d4d4d4; font-weight: 400; }
   .clock b.sold { color: #555; text-decoration: line-through; text-decoration-color: #555; }
-  .clock small { color: #666; font-size: inherit; }
+  .clock small { color: #808080; font-size: inherit; }
   .clock .untimed { color: #888; font-style: normal; }  /* "Time TBA", "All day": a word, quieter than a time. */
   .oclock { display: none; }  /* A wide screen's (below). */
   @media not all and (max-width: 34rem) { .day .row .clock .oclock { display: inline; } }
@@ -6387,7 +6389,7 @@ CSS = """
     .day .headline > .later { display: inline; margin-left: .7em; color: #777; font-size: .85rem; white-space: nowrap;
                               font-variant-numeric: tabular-nums; }
     .day .headline > .later i { color: #444; font-style: normal; }
-    .day .headline > .later small { margin-left: .45em; color: #555; font-size: inherit; }
+    .day .headline > .later small { margin-left: .45em; color: #777; font-size: inherit; }
     .day .headline > .later .sold { color: #444; text-decoration: line-through; }
     .day .row .clock small { display: none; }
     .day .row .source { grid-column: 3; grid-row: 1; max-width: 14rem; font-size: .85rem; text-align: right; }
@@ -6484,7 +6486,7 @@ CSS = """
   /* Semibold, as the days' headings are: the biggest words over the list, a weight above the rows' names under it. */
   .biggest-title { overflow: hidden; color: #fff; font-weight: 600; letter-spacing: -.01em; line-height: 1.35;
                    display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
-  .biggest-about { overflow: hidden; color: #6c6c6c; font-size: .85rem; line-height: 1.4;
+  .biggest-about { overflow: hidden; color: #808080; font-size: .85rem; line-height: 1.4;
                    display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
   .biggest:hover .biggest-title { text-decoration: underline; }
   /* Side by side, the two the same height under their headings: the film in the middle of its part. */
