@@ -5942,6 +5942,8 @@ PIN_CSS = """
   .sites a, .sites a:visited, .sites .here { font-size: 1.35rem; }
   /* The name itself bigger again, the site's mark: the page it's on ("/ Film") stays the size it was. */
   .sites a, .sites a:visited { font-size: 1.75rem; }
+  /* A little smaller on a wide screen, where the line beside it is small and the name would outweigh it. */
+  @media not all and (max-width: 34rem) { .sites a, .sites a:visited { font-size: 1.5625rem; } }
   /* And on the name's baseline, as words after it are, rather than up at the top of its line. */
   .sites { align-items: baseline; }
   /* The header's words centered on the name: beside the bigger name, a baseline left the line after it and when
