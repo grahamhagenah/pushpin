@@ -25,14 +25,15 @@ from shared import site as shared
 ROOT = Path(__file__).parent
 SOURCES_FILE = ROOT / "sources.txt"  # Boston's; each city has its own (CITIES).
 SKIP_FILE = ROOT / "skip.txt"
-OUT_DIR = ROOT.parent / "dist" / "events"
-REPO_URL = "https://github.com/grahamhagenah/news"
+REPO_URL = "https://github.com/grahamhagenah/pushpin"
 NEW_DAYS = 7  # How long a listing counts as just announced, after the day it first turned up.
 DAYS_AHEAD = 30  # How far ahead the page lists events,
 MUSIC_DAYS_AHEAD = 60  # and concerts, which venues announce (and people buy tickets for) further ahead.
-# Each build publishes its listings beside the page; a source that fails next time falls back to its copy
-# there, if it's no older than this.
-LISTINGS_URL = "https://events.grahamhagenah.com/listings.json"
+# Each build publishes its listings at the site's root; a source that fails next time falls back to its copy
+# there, if it's no older than this. Until November 2026 they were kept at events.grahamhagenah.com, which
+# the first build after the move reads instead, when pushpin.city doesn't have them yet.
+LISTINGS_URL = "https://pushpin.city/listings.json"
+OLD_LISTINGS_URL = "https://events.grahamhagenah.com/listings.json"
 FALLBACK_LIMIT = timedelta(days=2)
 BOSTON = ZoneInfo("America/New_York")  # Where this started; each city keeps its own clock (City.zone).
 USER_AGENT = "Mozilla/5.0 (compatible; events-feed/1.0)"
@@ -6716,7 +6717,7 @@ def restored(kept, source):
 
 def previous_build():
     """The live page's listings.json: what it was built from, and which sources were failing."""
-    return shared.previous_build(LISTINGS_URL, USER_AGENT)
+    return shared.previous_build(LISTINGS_URL, USER_AGENT) or shared.previous_build(OLD_LISTINGS_URL, USER_AGENT)
 
 
 def gather(results, previous, built_at):
@@ -6806,13 +6807,7 @@ def main():
     skip = skipping()
     events = merge_showings([item for item in events if not (skip and item["category"] != "film" and skip.search(item["title"]))
                              and not CLOSURE.fullmatch(item["title"])])
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
-    shutil.copytree(ROOT / "static", OUT_DIR, dirs_exist_ok=True)
-    # The personal events page: Boston's. Its listings.json keeps every city's, for falling back on.
-    # This page was Boston's before Pushpin had a site of its own, and said the same things twice after; what's
-    # left of it is the listings this build keeps for the next one to fall back on, which stays at the address
-    # every build looks for it at (LISTINGS_URL), and a way on to the page that replaced it.
-    (OUT_DIR / "index.html").write_text(moved_on(PUBLIC_SITE))
+    PUBLIC_DIR.mkdir(parents=True, exist_ok=True)
     # The film each city's home page leads with, which the next build keeps until a bigger one turns up. Out of
     # its public listings, as the page has them.
     leading = {}
@@ -6828,8 +6823,9 @@ def main():
     days_seen = film_days(previous.get("film_days") or {}, events, sources, built_at)
     record = {"built": built_at.isoformat(), "sources": listings, "failing": still_failing(errors, previous, built_at),
               "first_seen": first_seen, "biggest": leading, "film_days": days_seen}
-    (OUT_DIR / "listings.json").write_text(json.dumps(record, ensure_ascii=False))
-    print(f"Wrote {OUT_DIR.relative_to(ROOT.parent)}/listings.json, and index.html pointing at {PUBLIC_SITE}")
+    # Every city's listings, which the next build falls back on (LISTINGS_URL).
+    (PUBLIC_DIR / "listings.json").write_text(json.dumps(record, ensure_ascii=False))
+    print(f"Wrote {PUBLIC_DIR.relative_to(ROOT.parent)}/listings.json")
 
     # Each city's public site, from the same listings; then the site's own root.
     for city in CITIES:
@@ -6854,19 +6850,6 @@ def main():
     (PUBLIC_DIR / "robots.txt").write_text("User-agent: *\nAllow: /\n\n" + f"Sitemap: {PUBLIC_SITE}sitemap-site.xml\n" + "".join(
         f"Sitemap: {PUBLIC_SITE}{city.path}sitemap.xml\n" for city in CITIES))
     print(f"Wrote {PUBLIC_DIR.relative_to(ROOT.parent)}: cities/, contact/, sitemap-site.xml, robots.txt and 404.html")
-
-
-def moved_on(address):
-    """What events.grahamhagenah.com holds now: a page that sends a reader to the one that took its place, and
-    tells a search engine the same, for the links and bookmarks that still point here."""
-    return (f'<!doctype html>\n<html lang="en">\n<meta charset="utf-8">\n'
-            f'<meta http-equiv="refresh" content="0; url={address}">\n'
-            f'<link rel="canonical" href="{address}">\n<meta name="robots" content="noindex">\n'
-            f'<title>Moved to Pushpin Boston</title>\n<meta name="color-scheme" content="dark">\n'
-            f'<style>html {{ background: #000; }} body {{ margin: 2rem; color: #fff; '
-            f'font: 17px/1.45 -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }} '
-            f'a {{ color: #fff; }}</style>\n'
-            f'<p>This page is now <a href="{address}">Pushpin Boston</a>.</p>\n</html>\n')
 
 
 def by_city(city, events, sources, failed, stale):
