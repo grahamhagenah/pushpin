@@ -6055,11 +6055,11 @@ PIN_CSS = """
     .filter.revealed { top: 0; }
     .filter, .day > h2 { transition: top .2s ease; }
     @media (prefers-reduced-motion: reduce) { .filter, .day > h2 { transition: none; } }
-    /* The search: a box a shade off the page's black, plain to see as a field, the magnifying glass and the
+    /* The search: a pill, the chips' own shape under it, a shade off the page's black, plain to see as a field, the magnifying glass and the
        words inside it in a grey that reads; a little lighter while it's being typed in. Its text is 16 pixels: Safari on
        an iPhone zooms the page in on a field whose text is any smaller, and doesn't zoom back out. */
     .filter .finders { order: -1; flex: 1 1 100%; align-items: center; gap: 0; box-sizing: border-box; margin: 0;
-                       padding: 0 .15rem 0 .75rem; border-radius: 9px; background: #1a1a1a; }
+                       padding: 0 .15rem 0 .9rem; border-radius: 999px; background: #1a1a1a; }
     .filter .finders:focus-within { background: #222; }
     .filter .finders .search { flex: 1 1 0; width: 0; min-width: 0; height: 2.35rem; box-sizing: border-box; margin: 0;
                                padding: 0 0 0 1.55em; border: 0; background-size: .95em; font-size: 1rem; }
