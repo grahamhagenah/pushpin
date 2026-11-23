@@ -1366,8 +1366,8 @@ class JustAnnounced(unittest.TestCase):
         self.assertIn('if (link.closest(".fresh-list")) link.closest("li").remove();', page)
         self.assertIn(f'<li data-ends="2026-09-20T20:00"><a href="{R}?event=2026-09-20-show-0-the-sinclair" data-category="music">'
                       '<svg class="icon" role="img" aria-label="Music"><use href="#icon-music"/></svg>'
-                      '<span class="fresh-name">Show 0</span><span class="fresh-meta">'
-                      '<span class="lead-day" data-date="2026-09-20" data-said="Sep 20">Sep 20</span> · '
+                      '<span class="fresh-name">Show 0</span><span class="fresh-meta"><span class="fresh-when">'
+                      '<span class="lead-day" data-date="2026-09-20" data-said="Sep 20">Sep 20</span> · </span>'
                       'The Sinclair</span></a></li>', lead,
                       "its name, and after it when and where: its date without its weekday, to leave the name room")
         # Today's and tomorrow's say so, as the film's day does; the script says them again by the reader's day.

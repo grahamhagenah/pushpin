@@ -3740,7 +3740,8 @@ def render_lead(events, built_at, before="", days=None, when=""):
             f'<a href="{PUBLIC_ROOT}?{urlencode({"event": listing_id(item["date"], item["title"], item["venue"])[0]})}" '
             f'data-category="{item["category"]}">{icon(item["category"])}<span class="fresh-name">{html.escape(calm(item["title"]))}</span>'
             # When and where, its day and venue: not its time, which took the room a name wants, and is its view's to say.
-            f'<span class="fresh-meta">{said(item["date"], weekday=False)} · {html.escape(item["venue"])}</span></a></li>'
+            f'<span class="fresh-meta"><span class="fresh-when">{said(item["date"], weekday=False)} · </span>'
+            f'{html.escape(item["venue"])}</span></a></li>'
             for item in fresh)
         parts.append(
             f'<div class="fresh"><div class="lead-head"><a class="lead-tag fresh-tag" href="{PUBLIC_ROOT}{PUBLIC_NEW[0]}">'
@@ -6463,6 +6464,9 @@ CSS = """
   .fresh-name { flex: 0 1 auto; min-width: 3em; overflow: hidden; text-overflow: ellipsis; color: #fff; }
   .fresh-meta { flex: 0 0 auto; max-width: 62%; overflow: hidden; text-overflow: ellipsis; color: #777; font-size: .85rem; }
   .fresh-meta .lead-day { color: #aaa; }
+  /* On a phone, the venue alone after the name: its day too left the name cut short to a word or two, and the name
+     is what says what it is. The day is in its view. */
+  @media (max-width: 34rem) { .fresh-when { display: none; } }
   /* Each line led by its kind's mark, as each listing below is, in its color. */
   .fresh-list a > .icon { width: 15px; height: 15px; align-self: center; margin-right: -.1em; }
   /* The film: its picture beside its words in its own shape, a poster standing, a still lying on its side, a
