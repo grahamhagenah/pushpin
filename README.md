@@ -13,6 +13,7 @@ Until November 2026 this was built in [grahamhagenah/news](https://github.com/gr
 
 Run everything from this top folder, with only the Python standard library:
 
+- It needs Python 3.12 or newer, and `python3 -m pip install -r requirements.txt` (Pillow, to cut the film over the list's picture to the size it's shown, as a WebP; rcssmin and rjsmin, to minify the pages' styles and scripts once they're written, `minify_pages`). Without them it still builds, with the picture whole and the pages as written. A `.venv` with them: `python3.13 -m venv .venv && .venv/bin/pip install -r requirements.txt`.
 - `python3 -m events.build` writes `dist/public`, the whole site; `python3 -m http.server 8000 --directory dist/public` (the `pushpin` entry in `.claude/launch.json`) serves it as it's published.
 - `python3 -m unittest` runs the tests.
 - `.claude/launch.json` serves Pushpin's build, `dist/public`, at http://localhost:8000/ (the `pushpin` entry), for the Claude app's preview: build it first.

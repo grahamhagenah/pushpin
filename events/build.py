@@ -4,6 +4,7 @@ the repo's top folder: python3 -m events.build"""
 
 import hashlib
 import html
+import io
 import json
 import os
 import re
@@ -3568,18 +3569,36 @@ def picture_bytes(url):
 KEPT_PICTURES = {}
 
 
-def kept_picture(url):
+def kept_picture(url, box=None):
     """Where a page finds the picture at url: a copy in its city's folder, so it loads with the page instead of
     after it, from a theater's server, and nobody's visit is reported to one. The copy's name is the picture's
     address's, hashed, so a new poster is a new file a browser hasn't kept. Only pictures read as one of the three
-    kinds browsers all show; anything else, or one that won't load, stays where it is."""
+    kinds browsers all show; anything else, or one that won't load, stays where it is. With a box (its width and
+    height on the page), the copy is cut to that shape at twice its size, for a sharp screen, as a WebP: a poster
+    a theater gives is often a thousand pixels tall for a card a hundred high."""
     data = picture_bytes(url)
     kind = (picture_kind(data) if data else "") or ""
     if not kind:
         return url
-    name = f"pictures/{hashlib.sha1(url.encode()).hexdigest()[:16]}.{kind}"
+    stem = f"pictures/{hashlib.sha1(url.encode()).hexdigest()[:16]}"
+    small = box and fitted_picture(data, (box[0] * 2, box[1] * 2))
+    name, data = (f"{stem}-{box[0]}x{box[1]}.webp", small) if small else (f"{stem}.{kind}", data)
     KEPT_PICTURES[name] = data
     return f"{PUBLIC_ROOT}{name}"
+
+
+def fitted_picture(data, size):
+    """The picture cut to size, its middle kept, as a WebP; None without Pillow (requirements.txt), or for a
+    picture it can't read, which is then kept whole."""
+    try:
+        from PIL import Image, ImageOps
+        with Image.open(io.BytesIO(data)) as picture:
+            fitted = ImageOps.fit(ImageOps.exif_transpose(picture).convert("RGB"), size, Image.Resampling.LANCZOS)
+            out = io.BytesIO()
+            fitted.save(out, "WEBP", quality=80, method=6)
+            return out.getvalue()
+    except Exception:
+        return None
 
 
 def picture_kind(data):
@@ -3752,7 +3771,7 @@ def render_lead(events, built_at, before="", days=None, when=""):
         # The film a card of its own, its picture beside its words in its own shape: a poster standing on its end, a
         # still from the film lying on its side (cut to a poster's shape, a still lost most of its scene).
         box = (64, 96) if film["standing"] else (136, 76)
-        picture = (f'<img class="biggest-picture" src="{html.escape(kept_picture(film["image"]))}" alt="" '
+        picture = (f'<img class="biggest-picture" src="{html.escape(kept_picture(film["image"], box))}" alt="" '
                    f'width="{box[0]}" height="{box[1]}" decoding="async" referrerpolicy="no-referrer">') if film["image"] else ""
         parts.insert(0,
             f'<div class="biggest-part"><div class="lead-head"><span class="lead-tag">{FILM_MARK}Widest release</span></div>'
@@ -6338,7 +6357,7 @@ CSS = """
   .times, .detail { margin-left: .6em; color: #808080; font-size: .8em; white-space: nowrap; }
   .times { flex: none; }
   /* A sold-out time, struck through; a listing with nothing left, a quiet tag after its times. */
-  .times time.sold { color: #555; text-decoration: line-through; text-decoration-color: #555; }
+  .times time.sold { color: #777; text-decoration: line-through; text-decoration-color: #777; }
   /* Each listing one block from one edge, on a phone and a wide screen alike: a small line with its time, in its
      kind's color, how many more times ("+6", which its view lists), and the venue ("3:15pm · Metrograph"), and the
      name under it. Every listing starts with its time, so an eye runs down the times as down a timetable's,
@@ -6357,7 +6376,7 @@ CSS = """
            font-variant-numeric: tabular-nums; white-space: nowrap; }
   /* The time in grey, after its kind's mark. */
   .clock b { color: #d4d4d4; font-weight: 400; }
-  .clock b.sold { color: #555; text-decoration: line-through; text-decoration-color: #555; }
+  .clock b.sold { color: #777; text-decoration: line-through; text-decoration-color: #777; }  /* Struck through, and still 4.5:1. */
   .clock small { color: #808080; font-size: inherit; }
   .clock .untimed { color: #888; font-style: normal; }  /* "Time TBA", "All day": a word, quieter than a time. */
   .oclock { display: none; }  /* A wide screen's (below). */
@@ -6429,7 +6448,7 @@ CSS = """
                               font-variant-numeric: tabular-nums; }
     .day .headline > .later i { color: #444; font-style: normal; }
     .day .headline > .later small { margin-left: .45em; color: #777; font-size: inherit; }
-    .day .headline > .later .sold { color: #444; text-decoration: line-through; }
+    .day .headline > .later .sold { color: #777; text-decoration: line-through; }
     .day .row .clock small { display: none; }
     .day .row .source { grid-column: 3; grid-row: 1; max-width: 14rem; font-size: .85rem; text-align: right; }
     .day .row .clock ~ .source::before, .day .row .clock ~ * .source::before { content: none; }
@@ -6457,8 +6476,13 @@ CSS = """
     .day > ul > li.row { padding-top: .65rem; padding-bottom: .65rem; }
     .day > ul > li:not([hidden]) ~ li.row:not(.evening-starts) { border-top: 1px solid #161616; }
   }
-  .sold-tag, .once-tag { flex: none; display: inline-block; align-self: center; margin-left: .6em; padding: .05rem .45rem; border: 1px solid #333; border-radius: 999px; color: #999;
+  .sold-tag, .once-tag { flex: none; display: inline-block; align-self: center; margin-left: .6em; padding: .05rem .45rem; border-radius: 999px;
               font-size: .75rem; font-weight: 500; line-height: 1.4; white-space: nowrap; }
+  /* The two say opposite things. A film on once is a reason to go: an amber pill, film's own color, the one chance
+     to see it. Sold out is a reason not to: its whole row dimmed, the name grey, and the words plain, no pill. */
+  .once-tag { background: rgba(251, 191, 36, .14); color: #fbbf24; }
+  .sold-tag { padding-left: 0; padding-right: 0; color: #999; font-weight: 400; }
+  .day > ul > li.sold-out .title { color: #8a8a8a; }
   /* Over the listings on the home page: the newest few announced, in words, a line each; and beside them on a wide
      screen (under them on a phone), the widest release, a card with its picture. Each headed in words over a
      hairline, led by its kind's mark in its color. */
@@ -6648,7 +6672,7 @@ CSS = """
   /* Each place it's at, a link to its page (for tickets), with its times to the right, going on to another line
      there, not under it, when there are more than fit. */
   .event-time { color: #d4d4d4; font-size: .9rem; font-variant-numeric: tabular-nums; }
-  .event-time.sold { color: #666; text-decoration: line-through; }
+  .event-time.sold { color: #777; text-decoration: line-through; }
   .event-fact.sold { color: #bbb; box-shadow: inset 0 0 0 1px #444; }
   .event-places { margin: 1.1rem 0 1rem; }
   .event-group { display: flex; flex-wrap: wrap; gap: .2rem .9rem; }
@@ -6913,6 +6937,40 @@ def main():
     (PUBLIC_DIR / "robots.txt").write_text("User-agent: *\nAllow: /\n\n" + f"Sitemap: {PUBLIC_SITE}sitemap-site.xml\n" + "".join(
         f"Sitemap: {PUBLIC_SITE}{city.path}sitemap.xml\n" for city in CITIES))
     print(f"Wrote {PUBLIC_DIR.relative_to(ROOT.parent)}: cities/, contact/, sitemap-site.xml, robots.txt and 404.html")
+    shrunk = minify_pages(PUBLIC_DIR)
+    if shrunk:
+        print(f"Minified the styles and scripts in {PUBLIC_DIR.relative_to(ROOT.parent)}'s pages, {shrunk // 1024} KB less")
+
+
+STYLE_OR_SCRIPT = re.compile(r'(<style>)(.*?)(</style>)|(<script>)(.*?)(</script>)', re.S)
+
+
+def minified(page):
+    """A page with the comments and the spaces taken out of its styles and scripts, which explain them to whoever
+    reads this file and weigh a page down for whoever loads it; the page as it was without rcssmin and rjsmin
+    (requirements.txt). Its search engines' data (a script with a type) and scripts loaded from elsewhere stay."""
+    try:
+        import rcssmin
+        import rjsmin
+    except ImportError:
+        return page
+    def shrink(found):
+        if found.group(1):
+            return found.group(1) + rcssmin.cssmin(found.group(2)) + found.group(3)
+        return found.group(4) + rjsmin.jsmin(found.group(5)) + found.group(6)
+    return STYLE_OR_SCRIPT.sub(shrink, page)
+
+
+def minify_pages(folder):
+    """Every page under folder minified in place (minified); how many bytes that saved."""
+    saved = 0
+    for path in folder.rglob("*.html"):
+        page = path.read_text()
+        smaller = minified(page)
+        if smaller != page:
+            saved += len(page.encode()) - len(smaller.encode())
+            path.write_text(smaller)
+    return saved
 
 
 def by_city(city, events, sources, failed, stale):

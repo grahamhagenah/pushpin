@@ -33,6 +33,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+      # Python with what requirements.txt names: Pillow, to cut the film's picture to the size it's shown, and
+      # rcssmin and rjsmin, to take the comments out of the pages' styles and scripts. Without them the build still
+      # runs, with the picture whole and the pages unminified.
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: python3 -m pip install -r requirements.txt
       # The readers against saved samples of their sources; a change that breaks one isn't published.
       - run: python3 -m unittest
       - run: python3 -m events.build
