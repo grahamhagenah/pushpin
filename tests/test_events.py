@@ -1334,11 +1334,12 @@ class JustAnnounced(unittest.TestCase):
         self.assertIn("event=2026-09-20-dru-cutler-zapbeetle-hana-bookman-the-sinclair", lead, "its row is still the one it goes to")
 
     def test_headed_and_drawn_as_the_list_is(self):
-        """Each part headed as a day is, a small grey label over a hairline, with no mark or color of its own; and
+        """Each part headed in words over a hairline, white and semibold, led by its kind's mark in its color; and
         on a wide screen the two over the list's two columns."""
         page = build.render_index([dict(self.listing(20), added="2026-09-15")], [self.venue], [], [], self.built, public=True)
         self.assertIn('<div class="lead-head"><a class="lead-tag fresh-tag" href="', page)
-        self.assertIn(".lead-tag { color: #777; font-size: .75rem; letter-spacing: .08em; text-transform: uppercase; }", page)
+        self.assertIn(".lead-tag { color: #fff; font-size: .95rem; font-weight: 600;", page)
+        self.assertIn(".fresh-tag .lead-mark { color: var(--music); }", page)
         self.assertNotIn(".fresh-more { display: none; }", page, "See all is there on a phone too")
         # A line each: the name, cut short where it must be, and when and where after it, said whole; beside the
         # film's card on a wide screen.

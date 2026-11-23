@@ -5940,9 +5940,13 @@ PIN_CSS = """
   body { padding-top: 1.5rem; }
   header { margin-bottom: 1.25rem; }
   .sites a, .sites a:visited, .sites .here { font-size: 1.35rem; }
-  /* The header's words on one baseline: the name, the line beside it and when it was updated are three sizes, and
-     centered on each other their bottoms don't meet. */
-  header { align-items: baseline; }
+  /* The name itself bigger again, the site's mark: the page it's on ("/ Film") stays the size it was. */
+  .sites a, .sites a:visited { font-size: 1.75rem; }
+  /* And on the name's baseline, as words after it are, rather than up at the top of its line. */
+  .sites { align-items: baseline; }
+  /* The header's words centered on the name: beside the bigger name, a baseline left the line after it and when
+     it was updated sitting low. */
+  header { align-items: center; }
   /* On a phone, a narrower gutter than the newsfeed's: every row here hangs its words after its kind's mark, which
      is a gutter of its own on the left, so the page's needn't be as wide. */
   @media (max-width: 34rem) { body { padding-left: 1rem; padding-right: 1rem; } }
@@ -6048,15 +6052,16 @@ PIN_CSS = """
     .filter.revealed { top: 0; }
     .filter, .day > h2 { transition: top .2s ease; }
     @media (prefers-reduced-motion: reduce) { .filter, .day > h2 { transition: none; } }
-    /* The search: a box barely a shade off the page's black, quieter than the chips under it, the magnifying
-       glass and the word inside it; a little lighter while it's being typed in. Its text is 16 pixels: Safari on
+    /* The search: a box a shade off the page's black, plain to see as a field, the magnifying glass and the
+       words inside it in a grey that reads; a little lighter while it's being typed in. Its text is 16 pixels: Safari on
        an iPhone zooms the page in on a field whose text is any smaller, and doesn't zoom back out. */
     .filter .finders { order: -1; flex: 1 1 100%; align-items: center; gap: 0; box-sizing: border-box; margin: 0;
-                       padding: 0 .15rem 0 .75rem; border-radius: 9px; background: #0e0e0e; }
-    .filter .finders:focus-within { background: #171717; }
+                       padding: 0 .15rem 0 .75rem; border-radius: 9px; background: #1a1a1a; }
+    .filter .finders:focus-within { background: #222; }
     .filter .finders .search { flex: 1 1 0; width: 0; min-width: 0; height: 2.35rem; box-sizing: border-box; margin: 0;
                                padding: 0 0 0 1.55em; border: 0; background-size: .95em; font-size: 1rem; }
-    .filter .finders .search:not(:focus)::placeholder { color: #5c5c5c; }
+    .filter .finders .search:not(:focus)::placeholder { color: #8a8a8a; }
+    .filter .finders .search { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0'/%3E%3Cpath d='M21 21l-6 -6'/%3E%3C/svg%3E"); }
     /* Its ×, at the end of the box, while it has something in it (Tabler Icons' "x", MIT license): a press empties it. */
     .filter .finders .search-clear { display: block; flex: none; width: 2.35rem; height: 2.35rem; padding: 0; cursor: pointer;
                                      background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23777' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M18 6l-12 12'/%3E%3Cpath d='M6 6l12 12'/%3E%3C/svg%3E") no-repeat center / 18px; }
@@ -6315,12 +6320,21 @@ CSS = """
   @media not all and (max-width: 34rem) { .day .row .clock .oclock { display: inline; } }
   .day .row .source { order: 2; display: block; max-width: none; color: #777; font-size: .9rem; text-align: left; }
   .day .row .source::before { content: none; }
-  /* Where the evening starts in a day's list, a quiet label over its first row: a listing on both before and after
-     it is listed again under it. Quieter than the day's heading: no line under it, and not held at the top. */
+  /* Where the evening starts in a day's list, a label over its first row: a listing on both before and after it
+     is listed again under it. A crescent moon (Tabler Icons' "moon", MIT license, its path verbatim) in a night's
+     lavender, then the word, over a hairline; quieter than the day's heading, and not held at the top. */
   .day > ul > li.row.evening-starts { margin-top: 2.6rem; }  /* Over the row's own margin, where it's lit under a pointer. */
-  .day > ul > li.row.evening-starts::before { content: "Evening"; position: absolute; bottom: 100%; left: 0; padding-left: inherit;
-                                          padding-bottom: .3rem; color: #666; font-size: .75rem; letter-spacing: .08em;
-                                          text-transform: uppercase; pointer-events: none; }
+  .day > ul > li.row.evening-starts::before {
+    content: "Evening"; position: absolute; bottom: 100%; left: 0; right: 0;
+    padding-left: inherit; padding-right: inherit; padding-bottom: calc(.4rem + 1px);
+    color: #bbb; font-size: .85rem; font-weight: 500; pointer-events: none;
+    /* The moon where the rows' marks are, the word after it where a phone's names start; and under them a
+       hairline the width of the list, as a day's heading has, so it reads as the start of a part of the day rather
+       than as one more listing. Both in the row's own margins, which a row reaches past to light it under a pointer. */
+    text-indent: 23px;
+    background: linear-gradient(#1c1c1c, #1c1c1c) left 0 bottom calc(-.4rem - 1px) / 100% 1px no-repeat,
+                url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23a5b4fc' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z'/%3E%3C/svg%3E")
+                no-repeat left center / 15px; background-origin: content-box; }
   .clock:not(:empty) ~ .source::before, .clock:not(:empty) ~ * .source::before { content: "·"; margin: 0 .35em; color: #555; }
   .day .headline { order: 3; flex-basis: 100%; }
   /* On Recently added, the day each is on leads the line: "Sat, Nov 21 · 7pm · Union Pool". */
@@ -6402,8 +6416,8 @@ CSS = """
   .sold-tag, .once-tag { flex: none; display: inline-block; align-self: center; margin-left: .6em; padding: .05rem .45rem; border: 1px solid #333; border-radius: 999px; color: #999;
               font-size: .75rem; font-weight: 500; line-height: 1.4; white-space: nowrap; }
   /* Over the listings on the home page: the newest few announced, in words, a line each; and beside them on a wide
-     screen (under them on a phone), the widest release, a card with its picture. Each headed as a day is, a
-     small grey label in capitals over a hairline. */
+     screen (under them on a phone), the widest release, a card with its picture. Each headed in words over a
+     hairline, led by its kind's mark in its color. */
   /* The film's card two parts, what's announced three: its lines are long and the card's words wrap. */
   .lead { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 3fr); gap: 1.6rem 3.5rem; margin: 0 0 3.25rem; }
   .lead.one { grid-template-columns: minmax(0, 1fr); }
@@ -6424,14 +6438,16 @@ CSS = """
   .lead.one > .fresh > .fresh-list { margin: 0 0 auto; }
   .lead-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: .75rem;
                padding: .25rem 0 .45rem; border-bottom: 1px solid #1c1c1c; }
-  .lead-tag { color: #777; font-size: .75rem; letter-spacing: .08em; text-transform: uppercase; }
-  /* Each heading led by a small grey mark of what it's about, in the label's own grey: sparkles for what's new,
-     film's mark for the film. */
-  .lead-tag .lead-mark { color: inherit; }
-  .lead-mark { width: 13px; height: 13px; margin-right: .5em; vertical-align: -2px; }
+  /* Each a heading in words, as a day's is: white and semibold, a step under the film's name. */
+  .lead-tag { color: #fff; font-size: .95rem; font-weight: 600; letter-spacing: -.005em; }
+  /* Each led by a mark of what it's about, in its kind's color: film's frame in amber, and sparkles for what's
+     new in music's violet, most of what's announced being concerts. */
+  .lead-mark { width: 16px; height: 16px; margin-right: .45em; vertical-align: -3px; }
+  .biggest-part .lead-mark { color: var(--film); }
+  .fresh-tag .lead-mark { color: var(--music); }
   /* The heading goes to the rest of what's announced too, as See all at the end of its line does. */
-  .fresh-tag:hover { color: #bbb; text-decoration: none; }
-  .fresh-more { flex: none; color: #777; font-size: .75rem; letter-spacing: .04em; text-transform: uppercase; }
+  .fresh-tag:hover { color: #fff; text-decoration: none; }
+  .fresh-more { flex: none; color: #888; font-size: .85rem; }
   .fresh-more:hover { color: #fff; text-decoration: none; }
   /* What's announced, a line each: its name, and after it its day and venue, said whole, the name what's cut short
      with "…" where the line runs out. The day and venue at most most of the line, so a name always has some. */
