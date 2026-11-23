@@ -3863,7 +3863,7 @@ def render_row(item):
         f'{icon(item["category"])}{when}{render_clock(part_times(item), sold_times(item), item["category"])}'
         f'<div class="headline"><a class="title" href="{html.escape(item["link"])}">{html.escape(item["title"])}</a> '
         + " ".join(part for part in (render_times(item["times"], sold_times(item)), once, detail) if part)
-        + f'{shared.preview(item["title"], clip(item.get("about", []), ABOUT_CHARS))}</div> '
+        + f'{shared.preview(item["title"], [] if item.get("lean") else clip(item.get("about", []), ABOUT_CHARS))}</div> '
         f'<span class="source"><span>{html.escape(item["venue"])}</span></span></li>'
     )
 
@@ -3889,7 +3889,7 @@ def render_combined(item):
         f'{render_clock(part_times(item) if "part" in item else [moment for showing in item["showings"] for moment in showing["times"]])}'
         f'<div class="headline"><span class="title">{html.escape(item["title"])}</span> '
         f'<span class="tail">{start}</span>'
-        f'{shared.preview(item["title"], clip(item["about"], ABOUT_CHARS))}</div> '
+        f'{shared.preview(item["title"], [] if item["showings"][0].get("lean") else clip(item["about"], ABOUT_CHARS))}</div> '
         f'<span class="source"><span>{places} theaters</span></span></summary>'
         f'<ul class="showings">{showings}</ul></details></li>'
     )
@@ -3956,8 +3956,9 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
     root = PUBLIC_ROOT
     if public:
         shown = {source["name"] for source in sources if source.get("public", True)}
-        # With more, where there's more of it on the listing's own page, for its view.
-        events = [dict(item, about=shorter(item.get("about", [])), more=shorter(item.get("about", [])) != item.get("about", []))
+        # Lean: its row carries none of what it's about, which its view fetches from the listing's own page
+        # (more, wherever there's any) and its search from the city's search.json (search_texts).
+        events = [dict(item, about=shorter(item.get("about", [])), more=bool(item.get("about")), lean=True)
                   for item in events if item["source"] in shown]
     nights = one_nights(events, days_seen)
     events = [dict(item, once=True) if listing_id(item["date"], item["title"], item["venue"])[0] in nights else item
@@ -4161,9 +4162,17 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
         # the listings a line nearer the top; every other page's is a sentence, and has a line of its own.
         said = f'<h1 class="tagline">{html.escape(tagline if path else PUBLIC_SHORT)}</h1>'
         beside, said = (said, "") if not path else ("", said + "\n")
+        # For search engines, every listing on a kind's own page (music/, film/, talks/), which between them have
+        # all of them; on the rest, which repeat those, only the coming week's, since all of them made the home
+        # page a third heavier with words no one sees.
+        week = built_at.astimezone(PUBLIC_ZONE).date() + timedelta(days=DESCRIBED_DAYS)
+        described = events if category else [item for item in events if item["date"] < week]
         return public_page(path, title, said + banner + body, built_at, description=description, said=beside,
-                           data={"@context": "https://schema.org", "@graph": [website_data()] + [event_data(item) for item in events]})
+                           data={"@context": "https://schema.org", "@graph": [website_data()] + [event_data(item) for item in described]})
     return page("Events", body, built_at)
+
+
+DESCRIBED_DAYS = 7  # How far ahead the pages other than a kind's describe their listings for search engines.
 
 
 def website_data():
@@ -4839,6 +4848,24 @@ def render_showing(item, day, moment=None):
     return "\r\n".join(ics_fold(line) for line in lines) + "\r\n"
 
 
+def search_texts(sources, events):
+    """What each public listing is about, as much as its row used to carry, by its id: what the page's search
+    looks through besides the row's own words (a director, "35mm"), fetched the first time someone searches
+    rather than carried in every row."""
+    public = {source["name"] for source in sources if source.get("public", True)}
+    days = {}
+    for item in events:
+        if item["source"] in public:
+            days.setdefault(item["date"], []).append(dict(item, about=shorter(item.get("about", []))))
+    texts = {}
+    for day, items in days.items():
+        for item in combine_films(items):
+            said = " ".join(clip(item.get("about", []), ABOUT_CHARS))
+            if said:
+                texts[listing_id(day, item["title"], "" if "showings" in item else item["venue"])[0]] = said
+    return texts
+
+
 def event_pages(sources, events):
     """Each listing's page (render_event_page), by its path under the city's folder, for the public site's
     listings, as its pages show them: a film at several theaters as one. Beside each, a calendar file for each of
@@ -5097,6 +5124,15 @@ INDEX_JS = """
   const plain = text => text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
   const allRows = [...document.querySelectorAll(".day > ul > li")];
   const searchable = new Map(allRows.map(li => [li, plain(li.textContent)]));
+  // What each listing is about, which the rows don't carry on the public site: fetched the first time the search
+  // is used, and searched along with each row's own words from then on. Until it's in, a search goes by those.
+  let described = null;
+  const describe = () => described ||= fetch(new URL(SHARE_URL).pathname + "search.json")
+    .then(response => response.ok ? response.json() : {}).catch(() => ({}))
+    .then(texts => {
+      for (const li of allRows) if (texts[li.dataset.id]) searchable.set(li, searchable.get(li) + " " + plain(texts[li.dataset.id]));
+      if (search.value.trim()) showEvents();
+    });
   const kindPages = filter.hasAttribute("data-pages");
   const everything = !kindPages || filter.dataset.current === "all";
   const remember = !kindPages && !filter.hasAttribute("data-here"); // The weekend page's choice isn't kept.
@@ -5435,7 +5471,10 @@ INDEX_JS = """
     settleRow();
     toList();
   });
+  search.addEventListener("focus", describe);
+  if (search.value.trim()) describe();
   search.addEventListener("input", () => {
+    describe();
     history.replaceState(null, "", address(1));
     showEvents();
     toList();
@@ -6924,6 +6963,8 @@ def write_city(city, events, sources, failed, stale, built_at, biggest="", days_
     for path, page in event_pages(sources, events).items():
         (CITY_DIR / path).parent.mkdir(parents=True, exist_ok=True)
         (CITY_DIR / path).write_bytes(page.encode())  # As written: a calendar file's lines end \r\n.
+    # What each listing is about, for the search, which fetches it the first time it's used.
+    (CITY_DIR / "search.json").write_text(json.dumps(search_texts(sources, events), ensure_ascii=False, separators=(",", ":")))
     (CITY_DIR / "calendar").mkdir(exist_ok=True)
     for path, feed in calendar_feeds(sources, events, built_at).items():
         (CITY_DIR / path).write_bytes(feed.encode())  # As written: its lines end \r\n, as the format asks.

@@ -994,18 +994,38 @@ class Descriptions(unittest.TestCase):
         self.assertEqual(build.clip(["one", "two", "three", "four"], 400), ["one", "two", "three"])
         self.assertEqual(build.clip(["x" * 300, "y y y " * 50], 320, least=60), ["x" * 300], "not a stub of a paragraph")
 
-    def test_the_public_row_has_an_excerpt_and_its_page_all_of_it(self):
+    def test_the_public_row_carries_none_of_it_its_search_an_excerpt_and_its_page_all_of_it(self):
         sinclair = dict(source("axs", "x", "music", "The Sinclair"), public=True)
         words = [f"Paragraph {n} says a good deal about the show, the band, and the night ahead of us all." for n in range(6)]
         show = build.event(sinclair, "A show", date(2026, 9, 13), time(20, 0), about=words)
         brief = build.event(sinclair, "Another", date(2026, 9, 13), time(21, 0), about=words[:1])
-        page = build.render_index([show, brief], [sinclair], [], [], datetime(2026, 9, 13, tzinfo=timezone.utc), public=True)
-        self.assertNotIn("Paragraph 5", page)
-        self.assertEqual(page.count('data-more=""'), 1, "only where there's more")
+        bare = build.event(sinclair, "Nothing said", date(2026, 9, 13), time(22, 0))
+        page = build.render_index([show, brief, bare], [sinclair], [], [], datetime(2026, 9, 13, tzinfo=timezone.utc), public=True)
+        rows = re.sub(r'<script type="application/ld\+json">.*?</script>', "", page, flags=re.S)
+        self.assertNotIn("Paragraph 0", rows, "the rows are lighter without it")
+        self.assertEqual(page.count('data-more=""'), 2, "its view fetches it wherever there's any")
+        texts = build.search_texts([sinclair], [show, brief, bare])
+        self.assertTrue(texts["2026-09-13-a-show-the-sinclair"].startswith("Paragraph 0 says"))
+        self.assertNotIn("Paragraph 5", texts["2026-09-13-a-show-the-sinclair"], "as much as the row used to carry")
+        self.assertNotIn("2026-09-13-nothing-said-the-sinclair", texts)
+        self.assertIn('fetch(new URL(SHARE_URL).pathname + "search.json")', page)
         own = build.event_pages([sinclair], [show])["e/2026-09-13-a-show-the-sinclair/index.html"]
         self.assertIn('<div class="about"><p>Paragraph 0', own)
         self.assertIn("Paragraph 5 says", own)
         self.assertIn('<button class="event-more" type="button" hidden', page)
+
+
+    def test_search_engines_read_the_coming_week_on_the_home_page_and_everything_on_a_kinds(self):
+        sinclair = dict(source("axs", "x", "music", "The Sinclair"), public=True)
+        soon = build.event(sinclair, "Soon", date(2026, 9, 15), time(20, 0))
+        later = build.event(sinclair, "Later", date(2026, 9, 30), time(20, 0))
+        built = datetime(2026, 9, 13, 12, tzinfo=timezone.utc)
+        home = build.render_index([soon, later], [sinclair], [], [], built, public=True)
+        music = build.render_index([soon, later], [sinclair], [], [], built, public=True, category="music")
+        described = lambda page: re.search(r'<script type="application/ld\+json">(.*?)</script>', page, re.S).group(1)
+        self.assertIn('"name":"Soon"', described(home))
+        self.assertNotIn('"name":"Later"', described(home), "the music page has it")
+        self.assertIn('"name":"Later"', described(music))
 
 
 class NewYork(unittest.TestCase):
