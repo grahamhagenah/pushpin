@@ -6577,7 +6577,7 @@ CSS = """
      kind's mark in its color: the mark beside the name took a column of its own, which nothing under it lined up with. */
   .event-title { margin: 0 2rem .2rem 0;
                  color: #fff; font-size: 1.4rem; font-weight: 600; letter-spacing: -.015em; line-height: 1.3; text-transform: none; }
-  .event-where { margin: 0 2.5rem .35rem 0; color: #777; font-size: .85rem; }
+  .event-where { margin: 0 2.5rem .35rem 0; color: #aaa; font-size: .85rem; }
   .event-where .icon { width: 14px; height: 14px; margin-right: .4em; vertical-align: -2px; }
   .event-detail, .event-note { margin: 0 0 .3rem; color: #999; font-size: .85rem; }
   .event-detail:empty, .event-note:empty, .event-place:empty, .event-also:empty, .event-places:empty { display: none; }
