@@ -3373,7 +3373,7 @@ SHARE_MARK = tabler(["M8 9h-1a2 2 0 0 0 -2 2v8a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-
 SPARK_MARK = tabler(["M16 18a2 2 0 0 1 2 2a2 2 0 0 1 2 -2a2 2 0 0 1 -2 -2a2 2 0 0 1 -2 2z",
                      "M16 6a2 2 0 0 1 2 2a2 2 0 0 1 2 -2a2 2 0 0 1 -2 -2a2 2 0 0 1 -2 2z",
                      "M9 18a6 6 0 0 1 6 -6a6 6 0 0 1 -6 -6a6 6 0 0 1 -6 6a6 6 0 0 1 6 6z"], "lead-mark")
-# Before Playing everywhere, film's own mark, the filter's and its rows', in the heading's grey.
+# Before Widest release, film's own mark, the filter's and its rows', in the heading's grey.
 FILM_MARK = '<svg class="icon lead-mark" aria-hidden="true"><use href="#icon-film"/></svg>'
 # Its add-to-calendar button's, Tabler's "calendar-plus".
 CALENDAR_MARK = tabler(["M12.5 21h-6.5a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v5", "M16 3v4", "M8 3v4",
@@ -3754,7 +3754,7 @@ def render_lead(events, built_at, before="", days=None, when=""):
         picture = (f'<img class="biggest-picture" src="{html.escape(kept_picture(film["image"]))}" alt="" '
                    f'width="{box[0]}" height="{box[1]}" decoding="async" referrerpolicy="no-referrer">') if film["image"] else ""
         parts.insert(0,
-            f'<div class="biggest-part"><div class="lead-head"><span class="lead-tag">{FILM_MARK}Playing everywhere</span></div>'
+            f'<div class="biggest-part"><div class="lead-head"><span class="lead-tag">{FILM_MARK}Widest release</span></div>'
             f'<a class="biggest{" standing" if film["standing"] else ""}" data-category="film" '
             f'href="{PUBLIC_ROOT}?{urlencode({"event": film["id"]})}">{picture}'
             f'<span class="biggest-said"><span class="biggest-facts">{said(film["day"])} · {film["theaters"]} theaters</span>'
@@ -6402,7 +6402,7 @@ CSS = """
   .sold-tag, .once-tag { flex: none; display: inline-block; align-self: center; margin-left: .6em; padding: .05rem .45rem; border: 1px solid #333; border-radius: 999px; color: #999;
               font-size: .75rem; font-weight: 500; line-height: 1.4; white-space: nowrap; }
   /* Over the listings on the home page: the newest few announced, in words, a line each; and beside them on a wide
-     screen (under them on a phone), the film playing everywhere, a card with its picture. Each headed as a day is, a
+     screen (under them on a phone), the widest release, a card with its picture. Each headed as a day is, a
      small grey label in capitals over a hairline. */
   /* The film's card two parts, what's announced three: its lines are long and the card's words wrap. */
   .lead { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 3fr); gap: 1.6rem 3.5rem; margin: 0 0 3.25rem; }

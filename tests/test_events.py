@@ -2236,7 +2236,7 @@ class Biggest(unittest.TestCase):
         self.assertEqual(film, "wide release", "what the next build keeps, unless something's bigger")
         self.assertIn('<div class="lead">', lead)
         self.assertLess(lead.index('class="biggest-part"'), lead.index('class="fresh"'), "the film first, what's announced after")
-        self.assertIn("Playing everywhere</span>", lead, "named for what's counted: how many theaters have it")
+        self.assertIn("Widest release</span>", lead, "named for what's counted: how many theaters have it")
         self.assertEqual(lead.count("<img"), 1, "the film's poster, and no picture of what's announced")
         self.assertNotIn("band.jpg", lead)
         self.assertNotIn("setInterval", lead, "and nothing that turns")
