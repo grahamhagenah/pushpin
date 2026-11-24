@@ -6487,8 +6487,9 @@ CSS = """
   /* Over the listings on the home page: the newest few announced, in words, a line each; and beside them on a wide
      screen (under them on a phone), the widest release, a card with its picture. Each headed in words over a
      hairline, led by its kind's mark in its color. */
-  /* The film's card two parts, what's announced three: its lines are long and the card's words wrap. */
-  .lead { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 3fr); gap: 1.6rem 3.5rem; margin: 0 0 3.25rem; }
+  /* The film's card and what's announced half each: what's announced wider left its lines long and thin beside the
+     film, whose words wrapped beside its picture. */
+  .lead { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.6rem 3.5rem; margin: 0 0 3.25rem; }
   .lead.one { grid-template-columns: minmax(0, 1fr); }
   @media (max-width: 46rem) { .lead { grid-template-columns: minmax(0, 1fr); } }
   /* Each at least as tall as three lines announced under their heading, the film's card on its own too: Tonight's
