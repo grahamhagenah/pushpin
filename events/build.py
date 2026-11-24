@@ -152,6 +152,9 @@ VENUE_ADDRESSES = {
     "Marigold Theater": ("84 Cottage St", "Easthampton", "01027"),
     "The Heavy Culture": ("1 Northampton St", "Easthampton", "01027"),
     "CitySpace": ("43 Main St", "Easthampton", "01027"),
+    # UMass's: the Fine Arts Center's halls, and the campus, for an event its calendar gives no address for.
+    "UMass Fine Arts Center": ("151 Presidents Dr", "Amherst", "01003"),
+    "UMass Amherst": ("151 Presidents Dr", "Amherst", "01003"),
     "New City Brewery": ("180 Pleasant St", "Easthampton", "01027"),
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
@@ -2029,8 +2032,12 @@ def read_umass_fac(source):
         category = guess_kind(name, described)
         if not category:
             continue
+        where = text(hall.group(1)) if hall else ""
+        # Where it is: a hall in town that's a venue of its own (The Drake) at its address, else the Fine Arts
+        # Center's, in Amherst, which is what files it under Amherst in the venue menu.
+        place = VENUE_ADDRESSES.get(where) or VENUE_ADDRESSES["UMass Fine Arts Center"]
         listing = event(source, name, day, start, link=urljoin(source["url"], html.unescape(link.group(1))) if link else source["url"],
-                        detail=text(hall.group(1)) if hall else "", about=[described] if described else [],
+                        detail=where, about=[described] if described else [], address=place,
                         image=urljoin(source["url"], html.unescape(picture.group(1))) if picture else "")
         events.append(dict(listing, category=category))
     return events

@@ -897,6 +897,9 @@ class WesternMass(unittest.TestCase):
             found = build.read_umass_fac(source("umassfac", "https://arts.umass.edu/performing-arts/events", "music", "UMass Fine Arts Center"))
         self.assertEqual((found[0]["title"], found[0]["date"], found[0]["times"]), ("The Carpenters Songbook", date(2026, 9, 25), [time(19, 30)]))
         self.assertEqual(found[0]["detail"], "Frederick C. Tillis Performance Hall", "its hall")
+        self.assertEqual(found[0]["address"][1], "Amherst", "the Fine Arts Center's, so it's under Amherst in the venue menu")
+        drake = next(item for item in found if item["detail"] == "The Drake")
+        self.assertEqual(list(drake["address"]), list(build.VENUE_ADDRESSES["The Drake"]), "a show at the Drake at the Drake's address")
         self.assertTrue(found[0]["link"].startswith("https://arts.umass.edu/performing-arts/events/"))
         self.assertTrue(all(item["image"] for item in found))
 
@@ -909,8 +912,7 @@ class WesternMass(unittest.TestCase):
                                                        "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture", "CitySpace", "New City Brewery"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
-            if s["name"] not in ("UMass Fine Arts Center", "UMass Amherst"):  # Its events are in halls around campus, and town, which each says.
-                self.assertIn(s["name"], build.VENUE_ADDRESSES)
+            self.assertIn(s["name"], build.VENUE_ADDRESSES, "each under its town in the venue menu")
             self.assertEqual(s["city"], "westernma")
 
 
