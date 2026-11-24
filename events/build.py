@@ -6487,9 +6487,9 @@ CSS = """
   /* Over the listings on the home page: the newest few announced, in words, a line each; and beside them on a wide
      screen (under them on a phone), the widest release, a card with its picture. Each headed in words over a
      hairline, led by its kind's mark in its color. */
-  /* The film's card and what's announced half each: what's announced wider left its lines long and thin beside the
-     film, whose words wrapped beside its picture. */
-  .lead { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.6rem 3.5rem; margin: 0 0 3.25rem; }
+  /* The film's card three parts, what's announced four: wider, what's announced left the film's words wrapping
+     beside its picture; at half, its names were cut to a word or two. */
+  .lead { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 4fr); gap: 1.6rem 3.5rem; margin: 0 0 3.25rem; }
   .lead.one { grid-template-columns: minmax(0, 1fr); }
   @media (max-width: 46rem) { .lead { grid-template-columns: minmax(0, 1fr); } }
   /* Each at least as tall as three lines announced under their heading, the film's card on its own too: Tonight's
@@ -6531,9 +6531,9 @@ CSS = """
   .fresh-name { flex: 0 1 auto; min-width: 3em; overflow: hidden; text-overflow: ellipsis; color: #fff; }
   .fresh-meta { flex: 0 0 auto; max-width: 62%; overflow: hidden; text-overflow: ellipsis; color: #777; font-size: .85rem; }
   .fresh-meta .lead-day { color: #aaa; }
-  /* On a phone, the venue alone after the name: its day too left the name cut short to a word or two, and the name
-     is what says what it is. The day is in its view. */
-  @media (max-width: 34rem) { .fresh-when { display: none; } }
+  /* The venue alone after the name: its day too left the name cut short to a word or two, and the name is what says
+     what it is. The day is in its view. */
+  .fresh-when { display: none; }
   /* Each line led by its kind's mark, as each listing below is, in its color. */
   .fresh-list a > .icon { width: 15px; height: 15px; align-self: center; margin-right: -.1em; }
   /* The film: its picture beside its words in its own shape, a poster standing, a still lying on its side, a
