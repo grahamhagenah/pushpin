@@ -801,7 +801,8 @@ class WesternMass(unittest.TestCase):
         sources = build.read_sources(WESTERN_MASS_SOURCES, "westernma")
         self.assertEqual({s["name"] for s in sources}, {"Mass MoCA", "Amherst Cinema", "Images Cinema", "Triplex Cinema",
                                                        "Iron Horse", "Parlor Room", "The Drake", "Mahaiwe", "Shea Theater",
-                                                       "Academy of Music", "Beacon Cinema", "Colonial Theatre", "UMass Fine Arts Center"})
+                                                       "Academy of Music", "Beacon Cinema", "Colonial Theatre", "UMass Fine Arts Center",
+                                                       "Calvin Theatre", "Pearl Street", "Bombyx", "Garden Cinemas"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             if s["name"] != "UMass Fine Arts Center":  # Its events are in halls around campus, and town, which each says.
