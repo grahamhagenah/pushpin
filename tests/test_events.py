@@ -882,6 +882,19 @@ class Cities(unittest.TestCase):
     def tearDown(self):
         build.use_city(build.BOSTON_CITY)
 
+    def test_city_switcher_in_the_header_to_the_same_page_elsewhere(self):
+        build.use_city(build.WESTERN_MASS)
+        switcher = build.city_switcher("film/")
+        self.assertIn('<summary aria-label="City: Western Mass. Choose another">Western Mass', switcher)
+        self.assertIn('<a href="/film/">Boston</a>', switcher, "Boston's films, at the root")
+        self.assertIn('<a href="/westernma/film/" aria-current="true">Western Mass</a>', switcher)
+        self.assertIn('<a href="/nyc/film/">NYC</a>', switcher)
+        self.assertIn('<a href="/cities/">All cities</a>', switcher)
+        self.assertIn('<a href="/nyc/">NYC</a>', build.city_switcher("venue/somewhere/"), "a page not every city has: its home")
+        self.assertIn('<a href="/nyc/weekend/next/">NYC</a>', build.city_switcher("weekend/next/"))
+        page = build.public_page("about/", "About", "<p>Hi</p>")
+        self.assertIn('<details class="city-switch">', page.split("</header>")[0], "in the header")
+
     def test_each_city_its_own_site(self):
         self.assertEqual([city.slug for city in build.CITIES], ["boston", "westernma", "nyc"])
         self.assertEqual(build.BOSTON_CITY.sources, build.SOURCES_FILE)

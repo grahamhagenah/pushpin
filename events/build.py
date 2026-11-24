@@ -4551,6 +4551,39 @@ PAGE_NAMES = ({f"{slug}/": CATEGORIES[key] for key, slug in KIND_PAGES.items()}
 SHARE_CARDS = set(KIND_PAGES.values()) | {"tonight", "weekend"}
 
 
+def city_paths(city):
+    """The pages every city has, by their addresses under its folder: home, tonight, just announced, the
+    weekends, each kind's, About."""
+    return ({"", city.tonight[0], city.new[0], "about/"} | {path for path, *_ in city.weekends}
+            | {f"{page[0]}/" for page in city.pages.values()})
+
+
+def city_switcher(path):
+    """The cities, in a menu at the header's end: this one's name, and under it each city's, to the same page
+    there (its films for its films) where every city has it, else its home page; then the list of them all."""
+    if len(CITIES) < 2:
+        return ""
+    here = next(city for city in CITIES if city.name == PUBLIC_NAME)
+    short = lambda city: city.name.partition(" ")[2]
+    items = "".join(
+        f'<li><a href="/{city.path}{path if path in city_paths(city) else ""}"'
+        f'{" aria-current=\"true\"" if city is here else ""}>{html.escape(short(city))}</a></li>'
+        for city in CITIES)
+    return (f'<details class="city-switch"><summary aria-label="City: {html.escape(short(here))}. Choose another">'
+            f'{html.escape(short(here))}<svg viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4"/></svg></summary>'
+            f'<ul>{items}<li class="all"><a href="/cities/">All cities</a></li></ul></details>{CITY_SWITCH_SCRIPT}')
+
+
+# The menu closes as a menu does: a press anywhere outside it, or Escape.
+CITY_SWITCH_SCRIPT = """<script>(() => {
+  const menu = document.currentScript.previousElementSibling;
+  document.addEventListener("click", (event) => { if (menu.open && !menu.contains(event.target)) menu.open = false; });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && menu.open) { menu.open = false; menu.querySelector("summary").focus(); }
+  });
+})();</script>"""
+
+
 def public_page(path, title, body, built_at=None, description=None, data=None, said=""):
     """A page of the public site, at path ("", "about/", "film/"): its name, the way home, in the header,
     About and Contact in the footer; search engines welcome, told what the page is, where it lives, and (the
@@ -4592,7 +4625,7 @@ def public_page(path, title, body, built_at=None, description=None, data=None, s
     # When it was updated is said at its foot (public_footer), not in the header, which is the name and what the
     # site is.
     return shared.page("events", title, body, css=CSS + PUBLIC_CSS, head=head, symbols=ICON_SYMBOLS,
-                       links=links, indexable=True, said=said,
+                       links=links, indexable=True, said=said + city_switcher(path),
                        marked={PUBLIC_NAME: WORDMARK},
                        here=PAGE_NAMES.get(path, ""))
 
@@ -6472,6 +6505,28 @@ PUBLIC_CSS = """
   /* The name, on a page that's one of its kinds: a step back from the page's own name, still plainly the site's. */
   .sites a:not([aria-current]), .sites a:not([aria-current]):visited { color: #aaa; }
   .sites a:not([aria-current]):hover { color: #fff; }
+  /* The cities, at the header's end: this one's name in a pill, as the filter's chips are, opening to the others,
+     over the filter bar under it. */
+  .city-switch { position: relative; flex: none; margin-left: auto; }
+  .city-switch summary { display: inline-flex; align-items: center; gap: .4rem; height: 2rem; padding: 0 .75rem;
+                         box-sizing: border-box; border: 1px solid #2a2a2a; border-radius: 999px; color: #aaa;
+                         font-size: .9rem; white-space: nowrap; list-style: none; cursor: pointer; user-select: none; }
+  .city-switch summary::-webkit-details-marker { display: none; }
+  .city-switch summary svg { width: 10px; height: 6px; fill: none; stroke: currentColor; stroke-width: 1.5;
+                             stroke-linecap: round; stroke-linejoin: round; transition: transform .15s; }
+  .city-switch[open] summary svg { transform: rotate(180deg); }
+  .city-switch summary:hover, .city-switch[open] summary { border-color: #555; color: #fff; }
+  .city-switch summary:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+  .city-switch ul { position: absolute; top: calc(100% + .4rem); right: 0; z-index: 10; min-width: 11rem; margin: 0;
+                    padding: .35rem; list-style: none; border: 1px solid #2a2a2a; border-radius: 12px; background: #111;
+                    box-shadow: 0 10px 30px rgba(0, 0, 0, .6); }
+  .city-switch li a { display: block; padding: .5rem .75rem; border-radius: 8px; color: #bbb; font-size: .95rem;
+                      white-space: nowrap; text-decoration: none; }
+  .city-switch li a:hover, .city-switch li a:focus-visible { background: #1c1c1c; color: #fff; outline: none; }
+  .city-switch li a[aria-current] { color: #fff; font-weight: 600; }
+  .city-switch li a[aria-current]::after { content: "✓"; float: right; margin-left: 1rem; color: var(--music, #888); font-weight: 400; }
+  .city-switch .all { margin-top: .3rem; padding-top: .3rem; border-top: 1px solid #222; }
+  .city-switch .all a { color: #888; font-size: .875rem; }
 """ + PIN_CSS + """
   /* What the page is, in a line over its listings; and what the site is, in full at the foot of every page,
      where a repeat visitor won't have to read it. */
