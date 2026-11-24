@@ -4788,7 +4788,14 @@ def render_lead(events, built_at, before="", days=None, when=""):
     # list under it anyway, and on a phone the lines over it only pushed the weekend's listings down.
     weekend = bool(days) and days[0] != days[1]
     fresh = [item for item in newly_added(events, built_at) if not weekend and (not days or days[0] <= item["date"] <= days[1])]
-    fresh = fresh[:FRESH_SHOWN + FRESH_SPARE]
+    # One a venue before any venue's second: a hall that puts up its season in a batch (the Boston Conservatory's
+    # recitals, a run's every night) would otherwise fill every line with the one name. Its others come after,
+    # where there aren't enough venues to go round. See all lists the whole batch.
+    firsts, seconds, venues = [], [], set()
+    for item in fresh:
+        (seconds if item["venue"] in venues else firsts).append(item)
+        venues.add(item["venue"])
+    fresh = (firsts + seconds)[:FRESH_SHOWN + FRESH_SPARE]
     parts = []
     # A day as a listing's is said: Today or Tomorrow as of this build, there as the page first shows, which the
     # script says again by the reader's day, going back to the date itself (data-said) for a page read the day

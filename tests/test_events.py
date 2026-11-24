@@ -2741,6 +2741,17 @@ class Biggest(unittest.TestCase):
         # Its days and what's started put right as it's read, before it's painted, not when the page's script runs.
         self.assertTrue(lead.endswith(build.LEAD_NOW.replace("ZONE", '"America/New_York"')))
 
+    def test_a_batch_from_one_venue_takes_one_line(self):
+        """A hall that puts up a season at once gets a line, as every other venue does, before it gets a second."""
+        announce = lambda title, venue, day: dict(build.event(source("aeg", "x", "art", venue), title, date(2026, 9, day), time(19)),
+                                                  added="2026-09-19")
+        batch = [announce(f"Capstone {n}", "Boston Conservatory", 22 + n) for n in range(5)]
+        others = [announce("A reading", "Brookline Booksmith", 28), announce("A band", "The Sinclair", 29)]
+        lead, _ = build.render_lead(batch + others, self.built)
+        names = re.findall(r'<span class="fresh-name">([^<]+)</span>', lead)
+        self.assertEqual(names[:3], ["Capstone 0", "A reading", "A band"], "the hall's soonest, then the others")
+        self.assertEqual(names[3:], ["Capstone 1", "Capstone 2", "Capstone 3"], "the rest of its batch as spares")
+
     def test_a_poster_and_a_still_each_get_their_own_shape(self):
         """A poster stands on its end, a still lies on its side: cut to a poster's shape, a still lost its scene."""
         events = [self.showing("Wide Release", f"Theater {n}", image=POSTER) for n in range(4)]
