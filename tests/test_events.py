@@ -114,6 +114,8 @@ ROUTES = [
     ("shelburnefallsmemorialhall.org/pothole-pictures/", "pothole.html"),
     ("shelburnefallsmemorialhall.org/its-a-wonderful-life-1946/", "pothole_film.html"),
     ("shelburnefallsmemorialhall.org/metropolitan-operas/", "memorialhall_met.html"),
+    ("live.barringtonhallgb.com", "tickettailor.html"),
+    ("thefoundryws.com/event/", "foundry.html"),  # Its later pages too: they can be its first again.
     ("m.movies.abenity.com/theatre?id=725&date=11/24/2026", "abenity.html"),
     ("m.movies.abenity.com/theatre", "empty.html"),  # Its other days.
     ("amherst.edu/news/events/calendar?f%5B0%5D=type_of_event%3Alec&f%5B1%5D=type_of_event%3Aperform&page=", "empty.html"),
@@ -884,6 +886,24 @@ class WesternMass(unittest.TestCase):
         self.assertEqual(by_title["Parsifal — Richard Wagner"]["date"], date(2027, 6, 5), "its next June 5, with no year said")
         self.assertNotIn("Macbeth: Verdi", by_title, "not what's past")
 
+    def test_barrington_hall_from_its_ticket_tailor_box_office(self):
+        found = build.read_tickettailor(source("tickettailor", "https://live.barringtonhallgb.com/", "music", "Barrington Hall"))
+        by_title = {item["title"]: item for item in found}
+        howie = by_title["Howie Day"]
+        self.assertEqual((howie["date"], howie["times"], howie["category"]), (date(2026, 12, 5), [time(20, 0)], "music"),
+                         "from \"Sat Dec 5 , 2026 8:00 PM\", its parts run together")
+        self.assertTrue(howie["link"].startswith("https://live.barringtonhallgb.com/events/barringtonhall/") and howie["image"])
+        self.assertEqual(len(found), 4)
+
+    def test_the_foundry_by_the_day_it_shows_once_each_not_its_craft_nights(self):
+        found = build.read_foundry(source("foundry", "https://thefoundryws.com/event/", "music", "The Foundry"))
+        by_title = {item["title"]: item for item in found}
+        self.assertEqual((by_title["The Kwintet"]["date"], by_title["The Kwintet"]["times"]), (date(2026, 12, 5), [time(19, 30)]),
+                         "the day it shows, Sat, Dec 5, not the day early it gives machines")
+        self.assertEqual(len(found), len(by_title), "each once, though its next page is its first again")
+        self.assertNotIn("SALA: Holiday Ornament Craft Night!", by_title, "not its craft nights")
+        self.assertTrue(by_title["The Kwintet"]["about"] and by_title["The Kwintet"]["link"].startswith("https://thefoundryws.com/event/"))
+
     def test_tower_theaters_from_abenity_linked_to_its_own_site(self):
         with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
             found = build.read_abenity(source("abenity", "https://m.movies.abenity.com/theatre?id=725#https://www.towertheaters.com/",
@@ -996,7 +1016,7 @@ class WesternMass(unittest.TestCase):
                                                        "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture", "CitySpace", "New City Brewery",
                                                        "Amherst College", "Tower Theaters", "Agawam Cinemas", "Double Edge Theatre",
                                                        "Garden Cinemas", "Pothole Pictures",
-                                                       "Shelburne Falls Memorial Hall"})
+                                                       "Shelburne Falls Memorial Hall", "Barrington Hall", "The Foundry", "Dreamaway Lodge"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             self.assertIn(s["name"], build.VENUE_ADDRESSES, "each under its town in the venue menu")

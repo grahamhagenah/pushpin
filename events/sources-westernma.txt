@@ -39,3 +39,8 @@ doubleedge     https://doubleedgetheatre.org/events/                 art    Doub
 # Shelburne Falls Memorial Hall's seasons: Pothole Pictures' films, and the Met Opera's Live in HD broadcasts.
 memorialhall   https://shelburnefallsmemorialhall.org/pothole-pictures/   film   Pothole Pictures
 memorialhall   https://shelburnefallsmemorialhall.org/metropolitan-operas/   music   Shelburne Falls Memorial Hall
+# Berkshire County, a reader's suggestions: Barrington Hall's Ticket Tailor box office, the Foundry's events, the
+# Dreamaway Lodge's music (its open music nights and dinners skip.txt's).
+tickettailor   https://live.barringtonhallgb.com/                    music  Barrington Hall
+foundry        https://thefoundryws.com/event/                       music  The Foundry
+squarespace    https://www.thedreamawaylodge.com/music               music  Dreamaway Lodge

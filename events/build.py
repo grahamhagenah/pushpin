@@ -162,6 +162,9 @@ VENUE_ADDRESSES = {
     "Double Edge Theatre": ("948 Conway Rd", "Ashfield", "01330"),
     "Pothole Pictures": ("51 Bridge St", "Shelburne Falls", "01370"),
     "Shelburne Falls Memorial Hall": ("51 Bridge St", "Shelburne Falls", "01370"),
+    "Barrington Hall": ("426 Stockbridge Rd", "Great Barrington", "01230"),
+    "The Foundry": ("2 Harris St", "West Stockbridge", "01266"),
+    "Dreamaway Lodge": ("1342 County Rd", "Becket", "01223"),
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
@@ -1983,6 +1986,75 @@ def read_memorial_hall(source):
     return events
 
 
+def read_tickettailor(source):
+    """A venue's box office on Ticket Tailor (Barrington Hall's): its events list, each with its name, its day and
+    time ("Sat Dec 5, 2026 8:00 PM"), its picture and its page there."""
+    events = []
+    page = fetch(source["url"])
+    root = "{0.scheme}://{0.netloc}".format(urlsplit(source["url"]))
+    for item in page.split('class="events-listing__item')[1:]:
+        named = re.search(r'class="event__title">\s*<a[^>]*href="([^"]+)"[^>]*>(.*?)</a>', item, re.S)
+        when = re.search(r'class="event-meta__date">(.*?)</span>\s*<span class="event-meta__location', item, re.S)
+        if not (named and when):
+            continue
+        # Its parts run together with a space before the comma ("Sat Dec 5 , 2026 8:00 PM").
+        said = re.search(r"\w{3} (\w{3}) (\d{1,2})\s*,\s*(\d{4})(?:\s+(\d{1,2}):(\d{2})\s*([AP])M)?", text(when.group(1)))
+        if not said:
+            continue
+        month, day_number, year, hour, minute, half = said.groups()
+        start = time(int(hour) % 12 + (12 if half == "P" else 0), int(minute)) if hour else None
+        picture = re.search(r'<img\s+src="([^"]+)"', item)
+        title = text(named.group(2))
+        category = guess_kind(title)
+        if not category:
+            continue
+        listing = event(source, title, datetime.strptime(f"{month} {day_number} {year}", "%b %d %Y").date(), start,
+                        link=urljoin(root, html.unescape(named.group(1))),
+                        image=html.unescape(picture.group(1)) if picture else "")
+        events.append(dict(listing, category=category))
+    return events
+
+
+# What the Foundry (West Stockbridge) lists that isn't a show: its craft nights and workshops.
+FOUNDRY_SKIP = re.compile(r"\bcraft night\b|\bworkshop\b|\bclass\b", re.I)
+
+
+def read_foundry(source):
+    """The Foundry's events (West Stockbridge), an article each, a page of them at a time (/page/2/ on): each one's
+    name, its day and time as the page shows them ("Sat, Dec 5, 2026 7:30pm"; the date it gives machines is a day
+    early), its picture, page and a line about it. Every one is marked a MusicEvent, so its kind is guessed by its
+    name; not its craft nights or workshops (FOUNDRY_SKIP). Its later pages can be its first again, which ends it."""
+    events, seen = [], set()
+    for number in range(1, 5):
+        page = fetch(source["url"] if number == 1 else urljoin(source["url"], f"page/{number}/"))
+        new = False
+        for item in page.split("<article")[1:]:
+            named = re.search(r'class="entry-title"[^>]*>\s*<a href="([^"]+)"[^>]*>(.*?)</a>', item, re.S)
+            when = re.search(r'class="event-date-time"[^>]*>(.*?)</h3>', item, re.S)
+            if not (named and when) or named.group(1) in seen:
+                continue
+            seen.add(named.group(1))
+            new = True
+            title = text(named.group(2))
+            said = re.search(r"\w{3}, (\w{3}) (\d{1,2}), (\d{4})(?:\s*(\d{1,2}):(\d{2})\s*([ap])m)?", text(when.group(1)))
+            if not said or FOUNDRY_SKIP.search(title):
+                continue
+            month, day_number, year, hour, minute, half = said.groups()
+            start = time(int(hour) % 12 + (12 if half == "p" else 0), int(minute)) if hour else None
+            line = re.search(r'class="short-description"[^>]*>(.*?)</div>', item, re.S)
+            picture = re.search(r'<img[^>]+src="([^"]+)"', item)
+            category = guess_kind(title, text(line.group(1)) if line else "")
+            if not category:
+                continue
+            listing = event(source, title, datetime.strptime(f"{month} {day_number} {year}", "%b %d %Y").date(), start,
+                            link=named.group(1), about=about(line.group(1)) if line else [],
+                            image=html.unescape(picture.group(1)) if picture else "")
+            events.append(dict(listing, category=category))
+        if not new or f"page/{number + 1}/" not in page:
+            break
+    return events
+
+
 def read_garden_cinemas(source):
     """Greenfield Garden Cinemas' showtimes, a day to a page (?vdate=11/24/2026), each film with its page, its
     poster and its times ("8:30p"), for the days its date slider offers, as far ahead as films are listed."""
@@ -3708,6 +3780,8 @@ READERS = {
     "abenity": read_abenity,
     "doubleedge": read_double_edge,
     "memorialhall": read_memorial_hall,
+    "tickettailor": read_tickettailor,
+    "foundry": read_foundry,
     "academyofmusic": read_academy_of_music,
     "phoenix": read_phoenix,
     "spektrix": read_spektrix,
