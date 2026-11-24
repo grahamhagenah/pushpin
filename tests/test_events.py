@@ -109,6 +109,8 @@ ROUTES = [
     ("gardencinemas.net/?vdate=", "empty.html"),  # Its other days.
     ("gardencinemas.net", "garden.html"),
     ("theheavyculture.coop/shows", "heavyculture.html"),
+    ("amherst.edu/news/events/calendar?f%5B0%5D=type_of_event%3Alec&f%5B1%5D=type_of_event%3Aperform&page=", "empty.html"),
+    ("amherst.edu/news/events/calendar", "amherst.html"),
     ("events.umass.edu/api/2/events", "localist_umass.json"),
     ("events.mtholyoke.edu/api/2/events", "localist_mhc.json"),
     ("smith.edu/news-events/events?field_event_category_target_id=100023&page=", "empty.html"),  # Its later pages.
@@ -817,6 +819,21 @@ class WesternMass(unittest.TestCase):
         self.assertFalse([item for item in found if item["date"] < date(2026, 11, 24)], "not what's past")
         self.assertEqual(len(found), 11)
 
+    def test_amherst_college_its_concerts_here_not_the_folgers_in_washington(self):
+        url = "https://www.amherst.edu/news/events/calendar?f%5B0%5D=type_of_event%3Alec&f%5B1%5D=type_of_event%3Aperform"
+        with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
+            found = build.read_amherst(source("amherst", url, "music", "Amherst College"))
+        by_title = {item["title"]: item for item in found}
+        coleman = by_title["Valerie Coleman & Friends"]
+        self.assertEqual((coleman["date"], coleman["times"], coleman["category"], coleman["detail"]),
+                         (date(2027, 2, 12), [time(19, 30)], "music", "Buckley Recital Hall"), "M@A Presents: out of its name")
+        self.assertTrue(coleman["image"].startswith("https://www.amherst.edu/system/files/") and coleman["about"])
+        self.assertTrue(coleman["link"].startswith("https://www.amherst.edu/"))
+        self.assertNotIn("Hamlet", by_title, "at the Folger, in Washington")
+        self.assertFalse([title for title in by_title if "Salon" in title], "not its weekly salons")
+        self.assertNotIn("Artemis", by_title, "at the Drake, whose own calendar has it")
+        self.assertEqual(len(found), 2)
+
     def test_cityspace_from_venuepilot(self):
         answer = json.loads((FIXTURES / "venuepilot.json").read_text())
         asked = []
@@ -909,7 +926,8 @@ class WesternMass(unittest.TestCase):
                                                        "Iron Horse", "Parlor Room", "The Drake", "Mahaiwe", "Shea Theater",
                                                        "Academy of Music", "Beacon Cinema", "Colonial Theatre", "UMass Fine Arts Center",
                                                        "Calvin Theatre", "Bombyx", "Marigold Theater",
-                                                       "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture", "CitySpace", "New City Brewery"})
+                                                       "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture", "CitySpace", "New City Brewery",
+                                                       "Amherst College"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             self.assertIn(s["name"], build.VENUE_ADDRESSES, "each under its town in the venue menu")

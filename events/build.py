@@ -155,6 +155,7 @@ VENUE_ADDRESSES = {
     # UMass's: the Fine Arts Center's halls, and the campus, for an event its calendar gives no address for.
     "UMass Fine Arts Center": ("151 Presidents Dr", "Amherst", "01003"),
     "UMass Amherst": ("151 Presidents Dr", "Amherst", "01003"),
+    "Amherst College": ("220 South Pleasant St", "Amherst", "01002"),
     "New City Brewery": ("180 Pleasant St", "Easthampton", "01027"),
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
@@ -2316,6 +2317,47 @@ def read_smith(source):
     return events
 
 
+def read_amherst(source):
+    """Amherst College's calendar, its line's address kept to its lectures and readings and its performances (the
+    type_of_event filters in it), a card each, ten or so to a page: each one's name, start, hall, picture, page and
+    the start of what it's about. Only what's open to the public, here: not the Folger Shakespeare Library's, which
+    the college runs, in Washington; not what's online only; not its weekly salons; not the Drake's, whose own
+    calendar has them (AMHERST_ELSEWHERE). Nor its students' coursework (COLLEGE_SKIP)."""
+    events = []
+    for number in range(6):
+        page = fetch(source["url"] + (f"&page={number}" if number else ""))
+        for card in page.split('<article class="mm-calendar-event">')[1:]:
+            named = re.search(r'class="mm-event-listing-title">\s*<a href="([^"]+)">(.*?)</a>', card, re.S)
+            starts = re.search(r'itemprop="startDate" content="([^"]+)"', card)
+            if not (named and starts) or "open-to-the-public" not in card:
+                continue
+            title = presented(text(named.group(2)), "M@A")[0]  # Not "M@A Presents:", Music at Amherst's.
+            hall = re.search(r'class="mm-event-listing-location">(.*?)</p>', card, re.S)
+            where = text(hall.group(1)) if hall else ""
+            said = re.search(r'mm-calendar-event-body"[^>]*>(.*?)</div>', card, re.S)
+            line = text(said.group(1)) if said else ""
+            if (not where or AMHERST_ELSEWHERE.search(where) or re.search(r"\bvirtual\b|\bonline\b|\bzoom\b", line, re.I)
+                    or re.search(r"\bsalons?\b", title, re.I) or COLLEGE_SKIP.search(title) or guess_kind(title) is None):
+                continue
+            day, start = at_venue(datetime.fromisoformat(starts.group(1)), source.get("zone", BOSTON))
+            if day < today():
+                continue
+            picture = re.search(r'<img[^>]+src="([^"]+)"', card)
+            talk = bool(re.search(r"\b(?:lecture|talk|reading|readings|conversation|seminar|symposium|poet|poetry|author)\b", title, re.I))
+            listing = event(source, title, day, start, link=urljoin(source["url"], html.unescape(named.group(1))), detail=where,
+                            about=[line.rstrip(".").rstrip() + "…" if line.endswith("...") else line] if line else [],
+                            image=urljoin(source["url"], html.unescape(picture.group(1))) if picture else "")
+            events.append(dict(listing, category=college_kind(title, line, talk=talk)))
+        if f"page={number + 1}" not in page:
+            break
+    return events
+
+
+# Where Amherst College's calendar has events Pushpin doesn't list for it: the Folger Shakespeare Library, in
+# Washington, which the college runs; and the Drake, which has a source of its own.
+AMHERST_ELSEWHERE = re.compile(r"\bfolger\b|\bdrake\b", re.I)
+
+
 SMITH_PERFORMANCES, SMITH_READINGS = "100023", "100131"  # Its event type filter's ids.
 SMITH_KINDS = (SMITH_PERFORMANCES, SMITH_READINGS)
 
@@ -3550,6 +3592,7 @@ READERS = {
     "mit": read_mit,
     "localist": read_localist,
     "smith": read_smith,
+    "amherst": read_amherst,
     "bibliocommons": read_bibliocommons,
     "mfa": read_mfa,
     "harvardart": read_harvard_art,
