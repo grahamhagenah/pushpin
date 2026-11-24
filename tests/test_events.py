@@ -110,6 +110,9 @@ ROUTES = [
     ("gardencinemas.net", "garden.html"),
     ("theheavyculture.coop/shows", "heavyculture.html"),
     ("doubleedgetheatre.org/events", "doubleedge.html"),
+    ("shelburnefallsmemorialhall.org/pothole-pictures/page/", "empty.html"),  # Its later page.
+    ("shelburnefallsmemorialhall.org/pothole-pictures/", "pothole.html"),
+    ("shelburnefallsmemorialhall.org/its-a-wonderful-life-1946/", "pothole_film.html"),
     ("m.movies.abenity.com/theatre?id=725&date=11/24/2026", "abenity.html"),
     ("m.movies.abenity.com/theatre", "empty.html"),  # Its other days.
     ("amherst.edu/news/events/calendar?f%5B0%5D=type_of_event%3Alec&f%5B1%5D=type_of_event%3Aperform&page=", "empty.html"),
@@ -853,6 +856,20 @@ class WesternMass(unittest.TestCase):
         self.assertNotIn("Fall 2026 Open Training", titles, "nor its trainings")
         self.assertFalse([item for item in found if "Lenfest" in item["detail"]], "nor where it tours")
 
+    def test_pothole_pictures_a_night_each_with_its_music(self):
+        with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
+            found = build.read_pothole(source("pothole", "https://shelburnefallsmemorialhall.org/pothole-pictures/", "film", "Pothole Pictures"))
+        wonderful = [item for item in found if item["title"] == "It’s a Wonderful Life (1946)"]
+        self.assertEqual([(item["date"], item["times"]) for item in wonderful], [(date(2026, 12, 18), [time(19, 30)]), (date(2026, 12, 19), [time(19, 30)])],
+                         "a listing a night, its time from its own page where the list doesn't say")
+        self.assertTrue(wonderful[0]["about"][0].startswith("Free live music at 7 pm"), "the music before it")
+        self.assertTrue(wonderful[0]["image"].startswith("https://") and "?" not in wonderful[0]["image"], "its picture, whole")
+        conformist = next(item for item in found if item["title"] == "The Conformist (1970)")
+        self.assertEqual((conformist["date"], conformist["times"]), (date(2027, 1, 22), [time(19, 30)]), "next year's, by its own year")
+        titles = {item["title"] for item in found}
+        self.assertNotIn("Community Open Meeting", titles)
+        self.assertNotIn("Sherlock, Jr. (1924)", titles, "not what's past")
+
     def test_tower_theaters_from_abenity_linked_to_its_own_site(self):
         with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
             found = build.read_abenity(source("abenity", "https://m.movies.abenity.com/theatre?id=725#https://www.towertheaters.com/",
@@ -964,7 +981,7 @@ class WesternMass(unittest.TestCase):
                                                        "Calvin Theatre", "Bombyx", "Marigold Theater",
                                                        "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture", "CitySpace", "New City Brewery",
                                                        "Amherst College", "Tower Theaters", "Agawam Cinemas", "Double Edge Theatre",
-                                                       "Garden Cinemas"})
+                                                       "Garden Cinemas", "Pothole Pictures"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             self.assertIn(s["name"], build.VENUE_ADDRESSES, "each under its town in the venue menu")

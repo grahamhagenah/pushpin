@@ -160,6 +160,7 @@ VENUE_ADDRESSES = {
     "Tower Theaters": ("19 College St", "South Hadley", "01075"),
     "Agawam Cinemas": ("866 Suffield St", "Agawam", "01001"),
     "Double Edge Theatre": ("948 Conway Rd", "Ashfield", "01330"),
+    "Pothole Pictures": ("51 Bridge St", "Shelburne Falls", "01370"),
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
@@ -1933,6 +1934,52 @@ def read_double_edge(source):
 DOUBLE_EDGE_HERE = re.compile(r"\bfarm center\b|\bashfield\b|\bshea\b", re.I)
 
 
+MONTHS = "January|February|March|April|May|June|July|August|September|October|November|December"
+
+
+def read_pothole(source):
+    """Pothole Pictures' season (Shelburne Falls Memorial Hall), a post a film, a page of them at a time
+    (/page/2/ on): each film's name, page and picture, and its first lines, its nights and time ("Friday
+    December 18 and Saturday December 19, 2026 at 7:30PM", the year after the last night) and the free music
+    before it, a listing a night. Not what isn't a film (its community meeting)."""
+    events, here = [], today()
+    for number in range(1, 5):
+        page = fetch(source["url"] if number == 1 else urljoin(source["url"], f"page/{number}/"))
+        for post in page.split("<article ")[1:]:
+            named = re.search(r'class="entry-title"><a href="([^"]+)"[^>]*>(.*?)</a>', post, re.S)
+            said = re.search(r'class="entry-content">\s*<p>(.*?)</p>', post, re.S)
+            if not (named and said):
+                continue
+            title = text(named.group(2))
+            if re.search(r"\bmeeting\b", title, re.I):
+                continue
+            lines = [text(line) for line in re.split(r"<br\s*/?>", said.group(1)) if text(line)]
+            when = lines[0] if lines else ""
+            year = re.search(r"\b(20\d\d)\b", when)
+            clock_said = re.search(r"\bat (\d{1,2})(?::(\d{2}))?\s*([AP])M\b", when, re.I)
+            if not year:
+                continue
+            start = None
+            if clock_said:
+                start = time(int(clock_said.group(1)) % 12 + (12 if clock_said.group(3).upper() == "P" else 0), int(clock_said.group(2) or 0))
+            else:  # Its time is on its own page ("Film at 7:30"), which its screenings are all in the evening.
+                own = re.search(r"\bFilm at (\d{1,2})(?::(\d{2}))?", text(fetch(named.group(1))), re.I)
+                if own:
+                    start = time(int(own.group(1)) % 12 + 12, int(own.group(2) or 0))
+            music = " ".join(lines[1:])
+            picture = re.search(r'<img[^>]+src="([^"?]+)', post)
+            for month, day_number in re.findall(rf"\b({MONTHS}) (\d{{1,2}})\b", when):
+                day = datetime.strptime(f"{month} {day_number} {year.group(1)}", "%B %d %Y").date()
+                if day < here:
+                    continue
+                listing = event(source, title, day, start, link=named.group(1), about=[music] if music else [],
+                                image=picture.group(1) if picture else "")
+                events.append(dict(listing, category="film"))
+        if f"page/{number + 1}/" not in page:
+            break
+    return events
+
+
 def read_garden_cinemas(source):
     """Greenfield Garden Cinemas' showtimes, a day to a page (?vdate=11/24/2026), each film with its page, its
     poster and its times ("8:30p"), for the days its date slider offers, as far ahead as films are listed."""
@@ -3657,6 +3704,7 @@ READERS = {
     "venuepilot": read_venuepilot,
     "abenity": read_abenity,
     "doubleedge": read_double_edge,
+    "pothole": read_pothole,
     "academyofmusic": read_academy_of_music,
     "phoenix": read_phoenix,
     "spektrix": read_spektrix,
