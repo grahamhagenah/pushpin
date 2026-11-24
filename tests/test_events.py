@@ -108,6 +108,12 @@ ROUTES = [
     ("gardencinemas.net/?vdate=11/24/2026", "garden.html"),
     ("gardencinemas.net/?vdate=", "empty.html"),  # Its other days.
     ("gardencinemas.net", "garden.html"),
+    ("events.umass.edu/api/2/events", "localist_umass.json"),
+    ("events.mtholyoke.edu/api/2/events", "localist_mhc.json"),
+    ("smith.edu/news-events/events?field_event_category_target_id=100023&page=", "empty.html"),  # Its later pages.
+    ("smith.edu/news-events/events?field_event_category_target_id=100023", "smith_performances.html"),
+    ("smith.edu/news-events/events?field_event_category_target_id=100131&page=", "empty.html"),
+    ("smith.edu/news-events/events?field_event_category_target_id=100131", "smith_readings.html"),
     # The Marigold's shows' pages; any other show's page is its home page, named only Marigold, and left out.
     ("marigold.org/jeff-the-brotherhood-with-cliffrose-ian-st-george/", "marigold_event.html"),
     ("marigold.org/sunday-blues-jam-december/", "marigold_jam.html"),
@@ -754,6 +760,49 @@ class WesternMass(unittest.TestCase):
         self.assertEqual(show["price"], "$15")
         self.assertTrue(show["about"] and show["image"].startswith("https://marigold.org/wp-content/uploads/"))
 
+    def test_umass_calendar_its_arts_not_its_clubs_nor_the_fine_arts_centers(self):
+        found = build.read_localist(source("localist", "https://events.umass.edu/api/2/events", "music", "UMass Amherst"))
+        titles = {item["title"] for item in found}
+        moors = [item for item in found if item["title"] == "The Moors"]
+        self.assertEqual(len(moors), 6, "each performance of the theater department's play")
+        self.assertEqual((moors[0]["category"], moors[0]["detail"], moors[0]["price"]), ("art", "Curtain Theater", "$7–$19"))
+        self.assertIn("Faculty Dance Concert - UMass & Amherst College", titles, "marked for the arts, though for no audience")
+        self.assertTrue(any(title.startswith("Faculty Concert Series") for title in titles))
+        self.assertIn("Artist Talk: Farihah Aliyah Shah", titles, "a talk on the arts")
+        self.assertNotIn("Maria Mazzotta", titles, "at the Drake, which the Fine Arts Center's own source has")
+        self.assertNotIn("Film Screening with Dining Sustainability", titles, "neither for the public nor about the arts")
+        self.assertFalse([title for title in titles if "Dissertation" in title or "Book Club" in title or "Winter Week" in title])
+
+    def test_mount_holyoke_only_whats_for_the_public(self):
+        found = build.read_localist(source("localist", "https://events.mtholyoke.edu/api/2/events", "music", "Mount Holyoke"))
+        titles = [item["title"] for item in found]
+        self.assertIn("Mount Holyoke Symphony Orchestra: Mary Lyon Concert", titles, "an ensemble's concert")
+        self.assertEqual(titles.count("Holiday Vespers"), 2)
+        self.assertNotIn("DOZ Bible Study", titles, "filed under its concerts, for no audience")
+        self.assertFalse([title for title in titles if "Student Recital" in title or "Studio Recital" in title])
+        self.assertNotIn("Artist Talk with Kerri Clarke: The Seven Sisters Possum", titles, "online only")
+
+    def test_smith_its_performances_and_readings_not_coursework(self):
+        with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
+            found = build.read_smith(source("smith", "https://www.smith.edu/news-events/events", "music", "Smith College"))
+        by_title = {item["title"]: item for item in found}
+        gamelan = by_title["Central Javanese Gamelan Fall Concert"]
+        self.assertEqual((gamelan["date"], gamelan["times"], gamelan["category"]), (date(2026, 12, 2), [time(19, 30)], "music"))
+        self.assertTrue(gamelan["link"].startswith("https://www.smith.edu/news-events/events/"))
+        self.assertEqual(by_title["Reading by Novelist Megan Giddings"]["category"], "art")
+        self.assertEqual(by_title["Reading by Novelist Megan Giddings"]["about"], [], "not its placeholder, xxx")
+        self.assertNotIn("Dance at Noon", by_title, "a course's showing")
+        self.assertNotIn("Fall Studio Productions", by_title, "student-directed one-acts")
+        self.assertNotIn("FMS Screening", by_title, "students' projects")
+
+    def test_smith_start_from_its_hours(self):
+        start = lambda hours: build.smith_start(f"Wednesday, December 2, 2026 | {hours}")
+        self.assertEqual(start("7:30-9 p.m."), time(19, 30))
+        self.assertEqual(start("12:10-1:05 p.m."), time(12, 10))
+        self.assertEqual(start("11-1 p.m."), time(11, 0), "eleven in the morning, to end at one")
+        self.assertEqual(start("11 a.m.-1 p.m."), time(11, 0))
+        self.assertEqual(start("noon-1 p.m."), time(12, 0))
+
     def test_garden_cinemas_a_day_to_a_page(self):
         with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
             found = build.read_garden_cinemas(source("gardencinemas", "https://www.gardencinemas.net/", "film", "Garden Cinemas"))
@@ -817,10 +866,11 @@ class WesternMass(unittest.TestCase):
         self.assertEqual({s["name"] for s in sources}, {"Mass MoCA", "Amherst Cinema", "Images Cinema", "Triplex Cinema",
                                                        "Iron Horse", "Parlor Room", "The Drake", "Mahaiwe", "Shea Theater",
                                                        "Academy of Music", "Beacon Cinema", "Colonial Theatre", "UMass Fine Arts Center",
-                                                       "Calvin Theatre", "Pearl Street", "Bombyx", "Marigold Theater"})
+                                                       "Calvin Theatre", "Pearl Street", "Bombyx", "Marigold Theater",
+                                                       "UMass Amherst", "Mount Holyoke", "Smith College"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
-            if s["name"] != "UMass Fine Arts Center":  # Its events are in halls around campus, and town, which each says.
+            if s["name"] not in ("UMass Fine Arts Center", "UMass Amherst"):  # Its events are in halls around campus, and town, which each says.
                 self.assertIn(s["name"], build.VENUE_ADDRESSES)
             self.assertEqual(s["city"], "westernma")
 

@@ -21,3 +21,8 @@ bombyx         https://bombyx.live/events/                           music  Bomb
 # that changes.
 # gardencinemas  https://www.gardencinemas.net/                        film   Garden Cinemas
 marigold       https://marigold.org/                                 music  Marigold Theater
+# The Five Colleges' own calendars: their concerts, plays, dance and screenings, and their talks and readings on
+# the arts; not their students' coursework. Amherst College's turns automated readers away; Hampshire's closing.
+localist       https://events.umass.edu/api/2/events                 music  UMass Amherst
+localist       https://events.mtholyoke.edu/api/2/events             music  Mount Holyoke
+smith          https://www.smith.edu/news-events/events              music  Smith College

@@ -151,6 +151,8 @@ VENUE_ADDRESSES = {
     "Bombyx": ("130 Pine St", "Florence", "01062"),
     "Garden Cinemas": ("361 Main St", "Greenfield", "01301"),
     "Marigold Theater": ("84 Cottage St", "Easthampton", "01027"),
+    "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
+    "Smith College": ("10 Elm St", "Northampton", "01063"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
     # knows it by; the neighborhood, which is how anyone there thinks of it, is in VENUE_AREAS.
     "Union Pool": ("484 Union Ave", "Brooklyn", "NY", "11211"),
@@ -2102,6 +2104,133 @@ def read_mit(source):
     return events
 
 
+# What a college lists that's its students' coursework more than a night out: a student's or a studio's recital,
+# a course's showing, student films, a thesis or capstone, a dissertation's defense; its campus traditions,
+# competitions and book clubs; and a room held for something not yet named ("JMG HOLD - concert", "Fall 2026").
+# Its ensembles' concerts stay.
+COLLEGE_SKIP = re.compile(r"\b(?:student|studio|senior|junior|degree) recital|\bthesis\b|\bcapstone\b|\bdissertation\b|"
+                          r"\bstudent (?:projects?|work|directed|films?)\b|\bcourse\b|\binfo ?session\b|\bbook club\b|"
+                          r"\bcompetition\b|\bstep sing\b|\bcampus school\b|\bHOLD\b|^(?:fall|spring|summer|winter) \d{4}$", re.I)
+# Staged, by a college calendar's words for it: a play, dance, a theater department's production.
+COLLEGE_STAGED = re.compile(r"\btheat(?:er|re)\b|\bdanc(?:e|ers|ing)\b|\bchoreograph|\bplay(?:wright)?\b|\bone[- ]acts?\b", re.I)
+# Where UMass's calendar lists the Fine Arts Center's own series, which its own source reads: its halls, and the Drake.
+UMASS_ELSEWHERE = re.compile(r"\bdrake\b|\btillis\b|\bbowker\b|\bconcert hall\b", re.I)
+
+
+def college_kind(title, described, talk=False):
+    """A college event's kind: film for a screening, art & talks for a talk, a reading, a play or dance, else music."""
+    if re.search(r"\b(?:film|films|screening|documentary|movie)\b", title, re.I):
+        return "film"
+    return "art" if talk or COLLEGE_STAGED.search(f"{title} {described}") or re.search(r"\breading\b", title, re.I) else "music"
+
+
+def read_localist(source):
+    """A college's events calendar on Localist (UMass Amherst's, Mount Holyoke's), from its API, kept to what's
+    public and in person and is a concert, a performance or a screening, or a talk about the arts. Each college
+    tags its own way, so which tags count is LOCALIST_KEEP's, by its address. Not its students' coursework
+    (COLLEGE_SKIP), and not what another source has already (UMass's Fine Arts Center series, UMASS_ELSEWHERE)."""
+    keep = LOCALIST_KEEP[urlsplit(source["url"]).netloc]
+    events, page = [], 1
+    while page:
+        data = json.loads(fetch(f"{source['url']}?{urlencode([('days', MUSIC_DAYS_AHEAD + 1), ('pp', 100), ('page', page)])}"))
+        for entry in data.get("events", []):
+            item = entry["event"]
+            tags = {key: {tag["name"] for tag in value} for key, value in (item.get("filters") or {}).items()}
+            types, topics = tags.get(keep["types"], set()), tags.get(keep["topics"], set())
+            audience = tags.get(keep["audience"], set())
+            shown = types & keep["shows"]
+            # A show that says it's about the arts or is for the public (not a club's film night, which says neither).
+            if shown and keep.get("shows_said") and not (topics & keep["arts"] or keep["public"] in audience):
+                shown = set()
+            talk = bool(types & keep["talks"]) and bool(topics & keep["arts"])
+            title, place = text(item.get("title") or ""), item.get("location_name") or ""
+            if (not (shown or talk) or item.get("experience") == "virtual" or item.get("status") == "canceled"
+                    or (keep["public"] not in audience if keep["public_only"] else audience and keep["public"] not in audience)
+                    or COLLEGE_SKIP.search(title) or (keep.get("elsewhere") and keep["elsewhere"].search(place))):
+                continue
+            instance = item["event_instances"][0]["event_instance"]
+            day, start = at_venue(datetime.fromisoformat(instance["start"]), source.get("zone", BOSTON))
+            start = None if instance.get("all_day") or (start.hour, start.minute) == (0, 0) else start
+            described = about(item.get("description") or "")
+            if COLLEGE_SKIP.search(" ".join(described[:1])):
+                continue
+            listing = event(source, title, day, start, link=item.get("localist_url") or source["url"], detail=place,
+                            about=described, address=postal(item.get("address")), image=item.get("photo_url") or "",
+                            price=price_from(item.get("ticket_cost") or ("Free" if item.get("free") else "")))
+            events.append(dict(listing, category=college_kind(title, " ".join(described[:1]), talk=talk and not shown)))
+        page = data.get("page", {}).get("next_page") if page < 10 else None
+    return events
+
+
+# Which of a Localist calendar's tags make an event Pushpin's: its kinds that are shows, its kinds that are talks
+# (and the topic that makes a talk about the arts), and its word for the public. Mount Holyoke files club meetings
+# and Bible study under its concerts with no audience at all, so there, only what's marked for the public counts;
+# at UMass, many public events are marked for nobody, so only what's marked for others alone is left out.
+LOCALIST_KEEP = {
+    "events.umass.edu": {"types": "event_types", "topics": "event_topic", "audience": "event_audience",
+                         "shows": {"Concert/Performance/Film"}, "talks": {"Lecture/Talk/Reading"}, "arts": {"Arts and Culture"},
+                         "public": "Public/Everyone", "public_only": False, "shows_said": True, "elsewhere": UMASS_ELSEWHERE},
+    "events.mtholyoke.edu": {"types": "event_types", "topics": "event_topic", "audience": "event_target_audience",
+                             "shows": {"Concerts & Performances"}, "talks": {"Lectures & Presentations"}, "arts": {"Arts/Music/Film"},
+                             "public": "General Public", "public_only": True},
+}
+
+
+def read_smith(source):
+    """Smith College's events, its Performances and Readings (each an event type's list, ten to a page, ?page=1
+    on), each with its name, its page, its day and its hours ("Wednesday, December 2, 2026 | 7:30-9 p.m.") and the
+    start of what it's about. Not its students' coursework (COLLEGE_SKIP): a course's showing, student projects."""
+    events = []
+    for kind in SMITH_KINDS:
+        for number in range(6):
+            page = fetch(f"{source['url']}?field_event_category_target_id={kind}" + (f"&page={number}" if number else ""))
+            for teaser in page.split('<article  class="teaser"')[1:]:
+                named = re.search(r'class="heading__link" href="([^"]+)">(.*?)</a>', teaser, re.S)
+                when = re.search(r'class="teaser__subheading">(.*?)</p>', teaser, re.S)
+                said = re.search(r'class="teaser__text">(.*?)</p>', teaser, re.S)
+                if not (named and when):
+                    continue
+                title, hours = text(named.group(2)), text(when.group(1))
+                line = text(said.group(1)) if said else ""
+                line = "" if line.casefold().strip(" .") in ("xxx", "tbd", "") else line
+                day_text = re.match(r"\w+, (\w+ \d{1,2}, \d{4})", hours)
+                if not day_text or COLLEGE_SKIP.search(title) or COLLEGE_SKIP.search(line):
+                    continue
+                day = datetime.strptime(day_text.group(1), "%B %d, %Y").date()
+                if day < today():
+                    continue
+                events.append(dict(event(source, title, day, smith_start(hours), link=urljoin(source["url"], html.unescape(named.group(1))),
+                                         about=[line] if line else []),
+                                   category=college_kind(title, line, talk=kind == SMITH_READINGS)))
+            if f"page={number + 1}" not in page:
+                break
+    return events
+
+
+SMITH_PERFORMANCES, SMITH_READINGS = "100023", "100131"  # Its event type filter's ids.
+SMITH_KINDS = (SMITH_PERFORMANCES, SMITH_READINGS)
+
+
+def smith_start(hours):
+    """When an event starts, from its hours after the bar: "7:30-9 p.m." (the end's half of the day, unless that
+    makes it start after it ends: "11-1 p.m." is from eleven in the morning), "11 a.m.-1 p.m.", "noon-1 p.m."."""
+    found = re.search(r"\|\s*(noon|\d{1,2})(?::(\d{2}))?\s*([ap])?\.?m?\.?\s*(?:[-–]\s*(noon|\d{1,2})(?::\d{2})?\s*([ap])\.?m\.?)?", hours, re.I)
+    if not found:
+        return None
+    if found.group(1).lower() == "noon":
+        return time(12, 0)
+    hour, minute = int(found.group(1)) % 12, int(found.group(2) or 0)
+    half = (found.group(3) or "").lower()
+    if not half:
+        end = found.group(4) or ""
+        half = "p" if end.lower() == "noon" else (found.group(5) or "").lower()
+        if half == "p" and end.isdigit() and hour > int(end) % 12:
+            half = "a"
+    if not half:
+        return None
+    return time(hour + (12 if half == "p" else 0), minute)
+
+
 # A library's events (BiblioCommons) that aren't talks or exhibitions for grown-ups, by the tags they carry.
 LIBRARY_SKIP = {
     "Kirstein Business Library & Innovation Center Classes", "Job & Career Success", "Computers/Technology Classes",
@@ -3308,6 +3437,8 @@ READERS = {
     "tapos": read_tapos,
     "wptheatre": read_wptheatre,
     "mit": read_mit,
+    "localist": read_localist,
+    "smith": read_smith,
     "bibliocommons": read_bibliocommons,
     "mfa": read_mfa,
     "harvardart": read_harvard_art,
