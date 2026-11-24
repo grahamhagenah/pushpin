@@ -108,6 +108,7 @@ ROUTES = [
     ("gardencinemas.net/?vdate=11/24/2026", "garden.html"),
     ("gardencinemas.net/?vdate=", "empty.html"),  # Its other days.
     ("gardencinemas.net", "garden.html"),
+    ("theheavyculture.coop/shows", "heavyculture.html"),
     ("events.umass.edu/api/2/events", "localist_umass.json"),
     ("events.mtholyoke.edu/api/2/events", "localist_mhc.json"),
     ("smith.edu/news-events/events?field_event_category_target_id=100023&page=", "empty.html"),  # Its later pages.
@@ -803,6 +804,19 @@ class WesternMass(unittest.TestCase):
         self.assertEqual(start("11 a.m.-1 p.m."), time(11, 0))
         self.assertEqual(start("noon-1 p.m."), time(12, 0))
 
+    def test_heavy_culture_from_its_wix_pages_data(self):
+        with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
+            found = build.read_wix_events(source("wixevents", "https://www.theheavyculture.coop/shows", "music", "The Heavy Culture"))
+        by_title = {item["title"]: item for item in found}
+        ice = by_title["Ice Giant / Chained to the Dead / Lurching"]
+        self.assertEqual((ice["date"], ice["times"]), (date(2026, 11, 28), [time(19, 0)]), "by its own clock, not UTC's")
+        self.assertEqual(ice["link"], "https://www.theheavyculture.coop/event-details/ice-giant-chained-to-the-dead-lurching")
+        self.assertTrue(ice["image"].startswith("https://static.wixstatic.com/media/"))
+        self.assertIn("Skratch / Glasss / When The Time Comes", by_title, "from the month's grid, past the list's first few")
+        self.assertNotIn("Dead Media Market #2", by_title, "not its markets")
+        self.assertFalse([item for item in found if item["date"] < date(2026, 11, 24)], "not what's past")
+        self.assertEqual(len(found), 11)
+
     def test_garden_cinemas_a_day_to_a_page(self):
         with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
             found = build.read_garden_cinemas(source("gardencinemas", "https://www.gardencinemas.net/", "film", "Garden Cinemas"))
@@ -867,7 +881,7 @@ class WesternMass(unittest.TestCase):
                                                        "Iron Horse", "Parlor Room", "The Drake", "Mahaiwe", "Shea Theater",
                                                        "Academy of Music", "Beacon Cinema", "Colonial Theatre", "UMass Fine Arts Center",
                                                        "Calvin Theatre", "Bombyx", "Marigold Theater",
-                                                       "UMass Amherst", "Mount Holyoke", "Smith College"})
+                                                       "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             if s["name"] not in ("UMass Fine Arts Center", "UMass Amherst"):  # Its events are in halls around campus, and town, which each says.

@@ -150,6 +150,7 @@ VENUE_ADDRESSES = {
     "Bombyx": ("130 Pine St", "Florence", "01062"),
     "Garden Cinemas": ("361 Main St", "Greenfield", "01301"),
     "Marigold Theater": ("84 Cottage St", "Easthampton", "01027"),
+    "The Heavy Culture": ("1 Northampton St", "Easthampton", "01027"),
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
@@ -1739,6 +1740,54 @@ def read_marigold(source):
         listing = event(source, title, day, start, link=found.group(1), about=about(body), image=picture.group(1) if picture else "")
         events.append(dict(listing, category=category))
     return events
+
+
+def read_wix_events(source):
+    """A venue whose site's events are Wix's (The Heavy Culture Cooperative's, Easthampton), from the data its
+    events page is built from (its wix-warmup-data): every event it holds, the list's and the month grid's, each
+    with its name, start, picture and page (/event-details/<its slug>). Not one canceled (its status 3), and not
+    what's on a venue's calendar that isn't a show (WIX_SKIP)."""
+    page = fetch(source["url"])
+    found = re.search(r'<script type="application/json" id="wix-warmup-data">(.*?)</script>', page, re.S)
+    if not found:
+        return []
+    items = {}
+
+    def collect(data):
+        if isinstance(data, dict):
+            if data.get("title") and isinstance(data.get("scheduling"), dict) and data.get("slug"):
+                items.setdefault(data.get("id") or data["slug"], data)
+            for value in data.values():
+                collect(value)
+        elif isinstance(data, list):
+            for value in data:
+                collect(value)
+
+    collect(json.loads(found.group(1)))
+    root = "{0.scheme}://{0.netloc}/".format(urlsplit(source["url"]))
+    events = []
+    for item in items.values():
+        config = item["scheduling"].get("config") or {}
+        title = text(item["title"])
+        if item.get("status") == 3 or config.get("scheduleTbd") or not config.get("startDate") or WIX_SKIP.search(title):
+            continue
+        moment = datetime.fromisoformat(config["startDate"].replace("Z", "+00:00"))
+        day, start = at_venue(moment, ZoneInfo(config.get("timeZoneId") or source.get("zone") or "America/New_York"))
+        if day < today():
+            continue
+        category = guess_kind(title, text(item.get("description") or ""))
+        if not category:
+            continue
+        picture = (item.get("mainImage") or {}).get("url") or ""
+        listing = event(source, title, day, start, link=f"{root}event-details/{item['slug']}",
+                        about=about(item.get("about") or item.get("description") or ""), image=picture)
+        events.append(dict(listing, category=category))
+    return events
+
+
+# What a venue's Wix calendar has that isn't a show: its markets, swaps and drives, contests, and open nights for
+# whoever turns up. (Karaoke and trivia are skip.txt's, for every venue.)
+WIX_SKIP = re.compile(r"\bmarket\b|\bswap\b|\bdrive\b|\bcontest\b|\bopen projector\b", re.I)
 
 
 def read_garden_cinemas(source):
@@ -3416,6 +3465,7 @@ READERS = {
     "bombyx": read_bombyx,
     "gardencinemas": read_garden_cinemas,
     "marigold": read_marigold,
+    "wixevents": read_wix_events,
     "academyofmusic": read_academy_of_music,
     "phoenix": read_phoenix,
     "spektrix": read_spektrix,
