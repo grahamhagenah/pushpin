@@ -108,6 +108,10 @@ ROUTES = [
     ("gardencinemas.net/?vdate=11/24/2026", "garden.html"),
     ("gardencinemas.net/?vdate=", "empty.html"),  # Its other days.
     ("gardencinemas.net", "garden.html"),
+    # The Marigold's shows' pages; any other show's page is its home page, named only Marigold, and left out.
+    ("marigold.org/jeff-the-brotherhood-with-cliffrose-ian-st-george/", "marigold_event.html"),
+    ("marigold.org/sunday-blues-jam-december/", "marigold_jam.html"),
+    ("marigold.org/", "marigold.html"),
     # Pushpin NYC's.
     ("filmforum.org", "filmforum.html"),
     ("metrograph.com/nyc", "metrograph.html"),
@@ -739,6 +743,17 @@ class WesternMass(unittest.TestCase):
         self.assertFalse([title for title in by_title if "5Rhythms" in title], "not its dance classes")
         self.assertEqual(len(found), 3, "only those whose pages give a name")
 
+    def test_marigold_its_easthampton_shows_not_its_jams(self):
+        with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
+            found = build.read_marigold(source("marigold", "https://marigold.org/", "music", "Marigold Theater"))
+        self.assertEqual(len(found), 1, "the one show sampled; its jam left out, and pages named only Marigold too")
+        show = found[0]
+        self.assertEqual(show["title"], "Jeff The Brotherhood With Cliffrose & Ian St George")
+        self.assertEqual((show["date"], show["times"], show["category"]), (date(2026, 12, 13), [time(20, 0)], "music"),
+                         "its day from its tile, its time from its page")
+        self.assertEqual(show["price"], "$15")
+        self.assertTrue(show["about"] and show["image"].startswith("https://marigold.org/wp-content/uploads/"))
+
     def test_garden_cinemas_a_day_to_a_page(self):
         with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
             found = build.read_garden_cinemas(source("gardencinemas", "https://www.gardencinemas.net/", "film", "Garden Cinemas"))
@@ -802,7 +817,7 @@ class WesternMass(unittest.TestCase):
         self.assertEqual({s["name"] for s in sources}, {"Mass MoCA", "Amherst Cinema", "Images Cinema", "Triplex Cinema",
                                                        "Iron Horse", "Parlor Room", "The Drake", "Mahaiwe", "Shea Theater",
                                                        "Academy of Music", "Beacon Cinema", "Colonial Theatre", "UMass Fine Arts Center",
-                                                       "Calvin Theatre", "Pearl Street", "Bombyx", "Garden Cinemas"})
+                                                       "Calvin Theatre", "Pearl Street", "Bombyx", "Marigold Theater"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             if s["name"] != "UMass Fine Arts Center":  # Its events are in halls around campus, and town, which each says.

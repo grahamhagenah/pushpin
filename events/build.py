@@ -150,6 +150,7 @@ VENUE_ADDRESSES = {
     "Pearl Street": ("10 Pearl St", "Northampton", "01060"),
     "Bombyx": ("130 Pine St", "Florence", "01062"),
     "Garden Cinemas": ("361 Main St", "Greenfield", "01301"),
+    "Marigold Theater": ("84 Cottage St", "Easthampton", "01027"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
     # knows it by; the neighborhood, which is how anyone there thinks of it, is in VENUE_AREAS.
     "Union Pool": ("484 Union Ave", "Brooklyn", "NY", "11211"),
@@ -1696,6 +1697,46 @@ def read_bombyx(source):
             events.append(dict(listing, category=category))
         if f'/events/page/{number + 1}/"' not in page:
             break
+    return events
+
+
+def read_marigold(source):
+    """The Marigold Theater's shows (Easthampton), from the grid of them on its home page: each a picture, its
+    day ("SAT DEC 19") and its page, which has its name and what it's about, with its time in it ("Show 8pm").
+    Only its Easthampton theater's (the grid's "theater" tiles), not its Brattleboro café's; and not its jams
+    and open mics, which are every week."""
+    events, here = [], today()
+    for tile in fetch(source["url"]).split('<div class="wonderplugin-gridgallery-item"')[1:]:
+        found = re.search(r'^\s*data-category="theater".*?href="([^"]+)" data-title="\w+ (\w{3}) ?(\d{1,2})"', tile, re.S)
+        if not found:
+            continue
+        day = yearless(found.group(2).title(), found.group(3), here)
+        if not day or day < here:
+            continue
+        page = fetch(found.group(1))
+        named = re.search(r"<title>(.*?)</title>", page, re.S)
+        title = re.sub(r"\s*[–—-]\s*Marigold\s*$", "", text(named.group(1))) if named else ""
+        # A page named just Marigold isn't a show's (its home page, where a show's has gone).
+        if not title or title.casefold() == "marigold" or re.search(r"\bjam\b|\bopen mic\b", title, re.I):
+            continue
+        body = page.split('<div class="entry-content"', 1)[-1].split("</article>", 1)[0]
+        words = text(body)
+        # Its show's time, before its doors' where it gives both, else the first time it gives.
+        clock_at = (re.search(r"\b(?:show|music|starts?)\D{0,12}?(\d{1,2})(?::(\d{2}))?\s*([ap])\.?m\b", words, re.I)
+                    or re.search(r"\b(\d{1,2})(?::(\d{2}))?\s*([ap])\.?m\b", words, re.I))
+        start = None
+        if clock_at:
+            start = datetime.min.time().replace(hour=int(clock_at.group(1)) % 12 + (12 if clock_at.group(3).lower() == "p" else 0),
+                                                minute=int(clock_at.group(2) or 0))
+        picture = re.search(r'<img[^>]+src="([^"]+)"', tile)
+        category = guess_kind(title)
+        if not category:
+            continue
+        # Its dances are dance parties ("Dance Yourself Clean"), not a company's: a night of music.
+        if category == "art" and not re.search(r"\b(reading|talk|lecture|conversation|poetry|ballet)\b", title, re.I):
+            category = "music"
+        listing = event(source, title, day, start, link=found.group(1), about=about(body), image=picture.group(1) if picture else "")
+        events.append(dict(listing, category=category))
     return events
 
 
@@ -3246,6 +3287,7 @@ READERS = {
     "shea": read_shea,
     "bombyx": read_bombyx,
     "gardencinemas": read_garden_cinemas,
+    "marigold": read_marigold,
     "academyofmusic": read_academy_of_music,
     "phoenix": read_phoenix,
     "spektrix": read_spektrix,

@@ -17,4 +17,7 @@ umassfac       https://arts.umass.edu/performing-arts/events           music  UM
 ticketmaster   KovZpZAkvdtA                                          music  Calvin Theatre
 ticketmaster   KovZpa6Pbe                                            music  Pearl Street
 bombyx         https://bombyx.live/events/                           music  Bombyx
-gardencinemas  https://www.gardencinemas.net/                        film   Garden Cinemas
+# Greenfield Garden Cinemas turns GitHub's servers away (403), though not a browser; its reader is kept for if
+# that changes.
+# gardencinemas  https://www.gardencinemas.net/                        film   Garden Cinemas
+marigold       https://marigold.org/                                 music  Marigold Theater
