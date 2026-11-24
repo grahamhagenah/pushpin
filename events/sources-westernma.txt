@@ -30,3 +30,6 @@ amherst        https://www.amherst.edu/news/events/calendar?f%5B0%5D=type_of_eve
 wixevents      https://www.theheavyculture.coop/shows                music  The Heavy Culture
 venuepilot     https://www.cityspaceeasthampton.org/all-events/#924  music  CitySpace
 squarespace    https://www.newcitybrewery.com/events-1               music  New City Brewery
+# Tower Theaters (South Hadley): its own site loads its showtimes from a server that turns Pushpin away; the same
+# showtimes are on Abenity's public movie pages.
+abenity        https://m.movies.abenity.com/theatre?id=725          film   Tower Theaters

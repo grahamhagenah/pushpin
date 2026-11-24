@@ -109,6 +109,8 @@ ROUTES = [
     ("gardencinemas.net/?vdate=", "empty.html"),  # Its other days.
     ("gardencinemas.net", "garden.html"),
     ("theheavyculture.coop/shows", "heavyculture.html"),
+    ("m.movies.abenity.com/theatre?id=725&date=11/24/2026", "abenity.html"),
+    ("m.movies.abenity.com/theatre", "empty.html"),  # Its other days.
     ("amherst.edu/news/events/calendar?f%5B0%5D=type_of_event%3Alec&f%5B1%5D=type_of_event%3Aperform&page=", "empty.html"),
     ("amherst.edu/news/events/calendar", "amherst.html"),
     ("events.umass.edu/api/2/events", "localist_umass.json"),
@@ -834,6 +836,17 @@ class WesternMass(unittest.TestCase):
         self.assertNotIn("Artemis", by_title, "at the Drake, whose own calendar has it")
         self.assertEqual(len(found), 2)
 
+    def test_tower_theaters_from_abenity_linked_to_its_own_site(self):
+        with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
+            found = build.read_abenity(source("abenity", "https://m.movies.abenity.com/theatre?id=725", "film", "Tower Theaters"))
+        by_title = {item["title"]: item for item in found}
+        self.assertEqual(set(by_title), {"The Hunger Games: Sunrise on the Reaping", "Ebenezer"}, "without their ratings")
+        ebenezer = by_title["Ebenezer"]
+        self.assertEqual((ebenezer["date"], ebenezer["times"]), (date(2026, 11, 24), [time(10, 0), time(13, 0), time(15, 45), time(18, 15)]))
+        self.assertEqual(ebenezer["link"], "http://www.towertheaters.com/", "the theater's own site, not Abenity's")
+        self.assertTrue(ebenezer["image"] and ebenezer["about"][0].startswith("This November"))
+        self.assertEqual(ebenezer["about"][-1], "1 hr. 56 mins")
+
     def test_cityspace_from_venuepilot(self):
         answer = json.loads((FIXTURES / "venuepilot.json").read_text())
         asked = []
@@ -927,7 +940,7 @@ class WesternMass(unittest.TestCase):
                                                        "Academy of Music", "Beacon Cinema", "Colonial Theatre", "UMass Fine Arts Center",
                                                        "Calvin Theatre", "Bombyx", "Marigold Theater",
                                                        "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture", "CitySpace", "New City Brewery",
-                                                       "Amherst College"})
+                                                       "Amherst College", "Tower Theaters"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             self.assertIn(s["name"], build.VENUE_ADDRESSES, "each under its town in the venue menu")

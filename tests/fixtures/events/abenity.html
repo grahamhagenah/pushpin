@@ -1,0 +1,232 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+<link rel="apple-touch-icon" href="/css/themes/abenity/img/icon.png" />
+
+
+<link href="/css/themes/abenity/img/startup.png" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="/css/themes/abenity/img/startup_lg.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="/css/themes/abenity/img/startup_ipad_portrait.png" media="(device-width: 768px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="/css/themes/abenity/img/startup_ipad_landscape.png" media="(device-width: 768px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+
+<!-- CSS -->
+<link rel="stylesheet" href="/css/themes/abenity/jquery.mobile.css" />
+<link rel="stylesheet" href="/css/themes/abenity/jquery.mobile.icons.min.css" />
+<link rel="stylesheet" href="//code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css" /> 
+<link rel="stylesheet" type="text/css" href="/css/themes/abenity/styles.css?v=1.4">
+
+<!-- jQuery -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<script>
+$(document).bind("mobileinit", function () {
+    $.mobile.ajaxEnabled = false;
+});
+
+//call geolocation API
+function get_current_location() {
+	if (navigator.geolocation) {
+		navigator.geolocation.getCurrentPosition(function(position) {
+			
+			//get values from geo location
+			var lat = position.coords.latitude;
+			var lon = position.coords.longitude;
+			var url = "/includes/geo?lat="+lat+"&lon="+lon;
+						
+			//bye!
+			location.href = url;
+		}, function(error) {
+	        alert("Location services are disabled in your browser. Please change your privacy setting and try again.");
+	    });
+	} else {
+		alert("GPS Location is not available");
+	}
+}
+
+//geo search
+function geo_search() {
+	var search_val = $("#geo_search").val();
+	var url = "/search_results?search="+search_val;
+	
+	//bye!
+	location.href = url;
+}
+</script>
+
+<!-- jQuery Mobile -->
+<script src="//code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.0/themes/smoothness/jquery-ui.css">
+<script src="//ajax.googleapis.com/ajax/libs/jquerymobile/1.4.3/jquery.mobile.min.js"></script>
+
+<!-- bxSlider -->
+<script src="/js/bxslider/jquery.bxslider.min.js"></script>
+<link href="/js/bxslider/jquery.bxslider.css" rel="stylesheet" />
+
+
+
+
+
+<script>
+//force box resize on page load to avoid some glitches
+$(window).on('load', function () {
+    $(this).trigger('resize');
+    
+    
+});
+
+//bind datepicker to date box on events page
+$(document).on('pageinit', '#page_events', function(){       
+    $('#date').datepicker({
+		minDate: new Date(),
+		dateFormat: 'mm/dd/yy',
+		onSelect: function(dateText, inst) {
+			var newdate = $(this).val();
+			window.location = "/events?date="+newdate+"&et=" ;
+		}
+	});
+});
+
+//bind datepicker to date box on theatre page
+$(document).on('pageinit', '#page_theatre', function(){       
+    $('#date').datepicker({
+		minDate: new Date(),
+		dateFormat: 'mm/dd/yy',
+		onSelect: function(dateText, inst) {
+			var newdate = $(this).val();
+			var house = $("#house_id").val();
+			window.location = "/theatre?id="+house+"&date="+newdate;
+		}
+	});
+});
+
+//bind bxslider to stills box on movies page
+$(document).on('pageshow', '#page_movie', function(){ 
+	$('.bxslider').bxSlider({});
+	
+	//for tablets, trigger 
+	var video = document.getElementById('trailer_full'),
+    play = document.getElementById('fullscreen_button'),
+    time;
+    
+	video.addEventListener('webkitbeginfullscreen', function() {
+	    play.innerText = 'Watch Trailer';
+	    window.clearInterval(time);
+	});
+	
+	video.addEventListener('webkitendfullscreen', function() {
+	    video.pause();
+	});
+	
+	play.addEventListener('touchstart', function() {
+	    time = window.setInterval(function() {
+	        try {
+	            video.webkitEnterFullscreen();
+	        }
+	        catch(e) {}
+	    }, 250);
+	    play.innerText = 'loading ...';
+	    video.play();   
+	});
+});
+	
+//add this button
+var addthis_config = {
+    username: "westworldmedia",
+    ui_cobrand: "EventsAbout",
+    ui_click : "true"
+}
+</script>
+
+<!-- AddThis -->
+<script type='text/javascript' src='//s7.addthis.com/js/250/addthis_widget.js#pub=westworldmedia'></script>
+
+</head>
+
+<title>South Hadley's Tower Theaters | Abenity</title>
+
+<body>
+	<div data-role="page" id="page_theatre">
+		
+		<script src="/js/nested.js"></script>
+<!-- Add fancyBox main JS and CSS files -->
+<script type="text/javascript" src="/fancybox/source/jquery.fancybox.js?v=2.0.6"></script>
+<link rel="stylesheet" type="text/css" href="/fancybox/source/jquery.fancybox.css?v=2.0.6" media="screen" />
+<script>
+    $(function() {
+        $(".fancyboxiframe").fancybox({
+	    maxWidth	: 350,
+		maxHeight	: 600,
+		width		: 340,
+		height		: 590,
+		padding		: 0,
+		margin		: 0,
+		fitToView	: false,
+		autoSize	: false,
+		closeClick	: false,
+		openEffect	: 'none',
+		closeEffect	: 'none'
+		});
+    });
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5458YK7T94"></script>
+<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-5458YK7T94'); </script>
+
+
+
+
+<div id="header" data-role="header" data-position="fixed">
+
+	
+		<img id="logo" src="/css/themes/abenity/img/logo.png" />
+	
+</div>
+
+
+
+<div data-icon="bars" id="navpanel" data-role="panel" data-position="left" data-display="overlay" dismissible="true">
+    <ul data-role="listview" data-theme="b">
+    	<li data-role="list-divider" data-theme="c"></li>
+    	
+    	
+
+	    <li><a href="http://admin.eventsabout.com/add.php?af=abenity"  data-fancybox-type="iframe" class="fancyboxiframe">Add Events</a></li>
+
+	    
+	    <li><a href="/movies">Movies</a></li>
+	    
+	    <li><a href="/theatres">Theaters</a></li>
+	    
+	</ul>
+</div> 
+
+
+		
+		<div id="content">
+			
+			
+			<div>
+				<a href="/search" data-role="button" data-theme="c" data-min="true" class="center get-location">Change My Location</a>
+			</div>
+			<h3>South Hadley's Tower Theaters</h3><p class='tighten'>19 College Street, <span class='city'>South Hadley, MA 01075</span></p><p><strong>Website:</strong> <span class='link'><a href='http://www.towertheaters.com/'>http://www.towertheaters.com/</a></span></p>
+			
+			<form id="frmMovieDate" method="get">
+				<input type="hidden" id="house_id" value="725" />
+				<input type="text" id="date" class="ghost" value="Tuesday, November 24, 2026" readonly />
+			</form>
+			
+			<div id='movie'><a href='/movie?id=365727'><img src='https://movienewsletters.net/photos/365727H1.jpg' class='poster' /></a><div class='info'><a href='/movie?id=365727'><h3>The Hunger Games: Sunrise on the Reaping (PG-13)</h3></a><p><strong>Cast:</strong> Joseph Zada, Whitney Peak<br /><strong>Runtime:</strong> 2 hr. 38 mins.<br /><br /><span class='synopsis'>From acclaimed director Francis Lawrence, THE HUNGER GAMES: SUNRISE ON THE REAPING follows sixteen-year-old Haymitch Abernathy (Joseph Zada) from District 12, beginning on the morning of the reaping for the 50th Annual Hunger Games, also known as the Second Quarter Quell, the biggest Games yet with twice as many tributes.Set in the world of Panem 24 years before the events of The Hunger Games, the story follows Haymitch into the arena, where he forms an unlikely alliance with fellow tribute Maysilee Donner (Mckenna Grace) and joins a coalition determined to challenge the Capitol’s control under President Snow (Ralph Fiennes). As the competition unfolds, Haymitch risks everything to take down the Games from within the arena — setting in motion the rebellion that will change Panem forever.</span></p><div class='showtimes'><span class='comment'>AudioDescription &bull; ClosedCaption &bull; Digital Projection &bull; HearingImpaired &bull; ReservedSeating                   </span><div class="ticketing"><a href="http://tix.mvtx.us/?movie_id=365727&house_id=725&perfd=11242026&perft=09:30&code=reserved" target="_blank">9:30&nbsp;AM</a></div><div class="ticketing"><a href="http://tix.mvtx.us/?movie_id=365727&house_id=725&perfd=11242026&perft=12:30&code=reserved" target="_blank">12:30&nbsp;PM</a></div><div class="ticketing"><a href="http://tix.mvtx.us/?movie_id=365727&house_id=725&perfd=11242026&perft=15:30&code=reserved" target="_blank">3:30&nbsp;PM</a></div><div class="ticketing"><a href="http://tix.mvtx.us/?movie_id=365727&house_id=725&perfd=11242026&perft=18:30&code=reserved" target="_blank">6:30&nbsp;PM</a></div></div></div></div><div id='movie'><a href='/movie?id=404123'><img src='https://movienewsletters.net/photos/404123H1.jpg' class='poster' /></a><div class='info'><a href='/movie?id=404123'><h3>Ebenezer (PG-13)</h3></a><p><strong>Cast:</strong> Johnny Depp, Rupert Grint<br /><strong>Runtime:</strong> 1 hr. 56 mins.<br /><br /><span class='synopsis'>This November, prepare to be ghosted. Johnny Depp is the deliciously unpleasant Ebenezer Scrooge in a thrilling reimagining of the most iconic ghost story of all time. On one unforgettable Christmas Eve, Ebenezer collides with his past, present, and future on a supernatural journey that will decide his ultimate fate. If you think you know his story, think again.</span></p><div class='showtimes'><span class='comment'>AudioDescription &bull; ClosedCaption &bull; Digital Projection &bull; ReservedSeating                                   </span><div class="ticketing"><a href="http://tix.mvtx.us/?movie_id=404123&house_id=725&perfd=11242026&perft=10:00&code=reserved" target="_blank">10:00&nbsp;AM</a></div><div class="ticketing"><a href="http://tix.mvtx.us/?movie_id=404123&house_id=725&perfd=11242026&perft=13:00&code=reserved" target="_blank">1:00&nbsp;PM</a></div><div class="ticketing"><a href="http://tix.mvtx.us/?movie_id=404123&house_id=725&perfd=11242026&perft=15:45&code=reserved" target="_blank">3:45&nbsp;PM</a></div><div class="ticketing"><a href="http://tix.mvtx.us/?movie_id=404123&house_id=725&perfd=11242026&perft=18:15&code=reserved" target="_blank">6:15&nbsp;PM</a></div></div></div></div>
+		</div>
+		
+		
+	</div>
+</body>
+
+</html>

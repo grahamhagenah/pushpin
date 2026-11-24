@@ -157,6 +157,7 @@ VENUE_ADDRESSES = {
     "UMass Amherst": ("151 Presidents Dr", "Amherst", "01003"),
     "Amherst College": ("220 South Pleasant St", "Amherst", "01002"),
     "New City Brewery": ("180 Pleasant St", "Easthampton", "01027"),
+    "Tower Theaters": ("19 College St", "South Hadley", "01075"),
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
@@ -1845,6 +1846,41 @@ def read_venuepilot(source):
             events.append(dict(listing, category=venuepilot_kind(title, first)))
         meta = found.get("metadata") or {}
         number = number + 1 if number < (meta.get("totalPages") or 1) and number < 10 else None
+    return events
+
+
+def read_abenity(source):
+    """A cinema's showtimes from Abenity's movie pages (Tower Theaters', South Hadley, whose own site loads them
+    from a server that turns Pushpin away), a day to a page (&date=11/27/2026), for the next two weeks or until a
+    day after the first has none: each film's name (without its rating), poster, cast and running time, what it's
+    about, and its times. Linked to the theater's own site, which the page names, not to Abenity's."""
+    events, empty = [], 0
+    for ahead in range(14):
+        day = today() + timedelta(days=ahead)
+        page = fetch(f"{source['url']}&date={day:%m/%d/%Y}", encoding="cp1252")
+        site = re.search(r"Website:\s*</strong>\s*<a[^>]*>\s*(https?://[^<\s]+)|Website:\s*(?:<[^>]+>\s*)*(https?://[^<\s]+)", page)
+        home = (site.group(1) or site.group(2)) if site else source["url"]
+        films = page.split("<div id='movie'>")[1:]
+        if not films:
+            empty += 1
+            if ahead and empty >= 2:
+                break
+            continue
+        for film in films:
+            named = re.search(r"<h3>(.*?)</h3>", film, re.S)
+            times = sorted({datetime.strptime(f"{hour}:{minute}", "%H:%M").time()
+                            for hour, minute in re.findall(r"perft=(\d{2}):(\d{2})", film)})
+            if not (named and times):
+                continue
+            title = re.sub(r"\s*\((?:G|PG|PG-13|R|NC-17|NR|Not Rated|Unrated)\)\s*$", "", text(named.group(1)))
+            said = re.search(r"<span class='synopsis'>(.*?)</span>", film, re.S)
+            runtime = re.search(r"Runtime:</strong>\s*([^<]+)", film)
+            poster = re.search(r"<img src='([^']+)' class='poster'", film)
+            described = about(said.group(1)) if said else []
+            if runtime:
+                described.append(text(runtime.group(1)).rstrip("."))
+            listing = event(source, title, day, times[0], link=home, about=described, image=poster.group(1) if poster else "")
+            events.append(dict(listing, times=times, category="film"))
     return events
 
 
@@ -3570,6 +3606,7 @@ READERS = {
     "marigold": read_marigold,
     "wixevents": read_wix_events,
     "venuepilot": read_venuepilot,
+    "abenity": read_abenity,
     "academyofmusic": read_academy_of_music,
     "phoenix": read_phoenix,
     "spektrix": read_spektrix,
