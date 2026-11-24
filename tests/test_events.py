@@ -866,7 +866,7 @@ class WesternMass(unittest.TestCase):
         self.assertEqual({s["name"] for s in sources}, {"Mass MoCA", "Amherst Cinema", "Images Cinema", "Triplex Cinema",
                                                        "Iron Horse", "Parlor Room", "The Drake", "Mahaiwe", "Shea Theater",
                                                        "Academy of Music", "Beacon Cinema", "Colonial Theatre", "UMass Fine Arts Center",
-                                                       "Calvin Theatre", "Pearl Street", "Bombyx", "Marigold Theater",
+                                                       "Calvin Theatre", "Bombyx", "Marigold Theater",
                                                        "UMass Amherst", "Mount Holyoke", "Smith College"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)

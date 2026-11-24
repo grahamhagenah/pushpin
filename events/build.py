@@ -147,7 +147,6 @@ VENUE_ADDRESSES = {
     "Beacon Cinema": ("57 North St", "Pittsfield", "01201"),
     "Colonial Theatre": ("111 South St", "Pittsfield", "01201"),
     "Calvin Theatre": ("19 King St", "Northampton", "01060"),
-    "Pearl Street": ("10 Pearl St", "Northampton", "01060"),
     "Bombyx": ("130 Pine St", "Florence", "01062"),
     "Garden Cinemas": ("361 Main St", "Greenfield", "01301"),
     "Marigold Theater": ("84 Cottage St", "Easthampton", "01027"),
