@@ -146,6 +146,10 @@ VENUE_ADDRESSES = {
     "Academy of Music": ("274 Main St", "Northampton", "01060"),
     "Beacon Cinema": ("57 North St", "Pittsfield", "01201"),
     "Colonial Theatre": ("111 South St", "Pittsfield", "01201"),
+    "Calvin Theatre": ("19 King St", "Northampton", "01060"),
+    "Pearl Street": ("10 Pearl St", "Northampton", "01060"),
+    "Bombyx": ("130 Pine St", "Florence", "01062"),
+    "Garden Cinemas": ("361 Main St", "Greenfield", "01301"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
     # knows it by; the neighborhood, which is how anyone there thinks of it, is in VENUE_AREAS.
     "Union Pool": ("484 Union Ave", "Brooklyn", "NY", "11211"),
@@ -1637,6 +1641,87 @@ def read_shea(source):
                                 link=urljoin(source["url"], html.unescape(shown.group(2))), detail=detail,
                                 about=[described] if described else [], image=urljoin(source["url"], f"/calendar/calendar_{shown.group(3)}_large.jpg"))
                 events.append(dict(listing, category=category))
+    return events
+
+
+# What Bombyx (Florence) lists that's a class or a gathering more than a show: its dance and drumming classes,
+# workshops, jams, markets, services, a couples' course, a memorial.
+BOMBYX_SKIP = re.compile(r"\b(class|classes|workshop|jam|market|service|factory|relationship|celebration of life|"
+                         r"drumming with|yoga|meditation|support group)\b", re.I)
+
+
+def read_bombyx(source):
+    """Bombyx Center for Arts & Equity's events (Florence), a card each, a few dozen to a page (/events/page/2/
+    on): its day, a line under its name, its time, its price and its page. Its name is only in its picture, so
+    it's from its page's schema.org data, with what it's about and its picture. Not its classes, workshops and
+    the like (BOMBYX_SKIP); its films, readings and talks sorted from its concerts by name (guess_kind)."""
+    events, here = [], today()
+    for number in range(1, 6):
+        page = fetch(source["url"] if number == 1 else urljoin(source["url"], f"page/{number}/"))
+        for card in page.split('class="oxy-superbox flipy"')[1:]:
+            link = re.search(r'href="(https://bombyx\.live/events/[^"/]+/)"', card)
+            lines = [line for line in (text(part) for part in re.split(r"<[^>]+>", re.sub(r"<svg.*?</svg>", "", card, flags=re.S)))
+                     if line and not line.startswith("data-id=")]
+            clock_at = next((n for n, line in enumerate(lines) if re.fullmatch(r"\d{1,2}:\d{2} [ap]m", line)), None)
+            if not link or clock_at is None or clock_at < 1:
+                continue
+            day = yearless(*lines[0].split(), here) if len(lines[0].split()) == 2 else None
+            if not day or day < here:
+                continue
+            # Between its day, given twice, and its time: a line under its name, where it has one.
+            under = next((line for line in lines[1:clock_at] if line != lines[0]), "")
+            price = lines[clock_at + 1] if clock_at + 1 < len(lines) and lines[clock_at + 1] not in ("INFO", "TICKETS") else ""
+            said = {}
+            for block in re.findall(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', fetch(link.group(1)), re.S):
+                try:
+                    said = json.loads(block)
+                except ValueError:
+                    continue
+                if isinstance(said, dict) and said.get("name"):
+                    break
+            title = text(said.get("name") or "") if isinstance(said, dict) else ""
+            if not title or BOMBYX_SKIP.search(title) or BOMBYX_SKIP.search(under):
+                continue
+            described = about(said.get("description") or "")
+            # By its name alone: a singer's description says she's an author too (Rickie Lee Jones's memoir). And
+            # "An Evening with" a singer is a concert here, not a talk, as guess_kind would have it.
+            category = guess_kind(title)
+            if category == "art" and not re.search(r"\b(reading|talk|lecture|conversation|poetry|dance)\b", title, re.I):
+                category = "music"
+            if not category:
+                continue
+            listing = event(source, title, day, datetime.strptime(lines[clock_at].upper(), "%I:%M %p").time(), link=link.group(1),
+                            detail=under, about=described, image=said.get("image") if isinstance(said.get("image"), str) else "",
+                            price=price if len(price) <= 40 else "")
+            events.append(dict(listing, category=category))
+        if f'/events/page/{number + 1}/"' not in page:
+            break
+    return events
+
+
+def read_garden_cinemas(source):
+    """Greenfield Garden Cinemas' showtimes, a day to a page (?vdate=11/24/2026), each film with its page, its
+    poster and its times ("8:30p"), for the days its date slider offers, as far ahead as films are listed."""
+    events, last = [], window_end("film")
+    first = fetch(source["url"])
+    days = sorted({datetime.strptime(found, "%m/%d/%Y").date() for found in re.findall(r'\?vdate=(\d{2}/\d{2}/\d{4})', first)})
+    for day in days:
+        if not today() <= day <= last:
+            continue
+        page = fetch(urljoin(source["url"], f"?vdate={day:%m/%d/%Y}"))
+        for block in page.split('class="row listitem')[1:]:
+            named = re.search(r'<h3 class="title[^"]*"\s*>(.*?)</h3>', block, re.S)
+            link = re.search(r'href="(/movie/[^"]+)"', block)
+            if not (named and link):
+                continue
+            times = sorted({datetime.strptime(f"{hour}:{minute} {half}M".upper(), "%I:%M %p").time()
+                            for hour, minute, half in re.findall(r">\s*(\d{1,2}):(\d{2})([ap])\s*<", block)})
+            if not times:
+                continue
+            poster = re.search(r'<img[^>]+src="(https://img\.cnmhstng\.com/[^"]+)"', block)
+            listing = event(source, text(named.group(1)), day, times[0], link=urljoin(source["url"], link.group(1)),
+                            image=poster.group(1) if poster else "")
+            events.append(dict(listing, times=times))
     return events
 
 
@@ -3159,6 +3244,8 @@ READERS = {
     "mahaiwe": read_mahaiwe,
     "elfsight": read_elfsight,
     "shea": read_shea,
+    "bombyx": read_bombyx,
+    "gardencinemas": read_garden_cinemas,
     "academyofmusic": read_academy_of_music,
     "phoenix": read_phoenix,
     "spektrix": read_spektrix,

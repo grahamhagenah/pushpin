@@ -98,6 +98,16 @@ ROUTES = [
     ("spektrix.com/berkshiretheatregroup/api/v3/instances", "spektrix_instances.json"),
     ("berkshiretheatregroup.org/", "btg_home.html"),  # Its calendar and home page, for each event's page.
     ("arts.umass.edu/performing-arts/events", "umass_fac.html"),
+    # Bombyx's events' pages, for their names; any other event's page holds no name, and its event is left out.
+    ("bombyx.live/events/page/", "empty.html"),  # Its later pages.
+    ("bombyx.live/events/an-evening-with-tom-rush-2/", "bombyx_an-evening-with-tom-rush-2.html"),
+    ("bombyx.live/events/rickie-lee-jones-2/", "bombyx_rickie-lee-jones-2.html"),
+    ("bombyx.live/events/5rhythms-dance-class-12-5-26/", "bombyx_5rhythms-dance-class-12-5-26.html"),
+    ("bombyx.live/events/film-night-dreaming-of-a-jewish-christmas/", "bombyx_film-night-dreaming-of-a-jewish-christmas.html"),
+    ("bombyx.live/events/", "bombyx.html"),
+    ("gardencinemas.net/?vdate=11/24/2026", "garden.html"),
+    ("gardencinemas.net/?vdate=", "empty.html"),  # Its other days.
+    ("gardencinemas.net", "garden.html"),
     # Pushpin NYC's.
     ("filmforum.org", "filmforum.html"),
     ("metrograph.com/nyc", "metrograph.html"),
@@ -713,6 +723,31 @@ class WesternMass(unittest.TestCase):
         self.assertTrue(by_title["Sam Grisman Project"]["about"])
         screening = next(item for item in found if item["title"].startswith("Friday the 13th"))
         self.assertEqual(screening["category"], "film")
+
+    def test_bombyx_its_shows_by_their_pages_names_and_not_its_classes(self):
+        with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
+            found = build.read_bombyx(source("bombyx", "https://bombyx.live/events/", "music", "Bombyx"))
+        by_title = {item["title"]: item for item in found}
+        rush = by_title["An Evening with Tom Rush"]
+        self.assertEqual((rush["date"], rush["times"], rush["category"]), (date(2026, 12, 5), [time(19, 0)], "music"),
+                         "a singer's evening a concert, not a talk")
+        self.assertEqual(rush["detail"], "Accompanied by Matt Nakoa and Brendan Cleary", "the line under its name")
+        self.assertEqual(rush["price"], "$35-50")
+        self.assertTrue(rush["about"] and rush["image"] and rush["link"] == "https://bombyx.live/events/an-evening-with-tom-rush-2/")
+        self.assertEqual(by_title["Rickie Lee Jones"]["category"], "music", "by her name, not her memoir in what's said about her")
+        self.assertEqual(by_title["Film Night! “Dreaming of a Jewish Christmas”"]["category"], "film")
+        self.assertFalse([title for title in by_title if "5Rhythms" in title], "not its dance classes")
+        self.assertEqual(len(found), 3, "only those whose pages give a name")
+
+    def test_garden_cinemas_a_day_to_a_page(self):
+        with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
+            found = build.read_garden_cinemas(source("gardencinemas", "https://www.gardencinemas.net/", "film", "Garden Cinemas"))
+        by_title = {item["title"]: item for item in found}
+        self.assertEqual(len(found), 10, "the day sampled; the others' pages are empty")
+        self.assertEqual((by_title["Hexed"]["date"], by_title["Hexed"]["times"]), (date(2026, 11, 24), [time(15, 30), time(18, 0), time(20, 30)]),
+                         "its 3D showing and its others together")
+        self.assertEqual(by_title["Hexed"]["link"], "https://www.gardencinemas.net/movie/Hexed")
+        self.assertTrue(by_title["Hexed"]["image"].startswith("https://img.cnmhstng.com/"))
 
     def test_academy_of_music(self):
         with mock.patch.object(build, "today", lambda: date(2026, 9, 15)):
