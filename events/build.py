@@ -152,6 +152,7 @@ VENUE_ADDRESSES = {
     "Marigold Theater": ("84 Cottage St", "Easthampton", "01027"),
     "The Heavy Culture": ("1 Northampton St", "Easthampton", "01027"),
     "CitySpace": ("43 Main St", "Easthampton", "01027"),
+    "New City Brewery": ("180 Pleasant St", "Easthampton", "01027"),
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office

@@ -906,7 +906,7 @@ class WesternMass(unittest.TestCase):
                                                        "Iron Horse", "Parlor Room", "The Drake", "Mahaiwe", "Shea Theater",
                                                        "Academy of Music", "Beacon Cinema", "Colonial Theatre", "UMass Fine Arts Center",
                                                        "Calvin Theatre", "Bombyx", "Marigold Theater",
-                                                       "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture", "CitySpace"})
+                                                       "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture", "CitySpace", "New City Brewery"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             if s["name"] not in ("UMass Fine Arts Center", "UMass Amherst"):  # Its events are in halls around campus, and town, which each says.
