@@ -109,6 +109,7 @@ ROUTES = [
     ("gardencinemas.net/?vdate=", "empty.html"),  # Its other days.
     ("gardencinemas.net", "garden.html"),
     ("theheavyculture.coop/shows", "heavyculture.html"),
+    ("doubleedgetheatre.org/events", "doubleedge.html"),
     ("m.movies.abenity.com/theatre?id=725&date=11/24/2026", "abenity.html"),
     ("m.movies.abenity.com/theatre", "empty.html"),  # Its other days.
     ("amherst.edu/news/events/calendar?f%5B0%5D=type_of_event%3Alec&f%5B1%5D=type_of_event%3Aperform&page=", "empty.html"),
@@ -836,6 +837,22 @@ class WesternMass(unittest.TestCase):
         self.assertNotIn("Artemis", by_title, "at the Drake, whose own calendar has it")
         self.assertEqual(len(found), 2)
 
+    def test_double_edge_its_performances_here_a_night_each(self):
+        # Its sample is its real cards, from its past events, under its upcoming heading: it had none upcoming then.
+        with mock.patch.object(build, "today", lambda: date(2026, 10, 1)):
+            found = build.read_double_edge(source("doubleedge", "https://doubleedgetheatre.org/events/", "art", "Double Edge Theatre"))
+        forest = [item for item in found if item["title"] == "Out of the Darkest Forest"]
+        self.assertEqual([item["date"] for item in forest], [date(2026, 11, 19), date(2026, 11, 20), date(2026, 11, 21)],
+                         "a listing a night, Nov 19 — Nov 21")
+        self.assertEqual((forest[0]["times"], forest[0]["category"], forest[0]["detail"]), ([], "art", "The Farm Center"))
+        self.assertTrue(forest[0]["link"].startswith("https://doubleedgetheatre.org/eventos/") and forest[0]["image"])
+        evening = next(item for item in found if item["detail"] == "Shea Theater Arts Center")
+        self.assertEqual(evening["address"][1], "Turners Falls", "at the Shea, at its address")
+        titles = {item["title"] for item in found}
+        self.assertNotIn("Fall Community Day", titles, "not its community days")
+        self.assertNotIn("Fall 2026 Open Training", titles, "nor its trainings")
+        self.assertFalse([item for item in found if "Lenfest" in item["detail"]], "nor where it tours")
+
     def test_tower_theaters_from_abenity_linked_to_its_own_site(self):
         with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
             found = build.read_abenity(source("abenity", "https://m.movies.abenity.com/theatre?id=725", "film", "Tower Theaters"))
@@ -943,7 +960,7 @@ class WesternMass(unittest.TestCase):
                                                        "Academy of Music", "Beacon Cinema", "Colonial Theatre", "UMass Fine Arts Center",
                                                        "Calvin Theatre", "Bombyx", "Marigold Theater",
                                                        "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture", "CitySpace", "New City Brewery",
-                                                       "Amherst College", "Tower Theaters", "Agawam Cinemas"})
+                                                       "Amherst College", "Tower Theaters", "Agawam Cinemas", "Double Edge Theatre"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             self.assertIn(s["name"], build.VENUE_ADDRESSES, "each under its town in the venue menu")

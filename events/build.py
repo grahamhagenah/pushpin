@@ -159,6 +159,7 @@ VENUE_ADDRESSES = {
     "New City Brewery": ("180 Pleasant St", "Easthampton", "01027"),
     "Tower Theaters": ("19 College St", "South Hadley", "01075"),
     "Agawam Cinemas": ("866 Suffield St", "Agawam", "01001"),
+    "Double Edge Theatre": ("948 Conway Rd", "Ashfield", "01330"),
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
@@ -1887,6 +1888,50 @@ def read_abenity(source):
     return events
 
 
+def read_double_edge(source):
+    """Double Edge Theatre's events page (Ashfield), its upcoming events' cards, before its past ones': each one's
+    kind (its badge), its days ("Nov 19 — Nov 21", a listing for each), where it is, its picture, its page and the
+    start of what it's about. No times, which its pages give only in their prose. Only its performances and
+    conversations, not its trainings, workshops or community days; and only at its own grounds in Ashfield or
+    nearby (DOUBLE_EDGE_HERE), not on tour."""
+    page = fetch(source["url"])
+    upcoming = page.split("Past Events", 1)[0]
+    events, here = [], today()
+    for card in upcoming.split('<article class="ev-page-card">')[1:]:
+        field = lambda name: re.search(rf'class="ev-page-card__{name}">(.*?)</(?:span|h3|p)>', card, re.S)
+        kind, days, named, place = field("badge"), field("date"), field("title"), field("venue")
+        link = re.search(r'<a href="([^"]+)" class="ev-page-card__link"', card)
+        if not (kind and days and named and link) or text(kind.group(1)) not in ("Performance", "Conversation"):
+            continue
+        where = text(place.group(1)) if place else ""
+        if not DOUBLE_EDGE_HERE.search(where):
+            continue
+        ends = [part.strip() for part in re.split(r"[—–-]", text(days.group(1)))]
+        first = yearless(*ends[0].split()[:2], here) if len(ends[0].split()) >= 2 else None
+        last = (yearless(*ends[-1].split()[:2], here) if len(ends[-1].split()) >= 2 else first) if len(ends) > 1 else first
+        if not first:
+            continue
+        last = last if last and last >= first else first
+        picture = re.search(r'<img src="([^"]+)"', card)
+        said = field("excerpt")
+        line = re.sub(r"\s*\[\.\.\.\]$", "…", text(said.group(1))) if said else ""
+        title = text(named.group(1))
+        address = VENUE_ADDRESSES.get("Shea Theater") if re.search(r"\bshea\b", where, re.I) else None
+        for offset in range((last - first).days + 1):
+            day = first + timedelta(days=offset)
+            if day < here:
+                continue
+            listing = event(source, title, day, None, link=link.group(1), detail=where, about=[line] if line else [],
+                            address=address, image=html.unescape(picture.group(1)) if picture else "")
+            events.append(dict(listing, category="art"))  # A theater company's: its performances are theater.
+    return events
+
+
+# Where Double Edge's events are Pushpin Western Mass's: its farm and grounds in Ashfield, and the Shea in Turners
+# Falls; not where it tours (Columbia's Lenfest Center, in New York).
+DOUBLE_EDGE_HERE = re.compile(r"\bfarm center\b|\bashfield\b|\bshea\b", re.I)
+
+
 def read_garden_cinemas(source):
     """Greenfield Garden Cinemas' showtimes, a day to a page (?vdate=11/24/2026), each film with its page, its
     poster and its times ("8:30p"), for the days its date slider offers, as far ahead as films are listed."""
@@ -3610,6 +3655,7 @@ READERS = {
     "wixevents": read_wix_events,
     "venuepilot": read_venuepilot,
     "abenity": read_abenity,
+    "doubleedge": read_double_edge,
     "academyofmusic": read_academy_of_music,
     "phoenix": read_phoenix,
     "spektrix": read_spektrix,
