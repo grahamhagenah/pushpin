@@ -5868,9 +5868,13 @@ INDEX_JS = """
   // Scrolling back up brings the search back down into the bar (revealed), to search again without going back to
   // the top; scrolling on down the list puts it away again.
   let revealed = false;
+  // The room over the chips where it's stuck is --room-over, a little more than the bar has under them, so they
+  // don't sit hard against the top of the window.
   const barHeight = () => {
+    const style = getComputedStyle(filter);
+    const over = parseFloat(style.getPropertyValue("--room-over")) || parseFloat(style.paddingBottom);
     const lift = Math.max(0, Math.ceil(filter.querySelector(".chips [data-show]").getBoundingClientRect().top
-      - filter.getBoundingClientRect().top - parseFloat(getComputedStyle(filter).paddingBottom)));
+      - filter.getBoundingClientRect().top - over));
     document.documentElement.style.setProperty("--lift", lift + "px");
     document.documentElement.style.setProperty("--bar", Math.floor(filter.getBoundingClientRect().height - (revealed ? 0 : lift)) + "px");
     // A day's heading's too, which sticks under the bar.
@@ -6733,8 +6737,10 @@ PIN_CSS = """
   /* The bar as a phone has it, on a wide screen too (below): less padding than a bar of one line had, the same
      room around it where it isn't stuck. */
   @media all {
-    .filter { padding: .3rem 0; margin-bottom: -1.35rem; }
-    h1.tagline + .bar-mark + .filter, .lead + .bar-mark + .filter { margin-top: -.3rem; }
+    /* Its top padding the room over the chips where it's stuck (--room-over), clear of the top of the window, and
+       taken back out of its margin, so where it isn't stuck it sits where it always has. */
+    .filter { padding: var(--room-over, .3rem) 0 .3rem; margin-top: calc(-1rem - var(--room-over, .3rem)); margin-bottom: -1.35rem; }
+    h1.tagline + .bar-mark + .filter, .lead + .bar-mark + .filter { margin-top: calc(-1 * var(--room-over, .3rem)); }
   }
   /* Once it's stuck over the list, its edge: no line, a shadow, so the listings dim as they go under rather than
      being cut off. Easing out, darkest at the bar and lifting slowly from there. It comes in gently as the bar
@@ -6768,6 +6774,8 @@ PIN_CSS = """
     .filter { top: calc(-1 * var(--lift, 0px)); row-gap: .95rem; column-gap: 0; align-items: center; }
     /* Room under the chips where the bar is stuck, and the day's label the same distance under them where it isn't. */
     .filter { padding-bottom: .55rem; margin-bottom: -1.35rem; }
+    /* And over them where it's stuck, a little more, clear of the top of the window (the script reads it, in px). */
+    .filter { --room-over: 14px; }
     /* Scrolling back up, the search's line slides back down into the bar, and the day's heading held under the
        bar with it; scrolling on down, both slide back up. */
     .filter.revealed { top: 0; }
