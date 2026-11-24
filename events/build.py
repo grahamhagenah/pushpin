@@ -151,6 +151,7 @@ VENUE_ADDRESSES = {
     "Garden Cinemas": ("361 Main St", "Greenfield", "01301"),
     "Marigold Theater": ("84 Cottage St", "Easthampton", "01027"),
     "The Heavy Culture": ("1 Northampton St", "Easthampton", "01027"),
+    "CitySpace": ("43 Main St", "Easthampton", "01027"),
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
@@ -1788,6 +1789,58 @@ def read_wix_events(source):
 # What a venue's Wix calendar has that isn't a show: its markets, swaps and drives, contests, and open nights for
 # whoever turns up. (Karaoke and trivia are skip.txt's, for every venue.)
 WIX_SKIP = re.compile(r"\bmarket\b|\bswap\b|\bdrive\b|\bcontest\b|\bopen projector\b", re.I)
+
+
+VENUEPILOT_EVENTS = """query ($accountIds: [Int!]!, $startDate: String!, $endDate: String, $page: Int) {
+  paginatedEvents(arguments: {accountIds: $accountIds, startDate: $startDate, endDate: $endDate, page: $page}) {
+    collection { id name date startTime minimumAge support description status ticketsUrl images }
+    metadata { currentPage totalPages } } }"""
+# What a VenuePilot venue lists that isn't a show: a tour of its building, a market.
+VENUEPILOT_SKIP = re.compile(r"\btour of\b|\bmarket\b", re.I)
+
+
+def venuepilot_kind(title, said):
+    """A VenuePilot venue's event's kind, by its name and its first words: film for a screening; art & talks for
+    an exhibition or its reception, a play, puppetry or theater; else music. Not "play" alone, which a singer does."""
+    if re.search(r"\b(?:film|films|screening|documentary|movie)\b", title, re.I):
+        return "film"
+    staged = r"\bexhibition\b|\breception\b|\b(?:solo |a |new )play\b|\bpuppet\w*|\btheat(?:er|re)\b"
+    return "art" if re.search(staged, f"{title} {said}", re.I) else "music"
+
+
+def read_venuepilot(source):
+    """A venue whose calendar is VenuePilot's widget (CitySpace's, Easthampton), from the GraphQL API it loads
+    its events from, by the venue's account id, after the # in its events page's address. Each with its name
+    (without "CitySpace Presents:"), the line under it, its start, its picture, its tickets' page and what it's
+    about; free where it says so, and its age limit. Its exhibitions, plays and puppetry sorted from its concerts
+    (venuepilot_kind); not its building's tour or its market (VENUEPILOT_SKIP)."""
+    page, _, account = source["url"].partition("#")
+    house = source["name"]
+    events, number = [], 1
+    while number:
+        answer = post_json("https://www.venuepilot.co/graphql", {"query": VENUEPILOT_EVENTS, "variables": {
+            "accountIds": [int(account)], "startDate": today().isoformat(), "endDate": window_end("music").isoformat(), "page": number}})
+        found = (answer.get("data") or {}).get("paginatedEvents") or {}
+        for item in found.get("collection") or []:
+            title, detail = presented(text(item.get("name") or ""), house)
+            if not title or not item.get("date") or VENUEPILOT_SKIP.search(title):
+                continue
+            described = about(item.get("description") or "")
+            first = " ".join(described[:2])
+            # Comedy, which isn't listed, by its name: a "comedy-drama play" in its words is a play.
+            if guess_kind(title) is None:
+                continue
+            start = datetime.strptime(item["startTime"][:5], "%H:%M").time() if item.get("startTime") else None
+            images = item.get("images") or []
+            age = item.get("minimumAge")
+            listing = event(source, title, date.fromisoformat(item["date"]), start,
+                            link=item.get("ticketsUrl") or page, detail=text(item.get("support") or "") or detail,
+                            about=described, image=images[0] if images and isinstance(images[0], str) else "",
+                            price="Free" if item.get("status") == "Free" else "", ages=f"{age}+" if age else "")
+            events.append(dict(listing, category=venuepilot_kind(title, first)))
+        meta = found.get("metadata") or {}
+        number = number + 1 if number < (meta.get("totalPages") or 1) and number < 10 else None
+    return events
 
 
 def read_garden_cinemas(source):
@@ -3466,6 +3519,7 @@ READERS = {
     "gardencinemas": read_garden_cinemas,
     "marigold": read_marigold,
     "wixevents": read_wix_events,
+    "venuepilot": read_venuepilot,
     "academyofmusic": read_academy_of_music,
     "phoenix": read_phoenix,
     "spektrix": read_spektrix,

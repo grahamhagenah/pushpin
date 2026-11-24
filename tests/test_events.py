@@ -817,6 +817,31 @@ class WesternMass(unittest.TestCase):
         self.assertFalse([item for item in found if item["date"] < date(2026, 11, 24)], "not what's past")
         self.assertEqual(len(found), 11)
 
+    def test_cityspace_from_venuepilot(self):
+        answer = json.loads((FIXTURES / "venuepilot.json").read_text())
+        asked = []
+        post = lambda url, body, headers=None: asked.append(body["variables"]) or answer
+        with mock.patch.object(build, "post_json", post), mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
+            found = build.read_venuepilot(source("venuepilot", "https://www.cityspaceeasthampton.org/all-events/#924", "music", "CitySpace"))
+        self.assertEqual(asked[0]["accountIds"], [924], "its account, from after the # in its line")
+        by_title = {}
+        for item in found:
+            by_title.setdefault(item["title"], item)
+        mind = by_title["Mind Left Body"]
+        self.assertEqual((mind["date"], mind["times"], mind["category"]), (date(2026, 11, 28), [time(20, 0)], "music"),
+                         "its show's time, not its doors'; CitySpace Presents: out of its name")
+        self.assertEqual((mind["detail"], mind["ages"]), ("Back on the Bus at CitySpace", "21+"))
+        self.assertTrue(mind["link"].startswith("https://tickets.venuepilot.com/") and mind["image"] and mind["about"])
+        self.assertEqual(by_title["Haley Kean - Passive Forms"]["category"], "art", "an exhibition's reception")
+        self.assertEqual(by_title["Haley Kean - Passive Forms"]["price"], "Free")
+        self.assertEqual(by_title["Scott Hsu Album Release Show"]["category"], "music", "a singer who plays isn't a play")
+        self.assertEqual(by_title["Foes of a Minimum Wage Guard"]["category"], "art", "a comedy-drama play, by its name not comedy")
+        self.assertEqual(by_title["Gogol Dreams of Gogol Dreaming"]["category"], "art", "puppetry")
+        screening = next(item for title, item in by_title.items() if title.startswith("Second Nature: Documentary Screening"))
+        self.assertEqual(screening["category"], "film")
+        self.assertNotIn("Tour of Old Town Hall", by_title)
+        self.assertNotIn("Tiny Pop-Up Market", by_title)
+
     def test_garden_cinemas_a_day_to_a_page(self):
         with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
             found = build.read_garden_cinemas(source("gardencinemas", "https://www.gardencinemas.net/", "film", "Garden Cinemas"))
@@ -881,7 +906,7 @@ class WesternMass(unittest.TestCase):
                                                        "Iron Horse", "Parlor Room", "The Drake", "Mahaiwe", "Shea Theater",
                                                        "Academy of Music", "Beacon Cinema", "Colonial Theatre", "UMass Fine Arts Center",
                                                        "Calvin Theatre", "Bombyx", "Marigold Theater",
-                                                       "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture"})
+                                                       "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture", "CitySpace"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             if s["name"] not in ("UMass Fine Arts Center", "UMass Amherst"):  # Its events are in halls around campus, and town, which each says.
