@@ -855,17 +855,20 @@ class WesternMass(unittest.TestCase):
 
     def test_tower_theaters_from_abenity_linked_to_its_own_site(self):
         with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
-            found = build.read_abenity(source("abenity", "https://m.movies.abenity.com/theatre?id=725", "film", "Tower Theaters"))
+            found = build.read_abenity(source("abenity", "https://m.movies.abenity.com/theatre?id=725#https://www.towertheaters.com/",
+                                              "film", "Tower Theaters"))
         by_title = {item["title"]: item for item in found}
         self.assertEqual(set(by_title), {"The Hunger Games: Sunrise on the Reaping", "Ebenezer"}, "without their ratings")
         ebenezer = by_title["Ebenezer"]
         self.assertEqual((ebenezer["date"], ebenezer["times"]), (date(2026, 11, 24), [time(10, 0), time(13, 0), time(15, 45), time(18, 15)]))
-        self.assertEqual(ebenezer["link"], "http://www.towertheaters.com/", "the theater's own site, not Abenity's")
+        self.assertTrue(all(item["link"] == "https://www.towertheaters.com/" for item in found), "the theater's own site, from its line")
         self.assertTrue(ebenezer["image"] and ebenezer["about"][0].startswith("This November"))
         self.assertEqual(ebenezer["about"][-1], "1 hr. 56 mins")
-        with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
-            given = build.read_abenity(source("abenity", "https://m.movies.abenity.com/theatre?id=725#https://example.org/", "film", "Tower Theaters"))
-        self.assertTrue(given and all(item["link"] == "https://example.org/" for item in given), "its own site after the #, where its line gives one")
+        with self.assertRaises(ValueError, msg="a line without its own site fails, rather than link to Abenity"):
+            build.read_abenity(source("abenity", "https://m.movies.abenity.com/theatre?id=725", "film", "Tower Theaters"))
+        sources = build.read_sources(WESTERN_MASS_SOURCES, "westernma")
+        self.assertTrue(all(re.search(r"#https?://", s["url"]) and "abenity" not in s["url"].split("#")[1]
+                            for s in sources if s["kind"] == "abenity"), "every Abenity line gives its cinema's own site")
 
     def test_cityspace_from_venuepilot(self):
         answer = json.loads((FIXTURES / "venuepilot.json").read_text())

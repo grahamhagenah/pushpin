@@ -1855,15 +1855,15 @@ def read_abenity(source):
     """A cinema's showtimes from Abenity's movie pages (Tower Theaters', South Hadley, whose own site loads them
     from a server that turns Pushpin away), a day to a page (&date=11/27/2026), for the next two weeks or until a
     day after the first has none: each film's name (without its rating), poster, cast and running time, what it's
-    about, and its times. Linked to the theater's own site, which the page names, or which its line gives after a #
-    where the page doesn't (Agawam's), not to Abenity's."""
-    url, _, own = source["url"].partition("#")
+    about, and its times. Linked to the theater's own site, which its line gives after the #, never to Abenity's: a
+    line without one is a mistake, and fails rather than send anyone to a perks site."""
+    url, _, home = source["url"].partition("#")
+    if not home.startswith("http"):
+        raise ValueError("no site of its own to link to: give it after a # in its line")
     events, empty = [], 0
     for ahead in range(14):
         day = today() + timedelta(days=ahead)
         page = fetch(f"{url}&date={day:%m/%d/%Y}", encoding="cp1252")
-        site = re.search(r"Website:\s*</strong>\s*<a[^>]*>\s*(https?://[^<\s]+)|Website:\s*(?:<[^>]+>\s*)*(https?://[^<\s]+)", page)
-        home = own or ((site.group(1) or site.group(2)) if site else url)
         films = page.split("<div id='movie'>")[1:]
         if not films:
             empty += 1
