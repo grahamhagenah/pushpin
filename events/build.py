@@ -3769,8 +3769,9 @@ def render_lead(events, built_at, before="", days=None, when=""):
             f'<ul class="fresh-list">{rows}</ul></div>')
     if film:
         # The film a card of its own, its picture beside its words in its own shape: a poster standing on its end, a
-        # still from the film lying on its side (cut to a poster's shape, a still lost most of its scene).
-        box = (64, 96) if film["standing"] else (136, 76)
+        # still from the film lying on its side (cut to a poster's shape, a still lost most of its scene), at five by
+        # four and the poster's height rather than its own sixteen by nine, which left it a thin strip beside the words.
+        box = (64, 96) if film["standing"] else (120, 96)
         picture = (f'<img class="biggest-picture" src="{html.escape(kept_picture(film["image"], box))}" alt="" '
                    f'width="{box[0]}" height="{box[1]}" decoding="async" referrerpolicy="no-referrer">') if film["image"] else ""
         parts.insert(0,
@@ -6538,9 +6539,9 @@ CSS = """
      little smaller on a phone, where the words beside it have less room. */
   .biggest { display: flex; align-items: center; gap: .9rem; color: inherit; }
   .biggest:hover { text-decoration: none; }
-  .biggest-picture { flex: none; width: 136px; height: 76px; border-radius: 4px; object-fit: cover; background: #161616; }
+  .biggest-picture { flex: none; width: 120px; height: 96px; border-radius: 4px; object-fit: cover; background: #161616; }
   .biggest.standing .biggest-picture { width: 64px; height: 96px; }
-  @media (max-width: 34rem) { .biggest:not(.standing) .biggest-picture { width: 104px; height: 58px; } }
+  @media (max-width: 34rem) { .biggest:not(.standing) .biggest-picture { width: 100px; height: 80px; } }
   .biggest-said { display: grid; gap: .15rem; min-width: 0; }
   .biggest-facts { display: block; color: #777; font-size: .85rem; line-height: 1.4; }  /* As a listing's line of when and where. */
   .biggest-facts .lead-day { color: #aaa; }

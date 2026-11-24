@@ -2273,7 +2273,7 @@ class Biggest(unittest.TestCase):
         with mock.patch.object(build, "picture_shape", return_value=(1920, 1080)):
             lying, _ = build.render_lead(events, self.built)
         self.assertIn('class="biggest" data-category="film"', lying)
-        self.assertIn('width="136" height="76"', lying)
+        self.assertIn('width="120" height="96"', lying)
 
 
 class Fallback(unittest.TestCase):
