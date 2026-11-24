@@ -1876,7 +1876,8 @@ def read_abenity(source):
                             for hour, minute in re.findall(r"perft=(\d{2}):(\d{2})", film)})
             if not (named and times):
                 continue
-            title = re.sub(r"\s*\((?:G|PG|PG-13|R|NC-17|NR|Not Rated|Unrated)\)\s*$", "", text(named.group(1)))
+            # Without its rating, or the empty brackets a film without one has ("Pinocchio: A True Story ()").
+            title = re.sub(r"\s*\((?:G|PG|PG-13|R|NC-17|NR|Not Rated|Unrated|\s*)\)\s*$", "", text(named.group(1)))
             said = re.search(r"<span class='synopsis'>(.*?)</span>", film, re.S)
             runtime = re.search(r"Runtime:</strong>\s*([^<]+)", film)
             poster = re.search(r"<img src='([^']+)' class='poster'", film)

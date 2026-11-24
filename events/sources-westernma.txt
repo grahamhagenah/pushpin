@@ -16,9 +16,9 @@ spektrix       https://www.berkshiretheatregroup.org/calendar/?spektrix=berkshir
 umassfac       https://arts.umass.edu/performing-arts/events           music  UMass Fine Arts Center
 ticketmaster   KovZpZAkvdtA                                          music  Calvin Theatre
 bombyx         https://bombyx.live/events/                           music  Bombyx
-# Greenfield Garden Cinemas turns GitHub's servers away (403), though not a browser; its reader is kept for if
-# that changes.
-# gardencinemas  https://www.gardencinemas.net/                        film   Garden Cinemas
+# Greenfield Garden Cinemas turns GitHub's servers away (403), though not a browser, so its own site's reader
+# (gardencinemas) is set aside; its showtimes are on Abenity's too, linked to its own site.
+abenity        https://m.movies.abenity.com/theatre?id=3618#https://www.gardencinemas.net/   film   Garden Cinemas
 marigold       https://marigold.org/                                 music  Marigold Theater
 # The Five Colleges' own calendars: their concerts, plays, dance and screenings, and their talks and readings on
 # the arts; not their students' coursework. Amherst College's kept to its lectures and performances by its own

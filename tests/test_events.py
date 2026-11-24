@@ -960,7 +960,8 @@ class WesternMass(unittest.TestCase):
                                                        "Academy of Music", "Beacon Cinema", "Colonial Theatre", "UMass Fine Arts Center",
                                                        "Calvin Theatre", "Bombyx", "Marigold Theater",
                                                        "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture", "CitySpace", "New City Brewery",
-                                                       "Amherst College", "Tower Theaters", "Agawam Cinemas", "Double Edge Theatre"})
+                                                       "Amherst College", "Tower Theaters", "Agawam Cinemas", "Double Edge Theatre",
+                                                       "Garden Cinemas"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             self.assertIn(s["name"], build.VENUE_ADDRESSES, "each under its town in the venue menu")
