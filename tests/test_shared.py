@@ -18,6 +18,19 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from shared import alerts, site  # noqa: E402
 
 
+class Fetch(unittest.TestCase):
+    def test_a_compressed_body_unpacked_though_not_asked_for(self):
+        import gzip
+        import zlib
+        page = b'<div class="entry">The Sinclair</div>'
+        self.assertEqual(site.unpacked(gzip.compress(page), "gzip"), page, "The Sinclair's, from November 2026")
+        self.assertEqual(site.unpacked(gzip.compress(page), ""), page, "by its first bytes, where it isn't said")
+        self.assertEqual(site.unpacked(zlib.compress(page), "deflate"), page)
+        raw = zlib.compressobj(wbits=-zlib.MAX_WBITS)
+        self.assertEqual(site.unpacked(raw.compress(page) + raw.flush(), "deflate"), page, "raw deflate too")
+        self.assertEqual(site.unpacked(page, ""), page, "a plain one as it is")
+
+
 class Page(unittest.TestCase):
     def test_header_names_both_pages_marking_this_one(self):
         news = site.page("news", "Newsfeed", "<ul></ul>", updated=datetime(2026, 9, 12, tzinfo=timezone.utc))

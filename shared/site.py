@@ -3,6 +3,7 @@ the hover previews, and the page itself around each one's list (head, header, ba
 that age timestamps and place previews).
 Each site's build.py adds its own readers, rows and styles on top."""
 
+import gzip
 import html
 import json
 import os
@@ -11,6 +12,7 @@ import sys
 import time
 import urllib.error
 import urllib.request
+import zlib
 from datetime import datetime
 
 # The pages, in the order the header names them.
@@ -32,7 +34,7 @@ def fetch(url, user_agent, attempts=3, timeout=20, body=None, content_type=None,
     for attempt in range(attempts):
         try:
             with urllib.request.urlopen(request, timeout=timeout) as response:
-                return response.geturl(), response.read()
+                return response.geturl(), unpacked(response.read(), response.headers.get("Content-Encoding", ""))
         except Exception as error:
             # Timeouts, dropped connections and 5xx errors (like the 520s Cloudflare gives when a site's own
             # server stumbles) are often momentary; a 404 won't change, except from YouTube's channel feeds,
@@ -42,6 +44,20 @@ def fetch(url, user_agent, attempts=3, timeout=20, body=None, content_type=None,
             if not momentary or attempt == attempts - 1:
                 raise
             time.sleep(2 * (attempt + 1))
+
+
+def unpacked(data, encoding):
+    """A response's body as sent before it was compressed. It's asked for plain, but some servers compress it
+    anyway (The Sinclair's, gzip, from November 2026), which read as text is noise with nothing in it."""
+    encoding = encoding.strip().lower()
+    if encoding in ("gzip", "x-gzip") or data[:2] == b"\x1f\x8b":
+        return gzip.decompress(data)
+    if encoding == "deflate":
+        try:
+            return zlib.decompress(data)
+        except zlib.error:
+            return zlib.decompress(data, -zlib.MAX_WBITS)  # Raw deflate, which some servers send by that name.
+    return data
 
 
 def previous_build(url, user_agent):
