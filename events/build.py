@@ -161,6 +161,7 @@ VENUE_ADDRESSES = {
     "Agawam Cinemas": ("866 Suffield St", "Agawam", "01001"),
     "Double Edge Theatre": ("948 Conway Rd", "Ashfield", "01330"),
     "Pothole Pictures": ("51 Bridge St", "Shelburne Falls", "01370"),
+    "Shelburne Falls Memorial Hall": ("51 Bridge St", "Shelburne Falls", "01370"),
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
@@ -1937,12 +1938,15 @@ DOUBLE_EDGE_HERE = re.compile(r"\bfarm center\b|\bashfield\b|\bshea\b", re.I)
 MONTHS = "January|February|March|April|May|June|July|August|September|October|November|December"
 
 
-def read_pothole(source):
-    """Pothole Pictures' season (Shelburne Falls Memorial Hall), a post a film, a page of them at a time
-    (/page/2/ on): each film's name, page and picture, and its first lines, its nights and time ("Friday
-    December 18 and Saturday December 19, 2026 at 7:30PM", the year after the last night) and the free music
-    before it, a listing a night. Not what isn't a film (its community meeting)."""
+def read_memorial_hall(source):
+    """Shelburne Falls Memorial Hall's seasons, a page of posts for each (its line's): Pothole Pictures' films and
+    the Met Opera's broadcasts. Each post's name (without the date its title can end with, "12/6/2026", which is
+    sometimes not its day), page and picture, and its first lines: its days and time ("Friday December 18 and
+    Saturday December 19, 2026 at 7:30PM", the year after the last, or none and the coming one) and the free music
+    before it, a listing a day. Not what isn't a show (its community meeting). Its kind is its line's; the Met's
+    are said to be its Live in HD."""
     events, here = [], today()
+    detail = "Met Opera Live in HD" if "metropolitan" in source["url"] else ""
     for number in range(1, 5):
         page = fetch(source["url"] if number == 1 else urljoin(source["url"], f"page/{number}/"))
         for post in page.split("<article ")[1:]:
@@ -1950,15 +1954,13 @@ def read_pothole(source):
             said = re.search(r'class="entry-content">\s*<p>(.*?)</p>', post, re.S)
             if not (named and said):
                 continue
-            title = text(named.group(2))
+            title = re.sub(r"\s+\d{1,2}/\d{1,2}/\d{4}$", "", text(named.group(2)))
             if re.search(r"\bmeeting\b", title, re.I):
                 continue
             lines = [text(line) for line in re.split(r"<br\s*/?>", said.group(1)) if text(line)]
             when = lines[0] if lines else ""
             year = re.search(r"\b(20\d\d)\b", when)
             clock_said = re.search(r"\bat (\d{1,2})(?::(\d{2}))?\s*([AP])M\b", when, re.I)
-            if not year:
-                continue
             start = None
             if clock_said:
                 start = time(int(clock_said.group(1)) % 12 + (12 if clock_said.group(3).upper() == "P" else 0), int(clock_said.group(2) or 0))
@@ -1969,12 +1971,13 @@ def read_pothole(source):
             music = " ".join(lines[1:])
             picture = re.search(r'<img[^>]+src="([^"?]+)', post)
             for month, day_number in re.findall(rf"\b({MONTHS}) (\d{{1,2}})\b", when):
-                day = datetime.strptime(f"{month} {day_number} {year.group(1)}", "%B %d %Y").date()
-                if day < here:
+                day = (datetime.strptime(f"{month} {day_number} {year.group(1)}", "%B %d %Y").date() if year
+                       else yearless(month, day_number, here, "%B"))  # Its next June 5, with no year said.
+                if not day or day < here:
                     continue
-                listing = event(source, title, day, start, link=named.group(1), about=[music] if music else [],
-                                image=picture.group(1) if picture else "")
-                events.append(dict(listing, category="film"))
+                listing = event(source, title, day, start, link=named.group(1), detail=detail,
+                                about=[music] if music else [], image=picture.group(1) if picture else "")
+                events.append(dict(listing, category=source["category"]))
         if f"page/{number + 1}/" not in page:
             break
     return events
@@ -3704,7 +3707,7 @@ READERS = {
     "venuepilot": read_venuepilot,
     "abenity": read_abenity,
     "doubleedge": read_double_edge,
-    "pothole": read_pothole,
+    "memorialhall": read_memorial_hall,
     "academyofmusic": read_academy_of_music,
     "phoenix": read_phoenix,
     "spektrix": read_spektrix,
@@ -7114,11 +7117,11 @@ CSS = """
                padding: .25rem 0 .45rem; border-bottom: 1px solid #1c1c1c; }
   /* Each a heading in words, as a day's is: white and semibold, a step under the film's name. */
   .lead-tag { color: #fff; font-size: .95rem; font-weight: 600; letter-spacing: -.005em; }
-  /* Each led by a mark of what it's about, in its kind's color: film's frame in amber, and sparkles for what's
-     new in music's violet, most of what's announced being concerts. */
+  /* Each led by a mark of what it's about: film's frame in amber; and sparkles for what's new in white, as its
+     words are, what's announced being of every kind, each line marked in its own kind's color under it. */
   .lead-mark { width: 16px; height: 16px; margin-right: .45em; vertical-align: -3px; }
   .biggest-part .lead-mark { color: var(--film); }
-  .fresh-tag .lead-mark { color: var(--music); }
+  .fresh-tag .lead-mark { color: #fff; }
   /* The heading goes to the rest of what's announced too, as See all at the end of its line does. */
   .fresh-tag:hover { color: #fff; text-decoration: none; }
   .fresh-more { flex: none; color: #888; font-size: .85rem; }

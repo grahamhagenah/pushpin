@@ -113,6 +113,7 @@ ROUTES = [
     ("shelburnefallsmemorialhall.org/pothole-pictures/page/", "empty.html"),  # Its later page.
     ("shelburnefallsmemorialhall.org/pothole-pictures/", "pothole.html"),
     ("shelburnefallsmemorialhall.org/its-a-wonderful-life-1946/", "pothole_film.html"),
+    ("shelburnefallsmemorialhall.org/metropolitan-operas/", "memorialhall_met.html"),
     ("m.movies.abenity.com/theatre?id=725&date=11/24/2026", "abenity.html"),
     ("m.movies.abenity.com/theatre", "empty.html"),  # Its other days.
     ("amherst.edu/news/events/calendar?f%5B0%5D=type_of_event%3Alec&f%5B1%5D=type_of_event%3Aperform&page=", "empty.html"),
@@ -858,7 +859,7 @@ class WesternMass(unittest.TestCase):
 
     def test_pothole_pictures_a_night_each_with_its_music(self):
         with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
-            found = build.read_pothole(source("pothole", "https://shelburnefallsmemorialhall.org/pothole-pictures/", "film", "Pothole Pictures"))
+            found = build.read_memorial_hall(source("memorialhall", "https://shelburnefallsmemorialhall.org/pothole-pictures/", "film", "Pothole Pictures"))
         wonderful = [item for item in found if item["title"] == "It’s a Wonderful Life (1946)"]
         self.assertEqual([(item["date"], item["times"]) for item in wonderful], [(date(2026, 12, 18), [time(19, 30)]), (date(2026, 12, 19), [time(19, 30)])],
                          "a listing a night, its time from its own page where the list doesn't say")
@@ -869,6 +870,19 @@ class WesternMass(unittest.TestCase):
         titles = {item["title"] for item in found}
         self.assertNotIn("Community Open Meeting", titles)
         self.assertNotIn("Sherlock, Jr. (1924)", titles, "not what's past")
+
+    def test_memorial_halls_met_opera_by_its_posts_dates_not_its_titles(self):
+        with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
+            found = build.read_memorial_hall(source("memorialhall", "https://shelburnefallsmemorialhall.org/metropolitan-operas/",
+                                                    "music", "Shelburne Falls Memorial Hall"))
+        by_title = {item["title"]: item for item in found}
+        samson = by_title["Samson et Dalila: Saint-Saëns"]
+        self.assertEqual((samson["date"], samson["times"]), (date(2026, 12, 5), [time(13, 0)]),
+                         "its post's Saturday, December 5, not its title's 12/6/2026, which is out of its name")
+        self.assertEqual((samson["category"], samson["detail"]), ("music", "Met Opera Live in HD"))
+        self.assertEqual(by_title["Manon: Massenet"]["times"], [time(12, 0)], "at 12PM")
+        self.assertEqual(by_title["Parsifal — Richard Wagner"]["date"], date(2027, 6, 5), "its next June 5, with no year said")
+        self.assertNotIn("Macbeth: Verdi", by_title, "not what's past")
 
     def test_tower_theaters_from_abenity_linked_to_its_own_site(self):
         with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
@@ -981,7 +995,8 @@ class WesternMass(unittest.TestCase):
                                                        "Calvin Theatre", "Bombyx", "Marigold Theater",
                                                        "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture", "CitySpace", "New City Brewery",
                                                        "Amherst College", "Tower Theaters", "Agawam Cinemas", "Double Edge Theatre",
-                                                       "Garden Cinemas", "Pothole Pictures"})
+                                                       "Garden Cinemas", "Pothole Pictures",
+                                                       "Shelburne Falls Memorial Hall"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             self.assertIn(s["name"], build.VENUE_ADDRESSES, "each under its town in the venue menu")
@@ -1586,7 +1601,7 @@ class JustAnnounced(unittest.TestCase):
         page = build.render_index([dict(self.listing(20), added="2026-09-15")], [self.venue], [], [], self.built, public=True)
         self.assertIn('<div class="lead-head"><a class="lead-tag fresh-tag" href="', page)
         self.assertIn(".lead-tag { color: #fff; font-size: .95rem; font-weight: 600;", page)
-        self.assertIn(".fresh-tag .lead-mark { color: var(--music); }", page)
+        self.assertIn(".fresh-tag .lead-mark { color: #fff; }", page, "its sparkles white, as neutral as what's announced is mixed")
         self.assertNotIn(".fresh-more { display: none; }", page, "See all is there on a phone too")
         # A line each: the name, cut short where it must be, and when and where after it, said whole; beside the
         # film's card on a wide screen.
