@@ -846,6 +846,9 @@ class WesternMass(unittest.TestCase):
         self.assertEqual(ebenezer["link"], "http://www.towertheaters.com/", "the theater's own site, not Abenity's")
         self.assertTrue(ebenezer["image"] and ebenezer["about"][0].startswith("This November"))
         self.assertEqual(ebenezer["about"][-1], "1 hr. 56 mins")
+        with mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
+            given = build.read_abenity(source("abenity", "https://m.movies.abenity.com/theatre?id=725#https://example.org/", "film", "Tower Theaters"))
+        self.assertTrue(given and all(item["link"] == "https://example.org/" for item in given), "its own site after the #, where its line gives one")
 
     def test_cityspace_from_venuepilot(self):
         answer = json.loads((FIXTURES / "venuepilot.json").read_text())
@@ -940,7 +943,7 @@ class WesternMass(unittest.TestCase):
                                                        "Academy of Music", "Beacon Cinema", "Colonial Theatre", "UMass Fine Arts Center",
                                                        "Calvin Theatre", "Bombyx", "Marigold Theater",
                                                        "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture", "CitySpace", "New City Brewery",
-                                                       "Amherst College", "Tower Theaters"})
+                                                       "Amherst College", "Tower Theaters", "Agawam Cinemas"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             self.assertIn(s["name"], build.VENUE_ADDRESSES, "each under its town in the venue menu")

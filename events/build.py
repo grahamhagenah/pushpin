@@ -158,6 +158,7 @@ VENUE_ADDRESSES = {
     "Amherst College": ("220 South Pleasant St", "Amherst", "01002"),
     "New City Brewery": ("180 Pleasant St", "Easthampton", "01027"),
     "Tower Theaters": ("19 College St", "South Hadley", "01075"),
+    "Agawam Cinemas": ("866 Suffield St", "Agawam", "01001"),
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
@@ -1853,13 +1854,15 @@ def read_abenity(source):
     """A cinema's showtimes from Abenity's movie pages (Tower Theaters', South Hadley, whose own site loads them
     from a server that turns Pushpin away), a day to a page (&date=11/27/2026), for the next two weeks or until a
     day after the first has none: each film's name (without its rating), poster, cast and running time, what it's
-    about, and its times. Linked to the theater's own site, which the page names, not to Abenity's."""
+    about, and its times. Linked to the theater's own site, which the page names, or which its line gives after a #
+    where the page doesn't (Agawam's), not to Abenity's."""
+    url, _, own = source["url"].partition("#")
     events, empty = [], 0
     for ahead in range(14):
         day = today() + timedelta(days=ahead)
-        page = fetch(f"{source['url']}&date={day:%m/%d/%Y}", encoding="cp1252")
+        page = fetch(f"{url}&date={day:%m/%d/%Y}", encoding="cp1252")
         site = re.search(r"Website:\s*</strong>\s*<a[^>]*>\s*(https?://[^<\s]+)|Website:\s*(?:<[^>]+>\s*)*(https?://[^<\s]+)", page)
-        home = (site.group(1) or site.group(2)) if site else source["url"]
+        home = own or ((site.group(1) or site.group(2)) if site else url)
         films = page.split("<div id='movie'>")[1:]
         if not films:
             empty += 1
