@@ -323,10 +323,10 @@ class Readers(unittest.TestCase):
                          (date(2026, 12, 1), [time(19, 30)], "music", "St. Clements", "Free"), "its hall, past its label")
         self.assertEqual(carols["address"], ["1105 Boylston St", "Boston", "02215"])
         self.assertTrue(carols["about"][0].startswith("Boston Conservatory choirs gather"), "its own words, not its address")
-        self.assertEqual(by_title["Contemporary Theater Capstone: Double Sixes"]["category"], "art", "theater, by its name")
+        self.assertNotIn("Contemporary Theater Capstone: Double Sixes", by_title, "not the graduating class's capstones")
         self.assertEqual(by_title["Composers Recital Series"]["category"], "music")
         self.assertNotIn("Class Recital: Sophomore Alexander Technique", by_title, "not a class's recital")
-        self.assertEqual(len(found), 9)
+        self.assertEqual(len(found), 8)
         self.assertIn("Faculty Recital: Preludes, Featuring Max Levinson, Piano", by_title)
 
     def test_sally_obriens_nights_from_its_handwritten_page(self):

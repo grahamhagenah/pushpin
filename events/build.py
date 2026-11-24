@@ -1302,8 +1302,8 @@ def read_showare(source):
 
 
 # What Boston Conservatory lists that's its students' coursework more than a night out, and most of its calendar:
-# each student's recital, a voice teacher's students', a class's.
-CONSERVATORY_SKIP = re.compile(r"^(student|studio|class) recital\b", re.I)
+# each student's recital, a voice teacher's students', a class's, and the graduating class's capstone shows.
+CONSERVATORY_SKIP = re.compile(r"^(student|studio|class) recital\b|\bcapstone\b", re.I)
 
 
 def read_conservatory(source):
