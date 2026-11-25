@@ -4501,6 +4501,9 @@ FRESH_SPARE = 3
 # Where a film's own art comes from, in the order they're preferred (a poster from any of them still comes before
 # a still from any): a film database's or a chain's own, never a theater's photograph, as often its lobby as the film.
 PICTURE_HOSTS = ("image.tmdb.org", "img-assets.drafthouse.com", "cms-assets.webediamovies.pro",
+                 # Webedia's posters by a film's number, which Abenity's movie pages give (Tower Theaters', Agawam's):
+                 # without it, the card showed a film's still where its view showed this poster.
+                 "movienewsletters.net",
                  "indy-systems.imgix.net", "img.vwassets.com", "ticketing.phoenixmovies.net",
                  # New York's cinemas, whose own pictures are each film's still, not the house: BAM's first, cut to
                  # sixteen by nine and 800 pixels wide by its address; Nitehawk's (its uploads' folder at Amazon)
