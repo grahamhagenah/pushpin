@@ -4613,21 +4613,45 @@ def picture_shape(url):
     return shape
 
 
+# Every city's pictures of each film, by film_key, which main fills before any city's page is written: a city
+# whose theaters give a film only stills (New York's, Quad's and Nitehawk's) borrows its poster from another's
+# (Boston's, from Landmark's and Alamo's).
+FILM_PICTURES = {}
+
+
+def film_pictures(events):
+    """Each film's pictures, by film_key, out of every city's listings."""
+    pictures = {}
+    for item in events:
+        if item["category"] == "film" and item.get("image"):
+            pictures.setdefault(film_key(item["title"]), []).append(item["image"])
+    return pictures
+
+
 def biggest_picture(showings):
     """The picture to show a film by, out of the ones its theaters gave it, and its shape: its own art, from one of
     PICTURE_HOSTS, and a poster before a still — a poster is the film's face, recognized at a glance, and stands
-    beside its name in a box half as wide; a still, cut down to 160 pixels, is a scene nobody can make out. Only
-    one whose shape can be read and that's small enough to copy (PICTURE_MOST). ("", None) where there's none."""
-    pictures = list(dict.fromkeys(lighter(item["image"]) for item in showings if item.get("image")))
-    ranked = [picture for host in PICTURE_HOSTS for picture in pictures if f"//{host}/" in picture]
+    beside its name in a box half as wide; a still, cut down to 160 pixels, is a scene nobody can make out. Where
+    its own theaters give no poster, another city's (FILM_PICTURES), only a poster: a still of its own does as well
+    as one borrowed. Only one whose shape can be read and that's small enough to copy (PICTURE_MOST). ("", None)
+    where there's none."""
+    def ranked(images):
+        pictures = list(dict.fromkeys(lighter(image) for image in images if image))
+        return [picture for host in PICTURE_HOSTS for picture in pictures if f"//{host}/" in picture]
+
+    own = ranked(item.get("image") for item in showings)
     stills = []
-    for picture in ranked:
+    for picture in own:
         shape = picture_shape(picture)
         if not shape:
             continue
         if shape[1] > shape[0] * 1.2:
             return picture, shape
         stills.append((picture, shape))
+    for picture in ranked(FILM_PICTURES.get(film_key(showings[0]["title"]), []) if showings else []):
+        shape = None if picture in own else picture_shape(picture)
+        if shape and shape[1] > shape[0] * 1.2:
+            return picture, shape
     return stills[0] if stills else ("", None)
 
 
@@ -7947,6 +7971,8 @@ def main():
     events = merge_showings([item for item in events if not (skip and item["category"] != "film" and skip.search(item["title"]))
                              and not CLOSURE.fullmatch(item["title"])])
     PUBLIC_DIR.mkdir(parents=True, exist_ok=True)
+    FILM_PICTURES.clear()
+    FILM_PICTURES.update(film_pictures(events))
     # The film each city's home page leads with, which the next build keeps until a bigger one turns up. Out of
     # its public listings, as the page has them.
     leading = {}

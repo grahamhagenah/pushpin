@@ -2634,6 +2634,23 @@ class Biggest(unittest.TestCase):
             shapes[quad] = None
             self.assertEqual(build.biggest_film(events, self.built)["image"], "", "not what else is at Amazon")
 
+    def test_a_poster_borrowed_from_another_city_before_a_still_of_its_own(self):
+        """New York's theaters give You Can See Everything only stills; Boston's give its poster."""
+        quad = "https://quadcinema.com/wp-content/uploads/2026/10/you3-640x372.webp"
+        poster, boston_still = "https://img.vwassets.com/x/vertical_poster.jpg", "https://img-assets.drafthouse.com/still.jpg"
+        shapes = {quad: (640, 372), poster: (675, 1000), boston_still: (1920, 1080)}
+        events = [self.showing("Wide Release", f"Theater {n}", image=quad) for n in range(4)]
+        elsewhere = {build.film_key("Wide Release (2026)"): [boston_still, poster], build.film_key("Another Film"): ["https://img.vwassets.com/y/other.jpg"]}
+        with mock.patch.object(build, "picture_shape", side_effect=lambda url: shapes.get(url)), \
+                mock.patch.dict(build.FILM_PICTURES, elsewhere, clear=True):
+            film = build.biggest_film(events, self.built)
+            self.assertEqual((film["image"], film["standing"]), (poster, True), "the same film by its key, its poster")
+            del shapes[poster]  # Another city's still is no better than its own.
+            self.assertEqual(build.biggest_film(events, self.built)["image"], quad)
+        self.assertEqual(build.film_pictures([dict(self.showing("Wide Release", "Brattle", image=poster), category="film"),
+                                              dict(self.showing("A Band", "Sinclair", image="x"), category="music")]),
+                         {"wide release": [poster]}, "only films' pictures, by film_key")
+
     def test_no_picture_rather_than_a_theaters_photograph_or_a_cropped_one(self):
         """Only a film's own art, and only where its shape is known: otherwise the film is words alone."""
         lobby = [self.showing("Wide Release", f"Theater {n}", image="https://coolidge.org/lobby.jpg") for n in range(4)]
