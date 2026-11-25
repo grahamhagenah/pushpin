@@ -4449,7 +4449,7 @@ def render_lead(events, built_at, before="", days=None, when=""):
         # four and the poster's height rather than its own sixteen by nine, which left it a thin strip beside the words.
         # No heading over it: its picture and its count of theaters say it's the film most are showing. On a wide
         # screen, as tall as what's announced beside it, from its heading to its last line.
-        box = (77, 116) if film["standing"] else (145, 116)
+        box = (81, 122) if film["standing"] else (153, 122)
         picture = (f'<img class="biggest-picture" src="{html.escape(kept_picture(film["image"], box))}" alt="" '
                    f'width="{box[0]}" height="{box[1]}" decoding="async" referrerpolicy="no-referrer">') if film["image"] else ""
         parts.insert(0,
@@ -7282,9 +7282,9 @@ CSS = """
   .lead > .fresh { display: flex; flex-direction: column; }
   .lead > .fresh > .fresh-list { margin: auto 0; }
   .lead.one > .fresh > .fresh-list { margin: 0 0 auto; }
-  /* Just announced's heading: its words and See all, no mark and no line under it, as little as says what the lines
-     under it are. */
-  .lead-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: .6rem; }
+  /* Just announced's heading: its words and See all, no mark, over the site's faint hairline, as a day's is. */
+  .lead-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: .6rem;
+               padding-bottom: .45rem; border-bottom: 1px solid #1c1c1c; }
   /* A heading in words, as a day's is: white and semibold, a step under the film's name. */
   .lead-tag { color: #fff; font-size: .95rem; font-weight: 600; letter-spacing: -.005em; }
   /* The film's line of facts led by film's frame, in amber, the size of a row's mark. */
@@ -7316,8 +7316,8 @@ CSS = """
      on a phone, where the words beside it have less room. */
   .biggest { display: flex; align-items: center; gap: .9rem; color: inherit; }
   .biggest:hover { text-decoration: none; }
-  .biggest-picture { flex: none; width: 145px; height: 116px; border-radius: 4px; object-fit: cover; background: #161616; }
-  .biggest.standing .biggest-picture { width: 77px; height: 116px; }
+  .biggest-picture { flex: none; width: 153px; height: 122px; border-radius: 4px; object-fit: cover; background: #161616; }
+  .biggest.standing .biggest-picture { width: 81px; height: 122px; }
   @media (max-width: 34rem) {
     .biggest:not(.standing) .biggest-picture { width: 100px; height: 80px; }
     .biggest.standing .biggest-picture { width: 54px; height: 80px; }
