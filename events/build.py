@@ -6088,6 +6088,7 @@ INDEX_JS = """
       const named = when ? when.querySelector(".said-long") || when : show === "all" ? null : filter.querySelector(`a[data-show="${show}"]`);
       here.textContent = named ? named.textContent : "";
       here.hidden = !named;
+      here.classList.add("in-place");  // Which a phone leaves to the chips (its styles), for want of the room.
       const name = document.querySelector(".sites a");
       if (!named) name.setAttribute("aria-current", "page");
       else name.removeAttribute("aria-current");
@@ -6900,6 +6901,18 @@ PUBLIC_CSS = """
   /* The name, on a page that's one of its kinds: a step back from the page's own name, still plainly the site's. */
   .sites a:not([aria-current]), .sites a:not([aria-current]):visited { color: #aaa; }
   .sites a:not([aria-current]):hover { color: #fff; }
+  /* On a phone, the name and the city's menu have the first line to themselves, and a page's own name ("Just
+     announced") is a heading on the line under them, without its "/": beside the menu there's no room for it, and
+     it broke after the name with its "/" left at the start of the next line. A kind shown in place on the home page
+     isn't named there (in-place): its chip says it, and a line coming and going would move the list. The menu on
+     the name's line, not halfway down the two. */
+  @media (max-width: 34rem) {
+    .sites .here:not(.in-place) { flex-basis: 100%; margin-top: .1rem; font-size: 1.5rem; }
+    .sites .here::before { content: none; }
+    .sites .here.in-place { display: none; }
+    header:has(.sites .here:not([hidden]):not(.in-place)) { align-items: flex-start; }
+    header:has(.sites .here:not([hidden]):not(.in-place)) .city-switch { margin-top: var(--switch-drop, .3rem); }
+  }
   /* The cities, at the header's end: this one's name in a pill, as the filter's chips are, opening to the others,
      over the filter bar under it. */
   .city-switch { position: relative; flex: none; margin-left: auto; }
