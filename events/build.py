@@ -4447,9 +4447,9 @@ def render_lead(events, built_at, before="", days=None, when=""):
         # The film a card of its own, its picture beside its words in its own shape: a poster standing on its end, a
         # still from the film lying on its side (cut to a poster's shape, a still lost most of its scene), at five by
         # four and the poster's height rather than its own sixteen by nine, which left it a thin strip beside the words.
-        # No heading over it: its picture and its count of theaters say it's the film most are showing. As tall as
-        # what's announced beside it on a wide screen (8.125rem, .lead > *'s least height).
-        box = (87, 130) if film["standing"] else (162, 130)
+        # No heading over it: its picture and its count of theaters say it's the film most are showing. On a wide
+        # screen, as tall as what's announced beside it, from its heading to its last line.
+        box = (77, 116) if film["standing"] else (145, 116)
         picture = (f'<img class="biggest-picture" src="{html.escape(kept_picture(film["image"], box))}" alt="" '
                    f'width="{box[0]}" height="{box[1]}" decoding="async" referrerpolicy="no-referrer">') if film["image"] else ""
         parts.insert(0,
@@ -7316,8 +7316,8 @@ CSS = """
      on a phone, where the words beside it have less room. */
   .biggest { display: flex; align-items: center; gap: .9rem; color: inherit; }
   .biggest:hover { text-decoration: none; }
-  .biggest-picture { flex: none; width: 162px; height: 130px; border-radius: 4px; object-fit: cover; background: #161616; }
-  .biggest.standing .biggest-picture { width: 87px; height: 130px; }
+  .biggest-picture { flex: none; width: 145px; height: 116px; border-radius: 4px; object-fit: cover; background: #161616; }
+  .biggest.standing .biggest-picture { width: 77px; height: 116px; }
   @media (max-width: 34rem) {
     .biggest:not(.standing) .biggest-picture { width: 100px; height: 80px; }
     .biggest.standing .biggest-picture { width: 54px; height: 80px; }

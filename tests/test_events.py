@@ -2576,11 +2576,11 @@ class Biggest(unittest.TestCase):
         events = [self.showing("Wide Release", f"Theater {n}", image=POSTER) for n in range(4)]
         standing, _ = build.render_lead(events, self.built)
         self.assertIn('class="biggest standing"', standing)
-        self.assertIn('width="87" height="130"', standing)
+        self.assertIn('width="77" height="116"', standing)
         with mock.patch.object(build, "picture_shape", return_value=(1920, 1080)):
             lying, _ = build.render_lead(events, self.built)
         self.assertIn('class="biggest" data-category="film"', lying)
-        self.assertIn('width="162" height="130"', lying)
+        self.assertIn('width="145" height="116"', lying)
 
 
 class Fallback(unittest.TestCase):
