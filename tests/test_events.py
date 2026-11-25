@@ -1846,8 +1846,13 @@ class JustAnnounced(unittest.TestCase):
         self.assertIn('if (link.closest(".fresh-list")) link.closest("li").remove();', page)
         self.assertIn(f'<li data-ends="2026-09-20T20:00"><a href="{R}?event=2026-09-20-show-0-the-sinclair" data-category="music">'
                       '<svg class="icon" role="img" aria-label="Music"><use href="#icon-music"/></svg>'
-                      '<span class="fresh-name">Show 0</span></a></li>', lead,
-                      "its name alone: its day and venue are in its view")
+                      '<span class="fresh-name">Show 0</span><span class="fresh-day">'
+                      '<span class="lead-day" data-date="2026-09-20" data-said="Sep 20">Sep 20</span></span></a></li>', lead,
+                      "its name and its day, without its weekday; its venue is in its view")
+        # Today's and tomorrow's say so, as the film's day does; the script says them again by the reader's day.
+        soon = [dict(self.listing(15, "Tonight's"), added="2026-09-15"), dict(self.listing(16, "Tomorrow's"), added="2026-09-15")]
+        self.assertIn('<span class="lead-day" data-date="2026-09-15" data-said="Sep 15">Today</span>', build.render_lead(soon[:1], self.built)[0])
+        self.assertIn('<span class="lead-day" data-date="2026-09-16" data-said="Sep 16">Tomorrow</span>', build.render_lead(soon[1:], self.built)[0])
         self.assertNotIn("<img", lead, "words alone")
         self.assertIn(f'<a class="fresh-more" href="{R}new/">See all →</a></div><ul class="fresh-list">', lead,
                       "the way to the rest in the heading's line, not one of its own")

@@ -4798,7 +4798,7 @@ def render_lead(events, built_at, before="", days=None, when=""):
         f'<span class="lead-day" data-date="{day.isoformat()}" data-said="{f"{day:%a, %b} {day.day}" if weekday else f"{day:%b} {day.day}"}">'
         f'{lead_day(day, built_at, weekday)}</span>')
     # The film first, on the left (over the rest on a phone); then the newest few announced in words alone, a line
-    # each, its name alone: a venue after it left the name cut short, and its day and venue are in its view. Pictures
+    # each, its name and its day: a venue after it left the name cut short, and its venue is in its view. Pictures
     # of them made the top of the page heavy, and showed one announcement where a list shows a few; three lines stand
     # as tall as the film's card beside them.
     if fresh:
@@ -4808,7 +4808,8 @@ def render_lead(events, built_at, before="", days=None, when=""):
             f'<li data-ends="{item["date"].isoformat()}T{max(item["times"]).strftime("%H:%M") if item["times"] else "24:00"}">'
             f'<a href="{PUBLIC_ROOT}?{urlencode({"event": listing_id(item["date"], item["title"], item["venue"])[0]})}" '
             f'data-category="{item["category"]}">{icon(item["category"])}<span class="fresh-name">{html.escape(calm(item["title"]))}</span>'
-            f'</a></li>'
+            # Its day at the line's end ("Nov 26", or Today, Tomorrow), short, without its weekday, to leave the name room.
+            f'<span class="fresh-day">{said(item["date"], weekday=False)}</span></a></li>'
             for item in fresh)
         parts.append(
             f'<div class="fresh"><div class="lead-head"><a class="lead-tag fresh-tag" href="{PUBLIC_ROOT}{PUBLIC_NEW[0]}">'
@@ -7723,7 +7724,9 @@ CSS = """
   .fresh-tag:hover { color: #fff; text-decoration: none; }
   .fresh-more { flex: none; color: #888; font-size: .85rem; }
   .fresh-more:hover { color: #fff; text-decoration: none; }
-  /* What's announced, a line each: its name, cut short with "…" where the line runs out. */
+  /* What's announced, a line each: its name, cut short with "…" where the line runs out, and its day at the end of
+     the line, in the grey of the film's line of facts. */
+  .fresh-day { flex: none; margin-left: auto; padding-left: .4em; color: #777; font-size: .85rem; }
   .fresh-list { margin: 0; padding: 0; list-style: none; }
   .fresh-list li { break-inside: avoid; }
   .fresh-list li + li { margin-top: .45rem; }
