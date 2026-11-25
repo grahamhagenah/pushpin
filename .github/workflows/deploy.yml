@@ -19,7 +19,7 @@ on:
         default: false
 
 permissions:
-  contents: write  # Pushing the built site to gh-pages, and the keepalive commit.
+  contents: write  # Pushing the built site to gh-pages, the day's listings to archive, and the keepalive commit.
   issues: write  # shared/alerts.py opens and closes "Source failing" issues.
 
 # One run at a time. A push cancels a run in progress, since it brings newer code; a scheduled or cron-job.org
@@ -60,6 +60,28 @@ jobs:
           git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
             commit -qm "Pushpin, built from ${GITHUB_SHA::7}"
           git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" gh-pages
+
+      # A day's record of every listing, its facts alone, kept for good on the repo's archive branch
+      # (events/archive.py): the first build each day writes YYYY/MM/DD.jsonl.gz, the rest leave it be. Its failing
+      # never holds up the page.
+      - name: Archive the day's listings
+        if: ${{ !cancelled() && hashFiles('dist/public/listings.json') != '' }}
+        continue-on-error: true
+        run: |
+          remote="https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          if git ls-remote --exit-code --heads "$remote" archive > /dev/null; then
+            git clone -q --depth 1 --branch archive "$remote" ../archive
+          else
+            mkdir ../archive && git -C ../archive init -q -b archive
+          fi
+          python3 -m events.archive dist/public/listings.json ../archive
+          cd ../archive
+          git add -A
+          if ! git diff --cached --quiet; then
+            git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -qm "Listings, $(TZ=America/New_York date +%F)"
+            git push -q "$remote" archive
+          fi
 
       # An issue for any source failing for hours (GitHub emails about it); never holds up the page. A run
       # that didn't rebuild leaves its issues as they are.

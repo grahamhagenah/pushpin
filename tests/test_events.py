@@ -1133,6 +1133,32 @@ class Cities(unittest.TestCase):
         self.assertNotIn("Bay Area", build.render_cities(build.CITIES))
 
 
+class Archive(unittest.TestCase):
+    def test_a_days_listings_kept_once_their_facts_alone(self):
+        import gzip
+        import tempfile
+        from events import archive
+        listings = {"built": "2026-11-25T04:30:00+00:00",  # 11:30pm on the 24th, by Boston's clock.
+                    "first_seen": {"2026-12-16-rickie-lee-jones-bombyx": "2026-11-20"},
+                    "sources": {"Bombyx": {"events": [
+                        {"title": "Rickie Lee Jones", "date": "2026-12-16", "times": ["18:30"], "category": "music",
+                         "venue": "Bombyx", "detail": "", "price": "$50-65", "sold_out": False, "sold_out_times": [],
+                         "link": "https://bombyx.live/events/rickie-lee-jones-2/", "about": ["Her own words."],
+                         "image": "https://bombyx.live/a.jpg", "added": "2026-11-21"}]}}}
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / "listings.json"
+            path.write_text(json.dumps(listings))
+            kept = Path(folder) / "kept"
+            self.assertTrue(archive.write(path, kept))
+            self.assertFalse(archive.write(path, kept), "once a day; a later build that day leaves it be")
+            day = kept / "2026" / "11" / "24.jsonl.gz"
+            self.assertTrue(day.exists(), "by Boston's day, not the server's")
+            record = json.loads(gzip.decompress(day.read_bytes()).decode().splitlines()[0])
+        self.assertEqual((record["city"], record["title"], record["first_seen"]), ("westernma", "Rickie Lee Jones", "2026-11-20"))
+        self.assertNotIn("about", record, "not the venue's words")
+        self.assertNotIn("image", record, "nor its picture")
+
+
 class Skipping(unittest.TestCase):
     def test_whole_words_in_any_case(self):
         with mock.patch.object(build, "SKIP_FILE", FIXTURES.parent.parent / "fixtures" / "events" / "skip.txt"):
