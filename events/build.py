@@ -6846,14 +6846,15 @@ PIN_CSS = """
     .filter.revealed { top: 0; }
     .filter, .day > h2 { transition: top .2s ease; }
     @media (prefers-reduced-motion: reduce) { .filter, .day > h2 { transition: none; } }
-    /* The search: a pill, the chips' own shape under it, a shade off the page's black, plain to see as a field, the magnifying glass and the
-       words inside it in a grey that reads; a little lighter while it's being typed in. Its text is 16 pixels: Safari on
-       an iPhone zooms the page in on a field whose text is any smaller, and doesn't zoom back out. */
+    /* The search: a line, the chips' hairline under the magnifying glass and the words, the column's width,
+       brighter while it's being typed in; no box, so the bar's only shapes are the chips. Its text is 16 pixels:
+       Safari on an iPhone zooms the page in on a field whose text is any smaller, and doesn't zoom back out. */
     .filter .finders { order: -1; flex: 1 1 100%; align-items: center; gap: 0; box-sizing: border-box; margin: 0;
-                       padding: 0 .15rem 0 .9rem; border-radius: 999px; background: #1a1a1a; }
-    .filter .finders:focus-within { background: #222; }
+                       padding: 0; border-bottom: 1px solid #2a2a2a; }
+    .filter .finders:focus-within { border-bottom-color: #666; }
     .filter .finders .search { flex: 1 1 0; width: 0; min-width: 0; height: 2.35rem; box-sizing: border-box; margin: 0;
-                               padding: 0 0 0 1.55em; border: 0; background-size: .95em; font-size: 1rem; }
+                               padding: 0 0 0 1.5em; border: 0; background-size: .95em; background-position: left center;
+                               font-size: 1rem; }
     .filter .finders .search:not(:focus)::placeholder { color: #8a8a8a; }
     .filter .finders .search { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0'/%3E%3Cpath d='M21 21l-6 -6'/%3E%3C/svg%3E"); }
     /* Its ×, at the end of the box, while it has something in it (Tabler Icons' "x", MIT license): a press empties it. */
@@ -7340,8 +7341,13 @@ CSS = """
     .biggest-part, .fresh { display: flex; flex-direction: column; }
     .biggest { flex: 1 1 auto; }
   }
-  /* The filter as a whole a little nearer the listings than the film and what's announced over it, on a phone. */
-  @media (max-width: 34rem) { .lead { margin-bottom: 2.75rem; } }
+  /* On a phone, room enough between the film, what's announced and the filter that each reads as a part of its
+     own; the filter still a little nearer the listings it's over. And a day's heading a little further from the
+     day before it. */
+  @media (max-width: 34rem) {
+    .lead { row-gap: 2.6rem; margin-bottom: 3.5rem; }
+    .day > h2 { margin-top: 2.4rem; }
+  }
   /* On Just announced, where a heading is the day a listing turned up, each says the day it's on. */
   .when { flex: none; margin-left: .6em; color: #aaa; font-size: .9em; white-space: nowrap; }
   /* A listing opens its own view (below) wherever it's clicked. */
