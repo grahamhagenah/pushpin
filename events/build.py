@@ -5047,9 +5047,9 @@ def public_page(path, title, body, built_at=None, description=None, data=None, s
     return shared.page("events", title, body, css=CSS + PUBLIC_CSS, head=head, symbols=ICON_SYMBOLS,
                        links=links, indexable=True, said=said + city_switcher(path),
                        marked={PUBLIC_NAME: WORDMARK},
-                       # Not on Just announced's own page, whose line under the header ("Concerts and talks added
-                       # ... in the last week") and Recently added over its list say what it is already.
-                       here="" if path == PUBLIC_NEW[0] else PAGE_NAMES.get(path, ""))
+                       # No page's name after the site's ("/ Music"), a breadcrumb that crowded the header: the line
+                       # under it ("Concerts around Boston…"), the chips' choice, and the title say which page it is.
+                       here=None)
 
 
 # The About page's questions, each with its answer (markup, with {root} for the site's root), in Graham's words.
@@ -5328,7 +5328,7 @@ def render_redirect(address, paths=False):
 def site_page(path, title, description, said, body, styles=""):
     """A page of the site itself, outside any city (its cities, and the contact form they share): the same
     header as a city's pages, its name a way back to the cities."""
-    here = f' <span class="here">{html.escape(PAGE_NAMES[path])}</span>' if path in PAGE_NAMES else ""
+    here = ""  # No page's name after the site's, as a city's pages have none (render_index).
     address = PUBLIC_SITE + path
     return (f'<!doctype html>\n<html lang="en">\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
             f'<title>{html.escape(title)}</title>\n<meta name="description" content="{html.escape(description)}">\n'
