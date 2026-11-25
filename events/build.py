@@ -173,6 +173,7 @@ VENUE_ADDRESSES = {
     "HOPE Center for the Arts": ("150 Bridge St", "Springfield", "01103"),
     "De La Luz": ("114 Race St", "Holyoke", "01040"),
     "Hutghi's at the Nook": ("8 Franklin St", "Westfield", "01085"),
+    "Visions Video": ("183 Main St", "Northampton", "01060"),
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
@@ -1063,6 +1064,51 @@ def read_ticketmaster(source):
                                        max((band.get("max") or 0 for band in prices), default=None)))
         listing["category"] = TICKETMASTER_SEGMENTS.get(segment, source["category"])
         events.append(listing)
+    return events
+
+
+def read_eventbrite(source):
+    """An organizer's public events on Eventbrite (Visions Video's screenings, Northampton), by its page's address
+    (eventbrite.com/o/visions-video-119527559781), from Eventbrite's API: its pages only fill in their events once
+    they're open, and turn the build away. The API needs a free private token, read from the EVENTBRITE_TOKEN
+    environment variable (a repository secret on GitHub); without one these are skipped. Each event its name, its
+    day and time where it is, its summary, its picture, its price and whether it's sold out; one held somewhere
+    else than the venue's usual address says where. Not one that's canceled, or online only."""
+    token = (os.environ.get("EVENTBRITE_TOKEN") or "").strip()  # A pasted token can bring a space or line break.
+    if not token:
+        print(f"  {source['name']}: skipped, no EVENTBRITE_TOKEN", file=sys.stderr)
+        return []
+    organizer = re.search(r"(\d+)/?$", source["url"]).group(1)
+    usual = VENUE_ADDRESSES.get(source["name"])
+    events, continuation = [], None
+    for _ in range(10):  # Fifty to a page; ten pages is more than any venue announces.
+        query = {"token": token, "status": "live", "order_by": "start_asc", "page_size": 50,
+                 "expand": "venue,ticket_availability"}
+        if continuation:
+            query["continuation"] = continuation
+        data = json.loads(fetch(f"https://www.eventbriteapi.com/v3/organizers/{organizer}/events/?{urlencode(query)}"))
+        for item in data.get("events") or []:
+            local = (item.get("start") or {}).get("local")
+            name = text((item.get("name") or {}).get("text"))
+            if not local or not name or item.get("online_event") or item.get("status") in ("canceled", "draft"):
+                continue
+            moment = datetime.fromisoformat(local)
+            place = (item.get("venue") or {}).get("address") or {}
+            address = None
+            if place.get("address_1") and place.get("postal_code") and usual and place["postal_code"][:5] != usual[-1]:
+                address = (place["address_1"], place.get("city") or "", place["postal_code"][:5])
+            tickets = item.get("ticket_availability") or {}
+            low, high = ((tickets.get(end) or {}).get("major_value") for end in ("minimum_ticket_price", "maximum_ticket_price"))
+            logo = item.get("logo") or {}
+            events.append(event(source, name, moment.date(), moment.time(), link=item.get("url") or "",
+                                about=about(item.get("summary") or (item.get("description") or {}).get("text") or ""),
+                                address=address, image=(logo.get("original") or {}).get("url") or logo.get("url") or "",
+                                price="Free" if item.get("is_free") else price_of(low, high),
+                                sold_out=bool(tickets.get("is_sold_out"))))
+        pages = data.get("pagination") or {}
+        continuation = pages.get("continuation")
+        if not (pages.get("has_more_items") and continuation):
+            break
     return events
 
 
@@ -3987,6 +4033,7 @@ READERS = {
     "jsonld": read_jsonld,
     "coolidge": read_coolidge,
     "ticketmaster": read_ticketmaster,
+    "eventbrite": read_eventbrite,
     "alamo": read_alamo,
     "landmark": read_landmark,
     "ics": read_ics,

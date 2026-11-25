@@ -1,0 +1,59 @@
+{
+  "pagination": {"object_count": 4, "page_number": 1, "page_size": 50, "page_count": 1, "has_more_items": false},
+  "events": [
+    {
+      "name": {"text": "Micro-Cinema #6: The Tallest Dwarf w/ filmmaker Julie Forrest Wyman", "html": "Micro-Cinema #6: The Tallest Dwarf w/ filmmaker Julie Forrest Wyman"},
+      "description": {"text": "A screening and Q&A with the filmmaker.", "html": "A screening and Q&amp;A with the filmmaker."},
+      "summary": "A screening and Q&A with the filmmaker.",
+      "id": "1810139519029",
+      "url": "https://www.eventbrite.com/e/screening-the-tallest-dwarf-w-filmmaker-julie-forrest-wyman-tickets-1810139519029",
+      "start": {"timezone": "America/New_York", "local": "2026-12-05T19:00:00", "utc": "2026-12-06T00:00:00Z"},
+      "end": {"timezone": "America/New_York", "local": "2026-12-05T21:00:00", "utc": "2026-12-06T02:00:00Z"},
+      "status": "live",
+      "online_event": false,
+      "is_free": false,
+      "logo": {"url": "https://img.evbuc.com/small.jpg", "original": {"url": "https://img.evbuc.com/original.jpg", "width": 1600, "height": 800}},
+      "venue": {"name": "Visions Video", "address": {"address_1": "183 Main Street", "city": "Northampton", "region": "MA", "postal_code": "01060"}},
+      "ticket_availability": {"has_available_tickets": true, "is_sold_out": false,
+                              "minimum_ticket_price": {"currency": "USD", "major_value": "10.00", "value": 1000},
+                              "maximum_ticket_price": {"currency": "USD", "major_value": "15.00", "value": 1500}}
+    },
+    {
+      "name": {"text": "Evil Puddle screening w/ director Charles Roxburgh & Matt Farley in person"},
+      "description": {"text": "Micro-cinema screening #5."},
+      "summary": "Micro-cinema screening #5.",
+      "url": "https://www.eventbrite.com/e/evil-puddle-screening-w-director-charles-roxburgh-matt-farley-in-person-tickets-1969995548717",
+      "start": {"timezone": "America/New_York", "local": "2026-12-12T20:30:00", "utc": "2026-12-13T01:30:00Z"},
+      "status": "live",
+      "online_event": false,
+      "is_free": true,
+      "logo": null,
+      "venue": {"name": "Academy of Music", "address": {"address_1": "274 Main St", "city": "Northampton", "region": "MA", "postal_code": "01060"}},
+      "ticket_availability": {"is_sold_out": true}
+    },
+    {
+      "name": {"text": "Outdoor Screening at Look Park"},
+      "summary": "On the lawn.",
+      "url": "https://www.eventbrite.com/e/outdoor-screening-tickets-1",
+      "start": {"timezone": "America/New_York", "local": "2026-12-19T18:00:00"},
+      "status": "live",
+      "online_event": false,
+      "is_free": true,
+      "venue": {"name": "Look Park", "address": {"address_1": "300 N Main St", "city": "Florence", "region": "MA", "postal_code": "01062"}}
+    },
+    {
+      "name": {"text": "Canceled Screening"},
+      "url": "https://www.eventbrite.com/e/canceled-tickets-2",
+      "start": {"timezone": "America/New_York", "local": "2026-12-20T19:00:00"},
+      "status": "canceled",
+      "online_event": false
+    },
+    {
+      "name": {"text": "Online Watch Party"},
+      "url": "https://www.eventbrite.com/e/online-tickets-3",
+      "start": {"timezone": "America/New_York", "local": "2026-12-21T19:00:00"},
+      "status": "live",
+      "online_event": true
+    }
+  ]
+}

@@ -47,6 +47,8 @@ jobs:
         env:
           # A free Ticketmaster Discovery API key, for venues like the Paradise.
           TICKETMASTER_KEY: ${{ secrets.TICKETMASTER_KEY }}
+          # A free Eventbrite private token, for venues that list only there, like Visions Video.
+          EVENTBRITE_TOKEN: ${{ secrets.EVENTBRITE_TOKEN }}
           # Empty means build now. (In GitHub's `a && b || c`, b can't be empty, so the condition is inverted.)
           EVENTS_EVERY_HOURS: ${{ (github.event_name != 'push' && !inputs.events) && '3' || '' }}
       - name: Publish

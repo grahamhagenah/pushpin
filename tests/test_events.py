@@ -124,6 +124,8 @@ ROUTES = [
     ("hopecenterforthearts.org/events/", "empty.html"),  # Its other show's page.
     ("delaluz.org/calendar", "delaluz.html"),
     ("m3pn87-t7.myshopify.com/products.json", "hutghis.json"),
+    # Written by hand in the shape of Eventbrite's API, which needs a token to read.
+    ("eventbriteapi.com/v3/organizers/119527559781/events/", "eventbrite_visions.json"),
     ("dspshows.com/venues/bombyx", "dsp.html"),
     ("bso.org/events/nov-27-tli-jazz-ted-rosenthal", "bso_rosenthal.html"),
     ("bso.org/events/h-h-handels-messiah-2026", "bso_messiah.html"),
@@ -468,6 +470,26 @@ class Readers(unittest.TestCase):
         self.assertNotIn("Cancelled Show", names)
         self.assertEqual(names["Late Show, Time To Be Announced"]["times"], [])
         self.assertIn("Untyped Show", names, "a show without a type keeps the venue's category")
+
+    def test_eventbrite_organizer_events(self):
+        with mock.patch.dict(os.environ, {"EVENTBRITE_TOKEN": "test"}):
+            found = self.read("eventbrite", "https://www.eventbrite.com/o/visions-video-119527559781", "film", "Visions Video")
+        by_title = {item["title"]: item for item in found}
+        self.assertEqual(set(by_title), {"Micro-Cinema #6: The Tallest Dwarf w/ filmmaker Julie Forrest Wyman",
+                                         "Evil Puddle screening w/ director Charles Roxburgh & Matt Farley in person",
+                                         "Outdoor Screening at Look Park"}, "not one canceled, nor one online only")
+        dwarf = by_title["Micro-Cinema #6: The Tallest Dwarf w/ filmmaker Julie Forrest Wyman"]
+        self.assertEqual((dwarf["date"], dwarf["times"], dwarf["price"], dwarf["image"], dwarf["address"]),
+                         (date(2026, 12, 5), [time(19, 0)], "$10–$15", "https://img.evbuc.com/original.jpg", None),
+                         "its local time, its price range, its full-size picture, and no address at the venue's own")
+        puddle = by_title["Evil Puddle screening w/ director Charles Roxburgh & Matt Farley in person"]
+        self.assertEqual((puddle["price"], puddle["sold_out"]), ("Free", True))
+        self.assertEqual(by_title["Outdoor Screening at Look Park"]["address"], ["300 N Main St", "Florence", "01062"],
+                         "one held elsewhere says where")
+
+    def test_eventbrite_without_token_is_skipped(self):
+        with mock.patch.dict(os.environ, {"EVENTBRITE_TOKEN": ""}):
+            self.assertEqual(build.read_eventbrite(source("eventbrite", "https://www.eventbrite.com/o/x-1")), [])
 
     def test_ticketmaster_without_key_is_skipped(self):
         with mock.patch.dict(os.environ, {"TICKETMASTER_KEY": ""}):
@@ -1109,7 +1131,7 @@ class WesternMass(unittest.TestCase):
                                                        "Shelburne Falls Memorial Hall", "Barrington Hall", "The Foundry", "Dreamaway Lodge",
                                                        "Tanglewood", "Pines Theater", "Tree House Brewing",
                                                        "Symphony Hall Springfield", "52 Sumner", "HOPE Center for the Arts",
-                                                       "De La Luz", "Hutghi's at the Nook"})
+                                                       "De La Luz", "Hutghi's at the Nook", "Visions Video"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             self.assertIn(s["name"], build.VENUE_ADDRESSES, "each under its town in the venue menu")
