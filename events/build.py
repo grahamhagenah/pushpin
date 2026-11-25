@@ -7337,6 +7337,11 @@ CSS = """
   @media not all and (max-width: 46rem) {
     .biggest-part, .fresh { display: flex; flex-direction: column; }
     .biggest { flex: 1 1 auto; }
+    /* Its words from the top of its picture, level with Just announced's heading across from them, and what it's
+       about to three lines, the room the picture leaves now that it's as tall as what's announced; a name that
+       takes two lines still fits. */
+    .biggest { align-items: flex-start; }
+    .biggest-about { -webkit-line-clamp: 3; }
   }
   /* On a phone, room enough between the film, what's announced and the filter that each reads as a part of its
      own; the filter still a little nearer the listings it's over. And a day's heading a little further from the
