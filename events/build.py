@@ -7246,13 +7246,17 @@ CSS = """
   .fresh-when { display: none; }
   /* Each line led by its kind's mark, as each listing below is, in its color. */
   .fresh-list a > .icon { width: 15px; height: 15px; align-self: center; margin-right: -.1em; }
-  /* The film: its picture beside its words in its own shape, a poster standing, a still lying on its side, a
-     little smaller on a phone, where the words beside it have less room. */
+  /* The film: its picture beside its words in its own shape, a poster standing, a still lying on its side, the
+     same height either way, so the card doesn't change height from one city's film to another's; a little smaller
+     on a phone, where the words beside it have less room. */
   .biggest { display: flex; align-items: center; gap: .9rem; color: inherit; }
   .biggest:hover { text-decoration: none; }
   .biggest-picture { flex: none; width: 120px; height: 96px; border-radius: 4px; object-fit: cover; background: #161616; }
   .biggest.standing .biggest-picture { width: 64px; height: 96px; }
-  @media (max-width: 34rem) { .biggest:not(.standing) .biggest-picture { width: 100px; height: 80px; } }
+  @media (max-width: 34rem) {
+    .biggest:not(.standing) .biggest-picture { width: 100px; height: 80px; }
+    .biggest.standing .biggest-picture { width: 54px; height: 80px; }
+  }
   .biggest-said { display: grid; gap: .15rem; min-width: 0; }
   .biggest-facts { display: block; color: #777; font-size: .85rem; line-height: 1.4; }  /* As a listing's line of when and where. */
   .biggest-facts .lead-day { color: #aaa; }
