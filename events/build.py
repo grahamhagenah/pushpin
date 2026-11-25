@@ -5958,10 +5958,20 @@ INDEX_JS = """
   // page or a weekend's, the row is far enough along to show the whole of that page's chip.
   const settleRow = () => {
     const row = filter.querySelector(".chips"), here = filter.querySelector(".when-links a[aria-current]");
-    if (row.scrollWidth <= row.clientWidth) return;  // A wide screen's bar, which isn't a row of its own.
+    if (row.scrollWidth <= row.clientWidth) return showEnds();  // A wide screen's bar, which isn't a row of its own.
     const over = here && !venue.value ? row.scrollLeft + here.getBoundingClientRect().right + 16 - row.getBoundingClientRect().right : 0;
     row.scrollLeft = Math.max(0, over);
+    showEnds();
   };
+  // Which ends of the row have more past them, for it to fade out there (more-left, more-right): a row that's cut
+  // off at the screen's edge with nothing to say so reads as all there is.
+  function showEnds() {
+    const row = filter.querySelector(".chips");
+    row.classList.toggle("more-left", row.scrollLeft > 2);
+    row.classList.toggle("more-right", row.scrollLeft + row.clientWidth < row.scrollWidth - 2);
+  }
+  filter.querySelector(".chips").addEventListener("scroll", showEnds, { passive: true });
+  addEventListener("resize", showEnds);
   const address = page => {
     const kept = params();
     if (page > 1) kept.set("page", page);
@@ -6806,6 +6816,17 @@ PIN_CSS = """
     /* A venue chosen is the row's first chip, ahead of the kinds, where it's seen without swiping: at the row's
        end it would be off the screen, narrowing the list with nothing to say so. */
     .filter .chips .pick-box.chosen { order: -1; }
+    /* The row fades out at an end where there's more of it past the screen's edge, and not at one where there
+       isn't (the script says which: more-left, more-right), so it reads as a row to swipe along, not one that
+       stops at the edge. */
+    .filter .chips { --fade-left: 0px; --fade-right: 0px;
+                     -webkit-mask-image: linear-gradient(to right, transparent 0, #000 var(--fade-left), #000 calc(100% - var(--fade-right)), transparent 100%);
+                     mask-image: linear-gradient(to right, transparent 0, #000 var(--fade-left), #000 calc(100% - var(--fade-right)), transparent 100%); }
+    .filter .chips.more-left { --fade-left: 2.25rem; }
+    .filter .chips.more-right { --fade-right: 2.75rem; }
+    /* On a phone, the venue's menu is the row's first chip whether one's chosen or not, where it's seen without
+       swiping, and stays at the top of the window with the row: at its end, off the screen, it went unfound. */
+    @media (max-width: 34rem) { .filter .chips .pick-box { order: -1; } }
     /* A chip is pressed over more than is drawn of it: 44 pixels' height, the least a finger wants, and out to
        halfway to the chips beside it. The row's own padding, taken back out of its margin, is the room for that,
        since a row that's swiped along cuts off what's outside it. */
