@@ -2797,6 +2797,25 @@ class Fallback(unittest.TestCase):
         events, *_ = build.gather([(self.venue, [], OSError("520"))], self.previous(6, days_ahead=-1), self.built)
         self.assertEqual(events, [])
 
+    def test_status_page_problems_first_and_out_of_search(self):
+        built = self.built.isoformat()
+        sources = [dict(source("aeg", "x", name=name), city="boston") for name in ("Roadrunner", "Paradise", "Sinclair", "Brattle")]
+        record = {"sources": {"Roadrunner": {"fetched": built, "events": [{}] * 3}, "Paradise": {"fetched": "2026-09-20T01:00:00+00:00", "events": [{}] * 9},
+                              "Brattle": {"fetched": built, "events": [{}] * 40}},
+                  "failing": {"Paradise": {"since": "2026-09-20T01:00:00+00:00", "error": "HTTP Error 403"},
+                              "Sinclair": {"since": "2026-09-19T01:00:00+00:00", "error": "timed out"}},
+                  "shrinking": {"Roadrunner": {"since": built, "count": 3, "usual": 30}},
+                  "counts": {"Roadrunner": [30] * 8, "Brattle": [40] * 3}}
+        page = build.render_status(sources, record, self.built)
+        order = [page.index(f"<td>{name}</td>") for name in ("Sinclair", "Paradise", "Roadrunner", "Brattle")]
+        self.assertEqual(order, sorted(order), "failed with nothing to show, failing, shrinking, then fine")
+        self.assertIn('<meta name="robots" content="noindex">', page)
+        self.assertIn("HTTP Error 403", page)
+        row = page[page.index("<td>Roadrunner</td>"):].split("</tr>")[0]
+        self.assertIn('<td class="num">3</td><td class="num muted">30</td>', row, "now, and its usual")
+        brattle = page[page.index("<td>Brattle</td>"):].split("</tr>")[0]
+        self.assertIn('<td class="num muted">–</td>', brattle, "no usual yet without a day's counts")
+
     def test_failing_since_carries_over(self):
         earlier = {"failing": {"Roadrunner": {"since": "2026-09-20T01:00:00+00:00", "error": "520"}}}
         failing = build.still_failing({"Roadrunner": "timed out", "Paradise": "403"}, earlier, self.built)

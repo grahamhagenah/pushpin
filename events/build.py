@@ -9,6 +9,7 @@ import json
 import os
 import re
 import shutil
+import statistics
 import struct
 import sys
 import threading
@@ -5775,6 +5776,72 @@ def render_retired(slug, name, cities):
         '<meta name="description"', '<meta name="robots" content="noindex">\n<meta name="description"', 1)
 
 
+# The status page's states, worst first, each with what it says and its color.
+STATUS_STATES = {
+    "failed": ("Failed", "#f87171", "failed with nothing recent to fall back on: off the page"),
+    "failing": ("Failing", "#fb923c", "failing, shown from its last good listings"),
+    "shrinking": ("Shrinking", "#fbbf24", "loading, but far fewer than usual"),
+    "ok": ("OK", "#4ade80", ""),
+}
+STATUS_CSS = """
+  .status-summary { margin: 0 0 1.6rem; color: #aaa; font-size: .9rem; }
+  .status-summary b { color: #fff; font-weight: 600; }
+  .status { width: 100%; border-collapse: collapse; font-size: .85rem; font-variant-numeric: tabular-nums; }
+  .status th { position: sticky; top: 0; padding: .5rem .6rem .5rem 0; background: #000; color: #777; font-weight: 500;
+               text-align: left; white-space: nowrap; border-bottom: 1px solid #262626; }
+  .status td { padding: .45rem .6rem .45rem 0; border-bottom: 1px solid #141414; vertical-align: top; }
+  .status td.num, .status th.num { text-align: right; }
+  .status .state { white-space: nowrap; }
+  .status .state i { display: inline-block; width: .5rem; height: .5rem; margin-right: .4rem; border-radius: 50%; }
+  .status .muted { color: #666; }
+  .status .note { color: #888; max-width: 22rem; overflow-wrap: anywhere; }
+  @media (max-width: 34rem) { .status .hide-narrow { display: none; } }
+"""
+
+
+def render_status(sources, record, built_at):
+    """pushpin.city/status/: every source's health as of this build, problems first. Its state (failed, failing,
+    shrinking or fine), its city and reader, how many it listed this build and usually lists (the middle of the
+    week's counts, still_shrinking's), when it last loaded and its last error. Not linked from anywhere, and kept
+    out of search results: it's for whoever looks after the site, to see at a glance what the issues say one by one."""
+    listings, failing, shrinking, counts = (record.get(key) or {} for key in ("sources", "failing", "shrinking", "counts"))
+    rows = []
+    for source in sources:
+        name = source["name"]
+        kept = listings.get(name)
+        state = ("failed" if name in failing and not kept else "failing" if name in failing
+                 else "shrinking" if name in shrinking else "ok")
+        fresh = kept and kept["fetched"] == built_at.isoformat()
+        history = counts.get(name) or []
+        usual = round(statistics.median(history)) if len(history) >= shared.SHRINK_LEAST else None
+        note = failing[name]["error"] if name in failing else (
+            f"since {shrinking[name]['since'][:10]}" if name in shrinking else "")
+        since = (failing.get(name) or shrinking.get(name) or {}).get("since")
+        rows.append((list(STATUS_STATES).index(state), source.get("city", ""), name.casefold(), state, source, kept, fresh, usual, note, since))
+    rows.sort(key=lambda row: row[:3])
+    tally = Counter(row[3] for row in rows)
+    cities = {city.slug: city.name.partition(" ")[2] for city in CITIES}
+    body = (f'<p class="status-summary"><b>{len(rows)}</b> sources: ' + " · ".join(
+        f'<b>{tally[state]}</b> {label.lower()}' for state, (label, _, _) in STATUS_STATES.items() if tally[state])
+        + f'. Built <time class="ago" datetime="{built_at.isoformat()}"></time>; a source has a usual once it '
+        f'has a day of builds.</p>\n<table class="status">\n<thead><tr><th>State</th><th>Source</th>'
+        '<th class="hide-narrow">City</th><th class="hide-narrow">Reader</th><th class="num">Now</th><th class="num">Usual</th>'
+        '<th class="hide-narrow">Loaded</th><th>Note</th></tr></thead>\n<tbody>\n')
+    for _, city, _, state, source, kept, fresh, usual, note, since in rows:
+        label, color, meaning = STATUS_STATES[state]
+        now = len(kept["events"]) if kept and fresh else "–"
+        loaded = (f'<time class="ago" datetime="{kept["fetched"]}"></time>' if kept else "never")
+        body += (f'<tr><td class="state" title="{html.escape(meaning)}"><i style="background:{color}"></i>{label}</td>'
+                 f'<td>{html.escape(source["name"])}</td><td class="hide-narrow muted">{html.escape(cities.get(city, city))}</td>'
+                 f'<td class="hide-narrow muted">{html.escape(source["kind"])}</td><td class="num">{now}</td>'
+                 f'<td class="num muted">{usual if usual is not None else "–"}</td>'
+                 f'<td class="hide-narrow muted">{loaded}</td><td class="note">{html.escape(note)}</td></tr>\n')
+    body += "</tbody>\n</table>\n" + shared.AGES  # "3h ago", by the reader's clock.
+    return site_page("status/", "Status · Pushpin", "The health of each source Pushpin reads.",
+                     "The health of each source, as of the last build.", body, STATUS_CSS).replace(
+        '<meta name="description"', '<meta name="robots" content="noindex">\n<meta name="description"', 1)
+
+
 def render_not_found(cities, retired=()):
     """pushpin.city's page for an address it doesn't have. One under a retired city's folder goes to the page
     there saying it's closed. One from when Boston's pages were under /boston/ goes to the same page at the
@@ -8100,6 +8167,8 @@ def main():
     (PUBLIC_DIR / "cities" / "index.html").write_text(render_cities(CITIES))
     (PUBLIC_DIR / "contact").mkdir(exist_ok=True)
     (PUBLIC_DIR / "contact" / "index.html").write_text(render_contact())
+    (PUBLIC_DIR / "status").mkdir(exist_ok=True)
+    (PUBLIC_DIR / "status" / "index.html").write_text(render_status(sources, record, built_at))
     (PUBLIC_DIR / "sitemap-site.xml").write_text(render_site_sitemap(built_at))
     (PUBLIC_DIR / "404.html").write_text(render_not_found(CITIES, RETIRED))
     for slug, name in RETIRED.items():
@@ -8108,7 +8177,7 @@ def main():
     # robots.txt, which only works at the site's root: each city's sitemap.
     (PUBLIC_DIR / "robots.txt").write_text("User-agent: *\nAllow: /\n\n" + f"Sitemap: {PUBLIC_SITE}sitemap-site.xml\n" + "".join(
         f"Sitemap: {PUBLIC_SITE}{city.path}sitemap.xml\n" for city in CITIES))
-    print(f"Wrote {PUBLIC_DIR.relative_to(ROOT.parent)}: cities/, contact/, sitemap-site.xml, robots.txt and 404.html")
+    print(f"Wrote {PUBLIC_DIR.relative_to(ROOT.parent)}: cities/, contact/, status/, sitemap-site.xml, robots.txt and 404.html")
     shrunk = minify_pages(PUBLIC_DIR)
     if shrunk:
         print(f"Minified the styles and scripts in {PUBLIC_DIR.relative_to(ROOT.parent)}'s pages, {shrunk // 1024} KB less")
