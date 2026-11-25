@@ -2422,8 +2422,9 @@ class Biggest(unittest.TestCase):
         goes back to the date itself (data-said) for a page read after midnight."""
         events = [self.showing("Wide Release", f"Theater {n}") for n in range(4)]
         lead, _ = build.render_lead(events, self.built)
-        self.assertIn(f'<span class="biggest-facts">{build.FILM_MARK}<span class="lead-day" data-date="2026-09-20" data-said="Sun, Sep 20">Today</span>'
+        self.assertIn('<span class="biggest-facts"><span class="lead-day" data-date="2026-09-20" data-said="Sun, Sep 20">Today</span>'
                       ' · 4 theaters</span>', lead, "the day first, as a listing's small line has it")
+        self.assertIn(f'<b class="biggest-title">{build.FILM_MARK}Wide Release</b>', lead, "its kind's mark before its name, as a row's")
         later, _ = build.render_lead(events, self.built - timedelta(days=2))
         self.assertIn('data-said="Sun, Sep 20">Sun, Sep 20</span>', later, "not today or tomorrow: the date")
         self.assertIn('document.querySelectorAll(".lead-day")', build.INDEX_JS)

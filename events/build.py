@@ -4050,7 +4050,7 @@ def tabler(paths, css_class):
 # A listing's copy-link button's icon (Tabler's "link").
 SHARE_MARK = tabler(["M8 9h-1a2 2 0 0 0 -2 2v8a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-8a2 2 0 0 0 -2 -2h-1", "M12 14v-11",
                      "M9 6l3 -3l3 3"], "share-mark")
-# At the start of the widest release's line of facts, film's own mark, the filter's and its rows', in film's amber.
+# Before the widest release's name, film's own mark, the filter's and its rows', in film's amber.
 FILM_MARK = '<svg class="icon lead-mark" aria-hidden="true"><use href="#icon-film"/></svg>'
 # Its add-to-calendar button's, Tabler's "calendar-plus".
 CALENDAR_MARK = tabler(["M12.5 21h-6.5a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v5", "M16 3v4", "M8 3v4",
@@ -4459,8 +4459,8 @@ def render_lead(events, built_at, before="", days=None, when=""):
             f'<div class="biggest-part">'
             f'<a class="biggest{" standing" if film["standing"] else ""}" data-category="film" '
             f'href="{PUBLIC_ROOT}?{urlencode({"event": film["id"]})}">{picture}'
-            f'<span class="biggest-said"><span class="biggest-facts">{FILM_MARK}{said(film["day"])} · {film["theaters"]} theaters</span>'
-            f'<b class="biggest-title">{html.escape(film["title"])}</b>'
+            f'<span class="biggest-said"><span class="biggest-facts">{said(film["day"])} · {film["theaters"]} theaters</span>'
+            f'<b class="biggest-title">{FILM_MARK}{html.escape(film["title"])}</b>'
             + (f'<span class="biggest-about">{html.escape(film["about"])}</span>' if film["about"] else "")
             + '</span></a></div>')
     if not parts:
@@ -7290,8 +7290,8 @@ CSS = """
                padding-bottom: .45rem; border-bottom: 1px solid #1c1c1c; }
   /* A heading in words, as a day's is: white and semibold, a step under the film's name. */
   .lead-tag { color: #fff; font-size: .95rem; font-weight: 600; letter-spacing: -.005em; }
-  /* The film's line of facts led by film's frame, in amber, the size of a row's mark. */
-  .lead-mark { width: 13px; height: 13px; margin-right: .4em; vertical-align: -2px; }
+  /* The film's name led by film's frame, in amber, as a listing's name and an announced one's are, their size. */
+  .lead-mark { width: 15px; height: 15px; margin-right: .45em; vertical-align: -2px; }
   .biggest-part .lead-mark { color: var(--film); }
   /* The heading goes to the rest of what's announced too, as See all at the end of its line does. */
   .fresh-tag:hover { color: #fff; text-decoration: none; }
