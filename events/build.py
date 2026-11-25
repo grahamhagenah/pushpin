@@ -6278,11 +6278,21 @@ INDEX_JS = """
   // On a phone, an × in the search while it has something in it. A wide screen has Esc.
   const clearSearch = document.querySelector(".search-clear");
   const combined = [...document.querySelectorAll(".combined")];
+  // On the home page, the kind and the night shown in place are in its own address, as the search and the venue
+  // are (?kind=music, ?when=tonight, weekend or next-weekend), not their pages' addresses: loaded again, it's the
+  // same page showing the same, what's over the list and all. Their own pages are still there, for search engines
+  // and links from elsewhere.
+  const WHEN_NAMES = { tonight: "tonight", 0: "weekend", 1: "next-weekend" };
   const fromAddress = () => {
     const params = new URLSearchParams(location.search);
     search.value = params.get("q") || "";
     venue.value = params.get("venue") || "";
     if (venue.selectedIndex < 0) venue.value = ""; // A venue no longer listed.
+    if (inPlace) {
+      const kind = params.get("kind");
+      show = filter.querySelector(`a[data-show="${CSS.escape(kind || "")}"]`) ? kind : "all";
+      when = whenLinks.find(a => WHEN_NAMES[a.dataset.when] === params.get("when")) || null;
+    }
   };
   fromAddress();
   // The bar: its height, for the day's heading to stick under it rather than behind it.
@@ -6398,7 +6408,10 @@ INDEX_JS = """
   filter.querySelector(".chips").addEventListener("scroll", showEnds, { passive: true });
   addEventListener("resize", showEnds);
   const address = page => {
-    const kept = params();
+    const kept = new URLSearchParams();
+    if (inPlace && show !== "all") kept.set("kind", show);
+    if (inPlace && when) kept.set("when", WHEN_NAMES[when.dataset.when]);
+    for (const [name, value] of params()) kept.set(name, value);
     if (page > 1) kept.set("page", page);
     return kept.toString() ? "?" + kept : location.pathname;
   };
@@ -6521,8 +6534,8 @@ INDEX_JS = """
   // Tonight or a weekend, on the home page: shown in place, or, pressed again, let go, back to every day.
   const showWhen = link => {
     when = link;
-    history.pushState(null, "", pathOf() + query());
-    window.goatcounter?.count?.({ path: location.pathname }); // Its page, shown in place, is a visit to it.
+    history.pushState(null, "", address(1));
+    window.goatcounter?.count?.({ path: pathOf() }); // Its page, shown in place, is a visit to it.
     showEvents();
     settleRow();
     toList();
@@ -6543,10 +6556,10 @@ INDEX_JS = """
     event.preventDefault();
     show = b.dataset.show;
     if (kindPages && when) {
-      history.replaceState(null, "", address(1)); // Tonight's music, say: still tonight's address, as its page's own kinds.
+      history.replaceState(null, "", address(1)); // Tonight's music, say: the night kept, the kind added.
     } else if (kindPages) {
-      history.pushState(null, "", pathOf() + query());
-      window.goatcounter?.count?.({ path: location.pathname }); // A kind's page, shown in place, is a visit to it.
+      history.pushState(null, "", address(1));
+      window.goatcounter?.count?.({ path: pathOf() }); // A kind's page, shown in place, is a visit to it.
     } else {
       if (remember) try { localStorage.setItem("events-show", show); } catch (error) {}
       history.replaceState(null, "", address(1)); // Back to page one.
@@ -6556,11 +6569,7 @@ INDEX_JS = """
   });
   // Back and forward between the kinds (and venues) the home page has shown.
   if (inPlace) addEventListener("popstate", () => {
-    const at = a => new URL(a.dataset.href, location.href).pathname === location.pathname;
-    when = whenLinks.find(at) || null;
-    const here = [...filter.querySelectorAll("a[data-show]")].find(at);
-    if (!when) show = here ? here.dataset.show : "all";
-    fromAddress();
+    fromAddress();  // The kind and the night with the rest, from the address.
     showEvents();
     settleRow();
   });
@@ -6573,7 +6582,7 @@ INDEX_JS = """
     show = "all";
     if (remember) try { localStorage.setItem("events-show", show); } catch (error) {}
     // On the home page, tonight or a weekend stays: tonight at the venue chosen.
-    if (kindPages) history.pushState(null, "", pathOf() + query());
+    if (kindPages) history.pushState(null, "", address(1));
     else history.replaceState(null, "", address(1));
     showEvents();
     settleRow();
@@ -7103,6 +7112,10 @@ PIN_CSS = """
   /* On a phone, a narrower gutter than the newsfeed's: every row here hangs its words after its kind's mark, which
      is a gutter of its own on the left, so the page's needn't be as wide. */
   @media (max-width: 34rem) { body { padding-left: 1rem; padding-right: 1rem; } }
+  /* On a phone, a film's one-night tag after its name with the room the name and the space after it leave, not
+     its own margin too: the three together, some 17 pixels, put it on a line of its own after "Meet Me in St.
+     Louis (1944)" on a phone 360 pixels wide, where it would have fit. */
+  @media (max-width: 34rem) { .headline > .once-tag { margin-left: 0; } }
   /* The name's i, its dot a pin's head (WORDMARK): a quarter of an em across where a dot is a fifth, in amber. */
   .wordmark .i { position: relative; }
   .wordmark .tittle { position: absolute; left: 50%; top: .05em; width: .26em; height: .26em; margin-left: -.13em;
@@ -7722,6 +7735,11 @@ CSS = """
      — runs together, and at the filter's thirteen it read as smaller than the time beside it. */
   .day > ul > li.row > .icon, .day > ul > li.combined > details > summary > .icon { width: 15px; height: 15px; }
   .detail { min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+  /* On a wide screen the name comes first: what's after it (who else is on the bill, a room, a line about it) at
+     most two fifths of the line, and the first to give way, eight times as fast as the name. Left to share the
+     shortfall by their lengths, a venue's sentence about a show ("Acclaimed singer-songwriters share an intimate
+     evening of…") cut the name of it to a word and a half. */
+  @media not all and (max-width: 34rem) { .day .headline > .detail { flex: 0 8 auto; max-width: 40%; } }
   /* A listing's own view: a panel in from the right on a wide screen, a sheet up from the bottom on a phone. Its
      way to the venue's page (for tickets) first and plainest; its times, each adding that showing to a calendar. */
   /* The page held still behind it. The page's scrolling is the window's, which hiding the body's overflow doesn't
