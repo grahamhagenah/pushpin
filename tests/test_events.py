@@ -1665,7 +1665,7 @@ class JustAnnounced(unittest.TestCase):
         page = build.render_index([dict(self.listing(20), added="2026-09-15")], [self.venue], [], [], self.built, public=True)
         self.assertIn('<div class="lead-head"><a class="lead-tag fresh-tag" href="', page)
         self.assertIn(".lead-tag { color: #fff; font-size: .95rem; font-weight: 600;", page)
-        self.assertIn(".fresh-tag .lead-mark { color: #fff; }", page, "its sparkles white, as neutral as what's announced is mixed")
+        self.assertNotIn("lead-mark", page.split('class="fresh"')[1].split("</div>")[0], "its words alone, no mark")
         self.assertNotIn(".fresh-more { display: none; }", page, "See all is there on a phone too")
         # A line each: the name, cut short where it must be, and when and where after it, said whole; beside the
         # film's card on a wide screen.
@@ -2422,7 +2422,7 @@ class Biggest(unittest.TestCase):
         goes back to the date itself (data-said) for a page read after midnight."""
         events = [self.showing("Wide Release", f"Theater {n}") for n in range(4)]
         lead, _ = build.render_lead(events, self.built)
-        self.assertIn('<span class="biggest-facts"><span class="lead-day" data-date="2026-09-20" data-said="Sun, Sep 20">Today</span>'
+        self.assertIn(f'<span class="biggest-facts">{build.FILM_MARK}<span class="lead-day" data-date="2026-09-20" data-said="Sun, Sep 20">Today</span>'
                       ' · 4 theaters</span>', lead, "the day first, as a listing's small line has it")
         later, _ = build.render_lead(events, self.built - timedelta(days=2))
         self.assertIn('data-said="Sun, Sep 20">Sun, Sep 20</span>', later, "not today or tomorrow: the date")
@@ -2563,7 +2563,8 @@ class Biggest(unittest.TestCase):
         self.assertEqual(film, "wide release", "what the next build keeps, unless something's bigger")
         self.assertIn('<div class="lead">', lead)
         self.assertLess(lead.index('class="biggest-part"'), lead.index('class="fresh"'), "the film first, what's announced after")
-        self.assertIn("Widest release</span>", lead, "named for what's counted: how many theaters have it")
+        self.assertNotIn("Widest release", lead, "no heading: its count of theaters says why it's there")
+        self.assertIn("4 theaters</span>", lead)
         self.assertEqual(lead.count("<img"), 1, "the film's poster, and no picture of what's announced")
         self.assertNotIn("band.jpg", lead)
         self.assertNotIn("setInterval", lead, "and nothing that turns")
@@ -2575,11 +2576,11 @@ class Biggest(unittest.TestCase):
         events = [self.showing("Wide Release", f"Theater {n}", image=POSTER) for n in range(4)]
         standing, _ = build.render_lead(events, self.built)
         self.assertIn('class="biggest standing"', standing)
-        self.assertIn('width="64" height="96"', standing)
+        self.assertIn('width="87" height="130"', standing)
         with mock.patch.object(build, "picture_shape", return_value=(1920, 1080)):
             lying, _ = build.render_lead(events, self.built)
         self.assertIn('class="biggest" data-category="film"', lying)
-        self.assertIn('width="120" height="96"', lying)
+        self.assertIn('width="162" height="130"', lying)
 
 
 class Fallback(unittest.TestCase):

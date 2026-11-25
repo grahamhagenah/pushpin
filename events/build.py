@@ -4050,11 +4050,7 @@ def tabler(paths, css_class):
 # A listing's copy-link button's icon (Tabler's "link").
 SHARE_MARK = tabler(["M8 9h-1a2 2 0 0 0 -2 2v8a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-8a2 2 0 0 0 -2 -2h-1", "M12 14v-11",
                      "M9 6l3 -3l3 3"], "share-mark")
-# Before Just announced, Tabler's "sparkles": what's new.
-SPARK_MARK = tabler(["M16 18a2 2 0 0 1 2 2a2 2 0 0 1 2 -2a2 2 0 0 1 -2 -2a2 2 0 0 1 -2 2z",
-                     "M16 6a2 2 0 0 1 2 2a2 2 0 0 1 2 -2a2 2 0 0 1 -2 -2a2 2 0 0 1 -2 2z",
-                     "M9 18a6 6 0 0 1 6 -6a6 6 0 0 1 -6 -6a6 6 0 0 1 -6 6a6 6 0 0 1 6 6z"], "lead-mark")
-# Before Widest release, film's own mark, the filter's and its rows', in the heading's grey.
+# At the start of the widest release's line of facts, film's own mark, the filter's and its rows', in film's amber.
 FILM_MARK = '<svg class="icon lead-mark" aria-hidden="true"><use href="#icon-film"/></svg>'
 # Its add-to-calendar button's, Tabler's "calendar-plus".
 CALENDAR_MARK = tabler(["M12.5 21h-6.5a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v5", "M16 3v4", "M8 3v4",
@@ -4444,21 +4440,23 @@ def render_lead(events, built_at, before="", days=None, when=""):
             for item in fresh)
         parts.append(
             f'<div class="fresh"><div class="lead-head"><a class="lead-tag fresh-tag" href="{PUBLIC_ROOT}{PUBLIC_NEW[0]}">'
-            f'{SPARK_MARK}Just announced</a>'
+            f'Just announced</a>'
             f'<a class="fresh-more" href="{PUBLIC_ROOT}{PUBLIC_NEW[0]}">See all →</a></div>'
             f'<ul class="fresh-list">{rows}</ul></div>')
     if film:
         # The film a card of its own, its picture beside its words in its own shape: a poster standing on its end, a
         # still from the film lying on its side (cut to a poster's shape, a still lost most of its scene), at five by
         # four and the poster's height rather than its own sixteen by nine, which left it a thin strip beside the words.
-        box = (64, 96) if film["standing"] else (120, 96)
+        # No heading over it: its picture and its count of theaters say it's the film most are showing. As tall as
+        # what's announced beside it on a wide screen (8.125rem, .lead > *'s least height).
+        box = (87, 130) if film["standing"] else (162, 130)
         picture = (f'<img class="biggest-picture" src="{html.escape(kept_picture(film["image"], box))}" alt="" '
                    f'width="{box[0]}" height="{box[1]}" decoding="async" referrerpolicy="no-referrer">') if film["image"] else ""
         parts.insert(0,
-            f'<div class="biggest-part"><div class="lead-head"><span class="lead-tag">{FILM_MARK}Widest release</span></div>'
+            f'<div class="biggest-part">'
             f'<a class="biggest{" standing" if film["standing"] else ""}" data-category="film" '
             f'href="{PUBLIC_ROOT}?{urlencode({"event": film["id"]})}">{picture}'
-            f'<span class="biggest-said"><span class="biggest-facts">{said(film["day"])} · {film["theaters"]} theaters</span>'
+            f'<span class="biggest-said"><span class="biggest-facts">{FILM_MARK}{said(film["day"])} · {film["theaters"]} theaters</span>'
             f'<b class="biggest-title">{html.escape(film["title"])}</b>'
             + (f'<span class="biggest-about">{html.escape(film["about"])}</span>' if film["about"] else "")
             + '</span></a></div>')
@@ -7284,15 +7282,14 @@ CSS = """
   .lead > .fresh { display: flex; flex-direction: column; }
   .lead > .fresh > .fresh-list { margin: auto 0; }
   .lead.one > .fresh > .fresh-list { margin: 0 0 auto; }
-  .lead-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: .75rem;
-               padding: .25rem 0 .45rem; border-bottom: 1px solid #1c1c1c; }
-  /* Each a heading in words, as a day's is: white and semibold, a step under the film's name. */
+  /* Just announced's heading: its words and See all, no mark and no line under it, as little as says what the lines
+     under it are. */
+  .lead-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: .6rem; }
+  /* A heading in words, as a day's is: white and semibold, a step under the film's name. */
   .lead-tag { color: #fff; font-size: .95rem; font-weight: 600; letter-spacing: -.005em; }
-  /* Each led by a mark of what it's about: film's frame in amber; and sparkles for what's new in white, as its
-     words are, what's announced being of every kind, each line marked in its own kind's color under it. */
-  .lead-mark { width: 16px; height: 16px; margin-right: .45em; vertical-align: -3px; }
+  /* The film's line of facts led by film's frame, in amber, the size of a row's mark. */
+  .lead-mark { width: 13px; height: 13px; margin-right: .4em; vertical-align: -2px; }
   .biggest-part .lead-mark { color: var(--film); }
-  .fresh-tag .lead-mark { color: #fff; }
   /* The heading goes to the rest of what's announced too, as See all at the end of its line does. */
   .fresh-tag:hover { color: #fff; text-decoration: none; }
   .fresh-more { flex: none; color: #888; font-size: .85rem; }
@@ -7319,8 +7316,8 @@ CSS = """
      on a phone, where the words beside it have less room. */
   .biggest { display: flex; align-items: center; gap: .9rem; color: inherit; }
   .biggest:hover { text-decoration: none; }
-  .biggest-picture { flex: none; width: 120px; height: 96px; border-radius: 4px; object-fit: cover; background: #161616; }
-  .biggest.standing .biggest-picture { width: 64px; height: 96px; }
+  .biggest-picture { flex: none; width: 162px; height: 130px; border-radius: 4px; object-fit: cover; background: #161616; }
+  .biggest.standing .biggest-picture { width: 87px; height: 130px; }
   @media (max-width: 34rem) {
     .biggest:not(.standing) .biggest-picture { width: 100px; height: 80px; }
     .biggest.standing .biggest-picture { width: 54px; height: 80px; }
@@ -7346,6 +7343,8 @@ CSS = """
      day before it. */
   @media (max-width: 34rem) {
     .lead { row-gap: 2.6rem; margin-bottom: 3.5rem; }
+    /* The film over what's announced, not beside it: only as tall as its card, with no heading over it now. */
+    .lead > .biggest-part { min-height: 0; }
     .day > h2 { margin-top: 2.4rem; }
   }
   /* On Just announced, where a heading is the day a listing turned up, each says the day it's on. */
