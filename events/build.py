@@ -1081,9 +1081,8 @@ def read_eventbrite(source):
     organizer = re.search(r"(\d+)/?$", source["url"]).group(1)
     usual = VENUE_ADDRESSES.get(source["name"])
     events, continuation = [], None
-    for _ in range(10):  # Fifty to a page; ten pages is more than any venue announces.
-        query = {"token": token, "status": "live", "order_by": "start_asc", "page_size": 50,
-                 "expand": "venue,ticket_availability"}
+    for _ in range(10):  # Fifty to a page, which can't be changed here; ten pages is more than any venue announces.
+        query = {"token": token, "status": "live", "order_by": "start_asc", "expand": "venue,ticket_availability"}
         if continuation:
             query["continuation"] = continuation
         try:
