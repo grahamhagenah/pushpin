@@ -60,3 +60,7 @@ shopify        https://m3pn87-t7.myshopify.com/products.json?limit=250   music  
 # Visions Video's micro-cinema screenings (Northampton), on Eventbrite only, whose pages turn Pushpin away; read
 # from Eventbrite's API instead, with the EVENTBRITE_TOKEN secret.
 eventbrite     https://www.eventbrite.com/o/visions-video-119527559781   film   Visions Video
+# A reader's suggestions: the Northampton Center for the Arts' events (a list on its page, not its classes), and
+# the Stone Church, Brattleboro, over the line in Vermont but the Valley's (VenuePilot, account 184).
+squarespacelist https://www.nohoarts.org/upcoming-events             music  Northampton Center for the Arts
+venuepilot     https://stonechurchvt.com/events#184                  music  Stone Church

@@ -124,6 +124,7 @@ ROUTES = [
     ("hopecenterforthearts.org/events/", "empty.html"),  # Its other show's page.
     ("delaluz.org/calendar", "delaluz.html"),
     ("m3pn87-t7.myshopify.com/products.json", "hutghis.json"),
+    ("nohoarts.org/upcoming-events", "nohoarts.html"),
     # Written by hand in the shape of Eventbrite's API, which needs a token to read.
     ("eventbriteapi.com/v3/organizers/119527559781/events/", "eventbrite_visions.json"),
     ("dspshows.com/venues/bombyx", "dsp.html"),
@@ -992,6 +993,25 @@ class WesternMass(unittest.TestCase):
         self.assertFalse([title for title in by_title if re.search(r"shirt|every|trivia", title, re.I)],
                          "not its shirts, nor its weekly comedy and trivia")
 
+    def test_noho_arts_events_from_its_page_list(self):
+        with mock.patch.object(build, "today", lambda: date(2026, 11, 25)):
+            found = build.read_squarespace_list(source("squarespacelist", "https://www.nohoarts.org/upcoming-events", "music",
+                                                       "Northampton Center for the Arts"))
+        by_title = {item["title"]: item for item in found}
+        jazz = by_title["Pioneer Valley Jazz Shares: Tropos"]
+        self.assertEqual((jazz["date"], jazz["times"], jazz["price"], jazz["category"]),
+                         (date(2027, 1, 21), [time(19, 30)], "$20", "music"), "its year as it says it, its start of 7:30-9:30 PM")
+        self.assertEqual(jazz["link"], "https://www.nohoarts.org/tropos", "its Learn more page")
+        self.assertTrue(jazz["image"].startswith("https://images.squarespace-cdn.com/"))
+        self.assertEqual(by_title["Slow Burn Speakeasy"]["times"], [time(20, 0)])
+        self.assertEqual(by_title["30 Poems in November Reading & Celebration"]["category"], "art")
+        self.assertEqual(by_title["30 Poems in November Reading & Celebration"]["price"], "Free")
+        night = by_title["Arts Night Out at 33"]
+        self.assertEqual((night["date"], night["times"], night["category"]), (date(2026, 12, 11), [time(17, 0)], "art"),
+                         "a monthly one by its next date, a gallery night as art")
+        self.assertFalse([title for title in by_title if re.search(r"fair|market|meeting|prom\b|tank|passion", title, re.I)],
+                         "not its fairs, markets, meetings, prom, discussion group or dance social")
+
     def test_dsp_shows_venue_pages_by_their_events_data(self):
         found = build.read_jsonld(source("jsonld", "https://dspshows.com/venues/bombyx/", "music", "Bombyx"))
         titles = {item["title"] for item in found}
@@ -1131,7 +1151,8 @@ class WesternMass(unittest.TestCase):
                                                        "Shelburne Falls Memorial Hall", "Barrington Hall", "The Foundry", "Dreamaway Lodge",
                                                        "Tanglewood", "Pines Theater", "Tree House Brewing",
                                                        "Symphony Hall Springfield", "52 Sumner", "HOPE Center for the Arts",
-                                                       "De La Luz", "Hutghi's at the Nook", "Visions Video"})
+                                                       "De La Luz", "Hutghi's at the Nook", "Visions Video",
+                                                       "Northampton Center for the Arts", "Stone Church"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             self.assertIn(s["name"], build.VENUE_ADDRESSES, "each under its town in the venue menu")

@@ -174,6 +174,8 @@ VENUE_ADDRESSES = {
     "De La Luz": ("114 Race St", "Holyoke", "01040"),
     "Hutghi's at the Nook": ("8 Franklin St", "Westfield", "01085"),
     "Visions Video": ("183 Main St", "Northampton", "01060"),
+    "Northampton Center for the Arts": ("33 Hawley St", "Northampton", "01060"),
+    "Stone Church": ("210 Main St", "Brattleboro", "VT", "05301"),  # Over the line in Vermont, but the Valley's.
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
@@ -1251,6 +1253,49 @@ def read_squarespace(source):
         title, support = with_support(title)
         events.append(event(source, title, day, start, link=urljoin(source["url"], item["fullUrl"]), detail=support,
                             about=about(described), image=f"{picture}?format=750w" if picture.startswith("http") else ""))
+    return events
+
+
+# A day and time as a Squarespace list's item says it in bold under its name: "Friday, December 4, 8:00 PM -
+# midnight", "Tuesday, December 8, 6:30-8:30 PM" (the start's half of the day from the end's), "Thursday, January
+# 21, 2027, 7:30-9:30 PM"; a monthly one's "Next Date: Friday, December 11, 5:00-8:00 PM".
+LIST_DAY = re.compile(r"\b(?:Mon|Tues|Wednes|Thurs|Fri|Satur|Sun)day, ([A-Z][a-z]+) (\d{1,2})(?:, (\d{4}))?"
+                      r"(?:, (\d{1,2})(?::(\d{2}))?\s*([AP]M)?(?:\s*[-–]\s*\d{1,2}(?::\d{2})?\s*([AP]M))?)?", re.I)
+# What a community arts center lists that's not a show: its fairs and markets, a group's meeting, a prom, a monthly
+# discussion group, and a dance social with lessons (Passion Fridays, Lenny's Dance Fitness).
+LIST_SKIP = re.compile(r"\b(?:fair|market|meeting|prom|talk tank)\b|passion fridays", re.I)
+
+
+def read_squarespace_list(source):
+    """A Squarespace page whose events are a list section written by hand (the Northampton Center for the Arts',
+    nohoarts.org/upcoming-events), from the section's data in the page: each item its name, its day and time and
+    its cost in bold lines under it, its "Learn more" page and its picture. A monthly one by its next date; not
+    one with no day of its own ("First Monday of the month"), nor what LIST_SKIP has. A gallery night (Arts Night
+    Out) is art; the rest by guess_kind."""
+    page = fetch(source["url"])
+    events = []
+    for found in re.finditer(r'data-current-context="([^"]*userItems[^"]*)"', page):
+        for item in json.loads(html.unescape(found.group(1))).get("userItems") or []:
+            title = text(item.get("title"))
+            lines = [text(line) for line in re.findall(r"<p\b[^>]*>(.*?)</p>", item.get("description") or "", re.S)]
+            when = next((LIST_DAY.search(line) for line in lines if LIST_DAY.search(line)), None)
+            if not title or not when or LIST_SKIP.search(title):
+                continue
+            month, number, year, hour, minute, half, end_half = when.groups()
+            day = (date(int(year), datetime.strptime(month[:3], "%b").month, int(number)) if year
+                   else yearless(month[:3], number, today()))
+            start = None
+            if hour and (half or end_half):
+                start = datetime.strptime(f"{hour}:{minute or '00'} {(half or end_half).upper()}", "%I:%M %p").time()
+            rest = [line for line in lines if not LIST_DAY.search(line) and not line.lower().startswith("next date")]
+            kind = "art" if re.search(r"\barts? night\b|\bexhibit|\bgallery\b", title, re.I) else guess_kind(title)
+            if not day or not kind:
+                continue
+            link = (item.get("button") or {}).get("buttonLink") or ""
+            picture = (item.get("image") or {}).get("assetUrl") or ""
+            listing = event(source, title, day, start, link=urljoin(source["url"], link) if link else "",
+                            price=price_from(" · ".join(rest)), image=f"{picture}?format=750w" if picture else "")
+            events.append(dict(listing, category=kind))
     return events
 
 
@@ -4056,6 +4101,7 @@ READERS = {
     "berklee": read_berklee,
     "conservatory": read_conservatory,
     "squarespace": read_squarespace,
+    "squarespacelist": read_squarespace_list,
     "passim": read_passim,
     "tribe": read_tribe,
     "massmoca": read_mass_moca,
