@@ -54,8 +54,8 @@ PUBLIC_DIR = ROOT.parent / "dist" / "public"
 GOATCOUNTER = "https://hagenah.goatcounter.com/count"
 PUBLIC_CONTACT = "gwhagenah@gmail.com"  # Where the contact form's messages go, through FormSubmit.
 PUBLIC_ABOUT_CHARS = 240  # Of the venue's own words in a preview.
-# Each kind's page under a city's folder. Every city's pages are at the same addresses, so what a page is
-# called (PAGE_NAMES) and which have a card of their own (SHARE_CARDS) are the same for all of them.
+# Each kind's page under a city's folder. Every city's pages are at the same addresses, so which have a card of
+# their own (SHARE_CARDS) is the same for all of them.
 KIND_PAGES = {"music": "music", "film": "film", "art": "talks"}
 
 
@@ -4963,10 +4963,6 @@ def public_footer(path, notes="", names="", updated=None):
             f'{where}{notes}</footer>\n')
 
 
-# Each page's name, after the site's in the header ("Pushpin Boston / Film"); the home page has none.
-PAGE_NAMES = ({f"{slug}/": CATEGORIES[key] for key, slug in KIND_PAGES.items()}
-              | {"tonight/": "Tonight", "new/": "Just announced", "weekend/": "This weekend",
-                 "weekend/next/": "Next weekend", "about/": "About", "contact/": "Contact", "cities/": "Cities"})
 # The pages with a share card of their own (events/share); the rest show the home page's.
 SHARE_CARDS = set(KIND_PAGES.values()) | {"tonight", "weekend"}
 
@@ -5328,7 +5324,6 @@ def render_redirect(address, paths=False):
 def site_page(path, title, description, said, body, styles=""):
     """A page of the site itself, outside any city (its cities, and the contact form they share): the same
     header as a city's pages, its name a way back to the cities."""
-    here = ""  # No page's name after the site's, as a city's pages have none (render_index).
     address = PUBLIC_SITE + path
     return (f'<!doctype html>\n<html lang="en">\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
             f'<title>{html.escape(title)}</title>\n<meta name="description" content="{html.escape(description)}">\n'
@@ -5345,11 +5340,9 @@ def site_page(path, title, description, said, body, styles=""):
             # so it's white, as a marked one is).
             '<style>' + shared.HEADER_CSS + PIN_CSS + CONTACT_CSS +
             '  .sites a, .sites a:visited { color: #fff; }\n'
-            '  .sites .here { color: #fff; font-weight: 700; letter-spacing: -.01em; }\n'
-            '  .sites .here::before { content: "/"; margin-right: .5em; color: #444; font-weight: 400; }\n'
             '  .prose { max-width: 34rem; color: #ccc; }\n'
             '  .prose p { margin: 0 0 1em; }\n' + styles + '</style>\n'
-            f'<main>\n<header><nav class="sites" aria-label="Sites"><a href="/">{WORDMARK}</a>{here}</nav></header>\n'
+            f'<main>\n<header><nav class="sites" aria-label="Sites"><a href="/">{WORDMARK}</a></nav></header>\n'
             f'<h1 class="tagline">{html.escape(said)}</h1>\n{body}</main>\n</html>\n')
 
 
@@ -6138,17 +6131,6 @@ INDEX_JS = """
     }
     document.querySelector("main").classList.add("paged");
     markStuck();
-    // The home page, showing a kind in place, or tonight or a weekend, names it in the header, as its own page does.
-    const here = document.querySelector(".sites .here");
-    if (here && inPlace) {
-      const named = when ? when.querySelector(".said-long") || when : show === "all" ? null : filter.querySelector(`a[data-show="${show}"]`);
-      here.textContent = named ? named.textContent : "";
-      here.hidden = !named;
-      here.classList.add("in-place");  // Which a phone leaves to the chips (its styles), for want of the room.
-      const name = document.querySelector(".sites a");
-      if (!named) name.setAttribute("aria-current", "page");
-      else name.removeAttribute("aria-current");
-    }
     fitDetails();
   }
   showEvents();
@@ -6725,12 +6707,10 @@ PIN_CSS = """
   /* Wider than the newsfeed and the jobs board it shares its styles with: a row here carries a name, its times
      and its venue on one line, and the film and what's announced sit side by side over them. */
   main { max-width: 52rem; }
-  /* The site's name a size up from the newsfeed's, and the page that's open beside it ("/ Film") with it; the
-     header closer to the top of the page and to what's under it, the name saying enough to need less room. */
+  /* The site's name, its mark, well up from the newsfeed's; the header closer to the top of the page and to
+     what's under it, the name saying enough to need less room. */
   body { padding-top: 1.5rem; }
   header { margin-bottom: 1.25rem; }
-  .sites a, .sites a:visited, .sites .here { font-size: 1.35rem; }
-  /* The name itself bigger again, the site's mark: the page it's on ("/ Film") stays the size it was. */
   .sites a, .sites a:visited { font-size: 1.75rem; }
   /* A little smaller on a wide screen, where the line beside it is small and the name would outweigh it. */
   @media not all and (max-width: 34rem) { .sites a, .sites a:visited { font-size: 1.5625rem; } }
@@ -6748,11 +6728,9 @@ PIN_CSS = """
                       border-radius: 50%; background: #fbbf24; }
   h1.tagline { margin: -.5rem 0 1.6rem; color: #888; font-size: .9rem; font-weight: normal; line-height: 1.45; }
   /* The home page's, in the header after the site's name, on its line: left with the name, not pushed off to the
-     right with the time it was updated. Where the page shows a kind in place, the header names that ("/ Film")
-     and on a wide screen this goes, since the two say different things. On a phone there isn't the width, so
-     it has a line of its own under them, as every other page's does. */
+     right with the time it was updated. On a phone there isn't the width, so it has a line of its own under
+     them, as every other page's does. */
   header h1.tagline { flex: 1 1 auto; min-width: 0; margin: 0; }  /* The header's own gap is room enough. */
-  @media not all and (max-width: 34rem) { header:has(.sites .here:not([hidden])) h1.tagline { display: none; } }
   /* On a phone it stays, on its line under the name, whichever kind is showing: taking that line away when
      a kind is chosen would pull the filter and the listings up under the finger that chose it. */
   @media (max-width: 34rem) {
@@ -6946,30 +6924,12 @@ PIN_CSS = """
 """
 
 PUBLIC_CSS = """
-  /* The page it is, after the name: "/ Film", in white. */
-  .sites .here { color: #fff; font-weight: 700; letter-spacing: -.01em; }
-  .sites .here::before { content: "/"; margin-right: .5em; color: #444; font-weight: 400; }
-  /* Each whole, never broken over a line: on the narrowest phones the page's name goes under the site's. On a
-     phone, a page with its name there leaves out when it was updated, which the home page still says. */
   .sites { flex-wrap: wrap; gap: .15rem .55rem; }
-  .sites a, .sites .here { white-space: nowrap; }
-  @media (max-width: 34rem) { header:has(.here:not([hidden])) .header-note { display: none; } }
+  .sites a { white-space: nowrap; }
   .sites a[aria-current] .city { color: #8c8c8c; }
-  /* The name, on a page that's one of its kinds: a step back from the page's own name, still plainly the site's. */
+  /* The name, on any page but the home page: a step back, a way home, still plainly the site's. */
   .sites a:not([aria-current]), .sites a:not([aria-current]):visited { color: #aaa; }
   .sites a:not([aria-current]):hover { color: #fff; }
-  /* On a phone, the name and the city's menu have the first line to themselves, and a page's own name ("Just
-     announced") is a heading on the line under them, without its "/": beside the menu there's no room for it, and
-     it broke after the name with its "/" left at the start of the next line. A kind shown in place on the home page
-     isn't named there (in-place): its chip says it, and a line coming and going would move the list. The menu on
-     the name's line, not halfway down the two. */
-  @media (max-width: 34rem) {
-    .sites .here:not(.in-place) { flex-basis: 100%; margin-top: .1rem; font-size: 1.5rem; }
-    .sites .here::before { content: none; }
-    .sites .here.in-place { display: none; }
-    header:has(.sites .here:not([hidden]):not(.in-place)) { align-items: flex-start; }
-    header:has(.sites .here:not([hidden]):not(.in-place)) .city-switch { margin-top: var(--switch-drop, .3rem); }
-  }
   /* The cities, at the header's end: this one's name in a pill, as the filter's chips are, opening to the others,
      over the filter bar under it. */
   .city-switch { position: relative; flex: none; margin-left: auto; }
