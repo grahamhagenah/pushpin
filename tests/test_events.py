@@ -125,6 +125,10 @@ ROUTES = [
     ("delaluz.org/calendar", "delaluz.html"),
     ("m3pn87-t7.myshopify.com/products.json", "hutghis.json"),
     ("nohoarts.org/upcoming-events", "nohoarts.html"),
+    ("latchis.com/wp-json/tribe/events/v1/events", "latchis.json"),
+    ("bmcvt.org/wp-json/tribe/events/v1/events", "bmc.json"),
+    ("brattleboromuseum.org/wp-json/tribe/events/v1/events", "bmac.json"),
+    ("epsilonspires.org/upcoming-events", "epsilonspires.html"),  # Cut to its event data and a link.
     # Written by hand in the shape of Eventbrite's API, which needs a token to read.
     ("eventbriteapi.com/v3/organizers/119527559781/events/", "eventbrite_visions.json"),
     ("dspshows.com/venues/bombyx", "dsp.html"),
@@ -1012,6 +1016,37 @@ class WesternMass(unittest.TestCase):
         self.assertFalse([title for title in by_title if re.search(r"fair|market|meeting|prom\b|tank|passion", title, re.I)],
                          "not its fairs, markets, meetings, prom, discussion group or dance social")
 
+    def test_latchis_stage_shows_not_its_new_releases_runs(self):
+        found = build.read_latchis(source("latchis", "https://latchis.com/wp-json/tribe/events/v1/events", "music", "Latchis Theatre"))
+        by_title = {item["title"]: item for item in found}
+        self.assertIn("Joel Veena: Ragas & Sagas", by_title)
+        self.assertEqual(by_title["Joel Veena: Ragas & Sagas"]["times"], [time(19, 0)])
+        self.assertFalse([title for title in by_title if "Opens" in title], "not a new release's first day")
+
+    def test_brattleboro_music_center_concerts_not_its_workshops(self):
+        found = build.read_bmc(source("bmc", "https://www.bmcvt.org/wp-json/tribe/events/v1/events?categories=special-events",
+                                      "music", "Brattleboro Music Center"))
+        titles = {item["title"] for item in found}
+        self.assertIn("Palaver Strings: What Travels", titles)
+        self.assertFalse([title for title in titles if re.search(r"workshop|pub session|ballad sing", title, re.I)])
+
+    def test_brattleboro_museum_talks_not_its_calls_or_workshops(self):
+        found = build.read_bmac(source("bmac", "https://www.brattleboromuseum.org/wp-json/tribe/events/v1/events", "art",
+                                       "Brattleboro Museum & Art Center"))
+        titles = {item["title"] for item in found}
+        self.assertIn("Art Talk: Amy Beecher on Glotech Cantata", titles)
+        self.assertFalse([title for title in titles if re.search(r"call for entries|workshop|model railroad|feast", title, re.I)])
+
+    def test_epsilon_spires_films_with_bands_and_their_own_links(self):
+        with mock.patch.object(build, "today", lambda: date(2026, 11, 25)):
+            found = build.read_wix_events(source("wixevents", "https://www.epsilonspires.org/upcoming-events", "music", "Epsilon Spires"))
+        by_title = {item["title"]: item for item in found}
+        hausu = by_title["HAUSU (1977) + Gift Horse!"]
+        self.assertEqual(hausu["category"], "film", "a film by the year in its name, though a band plays")
+        self.assertEqual(hausu["link"], "https://www.epsilonspires.org/event-info/hausu-1977-gift-horse", "its pages where its links say")
+        self.assertNotIn("Fellini SATYRICON (1969)", by_title, "not one with no date yet")
+        self.assertEqual(by_title["ETERNAL RETURNS PRESENTS... EARTH II + Filmmaker Q&A!"]["category"], "film", "a filmmaker's Q&A's")
+
     def test_dsp_shows_venue_pages_by_their_events_data(self):
         found = build.read_jsonld(source("jsonld", "https://dspshows.com/venues/bombyx/", "music", "Bombyx"))
         titles = {item["title"] for item in found}
@@ -1152,7 +1187,8 @@ class WesternMass(unittest.TestCase):
                                                        "Tanglewood", "Pines Theater", "Tree House Brewing",
                                                        "Symphony Hall Springfield", "52 Sumner", "HOPE Center for the Arts",
                                                        "De La Luz", "Hutghi's at the Nook", "Visions Video",
-                                                       "Northampton Center for the Arts", "Stone Church"})
+                                                       "Northampton Center for the Arts", "Stone Church",
+                                                       "Vermont Jazz Center", "Latchis Theatre", "Epsilon Spires", "Brattleboro Museum & Art Center", "Next Stage Arts"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             self.assertIn(s["name"], build.VENUE_ADDRESSES, "each under its town in the venue menu")

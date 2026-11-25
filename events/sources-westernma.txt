@@ -64,3 +64,15 @@ eventbrite     https://www.eventbrite.com/o/visions-video-119527559781   film   
 # the Stone Church, Brattleboro, over the line in Vermont but the Valley's (VenuePilot, account 184).
 squarespacelist https://www.nohoarts.org/upcoming-events             music  Northampton Center for the Arts
 venuepilot     https://stonechurchvt.com/events#184                  music  Stone Church
+# Brattleboro and Putney, over the line in Vermont but the Valley's: the Vermont Jazz Center; the Latchis's stage
+# shows and its films shown once, not its new releases' runs; Epsilon Spires' films with a band and its concerts
+# (Wix); the Brattleboro Museum & Art Center's talks and performances; Next Stage's concerts and talks (VenuePilot,
+# 3191). The Brattleboro Music Center's firewall turns automated readers away (403, or the connection closed, for a
+# name that says it's a bot), so its reader (bmc, its own concerts, not its school's calendar) is set aside until
+# it lets Pushpin in:
+# bmc          https://www.bmcvt.org/wp-json/tribe/events/v1/events?categories=special-events   music  Brattleboro Music Center
+tribe          https://www.vtjazz.org/wp-json/tribe/events/v1/events   music  Vermont Jazz Center
+latchis        https://latchis.com/wp-json/tribe/events/v1/events     music  Latchis Theatre
+wixevents     https://www.epsilonspires.org/upcoming-events          music  Epsilon Spires
+bmac           https://www.brattleboromuseum.org/wp-json/tribe/events/v1/events   art   Brattleboro Museum & Art Center
+venuepilot     https://www.nextstagearts.org/events#3191              music  Next Stage Arts

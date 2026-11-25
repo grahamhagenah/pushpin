@@ -176,6 +176,12 @@ VENUE_ADDRESSES = {
     "Visions Video": ("183 Main St", "Northampton", "01060"),
     "Northampton Center for the Arts": ("33 Hawley St", "Northampton", "01060"),
     "Stone Church": ("210 Main St", "Brattleboro", "VT", "05301"),  # Over the line in Vermont, but the Valley's.
+    "Vermont Jazz Center": ("72 Cotton Mill Hill", "Brattleboro", "VT", "05301"),
+    "Latchis Theatre": ("50 Main St", "Brattleboro", "VT", "05301"),
+    "Brattleboro Music Center": ("72 Blanche Moyse Way", "Brattleboro", "VT", "05301"),
+    "Epsilon Spires": ("190 Main St", "Brattleboro", "VT", "05301"),
+    "Brattleboro Museum & Art Center": ("10 Vernon St", "Brattleboro", "VT", "05301"),
+    "Next Stage Arts": ("15 Kimball Hill", "Putney", "VT", "05346"),
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
@@ -1565,6 +1571,43 @@ def read_mass_moca(source):
     return [listing for listing in read_tribe(source, MASS_MOCA_KINDS) if not re.search(r"\bstorytime\b|\bkidspace\b", listing["title"], re.I)]
 
 
+# The Latchis's (Brattleboro) kinds of event: its stage's shows, and its films shown once (a series, a premiere). Not
+# its new releases' "Opens Nov. 25", which are a run's first day, not a showing with a time.
+LATCHIS_KINDS = {"Live Events": "music", "Special Events": "music", "Special Films": "film"}
+
+
+def read_latchis(source):
+    """The Latchis Theatre's calendar (The Events Calendar), by its categories; a stage show that isn't a concert
+    (a talk, comedy) by guess_kind."""
+    found = []
+    for listing in read_tribe(source, LATCHIS_KINDS):
+        kind = guess_kind(listing["title"]) if listing["category"] == "music" else listing["category"]
+        if kind:
+            found.append(dict(listing, category=kind))
+    return found
+
+
+# What the Brattleboro Music Center's own events (?categories=special-events, not its school's Academic Calendar)
+# have that isn't a concert: a festival's workshops and its pub sessions, and a sing for whoever comes.
+BMC_SKIP = re.compile(r"\bworkshops?\b|\bpub sessions?\b|\bballad sing\b", re.I)
+
+
+def read_bmc(source):
+    """The Brattleboro Music Center's concerts (The Events Calendar), not BMC_SKIP's."""
+    return [listing for listing in read_tribe(source) if not BMC_SKIP.search(listing["title"])]
+
+
+# What the Brattleboro Museum & Art Center's calendar, which has no categories, has besides its talks, performances
+# and gallery nights: its calls for entries, workshops, a model railroad day, and dinners.
+BMAC_SKIP = re.compile(r"\bcall for entries\b|\bworkshop\b|\bmodel railroads?\b|\bdinner\b|\bfeast\b", re.I)
+
+
+def read_bmac(source):
+    """The Brattleboro Museum & Art Center's art talks, symposia, performances and gallery walks (The Events
+    Calendar), not BMAC_SKIP's."""
+    return [listing for listing in read_tribe(source) if not BMAC_SKIP.search(listing["title"])]
+
+
 # The Mahaiwe's kinds of event, from its calendar's categories: concerts and opera; films and its HD broadcasts
 # of plays and operas; and lectures. Not its comedy, or its dance classes.
 MAHAIWE_KINDS = {"Music": "music", "Opera & Classical": "music", "Movies": "film", "HD Broadcasts": "film", "Lectures": "art"}
@@ -1712,7 +1755,8 @@ def guess_kind(name, described=""):
     if re.search(r"\bcomed(?:y|ian|ians|ic)\b|\bstand-?up\b", both, re.I):
         return None
     # By its name, or a description that says it's a screening; not a singer's co-star "in independent film".
-    if re.search(r"\b(?:film|films|screening|documentary|movie)\b", name, re.I) or re.search(r"\bscreening\b", described, re.I):
+    # A "Filmmaker Q&A" after it (Epsilon Spires') is a screening's too.
+    if re.search(r"\b(?:film|films|filmmakers?|screening|documentary|movie)\b", name, re.I) or re.search(r"\bscreening\b", described, re.I):
         return "film"
     if (re.search(r"\b(?:ballet|dance|lecture|talk|conversation|an evening with|reading|stories|story ?slam|storytelling|poetry|jr\.?)(?:\b|$)", name, re.I)
             or re.search(r"\b(?:ballet|dance company|authors?|writer|humorist|essayist|storyteller|lecture)\b", described, re.I)):
@@ -1887,6 +1931,10 @@ def read_wix_events(source):
 
     collect(json.loads(found.group(1)))
     root = "{0.scheme}://{0.netloc}/".format(urlsplit(source["url"]))
+    # Where its events' pages are, as its own links say: /event-details/ is Wix's own, but a site can name it
+    # (Epsilon Spires', /event-info/).
+    linked = re.search(r'/(event-[a-z-]+)/[a-z0-9-]+"', page)
+    path = linked.group(1) if linked else "event-details"
     events = []
     for item in items.values():
         config = item["scheduling"].get("config") or {}
@@ -1897,11 +1945,13 @@ def read_wix_events(source):
         day, start = at_venue(moment, ZoneInfo(config.get("timeZoneId") or source.get("zone") or "America/New_York"))
         if day < today():
             continue
-        category = guess_kind(title, text(item.get("description") or ""))
+        # A film by its year in its name ("HAUSU (1977) + Gift Horse!", Epsilon Spires': a film with a band), as
+        # theaters write them, even where a band plays with it.
+        category = "film" if re.search(r"\((?:19|20)\d{2}\)", title) else guess_kind(title, text(item.get("description") or ""))
         if not category:
             continue
         picture = (item.get("mainImage") or {}).get("url") or ""
-        listing = event(source, title, day, start, link=f"{root}event-details/{item['slug']}",
+        listing = event(source, title, day, start, link=f"{root}{path}/{item['slug']}",
                         about=about(item.get("about") or item.get("description") or ""), image=picture)
         events.append(dict(listing, category=category))
     return events
@@ -1916,8 +1966,9 @@ VENUEPILOT_EVENTS = """query ($accountIds: [Int!]!, $startDate: String!, $endDat
   paginatedEvents(arguments: {accountIds: $accountIds, startDate: $startDate, endDate: $endDate, page: $page}) {
     collection { id name date startTime minimumAge support description status ticketsUrl images }
     metadata { currentPage totalPages } } }"""
-# What a VenuePilot venue lists that isn't a show: a tour of its building, a market.
-VENUEPILOT_SKIP = re.compile(r"\btour of\b|\bmarket\b", re.I)
+# What a VenuePilot venue lists that isn't a show: a tour of its building, a market; and a community arts center's
+# (Next Stage's) open stage, potluck, blood drive and sing for whoever comes.
+VENUEPILOT_SKIP = re.compile(r"\btour of\b|\bmarket\b|\bopen stage\b|\bpotluck\b|\bblood drive\b|\bcommunity sing\b", re.I)
 
 
 def venuepilot_kind(title, said):
@@ -4087,6 +4138,9 @@ READERS = {
     "coolidge": read_coolidge,
     "ticketmaster": read_ticketmaster,
     "eventbrite": read_eventbrite,
+    "latchis": read_latchis,
+    "bmc": read_bmc,
+    "bmac": read_bmac,
     "alamo": read_alamo,
     "landmark": read_landmark,
     "ics": read_ics,
