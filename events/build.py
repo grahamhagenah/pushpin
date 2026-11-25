@@ -6995,10 +6995,11 @@ PIN_CSS = """
   /* Wider than the newsfeed and the jobs board it shares its styles with: a row here carries a name, its times
      and its venue on one line, and the film and what's announced sit side by side over them. */
   main { max-width: 52rem; }
-  /* The site's name, its mark, well up from the newsfeed's; the header closer to the top of the page and to
-     what's under it, the name saying enough to need less room. */
+  /* The site's name, its mark, well up from the newsfeed's; the header closer to the top of the page, the name
+     saying enough to need less room, with room under it before the film and what's announced, which at 1.25rem
+     sat crowded up against it. */
   body { padding-top: 1.5rem; }
-  header { margin-bottom: 1.25rem; }
+  header { margin-bottom: 2rem; }
   .sites a, .sites a:visited { font-size: 1.75rem; }
   /* A little smaller on a wide screen, where the line beside it is small and the name would outweigh it. */
   @media not all and (max-width: 34rem) { .sites a, .sites a:visited { font-size: 1.5625rem; } }
@@ -7588,7 +7589,8 @@ CSS = """
                    display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
   .biggest:hover .biggest-title { text-decoration: underline; }
   /* Side by side, the two the same height under their headings: the film in the middle of its part, level with
-     what's announced across from it, its picture's top with the heading's words rather than over them. */
+     what's announced across from it, its picture's top with the heading's words rather than over them. (Under the
+     heading's hairline instead, level with what's announced's lines, it sat below the heading.) */
   @media not all and (max-width: 46rem) {
     .biggest-part, .fresh { display: flex; flex-direction: column; }
     .biggest-part { justify-content: center; }
