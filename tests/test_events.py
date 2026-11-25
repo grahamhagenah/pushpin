@@ -2544,10 +2544,10 @@ class Biggest(unittest.TestCase):
         self.assertNotIn("Saturday Film", night, "not tonight's")
         self.assertNotIn("Sunday Show", night)
         saturday, _ = build.render_lead(films + announced, built, days=weekend, when="0")
-        self.assertIn('<div class="lead" data-when="0">', saturday)
+        self.assertIn('<div class="lead one" data-when="0">', saturday)
         self.assertIn("Saturday Film", saturday)
-        self.assertIn("Sunday Show", saturday)
-        self.assertNotIn("Tonight&#x27;s", saturday)
+        self.assertNotIn("Sunday Show", saturday, "a weekend's has its film alone, nothing announced")
+        self.assertNotIn('class="fresh"', saturday)
         self.assertEqual(build.render_lead(films, built, days=tonight), ("", ""))
         # The home page's: only the one chosen, taking no room for the others, which left a blank over tonight's
         # listings once its evening had gone by.

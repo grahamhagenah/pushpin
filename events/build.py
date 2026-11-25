@@ -4414,7 +4414,10 @@ def render_lead(events, built_at, before="", days=None, when=""):
     tonight's listings or a weekend's, the film and the announcements of those nights, not of others. when
     marks it as the home page's for one of those (data-when), which its script shows in place of its own."""
     film = biggest_film(events, built_at, before, days)
-    fresh = [item for item in newly_added(events, built_at) if not days or days[0] <= item["date"] <= days[1]]
+    # Over a weekend's listings (days of more than one), the film alone: what's announced for those nights is in the
+    # list under it anyway, and on a phone the lines over it only pushed the weekend's listings down.
+    weekend = bool(days) and days[0] != days[1]
+    fresh = [item for item in newly_added(events, built_at) if not weekend and (not days or days[0] <= item["date"] <= days[1])]
     fresh = fresh[:FRESH_SHOWN + FRESH_SPARE]
     parts = []
     # A day as a listing's is said: Today or Tomorrow as of this build, there as the page first shows, which the
