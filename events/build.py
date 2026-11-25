@@ -7486,13 +7486,13 @@ CSS = """
   .biggest-about { overflow: hidden; color: #808080; font-size: .85rem; line-height: 1.4;
                    display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
   .biggest:hover .biggest-title { text-decoration: underline; }
-  /* Side by side, the two the same height under their headings: the film in the middle of its part. */
+  /* Side by side, the two the same height under their headings: the film in the middle of its part, level with
+     what's announced across from it, its picture's top with the heading's words rather than over them. */
   @media not all and (max-width: 46rem) {
     .biggest-part, .fresh { display: flex; flex-direction: column; }
-    .biggest { flex: 1 1 auto; }
-    /* Its words from the top of its picture, level with Just announced's heading across from them, and what it's
-       about to three lines, the room the picture leaves now that it's as tall as what's announced; a name that
-       takes two lines still fits. */
+    .biggest-part { justify-content: center; }
+    /* Its words from the top of its picture, and what it's about to three lines, the room the picture leaves
+       now that it's nearly as tall as what's announced; a name that takes two lines still fits. */
     .biggest { align-items: flex-start; }
     .biggest-about { -webkit-line-clamp: 3; }
   }
