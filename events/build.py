@@ -8022,6 +8022,11 @@ def gather(results, previous, built_at):
 still_failing = shared.still_failing
 
 
+def fresh_counts(listings, built_at):
+    """How many listings each source that loaded this build has coming up: not one shown from before."""
+    return {name: len(kept["events"]) for name, kept in listings.items() if kept["fetched"] == built_at.isoformat()}
+
+
 def due(previous, built_at):
     """Whether it's time for a new build. The workflow runs every 15 minutes, for the newsfeed; listings change
     slowly, and the theaters' sites are small, so on those runs the events page rebuilds only every few hours
@@ -8069,8 +8074,14 @@ def main():
     use_city(BOSTON_CITY)
     # The days each city's films have been listed on, kept from build to build to tell a one-off from the end of a run.
     days_seen = film_days(previous.get("film_days") or {}, events, sources, built_at)
+    # How many each source listed, for telling one that's loading but listing far fewer than usual (shrinking).
+    counts, shrinking = shared.still_shrinking(fresh_counts(listings, built_at), previous, built_at,
+                                               {source["name"] for source in sources})
+    for name, shrunk in shrinking.items():
+        print(f"↓ {name}: {shrunk['count']} coming up, usually about {shrunk['usual']}", file=sys.stderr)
     record = {"built": built_at.isoformat(), "sources": listings, "failing": still_failing(errors, previous, built_at),
-              "first_seen": first_seen, "biggest": leading, "film_days": days_seen}
+              "first_seen": first_seen, "biggest": leading, "film_days": days_seen,
+              "counts": counts, "shrinking": shrinking}
     # Every city's listings, which the next build falls back on (LISTINGS_URL).
     (PUBLIC_DIR / "listings.json").write_text(json.dumps(record, ensure_ascii=False))
     print(f"Wrote {PUBLIC_DIR.relative_to(ROOT.parent)}/listings.json")

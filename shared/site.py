@@ -8,12 +8,13 @@ import html
 import json
 import os
 import re
+import statistics
 import sys
 import time
 import urllib.error
 import urllib.request
 import zlib
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # The pages, in the order the header names them.
 SITES = {
@@ -78,6 +79,47 @@ def still_failing(errors, previous, built_at):
         name: {"since": before.get(name, {}).get("since", built_at.isoformat()), "error": error}
         for name, error in errors.items()
     }
+
+
+# A source can break without failing: a venue's new site that its reader still reads, but only part of (its first
+# page, one room's calendar), listing a few of what it did and raising no error. So each build keeps how many each
+# source listed, and one that loads with far fewer than usual is "shrinking", which alerts.py reports as it does a
+# failing one: SHRINK_SHARE of its usual or less (the middle of its last SHRINK_HISTORY counts, a week of builds
+# every three hours), once it has SHRINK_LEAST of them (a day's) to judge by, and only for one that usually lists
+# SHRINK_USUAL or more, as a few either way is nothing for a venue with a handful. While it's shrinking its counts
+# aren't kept, so its usual doesn't sink to meet it; after SHRINK_ACCEPT at the new level (a season ending, a venue
+# booking less) that's taken as its usual.
+SHRINK_SHARE = 0.3
+SHRINK_HISTORY = 56
+SHRINK_LEAST = 8
+SHRINK_USUAL = 8
+SHRINK_ACCEPT = timedelta(days=14)
+
+
+def still_shrinking(counts, previous, built_at, names):
+    """Each source's recent counts with this build's added, and which of them are shrinking now: (history,
+    shrinking). counts has how many each source listed, for those that loaded this build; the others keep their
+    history as it was. names are the sources there are, whose history is kept: a source taken out goes."""
+    before = previous.get("counts") or {}
+    was = previous.get("shrinking") or {}
+    history, shrinking = {}, {}
+    for name in names:
+        past = list(before.get(name) or [])
+        if name not in counts:
+            if past:
+                history[name] = past
+            continue
+        count = counts[name]
+        usual = statistics.median(past) if len(past) >= SHRINK_LEAST else None
+        since = (was.get(name) or {}).get("since", built_at.isoformat())
+        if usual is not None and usual >= SHRINK_USUAL and count <= usual * SHRINK_SHARE:
+            if built_at - datetime.fromisoformat(since) < SHRINK_ACCEPT:
+                shrinking[name] = {"since": since, "count": count, "usual": round(usual)}
+                history[name] = past
+                continue
+            past = [count] * SHRINK_LEAST  # Its new usual.
+        history[name] = (past + [count])[-SHRINK_HISTORY:]
+    return history, shrinking
 
 
 def icon_symbols(drawings):

@@ -64,15 +64,16 @@ class Page(unittest.TestCase):
 
 
 class Alerts(unittest.TestCase):
-    def run_alerts(self, records, open_titles):
-        """Runs alerts.py on these sites' failures, with these issues open; returns what it opened and closed."""
+    def run_alerts(self, records, open_titles, shrinking=None):
+        """Runs alerts.py on these sites' failures (and shrinkage), with these issues open; returns what it opened
+        and closed."""
         calls, arguments, files = [], [], []
         for site_name, failing in records.items():
             if failing is None:  # Not built this run.
                 arguments.append(f"{site_name}=/nonexistent/{site_name}.json")
                 continue
             record = tempfile.NamedTemporaryFile("w", suffix=".json", delete=False)
-            json.dump({"failing": failing}, record)
+            json.dump({"failing": failing, "shrinking": (shrinking or {}).get(site_name, {})}, record)
             record.close()
             files.append(record.name)
             arguments.append(f"{site_name}={record.name}")
@@ -111,6 +112,51 @@ class Alerts(unittest.TestCase):
             ["Source failing: Coolidge Corner (events)", "Source failing: Volts (news)"],
         )
         self.assertEqual((opened, closed), ([], ["Source failing: Volts (news)"]))
+
+    def test_shrinking_opens_after_six_hours_and_closes_once_back(self):
+        shrunk = lambda hours: {"since": (datetime.now(timezone.utc) - timedelta(hours=hours)).isoformat(), "count": 3, "usual": 40}
+        opened, closed = self.run_alerts({"events": {}}, [], shrinking={"events": {"Coolidge Corner": shrunk(7), "Brattle": shrunk(1)}})
+        self.assertEqual((opened, closed), (["Source shrinking: Coolidge Corner (events)"], []))
+        opened, closed = self.run_alerts({"events": {}}, ["Source shrinking: Coolidge Corner (events)", "Source failing: Brattle (events)"],
+                                         shrinking={"events": {"Coolidge Corner": shrunk(9)}})
+        self.assertEqual((opened, closed), ([], ["Source failing: Brattle (events)"]), "a failing issue isn't a shrinking one")
+        _, closed = self.run_alerts({"events": {}}, ["Source shrinking: Coolidge Corner (events)"], shrinking={"events": {}})
+        self.assertEqual(closed, ["Source shrinking: Coolidge Corner (events)"])
+
+
+class Shrinking(unittest.TestCase):
+    built = datetime(2026, 11, 25, 12, tzinfo=timezone.utc)
+
+    def test_far_fewer_than_usual_once_theres_a_day_to_judge_by(self):
+        previous = {"counts": {"Coolidge Corner": [40] * 8, "New": [40] * 7, "Small": [5] * 8}}
+        history, shrinking = site.still_shrinking({"Coolidge Corner": 6, "New": 2, "Small": 1}, previous, self.built,
+                                                  {"Coolidge Corner", "New", "Small"})
+        self.assertEqual(shrinking, {"Coolidge Corner": {"since": self.built.isoformat(), "count": 6, "usual": 40}},
+                         "not one with less than a day's counts, nor one that usually lists a handful")
+        self.assertEqual(history["Coolidge Corner"], [40] * 8, "its low count not kept, so its usual stays")
+        self.assertEqual(history["New"], [40] * 7 + [2])
+
+    def test_a_little_fewer_is_nothing(self):
+        _, shrinking = site.still_shrinking({"Brattle": 20}, {"counts": {"Brattle": [40] * 10}}, self.built, {"Brattle"})
+        self.assertEqual(shrinking, {})
+
+    def test_since_carries_over_and_two_weeks_is_its_new_usual(self):
+        earlier = (self.built - timedelta(days=3)).isoformat()
+        previous = {"counts": {"Tanglewood": [30] * 20}, "shrinking": {"Tanglewood": {"since": earlier, "count": 2, "usual": 30}}}
+        _, shrinking = site.still_shrinking({"Tanglewood": 2}, previous, self.built, {"Tanglewood"})
+        self.assertEqual(shrinking["Tanglewood"]["since"], earlier)
+        previous["shrinking"]["Tanglewood"]["since"] = (self.built - timedelta(days=15)).isoformat()
+        history, shrinking = site.still_shrinking({"Tanglewood": 2}, previous, self.built, {"Tanglewood"})
+        self.assertEqual(shrinking, {})
+        _, shrinking = site.still_shrinking({"Tanglewood": 2}, {"counts": history, "shrinking": shrinking}, self.built, {"Tanglewood"})
+        self.assertEqual(shrinking, {}, "and stays its usual")
+
+    def test_history_kept_for_one_that_didnt_load_and_dropped_for_one_taken_out(self):
+        history, _ = site.still_shrinking({"Brattle": 12}, {"counts": {"Brattle": [10], "Passim": [9], "Gone": [4]}}, self.built,
+                                          {"Brattle", "Passim"})
+        self.assertEqual(history, {"Brattle": [10, 12], "Passim": [9]})
+        cut = site.still_shrinking({"Brattle": 60}, {"counts": {"Brattle": list(range(100))}}, self.built, {"Brattle"})[0]
+        self.assertEqual(len(cut["Brattle"]), site.SHRINK_HISTORY, "a week's counts at most")
 
 
 if __name__ == "__main__":

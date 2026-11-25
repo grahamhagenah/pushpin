@@ -112,6 +112,7 @@ Pushpin Boston's visits are counted with [GoatCounter](https://www.goatcounter.c
 
 - Each build publishes what its pages were built from, `listings.json`, at the site's root (`LISTINGS_URL`). When a source fails, or suddenly returns nothing while it had items coming up, the next build uses its items from there instead, if they're under two days old, and says so at the bottom of the page. A feed that's just quiet isn't a failure.
 - A source that fails every build for six hours gets a "Source failing: <name> (<page>)" issue here, so GitHub emails about it. It closes itself once the source loads again.
+- A source can break without failing: a redesigned site its reader still half reads (its first page, one room's calendar). So `listings.json` keeps each source's count of listings coming up for the last week of builds (`counts`), and one that loads with 30% of its usual or less (the middle of that week), where its usual is 8 or more, is "shrinking" (`shrinking`, `still_shrinking` in `shared/site.py`): the build log says so with a ↓, and after six hours it gets a "Source shrinking: <name> (<page>)" issue. Its low counts aren't kept meanwhile, so its usual doesn't sink to meet it; after two weeks at the new level (a season ending), that's taken as its usual and the issue closes itself, as it does if the listings come back.
 - When a site changes and its reader is fixed, save a fresh sample of it in `tests/fixtures` too.
 
 ## Publishing
