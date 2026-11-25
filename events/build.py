@@ -1086,7 +1086,16 @@ def read_eventbrite(source):
                  "expand": "venue,ticket_availability"}
         if continuation:
             query["continuation"] = continuation
-        data = json.loads(fetch(f"https://www.eventbriteapi.com/v3/organizers/{organizer}/events/?{urlencode(query)}"))
+        try:
+            data = json.loads(fetch(f"https://www.eventbriteapi.com/v3/organizers/{organizer}/events/?{urlencode(query)}"))
+        except urllib.error.HTTPError as error:
+            # Eventbrite says what was wrong in its answer ("ARGUMENTS_ERROR: …"); the address, which holds the
+            # token, isn't said.
+            try:
+                said = json.loads(error.read() or b"{}")
+            except ValueError:
+                said = {}
+            raise RuntimeError(f"Eventbrite answered {error.code}: {said.get('error', '')} {said.get('error_description', '')}".strip()) from None
         for item in data.get("events") or []:
             local = (item.get("start") or {}).get("local")
             name = text((item.get("name") or {}).get("text"))
