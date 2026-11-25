@@ -6850,8 +6850,8 @@ PIN_CSS = """
        brighter while it's being typed in; no box, so the bar's only shapes are the chips. Its text is 16 pixels:
        Safari on an iPhone zooms the page in on a field whose text is any smaller, and doesn't zoom back out. */
     .filter .finders { order: -1; flex: 1 1 100%; align-items: center; gap: 0; box-sizing: border-box; margin: 0;
-                       padding: 0; border-bottom: 1px solid #2a2a2a; }
-    .filter .finders:focus-within { border-bottom-color: #666; }
+                       padding: 0; border-bottom: 1px solid #1c1c1c; }  /* The site's hairline, the headings' own. */
+    .filter .finders:focus-within { border-bottom-color: #555; }
     .filter .finders .search { flex: 1 1 0; width: 0; min-width: 0; height: 2.35rem; box-sizing: border-box; margin: 0;
                                padding: 0 0 0 1.5em; border: 0; background-size: .95em; background-position: left center;
                                font-size: 1rem; }
