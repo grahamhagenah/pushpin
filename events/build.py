@@ -7468,7 +7468,13 @@ PUBLIC_CSS = """
 CSS = """
   /* Until the page's script has run, everything under the header and the page's line about itself unpainted,
      though in its place (render_index). */
-  .settling main > :not(header):not(.tagline):not(.lead):not(.bar-mark):not(.filter):not(.skeleton) { visibility: hidden; }
+  .settling main > :not(header):not(.tagline):not(.lead):not(.bar-mark):not(.filter):not(.skeleton) { visibility: hidden; opacity: 0; }
+  /* And then faded in, quickly, rather than drawn all at once out of the black: a fifth of a second, slowing as it
+     ends. Not where the reader has asked for less motion. */
+  main > :not(header):not(.tagline):not(.lead):not(.bar-mark):not(.filter):not(.skeleton) { transition: opacity .18s ease-out; }
+  @media (prefers-reduced-motion: reduce) {
+    main > :not(header):not(.tagline):not(.lead):not(.bar-mark):not(.filter):not(.skeleton) { transition: none; }
+  }
   /* Meanwhile, an outline of a day's rows where they'll be: a heading and its line, and rows drawn as the list's
      are (a phone's small line over a name, a wide screen's time, name and venue), faintly pulsing. Taking no room
      of its own, it lies over the hidden list, so nothing moves when the list takes its place. */

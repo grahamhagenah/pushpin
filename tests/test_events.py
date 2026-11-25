@@ -1783,7 +1783,8 @@ class JustAnnounced(unittest.TestCase):
         self.assertLess(start, page.index('class="filter"'), "marked before any of it is read")
         self.assertIn('addEventListener("DOMContentLoaded", () => document.documentElement.classList.remove("settling"));', page)
         self.assertIn(".settling main > :not(header):not(.tagline):not(.lead):not(.bar-mark):not(.filter):not(.skeleton) "
-                      "{ visibility: hidden; }", page, "the listings; what's over them shows at once")
+                      "{ visibility: hidden; opacity: 0; }", page, "the listings; what's over them shows at once")
+        self.assertIn("transition: opacity .18s ease-out", page, "and then fades in")
         self.assertIn('</nav>\n<div class="skeleton" aria-hidden="true">', page, "an outline in their place meanwhile")
 
     def test_a_venue_saying_its_closed_isnt_a_show(self):
