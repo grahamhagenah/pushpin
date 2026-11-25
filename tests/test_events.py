@@ -1822,10 +1822,9 @@ class JustAnnounced(unittest.TestCase):
         self.assertIn(".lead-tag { color: #fff; font-size: .95rem; font-weight: 600;", page)
         self.assertNotIn("lead-mark", page.split('class="fresh"')[1].split("</div>")[0], "its words alone, no mark")
         self.assertNotIn(".fresh-more { display: none; }", page, "See all is there on a phone too")
-        # A line each: the name, cut short where it must be, and when and where after it, said whole; beside the
-        # film's card on a wide screen.
+        # A line each: the name alone, cut short where it must be; beside the film's card on a wide screen.
         self.assertIn(".fresh-name { flex: 0 1 auto; min-width: 3em;", page)
-        self.assertIn(".fresh-meta { flex: 0 0 auto; max-width: 62%;", page)
+        self.assertNotIn("fresh-meta", page, "no venue after it, which left the name cut short")
         self.assertIn(".lead { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 4fr);", page)
         # Room between the listings, and on a phone alone a hairline: not over the first the filter leaves.
         self.assertIn(".day > ul > li.row { padding-top: .45rem; padding-bottom: .45rem; }", page)
@@ -1847,16 +1846,8 @@ class JustAnnounced(unittest.TestCase):
         self.assertIn('if (link.closest(".fresh-list")) link.closest("li").remove();', page)
         self.assertIn(f'<li data-ends="2026-09-20T20:00"><a href="{R}?event=2026-09-20-show-0-the-sinclair" data-category="music">'
                       '<svg class="icon" role="img" aria-label="Music"><use href="#icon-music"/></svg>'
-                      '<span class="fresh-name">Show 0</span><span class="fresh-meta"><span class="fresh-when">'
-                      '<span class="lead-day" data-date="2026-09-20" data-said="Sep 20">Sep 20</span> · </span>'
-                      'The Sinclair</span></a></li>', lead,
-                      "its name, and after it when and where: its date without its weekday, to leave the name room")
-        # Today's and tomorrow's say so, as the film's day does; the script says them again by the reader's day.
-        soon = [dict(self.listing(15, "Tonight's"), added="2026-09-15"), dict(self.listing(16, "Tomorrow's"), added="2026-09-15")]
-        said = build.render_lead(soon[:1], self.built)[0]
-        self.assertIn('<span class="lead-day" data-date="2026-09-15" data-said="Sep 15">Today</span>', said)
-        said = build.render_lead(soon[1:], self.built)[0]
-        self.assertIn('<span class="lead-day" data-date="2026-09-16" data-said="Sep 16">Tomorrow</span>', said)
+                      '<span class="fresh-name">Show 0</span></a></li>', lead,
+                      "its name alone: its day and venue are in its view")
         self.assertNotIn("<img", lead, "words alone")
         self.assertIn(f'<a class="fresh-more" href="{R}new/">See all →</a></div><ul class="fresh-list">', lead,
                       "the way to the rest in the heading's line, not one of its own")

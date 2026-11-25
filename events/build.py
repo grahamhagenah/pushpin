@@ -4798,8 +4798,9 @@ def render_lead(events, built_at, before="", days=None, when=""):
         f'<span class="lead-day" data-date="{day.isoformat()}" data-said="{f"{day:%a, %b} {day.day}" if weekday else f"{day:%b} {day.day}"}">'
         f'{lead_day(day, built_at, weekday)}</span>')
     # The film first, on the left (over the rest on a phone); then the newest few announced in words alone, a line
-    # each, its name and then when and where, its date without its weekday to leave the name room. Pictures of them made the top of the page heavy, and showed one
-    # announcement where a list shows a few; three lines stand as tall as the film's card beside them.
+    # each, its name alone: a venue after it left the name cut short, and its day and venue are in its view. Pictures
+    # of them made the top of the page heavy, and showed one announcement where a list shows a few; three lines stand
+    # as tall as the film's card beside them.
     if fresh:
         rows = "".join(
             # data-ends: when its last showing starts, by the city's clock, after which the page drops its listing
@@ -4807,9 +4808,7 @@ def render_lead(events, built_at, before="", days=None, when=""):
             f'<li data-ends="{item["date"].isoformat()}T{max(item["times"]).strftime("%H:%M") if item["times"] else "24:00"}">'
             f'<a href="{PUBLIC_ROOT}?{urlencode({"event": listing_id(item["date"], item["title"], item["venue"])[0]})}" '
             f'data-category="{item["category"]}">{icon(item["category"])}<span class="fresh-name">{html.escape(calm(item["title"]))}</span>'
-            # When and where, its day and venue: not its time, which took the room a name wants, and is its view's to say.
-            f'<span class="fresh-meta"><span class="fresh-when">{said(item["date"], weekday=False)} · </span>'
-            f'{html.escape(item["venue"])}</span></a></li>'
+            f'</a></li>'
             for item in fresh)
         parts.append(
             f'<div class="fresh"><div class="lead-head"><a class="lead-tag fresh-tag" href="{PUBLIC_ROOT}{PUBLIC_NEW[0]}">'
@@ -7724,8 +7723,7 @@ CSS = """
   .fresh-tag:hover { color: #fff; text-decoration: none; }
   .fresh-more { flex: none; color: #888; font-size: .85rem; }
   .fresh-more:hover { color: #fff; text-decoration: none; }
-  /* What's announced, a line each: its name, and after it its day and venue, said whole, the name what's cut short
-     with "…" where the line runs out. The day and venue at most most of the line, so a name always has some. */
+  /* What's announced, a line each: its name, cut short with "…" where the line runs out. */
   .fresh-list { margin: 0; padding: 0; list-style: none; }
   .fresh-list li { break-inside: avoid; }
   .fresh-list li + li { margin-top: .45rem; }
@@ -7734,11 +7732,6 @@ CSS = """
   .fresh-list a:hover { text-decoration: none; }
   .fresh-list a:hover .fresh-name { text-decoration: underline; }
   .fresh-name { flex: 0 1 auto; min-width: 3em; overflow: hidden; text-overflow: ellipsis; color: #fff; }
-  .fresh-meta { flex: 0 0 auto; max-width: 62%; overflow: hidden; text-overflow: ellipsis; color: #777; font-size: .85rem; }
-  .fresh-meta .lead-day { color: #aaa; }
-  /* The venue alone after the name: its day too left the name cut short to a word or two, and the name is what says
-     what it is. The day is in its view. */
-  .fresh-when { display: none; }
   /* Each line led by its kind's mark, as each listing below is, in its color. */
   .fresh-list a > .icon { width: 15px; height: 15px; align-self: center; margin-right: -.1em; }
   /* The film: its picture beside its words in its own shape, a poster standing, a still lying on its side, the
