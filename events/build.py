@@ -5154,6 +5154,11 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
             render_lead(events, built_at, biggest, days, when)[0] for when, days in ranges.items()) + "</div>\n")
     elif public and (tonight or weekend is not None):
         banner = render_lead(every, built_at, biggest, ranges["tonight" if tonight else str(weekend)])[0]
+    elif public and category:
+        # A kind's page has the home page's, of every kind: its filter shows a kind in place, leaving what's over
+        # the list as it is, and puts the kind's page's address in the address bar, so loaded again, that page
+        # shows the same. Without it, what was over the list was gone.
+        banner = render_lead(every, built_at, biggest)[0]
     # Where this page is on the public site: a kind's page, a weekend's, or the home page.
     path = (PUBLIC_WEEKENDS[weekend][0] if weekend is not None else PUBLIC_TONIGHT[0] if tonight else
             PUBLIC_NEW[0] if added else f"{PUBLIC_PAGES[category][0]}/" if category else "")
@@ -5197,16 +5202,18 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
     # last week at The Sinclair").
     empty, narrowed = (("No new events this week. Check back as venues announce more.", "Nothing added in the last week")
                        if added else ("Nothing coming up.", "Nothing coming up"))
+    # The listings aren't painted until the script at the end has run: a page is two megabytes, which a phone
+    # shows as it arrives, and the script then drops what's passed since the build (hours of it, by its last),
+    # puts today's in the order of what's next and hides what's past the first page, so what showed first would
+    # move under the reader. Hidden rather than gone, so they keep their room and nothing jumps when they show,
+    # and a faint outline of a day's rows stands in their place meanwhile (SKELETON). They show once the page is
+    # all read, even if the script fails. What's over them shows at once: the header and the filter, which the
+    # script only wires up, and the lead, which its own script puts right as it's read (LEAD_NOW).
+    # First, before the page's line about itself: between that and the filter, it kept "h1.tagline + .bar-mark"
+    # from finding the filter, whose pull-up then covered the bottom of the line's letters.
+    settle = ('<script>document.documentElement.classList.add("settling");'
+              'addEventListener("DOMContentLoaded", () => document.documentElement.classList.remove("settling"));</script>\n')
     body = (
-        # The listings aren't painted until the script at the end has run: a page is two megabytes, which a phone
-        # shows as it arrives, and the script then drops what's passed since the build (hours of it, by its last),
-        # puts today's in the order of what's next and hides what's past the first page, so what showed first would
-        # move under the reader. Hidden rather than gone, so they keep their room and nothing jumps when they show,
-        # and a faint outline of a day's rows stands in their place meanwhile (SKELETON). They show once the page is
-        # all read, even if the script fails. What's over them shows at once: the header and the filter, which the
-        # script only wires up, and the lead, which its own script puts right as it's read (LEAD_NOW).
-        '<script>document.documentElement.classList.add("settling");'
-        'addEventListener("DOMContentLoaded", () => document.documentElement.classList.remove("settling"));</script>'
         # The kinds, when and where together (a phone's row of chips), then the search (its box, on a line above).
         f'<div class="bar-mark" aria-hidden="true"></div><nav class="filter" aria-label="Show"{filter_attributes}>'
         f'<span class="chips">{buttons}{when_links}{said_over(venue_menu(venues, towns, events), "Where")}</span>'
@@ -5236,9 +5243,9 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
         # page a third heavier with words no one sees.
         week = built_at.astimezone(PUBLIC_ZONE).date() + timedelta(days=DESCRIBED_DAYS)
         described = events if category else [item for item in events if item["date"] < week]
-        return public_page(path, title, said + banner + body, built_at, description=description, said=beside,
+        return public_page(path, title, settle + said + banner + body, built_at, description=description, said=beside,
                            data={"@context": "https://schema.org", "@graph": [website_data()] + [event_data(item) for item in described]})
-    return page("Events", body, built_at)
+    return page("Events", settle + body, built_at)
 
 
 DESCRIBED_DAYS = 7  # How far ahead the pages other than a kind's describe their listings for search engines.
@@ -6490,7 +6497,7 @@ INDEX_JS = """
       // A weekend shown in place, the way to the other one under it, as its own page has.
       for (const nav of document.querySelectorAll(".weekends[data-on]")) nav.hidden = nav.dataset.on !== when?.dataset.when;
       // And over the list, the film and the announcements of those nights, not the week's (render_lead's days).
-      // Theirs are in .leads, the others put away.
+      // Theirs are in .leads, the others put away. A kind leaves it as it is: what's over the list stays put.
       for (const lead of document.querySelectorAll(".lead")) {
         if (lead.dataset.when) lead.classList.toggle("away", lead.dataset.when !== when?.dataset.when);
         else lead.hidden = Boolean(when);
@@ -6618,10 +6625,14 @@ INDEX_JS = """
   // started goes, and the next of the spares takes its place; the film, gone today, opens its next showing, and
   // goes only where there's none.
   // The home page has one for each of tonight and the weekends too, which show in place of its own (showEvents).
+  // A kind's page has the home page's, of every kind, whose others aren't in its list: those it leaves, and they
+  // go to the home page's view of them (their links' own address). Announcements that have started still drop
+  // (LEAD_NOW).
+  const kindHere = kindPages && filter.dataset.current !== "all" ? filter.dataset.current : "";
   for (const lead of document.querySelectorAll(".lead")) {
     for (const link of lead.querySelectorAll("a[href*='?event=']")) {
       const id = new URL(link.href, location.href).searchParams.get("event");
-      if (rowWith(id)) continue;
+      if (rowWith(id) || (kindHere && link.dataset.category !== kindHere)) continue;
       if (link.closest(".fresh-list")) link.closest("li").remove();
       else if (!nextOf(id)) link.closest(".biggest-part").remove();
     }
