@@ -115,6 +115,8 @@ ROUTES = [
     ("shelburnefallsmemorialhall.org/its-a-wonderful-life-1946/", "pothole_film.html"),
     ("shelburnefallsmemorialhall.org/metropolitan-operas/", "memorialhall_met.html"),
     ("live.barringtonhallgb.com", "tickettailor.html"),
+    ("bso.org/events/nov-27-tli-jazz-ted-rosenthal", "bso_rosenthal.html"),
+    ("bso.org/events/h-h-handels-messiah-2026", "bso_messiah.html"),
     ("thefoundryws.com/event/", "foundry.html"),  # Its later pages too: they can be its first again.
     ("m.movies.abenity.com/theatre?id=725&date=11/24/2026", "abenity.html"),
     ("m.movies.abenity.com/theatre", "empty.html"),  # Its other days.
@@ -886,6 +888,21 @@ class WesternMass(unittest.TestCase):
         self.assertEqual(by_title["Parsifal — Richard Wagner"]["date"], date(2027, 6, 5), "its next June 5, with no year said")
         self.assertNotIn("Macbeth: Verdi", by_title, "not what's past")
 
+    def test_tanglewood_from_the_bsos_search_only_whats_in_lenox(self):
+        answer = json.loads((FIXTURES / "bso_search.json").read_text())
+        asked = []
+        post = lambda url, body, headers=None: asked.append((url, body)) or answer
+        with mock.patch.object(build, "post_json", post), mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
+            found = build.read_tanglewood(source("tanglewood", "https://www.bso.org/tanglewood", "music", "Tanglewood"))
+        self.assertEqual(asked[0][1]["filters"], 'section:"Upcoming Events"', "only what's upcoming, from its search")
+        self.assertEqual(len(found), 1, "Tanglewood's, not Symphony Hall's Messiah, nor its photography class")
+        jazz = found[0]
+        self.assertTrue(jazz["title"].startswith("TLI Jazz: Ted Rosenthal Quartet"))
+        self.assertEqual((jazz["date"], jazz["times"], jazz["category"]), (date(2026, 11, 27), [time(19, 0)], "music"))
+        self.assertEqual(jazz["detail"], "Studio E, Linde Center for Music and Learning", "its hall, without its town")
+        self.assertEqual(jazz["address"][1], "Lenox")
+        self.assertTrue(jazz["about"] and jazz["image"].startswith("https://cdn.bso.org/"))
+
     def test_barrington_hall_from_its_ticket_tailor_box_office(self):
         found = build.read_tickettailor(source("tickettailor", "https://live.barringtonhallgb.com/", "music", "Barrington Hall"))
         by_title = {item["title"]: item for item in found}
@@ -1016,7 +1033,8 @@ class WesternMass(unittest.TestCase):
                                                        "UMass Amherst", "Mount Holyoke", "Smith College", "The Heavy Culture", "CitySpace", "New City Brewery",
                                                        "Amherst College", "Tower Theaters", "Agawam Cinemas", "Double Edge Theatre",
                                                        "Garden Cinemas", "Pothole Pictures",
-                                                       "Shelburne Falls Memorial Hall", "Barrington Hall", "The Foundry", "Dreamaway Lodge"})
+                                                       "Shelburne Falls Memorial Hall", "Barrington Hall", "The Foundry", "Dreamaway Lodge",
+                                                       "Tanglewood"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             self.assertIn(s["name"], build.VENUE_ADDRESSES, "each under its town in the venue menu")

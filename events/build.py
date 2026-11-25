@@ -165,6 +165,7 @@ VENUE_ADDRESSES = {
     "Barrington Hall": ("426 Stockbridge Rd", "Great Barrington", "01230"),
     "The Foundry": ("2 Harris St", "West Stockbridge", "01266"),
     "Dreamaway Lodge": ("1342 County Rd", "Becket", "01223"),
+    "Tanglewood": ("297 West St", "Lenox", "01240"),
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
@@ -2055,6 +2056,58 @@ def read_foundry(source):
     return events
 
 
+# The Boston Symphony's site search (Algolia), which its events page searches with: its application, the
+# search-only key the page gives every visitor, and its index. Read only for what's in Lenox, Tanglewood's.
+BSO_SEARCH = ("T49PH09ZFX", "1cc6d592d0f49c7571c372cc99e54a50", "bso_prd_env_site_search")
+# What Tanglewood lists that isn't a show: its classes ("Introduction to Smartphone Photography") and workshops.
+TANGLEWOOD_SKIP = re.compile(r"\bintroduction to\b|\bworkshop\b|\bclass\b|\bphotograph", re.I)
+
+
+def read_tanglewood(source):
+    """Tanglewood's events (Lenox), from the Boston Symphony's: its site's search for what's upcoming (BSO_SEARCH),
+    in the days ahead that are listed, and each one's page for where it is, kept to what's in Lenox (the Shed, Ozawa
+    Hall, the Linde Center's rooms), and its performances' days and times ("Nov 27, 2026, 7:00pm EST"), a listing a
+    day. Its name, picture and what it's about are its search record's. Not its classes (TANGLEWOOD_SKIP)."""
+    app, key, index = BSO_SEARCH
+    answer = post_json(f"https://{app.lower()}-dsn.algolia.net/1/indexes/{index}/query",
+                       {"query": "", "filters": 'section:"Upcoming Events"', "hitsPerPage": 1000,
+                        "attributesToRetrieve": ["title", "url", "image", "excerpt", "firstPerformanceDate", "lastPerformanceDate"],
+                        "attributesToHighlight": []},
+                       {"X-Algolia-Application-Id": app, "X-Algolia-API-Key": key})
+    here, last = today(), window_end("music")
+    events = []
+    for hit in answer.get("hits", []):
+        first_said = ((hit.get("firstPerformanceDate") or {}).get("date") or "")[:10]
+        last_said = ((hit.get("lastPerformanceDate") or {}).get("date") or first_said)[:10]
+        title = text(hit.get("title") or "")
+        if not (first_said and title) or TANGLEWOOD_SKIP.search(title):
+            continue
+        # Only what's on in the days listed: the rest, Symphony Hall's season mostly, is never opened.
+        if date.fromisoformat(last_said) < here or date.fromisoformat(first_said) > last:
+            continue
+        link = urljoin("https://www.bso.org/", hit.get("url") or "")
+        page = fetch(link)
+        hall = re.search(r'<a href="https://www\.bso\.org/venues/[^"]+">([^<]+)</a>', page)
+        where = text(hall.group(1)) if hall else ""
+        if not re.search(r"\bLenox\b", where):
+            continue
+        detail = re.sub(r",\s*Lenox.*$", "", where)  # "Studio E, Linde Center for Music and Learning"
+        category = guess_kind(title)
+        if not category:
+            continue
+        times = {}
+        for said in sorted(set(re.findall(r'data-performance-date="(\w{3} \d{1,2}, \d{4}), (\d{1,2}:\d{2}[ap]m)', page))):
+            day = datetime.strptime(said[0], "%b %d, %Y").date()
+            times.setdefault(day, set()).add(datetime.strptime(said[1].upper(), "%I:%M%p").time())
+        for day, starts in sorted(times.items()):
+            if not here <= day <= last:
+                continue
+            listing = event(source, title, day, min(starts), link=link, detail=detail, about=about(hit.get("excerpt") or ""),
+                            address=VENUE_ADDRESSES.get("Tanglewood"), image=hit.get("image") or "")
+            events.append(dict(listing, times=sorted(starts), category=category))
+    return events
+
+
 def read_garden_cinemas(source):
     """Greenfield Garden Cinemas' showtimes, a day to a page (?vdate=11/24/2026), each film with its page, its
     poster and its times ("8:30p"), for the days its date slider offers, as far ahead as films are listed."""
@@ -3781,6 +3834,7 @@ READERS = {
     "doubleedge": read_double_edge,
     "memorialhall": read_memorial_hall,
     "tickettailor": read_tickettailor,
+    "tanglewood": read_tanglewood,
     "foundry": read_foundry,
     "academyofmusic": read_academy_of_music,
     "phoenix": read_phoenix,
