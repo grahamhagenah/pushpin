@@ -2549,9 +2549,10 @@ class Biggest(unittest.TestCase):
         self.assertIn("Sunday Show", saturday)
         self.assertNotIn("Tonight&#x27;s", saturday)
         self.assertEqual(build.render_lead(films, built, days=tonight), ("", ""))
-        # The home page's one over another in the same place, so going from one to another moves nothing under them.
+        # The home page's: only the one chosen, taking no room for the others, which left a blank over tonight's
+        # listings once its evening had gone by.
         self.assertIn('lead.classList.toggle("away", lead.dataset.when !== when?.dataset.when);', build.INDEX_JS)
-        self.assertIn(".leads > .lead { grid-area: 1 / 1; align-self: start; }", build.render_index([], [], [], [], built, public=True))
+        self.assertIn(".leads > .lead.away { display: none; }", build.render_index([], [], [], [], built, public=True))
 
     def test_the_film_a_card_beside_whats_announced(self):
         """The film a card with its poster, first; what's announced in words after it: on its right on a wide
