@@ -7319,8 +7319,11 @@ CSS = """
   .biggest-picture { flex: none; width: 153px; height: 122px; border-radius: 4px; object-fit: cover; background: #161616; }
   .biggest.standing .biggest-picture { width: 81px; height: 122px; }
   @media (max-width: 34rem) {
-    .biggest:not(.standing) .biggest-picture { width: 100px; height: 80px; }
-    .biggest.standing .biggest-picture { width: 54px; height: 80px; }
+    .biggest:not(.standing) .biggest-picture { width: 132px; height: 106px; }
+    .biggest.standing .biggest-picture { width: 71px; height: 106px; }
+    /* Its words from the top of it, as on a wide screen, and what it's about to three lines beside it. */
+    .biggest { align-items: flex-start; }
+    .biggest-about { -webkit-line-clamp: 3; }
   }
   .biggest-said { display: grid; gap: .15rem; min-width: 0; }
   .biggest-facts { display: block; color: #777; font-size: .85rem; line-height: 1.4; }  /* As a listing's line of when and where. */
