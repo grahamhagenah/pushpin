@@ -166,6 +166,13 @@ VENUE_ADDRESSES = {
     "The Foundry": ("2 Harris St", "West Stockbridge", "01266"),
     "Dreamaway Lodge": ("1342 County Rd", "Becket", "01223"),
     "Tanglewood": ("297 West St", "Lenox", "01240"),
+    "Pines Theater": ("300 N Main St", "Florence", "01062"),
+    "Tree House Brewing": ("1 Community Pl", "South Deerfield", "01373"),
+    "Symphony Hall Springfield": ("34 Court St", "Springfield", "01103"),  # Not Boston's Symphony Hall.
+    "52 Sumner": ("52 Sumner Ave", "Springfield", "01108"),
+    "HOPE Center for the Arts": ("150 Bridge St", "Springfield", "01103"),
+    "De La Luz": ("114 Race St", "Holyoke", "01040"),
+    "Hutghi's at the Nook": ("8 Franklin St", "Westfield", "01085"),
     "Mount Holyoke": ("50 College St", "South Hadley", "01075"),
     "Smith College": ("10 Elm St", "Northampton", "01063"),
     # New York, which gives its state, being outside Massachusetts. The town is the one the post office
@@ -642,6 +649,7 @@ def read_jsonld(source):
         day, start = at_venue(datetime.fromisoformat(item["startDate"]), source.get("zone", BOSTON))
         # The Brattle adds the showtime to each name: "Filipiñana - 9/12/26 @ 12:00 pm".
         title = re.sub(r"\s+-\s+\d{1,2}/\d{1,2}/\d{2,4}\s+@.*$", "", html.unescape(item.get("name", "")))
+        title = title.replace("\\'", "'")  # Tixr's (DSP Shows' pages) escapes its apostrophes: "St. Patrick\'s Day".
         work = item.get("workPresented") or {}
         work = works.get(work.get("@id"), work) if isinstance(work, dict) else {}
         offers = item.get("offers") or {}
@@ -2105,6 +2113,180 @@ def read_tanglewood(source):
             listing = event(source, title, day, min(starts), link=link, detail=detail, about=about(hit.get("excerpt") or ""),
                             address=VENUE_ADDRESSES.get("Tanglewood"), image=hit.get("image") or "")
             events.append(dict(listing, times=sorted(starts), category=category))
+    return events
+
+
+def said_time(said):
+    """A time of day as a page says it: "7:00 PM", "7pm", "10:00 pm"; None for none."""
+    found = re.search(r"\b(\d{1,2})(?::(\d{2}))?\s*([ap])\.?m\b", said or "", re.I)
+    if not found:
+        return None
+    hour, minute, half = found.groups()
+    return time(int(hour) % 12 + (12 if half.lower() == "p" else 0), int(minute or 0))
+
+
+def read_eventitems(source):
+    """A hall's events on its own site in the template many share (Symphony Hall Springfield's): an eventItem each,
+    with its name, its month and day ("Dec 11", no year), when it starts, the line under its name ("Presented by
+    the Springfield Symphony Orchestra"), its picture; and its own page for what it's about, which is how a
+    comedian's night, which isn't listed, tells itself from a concert."""
+    events = []
+    for item in fetch(source["url"]).split('<div class="eventItem')[1:]:
+        named = re.search(r'class="h3 title[^"]*">\s*<a href="([^"]+)"[^>]*>(.*?)</a>', item, re.S)
+        month = re.search(r'class="m-date__month">\s*(\w{3})', item)
+        number = re.search(r'class="m-date__day">\s*(\d{1,2})', item)
+        if not (named and month and number):
+            continue
+        day = yearless(month.group(1), number.group(1), today())
+        if not day:
+            continue
+        title, link = text(named.group(2)), html.unescape(named.group(1))
+        line = re.search(r'class="h4 tagline">(.*?)</div>', item, re.S)
+        start = re.search(r'class="start">(.*?)</span>', item, re.S)
+        picture = re.search(r'<img src="([^"]+)"', item)
+        said = re.search(r'class="event_description[^"]*"[^>]*>(.*?)</div>', fetch(link), re.S)
+        # By its presenter too: Swan Lake's are "International Ballet Stars".
+        category = guess_kind(title, " ".join(text(found.group(1)) for found in (line, said) if found))
+        if not category:
+            continue
+        listing = event(source, title, day, said_time(start.group(1)) if start else None, link=link,
+                        detail=text(line.group(1)) if line else "", about=about(said.group(1)) if said else [],
+                        image=html.unescape(picture.group(1)) if picture else "")
+        events.append(dict(listing, category=category))
+    return events
+
+
+# What 52 Sumner's table lists that isn't a show: a private booking, and the Chamber of Commerce's mixers.
+SUMNER_SKIP = re.compile(r"\bprivate event\b|\bchamber event\b", re.I)
+
+
+def read_sumner(source):
+    """52 Sumner's events (Springfield): a table on its site, a row each, its date ("12/4/2026") and its name, a
+    link to where its tickets are sold (Eventbrite, Fever) where it has one. No times. A name's note that tickets
+    are coming is left off it; not its private bookings or the Chamber's mixers (SUMNER_SKIP)."""
+    events = []
+    for row in re.findall(r"(?s)<tr>(.*?)</tr>", fetch(source["url"])):
+        cells = re.findall(r'(?s)<td[^>]*>(.*?)</td>', row)
+        said = re.search(r"(\d{1,2})/(\d{1,2})/(\d{4})", text(cells[0])) if len(cells) >= 2 else None
+        if not said:
+            continue
+        title = re.sub(r"\s*>+\s*tickets coming soon\s*$", "", text(cells[1]), flags=re.I).strip(" -")
+        if not title or SUMNER_SKIP.search(title):
+            continue
+        # Who's producing it, after its name ("Creepy Christmas Carol - produced by FEVER"), as its line.
+        produced = re.search(r"\s+-\s+(produced by .+)$", title, re.I)
+        producer = produced.group(1) if produced else ""
+        title = title[:produced.start()] if produced else title
+        month, day_number, year = map(int, said.groups())
+        link = re.search(r'href="([^"]+)"', cells[1])
+        # The link without what's added to it for counting where its visitors came from (?aff=…&fbclid=…).
+        link = html.unescape(link.group(1)).split("?")[0] if link else ""
+        # A play is a stage show, art & talks, as a dance is: its radio plays, and a Christmas Carol.
+        category = "art" if re.search(r"\bplay\b|\bchristmas carol\b", title, re.I) else guess_kind(title)
+        if category:
+            events.append(dict(event(source, title, date(year, month, day_number), link=link,
+                                     detail=producer[:1].upper() + producer[1:]), category=category))
+    return events
+
+
+# What HOPE Center lists among its shows that isn't one: its VIP add-ons, sold as events of their own.
+HOPE_SKIP = re.compile(r"\bVIP\b", re.I)
+
+
+def read_hope(source):
+    """HOPE Center for the Arts' upcoming events (Springfield): its Upcoming page, a card each with its name, day
+    ("Friday, Dec 4", no year) and page; and that page for when the show starts ("7:00 pm: Show Starts", or when
+    its doors open for one that has no show), its price and what it's about."""
+    events = []
+    for card in fetch(source["url"]).split('<article class="bde-loop-item')[1:]:
+        link = re.search(r'href="([^"]+)"', card)
+        said = re.search(r"\b(?:Mon|Tues|Wednes|Thurs|Fri|Satur|Sun)day, (\w{3}) (\d{1,2})\b", text(card))
+        name = re.search(r'class="[^"]*\bevent-title\b[^"]*"[^>]*>(.*?)</div>', card, re.S)
+        if not (link and said):
+            continue
+        day = yearless(said.group(1), said.group(2), today())
+        page = fetch(html.unescape(link.group(1)))
+        title = text(name.group(1)) if name else ""
+        if not title:
+            heading = re.search(r"<h1[^>]*>(.*?)</h1>", page, re.S) or re.search(r"<title>(.*?)(?: - HOPE Center[^<]*)?</title>", page, re.S)
+            title = text(heading.group(1)) if heading else ""
+        if not (day and title) or HOPE_SKIP.search(title):
+            continue
+        words = text(re.sub(r"(?s)<script.*?</script>|<style.*?</style>", "", page))
+        start = re.search(r"(\d{1,2}:\d{2} [ap]m): Show Starts", words) or re.search(r"(\d{1,2}:\d{2} [ap]m): (?:Doors|Lobby) Open", words)
+        costs = re.search(r"Price range: \$([\d.]+) through \$([\d.]+)", words) or re.search(r"\$\s*([\d.]+)\s+in advance()", words)
+        said_about = re.search(r'(?s)class="[^"]*bde-rich-text[^"]*"[^>]*>(.*?)</div>', page)
+        category = guess_kind(title, text(said_about.group(1)) if said_about else "")
+        if not category:
+            continue
+        picture = re.search(r'<img[^>]+src="([^"]+)"', card)
+        listing = event(source, title, day, said_time(start.group(1)) if start else None, link=html.unescape(link.group(1)),
+                        about=about(said_about.group(1)) if said_about else [], image=html.unescape(picture.group(1)) if picture else "",
+                        price=price_of(*costs.groups()) if costs else "")
+        events.append(dict(listing, category=category))
+    return events
+
+
+def read_delaluz(source):
+    """De La Luz's calendar (Holyoke): a month to a section, a show to a row, with its weekday and day of the month
+    under the month's heading ("December 2026"), its name and a line under it, its room and time ("Soundstage ·
+    10:00 PM"), and its price. Not its weekly series, which head the page rather than being in its months."""
+    events = []
+    for year, month, body in re.findall(r'(?s)<section id="cal-(\d{4})-(\d{2})" class="cal-month">(.*?)</section>', fetch(source["url"])):
+        for row in re.findall(r'(?s)<li id="cal-show-[^"]*"[^>]*>(.*?)</li>', body):
+            link = re.search(r'href="([^"]+)"', row)
+            number = re.search(r'class="t-figure-lg[^"]*">(\d{1,2})<', row)
+            name = re.search(r"<h3[^>]*>(.*?)</h3>", row, re.S)
+            if not (link and number and name):
+                continue
+            line = re.search(r'class="t-deck[^"]*">(.*?)</p>', row, re.S)
+            where = re.search(r'class="t-meta[^"]*">(.*?)</p>', row, re.S)
+            room, _, clock = text(where.group(1)).partition(" · ") if where else ("", "", "")
+            cost = re.search(r'class="t-figure [^"]*">(.*?)</span>', row)
+            picture = re.search(r'<img src="([^"]+)"', row)
+            title = text(name.group(1))
+            category = guess_kind(title, text(line.group(1)) if line else "")
+            if not category:
+                continue
+            listing = event(source, title, date(int(year), int(month), int(number.group(1))), said_time(clock),
+                            link=urljoin(source["url"], html.unescape(link.group(1))), detail=room,
+                            about=[text(line.group(1))] if line else [], price=price_from(text(cost.group(1))) if cost else "",
+                            image=urljoin(source["url"], html.unescape(picture.group(1))) if picture else "")
+            events.append(dict(listing, category=category))
+    return events
+
+
+# How Hutghi's names a show in its shop: its weekday and its day ("Saturday March 13th", "Wednesday 11/18"), then
+# who's playing ("- Mephiskapheles / Skarmy of Darkness").
+SHOP_DAY = re.compile(r"^(?:Mon|Tues|Wednes|Thurs|Fri|Satur|Sun)day,?\s+(?:([A-Z][a-z]+)\.? (\d{1,2})(?:st|nd|rd|th)?|(\d{1,2})/(\d{1,2}))\s*[-–:]?\s*(.+)$")
+
+
+def read_shopify(source):
+    """A bar's tickets sold in its Shopify shop (Hutghi's at the Nook's, Westfield): a product each, named for its
+    day and who's playing ("Saturday March 13th - Mephiskapheles / Skarmy of Darkness"), no year, its time in its
+    description ("7pm - All Ages"), its price and picture. Not what has no day in its name: the shop's shirts, and
+    its weekly comedy and trivia nights ("Every Thursday at 8pm")."""
+    events = []
+    root = "{0.scheme}://{0.netloc}".format(urlsplit(source["url"]))
+    for product in json.loads(fetch(source["url"])).get("products", []):
+        found = SHOP_DAY.match(text(product.get("title")))
+        if not found:
+            continue
+        month, number, month_number, number_too, who = found.groups()
+        day = (yearless(month[:3], number, today()) if month else
+               yearless(month_number, number_too, today(), "%m"))
+        if not day:
+            continue
+        said = text(product.get("body_html"))
+        prices = [variant.get("price") for variant in product.get("variants") or []]
+        images = product.get("images") or []
+        category = guess_kind(who, said)
+        if not category:
+            continue
+        listing = event(source, who.strip(), day, said_time(said), link=f"{root}/products/{product['handle']}",
+                        about=about(product.get("body_html") or ""), price=price_of(min(prices, key=float), max(prices, key=float)) if prices else "",
+                        image=images[0].get("src", "") if images else "")
+        events.append(dict(listing, category=category))
     return events
 
 
@@ -3835,6 +4017,11 @@ READERS = {
     "memorialhall": read_memorial_hall,
     "tickettailor": read_tickettailor,
     "tanglewood": read_tanglewood,
+    "eventitems": read_eventitems,
+    "sumner": read_sumner,
+    "hope": read_hope,
+    "delaluz": read_delaluz,
+    "shopify": read_shopify,
     "foundry": read_foundry,
     "academyofmusic": read_academy_of_music,
     "phoenix": read_phoenix,

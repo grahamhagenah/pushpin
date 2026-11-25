@@ -47,3 +47,14 @@ squarespace    https://www.thedreamawaylodge.com/music               music  Drea
 # Tanglewood (Lenox): what's upcoming in the Boston Symphony's site search, kept to what's in Lenox. Jacob's Pillow
 # (Becket) turns automated readers away (Cloudflare).
 tanglewood     https://www.bso.org/tanglewood                        music  Tanglewood
+# The summer's big outdoor shows, DSP Shows' pages for each, which list them while they're on sale and nothing in
+# the off-season (the Pines Theater at Look Park, Florence; Tree House's Summer Stage, Deerfield).
+jsonld         https://dspshows.com/venues/pines-theater/            music  Pines Theater
+jsonld         https://dspshows.com/venues/tree-house-brewing-company/   music  Tree House Brewing
+# Springfield and Holyoke, a reader's suggestions. Visions Video's screenings (Northampton) are on Eventbrite
+# only, which turns Pushpin away.
+eventitems     https://www.symphonyhallspringfield.com/events        music  Symphony Hall Springfield
+sumner         https://52sumner.com/events-and-tickets/              music  52 Sumner
+hope           https://hopecenterforthearts.org/upcoming/            music  HOPE Center for the Arts
+delaluz        https://delaluz.org/calendar                          music  De La Luz
+shopify        https://m3pn87-t7.myshopify.com/products.json?limit=250   music  Hutghi's at the Nook

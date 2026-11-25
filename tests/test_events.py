@@ -115,6 +115,16 @@ ROUTES = [
     ("shelburnefallsmemorialhall.org/its-a-wonderful-life-1946/", "pothole_film.html"),
     ("shelburnefallsmemorialhall.org/metropolitan-operas/", "memorialhall_met.html"),
     ("live.barringtonhallgb.com", "tickettailor.html"),
+    ("symphonyhallspringfield.com/events/detail/jeff-dunham", "symphonyhall_dunham.html"),
+    ("symphonyhallspringfield.com/events/detail/", "empty.html"),  # Its other shows' pages.
+    ("symphonyhallspringfield.com/events", "symphonyhall.html"),
+    ("52sumner.com/events-and-tickets", "sumner.html"),
+    ("hopecenterforthearts.org/upcoming", "hope_upcoming.html"),
+    ("hopecenterforthearts.org/events/irish-tenors-christmas", "hope_event.html"),
+    ("hopecenterforthearts.org/events/", "empty.html"),  # Its other show's page.
+    ("delaluz.org/calendar", "delaluz.html"),
+    ("m3pn87-t7.myshopify.com/products.json", "hutghis.json"),
+    ("dspshows.com/venues/bombyx", "dsp.html"),
     ("bso.org/events/nov-27-tli-jazz-ted-rosenthal", "bso_rosenthal.html"),
     ("bso.org/events/h-h-handels-messiah-2026", "bso_messiah.html"),
     ("thefoundryws.com/event/", "foundry.html"),  # Its later pages too: they can be its first again.
@@ -903,6 +913,69 @@ class WesternMass(unittest.TestCase):
         self.assertEqual(jazz["address"][1], "Lenox")
         self.assertTrue(jazz["about"] and jazz["image"].startswith("https://cdn.bso.org/"))
 
+    def test_symphony_hall_springfield_without_its_comedian(self):
+        with mock.patch.object(build, "today", lambda: date(2026, 11, 25)):
+            found = build.read_eventitems(source("eventitems", "https://www.symphonyhallspringfield.com/events", "music", "Symphony Hall Springfield"))
+        by_title = {item["title"]: item for item in found}
+        jazz = by_title["Jazz Up the Holidays"]
+        self.assertEqual((jazz["date"], jazz["times"], jazz["category"]), (date(2026, 12, 12), [time(16, 0)], "music"))
+        self.assertEqual(jazz["detail"], "Presented by the Springfield Symphony Orchestra", "the line under its name")
+        self.assertEqual(by_title["Favorite Choral Works"]["date"], date(2027, 4, 17), "next year's, with no year said")
+        self.assertEqual(by_title["Swan Lake"]["category"], "art", "a ballet, by its presenters, International Ballet Stars")
+        self.assertNotIn("Jeff Dunham Inappropriate Contact", by_title, "a comedian, by his own page")
+        self.assertTrue(jazz["link"].startswith("https://www.symphonyhallspringfield.com/events/detail/") and jazz["image"])
+
+    def test_52_sumner_from_its_table(self):
+        found = build.read_sumner(source("sumner", "https://52sumner.com/events-and-tickets/", "music", "52 Sumner"))
+        by_title = {item["title"]: item for item in found}
+        hambridge = by_title["Tom Hambridge - Blue 52 Series"]
+        self.assertEqual((hambridge["date"], hambridge["times"], hambridge["category"]), (date(2026, 12, 4), [], "music"))
+        self.assertTrue(hambridge["link"].startswith("https://www.eventbrite.com/e/") and "?" not in hambridge["link"],
+                        "where its tickets are, without what's added for counting visitors")
+        carol = by_title["Creepy Christmas Carol"]
+        self.assertEqual((carol["category"], carol["detail"]), ("art", "Produced by FEVER"), "a play, its producer its line")
+        self.assertIn("Springfield Symphony Chamber Players", by_title, "without its note that tickets are coming")
+        self.assertFalse([title for title in by_title if re.search(r"private|chamber event", title, re.I)],
+                         "not its private bookings or the Chamber of Commerce's mixers")
+
+    def test_hope_center_from_its_upcoming_page_and_each_shows(self):
+        with mock.patch.object(build, "today", lambda: date(2026, 11, 25)):
+            found = build.read_hope(source("hope", "https://hopecenterforthearts.org/upcoming/", "music", "HOPE Center for the Arts"))
+        by_title = {item["title"]: item for item in found}
+        tenors = by_title["The Irish Tenors"]
+        self.assertEqual((tenors["date"], tenors["times"], tenors["price"]), (date(2026, 12, 4), [time(19, 0)], "$65–$90"),
+                         "when the show starts, not when the lobby opens")
+        self.assertTrue(tenors["about"] and tenors["image"])
+        self.assertEqual(by_title["CCM: A Night of Worship"]["date"], date(2026, 11, 28), "its day from its card, its page aside")
+
+    def test_de_la_luz_by_its_months_not_its_weekly_series(self):
+        found = build.read_delaluz(source("delaluz", "https://delaluz.org/calendar", "music", "De La Luz"))
+        by_title = {item["title"]: item for item in found}
+        lopez = by_title["Harold López-Nussa"]
+        self.assertEqual((lopez["date"], lopez["times"], lopez["detail"], lopez["price"]),
+                         (date(2027, 1, 16), [time(19, 0)], "Soundstage", "$38.50"))
+        self.assertEqual(lopez["link"], "https://delaluz.org/events/harold-lopez-nussa")
+        self.assertEqual(by_title["The Interlude"]["about"], ["Thanksgiving has an afterparty"], "the line under its name")
+        self.assertNotIn("Armour Yard", by_title, "not its weekly vinyl nights")
+
+    def test_hutghis_shows_from_its_shop(self):
+        with mock.patch.object(build, "today", lambda: date(2026, 11, 25)):
+            found = build.read_shopify(source("shopify", "https://m3pn87-t7.myshopify.com/products.json?limit=250", "music", "Hutghi's at the Nook"))
+        by_title = {item["title"]: item for item in found}
+        ska = by_title["Mephiskapheles / Skarmy of Darkness / Soularites / Mega Infinity"]
+        self.assertEqual((ska["date"], ska["times"], ska["price"]), (date(2027, 3, 13), [time(19, 0)], "$16.66"),
+                         "its day from its name, its time from what it says")
+        self.assertEqual(ska["link"], "https://m3pn87-t7.myshopify.com/products/saturday-march-13th-mephiskapheles-skarmy-of-darkness-soularites-mega-infinity")
+        self.assertEqual(by_title["Jeanines, Now, Time Thief"]["date"], date(2026, 11, 18), "a day said 11/18")
+        self.assertFalse([title for title in by_title if re.search(r"shirt|every|trivia", title, re.I)],
+                         "not its shirts, nor its weekly comedy and trivia")
+
+    def test_dsp_shows_venue_pages_by_their_events_data(self):
+        found = build.read_jsonld(source("jsonld", "https://dspshows.com/venues/bombyx/", "music", "Bombyx"))
+        titles = {item["title"] for item in found}
+        self.assertIn("Rickie Lee Jones", titles)
+        self.assertTrue(any(title.startswith("A St. Patrick's Day Celebration") for title in titles), "its apostrophes unescaped")
+
     def test_barrington_hall_from_its_ticket_tailor_box_office(self):
         found = build.read_tickettailor(source("tickettailor", "https://live.barringtonhallgb.com/", "music", "Barrington Hall"))
         by_title = {item["title"]: item for item in found}
@@ -1034,7 +1107,9 @@ class WesternMass(unittest.TestCase):
                                                        "Amherst College", "Tower Theaters", "Agawam Cinemas", "Double Edge Theatre",
                                                        "Garden Cinemas", "Pothole Pictures",
                                                        "Shelburne Falls Memorial Hall", "Barrington Hall", "The Foundry", "Dreamaway Lodge",
-                                                       "Tanglewood"})
+                                                       "Tanglewood", "Pines Theater", "Tree House Brewing",
+                                                       "Symphony Hall Springfield", "52 Sumner", "HOPE Center for the Arts",
+                                                       "De La Luz", "Hutghi's at the Nook"})
         for s in sources:
             self.assertIn(s["kind"], build.READERS)
             self.assertIn(s["name"], build.VENUE_ADDRESSES, "each under its town in the venue menu")
