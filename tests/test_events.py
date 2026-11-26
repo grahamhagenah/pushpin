@@ -2326,7 +2326,31 @@ class OneNight(unittest.TestCase):
         tonight = build.render_index(week + [once], [brattle], [], [], self.built, public=True, tonight=True,
                                      days_seen=self.REMEMBERED)
         self.assertEqual(tonight.count('<span class="once-tag">One night</span>'), 1)
-        self.assertLess(tonight.index(">Bullitt<"), tonight.index("One night"))
+        self.assertLess(tonight.index(">Bullitt<"), tonight.index('<span class="once-tag">'))
+        # Its row marked for the One night chip, which this page has, having a film showing once.
+        self.assertIn('data-sources="Brattle" data-once>', tonight)
+        self.assertIn('<button class="once-chip" type="button" aria-pressed="false">', tonight)
+        self.assertIn('&& (!once || "once" in li.dataset)', tonight)
+
+    def test_the_film_pages_lead_lists_them_beside_its_biggest_film(self):
+        """Over the film page, the films showing once in the announcements' place, soonest first, its heading a
+        way to all of them (?once=1); the home page has it too, hidden, for its films shown in place."""
+        brattle = dict(source("aeg", "x", "film", "Brattle"), public=True)
+        sinclair = dict(source("aeg", "x", "music", "The Sinclair"), public=True)
+        week = [build.event(brattle, "On All Week", date(2026, 9, 20) + timedelta(days=d), time(19)) for d in range(15)]
+        once = [build.event(brattle, "The Matrix", date(2026, 9, 24), time(21)), build.event(brattle, "Bullitt", date(2026, 9, 22), time(21))]
+        band = [build.event(sinclair, "A Band", date(2026, 9, 22), time(20))]
+        film = build.render_index(week + once, [brattle], [], [], self.built, public=True, category="film", days_seen=self.REMEMBERED)
+        start = film.index('<div class="lead')
+        lead = film[start:film.index("</div>\n<script>", start)]
+        self.assertIn("One night only</a>", lead)
+        self.assertIn(f'href="{R}film/?once=1">See all →</a>', lead)
+        self.assertLess(lead.index(">Bullitt<"), lead.index(">The Matrix<"), "soonest first")
+        self.assertNotIn("On All Week", lead.split('class="fresh"')[1])
+        home = build.render_index(week + once + band, [brattle, sinclair], [], [], self.built, public=True, days_seen=self.REMEMBERED)
+        self.assertIn('<div class="lead one" data-kind="film" hidden>', home, "no film at enough theaters: its one-night films alone")
+        music = build.render_index(band, [sinclair], [], [], self.built, public=True, category="music", days_seen=self.REMEMBERED)
+        self.assertNotIn('class="once-chip"', music, "no films there to narrow to")
 
 
 class FilmDays(unittest.TestCase):
@@ -2437,7 +2461,7 @@ class HomePage(unittest.TestCase):
         home = self.page()
         self.assertIn(".filter .chips .pick-box.chosen { order: -1; }", home)
         self.assertIn(".filter .chips::before { order: -2; }", home, "the margin before the row stays before it")
-        self.assertIn('.filter .chips [data-show]::after, .filter .when-links a::after { content: ""; position: absolute; '
+        self.assertIn('.filter .chips [data-show]::after, .filter .when-links a::after, .filter .once-chip::after {\n      content: ""; position: absolute; '
                       "inset: -7px -.2rem; }", home)
         self.assertIn("margin: -6px -1rem;\n                     padding: 6px 0;", home, "32 pixels drawn, 44 to press")
         # The bar is measured from a chip, not the row, whose padding isn't the bar's.
@@ -2450,7 +2474,7 @@ class HomePage(unittest.TestCase):
         self.assertIn(f'<a data-show="film" href="{R}film/"><svg class="icon" aria-hidden="true"><use href="#icon-film"/></svg>Film</a>', home)
         tonight = self.page(tonight=True)
         self.assertIn('<button data-show="music"><svg class="icon" aria-hidden="true"><use href="#icon-music"/></svg>Music</button>', tonight)
-        self.assertIn(".filter [data-show] > .icon { width: 13px; height: 13px; margin-right: .4em; vertical-align: -1px; }", home)
+        self.assertIn(".filter [data-show] > .icon, .filter .once-chip > .icon { width: 13px; height: 13px; margin-right: .4em; vertical-align: -1px; }", home)
 
     def test_on_a_phone_the_filter_is_a_search_box_over_a_row_of_chips(self):
         """The kinds, when and where are wrapped together, to be one row a phone swipes along; the search after

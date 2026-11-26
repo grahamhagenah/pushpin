@@ -4776,13 +4776,16 @@ def calm(title):
     return uncapped(title) if shouted else title
 
 
-def render_lead(events, built_at, before="", days=None, when=""):
+def render_lead(events, built_at, before="", days=None, when="", nights=None, kind=""):
     """What's over the listings on the home page: the week's biggest film beside the newest few announced,
     each a way to its row in the list below. Either on its own where there's only it; nothing where there's
     neither. Nothing moves: the film is the biggest there is until something bigger turns up, and what's
     announced is the newest, in the order it was. With days, a first and last, only what's on then: over
     tonight's listings or a weekend's, the film and the announcements of those nights, not of others. when
-    marks it as the home page's for one of those (data-when), which its script shows in place of its own."""
+    marks it as the home page's for one of those (data-when), which its script shows in place of its own.
+    With nights, the film page's: beside the film everyone's showing, the films showing once (one_nights),
+    soonest first, in the announcements' place. kind marks that one as the home page's for its films shown in
+    place (data-kind), hidden until they are."""
     film = biggest_film(events, built_at, before, days)
     # Over a weekend's listings (days of more than one), the film alone: what's announced for those nights is in the
     # list under it anyway, and on a phone the lines over it only pushed the weekend's listings down.
@@ -4790,12 +4793,13 @@ def render_lead(events, built_at, before="", days=None, when=""):
     fresh = [item for item in newly_added(events, built_at) if not weekend and (not days or days[0] <= item["date"] <= days[1])]
     # One a venue before any venue's second: a hall that puts up its season in a batch (the Boston Conservatory's
     # recitals, a run's every night) would otherwise fill every line with the one name. Its others come after,
-    # where there aren't enough venues to go round. See all lists the whole batch.
+    # where there aren't enough venues to go round. See all lists the whole batch. Not the films showing once,
+    # which are the soonest, wherever they are: the next chance to see one goes first.
     firsts, seconds, venues = [], [], set()
     for item in fresh:
         (seconds if item["venue"] in venues else firsts).append(item)
         venues.add(item["venue"])
-    fresh = (firsts + seconds)[:FRESH_SHOWN + FRESH_SPARE]
+    fresh = (firsts + seconds if nights is None else nights)[:FRESH_SHOWN + FRESH_SPARE]
     parts = []
     # A day as a listing's is said: Today or Tomorrow as of this build, there as the page first shows, which the
     # script says again by the reader's day, going back to the date itself (data-said) for a page read the day
@@ -4818,10 +4822,14 @@ def render_lead(events, built_at, before="", days=None, when=""):
             # Its day at the line's end ("Nov 26", or Today, Tomorrow), short, without its weekday, to leave the name room.
             f'<span class="fresh-day">{said(item["date"], weekday=False)}</span></a></li>'
             for item in fresh)
+        # Its heading a link to all of them: Just announced's page, or the film page's one-night films (?once).
+        # Its words alone, as Just announced's are.
+        heading, everyone = (("Just announced", f"{PUBLIC_ROOT}{PUBLIC_NEW[0]}") if nights is None else
+                             ("One night only", f'{PUBLIC_ROOT}{PUBLIC_PAGES["film"][0]}/?once=1'))
         parts.append(
-            f'<div class="fresh"><div class="lead-head"><a class="lead-tag fresh-tag" href="{PUBLIC_ROOT}{PUBLIC_NEW[0]}">'
-            f'Just announced</a>'
-            f'<a class="fresh-more" href="{PUBLIC_ROOT}{PUBLIC_NEW[0]}">See all →</a></div>'
+            f'<div class="fresh"><div class="lead-head"><a class="lead-tag fresh-tag" href="{everyone}">'
+            f'{heading}</a>'
+            f'<a class="fresh-more" href="{everyone}">See all →</a></div>'
             f'<ul class="fresh-list">{rows}</ul></div>')
     if film:
         # The film a card of its own, its picture beside its words in its own shape: a poster standing on its end, a
@@ -4842,7 +4850,7 @@ def render_lead(events, built_at, before="", days=None, when=""):
             + '</span></a></div>')
     if not parts:
         return "", ""
-    marked = f' data-when="{when}"' if when else ""
+    marked = f' data-when="{when}"' if when else f' data-kind="{kind}" hidden' if kind else ""
     return (f'<div class="lead{" one" if len(parts) == 1 else ""}"{marked}>\n' + "\n".join(parts) + "\n</div>\n"
             + LEAD_NOW.replace("ZONE", json.dumps(str(PUBLIC_ZONE))), film["key"] if film else "")
 
@@ -4937,7 +4945,7 @@ def render_row(item):
     ident, series = listing_id(item["date"], item["title"], item["venue"])
     return (
         f'<li class="row{row_class(item)}" data-id="{ident}" data-series="{series}" data-category="{item["category"]}"{part_attribute(item)} '
-        f'data-sources="{html.escape(item["source"])}"{address_attribute(item)}{facts_attributes(item)}>'
+        f'data-sources="{html.escape(item["source"])}"{address_attribute(item)}{facts_attributes(item)}{" data-once" * bool(once)}>'
         f'{icon(item["category"])}{when}{render_clock(part_times(item), sold_times(item), item["category"])}'
         f'<div class="headline"><a class="title" href="{html.escape(item["link"])}">{html.escape(item["title"])}</a> '
         + " ".join(part for part in (render_times(item["times"], sold_times(item)), once, detail) if part)
@@ -5137,9 +5145,13 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
         # This weekend is just "Weekend" where Next weekend isn't beside it (a wide screen's bar), to keep it narrow.
         said = lambda label: (f'<span class="said-long">{label}</span><span class="said-short">Weekend</span>'
                               if label == "This weekend" else label)
+        # And after them, where this page has any, the films showing once (one_nights): a chip that narrows the list
+        # to them, with film's mark, as they're only ever films. Not on music's page or art's, which have none.
+        once_chip = (f'<button class="once-chip" type="button" aria-pressed="false">{icon("film", decorative=True)}One night</button>'
+                     if any(item.get("once") for item in events) and not added else "")
         when_links = '<span class="when-links">' + "".join(
             f'<a{later} href="{root}{path}" data-when="{when}"{" aria-current=\"page\"" if path == now else ""}>{said(label)}</a>'
-            for path, label, later, when in whens) + "</span>"
+            for path, label, later, when in whens) + once_chip + "</span>"
     names =", ".join(html.escape(source["name"]) for source in sources)
     # Notices of sources that didn't load, marked as such, last in the footer.
     mark = shared.icon("notice")
@@ -5156,12 +5168,21 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
     # its script to show in place of its own when Tonight or a weekend is chosen (data-when), in .leads, only the
     # one chosen shown.
     ranges = {"tonight": (built_day, built_day)} | {str(ahead): weekend_days(built_day, ahead) for ahead in range(len(PUBLIC_WEEKENDS))}
+    # The films showing once from today on, soonest first: the film page's lead lists them beside its biggest film,
+    # as the home page's does what's announced; the home page has that too, hidden, for its films shown in place.
+    nights = sorted((item for item in every if item.get("once") and item["date"] >= built_day),
+                    key=lambda item: (item["date"], not item["times"], item["times"][:1], item["title"].casefold()))
     banner = ""
     if home:
-        banner = (render_lead(events, built_at, biggest)[0] + '<div class="leads" hidden>' + "".join(
+        banner = (render_lead(events, built_at, biggest)[0] + render_lead(events, built_at, biggest, nights=nights, kind="film")[0]
+                  + '<div class="leads" hidden>' + "".join(
             render_lead(events, built_at, biggest, days, when)[0] for when, days in ranges.items()) + "</div>\n")
     elif public and (tonight or weekend is not None):
         banner = render_lead(every, built_at, biggest, ranges["tonight" if tonight else str(weekend)])[0]
+    elif public and category == "film":
+        # Film's page has the home page's for films shown in place: the films showing once where the announcements
+        # were, which are never films.
+        banner = render_lead(every, built_at, biggest, nights=nights)[0]
     elif public and category:
         # A kind's page has the home page's, of every kind: its filter shows a kind in place, leaving what's over
         # the list as it is, and puts the kind's page's address in the address bar, so loaded again, that page
@@ -6357,8 +6378,13 @@ INDEX_JS = """
   // same page showing the same, what's over the list and all. Their own pages are still there, for search engines
   // and links from elsewhere.
   const WHEN_NAMES = { tonight: "tonight", 0: "weekend", 1: "next-weekend" };
+  // The films showing once (One night), alone: kept in the address (?once=1), as the venue is, where the page
+  // has the chip to let it go again.
+  const onceChip = filter.querySelector(".once-chip");
+  let once = false;
   const fromAddress = () => {
     const params = new URLSearchParams(location.search);
+    once = Boolean(onceChip) && params.has("once");
     search.value = params.get("q") || "";
     venue.value = params.get("venue") || "";
     if (venue.selectedIndex < 0) venue.value = ""; // A venue no longer listed.
@@ -6456,9 +6482,17 @@ INDEX_JS = """
     const params = new URLSearchParams();
     if (search.offsetParent && search.value.trim()) params.set("q", search.value.trim());
     if (venue.value) params.set("venue", venue.value);
+    if (once) params.set("once", "1");
     return params;
   };
   const query = () => (params().toString() ? "?" + params() : "");
+  // What goes along to another kind's page: all of it to every kind's and film's, but not One night to music's or
+  // art's, which have no films to narrow to.
+  const queryFor = kind => {
+    const kept = params();
+    if (kind !== "all" && kind !== "film") kept.delete("once");
+    return kept.toString() ? "?" + kept : "";
+  };
   for (const a of filter.querySelectorAll("a[data-show], .when-links a")) a.dataset.href = a.getAttribute("href");
   // Tonight's page's own link, or a weekend's, goes back to every day: a chip pressed again is let go.
   for (const a of filter.querySelectorAll(".when-links a[aria-current]")) a.dataset.href = new URL(SHARE_URL).pathname;
@@ -6466,7 +6500,8 @@ INDEX_JS = """
   // chosen is the row's first chip (its styles move it there), and the row at its start; with none, on tonight's
   // page or a weekend's, the row is far enough along to show the whole of that page's chip.
   const settleRow = () => {
-    const row = filter.querySelector(".chips"), here = filter.querySelector(".when-links a[aria-current]");
+    // The last of what's chosen of them: One night, after tonight and the weekends, where it's pressed.
+    const row = filter.querySelector(".chips"), here = [...filter.querySelectorAll('.when-links a[aria-current], .once-chip[aria-pressed="true"]')].at(-1);
     if (row.scrollWidth <= row.clientWidth) return showEnds();  // A wide screen's bar, which isn't a row of its own.
     const over = here && !venue.value ? row.scrollLeft + here.getBoundingClientRect().right + 16 - row.getBoundingClientRect().right : 0;
     row.scrollLeft = Math.max(0, over);
@@ -6516,6 +6551,7 @@ INDEX_JS = """
       && li.dataset.sources.split("|").some(inChosen)
       // One of a listing's two rows with none of its part's times at the theaters chosen: the other row has them.
       && !(li.dataset.part && !li.dataset.first)
+      && (!once || "once" in li.dataset)
       && words.every(word => searchable.get(li).includes(word)));
     // A new page only where a day begins, when that day wouldn't fit in what's left of the hundred: it starts the
     // next page instead of being cut in two. A day of more than a hundred has a page to itself.
@@ -6559,7 +6595,7 @@ INDEX_JS = """
       ? ` in ${venue.options[venue.selectedIndex].textContent.trim().replace(/^All of /, "")}` : ` at ${venue.value}`;
     const narrowed = empty.dataset.narrowed;
     empty.textContent = words.length ? `${narrowed}${at} matches “${search.value.trim()}”.`
-      : at ? `${narrowed}${at}.` : empty.dataset.none;
+      : once ? `No films showing just once${at} coming up.` : at ? `${narrowed}${at}.` : empty.dataset.none;
     venue.classList.toggle("chosen", Boolean(venue.value));
     sayChosen(venue, "Where", "Venue", Boolean(venue.value));
     clearSearch.hidden = !search.value;
@@ -6572,7 +6608,12 @@ INDEX_JS = """
     for (const a of filter.querySelectorAll("a[data-show]")) {  // The kinds', not Tonight's or the weekend's.
       if (a.dataset.show === show) a.setAttribute("aria-current", "page");
       else a.removeAttribute("aria-current");
-      a.setAttribute("href", a.dataset.href + query()); // A search goes along to the other pages.
+      a.setAttribute("href", a.dataset.href + queryFor(a.dataset.show)); // A search goes along to the other pages.
+    }
+    // One night, pressed while it's narrowing the list; there only while every kind or film is showing.
+    if (onceChip) {
+      onceChip.setAttribute("aria-pressed", once);
+      onceChip.hidden = show !== "all" && show !== "film";
     }
     // And the search and the venue go along to tonight's and the weekend's, as they do from the phone's menu.
     for (const a of filter.querySelectorAll(".when-links a")) a.setAttribute("href", a.dataset.href + query());
@@ -6584,10 +6625,14 @@ INDEX_JS = """
       // A weekend shown in place, the way to the other one under it, as its own page has.
       for (const nav of document.querySelectorAll(".weekends[data-on]")) nav.hidden = nav.dataset.on !== when?.dataset.when;
       // And over the list, the film and the announcements of those nights, not the week's (render_lead's days).
-      // Theirs are in .leads, the others put away. A kind leaves it as it is: what's over the list stays put.
+      // Theirs are in .leads, the others put away. A kind leaves it as it is, what's over the list staying put,
+      // but for films shown in place: the film page's over them instead of its own (data-kind), the films showing
+      // once where the announcements were, which are never films. Its own stays where the film page's has gone (LEAD_NOW).
+      const kindLead = document.querySelector(".lead[data-kind]");
       for (const lead of document.querySelectorAll(".lead")) {
         if (lead.dataset.when) lead.classList.toggle("away", lead.dataset.when !== when?.dataset.when);
-        else lead.hidden = Boolean(when);
+        else if (lead.dataset.kind) lead.hidden = Boolean(when) || show !== lead.dataset.kind;
+        else lead.hidden = Boolean(when) || show === kindLead?.dataset.kind;
       }
       const leads = document.querySelector(".leads");
       if (leads) leads.hidden = !when;
@@ -6629,6 +6674,7 @@ INDEX_JS = """
     if (!b || !everything) return;
     event.preventDefault();
     show = b.dataset.show;
+    if (show !== "all" && show !== "film") once = false;  // Music's or art's, which have no films showing once.
     if (kindPages && when) {
       history.replaceState(null, "", address(1)); // Tonight's music, say: the night kept, the kind added.
     } else if (kindPages) {
@@ -6668,6 +6714,15 @@ INDEX_JS = """
     describe();
     history.replaceState(null, "", address(1));
     showEvents();
+    toList();
+  });
+  // One night: the films showing once alone, or, pressed again, everything again. The kind and the days stay.
+  onceChip?.addEventListener("click", () => {
+    once = !once;
+    if (once) tally("once");
+    history.replaceState(null, "", address(1));
+    showEvents();
+    settleRow();
     toList();
   });
   // Under a page with nothing left, clearing what left nothing: the search and the venue; the kind stays.
@@ -7224,7 +7279,7 @@ PIN_CSS = """
   .when-links .later, .when-links .said-short { display: none; }
   /* Each kind's mark before its word, in its color (.icon's own), set by the middle of the letters. */
   /* Centered on the word's capitals: at -2px, the marks' drawings sat half a pixel high of them. */
-  .filter [data-show] > .icon { width: 13px; height: 13px; margin-right: .4em; vertical-align: -1px; }
+  .filter [data-show] > .icon, .filter .once-chip > .icon { width: 13px; height: 13px; margin-right: .4em; vertical-align: -1px; }
   .filter .chips [data-show] > .icon { flex: none; }  /* Next weekend: a phone's row has the room (below); here, the weekend's page links to it. */
   /* The kinds, when and where are wrapped together for a phone's row of chips; on a wide screen they sit in the
      bar itself, the venue's menu at the end of it beside the search. */
@@ -7334,18 +7389,20 @@ PIN_CSS = """
     /* A chip is pressed over more than is drawn of it: 44 pixels' height, the least a finger wants, and out to
        halfway to the chips beside it. The row's own padding, taken back out of its margin, is the room for that,
        since a row that's swiped along cuts off what's outside it. */
-    .filter .chips [data-show], .filter .when-links a { position: relative; }
-    .filter .chips [data-show]::after, .filter .when-links a::after { content: ""; position: absolute; inset: -7px -.2rem; }  /* From inside its border. */
+    .filter .chips [data-show], .filter .when-links a, .filter .once-chip { position: relative; }
+    .filter .chips [data-show]::after, .filter .when-links a::after, .filter .once-chip::after {
+      content: ""; position: absolute; inset: -7px -.2rem; }  /* From inside its border. */
     .when-links { display: contents; }
     .when-links::before { content: ""; flex: none; align-self: stretch; width: 1px; margin: .35rem .15rem; background: #2a2a2a; }
-    .filter .chips [data-show], .filter .when-links a, .filter .chips .pick-box {
+    .filter .chips [data-show], .filter .when-links a, .filter .once-chip, .filter .chips .pick-box {
       display: inline-flex; flex: none; align-items: center; box-sizing: border-box; height: 2rem; padding: 0 .6rem;
       border: 1px solid #2a2a2a; border-radius: 999px; color: #999; font-size: .9rem; white-space: nowrap;
       text-decoration: none; }
     /* Under a pointer, in a narrow window on a computer: a brighter outline, not the wide screen's underline. */
-    .filter .chips [data-show]:hover, .filter .chips .when-links a:hover { text-decoration: none; }
+    .filter .chips [data-show]:hover, .filter .chips .when-links a:hover, .filter .once-chip:hover { text-decoration: none; }
     @media (hover: hover) and (pointer: fine) {
       .filter .chips [data-show]:not([aria-current], [aria-pressed="true"]):hover,
+      .filter .once-chip:not([aria-pressed="true"]):hover,
       .filter .chips .when-links a:not([aria-current]):hover { border-color: #555; color: #ccc; }
     }
     /* What's chosen: a kind, tonight or a weekend, a venue. Its words white, its outline lighter and a shade of
@@ -7373,9 +7430,9 @@ PIN_CSS = """
        under, adding up to the height it has above. The venue's word keeps room of its own, taken back out, for
        the tail of a "g", which its cutting off at the end would cut too. */
     @supports (text-box: trim-both cap alphabetic) {
-      .filter .chips [data-show], .filter .when-links a, .filter .chips .pick-box {
+      .filter .chips [data-show], .filter .when-links a, .filter .once-chip, .filter .chips .pick-box {
         display: block; height: auto; padding: calc((2rem - 2px - 1cap) / 2) .6rem; line-height: 1; }
-      .filter .chips [data-show], .filter .when-links a, .pick-box .pick-said { text-box: trim-both cap alphabetic; }
+      .filter .chips [data-show], .filter .when-links a, .filter .once-chip, .pick-box .pick-said { text-box: trim-both cap alphabetic; }
       .pick-box .pick-said { padding-block: .4em; margin-block: -.4em; }
     }
   }
