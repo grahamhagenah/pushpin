@@ -6321,7 +6321,8 @@ INDEX_JS = """
       : column.dataset.untimed ? `<i class="untimed">${column.dataset.untimed}</i>` : "";
     li.dataset.first = times[0]?.dataset.time || "";
     // A wide screen says what those more are, after the name: the next two of them, and how many past those
-    // ("1:30pm · 4:45pm +3"), more of them a crowd; for a film at several theaters, the times it
+    // ("1:30pm · 4:45pm +3 more", as the column says it on a phone: a bare "+3" didn't say what it counted), more
+    // of them a crowd; for a film at several theaters, the times it
     // starts at any of them, its view saying which. Of the row's part of the day: an evening's are its own row's.
     const later = [...new Map(times.slice(1).map(t => [t.dataset.time, t])).values()].filter(t => t.dataset.time !== times[0].dataset.time);
     const headline = li.querySelector(":scope > .headline, summary > .headline");
@@ -6333,7 +6334,7 @@ INDEX_JS = """
     }
     const shown = later.slice(0, LATER_SHOWN);
     line.innerHTML = shown.map(t => `<span${t.classList.contains("sold") && !li.matches(".combined") ? ' class="sold"' : ""}>${t.textContent}</span>`).join('<i> · </i>')
-      + (later.length > shown.length ? `<small>+${later.length - shown.length}</small>` : "");
+      + (later.length > shown.length ? `<small>+${later.length - shown.length} more</small>` : "");
   };
   const LATER_SHOWN = 2;
   // Each day's rows in the order of the times in the column: a film at several theaters is placed by its first

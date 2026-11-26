@@ -1977,6 +1977,8 @@ class TimeColumn(unittest.TestCase):
         self.assertIn(".day .row .clock small { display: none; }", page)
         self.assertIn("const LATER_SHOWN = 2;", page)
         self.assertIn('headline.querySelector(":scope > .title").after(line);', page)
+        # And how many past those, as "+3 more", as a phone says it: a bare "+3" didn't say what it counted.
+        self.assertIn("`<small>+${later.length - shown.length} more</small>`", page)
         # One block at every width, not in a phone's rules alone: the time and the venue on a small line, the name
         # under it, no mark.
         block = page.index(".day > ul > li.row:not(.combined), .combined > details > summary {\n    display: flex;")
