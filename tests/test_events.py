@@ -2327,9 +2327,11 @@ class OneNight(unittest.TestCase):
                                      days_seen=self.REMEMBERED)
         self.assertEqual(tonight.count('<span class="once-tag">One night</span>'), 1)
         self.assertLess(tonight.index(">Bullitt<"), tonight.index('<span class="once-tag">'))
-        # Its row marked for the One night chip, which this page has, having a film showing once.
+        # Its row marked for the One night chip, which this page has, having a film showing once: right after Film,
+        # hidden until film is shown, as a narrowing of it.
         self.assertIn('data-sources="Brattle" data-once>', tonight)
-        self.assertIn('<button class="once-chip" type="button" aria-pressed="false">', tonight)
+        self.assertIn('Film</button><button class="once-chip" type="button" aria-pressed="false" hidden>', tonight)
+        self.assertIn('onceChip.hidden = show !== "film";', tonight)
         self.assertIn('&& (!once || "once" in li.dataset)', tonight)
 
     def test_the_film_pages_lead_lists_them_beside_its_biggest_film(self):
@@ -2347,8 +2349,11 @@ class OneNight(unittest.TestCase):
         self.assertIn(f'href="{R}film/?once=1">See all →</a>', lead)
         self.assertLess(lead.index(">Bullitt<"), lead.index(">The Matrix<"), "soonest first")
         self.assertNotIn("On All Week", lead.split('class="fresh"')[1])
-        home = build.render_index(week + once + band, [brattle, sinclair], [], [], self.built, public=True, days_seen=self.REMEMBERED)
-        self.assertIn('<div class="lead one" data-kind="film" hidden>', home, "no film at enough theaters: its one-night films alone")
+        # On film's own page, the chip's there from the start, after Film's link.
+        self.assertIn('Film</a><button class="once-chip" type="button" aria-pressed="false">', film)
+        home =build.render_index(week + once + band, [brattle, sinclair], [], [], self.built, public=True, days_seen=self.REMEMBERED)
+        self.assertNotIn("One night only", home, "the home page's lead stays as it is whatever kind it shows")
+        self.assertNotIn("data-kind", home)
         music = build.render_index(band, [sinclair], [], [], self.built, public=True, category="music", days_seen=self.REMEMBERED)
         self.assertNotIn('class="once-chip"', music, "no films there to narrow to")
 
