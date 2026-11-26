@@ -2327,12 +2327,14 @@ class OneNight(unittest.TestCase):
                                      days_seen=self.REMEMBERED)
         self.assertEqual(tonight.count('<span class="once-tag">One night</span>'), 1)
         self.assertLess(tonight.index(">Bullitt<"), tonight.index('<span class="once-tag">'))
-        # Its row marked for the One night chip, which this page has, having a film showing once: right after Film,
-        # hidden until film is shown, as a narrowing of it.
+        # Its row marked for One night only, a switch in the Filters chip's panel, which this page has, having a film
+        # showing once; not Free, having nothing free.
         self.assertIn('data-sources="Brattle" data-once>', tonight)
-        self.assertIn('Film</button><button class="once-chip" type="button" aria-pressed="false" hidden>', tonight)
-        self.assertIn('onceChip.hidden = show !== "film";', tonight)
-        self.assertIn('&& (!once || "once" in li.dataset)', tonight)
+        self.assertIn('<button class="filters-open" type="button" popovertarget="filters" aria-haspopup="dialog">', tonight)
+        self.assertIn('<label class="filters-choice" data-key="once"><input type="checkbox" name="once">'
+                      '<span>One night only<small>Films showing just once</small></span></label>', tonight)
+        self.assertNotIn('data-key="free"', tonight)
+        self.assertIn("&& [...chosen].every(key => KEEPS[key](li))", tonight)
 
     def test_the_film_pages_lead_lists_them_beside_its_biggest_film(self):
         """Over the film page, the films showing once in the announcements' place, soonest first, its heading a
@@ -2349,13 +2351,14 @@ class OneNight(unittest.TestCase):
         self.assertIn(f'href="{R}film/?once=1">See all →</a>', lead)
         self.assertLess(lead.index(">Bullitt<"), lead.index(">The Matrix<"), "soonest first")
         self.assertNotIn("On All Week", lead.split('class="fresh"')[1])
-        # On film's own page, the chip's there from the start, after Film's link.
-        self.assertIn('Film</a><button class="once-chip" type="button" aria-pressed="false">', film)
+        # On film's own page, the Filters chip, with One night only in its panel.
+        self.assertIn('class="filters-open"', film)
+        self.assertIn('data-key="once"', film)
         home =build.render_index(week + once + band, [brattle, sinclair], [], [], self.built, public=True, days_seen=self.REMEMBERED)
-        self.assertNotIn("One night only", home, "the home page's lead stays as it is whatever kind it shows")
+        self.assertNotIn("One night only</a>", home, "the home page's lead stays as it is whatever kind it shows")
         self.assertNotIn("data-kind", home)
         music = build.render_index(band, [sinclair], [], [], self.built, public=True, category="music", days_seen=self.REMEMBERED)
-        self.assertNotIn('class="once-chip"', music, "no films there to narrow to")
+        self.assertNotIn('data-key="once"', music, "no films there to narrow to")
 
 
 class FilmDays(unittest.TestCase):
@@ -2424,35 +2427,38 @@ class HomePage(unittest.TestCase):
         self.assertEqual(order, sorted(order))
 
     def test_tonight_and_this_weekend_beside_the_kinds(self):
-        """In the filter on every page, not just the footer, and marked where the page is one of them. Next
-        weekend's is there too, for a phone's row of chips; a wide screen's bar leaves it out (.later)."""
+        """In the filter on every page, not just the footer, as a When menu beside Where's, which says the page's
+        own where it's one of them. Their links are still in the page, unseen, which the menu works through."""
         R = build.PUBLIC_ROOT
         home = self.page()
-        # Each says which weekend it is: a bare "Weekend" beside "Next weekend" had to be worked out.
-        # On a wide screen, where Next weekend isn't beside it, This weekend is just "Weekend".
-        this = '<span class="said-long">This weekend</span><span class="said-short">Weekend</span>'
-        self.assertIn(f'<span class="when-links"><a href="{R}tonight/" data-when="tonight">Tonight</a>'
-                      f'<a href="{R}weekend/" data-when="0">{this}</a>'
-                      f'<a class="later" href="{R}weekend/next/" data-when="1">Next weekend</a></span>', home)
-        self.assertIn(f'<a href="{R}tonight/" data-when="tonight" aria-current="page">Tonight</a>', self.page(tonight=True))
-        self.assertIn(f'<a href="{R}weekend/" data-when="0" aria-current="page">{this}</a>', self.page(weekend=0))
+        self.assertIn('<span class="pick-box"><span class="pick-said" aria-hidden="true">When</span>'
+                      '<select class="pick when-pick" aria-label="When"><option value="">Any day</option>'
+                      '<option value="tonight">Tonight</option><option value="0">This weekend</option>'
+                      '<option value="1">Next weekend</option></select></span>', home)
+        self.assertLess(home.index('aria-label="When"'), home.index('aria-label="Venue"'), "When beside Where, before it")
+        self.assertIn(f'<span class="when-links" hidden><a href="{R}tonight/" data-when="tonight" tabindex="-1">Tonight</a>'
+                      f'<a href="{R}weekend/" data-when="0" tabindex="-1">This weekend</a>'
+                      f'<a class="later" href="{R}weekend/next/" data-when="1" tabindex="-1">Next weekend</a></span>', home)
+        tonight = self.page(tonight=True)
+        self.assertIn(f'<a href="{R}tonight/" data-when="tonight" aria-current="page" tabindex="-1">Tonight</a>', tonight)
+        self.assertIn('<option value="tonight" selected>Tonight</option>', tonight)
+        self.assertIn('<option value="0" selected>This weekend</option>', self.page(weekend=0))
         following = self.page(weekend=1)
-        self.assertNotIn('aria-current="page">This weekend', following, "next weekend's isn't this one")
-        self.assertIn(f'<a class="later" href="{R}weekend/next/" data-when="1" aria-current="page">Next weekend</a>', following)
+        self.assertNotIn('<option value="0" selected>', following, "next weekend's isn't this one")
+        self.assertIn(f'<a class="later" href="{R}weekend/next/" data-when="1" aria-current="page" tabindex="-1">Next weekend</a>', following)
+        self.assertIn('if (inPlace) { showWhen(link); return; }', build.INDEX_JS)
         # The home page shows them in place, Just announced and the film still over the list, and a weekend with
         # the way to the other one under it, hidden until then.
         self.assertIn(f'<nav class="weekends" data-on="0" hidden><span></span><a href="{R}weekend/next/" data-to="1">', home)
         self.assertIn(f'<nav class="weekends" data-on="1" hidden><a href="{R}weekend/" data-to="0">', home)
         self.assertNotIn("data-on=", self.page(weekend=0))
         self.assertIn("if (w) { event.preventDefault(); showWhen(w === when ? null : w); return; }", build.INDEX_JS)
-        self.assertIn(".when-links .later, .when-links .said-short { display: none; }", home)
-        self.assertIn("body .filter .when-links .later, body .filter .when-links .said-long { display: none; }", home)
+        self.assertIn(".when-links { display: none; }", home)
         # The one the page is goes back to every day when it's pressed again.
         self.assertIn('filter.querySelectorAll(".when-links a[aria-current]")) a.dataset.href = new URL(SHARE_URL).pathname;',
                       build.INDEX_JS)
-        # And a phone's row starts far enough along to show it, unless a venue's chosen, which leads the row.
-        self.assertIn("const over = here && !venue.value ? row.scrollLeft + here.getBoundingClientRect().right + 16 "
-                      "- row.getBoundingClientRect().right : 0;", build.INDEX_JS)
+        # And a phone's row goes back to its start, where When, Where and Filters say what's chosen.
+        self.assertIn("if (row.scrollWidth > row.clientWidth) row.scrollLeft = 0;", build.INDEX_JS)
 
     def test_the_bars_shadow_is_never_over_a_days_heading(self):
         """A heading right under the bar but not held there yet (a phone's first day as the bar sticks, where the
@@ -2466,7 +2472,7 @@ class HomePage(unittest.TestCase):
         home = self.page()
         self.assertIn(".filter .chips .pick-box.chosen { order: -1; }", home)
         self.assertIn(".filter .chips::before { order: -2; }", home, "the margin before the row stays before it")
-        self.assertIn('.filter .chips [data-show]::after, .filter .when-links a::after, .filter .once-chip::after {\n      content: ""; position: absolute; '
+        self.assertIn('.filter .chips [data-show]::after, .filter .when-links a::after, .filter .filters-open::after {\n      content: ""; position: absolute; '
                       "inset: -7px -.2rem; }", home)
         self.assertIn("margin: -6px -1rem;\n                     padding: 6px 0;", home, "32 pixels drawn, 44 to press")
         # The bar is measured from a chip, not the row, whose padding isn't the bar's.
@@ -2479,11 +2485,11 @@ class HomePage(unittest.TestCase):
         self.assertIn(f'<a data-show="film" href="{R}film/"><svg class="icon" aria-hidden="true"><use href="#icon-film"/></svg>Film</a>', home)
         tonight = self.page(tonight=True)
         self.assertIn('<button data-show="music"><svg class="icon" aria-hidden="true"><use href="#icon-music"/></svg>Music</button>', tonight)
-        self.assertIn(".filter [data-show] > .icon, .filter .once-chip > .icon { width: 13px; height: 13px; margin-right: .4em; vertical-align: -1px; }", home)
+        self.assertIn(".filter [data-show] > .icon { width: 13px; height: 13px; margin-right: .4em; vertical-align: -1px; }", home)
 
     def test_on_a_phone_the_filter_is_a_search_box_over_a_row_of_chips(self):
         """The kinds, when and where are wrapped together, to be one row a phone swipes along; the search after
-        them, which a phone puts above. No menu for when: tonight and the weekends are chips of their own."""
+        them, which a phone puts above. When is a menu as Where is, beside it."""
         home = self.page()
         bar = home[home.index('<nav class="filter"'):home.index("</nav>", home.index('<nav class="filter"'))]
         chips, finders = bar.index('<span class="chips">'), bar.index('<span class="finders">')
@@ -2492,7 +2498,9 @@ class HomePage(unittest.TestCase):
         self.assertLess(bar.index('aria-label="Venue"'), finders, "the venue's menu with the chips, not with the search")
         self.assertLess(finders, bar.index('class="search"'))
         self.assertIn('<span class="pick-box"><span class="pick-said" aria-hidden="true">Where</span><select class="pick" aria-label="Venue">', bar)
-        self.assertNotIn("when-pick", home)
+        self.assertLess(bar.index('class="pick when-pick"'), bar.index('aria-label="Venue"'))
+        self.assertIn("@media (max-width: 34rem) { .filter .chips .pick-box, .filter .chips .filters-open { order: -1; } }", home,
+                      "on a phone, When, Where and Filters first, where they're seen without swiping")
         self.assertIn(".chips { display: contents; gap: inherit; }", home, "a wide screen's bar holds them itself")
 
     def test_the_search_says_what_can_be_searched_for(self):

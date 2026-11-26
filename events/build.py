@@ -4998,6 +4998,33 @@ def said_over(menu, word):
     return f'<span class="pick-box"><span class="pick-said" aria-hidden="true">{word}</span>{menu}</span>' if menu else ""
 
 
+# The finer choices behind the Filters chip: each its key in the address (?once=1), what it's called, a line on
+# what it means, and which listings it keeps. A row says each of these of itself (data-once, data-price), so the
+# script narrows by them as it does by kind. More go here as the listings come to say more of themselves.
+FILTERS = [
+    ("once", "One night only", "Films showing just once", lambda item: bool(item.get("once"))),
+    ("free", "Free", "No ticket to buy", lambda item: item["category"] != "film" and item.get("price", "").casefold() == "free"),
+]
+
+
+def filter_panel(events, shown=True):
+    """The Filters chip, and its panel of FILTERS, those this page has any of: a chip in the row that opens a
+    panel over the page (a sheet up from the bottom on a phone), each a switch to narrow the list by. Nothing
+    where the page has none of them."""
+    offered = [(key, name, said) for key, name, said, keeps in FILTERS if shown and any(keeps(item) for item in events)]
+    if not offered:
+        return "", ""
+    box = ('<button class="filters-open" type="button" popovertarget="filters" aria-haspopup="dialog">'
+           '<span class="filters-said">Filters</span></button>')
+    panel = ('<div class="filters" id="filters" popover role="dialog" aria-label="Filters">'
+             '<p class="filters-head">Filters</p>'
+             + "".join(f'<label class="filters-choice" data-key="{key}"><input type="checkbox" name="{key}">'
+                       f'<span>{html.escape(name)}<small>{html.escape(said)}</small></span></label>'
+                       for key, name, said in offered)
+             + '<button class="filters-done" type="button" popovertarget="filters" popovertargetaction="hide">Done</button></div>\n')
+    return box, panel
+
+
 def menu_option(name):
     """A venue in the menu by the word it's filed under, without its "The" ("Platform", among the P's, as the
     menu sorts it), so typing in the menu finds it where it is: a browser's menu goes to what starts with what's
@@ -5112,17 +5139,13 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
     # Each kind led by its mark, in its color: the list's times are in those colors, and with the rows' own marks
     # gone (on a phone), the filter is where the colors are said. All has none.
     mark = lambda key: "" if key == "all" else icon(key, decorative=True)
-    # Right after Film, where this page has any, the films showing once (one_nights): a chip that narrows film to
-    # them, with film's mark, as they're only ever films. There only while film is shown (hidden till then, on a
-    # page that starts on every kind), as a narrowing of it.
-    once_chip = ""
-    if public and any(item.get("once") for item in events) and not added:
-        once_chip = (f'<button class="once-chip" type="button" aria-pressed="false"{"" if category == "film" else " hidden"}>'
-                     f'{icon("film", decorative=True)}One night</button>')
-    after = lambda key: once_chip if key == "film" else ""
     buttons = '<button data-show="all">All</button>' + "".join(
-        f'<button data-show="{key}">{mark(key)}{label}</button>{after(key)}' for key, label in CATEGORIES.items()
+        f'<button data-show="{key}">{mark(key)}{label}</button>' for key, label in CATEGORIES.items()
     )
+    # The finer choices, behind one chip ("Filters") rather than each a chip of its own in a row that only grows:
+    # each narrows what the kinds, when and where have left, and is kept in the address. Each only where this page
+    # has any of it.
+    filters_box, filters_panel = filter_panel(events, public and not added)
     filter_attributes = ""
     if public and (weekend is not None or tonight or added):
         # Its buttons show a kind of the weekend's (or tonight's) events in place, not remembered; and the whole
@@ -5134,7 +5157,7 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
         links = [("all", root, "All")] + [(key, f"{root}{PUBLIC_PAGES[key][0]}/", html.escape(label))
                                                   for key, label in CATEGORIES.items()]
         marked = ' aria-current="page"'
-        buttons = "".join(f'<a data-show="{key}" href="{href}"{marked if key == current else ""}>{mark(key)}{label}</a>{after(key)}'
+        buttons = "".join(f'<a data-show="{key}" href="{href}"{marked if key == current else ""}>{mark(key)}{label}</a>'
                           for key, href, label in links)
         filter_attributes = f' data-pages data-current="{current}"'
     # Tonight and this weekend beside the kinds, as a pair of their own: they narrow by when rather than by what,
@@ -5143,18 +5166,21 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
     # On a phone they're chips in the same row as the kinds, which is swiped along, so there's room for the
     # weekend after too ("later": a wide screen's bar leaves it to the weekend's own page). Each says which weekend
     # it is, "This weekend" and "Next weekend": a bare "Weekend" beside "Next weekend" left it to be worked out.
-    when_links = ""
+    # Now a menu of their own, "When", drawn as Where's is (When beside Where): one chip for every day, tonight and
+    # the weekends, which says what's chosen. Their links are still in the page, unseen, as the way to their own
+    # pages (for search engines, and the script, which the menu works through).
+    when_links = when_box = ""
     if public:
         now = PUBLIC_TONIGHT[0] if tonight else PUBLIC_WEEKENDS[weekend][0] if weekend is not None else None
         # Each says which days it is (data-when: today, or which weekend), for the home page to show them in place.
         whens = [(PUBLIC_TONIGHT[0], "Tonight", "", "tonight")] + [(path, name, ' class="later"' * (at > 0), str(at))
                                                                    for at, (path, name, *_) in enumerate(PUBLIC_WEEKENDS)]
-        # This weekend is just "Weekend" where Next weekend isn't beside it (a wide screen's bar), to keep it narrow.
-        said = lambda label: (f'<span class="said-long">{label}</span><span class="said-short">Weekend</span>'
-                              if label == "This weekend" else label)
-        when_links = '<span class="when-links">' + "".join(
-            f'<a{later} href="{root}{path}" data-when="{when}"{" aria-current=\"page\"" if path == now else ""}>{said(label)}</a>'
+        when_links = '<span class="when-links" hidden>' + "".join(
+            f'<a{later} href="{root}{path}" data-when="{when}"{" aria-current=\"page\"" if path == now else ""} tabindex="-1">{label}</a>'
             for path, label, later, when in whens) + "</span>"
+        when_box = said_over('<select class="pick when-pick" aria-label="When"><option value="">Any day</option>' + "".join(
+            f'<option value="{when}"{" selected" if path == now else ""}>{label}</option>' for path, label, _, when in whens)
+            + "</select>", "When")
     names =", ".join(html.escape(source["name"]) for source in sources)
     # Notices of sources that didn't load, marked as such, last in the footer.
     mark = shared.icon("notice")
@@ -5247,9 +5273,10 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
     body = (
         # The kinds, when and where together (a phone's row of chips), then the search (its box, on a line above).
         f'<div class="bar-mark" aria-hidden="true"></div><nav class="filter" aria-label="Show"{filter_attributes}>'
-        f'<span class="chips">{buttons}{when_links}{said_over(venue_menu(venues, towns, events), "Where")}</span>'
+        f'<span class="chips">{buttons}{when_links}{when_box}{said_over(venue_menu(venues, towns, events), "Where")}{filters_box}</span>'
         f'<span class="finders">{SEARCH}'
         '<button class="search-clear" type="button" aria-label="Clear the search" hidden></button></span></nav>\n'
+        + filters_panel
         + SKELETON + "\n".join(sections)
         + f'\n<p class="empty" hidden data-narrowed="{html.escape(narrowed)}">{html.escape(empty)}</p>'
         '<button class="empty-clear" type="button" hidden></button>\n<nav class="pager" hidden><button class="more" type="button">Load more</button></nav>\n'
@@ -6354,7 +6381,7 @@ INDEX_JS = """
   const pathOf = () => new URL((when || filter.querySelector(`a[data-show="${show}"]`)).dataset.href, location.href).pathname;
   if (remember) try { show = localStorage.getItem("events-show") || "all"; } catch (error) {}
   // The venue menu shows one venue's events, of every kind, kept in the address too (?venue=).
-  const venue = document.querySelector(".filter .pick");
+  const venue = document.querySelector('.filter .pick[aria-label="Venue"]');  // Not When's, a menu too.
   // On a phone the venue's menu is a chip that says "Where" until something's chosen, and then what is;
   // and tells a screen reader what's chosen, as a wide screen's menu says it itself.
   const sayChosen = (menu, word, label, chosen) => {
@@ -6380,13 +6407,21 @@ INDEX_JS = """
   // same page showing the same, what's over the list and all. Their own pages are still there, for search engines
   // and links from elsewhere.
   const WHEN_NAMES = { tonight: "tonight", 0: "weekend", 1: "next-weekend" };
-  // The films showing once (One night), alone: kept in the address (?once=1), as the venue is, where the page
-  // has the chip to let it go again.
-  const onceChip = filter.querySelector(".once-chip");
-  let once = false;
+  // The When menu, which works through tonight's and the weekends' links (unseen): on the home page it shows them
+  // in place, as they did; on another page, it goes to theirs.
+  const whenMenu = filter.querySelector(".when-pick");
+  // The Filters chip's choices (filter_panel), each kept in the address (?once=1, ?free=1), as the venue is. One
+  // night only is films' alone, so it goes, and its switch with it, while music or art is shown.
+  const filtersOpen = filter.querySelector(".filters-open"), filtersPanel = document.querySelector(".filters");
+  const switches = [...document.querySelectorAll(".filters-choice input")];
+  const chosen = new Set();
+  const fits = key => key !== "once" || show === "all" || show === "film";
+  const KEEPS = { once: li => "once" in li.dataset, free: li => (li.dataset.price || "").toLowerCase() === "free" };
+  const unfit = () => { for (const key of chosen) if (!fits(key)) chosen.delete(key); };
   const fromAddress = () => {
     const params = new URLSearchParams(location.search);
-    once = Boolean(onceChip) && params.has("once");
+    chosen.clear();
+    for (const input of switches) if (params.has(input.name)) chosen.add(input.name);
     search.value = params.get("q") || "";
     venue.value = params.get("venue") || "";
     if (venue.selectedIndex < 0) venue.value = ""; // A venue no longer listed.
@@ -6395,7 +6430,7 @@ INDEX_JS = """
       show = filter.querySelector(`a[data-show="${CSS.escape(kind || "")}"]`) ? kind : "all";
       when = whenLinks.find(a => WHEN_NAMES[a.dataset.when] === params.get("when")) || null;
     }
-    if (show !== "film") once = false;  // One night is film's alone, there only while film's shown.
+    unfit();
   };
   fromAddress();
   // The bar: its height, for the day's heading to stick under it rather than behind it.
@@ -6485,28 +6520,25 @@ INDEX_JS = """
     const params = new URLSearchParams();
     if (search.offsetParent && search.value.trim()) params.set("q", search.value.trim());
     if (venue.value) params.set("venue", venue.value);
-    if (once) params.set("once", "1");
+    for (const key of chosen) params.set(key, "1");
     return params;
   };
   const query = () => (params().toString() ? "?" + params() : "");
-  // What goes along to another kind's page: all of it to film's, but not One night to the others, where it isn't.
+  // What goes along to another kind's page: all of it, but One night only to film's and every kind's alone.
   const queryFor = kind => {
     const kept = params();
-    if (kind !== "film") kept.delete("once");
+    if (kind !== "all" && kind !== "film") kept.delete("once");
     return kept.toString() ? "?" + kept : "";
   };
   for (const a of filter.querySelectorAll("a[data-show], .when-links a")) a.dataset.href = a.getAttribute("href");
   // Tonight's page's own link, or a weekend's, goes back to every day: a chip pressed again is let go.
   for (const a of filter.querySelectorAll(".when-links a[aria-current]")) a.dataset.href = new URL(SHARE_URL).pathname;
-  // A phone's row of chips is swiped along, so what's chosen could be off the screen, and forgotten. A venue
-  // chosen is the row's first chip (its styles move it there), and the row at its start; with none, on tonight's
-  // page or a weekend's, the row is far enough along to show the whole of that page's chip.
+  // A phone's row of chips is swiped along, so what's chosen could be off the screen, and forgotten. When, Where
+  // and Filters, which say what's chosen, are the row's first chips (their styles move them there): the row goes
+  // back to its start.
   const settleRow = () => {
-    // The last of what's chosen of them: One night, after tonight and the weekends, where it's pressed.
-    const row = filter.querySelector(".chips"), here = [...filter.querySelectorAll('.when-links a[aria-current], .once-chip[aria-pressed="true"]')].at(-1);
-    if (row.scrollWidth <= row.clientWidth) return showEnds();  // A wide screen's bar, which isn't a row of its own.
-    const over = here && !venue.value ? row.scrollLeft + here.getBoundingClientRect().right + 16 - row.getBoundingClientRect().right : 0;
-    row.scrollLeft = Math.max(0, over);
+    const row = filter.querySelector(".chips");
+    if (row.scrollWidth > row.clientWidth) row.scrollLeft = 0;  // Not a wide screen's bar, which isn't a row of its own.
     showEnds();
   };
   // Which ends of the row have more past them, for it to fade out there (more-left, more-right): a row that's cut
@@ -6553,7 +6585,7 @@ INDEX_JS = """
       && li.dataset.sources.split("|").some(inChosen)
       // One of a listing's two rows with none of its part's times at the theaters chosen: the other row has them.
       && !(li.dataset.part && !li.dataset.first)
-      && (!once || "once" in li.dataset)
+      && [...chosen].every(key => KEEPS[key](li))
       && words.every(word => searchable.get(li).includes(word)));
     // A new page only where a day begins, when that day wouldn't fit in what's left of the hundred: it starts the
     // next page instead of being cut in two. A day of more than a hundred has a page to itself.
@@ -6597,13 +6629,13 @@ INDEX_JS = """
       ? ` in ${venue.options[venue.selectedIndex].textContent.trim().replace(/^All of /, "")}` : ` at ${venue.value}`;
     const narrowed = empty.dataset.narrowed;
     empty.textContent = words.length ? `${narrowed}${at} matches “${search.value.trim()}”.`
-      : once ? `No films showing just once${at} coming up.` : at ? `${narrowed}${at}.` : empty.dataset.none;
+      : chosen.size ? `Nothing coming up${at} with those filters.` : at ? `${narrowed}${at}.` : empty.dataset.none;
     venue.classList.toggle("chosen", Boolean(venue.value));
     sayChosen(venue, "Where", "Venue", Boolean(venue.value));
     clearSearch.hidden = !search.value;
     empty.hidden = rows.length > 0;
-    // With nothing left because of the search or the venue, a way out of it under what the page says.
-    const narrowing = [words.length && "the search", venue.value && "the venue"].filter(Boolean);
+    // With nothing left because of the search, the venue or the filters, a way out of it under what the page says.
+    const narrowing = [words.length && "the search", venue.value && "the venue", chosen.size && "the filters"].filter(Boolean);
     emptyClear.hidden = rows.length > 0 || !narrowing.length;
     emptyClear.textContent = "Clear " + narrowing.join(" and ");
     for (const b of filter.querySelectorAll("button[data-show]")) b.setAttribute("aria-pressed", b.dataset.show === show);
@@ -6612,10 +6644,15 @@ INDEX_JS = """
       else a.removeAttribute("aria-current");
       a.setAttribute("href", a.dataset.href + queryFor(a.dataset.show)); // A search goes along to the other pages.
     }
-    // One night, pressed while it's narrowing the list; there, beside Film, only while film is showing.
-    if (onceChip) {
-      onceChip.setAttribute("aria-pressed", once);
-      onceChip.hidden = show !== "film";
+    // The Filters chip says how many are on ("Filters · 2"), chosen as a venue is while any are; each switch as
+    // it stands, and One night only's there only where films are shown.
+    if (filtersOpen) {
+      filtersOpen.classList.toggle("chosen", chosen.size > 0);
+      filtersOpen.querySelector(".filters-said").textContent = chosen.size ? `Filters · ${chosen.size}` : "Filters";
+      for (const input of switches) {
+        input.checked = chosen.has(input.name);
+        input.closest(".filters-choice").hidden = !fits(input.name);
+      }
     }
     // And the search and the venue go along to tonight's and the weekend's, as they do from the phone's menu.
     for (const a of filter.querySelectorAll(".when-links a")) a.setAttribute("href", a.dataset.href + query());
@@ -6634,6 +6671,11 @@ INDEX_JS = """
       }
       const leads = document.querySelector(".leads");
       if (leads) leads.hidden = !when;
+    }
+    // The When menu says which, if any: the night shown in place, or this page's own.
+    if (whenMenu) {
+      whenMenu.value = whenLinks.find(a => a.hasAttribute("aria-current"))?.dataset.when || "";
+      sayChosen(whenMenu, "When", "When", Boolean(whenMenu.value));
     }
     document.querySelector("main").classList.add("paged");
     markStuck();
@@ -6672,7 +6714,7 @@ INDEX_JS = """
     if (!b || !everything) return;
     event.preventDefault();
     show = b.dataset.show;
-    if (show !== "film") once = false;  // Every kind's, music's or art's: One night goes with film.
+    unfit();  // Music's or art's: not One night only, which is films'.
     if (kindPages && when) {
       history.replaceState(null, "", address(1)); // Tonight's music, say: the night kept, the kind added.
     } else if (kindPages) {
@@ -6698,7 +6740,6 @@ INDEX_JS = """
     const home = filter.querySelector('a[data-show="all"]');
     if (kindPages && !everything) { location.href = new URL(home.dataset.href, location.href).pathname + query(); return; }
     show = "all";
-    once = false;
     if (remember) try { localStorage.setItem("events-show", show); } catch (error) {}
     // On the home page, tonight or a weekend stays: tonight at the venue chosen.
     if (kindPages) history.pushState(null, "", address(1));
@@ -6715,19 +6756,36 @@ INDEX_JS = """
     showEvents();
     toList();
   });
-  // One night: the films showing once alone, or, pressed again, everything again. The kind and the days stay.
-  onceChip?.addEventListener("click", () => {
-    once = !once;
-    if (once) tally("once");
+  // When: on the home page, the night shown in place (or every day again), as its links did; elsewhere, its page,
+  // with the search and the venue along (Any day, from tonight's or a weekend's, is the home page's).
+  whenMenu?.addEventListener("change", () => {
+    const link = whenLinks.find(a => a.dataset.when === whenMenu.value) || null;
+    if (inPlace) { showWhen(link); return; }
+    const to = link || whenLinks.find(a => a.hasAttribute("aria-current"));
+    if (to) location.href = to.getAttribute("href");
+  });
+  // A filter switched: on or off, the list narrowed again as it is otherwise; the kind, the days and the venue stay.
+  for (const input of switches) input.addEventListener("change", () => {
+    if (input.checked) { chosen.add(input.name); tally(input.name); } else chosen.delete(input.name);
     history.replaceState(null, "", address(1));
     showEvents();
-    settleRow();
     toList();
   });
-  // Under a page with nothing left, clearing what left nothing: the search and the venue; the kind stays.
+  // The panel, on a wide screen, under its chip, kept inside the window; on a phone, a sheet up from the bottom
+  // (its styles alone).
+  filtersPanel?.addEventListener("toggle", event => {
+    filtersOpen.setAttribute("aria-expanded", event.newState === "open");
+    if (event.newState !== "open") return;
+    if (matchMedia("(max-width: 34rem)").matches) { filtersPanel.style.top = filtersPanel.style.left = ""; return; }
+    const at = filtersOpen.getBoundingClientRect();
+    filtersPanel.style.top = `${at.bottom + 8}px`;
+    filtersPanel.style.left = `${Math.max(12, Math.min(at.left, innerWidth - filtersPanel.offsetWidth - 12))}px`;
+  });
+  // Under a page with nothing left, clearing what left nothing: the search, the venue and the filters; the kind stays.
   emptyClear.addEventListener("click", () => {
     search.value = "";
     venue.value = "";
+    chosen.clear();
     history.replaceState(null, "", address(1));
     showEvents();
     settleRow();
@@ -7274,11 +7332,33 @@ PIN_CSS = """
   }
   /* Tonight and this weekend: a pair of their own after the kinds, a hairline between, since they narrow by when
      and the kinds by what. */
-  .when-links { display: flex; gap: inherit; padding-left: 1.1rem; border-left: 1px solid #262626; }
-  .when-links .later, .when-links .said-short { display: none; }
+  .when-links { display: none; }  /* The When menu's way to them; unseen. */
+  /* The Filters chip's panel: over the page under the chip (the script puts it there), a dark card of switches,
+     each its name and a line on what it means, a hairline between. On a phone, a sheet up from the bottom, the
+     page dimmed behind it, with a Done button to put it away (a press outside it does too). */
+  .filters { position: fixed; inset: auto; box-sizing: border-box; width: 18rem; margin: 0; padding: .85rem 1rem .4rem;
+             border: 1px solid #2a2a2a; border-radius: 14px; background: #111; color: #eee;
+             box-shadow: 0 12px 32px rgba(0, 0, 0, .6); }
+  .filters-head { margin: 0 0 .35rem; color: #8f8f8f; font-size: .75rem; font-weight: 600; letter-spacing: .08em;
+                  text-transform: uppercase; }
+  .filters-choice { display: flex; align-items: flex-start; gap: .75rem; padding: .7rem 0; border-top: 1px solid #1c1c1c;
+                    cursor: pointer; }
+  .filters-choice[hidden] { display: none; }
+  .filters-choice input { flex: none; width: 1.1rem; height: 1.1rem; margin: .1rem 0 0; accent-color: #fbbf24; cursor: pointer; }
+  .filters-choice span { display: flex; flex-direction: column; gap: .15rem; font-size: .95rem; }
+  .filters-choice small { color: #8a8a8a; font-size: .8rem; }
+  .filters-done { display: none; }
+  @media (max-width: 34rem) {
+    .filters { inset: auto 0 0; width: auto; padding: 1rem 1.25rem calc(1rem + env(safe-area-inset-bottom, 0px));
+               border-width: 1px 0 0; border-radius: 16px 16px 0 0; }
+    .filters::backdrop { background: rgba(0, 0, 0, .55); }
+    .filters-choice span { font-size: 1rem; }
+    .filters-done { display: block; width: 100%; height: 2.75rem; margin: .6rem 0 0; border: 1px solid #3a3a3a;
+                    border-radius: 999px; background: #1c1c1c; color: #fff; font: inherit; cursor: pointer; }
+  }
   /* Each kind's mark before its word, in its color (.icon's own), set by the middle of the letters. */
   /* Centered on the word's capitals: at -2px, the marks' drawings sat half a pixel high of them. */
-  .filter [data-show] > .icon, .filter .once-chip > .icon { width: 13px; height: 13px; margin-right: .4em; vertical-align: -1px; }
+  .filter [data-show] > .icon { width: 13px; height: 13px; margin-right: .4em; vertical-align: -1px; }
   .filter .chips [data-show] > .icon { flex: none; }  /* Next weekend: a phone's row has the room (below); here, the weekend's page links to it. */
   /* The kinds, when and where are wrapped together for a phone's row of chips; on a wide screen they sit in the
      bar itself, the venue's menu at the end of it beside the search. */
@@ -7384,29 +7464,28 @@ PIN_CSS = """
     .filter .chips.more-right { --fade-right: 2.75rem; }
     /* On a phone, the venue's menu is the row's first chip whether one's chosen or not, where it's seen without
        swiping, and stays at the top of the window with the row: at its end, off the screen, it went unfound. */
-    @media (max-width: 34rem) { .filter .chips .pick-box { order: -1; } }
+    @media (max-width: 34rem) { .filter .chips .pick-box, .filter .chips .filters-open { order: -1; } }
     /* A chip is pressed over more than is drawn of it: 44 pixels' height, the least a finger wants, and out to
        halfway to the chips beside it. The row's own padding, taken back out of its margin, is the room for that,
        since a row that's swiped along cuts off what's outside it. */
-    .filter .chips [data-show], .filter .when-links a, .filter .once-chip { position: relative; }
-    .filter .chips [data-show]::after, .filter .when-links a::after, .filter .once-chip::after {
+    .filter .chips [data-show], .filter .when-links a, .filter .filters-open { position: relative; }
+    .filter .chips [data-show]::after, .filter .when-links a::after, .filter .filters-open::after {
       content: ""; position: absolute; inset: -7px -.2rem; }  /* From inside its border. */
-    .when-links { display: contents; }
-    .when-links::before { content: ""; flex: none; align-self: stretch; width: 1px; margin: .35rem .15rem; background: #2a2a2a; }
-    .filter .chips [data-show], .filter .when-links a, .filter .once-chip, .filter .chips .pick-box {
+    .filter .chips [data-show], .filter .when-links a, .filter .filters-open, .filter .chips .pick-box {
       display: inline-flex; flex: none; align-items: center; box-sizing: border-box; height: 2rem; padding: 0 .6rem;
       border: 1px solid #2a2a2a; border-radius: 999px; color: #999; font-size: .9rem; white-space: nowrap;
       text-decoration: none; }
     /* Under a pointer, in a narrow window on a computer: a brighter outline, not the wide screen's underline. */
-    .filter .chips [data-show]:hover, .filter .chips .when-links a:hover, .filter .once-chip:hover { text-decoration: none; }
+    .filter .chips [data-show]:hover, .filter .chips .when-links a:hover, .filter .filters-open:hover { text-decoration: none; }
     @media (hover: hover) and (pointer: fine) {
       .filter .chips [data-show]:not([aria-current], [aria-pressed="true"]):hover,
-      .filter .once-chip:not([aria-pressed="true"]):hover,
+      .filter .filters-open:not(.chosen):hover,
       .filter .chips .when-links a:not([aria-current]):hover { border-color: #555; color: #ccc; }
     }
     /* What's chosen: a kind, tonight or a weekend, a venue. Its words white, its outline lighter and a shade of
        grey behind it, rather than filled in white, which in a row of dark chips outshone everything under it. */
-    .filter .chips [aria-current="page"], .filter .chips [aria-pressed="true"], .filter .chips .pick-box.chosen {
+    .filter .chips [aria-current="page"], .filter .chips [aria-pressed="true"], .filter .chips .pick-box.chosen,
+    .filter .chips .filters-open.chosen {
       border-color: #5a5a5a; background: #1c1c1c; color: #fff; }
     /* The venue's chip says "Where", or what's chosen ("Bushwick", "Union Pool", a long one ending in "…"), with a
        small arrow after it. The word is drawn over the menu itself, which is there in full but unseen, so a press
@@ -7429,9 +7508,9 @@ PIN_CSS = """
        under, adding up to the height it has above. The venue's word keeps room of its own, taken back out, for
        the tail of a "g", which its cutting off at the end would cut too. */
     @supports (text-box: trim-both cap alphabetic) {
-      .filter .chips [data-show], .filter .when-links a, .filter .once-chip, .filter .chips .pick-box {
+      .filter .chips [data-show], .filter .when-links a, .filter .filters-open, .filter .chips .pick-box {
         display: block; height: auto; padding: calc((2rem - 2px - 1cap) / 2) .6rem; line-height: 1; }
-      .filter .chips [data-show], .filter .when-links a, .filter .once-chip, .pick-box .pick-said { text-box: trim-both cap alphabetic; }
+      .filter .chips [data-show], .filter .when-links a, .filter .filters-open, .pick-box .pick-said { text-box: trim-both cap alphabetic; }
       .pick-box .pick-said { padding-block: .4em; margin-block: -.4em; }
     }
   }
@@ -7695,8 +7774,6 @@ CSS = """
     body .filter .finders { order: 1; flex: 1 0 9rem; max-width: 16rem; margin-left: auto; }
     body .filter .chips { flex: 0 1 auto; min-width: 0; margin-right: 0; }
     body .filter .chips::after { width: 0; }
-    body .filter .when-links .later, body .filter .when-links .said-long { display: none; }
-    body .filter .when-links .said-short { display: inline; }
     /* The chips' height, so the line is one height. */
     body .filter .finders .search, body .filter .finders .search-clear { height: 2rem; }
     body .filter .finders .search-clear { width: 2rem; }
