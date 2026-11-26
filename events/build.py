@@ -5382,9 +5382,14 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
 DESCRIBED_DAYS = 7  # How far ahead the pages other than a kind's describe their listings for search engines.
 
 
+# What the site is called, the same on every city's pages: a search engine names a site by its domain's home
+# page, one name for all of pushpin.city, and showed the domain itself while the cities each named it their own.
+SITE_NAME = "Pushpin"
+
+
 def website_data():
-    return {"@type": "WebSite", "name": PUBLIC_NAME, "url": PUBLIC_URL, "description": PUBLIC_DESCRIPTION,
-            "inLanguage": "en-US"}
+    return {"@type": "WebSite", "name": SITE_NAME, "alternateName": [PUBLIC_NAME, "pushpin.city"], "url": PUBLIC_URL,
+            "description": PUBLIC_DESCRIPTION, "inLanguage": "en-US"}
 
 
 SCHEMA_TYPES = {"music": "MusicEvent", "film": "ScreeningEvent", "art": "Event"}
@@ -5530,7 +5535,7 @@ def public_page(path, title, body, built_at=None, description=None, data=None, s
         f'<meta name="description" content="{html.escape(description)}">',
         # What a link to it shows when shared.
         '<meta property="og:type" content="website">',
-        f'<meta property="og:site_name" content="{html.escape(PUBLIC_NAME)}">',
+        f'<meta property="og:site_name" content="{SITE_NAME}">',
         f'<meta property="og:title" content="{html.escape(title)}">',
         f'<meta property="og:description" content="{html.escape(description)}">',
         f'<meta property="og:url" content="{address}">',
@@ -5625,34 +5630,39 @@ def city_texts(slug, name, place, around, *, state="Massachusetts", zone="Americ
     words above are too plain for it; who is its About page's answer to who makes it, and faqs its questions,
     for a city that keeps Boston's own."""
     kinds = kinds or {}
+    # Each page's title what it lists and where first, what people search with, then the site's name (SITE_NAME):
+    # the city's own ("Pushpin Boston") said the place twice ("Concerts around Boston · Pushpin Boston").
+    site = SITE_NAME
 
     def kind(key, title, description, tagline):
         """A kind's page: its address, title, description and the line over its listings."""
         own = kinds.get(key, {})
-        return (KIND_PAGES[key], f"{own.get('title', title)} · {name}", own.get("description", description),
+        return (KIND_PAGES[key], f"{own.get('title', title)} · {site}", own.get("description", description),
                 own.get("tagline", tagline))
 
     return City(
-        slug, name, f"{name} · Concerts, films and talks {preposition} {place}",
+        slug, name, f"Concerts, films and talks {preposition} {place} · {site}",
         f"Concerts, films, and talks around {around}, aggregated from select venues.",
-        f"Concerts for the next two months, and film screenings and art talks for the next month, around {around}, "
-        f"on one page, from select venues.",
+        # What a search result says under the title: what's there and when, in the words people search with, and
+        # where it comes from, not how far ahead each kind is listed.
+        f"Concerts, film screenings and talks around {around} tonight, this weekend and beyond, from the venues' "
+        f"own calendars, updated every few hours.",
         around,
         f"Concerts, films, and talks around {place}.",
         # What's still to come today. The page holds tomorrow's too, and shows only the day it is where it's
         # read, so it rolls over at midnight, before the next build.
-        ("tonight/", f"Things to do in {place} tonight · {name}",
+        ("tonight/", f"Things to do in {place} tonight · {site}",
          f"Concerts, films and talks still to come today around {around}, aggregated from select venues.",
          f"Everything still to come today around {around}."),
         # What's turned up in the last week, newest first.
-        ("new/", f"Just announced in {place} · {name}",
+        ("new/", f"Just announced in {place} · {site}",
          f"Concerts and talks just added around {around}, from select venues.",
          f"Concerts and talks added around {around} in the last week."),
         # The weekends, Friday to Sunday: this one (the one it is, or from Monday to Thursday the one coming)
         # and the next. Each: its address, what it's called, its title and description.
-        [("weekend/", "This weekend", f"Things to do in {place} this weekend · {name}",
+        [("weekend/", "This weekend", f"Things to do in {place} this weekend · {site}",
           f"Concerts, films and talks around {around} this weekend, Friday to Sunday, aggregated from select venues."),
-         ("weekend/next/", "Next weekend", f"Things to do in {place} next weekend · {name}",
+         ("weekend/next/", "Next weekend", f"Things to do in {place} next weekend · {site}",
           f"Concerts, films and talks around {around} next weekend, Friday to Sunday, aggregated from select venues.")],
         {"music": kind("music", f"Concerts {preposition} {place}",
                        f"Concerts around {around} for the next two months, aggregated from select venues.",

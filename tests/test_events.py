@@ -1223,7 +1223,7 @@ class Cities(unittest.TestCase):
         images = dict(source("indy", "x", "film", "Images Cinema"), public=True)
         page = build.render_index([build.event(images, "Tony", date(2026, 9, 15), time(19, 0))], [images], [], [],
                                   datetime(2026, 9, 15, tzinfo=timezone.utc), public=True)
-        self.assertIn("<title>Pushpin Western Mass · Concerts, films and talks in Western Mass</title>", page)
+        self.assertIn("<title>Concerts, films and talks in Western Mass · Pushpin</title>", page)
         self.assertIn("the Pioneer Valley and the Berkshires", page)
         self.assertIn('href="/westernma/film/"', page)
         self.assertIn('<a href="/cities/">All cities</a>', page)
@@ -1901,7 +1901,7 @@ class JustAnnounced(unittest.TestCase):
         self.assertEqual(page.count('<section class="day"'), 1, "one list, newest first")
         self.assertIn('</svg><span class="when">Sun, Sep 20</span><span class="clock">', page,
                       "the day each is on, leading the small line over its name")
-        self.assertIn("<title>Just announced in Boston · Pushpin Boston</title>", page)
+        self.assertIn("<title>Just announced in Boston · Pushpin</title>", page)
         self.assertIn('data-narrowed="Nothing added in the last week">No new events this week. Check back as venues announce more.</p>', page)
         home = build.render_index([], [self.venue], [], [], self.built, public=True)
         self.assertIn('data-narrowed="Nothing coming up">Nothing coming up.</p>', home)
