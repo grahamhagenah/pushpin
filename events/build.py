@@ -5596,21 +5596,16 @@ FAQS = [
      "It may not publish its calendar in a way that can be read automatically, or I may not have found it yet. "
      "<a href=\"/contact/\">Tell me about it</a> and I’ll take a look."),
     ("Will you make this for my city?",
-     "I’d rather keep it to places I know well. I add every venue one by one, and curating a list of cool spots "
-     "would be challenging if I’m not a local. But if there’s enough interest in another city or area, I’ll look into "
-     "starting one there, and it would go much faster with help from someone who knows its venues. If that’s you, "
-     "<a href=\"/contact/\">get in touch</a>."),
+     "I’d rather keep it to places I know well, since I add every venue by hand. If there’s interest somewhere "
+     "else, and someone who knows its venues to help, <a href=\"/contact/\">get in touch</a>."),
     ("How often is it updated?",
-     "Every few hours, from each venue’s own calendar. Shows added or changed since then appear with the next "
-     "update, so check the venue’s page before you go."),
+     "Every few hours, from each venue’s own calendar, so check the venue’s page before you go."),
     ("Why do some listings have no time?",
-     "Some venues post only the date, or only when their doors open, not when the show starts. The listing links "
-     "to the venue’s page, which usually has the rest."),
+     "Some venues post only the date, or only when doors open. The venue’s page usually has the rest."),
     ("Does it track me?",
-     "Only anonymously. It counts visits, and which listings are opened, followed to their venues, and shared, with "
-     "<a href=\"https://www.goatcounter.com\">GoatCounter</a>, which uses no cookies and keeps nothing personal, "
-     "so I can tell whether people are using it. There are no ads and no accounts, and your venue and search "
-     "choices live only in the page’s address."),
+     "Only anonymously: <a href=\"https://www.goatcounter.com\">GoatCounter</a> counts visits and which listings "
+     "are opened and shared, with no cookies and nothing personal. Your venue and search choices live only in "
+     "the page’s address."),
 ]
 
 
@@ -5793,47 +5788,51 @@ def render_about(sources, built_at, events=()):
         f' · <a href="{calendar_address(f"calendar/{slug}.ics", google=True)}">Google Calendar</a></li>'
         for key, (slug, *_) in PUBLIC_PAGES.items())
 
+    # Each kind's venues folded under its name, with how many venues it has; open, two columns of them.
     groups = "".join(
-        f'<h2 data-category="{key}">{icon(key, decorative=True)}{html.escape(CATEGORIES[key])}</h2>\n<ul class="venues">{"".join(venue(name, key) for name in shared.as_said(kinds[key]))}</ul>\n'
+        f'<details class="section" data-category="{key}"><summary><span>{icon(key, decorative=True)}{html.escape(CATEGORIES[key])}</span>'
+        f'<span class="count">{len(kinds[key])} venues</span></summary>\n'
+        f'<ul class="venues">{"".join(venue(name, key) for name in shared.as_said(kinds[key]))}</ul></details>\n'
         for key in CATEGORIES if kinds.get(key)
     )
     faq = "\n".join(f"<details><summary>{html.escape(question)}</summary><p>{answer.replace('{root}', root)}</p></details>"
                     for question, answer in FAQS)
+    # What it is in two short paragraphs, then the rest folded away, each a line to open: how to use it and its
+    # calendars, its venues by kind, and the questions. The footer's Calendars (#calendars) opens its own.
     body = f"""<div class="prose">
-<p>{PUBLIC_NAME} puts concerts, films, and talks from venues across {PUBLIC_AROUND} on one page,
-day by day: concerts two months ahead, films and talks one month.</p>
-<p>This is a curated feed, with an emphasis on independent venues.</p>
-<p>Event info is gathered from select venues every few hours. Times and details can change, so check with the
-venue before you go: every listing links back to the original source where you can confirm times or buy
-tickets.</p>
-<p>No algorithms, no ads, no accounts.</p>
-<h2>How to use it</h2>
+<p>{PUBLIC_NAME} puts concerts, films, and talks from venues across {PUBLIC_AROUND} on one page, day by day.
+It’s curated, with an emphasis on independent venues. No algorithms, no ads, no accounts.</p>
+<p>Listings come from each venue’s own calendar every few hours. Times can change, so every listing links back to
+the venue, where you can check before you go or buy tickets.</p>
+<div class="faq">
+<details class="section"><summary>How to use it</summary>
 <ul class="tips">
-<li>Tap a listing for more: a picture, the price, every showtime, what it’s about, the address, its other
-dates, and a link to copy and send.</li>
-<li><a href="{root}tonight/">Tonight</a> and <a href="{root}weekend/">This weekend</a> filter the list down to just
-those days.</li>
-<li>Pick a venue from the menu to show only its events. The browser’s address keeps your choice, so you can share
-it with friends.</li>
-<li>Search matches names, venues, and descriptions: a band, a director, “35mm”. On a keyboard, press slash to jump
-to it.</li>
-<li>A showtime struck through is sold out, and a listing with nothing left says so.</li>
-<li>Subscribe to a calendar (below) to have new listings show up on their own.</li>
-</ul>
-<h2 id="calendars">Calendars</h2>
-<p>Subscribe in your calendar app, and new listings appear there on their own, updated every few hours.</p>
+<li>Tap a listing for its picture, price, showtimes, address and other dates.</li>
+<li><a href="{root}tonight/">Tonight</a> and <a href="{root}weekend/">This weekend</a> narrow the list to those days.</li>
+<li>Pick a venue under Where to see only its events. The address keeps your choice, so you can share it.</li>
+<li>Search matches names, venues and descriptions. On a keyboard, press / to jump to it.</li>
+<li>A time struck through is sold out.</li>
+</ul></details>
+<details class="section" id="calendars"><summary>Calendars</summary>
+<p>Subscribe in your calendar app and new listings show up there on their own.</p>
 <ul class="tips feeds">
 {kind_feeds}
-</ul>
+</ul></details>
+</div>
 <h2 id="venues">Venues</h2>
-<p>Every venue in the feed, with how many listings each one has coming up.</p>
-{groups}
+<div class="faq">
+{groups}</div>
 <h2>Questions</h2>
 <div class="faq">
 {faq}
 </div>
 <p>Know a venue that should be here, or spotted a mistake? <a href="/contact/">Get in touch</a>.</p>
-</div>"""
+</div>
+<script>
+  // A link to one of the folded sections (the footer's Calendars, #calendars) opens it.
+  const unfold = () => {{ const it = location.hash && document.getElementById(location.hash.slice(1)); if (it?.tagName === "DETAILS") it.open = true; }};
+  unfold(); addEventListener("hashchange", unfold);
+</script>"""
     # The questions, for search engines too, which can show them in their results.
     answers = [(question, answer.replace("{root}", root)) for question, answer in FAQS]
     data = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
@@ -7778,6 +7777,13 @@ PUBLIC_CSS = """
   .faq details[open] summary::after { transform: rotate(90deg); }
   .faq summary:hover::after { color: #bbb; }
   .faq details p { margin: -.25rem 0 .9rem; color: #bbb; }
+  /* The About page's folded sections, in the questions' style: a kind's mark before its name, how many venues
+     it has by the ›, and what's in each set in from the rules a little. */
+  .faq .section summary .icon { margin-right: .45em; vertical-align: -1px; }
+  .faq .section summary { align-items: baseline; }
+  .faq .section summary .count { margin-left: auto; color: #666; font-size: .8em; }
+  .faq .section > ul, .faq .section > p { margin-bottom: 1rem; }
+  .faq .section > ul.venues { margin-top: .1rem; }
   .prose .venues a { text-decoration: none; }
   .prose .venues a:hover { text-decoration: underline; text-decoration-color: #555; }
   .venues .count { margin-left: .35em; color: #808080; font-size: .8em; }

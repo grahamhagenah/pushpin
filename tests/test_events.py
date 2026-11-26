@@ -3132,7 +3132,10 @@ class Page(unittest.TestCase):
         items = [build.event(sinclair, "A", day), build.event(sinclair, "B", day), build.event(mfa, "Talk", day),
                  dict(build.event(mfa, "A Film", day), category="film"), build.event(hidden, "Theirs", day)]
         about = build.render_about([mfa, sinclair, quiet, hidden], datetime(2026, 9, 13, tzinfo=timezone.utc), items)
-        sections = {h: body for h, body in re.findall(r"<h2 data-category=\"\w+\"><svg class=\"icon\" aria-hidden=\"true\"><use href=\"#icon-\w+\"/></svg>([^<]+)</h2>\n<ul class=\"venues\">(.*?)</ul>", about)}
+        # Each kind's venues folded under its name, with how many venues it has.
+        sections = {h: body for h, body in re.findall(r"<details class=\"section\" data-category=\"\w+\"><summary><span><svg class=\"icon\" aria-hidden=\"true\"><use href=\"#icon-\w+\"/></svg>([^<]+)</span><span class=\"count\">\d+ venues</span></summary>\n<ul class=\"venues\">(.*?)</ul>", about)}
+        self.assertIn('<span>' + build.icon("music", decorative=True) + 'Music</span><span class="count">2 venues</span>', about)
+        self.assertIn('<details class="section" id="calendars">', about, "the footer's Calendars opens it")
         self.assertIn(f'<a href="{R}?venue=The+Sinclair">The Sinclair</a> <span class="count">2</span>', sections["Music"])
         self.assertLess(sections["Music"].index("Lizard Lounge"), sections["Music"].index("The Sinclair"), "The Sinclair among the S's")
         self.assertIn(f'<a href="{R}?venue=Lizard+Lounge">Lizard Lounge</a></li>', sections["Music"], "listed, with no count")
