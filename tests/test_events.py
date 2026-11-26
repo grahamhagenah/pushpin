@@ -1215,6 +1215,26 @@ class Cities(unittest.TestCase):
         page = build.public_page("about/", "About", "<p>Hi</p>")
         self.assertIn('<details class="city-switch">', page.split("</header>")[0], "in the header")
 
+    def test_every_city_in_the_footer_and_the_last_one_remembered(self):
+        """The footer lists every city's home page, this one marked, so the others are found without opening the
+        header's menu; and each city's pages remember it in the browser, Boston's home page alone sending a
+        visitor on to the one they last looked at, if they came from elsewhere."""
+        build.use_city(build.WESTERN_MASS)
+        about = build.public_page("about/", "About", "<p>Hi</p>")
+        footer = about.split("<footer>")[1]
+        self.assertIn("<h2>Cities</h2><ul><li><a href=\"/\">Boston</a></li>"
+                      "<li><a href=\"/westernma/\" aria-current=\"page\">Western Mass</a></li>"
+                      "<li><a href=\"/nyc/\">NYC</a></li><li><a href=\"/cities/\">All cities</a></li></ul>", footer)
+        head = about.split("</head>")[0]
+        self.assertIn('localStorage.setItem("pushpin-city", "westernma")', head)
+        self.assertNotIn("location.replace", head, "only Boston's home page sends anyone on")
+        build.use_city(build.BOSTON_CITY)
+        home = build.public_page("", "Home", "<p>Hi</p>").split("</head>")[0]
+        self.assertIn('others = {"westernma": "/westernma/", "nyc": "/nyc/"}', home)
+        self.assertIn("new URL(document.referrer).origin === location.origin", home, "not when Boston was chosen here")
+        self.assertIn('localStorage.setItem("pushpin-city", "boston")', home)
+        self.assertNotIn("location.replace", build.public_page("film/", "Films", "<p>Hi</p>").split("</head>")[0])
+
     def test_each_city_its_own_site(self):
         self.assertEqual([city.slug for city in build.CITIES], ["boston", "westernma", "nyc"])
         self.assertEqual(build.BOSTON_CITY.sources, build.SOURCES_FILE)

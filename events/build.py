@@ -5458,13 +5458,17 @@ def public_footer(path, notes="", venues=0, updated=None):
         ("Browse", [("All events", "")] + [(label, f"{PUBLIC_PAGES[key][0]}/") for key, label in CATEGORIES.items()]
          + [("Just announced", PUBLIC_NEW[0])]),
         ("When", [("Tonight", PUBLIC_TONIGHT[0])] + [(name, weekend_path) for weekend_path, name, *_ in PUBLIC_WEEKENDS]),
-        (PUBLIC_NAME, [("About", "about/"), ("Calendars", "about/#calendars"), ("Contact", "/contact/")]
-         + [("All cities", "/cities/")] * (len(CITIES) > 1)),  # The site's list of them.
+        (PUBLIC_NAME, [("About", "about/"), ("Calendars", "about/#calendars"), ("Contact", "/contact/")]),
     ]
+    # And every city's home page, this one marked, then the site's list of them: the header's menu was the only
+    # way from one city to another, a menu a visitor has to open to find there are others.
+    if len(CITIES) > 1:
+        groups.append(("Cities", [(city.name.partition(" ")[2], f"/{city.path}") for city in CITIES] + [("All cities", "/cities/")]))
     marked = ' aria-current="page"'
+    here = lambda href: href == path or href == PUBLIC_ROOT  # noqa: E731
     lists = "".join(
         f'<div><h2>{html.escape(heading)}</h2><ul>' + "".join(
-            f'<li><a href="{href if href.startswith("/") else root + href}"{marked if href == path else ""}>{html.escape(label)}</a></li>'
+            f'<li><a href="{href if href.startswith("/") else root + href}"{marked if here(href) else ""}>{html.escape(label)}</a></li>'
             for label, href in links)
         + "</ul></div>"
         for heading, links in groups
@@ -5505,6 +5509,25 @@ def city_switcher(path):
             f'<ul>{items}<li class="all"><a href="/cities/">All cities</a></li></ul></details>{CITY_SWITCH_SCRIPT}')
 
 
+def city_memory(path):
+    """First in a page's head: which city's pages were last looked at, kept in the browser (pushpin-city), and
+    on pushpin.city itself, Boston's home page, a visitor whose last was another city's sent on to it: the
+    address is Boston's, and someone in New York who typed it, or came from a search, wanted theirs. Only one
+    arriving from elsewhere, with nothing in its address (no search, no listing): from one of the site's own
+    links, Boston was chosen. A search engine keeps nothing, so it's always shown Boston's. Safari forgets after
+    a week unvisited, which is only Boston's page again."""
+    here = next((city for city in CITIES if city.name == PUBLIC_NAME), None)
+    if len(CITIES) < 2 or not here:
+        return ""
+    others = {city.slug: f"/{city.path}" for city in CITIES if city.path}
+    sending = (f'const was = localStorage.getItem("pushpin-city"), others = {json.dumps(others)};'
+               ' if (others[was] && !location.search && !location.hash'
+               ' && !(document.referrer && new URL(document.referrer).origin === location.origin))'
+               ' { location.replace(others[was]); return; }' if not here.path and path == "" else "")
+    return (f'<script>(() => {{ try {{ {sending} localStorage.setItem("pushpin-city", "{here.slug}"); }}'
+            ' catch (error) {} })();</script>')
+
+
 # The menu closes as a menu does: a press anywhere outside it, or Escape.
 CITY_SWITCH_SCRIPT = """<script>(() => {
   const menu = document.currentScript.previousElementSibling;
@@ -5527,6 +5550,7 @@ def public_page(path, title, body, built_at=None, description=None, data=None, s
         body += "\n" + public_footer(path)
     address = PUBLIC_URL + path
     head = "\n".join([
+        city_memory(path),
         # The p and its dot (events/pushpin). ?p1, since browsers keep a site's old icon long after it changes; the
         # .ico keeps a plain address, being the one a search engine asks for by name and shows beside a result.
         f'<link rel="icon" href="{root}favicon.ico" sizes="48x48">',
@@ -7761,7 +7785,8 @@ PUBLIC_CSS = """
   /* The footer, set off from the page by a faint line. */
   footer { margin-top: 3.5rem; padding-top: 2.25rem; border-top: 1px solid rgba(255, 255, 255, .09); }
   /* The footer's lists of the site's pages: three short columns (two on a phone), under small, faint headings. */
-  .site-links { display: grid; grid-template-columns: repeat(3, minmax(0, 11rem)); gap: 1.75rem 2.5rem; margin: .5rem 0 2rem; }
+  /* As many columns as it has lists (four with Cities), each as wide as before, wrapping where they don't fit. */
+  .site-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(0, 11rem)); gap: 1.75rem 2.5rem; margin: .5rem 0 2rem; }
   .site-links h2 { margin: 0 0 .7rem; color: #808080; font-size: .75rem; font-weight: 500; letter-spacing: .1em; }
   .site-links ul { display: grid; gap: .45rem; }
   footer .site-links a, footer .site-links a:visited { color: #999; font-size: .95rem; text-decoration: none; }
