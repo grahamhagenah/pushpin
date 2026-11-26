@@ -6827,14 +6827,24 @@ INDEX_JS = """
   });
   // The panel, on a wide screen, under its chip, kept inside the window; on a phone, a sheet up from the bottom
   // (its styles alone).
-  filtersPanel?.addEventListener("toggle", event => {
-    filtersOpen.setAttribute("aria-expanded", event.newState === "open");
-    if (event.newState !== "open") return;
+  // It goes with the chip while it's open, as the page scrolls under it and the bar slides its search away: it
+  // was left where it opened, adrift of the chip.
+  const placeFilters = () => {
+    if (!filtersPanel.matches(":popover-open")) return;
     if (matchMedia("(max-width: 34rem)").matches) { filtersPanel.style.top = filtersPanel.style.left = ""; return; }
     const at = filtersOpen.getBoundingClientRect();
     filtersPanel.style.top = `${at.bottom + 8}px`;
     filtersPanel.style.left = `${Math.max(12, Math.min(at.left, innerWidth - filtersPanel.offsetWidth - 12))}px`;
+  };
+  filtersPanel?.addEventListener("toggle", event => {
+    filtersOpen.setAttribute("aria-expanded", event.newState === "open");
+    placeFilters();
   });
+  if (filtersPanel) {
+    addEventListener("scroll", placeFilters, { passive: true });
+    addEventListener("resize", placeFilters);
+    filter.addEventListener("transitionend", placeFilters);  // The bar's slide, once it's done.
+  }
   // Under a page with nothing left, clearing what left nothing: the search, the venue and the filters; the kind stays.
   emptyClear.addEventListener("click", () => {
     search.value = "";
