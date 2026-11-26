@@ -4944,7 +4944,7 @@ def render_row(item):
     ident, series = listing_id(item["date"], item["title"], item["venue"])
     return (
         f'<li class="row{row_class(item)}" data-id="{ident}" data-series="{series}" data-category="{item["category"]}"{part_attribute(item)} '
-        f'data-sources="{html.escape(item["source"])}"{address_attribute(item)}{facts_attributes(item)}{" data-once" * bool(once)}>'
+        f'data-sources="{html.escape(item["source"])}"{address_attribute(item)}{facts_attributes(item)}{filter_marks(item)}>'
         f'{icon(item["category"])}{when}{render_clock(part_times(item), sold_times(item), item["category"])}'
         f'<div class="headline"><a class="title" href="{html.escape(item["link"])}">{html.escape(item["title"])}</a> '
         + " ".join(part for part in (render_times(item["times"], sold_times(item)), once, detail) if part)
@@ -4968,7 +4968,7 @@ def render_combined(item):
     ident, series = listing_id(item["showings"][0]["date"], item["title"])
     return (
         f'<li class="row combined{row_class(item)}" data-id="{ident}" data-series="{series}" data-category="{item["category"]}"{part_attribute(item)} '
-        f'data-sources="{html.escape(sources)}"{facts_attributes(item)}><details><summary>'
+        f'data-sources="{html.escape(sources)}"{facts_attributes(item)}{filter_marks(item)}><details><summary>'
         f'{icon(item["category"])}'
         # Sold out at one theater isn't sold out: the film's first time is never struck here.
         f'{render_clock(part_times(item) if "part" in item else [moment for showing in item["showings"] for moment in showing["times"]])}'
@@ -4998,29 +4998,75 @@ def said_over(menu, word):
     return f'<span class="pick-box"><span class="pick-said" aria-hidden="true">{word}</span>{menu}</span>' if menu else ""
 
 
-# The finer choices behind the Filters chip: each its key in the address (?once=1), what it's called, a line on
-# what it means, and which listings it keeps. A row says each of these of itself (data-once, data-price), so the
-# script narrows by them as it does by kind. More go here as the listings come to say more of themselves.
+LATE_NIGHT = time(21, 30)  # A showing from here on, or in the small hours, is late.
+
+
+def late_night(item):
+    """Starting at LATE_NIGHT or after, or past midnight (before four), its day's: by its first showing, the time
+    its row leads with, so a film on all day with a late show isn't late night where the row says 11am."""
+    late = lambda start: start >= LATE_NIGHT or start < time(4)
+    return bool(item["times"]) and all(late(start) for start in item["times"])
+
+
+def sold_out_all(item):
+    """Nothing left: sold out altogether, or at every place and time it's on."""
+    return all(is_sold_out(showing) for showing in item["showings"]) if "showings" in item else is_sold_out(item)
+
+
+@dataclass(frozen=True)
+class Filter:
+    """One of the finer choices behind the Filters chip: its key in the address (?late=1), what it's called and a
+    line on what it means; the mark a row carries where it holds (data-late), which marks returns for a listing;
+    whether choosing it keeps the rows marked or, hides, leaves them out; and the kinds it's for, where it's for
+    only some (none: every kind), its switch gone while another kind's shown. mark names the row's mark where
+    it isn't the key (Hide sold out's rows are marked sold out, data-soldout, not "available")."""
+    key: str
+    name: str
+    said: str
+    marks: object
+    hides: bool = False
+    kinds: tuple = ()
+    mark: str = ""
+
+    @property
+    def attribute(self):
+        return self.mark or self.key
+
+
+# The finer choices, in the panel's order: when, what it costs, what's new and rare, what's gone. Each from what the
+# listings say of every one of them, not of a few: a choice that left out whatever didn't happen to say would mislead.
+# More go here as the listings come to say more of themselves.
 FILTERS = [
-    ("once", "One night only", "Films showing just once", lambda item: bool(item.get("once"))),
-    ("free", "Free", "No ticket to buy", lambda item: item["category"] != "film" and item.get("price", "").casefold() == "free"),
+    Filter("late", "Late night", "Starting at 9:30pm or later", late_night),
+    Filter("free", "Free", "No ticket to buy",
+           lambda item: item["category"] != "film" and item.get("price", "").casefold() == "free"),
+    Filter("new", "Just announced", "Concerts and talks added this week", lambda item: bool(item.get("new")),
+           kinds=tuple(sorted(NEW_KINDS))),
+    Filter("once", "One night only", "Films showing just once", lambda item: bool(item.get("once")), kinds=("film",)),
+    Filter("available", "Hide sold out", "Only what still has tickets", sold_out_all, hides=True, mark="soldout"),
 ]
+
+
+def filter_marks(item):
+    """The marks a row carries for the filters (data-late, data-once…), for the script to narrow by."""
+    return "".join(f" data-{choice.attribute}" for choice in FILTERS if choice.marks(item))
 
 
 def filter_panel(events, shown=True):
     """The Filters chip, and its panel of FILTERS, those this page has any of: a chip in the row that opens a
     panel over the page (a sheet up from the bottom on a phone), each a switch to narrow the list by. Nothing
     where the page has none of them."""
-    offered = [(key, name, said) for key, name, said, keeps in FILTERS if shown and any(keeps(item) for item in events)]
+    offered = [choice for choice in FILTERS if shown and any(choice.marks(item) for item in events)]
     if not offered:
         return "", ""
     box = ('<button class="filters-open" type="button" popovertarget="filters" aria-haspopup="dialog">'
            '<span class="filters-said">Filters</span></button>')
+    # No heading in it: the chip it opens from says what it is, and its label says so to a screen reader.
     panel = ('<div class="filters" id="filters" popover role="dialog" aria-label="Filters">'
-             '<p class="filters-head">Filters</p>'
-             + "".join(f'<label class="filters-choice" data-key="{key}"><input type="checkbox" name="{key}">'
-                       f'<span>{html.escape(name)}<small>{html.escape(said)}</small></span></label>'
-                       for key, name, said in offered)
+             + "".join(f'<label class="filters-choice" data-key="{choice.key}"><input type="checkbox" name="{choice.key}" '
+                       f'data-mark="{choice.attribute}"' + ' data-hides' * choice.hides + (f' data-kinds="{" ".join(choice.kinds)}"' if choice.kinds else "") + '>'
+                       f'<span>{html.escape(choice.name)}<small>{html.escape(choice.said)}</small></span></label>'
+                       for choice in offered)
              + '<button class="filters-done" type="button" popovertarget="filters" popovertargetaction="hide">Done</button></div>\n')
     return box, panel
 
@@ -5075,6 +5121,9 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
     nights = one_nights(events, days_seen)
     events = [dict(item, once=True) if listing_id(item["date"], item["title"], item["venue"])[0] in nights else item
               for item in events]
+    # What's turned up this week, as Just announced has it, for its filter.
+    announced = {id(item) for item in newly_added(events, built_at)}
+    events = [dict(item, new=True) if id(item) in announced else item for item in events]
     # The venue filter's choices: every venue with events coming up, whatever their kind (on a kind's page, a
     # choice goes to the home page, which has them all); on a weekend's or tonight's page, those with events then.
     venues = {item["source"] for item in events}
@@ -5276,13 +5325,14 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
         f'<span class="chips">{buttons}{when_links}{when_box}{said_over(venue_menu(venues, towns, events), "Where")}{filters_box}</span>'
         f'<span class="finders">{SEARCH}'
         '<button class="search-clear" type="button" aria-label="Clear the search" hidden></button></span></nav>\n'
-        + filters_panel
         + SKELETON + "\n".join(sections)
         + f'\n<p class="empty" hidden data-narrowed="{html.escape(narrowed)}">{html.escape(empty)}</p>'
         '<button class="empty-clear" type="button" hidden></button>\n<nav class="pager" hidden><button class="more" type="button">Load more</button></nav>\n'
         + others + footer
         # The address of each venue with events on this page, for adding one to a calendar.
         + EVENT_VIEW
+        # The Filters chip's panel, over the page when it's open, as the listing's view is.
+        + filters_panel
         # Which town each of this page's venues is in, for choosing a town in the menu to show all of it.
         + f"<script>const PLACES = {json.dumps(places, ensure_ascii=False)}, "
           f"TOWNS = {json.dumps({source: town for source, town in towns.items() if source in {item['source'] for item in events}}, ensure_ascii=False)}, "
@@ -6415,8 +6465,12 @@ INDEX_JS = """
   const filtersOpen = filter.querySelector(".filters-open"), filtersPanel = document.querySelector(".filters");
   const switches = [...document.querySelectorAll(".filters-choice input")];
   const chosen = new Set();
-  const fits = key => key !== "once" || show === "all" || show === "film";
-  const KEEPS = { once: li => "once" in li.dataset, free: li => (li.dataset.price || "").toLowerCase() === "free" };
+  // Each switch's own: the kinds it's for (data-kinds; none, every kind), and what it keeps, the rows with its
+  // mark (data-mark) or, one that hides (data-hides), those without.
+  const KINDS = Object.fromEntries(switches.map(input => [input.name, input.dataset.kinds?.split(" ")]));
+  const fitsFor = (key, kind) => !KINDS[key] || kind === "all" || KINDS[key].includes(kind);
+  const fits = key => fitsFor(key, show);
+  const KEEPS = Object.fromEntries(switches.map(input => [input.name, li => (input.dataset.mark in li.dataset) !== ("hides" in input.dataset)]));
   const unfit = () => { for (const key of chosen) if (!fits(key)) chosen.delete(key); };
   const fromAddress = () => {
     const params = new URLSearchParams(location.search);
@@ -6524,10 +6578,10 @@ INDEX_JS = """
     return params;
   };
   const query = () => (params().toString() ? "?" + params() : "");
-  // What goes along to another kind's page: all of it, but One night only to film's and every kind's alone.
+  // What goes along to another kind's page: all of it, but a filter for only some kinds to theirs and every kind's.
   const queryFor = kind => {
     const kept = params();
-    if (kind !== "all" && kind !== "film") kept.delete("once");
+    for (const key of chosen) if (!fitsFor(key, kind)) kept.delete(key);
     return kept.toString() ? "?" + kept : "";
   };
   for (const a of filter.querySelectorAll("a[data-show], .when-links a")) a.dataset.href = a.getAttribute("href");
@@ -7336,13 +7390,12 @@ PIN_CSS = """
   /* The Filters chip's panel: over the page under the chip (the script puts it there), a dark card of switches,
      each its name and a line on what it means, a hairline between. On a phone, a sheet up from the bottom, the
      page dimmed behind it, with a Done button to put it away (a press outside it does too). */
-  .filters { position: fixed; inset: auto; box-sizing: border-box; width: 18rem; margin: 0; padding: .85rem 1rem .4rem;
+  .filters { position: fixed; inset: auto; box-sizing: border-box; width: 18rem; margin: 0; padding: .3rem 1rem;
              border: 1px solid #2a2a2a; border-radius: 14px; background: #111; color: #eee;
              box-shadow: 0 12px 32px rgba(0, 0, 0, .6); }
-  .filters-head { margin: 0 0 .35rem; color: #8f8f8f; font-size: .75rem; font-weight: 600; letter-spacing: .08em;
-                  text-transform: uppercase; }
   .filters-choice { display: flex; align-items: flex-start; gap: .75rem; padding: .7rem 0; border-top: 1px solid #1c1c1c;
                     cursor: pointer; }
+  .filters-choice:first-child { border-top: 0; }
   .filters-choice[hidden] { display: none; }
   .filters-choice input { flex: none; width: 1.1rem; height: 1.1rem; margin: .1rem 0 0; accent-color: #fbbf24; cursor: pointer; }
   .filters-choice span { display: flex; flex-direction: column; gap: .15rem; font-size: .95rem; }

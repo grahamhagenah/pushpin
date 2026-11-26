@@ -1775,6 +1775,32 @@ class JustAnnounced(unittest.TestCase):
         found = build.newly_added([older, fresh, film, soonest], self.built)
         self.assertEqual([item["title"] for item in found], ["Sooner", "A show"], "this week's, soonest first; films stay out")
 
+    def test_late_night_just_announced_and_sold_out_are_filters(self):
+        """Each row marked for the filters it meets (data-late, data-new, data-soldout), and each switch in the
+        panel only where the page has any: Hide sold out leaving the marked rows out, the others keeping them,
+        and Just announced for its kinds alone, as its lead is."""
+        late = dict(build.event(self.venue, "Late Set", date(2026, 9, 21), time(22, 0)), added="2026-09-01")
+        fresh = dict(self.listing(22, "Announced"), added="2026-09-15")
+        gone = dict(build.event(self.venue, "Gone", date(2026, 9, 23), time(19, 0), sold_out=True), added="2026-09-01")
+        page = build.render_index([late, fresh, gone], [self.venue], [], [], self.built, public=True)
+        row = lambda title: page[page.rindex("<li ", 0, page.index(f">{title}</a>")):page.index(f">{title}</a>")]
+        self.assertIn(" data-late>", row("Late Set"))
+        self.assertIn(" data-new>", row("Announced"))
+        self.assertIn(" data-soldout>", row("Gone"))
+        self.assertNotIn("data-late", row("Announced"), "8pm isn't late")
+        self.assertIn('<input type="checkbox" name="late" data-mark="late">', page)
+        self.assertIn('<input type="checkbox" name="new" data-mark="new" data-kinds="art music">', page)
+        self.assertIn('<input type="checkbox" name="available" data-mark="soldout" data-hides>', page)
+        self.assertNotIn('name="once"', page, "no film showing once here")
+        self.assertIn("""li => (input.dataset.mark in li.dataset) !== ("hides" in input.dataset)""", page)
+        # By when it starts, as its row says: a film with a late show among earlier ones isn't late night. Past
+        # midnight is, and a late show and one after midnight.
+        self.assertFalse(build.late_night({"times": [time(19), time(21, 45)]}))
+        self.assertTrue(build.late_night({"times": [time(21, 45), time(0, 15)]}))
+        self.assertTrue(build.late_night({"times": [time(0, 30)]}))
+        self.assertFalse(build.late_night({"times": [time(21, 15)]}))
+        self.assertFalse(build.late_night({"times": []}), "no time given isn't late")
+
     def test_the_list_is_unpainted_until_the_script_has_run(self):
         """What's passed since the build would show for a moment and then go: nothing under the header is painted
         until the page has been read through and its script has run, and then it shows, the script or not."""
@@ -2331,7 +2357,7 @@ class OneNight(unittest.TestCase):
         # showing once; not Free, having nothing free.
         self.assertIn('data-sources="Brattle" data-once>', tonight)
         self.assertIn('<button class="filters-open" type="button" popovertarget="filters" aria-haspopup="dialog">', tonight)
-        self.assertIn('<label class="filters-choice" data-key="once"><input type="checkbox" name="once">'
+        self.assertIn('<label class="filters-choice" data-key="once"><input type="checkbox" name="once" data-mark="once" data-kinds="film">'
                       '<span>One night only<small>Films showing just once</small></span></label>', tonight)
         self.assertNotIn('data-key="free"', tonight)
         self.assertIn("&& [...chosen].every(key => KEEPS[key](li))", tonight)
@@ -2356,7 +2382,7 @@ class OneNight(unittest.TestCase):
         self.assertIn('data-key="once"', film)
         home =build.render_index(week + once + band, [brattle, sinclair], [], [], self.built, public=True, days_seen=self.REMEMBERED)
         self.assertNotIn("One night only</a>", home, "the home page's lead stays as it is whatever kind it shows")
-        self.assertNotIn("data-kind", home)
+        self.assertNotIn('data-kind=', home)
         music = build.render_index(band, [sinclair], [], [], self.built, public=True, category="music", days_seen=self.REMEMBERED)
         self.assertNotIn('data-key="once"', music, "no films there to narrow to")
 
