@@ -2470,6 +2470,12 @@ class HomePage(unittest.TestCase):
                                     build.event(venue, "Tomorrow's", date(2026, 9, 21), time(20))], [venue], [], [], self.built, public=True)
         self.assertIn('<optgroup label="Pick a day"><option value="date:2026-09-25">Fri, Sep 25</option></optgroup>', later,
                       "the days after tomorrow with something on, each by its name")
+        # Days through the end of next week, then a week at a time: built on a Thursday, Saturday to the Sunday after
+        # next, then Mondays; only those with something on.
+        listed = [{"date": date(2026, 11, 26) + timedelta(days=ahead)} for ahead in (0, 1, 2, 4, 10, 11, 12, 30)]
+        days, weeks = build.pick_days(listed, date(2026, 11, 26))
+        self.assertEqual(days, [date(2026, 11, 28), date(2026, 11, 30), date(2026, 12, 6)])
+        self.assertEqual(weeks, [date(2026, 12, 7), date(2026, 12, 21)], "Dec 7 and 8 in one week; Dec 26's week")
         # Tomorrow and a day picked have no page: the home page shows them in place, in its address as the rest
         # (?when=tomorrow, ?date=2026-12-05), from another page too; and Where has only that day's venues.
         self.assertIn('if (which === "tomorrow") return [plusDays(today, 1), plusDays(today, 1)];', build.INDEX_JS)
