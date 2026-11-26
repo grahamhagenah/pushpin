@@ -5306,7 +5306,7 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
             _, title, description, tagline = PUBLIC_TONIGHT
         if added:
             _, title, description, tagline = PUBLIC_NEW
-    footer = (public_footer(path, failed_note, names, built_at) if public else
+    footer = (public_footer(path, failed_note, len(sources), built_at) if public else
               f"<footer>\n<p>From {names}.</p>\n{failed_note}"
               f'<p><a href="{REPO_URL}/edit/main/events/sources.txt">Add a source</a></p>\n</footer>\n')
     others = ""
@@ -5441,11 +5441,12 @@ def shorter(paragraphs):
     return clip(paragraphs, PUBLIC_ABOUT_CHARS, 2, least=60)
 
 
-def public_footer(path, notes="", names="", updated=None):
+def public_footer(path, notes="", venues=0, updated=None):
     """The foot of each of the public site's pages: what the site is, the same on every page (its own page says
     what it is over its listings), then the site's pages in three short lists (this one marked), and, under a
     list of events, where they come from and when they were last gathered ("Updated 3h ago", which the shared
-    script ages), then any source it couldn't reach."""
+    script ages), then any source it couldn't reach. Where they come from by how many venues, a link to About's
+    list of them: every venue's name here was a paragraph of forty-odd names at the foot of every page."""
     root = PUBLIC_ROOT
     groups = [
         ("Browse", [("All events", "")] + [(label, f"{PUBLIC_PAGES[key][0]}/") for key, label in CATEGORIES.items()]
@@ -5464,7 +5465,8 @@ def public_footer(path, notes="", names="", updated=None):
     )
     when = (f' Updated <time class="updated" datetime="{updated.isoformat()}">{updated:%b} {updated.day}</time>.'
             if updated else "")
-    where = f"<p>Listings from {names}, aggregated from their own calendars every few hours.{when}</p>\n" if names else ""
+    where = (f'<p>Listings from <a href="{root}about/#venues">{venues} venue{"s" * (venues != 1)}</a>, aggregated from their own calendars '
+             f"every few hours.{when}</p>\n" if venues else "")
     said = f'<p class="tagline">{html.escape(PUBLIC_TAGLINE)}</p>\n'
     return (f'<footer>\n{said}<nav class="site-links" aria-label="{html.escape(PUBLIC_NAME)}">{lists}</nav>\n'
             f'{where}{notes}</footer>\n')
@@ -5788,7 +5790,7 @@ to it.</li>
 <ul class="tips feeds">
 {kind_feeds}
 </ul>
-<h2>Venues</h2>
+<h2 id="venues">Venues</h2>
 <p>Every venue in the feed, with how many listings each one has coming up.</p>
 {groups}
 <h2>Questions</h2>

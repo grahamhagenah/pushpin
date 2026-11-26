@@ -2965,7 +2965,9 @@ class Page(unittest.TestCase):
                             ("This weekend", R + "weekend/"), ("Next weekend", R + "weekend/next/"), ("About", R + "about/"), ("Contact", "/contact/")]:
             self.assertIn(f'<a href="{href}"', footer, label)
         self.assertIn(f'<a href="{R}" aria-current="page">All events</a>', footer, "this page marked")
-        self.assertIn("Listings from Roadrunner, aggregated", footer)
+        # How many venues, a way to About's list of them, not every name: forty-odd names were a paragraph.
+        self.assertIn(f'Listings from <a href="{R}about/#venues">1 venue</a>, aggregated', footer)
+        self.assertNotIn("Roadrunner, aggregated", footer)
         self.assertNotIn(f'href="{R}about/"', public.split("<footer>")[0], "not in the header")
         self.assertNotIn("Add a source", public)
         self.assertIn('content="index, follow"', public)
@@ -3146,7 +3148,7 @@ class Page(unittest.TestCase):
                      build.render_index(items, [venue], [], stale, built)):
             footer = page.split("<footer>")[1]
             self.assertIn('<p class="notice"><svg class="icon" aria-hidden="true"><use href="#icon-notice"/></svg><span>Couldn’t reach Lizard Lounge', footer)
-            self.assertLess(footer.index("rom Lizard Lounge"), footer.index('class="notice"'), "under the list of venues")
+            self.assertLess(footer.index("rom "), footer.index('class="notice"'), "under where the listings come from")
 
     def test_public_previews_are_shorter(self):
         long = ["A" * 150 + " " + "b" * 150, "Doors 7 · 21+"]
