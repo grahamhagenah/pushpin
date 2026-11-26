@@ -1922,6 +1922,13 @@ class ViewHoldsThePage(unittest.TestCase):
         self.assertIn("body.viewing, html:has(> body.viewing) { overflow: hidden; }", page)
         self.assertIn("dialog.event, .event-body { overscroll-behavior: contain; }", page)
 
+    def test_the_venue_and_the_map_open_in_a_tab_of_their_own(self):
+        """Out to a venue's page for tickets, or the map, in a new tab, said so to a screen reader: the list behind,
+        narrowed, scrolled and loaded, stays to come back to. The listing's own view stays in the page."""
+        self.assertIn('target: "_blank", ariaLabel: said + " (opens in a new tab)" });', build.INDEX_JS)
+        self.assertIn('target: "_blank", ariaLabel: "Map (opens in a new tab)" })', build.INDEX_JS)
+        self.assertNotIn("noreferrer", build.INDEX_JS, "a venue still sees it came from here")
+
 
 class TimeColumn(unittest.TestCase):
     """A listing's time in a column of its own before its name, so the eye runs down the times rather than

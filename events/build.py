@@ -7076,8 +7076,11 @@ INDEX_JS = """
     showings = [];
     part("places").replaceChildren(...places.map(place => {
       const item = document.createElement("li");
-      const a = Object.assign(document.createElement("a"), { href: place.href, textContent: place.name + " ↗",
-        title: (li.dataset.category === "art" ? "Details at " : "Tickets at ") + place.name });
+      // In a tab of its own (as its ↗ says it leaves the site), so the list, as it's been narrowed, scrolled and
+      // loaded, is still here to come back to: Back on a phone often loaded the whole page again, from the top.
+      const said = (li.dataset.category === "art" ? "Details at " : "Tickets at ") + place.name;
+      const a = Object.assign(document.createElement("a"), { href: place.href, textContent: place.name + " ↗", title: said,
+        target: "_blank", ariaLabel: said + " (opens in a new tab)" });
       a.dataset.source = place.source;
       item.append(a, timeLabels(place.times));
       for (const t of place.times) if (!t.classList.contains("sold"))
@@ -7089,7 +7092,8 @@ INDEX_JS = """
     aboutOf(li)?.then(full => { if (full?.length && shown === li) showAbout(full); });
     const address = combined ? "" : li.dataset.address || PLACES[venue] || "";
     part("place").replaceChildren(...(address ? [address, " · ", Object.assign(document.createElement("a"), {
-      href: "https://www.google.com/maps/search/?" + new URLSearchParams({ api: 1, query: venue + ", " + address }), textContent: "Map ↗" })] : []));
+      href: "https://www.google.com/maps/search/?" + new URLSearchParams({ api: 1, query: venue + ", " + address }), textContent: "Map ↗",
+      target: "_blank", ariaLabel: "Map (opens in a new tab)" })] : []));
     // The same show (or film, anywhere) on its other days.
     // Each other day once: a listing on both before and after the evening is two rows of the same day (data-part).
     const others = [...document.querySelectorAll(".day > ul > li[data-series]")]
