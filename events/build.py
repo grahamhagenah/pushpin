@@ -5043,7 +5043,7 @@ FILTERS = [
     Filter("new", "Just announced", "Concerts and talks added this week", lambda item: bool(item.get("new")),
            kinds=tuple(sorted(NEW_KINDS))),
     Filter("once", "One night only", "Films showing just once", lambda item: bool(item.get("once")), kinds=("film",)),
-    Filter("available", "Hide sold out", "Only what still has tickets", sold_out_all, hides=True, mark="soldout"),
+    Filter("available", "Hide sold out", "Only shows with tickets left", sold_out_all, hides=True, mark="soldout"),
 ]
 
 
@@ -5227,9 +5227,22 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
         when_links = '<span class="when-links" hidden>' + "".join(
             f'<a{later} href="{root}{path}" data-when="{when}"{" aria-current=\"page\"" if path == now else ""} tabindex="-1">{label}</a>'
             for path, label, later, when in whens) + "</span>"
-        when_box = said_over('<select class="pick when-pick" aria-label="When"><option value="">Any day</option>' + "".join(
-            f'<option value="{when}"{" selected" if path == now else ""}>{label}</option>' for path, label, _, when in whens)
-            + "</select>", "When")
+        # Tomorrow after tonight, and last, under Pick a day, each day after tomorrow there are listings for ("Sat,
+        # Nov 28"), in the menu itself: the device's own calendar was a stranger to the page, and couldn't say which
+        # days have anything on; one of the site's own would be a deal of script to make work for everyone. The home
+        # page shows tomorrow or a day in place, as it does tonight, having no page of its own for them (the script
+        # leaves out a day passed, or with nothing of the kind shown). A day from an address that isn't among them
+        # is said in an option of its own the script names, there only then.
+        options = [(when, label, path == now) for path, label, _, when in whens]
+        options.insert(1, ("tomorrow", "Tomorrow", False))
+        later = built_at.astimezone(PUBLIC_ZONE).date() + timedelta(days=2)
+        days = sorted({item["date"] for item in events if item["date"] >= later})
+        when_box = said_over(
+            '<select class="pick when-pick" aria-label="When"><option value="">Any day</option>'
+            + "".join(f'<option value="{when}"{" selected" * chosen}>{label}</option>' for when, label, chosen in options)
+            + ('<optgroup label="Pick a day">' + "".join(f'<option value="date:{day.isoformat()}">{day:%a, %b} {day.day}</option>'
+                                                       for day in days) + "</optgroup>" if days else "")
+            + '<option value="picked" hidden></option></select>', "When")
     names =", ".join(html.escape(source["name"]) for source in sources)
     # Notices of sources that didn't load, marked as such, last in the footer.
     mark = shared.icon("notice")
@@ -6422,8 +6435,13 @@ INDEX_JS = """
   const whenLinks = [...filter.querySelectorAll(".when-links a")];
   let when = null;
   const plusDays = (date, n) => new Date(Date.parse(date + "T12:00:00Z") + n * 86400000).toISOString().slice(0, 10);
+  // Tomorrow, or a day picked (Pick a day, "date:2026-12-05"): shown in place on the home page as tonight is,
+  // the same shape as its link, but with no page of their own to go to, and no lead of their own.
+  const dayWhen = key => ({ dataset: { when: key, href: new URL(SHARE_URL).pathname } });
   const daysOf = which => {
     if (which === "tonight") return [today, today];
+    if (which === "tomorrow") return [plusDays(today, 1), plusDays(today, 1)];
+    if (which.startsWith("date:")) return [which.slice(5), which.slice(5)];
     const weekday = (new Date(today + "T12:00:00Z").getUTCDay() + 6) % 7;  // Monday's 0, Friday's 4.
     const friday = plusDays(today, 4 - weekday + 7 * Number(which));  // Back to it from Saturday or Sunday.
     return [friday, plusDays(friday, 2)];
@@ -6456,10 +6474,32 @@ INDEX_JS = """
   // are (?kind=music, ?when=tonight, weekend or next-weekend), not their pages' addresses: loaded again, it's the
   // same page showing the same, what's over the list and all. Their own pages are still there, for search engines
   // and links from elsewhere.
-  const WHEN_NAMES = { tonight: "tonight", 0: "weekend", 1: "next-weekend" };
+  const WHEN_NAMES = { tonight: "tonight", tomorrow: "tomorrow", 0: "weekend", 1: "next-weekend" };
   // The When menu, which works through tonight's and the weekends' links (unseen): on the home page it shows them
   // in place, as they did; on another page, it goes to theirs.
   const whenMenu = filter.querySelector(".when-pick");
+  const pickedOption = whenMenu?.querySelector('option[value="picked"]');
+  const dayOptions = whenMenu ? [...whenMenu.querySelectorAll('option[value^="date:"]')] : [];
+  // A day said as the menu says it: "Fri, Dec 5".
+  const pickedName = day => new Date(day + "T12:00:00Z").toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric", timeZone: "UTC" });
+  // The menu says which, if any: what's shown in place, or this page's own. Its days (Pick a day) only those from
+  // today on with something of the kind shown, the rest gone (but the one chosen); a day that isn't among them,
+  // from an address, said in an option of its own.
+  function sayWhen() {
+    if (!whenMenu) return;
+    const key = when?.dataset.when || whenLinks.find(a => a.hasAttribute("aria-current"))?.dataset.when || "";
+    const listed = new Set(allRows.filter(li => show === "all" || li.dataset.category === show).map(li => li.closest(".day").dataset.date));
+    for (const option of dayOptions) {
+      const day = option.value.slice(5);
+      option.disabled = option.hidden = option.value !== key && !(day >= today && listed.has(day));
+    }
+    whenMenu.value = key;
+    const stray = Boolean(key) && whenMenu.value !== key;
+    pickedOption.hidden = !stray;
+    pickedOption.textContent = stray ? pickedName(key.slice(5)) : "";
+    if (stray) whenMenu.value = "picked";
+    sayChosen(whenMenu, "When", "When", Boolean(whenMenu.value));
+  }
   // The Filters chip's choices (filter_panel), each kept in the address (?once=1, ?free=1), as the venue is. One
   // night only is films' alone, so it goes, and its switch with it, while music or art is shown.
   const filtersOpen = filter.querySelector(".filters-open"), filtersPanel = document.querySelector(".filters");
@@ -6482,7 +6522,11 @@ INDEX_JS = """
     if (inPlace) {
       const kind = params.get("kind");
       show = filter.querySelector(`a[data-show="${CSS.escape(kind || "")}"]`) ? kind : "all";
-      when = whenLinks.find(a => WHEN_NAMES[a.dataset.when] === params.get("when")) || null;
+      // A day picked (?date=2026-12-05) only where it's a day.
+      const picked = params.get("date") || "";
+      when = whenLinks.find(a => WHEN_NAMES[a.dataset.when] === params.get("when"))
+        || (params.get("when") === "tomorrow" ? dayWhen("tomorrow") : null)
+        || (picked.length === 10 && !isNaN(Date.parse(picked)) ? dayWhen("date:" + picked) : null);
     }
     unfit();
   };
@@ -6607,7 +6651,10 @@ INDEX_JS = """
   const address = page => {
     const kept = new URLSearchParams();
     if (inPlace && show !== "all") kept.set("kind", show);
-    if (inPlace && when) kept.set("when", WHEN_NAMES[when.dataset.when]);
+    if (inPlace && when) {
+      if (when.dataset.when.startsWith("date:")) kept.set("date", when.dataset.when.slice(5));
+      else kept.set("when", WHEN_NAMES[when.dataset.when]);
+    }
     for (const [name, value] of params()) kept.set(name, value);
     if (page > 1) kept.set("page", page);
     return kept.toString() ? "?" + kept : location.pathname;
@@ -6718,18 +6765,27 @@ INDEX_JS = """
       // A weekend shown in place, the way to the other one under it, as its own page has.
       for (const nav of document.querySelectorAll(".weekends[data-on]")) nav.hidden = nav.dataset.on !== when?.dataset.when;
       // And over the list, the film and the announcements of those nights, not the week's (render_lead's days).
-      // Theirs are in .leads, the others put away. A kind leaves it as it is: what's over the list stays put.
+      // Theirs are in .leads, the others put away. A kind leaves it as it is: what's over the list stays put. So
+      // does tomorrow or a day picked, which have no lead of their own: the home page's stays.
+      const ownLead = whenLinks.includes(when);
       for (const lead of document.querySelectorAll(".lead")) {
         if (lead.dataset.when) lead.classList.toggle("away", lead.dataset.when !== when?.dataset.when);
-        else lead.hidden = Boolean(when);
+        else lead.hidden = ownLead;
       }
       const leads = document.querySelector(".leads");
-      if (leads) leads.hidden = !when;
+      if (leads) leads.hidden = !ownLead;
     }
-    // The When menu says which, if any: the night shown in place, or this page's own.
-    if (whenMenu) {
-      whenMenu.value = whenLinks.find(a => a.hasAttribute("aria-current"))?.dataset.when || "";
-      sayChosen(whenMenu, "When", "When", Boolean(whenMenu.value));
+    sayWhen();
+    // Where, with a day or days chosen, has only the venues with something on then, of the kind shown (the rest
+    // can't be chosen, but the one that is): what's on where that day, from its menu. Every venue otherwise.
+    const open = new Set(range ? allRows.filter(li => (show === "all" || li.dataset.category === show)
+      && range[0] <= li.closest(".day").dataset.date && li.closest(".day").dataset.date <= range[1])
+      .flatMap(li => li.dataset.sources.split("|")) : []);
+    for (const option of venue.options) {
+      if (!option.value) continue;
+      const on = !range || option.value === venue.value || (option.value.startsWith("town:")
+        ? [...open].some(source => TOWNS[source] === option.value.slice(5)) : open.has(option.value));
+      option.disabled = option.hidden = !on;
     }
     document.querySelector("main").classList.add("paged");
     markStuck();
@@ -6812,11 +6868,27 @@ INDEX_JS = """
   });
   // When: on the home page, the night shown in place (or every day again), as its links did; elsewhere, its page,
   // with the search and the venue along (Any day, from tonight's or a weekend's, is the home page's).
-  whenMenu?.addEventListener("change", () => {
-    const link = whenLinks.find(a => a.dataset.when === whenMenu.value) || null;
-    if (inPlace) { showWhen(link); return; }
+  // Tomorrow or a day picked, from another page: the home page, showing it, with the kind and the rest along.
+  const goWhen = key => {
+    const link = whenLinks.find(a => a.dataset.when === key) || null;
+    const day = key === "tomorrow" || key.startsWith("date:");
+    if (inPlace) { showWhen(link || (day ? dayWhen(key) : null)); return; }
+    if (day) {
+      const kept = params();
+      if (show !== "all") kept.set("kind", show);
+      if (key === "tomorrow") kept.set("when", "tomorrow"); else kept.set("date", key.slice(5));
+      location.href = new URL(SHARE_URL).pathname + "?" + kept;
+      return;
+    }
     const to = link || whenLinks.find(a => a.hasAttribute("aria-current"));
     if (to) location.href = to.getAttribute("href");
+    else sayWhen();
+  };
+  // A choice in the menu: a day of Pick a day's shown as tomorrow is.
+  whenMenu?.addEventListener("change", () => {
+    if (whenMenu.value === "picked") return;
+    if (whenMenu.value.startsWith("date:")) tally("date");
+    goWhen(whenMenu.value);
   });
   // A filter switched: on or off, the list narrowed again as it is otherwise; the kind, the days and the venue stay.
   for (const input of switches) input.addEventListener("change", () => {

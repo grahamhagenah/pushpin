@@ -2459,8 +2459,22 @@ class HomePage(unittest.TestCase):
         home = self.page()
         self.assertIn('<span class="pick-box"><span class="pick-said" aria-hidden="true">When</span>'
                       '<select class="pick when-pick" aria-label="When"><option value="">Any day</option>'
-                      '<option value="tonight">Tonight</option><option value="0">This weekend</option>'
-                      '<option value="1">Next weekend</option></select></span>', home)
+                      '<option value="tonight">Tonight</option><option value="tomorrow">Tomorrow</option>'
+                      '<option value="0">This weekend</option><option value="1">Next weekend</option>', home)
+        # And under Pick a day, each day after tomorrow with listings, in the menu itself: no calendar of its own.
+        # Here there's only tomorrow, so no days to pick.
+        self.assertIn('<option value="1">Next weekend</option><option value="picked" hidden></option></select></span>', home)
+        self.assertNotIn('type="date"', home)
+        venue = dict(source("aeg", "x", "music", "The Sinclair"), public=True)
+        later = build.render_index([build.event(venue, "Later Show", date(2026, 9, 25), time(20)),
+                                    build.event(venue, "Tomorrow's", date(2026, 9, 21), time(20))], [venue], [], [], self.built, public=True)
+        self.assertIn('<optgroup label="Pick a day"><option value="date:2026-09-25">Fri, Sep 25</option></optgroup>', later,
+                      "the days after tomorrow with something on, each by its name")
+        # Tomorrow and a day picked have no page: the home page shows them in place, in its address as the rest
+        # (?when=tomorrow, ?date=2026-12-05), from another page too; and Where has only that day's venues.
+        self.assertIn('if (which === "tomorrow") return [plusDays(today, 1), plusDays(today, 1)];', build.INDEX_JS)
+        self.assertIn('if (when.dataset.when.startsWith("date:")) kept.set("date", when.dataset.when.slice(5));', build.INDEX_JS)
+        self.assertIn("option.disabled = option.hidden = !on;", build.INDEX_JS)
         self.assertLess(home.index('aria-label="When"'), home.index('aria-label="Venue"'), "When beside Where, before it")
         self.assertIn(f'<span class="when-links" hidden><a href="{R}tonight/" data-when="tonight" tabindex="-1">Tonight</a>'
                       f'<a href="{R}weekend/" data-when="0" tabindex="-1">This weekend</a>'
@@ -2472,7 +2486,7 @@ class HomePage(unittest.TestCase):
         following = self.page(weekend=1)
         self.assertNotIn('<option value="0" selected>', following, "next weekend's isn't this one")
         self.assertIn(f'<a class="later" href="{R}weekend/next/" data-when="1" aria-current="page" tabindex="-1">Next weekend</a>', following)
-        self.assertIn('if (inPlace) { showWhen(link); return; }', build.INDEX_JS)
+        self.assertIn('if (inPlace) { showWhen(link || (day ? dayWhen(key) : null)); return; }', build.INDEX_JS)
         # The home page shows them in place, Just announced and the film still over the list, and a weekend with
         # the way to the other one under it, hidden until then.
         self.assertIn(f'<nav class="weekends" data-on="0" hidden><span></span><a href="{R}weekend/next/" data-to="1">', home)
