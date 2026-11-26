@@ -89,14 +89,15 @@ def card(heading, line, kinds, path):
 """
 
 
-def dot_on_black(size, margin=1 / 6):
-    """The favicon's amber dot on black, filling a square: what a phone puts on its home screen, and what a
-    search engine shows beside a result, neither of which takes the SVG."""
-    dots = "".join(re.findall(r"<circle [^>]*/>", (PUSHPIN / "favicon.svg").read_text()))
-    inset = round(size * margin)
-    return (f'<!doctype html><style>html, body {{ margin: 0; width: {size}px; height: {size}px; background: #000; }}</style>'
-            f'<svg xmlns="http://www.w3.org/2000/svg" width="{size}" height="{size}" viewBox="0 0 {size} {size}">'
-            f'<svg x="{inset}" y="{inset}" width="{size - 2 * inset}" height="{size - 2 * inset}" viewBox="0 0 24 24">{dots}</svg></svg>')
+def mark_square(size):
+    """The favicon, its tile filling a square, on black (its rounded corners square again): what a phone puts on
+    its home screen, which rounds it its own way, and what a search engine shows beside a result, neither of which
+    takes the SVG."""
+    mark = (PUSHPIN / "favicon.svg").read_text().strip()
+    drawn = re.sub(r"<svg ", f'<svg width="{size}" height="{size}" style="display:block" ', mark, count=1)
+    # Behind it the tile's own black, so its corners don't show as a second, darker one.
+    return (f'<!doctype html><style>html, body {{ margin: 0; width: {size}px; height: {size}px; background: #0a0a0a; }}</style>'
+            + drawn)
 
 
 def icon_file(png, destination):
@@ -135,10 +136,21 @@ def main():
             return
         name, heading, line, kinds, path = SITE_CARD
         shoot(card(heading, line, kinds, path), (1200, 630), OUT / "site" / f"{name}.png", scratch)
-        shoot(dot_on_black(180), (180, 180), PUSHPIN / "apple-touch-icon.png", scratch)
-        # For search results: a 48-pixel square, the size Google asks for, and the .ico it looks for by name.
-        shoot(dot_on_black(48, margin=1 / 8), (48, 48), PUSHPIN / "favicon-48.png", scratch)  # Larger: it's shown small.
-        icon_file(PUSHPIN / "favicon-48.png", PUSHPIN / "favicon.ico")
+        icons(scratch)
+
+
+def icons(scratch):
+    """The favicon's own images, from favicon.svg: the home screen's, and for search results a 48-pixel square,
+    the size Google asks for, and the .ico it looks for by name. Alone: python3 -c 'from events import
+    share_cards; share_cards.icons_alone()'."""
+    shoot(mark_square(180), (180, 180), PUSHPIN / "apple-touch-icon.png", scratch)
+    shoot(mark_square(48), (48, 48), PUSHPIN / "favicon-48.png", scratch)
+    icon_file(PUSHPIN / "favicon-48.png", PUSHPIN / "favicon.ico")
+
+
+def icons_alone():
+    with tempfile.TemporaryDirectory() as scratch:
+        icons(scratch)
 
 
 if __name__ == "__main__":
