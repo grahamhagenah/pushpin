@@ -7,10 +7,11 @@
 #   axs        an AXS venue site's full listing page, /events/all, and each show's page for its start time
 #              (The Sinclair)
 #   ticketweb  a venue page with TicketWeb's event listing (The Middle East, The Independent)
-#   jsonld     a page with schema.org Event data in it (the Brattle's Coming Soon page, House of Blues, a
-#              venue's page on DICE)
+#   jsonld     a page with schema.org Event data in it (the Brattle's Coming Soon page, a venue's page on DICE)
 #   coolidge   the Coolidge Corner Theatre's showtimes page
 #   ticketmaster  a Ticketmaster venue id in place of the URL (the Paradise); needs the TICKETMASTER_KEY secret.
+#                 House of Blues is read so since its own site went behind Vercel's bot checkpoint (Nov 2026),
+#                 which turns away anything that isn't a browser; its id is its Live Nation page's.
 #                 Find a venue's id with Actions → "Find a Ticketmaster venue" on GitHub.
 #   alamo      an Alamo Drafthouse market's schedule JSON (Boston, which is the Seaport); a market holding
 #              several theaters names the one it wants after a # (.../market/sf#new-mission)
@@ -82,7 +83,7 @@ aeg        https://aegwebprod.blob.core.windows.net/json/events/219/events.json 
 aeg        https://aegwebprod.blob.core.windows.net/json/resources/8/events/7301mbln09/events.json   music   Royale
 axs        https://www.sinclaircambridge.com/events/all   music   The Sinclair
 ticketweb  https://mideastclub.com/   music   The Middle East
-jsonld     https://boston.houseofblues.com/shows   music   House of Blues
+ticketmaster  KovZpZAEA7eA   music   House of Blues
 ticketmaster  KovZpZA11JtA   music   Paradise
 ticketmaster  KovZpapwne   music   Brighton Music Hall
 ticketmaster  KovZ917AJnQ   music   Crystal Ballroom
