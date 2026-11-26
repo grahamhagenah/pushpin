@@ -1,7 +1,8 @@
 # Words and phrases that keep a listing off both events pages, one per line, when its name has one. Matched as
 # whole words in any case: "comedy" drops "IMPROV COMEDY: an evening of", not "A Comedic Evening". Only the
 # name is checked, not what the listing says about itself, and not films' names, which are a work's title
-# ("God's Comedy") rather than what kind of event it is.
+# ("God's Comedy", "Drag Me to Hell") rather than what kind of event it is. A film shown as a concert or a talk
+# (a live score, a screening with a conversation) is filed as one, though, and its name is checked.
 comedy
 ukulele club
 chantey sing
@@ -16,12 +17,9 @@ queeraoke
 open mic
 lilypad variety show
 trivia
-drag show
-(drag)
+# Every drag show, by the word: one at a time, each new one's own name got through.
+drag
 dragventure
-grateful drag
-drag clown
-served in drag
 graduate student talk
 tabletop tuesdays
 magic monday
@@ -30,3 +28,25 @@ christmas hours
 open music
 thanksgiving dinner
 werqshires
+smut slam
+burlesque
+brrlesque
+bar crawl
+pub crawl
+holiday market
+book club
+potluck
+# A show that's been moved or called off isn't on.
+postponed
+cancelled
+canceled
+bingo
+speed dating
+paint and sip
+sip and paint
+networking
+pageant
+roast
+audition
+auditions
+rehearsal

@@ -1322,6 +1322,18 @@ class Skipping(unittest.TestCase):
         for title in ["A Comedic Evening", "Ukulele Clubhouse Orchestra", "Armand Hammer"]:
             self.assertFalse(skip.search(title), title)
 
+    def test_the_sites_own_list(self):
+        """skip.txt itself: drag shows by the word, and what's postponed, but not a word that only starts with
+        one of its words, or a band's name around one."""
+        skip = build.skipping()
+        for title in ["Miracle on Drag Street", "Bob's Burgers Christmas Drag Spectacular", "Smut Slam",
+                      "POSTPONED - Ronnie Earl & The Broadcasters", "Pints and Pasties Brrlesque", "NYE Bar Crawl 2027"]:
+            self.assertTrue(skip.search(title), title)
+        for title in ["Dragged Into Sunlight", "Dragon Smoke", "Windsor Market // All Hat Electric", "Nightroast Trio"]:
+            self.assertFalse(skip.search(title), title)
+        # Films' names aren't checked at all, where the build drops what's skipped.
+        self.assertIn('item["category"] != "film" and skip.search(item["title"])', Path(build.__file__).read_text())
+
     def test_nothing_to_skip(self):
         with mock.patch.object(build, "SKIP_FILE", FIXTURES / "no-such-file.txt"):
             self.assertIsNone(build.skipping())
