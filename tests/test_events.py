@@ -2778,8 +2778,8 @@ class Biggest(unittest.TestCase):
 
     def test_tonights_and_a_weekends_are_of_those_nights(self):
         """Over tonight's listings or a weekend's, the film and the announcements of those nights: one that's on
-        another night isn't what's on then. Neither where there's nothing then; the home page's, hidden, for its
-        script to show in place."""
+        another night isn't what's on then. Neither where there's nothing then. Their own pages': the home page
+        keeps its own, whatever night it shows in place."""
         built = datetime(2026, 9, 17, 12, tzinfo=build.PUBLIC_ZONE)  # A Thursday: the weekend's the 18th to the 20th.
         tonight = (date(2026, 9, 17),) * 2
         weekend = build.weekend_days(date(2026, 9, 17))
@@ -2795,16 +2795,17 @@ class Biggest(unittest.TestCase):
         self.assertIn("Tonight&#x27;s Show", night)
         self.assertNotIn("Saturday Film", night, "not tonight's")
         self.assertNotIn("Sunday Show", night)
-        saturday, _ = build.render_lead(films + announced, built, days=weekend, when="0")
-        self.assertIn('<div class="lead one" data-when="0">', saturday)
+        saturday, _ = build.render_lead(films + announced, built, days=weekend)
+        self.assertIn('<div class="lead one">', saturday)
         self.assertIn("Saturday Film", saturday)
         self.assertNotIn("Sunday Show", saturday, "a weekend's has its film alone, nothing announced")
         self.assertNotIn('class="fresh"', saturday)
         self.assertEqual(build.render_lead(films, built, days=tonight), ("", ""))
-        # The home page's: only the one chosen, taking no room for the others, which left a blank over tonight's
-        # listings once its evening had gone by.
-        self.assertIn('lead.classList.toggle("away", lead.dataset.when !== when?.dataset.when);', build.INDEX_JS)
-        self.assertIn(".leads > .lead.away { display: none; }", build.render_index([], [], [], [], built, public=True))
+        # The home page has only its own: choosing a night there narrows the list, not what's over it.
+        venue = dict(source("aeg", "x", "music", "The Sinclair"), public=True)
+        home = build.render_index(films + announced, [venue], [], [], built, public=True)
+        self.assertEqual(home.count('<div class="lead">') + home.count('<div class="lead one">'), 1)
+        self.assertNotIn("data-when=\"0\">", home.split('<nav class="filter"')[0])
 
     def test_the_film_a_card_beside_whats_announced(self):
         """The film a card with its poster, first; what's announced in words after it: on its right on a wide

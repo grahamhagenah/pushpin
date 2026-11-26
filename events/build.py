@@ -4776,13 +4776,13 @@ def calm(title):
     return uncapped(title) if shouted else title
 
 
-def render_lead(events, built_at, before="", days=None, when="", nights=None):
+def render_lead(events, built_at, before="", days=None, nights=None):
     """What's over the listings on the home page: the week's biggest film beside the newest few announced,
     each a way to its row in the list below. Either on its own where there's only it; nothing where there's
     neither. Nothing moves: the film is the biggest there is until something bigger turns up, and what's
     announced is the newest, in the order it was. With days, a first and last, only what's on then: over
-    tonight's listings or a weekend's, the film and the announcements of those nights, not of others. when
-    marks it as the home page's for one of those (data-when), which its script shows in place of its own.
+    tonight's listings or a weekend's (their own pages), the film and the announcements of those nights, not of
+    others; the home page keeps its own, whatever it shows in place.
     With nights, the film page's: beside the film everyone's showing, the films showing once (one_nights),
     soonest first, in the announcements' place."""
     film = biggest_film(events, built_at, before, days)
@@ -4849,8 +4849,7 @@ def render_lead(events, built_at, before="", days=None, when="", nights=None):
             + '</span></a></div>')
     if not parts:
         return "", ""
-    marked = f' data-when="{when}"' if when else ""
-    return (f'<div class="lead{" one" if len(parts) == 1 else ""}"{marked}>\n' + "\n".join(parts) + "\n</div>\n"
+    return (f'<div class="lead{" one" if len(parts) == 1 else ""}">\n' + "\n".join(parts) + "\n</div>\n"
             + LEAD_NOW.replace("ZONE", json.dumps(str(PUBLIC_ZONE))), film["key"] if film else "")
 
 
@@ -5268,9 +5267,8 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
     places = {item["venue"]: written(VENUE_ADDRESSES[item["venue"]]) for item in events if item["venue"] in VENUE_ADDRESSES}
     # Just announced, a line over the home page's listings: one of the week's newest, which its script picks.
     home = public and not (category or tonight or added or weekend is not None)
-    # Tonight's and the weekends' pages have one of their own nights; the home page has those too, hidden, for
-    # its script to show in place of its own when Tonight or a weekend is chosen (data-when), in .leads, only the
-    # one chosen shown.
+    # Tonight's and the weekends' pages have one of their own nights. The home page keeps its own whatever night
+    # it shows in place, as it does whatever kind: a filter narrows the list under it, not what's over it.
     ranges = {"tonight": (built_day, built_day)} | {str(ahead): weekend_days(built_day, ahead) for ahead in range(len(PUBLIC_WEEKENDS))}
     # The films showing once from today on, soonest first: the film page's lead lists them beside its biggest film,
     # as the home page's does what's announced. Only on film's own page: the home page's stays as it is whatever
@@ -5279,8 +5277,7 @@ def render_index(events, sources, failed, stale, built_at, public=False, categor
                     key=lambda item: (item["date"], not item["times"], item["times"][:1], item["title"].casefold()))
     banner = ""
     if home:
-        banner = (render_lead(events, built_at, biggest)[0] + '<div class="leads" hidden>' + "".join(
-            render_lead(events, built_at, biggest, days, when)[0] for when, days in ranges.items()) + "</div>\n")
+        banner = render_lead(events, built_at, biggest)[0]
     elif public and (tonight or weekend is not None):
         banner = render_lead(every, built_at, biggest, ranges["tonight" if tonight else str(weekend)])[0]
     elif public and category == "film":
@@ -6787,16 +6784,7 @@ INDEX_JS = """
       }
       // A weekend shown in place, the way to the other one under it, as its own page has.
       for (const nav of document.querySelectorAll(".weekends[data-on]")) nav.hidden = nav.dataset.on !== when?.dataset.when;
-      // And over the list, the film and the announcements of those nights, not the week's (render_lead's days).
-      // Theirs are in .leads, the others put away. A kind leaves it as it is: what's over the list stays put. So
-      // does tomorrow or a day picked, which have no lead of their own: the home page's stays.
-      const ownLead = whenLinks.includes(when);
-      for (const lead of document.querySelectorAll(".lead")) {
-        if (lead.dataset.when) lead.classList.toggle("away", lead.dataset.when !== when?.dataset.when);
-        else lead.hidden = ownLead;
-      }
-      const leads = document.querySelector(".leads");
-      if (leads) leads.hidden = !ownLead;
+      // What's over the list stays as it is, whatever night or kind is shown in place.
     }
     sayWhen();
     // Where, with a day or days chosen, has only the venues with something on then, of the kind shown (the rest
@@ -8002,10 +7990,6 @@ CSS = """
      can be the film alone and a weekend's what's announced alone, and the home page shows one in place of the other,
      so the filter under them would jump between the two. */
   .lead > * { min-width: 0; min-height: 8.125rem; }
-  /* The home page's for tonight and the weekends: only the one chosen, its own height. Kept one over another as
-     tall as the tallest, the room held for the others was a blank under tonight's once its evening had gone by
-     and its script had taken out what had passed. */
-  .leads > .lead.away { display: none; }
   /* Beside the film's taller card, what's announced in the middle of the room under its heading, not at the top
      of it with a gap below; on its own, fewer than three at the top of it. */
   .lead > .fresh { display: flex; flex-direction: column; }
