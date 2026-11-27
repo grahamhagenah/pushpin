@@ -4365,20 +4365,18 @@ def clock(moment):
 ICON_DRAWINGS = {
     # A notice's mark: a circle with an exclamation point.
     "notice": '<circle cx="8" cy="8" r="6.25"/><path d="M8 4.75v3.5"/><circle cx="8" cy="11" r=".5" fill="currentColor"/>',
-    # Tabler Icons' "message" (MIT license, version 3.50.0), its paths verbatim: a square speech bubble with two
-    # lines of words in it, for the talks, readings and conversations most of these listings are, and square as
-    # film's frame beside it is. Tabler draws on a 24-unit square at a stroke of 2, so it's scaled into these
-    # 16-unit ones, at the stroke the others here are drawn with. Chosen over a framed picture (read as a
-    # photograph at a row's size), a museum's columns (a bank), a paintbrush and a round bubble.
-    "art": ('<g transform="scale(.6667)" stroke-width="2.25">'
-            '<path d="M8 9h8"/>'
-            '<path d="M8 13h6"/>'
-            '<path d="M18 4a3 3 0 0 1 3 3v8a3 3 0 0 1 -3 3h-5l-5 3v-3h-2a3 3 0 0 1 -3 -3v-8a3 3 0 0 1 3 -3h12"/>'
-            '</g>'),
+    # A square speech bubble with a line of words in it, for the talks, readings and conversations most of these
+    # listings are, and square as film's screen beside it is. After Tabler Icons' "message" (MIT license), drawn
+    # on these 16 units and with one line where it has two: at a row's fifteen pixels the two ran together into
+    # a blot. Chosen over a framed picture (read as a photograph at a row's size), a museum's columns (a bank),
+    # a paintbrush and a round bubble.
+    "art": ('<path d="M3.5 2.5h9a1.75 1.75 0 0 1 1.75 1.75v5.5a1.75 1.75 0 0 1-1.75 1.75h-4.5l-3.25 2.5v-2.5h-1.25'
+            'a1.75 1.75 0 0 1-1.75-1.75v-5.5a1.75 1.75 0 0 1 1.75-1.75z"/><path d="M5.5 7h5"/>'),
     "music": '<path d="M5.5 12.5V4l8-2v8.5"/><circle cx="3.75" cy="12.5" r="1.75" fill="currentColor"/>'
              '<circle cx="11.75" cy="10.5" r="1.75" fill="currentColor"/>',
-    "film": '<rect x="2" y="2" width="12" height="12" rx="1.5"/>'
-            '<path d="M5 2v12M11 2v12M2 5.5h3M2 10.5h3M11 5.5h3M11 10.5h3"/>',
+    # A screen with a play mark on it. The film frame and its sprockets it replaced were a grid of lines a pixel
+    # apart at a row's size; so, tried at that size, were a strip and a ticket, and a clapperboard came out a wedge.
+    "film": '<rect x="1.75" y="2.75" width="12.5" height="10.5" rx="2"/><path d="M6.5 5.75v4.5l3.75-2.25z" fill="currentColor"/>',
 }
 ICON_SYMBOLS = shared.icon_symbols(ICON_DRAWINGS)
 
@@ -8132,8 +8130,8 @@ CSS = """
     .day > ul > li.row:hover .title { text-decoration: underline; }
   }
   /* Each row's mark at fifteen pixels, half again the height of the time's figures: at their height its lines
-     come to a pixel thick and what tells the kinds apart — a film frame's sprockets, the lines in a speech bubble
-     — runs together, and at the filter's thirteen it read as smaller than the time beside it. */
+     come to a pixel thick and what tells the kinds apart — the play mark on film's screen, the line in a speech
+     bubble — runs together, and at the filter's thirteen it read as smaller than the time beside it. */
   .day > ul > li.row > .icon, .day > ul > li.combined > details > summary > .icon { width: 15px; height: 15px; }
   .detail { min-width: 0; overflow: hidden; text-overflow: ellipsis; }
   /* On a wide screen the name comes first: what's after it (who else is on the bill, a room, a line about it) at
