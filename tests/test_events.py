@@ -2132,11 +2132,12 @@ class Moving(unittest.TestCase):
 
 
 class Window(unittest.TestCase):
-    def test_concerts_two_months_ahead_the_rest_one(self):
+    def test_concerts_and_talks_three_months_ahead_films_one(self):
         with mock.patch.object(build, "today", lambda: date(2026, 9, 1)):
-            self.assertEqual(build.window_end("music"), date(2026, 10, 31))
+            self.assertEqual(build.window_end("music"), date(2026, 11, 30))
+            self.assertEqual(build.window_end("art"), date(2026, 11, 30))
             self.assertEqual(build.window_end("film"), date(2026, 10, 1))
-            self.assertEqual(build.window_end(), date(2026, 10, 1))
+            self.assertEqual(build.window_end(), date(2026, 11, 30))
 
 
 class Fetching(unittest.TestCase):

@@ -29,8 +29,8 @@ SOURCES_FILE = ROOT / "sources.txt"  # Boston's; each city has its own (CITIES).
 SKIP_FILE = ROOT / "skip.txt"
 REPO_URL = "https://github.com/grahamhagenah/pushpin"
 NEW_DAYS = 7  # How long a listing counts as just announced, after the day it first turned up.
-DAYS_AHEAD = 30  # How far ahead the page lists events,
-MUSIC_DAYS_AHEAD = 60  # and concerts, which venues announce (and people buy tickets for) further ahead.
+DAYS_AHEAD = 90  # How far ahead the page lists concerts, talks and shows, which venues announce months out,
+FILM_DAYS_AHEAD = 30  # and films: most cinemas publish a few weeks of showtimes, and the rest would be most of the page.
 # Each build publishes its listings at the site's root; a source that fails next time falls back to its copy
 # there, if it's no older than this. Until November 2026 they were kept at events.grahamhagenah.com, which
 # the first build after the move reads instead, when pushpin.city doesn't have them yet.
@@ -2640,7 +2640,7 @@ def read_umass_fac(source):
 def read_amherst_cinema(source):
     """Amherst Cinema's calendar, a page for each day (/calendar/month/2026-09-16, despite its name), each
     film with its series and its times; and each film's own page, for its picture and what it's about."""
-    days = [today() + timedelta(days=n) for n in range(DAYS_AHEAD + 1)]
+    days = [today() + timedelta(days=n) for n in range(FILM_DAYS_AHEAD + 1)]
     with ThreadPoolExecutor(max_workers=4) as pool:
         pages = list(pool.map(lambda day: amherst_day(source["url"], day), days))
     events = []
@@ -2743,8 +2743,8 @@ def today():
 
 
 def days_ahead(category):
-    """How many days ahead a kind of event is listed: two months for concerts, a month for the rest."""
-    return MUSIC_DAYS_AHEAD if category == "music" else DAYS_AHEAD
+    """How many days ahead a kind of event is listed: three months for concerts and art and talks, a month for films."""
+    return FILM_DAYS_AHEAD if category == "film" else DAYS_AHEAD
 
 
 def window_end(category=None):
@@ -2835,7 +2835,7 @@ def read_localist(source):
     keep = LOCALIST_KEEP[urlsplit(source["url"]).netloc]
     events, page = [], 1
     while page:
-        data = json.loads(fetch(f"{source['url']}?{urlencode([('days', MUSIC_DAYS_AHEAD + 1), ('pp', 100), ('page', page)])}"))
+        data = json.loads(fetch(f"{source['url']}?{urlencode([('days', DAYS_AHEAD + 1), ('pp', 100), ('page', page)])}"))
         for entry in data.get("events", []):
             item = entry["event"]
             tags = {key: {tag["name"] for tag in value} for key, value in (item.get("filters") or {}).items()}
@@ -3294,7 +3294,7 @@ def seetickets_pages(source, page):
         return [found for found in pool.map(lambda each: fetch_quietly(each), asking) if found]
 
 
-SEE_PAGE_LIMIT = 6  # Two months of shows, at a dozen or so a page.
+SEE_PAGE_LIMIT = 9  # Three months of shows, at a dozen or so a page.
 
 
 def fetch_quietly(url):
@@ -3824,7 +3824,7 @@ def read_bam(source):
     day's times, its picture and a line about it. Asked for from today to the end of what's listed."""
     zone = source.get("zone", BOSTON)
     start = datetime.now(zone).date()
-    asked = urlencode({"start": f"{start:%m/%d/%Y}", "end": f"{start + timedelta(days=MUSIC_DAYS_AHEAD):%m/%d/%Y}"})
+    asked = urlencode({"start": f"{start:%m/%d/%Y}", "end": f"{start + timedelta(days=DAYS_AHEAD):%m/%d/%Y}"})
     events = []
     for item in json.loads(fetch(f"{source['url']}?{asked}")):
         kinds = [kind.strip() for kind in (item.get("genres") or "").split(",")]
@@ -3847,7 +3847,7 @@ def read_bam(source):
 
 
 LPR_ROOMS = {"main-space", "gallery"}  # Its own two rooms, as its listings mark where a show is.
-LPR_PAGES = 8  # Fourteen shows to a page: two months of them and more.
+LPR_PAGES = 12  # Fourteen shows to a page: three months of them and more.
 
 
 def read_lpr(source):
@@ -3878,13 +3878,13 @@ def read_lpr(source):
                                 link=link.group(1) if link else "",
                                 detail=f"with {text(with_.group(1))}" if with_ and text(with_.group(1)) else "",
                                 image=picture.group(1).strip("'\" ") if picture else ""))
-        if not entries or not last or last > today + timedelta(days=MUSIC_DAYS_AHEAD):
+        if not entries or not last or last > today + timedelta(days=DAYS_AHEAD):
             break
     return events
 
 
 ROULETTE_WHEN = re.compile(r"([A-Z][a-z]+ \d{1,2}, \d{4})\.?\s*(?:(\d{1,2}):(\d{2})\s*([ap])m)?", re.I)
-ROULETTE_PAGES = 4  # Ten events to a page.
+ROULETTE_PAGES = 6  # Ten events to a page: three months of them.
 
 
 def read_roulette(source):
@@ -3911,7 +3911,7 @@ def read_roulette(source):
                                 link=name.group(1), about=about(said.group(1) if said else ""),
                                 image=re.sub(r"-150x150(\.\w+)$", r"-400x400\1", picture.group(1)) if picture else "",
                                 price=price_from(text(price.group(1))) if price else ""))
-        if len(entries) < 10 or (events and events[-1]["date"] > today + timedelta(days=MUSIC_DAYS_AHEAD)):
+        if len(entries) < 10 or (events and events[-1]["date"] > today + timedelta(days=DAYS_AHEAD)):
             break
     return events
 
@@ -5685,13 +5685,13 @@ def city_texts(slug, name, place, around, *, state="Massachusetts", zone="Americ
          ("weekend/next/", "Next weekend", f"Things to do in {place} next weekend · {site}",
           f"Concerts, films and talks around {around} next weekend, Friday to Sunday, aggregated from select venues.")],
         {"music": kind("music", f"Concerts {preposition} {place}",
-                       f"Concerts around {around} for the next two months, aggregated from select venues.",
+                       f"Concerts around {around} for the next three months, aggregated from select venues.",
                        f"Concerts around {around}, aggregated from select venues."),
          "film": kind("film", f"Movie showtimes {preposition} {place}",
                       f"Showtimes around {around} for the next month, aggregated from select theaters.",
                       f"Films around {around}, aggregated from select theaters."),
          "art": kind("art", f"Art, exhibitions and talks in {place}",
-                     f"Talks, readings, performances and exhibition openings around {around} for the next month, "
+                     f"Talks, readings, performances and exhibition openings around {around} for the next three months, "
                      f"aggregated from select venues.",
                      f"Art and talks around {around}, aggregated from select venues.")},
         # Its own questions, or Boston's, with its own answer to who makes it.
@@ -5702,14 +5702,14 @@ def city_texts(slug, name, place, around, *, state="Massachusetts", zone="Americ
 BOSTON_CITY = city_texts(
     "boston", "Pushpin Boston", "Boston", "Boston, Cambridge, and Somerville", preposition="around", faqs=FAQS,
     kinds={"music": {"description": "Concerts at clubs, bars and halls across Boston, Cambridge and Somerville for the "
-                                    "next two months, aggregated from select venues."},
+                                    "next three months, aggregated from select venues."},
            "film": {"title": "Movie showtimes and repertory film in Boston",
                     "description": "Showtimes at the Brattle, the Coolidge, the Harvard Film Archive and more, from "
                                    "repertory screenings to new releases, for the next month, aggregated from select theaters.",
                     "tagline": "Films around Boston, Cambridge, and Somerville, from repertory screenings to new "
                                "releases, aggregated from select theaters."},
            "art": {"description": "Artist talks, lectures, exhibition openings and museum nights around Boston, "
-                                  "Cambridge and Somerville for the next month, aggregated from select venues."}})
+                                  "Cambridge and Somerville for the next three months, aggregated from select venues."}})
 
 WESTERN_MASS = city_texts(
     "westernma", "Pushpin Western Mass", "Western Mass", "the Pioneer Valley and the Berkshires",
@@ -5727,14 +5727,14 @@ NYC = city_texts(
         "what’s on at the theaters and concert venues I love, without relying on Google or visiting each venue’s "
         "website. This is the same for New York, starting with its independent rooms.",
     kinds={"music": {"description": "Concerts at independent clubs, bars and halls across Brooklyn, Manhattan and "
-                                    "Queens for the next two months, aggregated from select venues."},
+                                    "Queens for the next three months, aggregated from select venues."},
            "film": {"title": "Movie showtimes and repertory film in New York",
                     "description": "Showtimes at Film Forum, Metrograph, IFC Center, BAM, Nitehawk and Spectacle, "
                                    "from repertory screenings to new releases, aggregated from select theaters.",
                     "tagline": "Films around Brooklyn, Manhattan, and Queens, from repertory screenings to new "
                                "releases, aggregated from select theaters."},
            "art": {"description": "Talks, readings and performances around Brooklyn, Manhattan and Queens for the "
-                                  "next month, aggregated from select venues."}})
+                                  "next three months, aggregated from select venues."}})
 
 # What's being worked on, listed after the cities under the same state, with what to say about it.
 COMING_SOON = {}
@@ -8374,7 +8374,7 @@ def gather(results, previous, built_at):
     to save for next time; when each was first seen; and why each failing one failed."""
     today = built_at.astimezone(BOSTON).date()
     seen_before, seen = previous.get("first_seen") or {}, {}
-    def ahead(item):  # Soon enough to list: two months for a concert, a month for the rest.
+    def ahead(item):  # Soon enough to list: three months for a concert or a talk, a month for a film.
         # Counted from the day it is where the venue is: at nine in the evening in San Francisco it's already
         # tomorrow in Boston, and counting from there would drop everything still to come that evening.
         here = built_at.astimezone(zone_of(item)).date()

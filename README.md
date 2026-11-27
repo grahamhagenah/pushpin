@@ -1,6 +1,6 @@
 # Pushpin
 
-Concerts, films, and art and talks around Boston, Western Mass and New York, gathered from venues' own listings and grouped by day, at https://pushpin.city/: concerts over the next 60 days (venues announce them further ahead), everything else over the next 30 (`MUSIC_DAYS_AHEAD` and `DAYS_AHEAD` in `events/build.py`).
+Concerts, films, and art and talks around Boston, Western Mass and New York, gathered from venues' own listings and grouped by day, at https://pushpin.city/: concerts and art and talks over the next 90 days (venues announce them months ahead), films over the next 30 (most cinemas publish a few weeks of showtimes, and films are most of a page) (`DAYS_AHEAD` and `FILM_DAYS_AHEAD` in `events/build.py`).
 
 Until November 2026 this was built in [grahamhagenah/news](https://github.com/grahamhagenah/news) alongside the newsfeed (now [grahamhagenah/newsfeed](https://github.com/grahamhagenah/newsfeed)), a job board and a housing tracker; their code is at that repo's `before-split` tag.
 
