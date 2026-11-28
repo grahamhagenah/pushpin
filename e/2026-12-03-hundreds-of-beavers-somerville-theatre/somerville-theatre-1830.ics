@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e87b0c321ae994edf5c9687f15b97ef65f9f2bdc@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261203T233000Z
+DTEND:20261204T013000Z
+SUMMARY:Hundreds of Beavers
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.somervilletheatre.com/production/hundreds-of-beaver
+ s/
+URL:https://www.somervilletheatre.com/production/hundreds-of-beavers/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:896460d00af15852e1f93a73e9535eb7c5158f5d@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:An Evening with Tom Rush
+LOCATION:Bombyx\, 130 Pine St\, Florence\, MA 01062
+DESCRIPTION:https://bombyx.live/events/an-evening-with-tom-rush-2/
+URL:https://bombyx.live/events/an-evening-with-tom-rush-2/
+END:VEVENT
+END:VCALENDAR

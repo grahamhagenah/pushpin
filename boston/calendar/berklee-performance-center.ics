@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Berklee Performance Center
+X-WR-CALDESC:What’s coming up at Berklee Performance Center\, from Pushpi
+ n Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:fe34d9a6b6817cdf077357283e610bf570bdcfb2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:Singers Showcase: Forever Whitney Houston
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:Berklee’s Singers Showcase presents Forever Whitney Houston\,
+  a celebration of the artistry\, performance\, and legacy of one of the gr
+ eatest singers of all time\, featuring a global student cast.\nhttps://www
+ .berklee.edu/BPC/events/singers-showcase-forever-whitney-houston\nFrom Pus
+ hpin Boston: https://pushpin.city/
+URL:https://www.berklee.edu/BPC/events/singers-showcase-forever-whitney-hou
+ ston
+END:VEVENT
+BEGIN:VEVENT
+UID:97577cb23c547fb28893295a79af0cfdfbde83ee@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:Singers Showcase: Forever Whitney Houston
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:Berklee’s Singers Showcase presents Forever Whitney Houston\,
+  a celebration of the artistry\, performance\, and legacy of one of the gr
+ eatest singers of all time\, featuring a global student cast.\nhttps://www
+ .berklee.edu/BPC/events/singers-showcase-forever-whitney-houston\nFrom Pus
+ hpin Boston: https://pushpin.city/
+URL:https://www.berklee.edu/BPC/events/singers-showcase-forever-whitney-hou
+ ston
+END:VEVENT
+BEGIN:VEVENT
+UID:11c4a8d3de9e651b0f33547f07b30628d9405e29@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T010000Z
+DTEND:20261209T030000Z
+SUMMARY:Holiday Spectacular: Nutcracker Suite with Diamond Cut Big Band
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:This two-part concert features arrangements of holiday songs pe
+ rformed by the Gen-Next All-Stars\, and Duke Ellington's Nutcracker Suite 
+ performed by the Diamond Cut Big Band.\nhttps://www.berklee.edu/BPC/events
+ /holiday-spectacular-nutcracker-suite-with-diamond-cut-big-band\nFrom Push
+ pin Boston: https://pushpin.city/
+URL:https://www.berklee.edu/BPC/events/holiday-spectacular-nutcracker-suite
+ -with-diamond-cut-big-band
+END:VEVENT
+BEGIN:VEVENT
+UID:80db7816aa9f9a4b83dc862358596998232d50df@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T003000Z
+DTEND:20261211T023000Z
+SUMMARY:Berklee City Music High School Academy Winter Showcase Concert
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:The Berklee City Music High School Academy Winter Showcase Conc
+ ert features seven ensembles performing various musical styles and arrange
+ ments.\nhttps://www.berklee.edu/BPC/events/berklee-city-music-high-school-
+ academy-winter-showcase-concert-2\nFrom Pushpin Boston: https://pushpin.ci
+ ty/
+URL:https://www.berklee.edu/BPC/events/berklee-city-music-high-school-acade
+ my-winter-showcase-concert-2
+END:VEVENT
+BEGIN:VEVENT
+UID:a50dbefc4a2eb40f1ceaad1f2f5f72f76818921a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:The 8-Bit Big Band: The Great Video Game Songbook
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:The 8-Bit Big Band is a Grammy Award–winning contemporary sym
+ phonic jazz orchestra created to celebrate and reimagine the most beloved 
+ music from video game history.\nhttps://www.berklee.edu/BPC/events/the-8-b
+ it-big-band-the-great-video-game-songbook\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://www.berklee.edu/BPC/events/the-8-bit-big-band-the-great-video-g
+ ame-songbook
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d58a12d7f62df28468fd622036593743dde0ca@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261214T010000Z
+DTEND:20261214T030000Z
+SUMMARY:FORMIDABLE! Aznavour: The Story of a Legend
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:FORMIDABLE! Aznavour: The Story of a Legend\, is far more than 
+ a tribute concert. It is a moving journey through the life\, music\, passi
+ on\, and extraordinary international career of the legendary performer Cha
+ rles Aznavour\, whose songs touched millions around the world.\nhttps://ww
+ w.berklee.edu/BPC/events/formidable-aznavour-the-story-of-a-legend\nFrom P
+ ushpin Boston: https://pushpin.city/
+URL:https://www.berklee.edu/BPC/events/formidable-aznavour-the-story-of-a-l
+ egend
+END:VEVENT
+BEGIN:VEVENT
+UID:ee838590a78925c4940305c00c7c6844fd85ca07@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T010000Z
+DTEND:20261219T030000Z
+SUMMARY:Pink Martini All-Stars: A Season of Stars
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:Thomas Lauderdale’s globe-trotting “little orchestra\,” P
+ ink Martini\, brings an all-new holiday show filled with triple the joy\, 
+ featuring the radiant voices of NPR’s dashing Ari Shapiro\, the soulful 
+ Edna Vazquez\, and sensational America’s Got Talent finalist Jimmie Herr
+ od.\nhttps://www.berklee.edu/BPC/events/pink-martini-all-stars-a-season-of
+ -stars\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.berklee.edu/BPC/events/pink-martini-all-stars-a-season-of-s
+ tars
+END:VEVENT
+BEGIN:VEVENT
+UID:85533fc72ac5e555f06252f3a4cf6313f4bc62c3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270131T010000Z
+DTEND:20270131T030000Z
+SUMMARY:Michel Camilo Trio
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:Berklee Honorary Doctorate recipient Michel Camilo is a musical
+  firestorm of heart\, joy\, and liveliness. He is making his Vivo Performi
+ ng Arts debut with bassist Ricky Rodríguez and drummer Mark Walker in a p
+ erformance you will experience with your whole body.\nhttps://www.berklee.
+ edu/BPC/events/michel-camilo-trio\nFrom Pushpin Boston: https://pushpin.ci
+ ty/
+URL:https://www.berklee.edu/BPC/events/michel-camilo-trio
+END:VEVENT
+BEGIN:VEVENT
+UID:017a720a7647fcd6225c25089aa2db2ec99fb276@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270203T010000Z
+DTEND:20270203T030000Z
+SUMMARY:Tap Showcase: The Late Set
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:The Late Set is a vivacious and electrifying show that pays hom
+ age to the rich history and artistry of tap dancing\, with a repertoire th
+ at spans from classic grooves to infectious beats.\nhttps://www.berklee.ed
+ u/BPC/events/tap-showcase-the-late-set\nFrom Pushpin Boston: https://pushp
+ in.city/
+URL:https://www.berklee.edu/BPC/events/tap-showcase-the-late-set
+END:VEVENT
+BEGIN:VEVENT
+UID:80199240b3a9a0da7d50c3862ff10d58d357bac7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270205T010000Z
+DTEND:20270205T030000Z
+SUMMARY:Black Resilience and Jubilation
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:The Lowell Chamber Orchestra\, in collaboration with Berklee Co
+ llege of Music\, invites audiences to an electrifying evening of sound\, s
+ tory\, and spirit with Black Resilience and Jubilation—a concert that ho
+ nors the enduring power of Black creativity in the face of adversity and c
+ elebrates the joy that rises from strength\, community\, and artistic bril
+ liance.\nhttps://www.berklee.edu/BPC/events/black-resilience-and-jubilatio
+ n\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.berklee.edu/BPC/events/black-resilience-and-jubilation
+END:VEVENT
+BEGIN:VEVENT
+UID:ac98f5565d63b28fa9b4431c8e4ed6d44fa19290@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270210T010000Z
+DTEND:20270210T030000Z
+SUMMARY:Chinese New Year Concert
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:The Chinese New Year Concert is an annual celebration of the Ch
+ inese New Year. Berklee College of Music students will perform worldwide h
+ it music from a variety of genres\, as well as dance.\nhttps://www.berklee
+ .edu/BPC/events/chinese-new-year-concert-2027\nFrom Pushpin Boston: https:
+ //pushpin.city/
+URL:https://www.berklee.edu/BPC/events/chinese-new-year-concert-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:502a22376bbaa5493872a588f1d68f685d5c5433@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270212T010000Z
+DTEND:20270212T030000Z
+SUMMARY:Best of Audire
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:The Audire Soundtrack Collective\, a Berklee student club\, pre
+ sents a concert and exhibition that brings the joy of video games to Berkl
+ ee’s campus through music\, technology\, and interactive storytelling.\n
+ https://www.berklee.edu/BPC/events/best-of-audire\nFrom Pushpin Boston: ht
+ tps://pushpin.city/
+URL:https://www.berklee.edu/BPC/events/best-of-audire
+END:VEVENT
+BEGIN:VEVENT
+UID:6fcee319deb229e3f7d2236f1713176b5b4ff278@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270213T010000Z
+DTEND:20270213T030000Z
+SUMMARY:Emmet Cohen Trio with Georgia Heers
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:Pianist Emmet Cohen has a rare gift for making a concert ticket
+  feel like a party invitation. His beloved Live from Emmet’s Place webca
+ sts welcomed millions to jazz with music that’s alive\, joyful\, and irr
+ esistible. Cohen brings that same spirit to the stage with his acclaimed t
+ rio\, joined by vocalist Georgia Heers\, whose velvety\, luminous voice is
+  steeped in jazz tradition yet entirely her own.\nhttps://www.berklee.edu/
+ BPC/events/emmet-cohen-trio-with-georgia-heers\nFrom Pushpin Boston: https
+ ://pushpin.city/
+URL:https://www.berklee.edu/BPC/events/emmet-cohen-trio-with-georgia-heers
+END:VEVENT
+BEGIN:VEVENT
+UID:d10ac109286bc3f6219effc0e8e66170c151d1a6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270224T010000Z
+DTEND:20270224T030000Z
+SUMMARY:A Guitarist Singer-Songwriter Showcase
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:This student showcase highlights some of Berklee’s finest gui
+ tarist–singer-songwriters performing original music in settings of their
+  own design.\nhttps://www.berklee.edu/BPC/events/a-guitarist-singer-songwr
+ iter-showcase-2\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.berklee.edu/BPC/events/a-guitarist-singer-songwriter-showca
+ se-2
+END:VEVENT
+BEGIN:VEVENT
+UID:7a98ecda0c0457b09f56a82897bf0355b438a7d5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270226T010000Z
+DTEND:20270226T030000Z
+SUMMARY:Sophisticated Ladies
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:Sophisticated Ladies is a 1940s musical revue celebrating the i
+ ncredible music of Duke Ellington. This production showcases vocalists\, a
+  jazz band\, and small vignettes in a song-and-dance extravaganza.\nhttps:
+ //www.berklee.edu/BPC/events/sophisticated-ladies\nFrom Pushpin Boston: ht
+ tps://pushpin.city/
+URL:https://www.berklee.edu/BPC/events/sophisticated-ladies
+END:VEVENT
+BEGIN:VEVENT
+UID:d403a94177d8e91b6f31eb61b584c4b743ccbbcb@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270227T003000Z
+DTEND:20270227T023000Z
+SUMMARY:Libertango: Mario Stefano Pietrodarchi and String Quintet
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:Italian accordion and bandoneon virtuoso Mario Stefano Pietroda
+ rchi makes his Boston debut with Libertango\, featuring music by Morricone
+ \, Rota\, Di Marino\, and Piazzolla\, and accompanied by a string quintet.
+ \nhttps://www.berklee.edu/BPC/events/libertango-mario-stefano-pietrodarchi
+ -and-string-quintet\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.berklee.edu/BPC/events/libertango-mario-stefano-pietrodarch
+ i-and-string-quintet
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71c2940b9eef312c97ec0061c20fea576ac4b67f@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T020000Z
+DTEND:20261213T040000Z
+SUMMARY:UFC 335: Oliveira vs. Lopes
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/ufc-335-oliveira-vs-lopes
+URL:https://drafthouse.com/boston/show/ufc-335-oliveira-vs-lopes
+END:VEVENT
+END:VCALENDAR

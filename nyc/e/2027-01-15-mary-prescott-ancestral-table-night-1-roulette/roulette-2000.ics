@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a25b21c8ee28d53b50b06bb4246fa345143bcc8f@pushpin.city
+DTSTAMP:20270115T000000Z
+DTSTART:20270116T010000Z
+DTEND:20270116T030000Z
+SUMMARY:Mary Prescott: Ancestral Table (Night 1)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/mary-prescott-ancestral-table/
+URL:https://roulette.org/event/mary-prescott-ancestral-table/
+END:VEVENT
+END:VCALENDAR

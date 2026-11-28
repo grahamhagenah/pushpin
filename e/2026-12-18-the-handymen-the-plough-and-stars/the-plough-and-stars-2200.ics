@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0db32103a6dc53d57e9ce00ac73d285e711f5349@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T030000Z
+DTEND:20261219T050000Z
+SUMMARY:The Handymen
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4dbba04085fe60b427b248bae1faa6f152594908@pushpin.city
+DTSTAMP:20270116T000000Z
+DTSTART:20270117T010000Z
+DTEND:20270117T030000Z
+SUMMARY:Amythyst Kiah
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/amythyst-kiah/
+URL:https://www.theplatformkendall.org/productions/amythyst-kiah/
+END:VEVENT
+END:VCALENDAR

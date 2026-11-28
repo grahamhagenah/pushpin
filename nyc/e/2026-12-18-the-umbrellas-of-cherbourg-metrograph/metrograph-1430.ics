@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d86d21ee673c8f3bab6a273e2fbf2c94dfdcf356@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261218T193000Z
+DTEND:20261218T213000Z
+SUMMARY:The Umbrellas of Cherbourg
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999000606-the-umbrellas-of-cherbou
+ rg/
+URL:https://metrograph.com/film/9999000606-the-umbrellas-of-cherbourg/
+END:VEVENT
+END:VCALENDAR

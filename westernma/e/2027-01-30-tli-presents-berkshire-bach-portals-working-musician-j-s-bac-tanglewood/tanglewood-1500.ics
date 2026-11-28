@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ccf9290fe38ac41e0bdcad6ebdd2a112669cb8b5@pushpin.city
+DTSTAMP:20270130T000000Z
+DTSTART:20270130T200000Z
+DTEND:20270130T220000Z
+SUMMARY:TLI Presents: Berkshire Bach Portals—Working Musician—J.S. Bach
+  Plays the Berkshires
+LOCATION:Tanglewood\, 297 West St\, Lenox\, MA 01240
+DESCRIPTION:https://www.bso.org/events/jan-30-tli-pres-berkshire-bac
+URL:https://www.bso.org/events/jan-30-tli-pres-berkshire-bac
+END:VEVENT
+END:VCALENDAR

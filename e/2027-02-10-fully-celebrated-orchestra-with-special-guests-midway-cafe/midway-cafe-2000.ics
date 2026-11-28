@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5f6e5264eacb787a49b1f1a1e9dc7c4fbab56486@pushpin.city
+DTSTAMP:20270210T000000Z
+DTSTART:20270211T010000Z
+DTEND:20270211T030000Z
+SUMMARY:Fully Celebrated Orchestra with special guests
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/384/1802307600000
+URL:https://tockify.com/midwaycafejp/detail/384/1802307600000
+END:VEVENT
+END:VCALENDAR

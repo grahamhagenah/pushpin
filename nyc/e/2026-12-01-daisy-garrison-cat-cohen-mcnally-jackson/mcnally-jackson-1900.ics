@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:22dc907fa17a8401d57b10c1996516fc904bdef9@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:Daisy Garrison & Cat Cohen
+LOCATION:McNally Jackson\, 4 Fulton Street\, New York\, NY 10038
+DESCRIPTION:https://mcnallyjackson.com/event/2026-12-01/daisy-garrison-cat-
+ cohen
+URL:https://mcnallyjackson.com/event/2026-12-01/daisy-garrison-cat-cohen
+END:VEVENT
+END:VCALENDAR

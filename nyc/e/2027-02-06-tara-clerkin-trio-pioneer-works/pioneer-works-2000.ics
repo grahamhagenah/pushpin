@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1aa750dc776677c2b4cc20f718c08deded5e90e5@pushpin.city
+DTSTAMP:20270206T000000Z
+DTSTART:20270207T010000Z
+DTEND:20270207T030000Z
+SUMMARY:Tara Clerkin Trio
+LOCATION:Pioneer Works\, 159 Pioneer St\, Brooklyn\, NY 11231
+DESCRIPTION:https://pioneerworks.org/programs/tara-clerkin-trio
+URL:https://pioneerworks.org/programs/tara-clerkin-trio
+END:VEVENT
+END:VCALENDAR

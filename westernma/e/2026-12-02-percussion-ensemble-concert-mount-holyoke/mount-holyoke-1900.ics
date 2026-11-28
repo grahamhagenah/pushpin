@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8523489541c3ce4011d65254ec89d4295224e3df@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Percussion Ensemble Concert
+LOCATION:Mount Holyoke\, 1 Woolley Circle\, South Hadley\, MA
+DESCRIPTION:https://events.mtholyoke.edu/event/percussion-ensemble-concert-
+ 8465
+URL:https://events.mtholyoke.edu/event/percussion-ensemble-concert-8465
+END:VEVENT
+END:VCALENDAR

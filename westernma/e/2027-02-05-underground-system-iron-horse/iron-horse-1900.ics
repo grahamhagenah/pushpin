@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c810ef4e26ec2028880eb5aa4666017190974a1f@pushpin.city
+DTSTAMP:20270205T000000Z
+DTSTART:20270206T000000Z
+DTEND:20270206T020000Z
+SUMMARY:Underground System
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000DBfmjMAD
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0DBfmjMAD
+END:VEVENT
+END:VCALENDAR

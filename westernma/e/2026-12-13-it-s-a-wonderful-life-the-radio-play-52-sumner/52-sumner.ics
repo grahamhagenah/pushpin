@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4fe2a7d19f20295a75c9e529bfd7d77ead36c0a1@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:It's a Wonderful Life: the Radio Play
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:https://www.eventbrite.com/e/its-a-wonderful-life-radio-play-ti
+ ckets-2003828502994
+URL:https://www.eventbrite.com/e/its-a-wonderful-life-radio-play-tickets-20
+ 03828502994
+END:VEVENT
+END:VCALENDAR

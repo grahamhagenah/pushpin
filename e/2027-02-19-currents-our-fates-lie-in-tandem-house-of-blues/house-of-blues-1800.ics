@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:db378640481c7716d14ef0db4f4b461e7b875b51@pushpin.city
+DTSTAMP:20270219T000000Z
+DTSTART:20270219T230000Z
+DTEND:20270220T010000Z
+SUMMARY:CURRENTS: OUR FATES LIE IN TANDEM
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/currents-our-fates-lie-in-tandem-b
+ oston-massachusetts-02-19-2027/event/0100655CC1567178
+URL:https://www.ticketmaster.com/currents-our-fates-lie-in-tandem-boston-ma
+ ssachusetts-02-19-2027/event/0100655CC1567178
+END:VEVENT
+END:VCALENDAR

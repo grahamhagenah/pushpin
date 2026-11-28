@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:90c12c4394f2aa5cec644e35367ecb8bca782f6a@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T160000Z
+DTEND:20261206T180000Z
+SUMMARY:Mouse
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/mouse/
+URL:https://nitehawkcinema.com/williamsburg/movies/mouse/
+END:VEVENT
+END:VCALENDAR

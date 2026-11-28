@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Harvard Art Museums
+X-WR-CALDESC:What’s coming up at Harvard Art Museums\, from Pushpin Bosto
+ n.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:b3ff3e1d564a925457683f86d35bd7e517587fd5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270202T173000Z
+DTEND:20270202T193000Z
+SUMMARY:Gallery Talk: Redlining and the Visual Culture of Suburbia
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Krystle Brown for a discussion of redlining and the visual
+  construction of the American suburb through postwar photography.\nhttps:/
+ /harvardartmuseums.org/event/4160\nFrom Pushpin Boston: https://pushpin.ci
+ ty/
+URL:https://harvardartmuseums.org/event/4160
+END:VEVENT
+END:VCALENDAR

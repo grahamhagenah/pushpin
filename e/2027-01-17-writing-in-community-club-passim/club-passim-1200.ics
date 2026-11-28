@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6709be9cd712c4ec8bffbb6ec7ab71838b5e7ad8@pushpin.city
+DTSTAMP:20270117T000000Z
+DTSTART:20270117T170000Z
+DTEND:20270117T190000Z
+SUMMARY:Writing in Community
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/writing-in-community/
+URL:https://www.passim.org/live-music/events/writing-in-community/
+END:VEVENT
+END:VCALENDAR

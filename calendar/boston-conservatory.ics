@@ -1,0 +1,350 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Boston Conservatory
+X-WR-CALDESC:What’s coming up at Boston Conservatory\, from Pushpin Bosto
+ n.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:5b9d93a1b1073dfe8731829c9b38cfae0bb24013@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T003000Z
+DTEND:20261202T023000Z
+SUMMARY:Boston Conservatory Choirs: Carols at St. Clements—Welcoming Wint
+ er
+LOCATION:Boston Conservatory\, 1105 Boylston St\, Boston\, MA 02215
+DESCRIPTION:St. Clements\nBoston Conservatory choirs gather in St. Clement'
+ s Shrine for an evening of music inspired by the winter season.\nhttps://b
+ ostonconservatory.berklee.edu/events/boston-conservatory-choirs-carols-at-
+ st-clements-welcoming-winter\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/boston-conservatory-choir
+ s-carols-at-st-clements-welcoming-winter
+END:VEVENT
+BEGIN:VEVENT
+UID:62e67f47a43719d363c1ce31f80a543fa0e2aade@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T010000Z
+DTEND:20261202T030000Z
+SUMMARY:Chamber Music Recital
+LOCATION:Boston Conservatory\, 8 Fenway\, Boston\, MA 02215
+DESCRIPTION:Houston Hall\nBoston Conservatory at Berklee students perform c
+ hamber music works from all periods.\nhttps://bostonconservatory.berklee.e
+ du/events/12-01-chamber-music-recital\nFrom Pushpin Boston: https://pushpi
+ n.city/
+URL:https://bostonconservatory.berklee.edu/events/12-01-chamber-music-recit
+ al
+END:VEVENT
+BEGIN:VEVENT
+UID:2019b3bb2be01ccead3f68db0cf50914cc61145a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T010000Z
+DTEND:20261202T030000Z
+SUMMARY:Faculty Recital: Preludes\, Featuring Max Levinson\, Piano
+LOCATION:Boston Conservatory\, 8 Fenway\, Boston\, MA 02215
+DESCRIPTION:Seully Hall\nMax Levinson\, pianist and professor at Boston Con
+ servatory at Berklee\, presents a recital of compositions in the form of p
+ reludes by Debussy\, Chopin\, and more.\nhttps://bostonconservatory.berkle
+ e.edu/events/faculty-recital-preludes-featuring-max-levinson-piano\nFrom P
+ ushpin Boston: https://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/faculty-recital-preludes-
+ featuring-max-levinson-piano
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8454230e885b6d506418b9f32553f1ffdbd6c8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T010000Z
+DTEND:20261203T030000Z
+SUMMARY:Composers Recital Series
+LOCATION:Boston Conservatory\, 132 Ipswich Street (Richard Ortner Studio Bu
+ ilding)\, Boston\, MA 02115
+DESCRIPTION:Studio 106\nThe Composers Recital Series showcases new work by 
+ student composers.\nhttps://bostonconservatory.berklee.edu/events/12-02-co
+ mposer-recital-series\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/12-02-composer-recital-se
+ ries
+END:VEVENT
+BEGIN:VEVENT
+UID:e1d08e0cf575e855a08db0b30cf7c5b3cfc9d2dd@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:Boston Conservatory Conductors Orchestra
+LOCATION:Boston Conservatory\, 132 Ipswich Street (Richard Ortner Studio Bu
+ ilding)\, Boston\, MA 02115
+DESCRIPTION:Studio 106\nBoston Conservatory Conductors Orchestra presents a
+  concert featuring student conductors.\nhttps://bostonconservatory.berklee
+ .edu/events/boston-conservatory-conductors-orchestra-12-03\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/boston-conservatory-condu
+ ctors-orchestra-12-03
+END:VEVENT
+BEGIN:VEVENT
+UID:d949f7dc9754adddb65064ce50975e78d6c006e0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T160000Z
+DTEND:20261204T180000Z
+SUMMARY:Chamber Music Recital
+LOCATION:Boston Conservatory\, 8 Fenway\, Boston\, MA 02215
+DESCRIPTION:Times: 11am\, 8pm\nSeully Hall\nBoston Conservatory at Berklee 
+ students perform chamber music works from all periods.\nhttps://bostoncons
+ ervatory.berklee.edu/events/chamber-music-recital-12-04-26\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/chamber-music-recital-12-
+ 04-26
+END:VEVENT
+BEGIN:VEVENT
+UID:706577dd3bc96f4f4f66866a374d3cf8060dc948@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T200000Z
+DTEND:20261204T220000Z
+SUMMARY:Season of Song: Master Class
+LOCATION:Boston Conservatory\, 8 Fenway\, Boston\, MA 02215
+DESCRIPTION:Seully Hall\nBoston Conservatory at Berklee presents a master c
+ lass on art song.\nhttps://bostonconservatory.berklee.edu/events/season-of
+ -song-master-class\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/season-of-song-master-cla
+ ss
+END:VEVENT
+BEGIN:VEVENT
+UID:ba9ca06725dc6088882f5fc78de526d2a425d9c9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:MFA Musical Theater Vocal Pedagogy Showcase—“God\, That’s Goo
+ d!: Songs of Stephen Sondheim”
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02215
+DESCRIPTION:Studio T401 (Boston Conservatory at Berklee)\nJoin the MFA Musi
+ cal Theatre Vocal Pedagogy students for the fall 2026 showcase\, "God\, Th
+ at’s Good!: Songs of Stephen Sondheim”\, stage directed by Danny Pelzi
+ g and music directed by Scott Nicholas.\nhttps://bostonconservatory.berkle
+ e.edu/events/mfa-musical-theater-vocal-pedagogy-showcase\nFrom Pushpin Bos
+ ton: https://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/mfa-musical-theater-vocal
+ -pedagogy-showcase
+END:VEVENT
+BEGIN:VEVENT
+UID:f4ad39c2415d497c8e67c44ee5a9f133e64a1592@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T180000Z
+DTEND:20261205T200000Z
+SUMMARY:Senior Choreographers Concert: REVERENCE
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Times: 1pm\, 7:30pm\nBoston Conservatory Theater\nREVERENCE wil
+ l showcase 16 contemporary dance seniors' original choreographic works. Th
+ is show is the culmination of four years of dedication and growth in chore
+ ography\, and features a vast array of styles and themes.\nhttps://bostonc
+ onservatory.berklee.edu/events/senior-choreographers-concert-reverence\nFr
+ om Pushpin Boston: https://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/senior-choreographers-con
+ cert-reverence
+END:VEVENT
+BEGIN:VEVENT
+UID:be84058f5d77ba5e6d1a09ab138400804a3fff30@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T180000Z
+DTEND:20261206T200000Z
+SUMMARY:Senior Choreographers Concert: REVERENCE
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Boston Conservatory Theater\nREVERENCE will showcase 16 contemp
+ orary dance seniors' original choreographic works. This show is the culmin
+ ation of four years of dedication and growth in choreography\, and feature
+ s a vast array of styles and themes.\nhttps://bostonconservatory.berklee.e
+ du/events/senior-choreographers-concert-reverence\nFrom Pushpin Boston: ht
+ tps://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/senior-choreographers-con
+ cert-reverence
+END:VEVENT
+BEGIN:VEVENT
+UID:59108448ffa7a826b2a2af39d048b32ebcb556be@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T210000Z
+DTEND:20261206T230000Z
+SUMMARY:14th Annual Italian Christmas Concert
+LOCATION:Boston Conservatory\, 12 North Square\, Boston\, MA 02113
+DESCRIPTION:Sacred Heart Catholic Church\nStudents of Boston Conservatory
+ ’s Vocal Arts Department present the 14th annual holiday concert at the 
+ beautiful Sacred Heart Catholic Church in the North End\, featuring Italia
+ n songs\, arias\, and seasonal favorites.\nhttps://bostonconservatory.berk
+ lee.edu/events/14th-annual-italian-christmas-concert\nFrom Pushpin Boston:
+  https://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/14th-annual-italian-chris
+ tmas-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:0e6fcc81e743ee2f57b2adb8435e061f262fae08@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T010000Z
+DTEND:20261210T030000Z
+SUMMARY:Chamber Music Recital
+LOCATION:Boston Conservatory\, 132 Ipswich Street (Richard Ortner Studio Bu
+ ilding)\, Boston\, MA 02115
+DESCRIPTION:Studio 106\nBoston Conservatory at Berklee students perform cha
+ mber music works from all periods.\nhttps://bostonconservatory.berklee.edu
+ /events/chamber-music-recital-12-09\nFrom Pushpin Boston: https://pushpin.
+ city/
+URL:https://bostonconservatory.berklee.edu/events/chamber-music-recital-12-
+ 09
+END:VEVENT
+BEGIN:VEVENT
+UID:5151feb6fd91c63cd91f67488f35d1cd3a46308f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T010000Z
+DTEND:20261211T030000Z
+SUMMARY:Chamber Music Recital
+LOCATION:Boston Conservatory\, 132 Ipswich Street (Richard Ortner Studio Bu
+ ilding)\, Boston\, MA 02115
+DESCRIPTION:Studio 106\nBoston Conservatory at Berklee students perform cha
+ mber music works from all periods.\nhttps://bostonconservatory.berklee.edu
+ /events/chamber-music-recital-12-10\nFrom Pushpin Boston: https://pushpin.
+ city/
+URL:https://bostonconservatory.berklee.edu/events/chamber-music-recital-12-
+ 10
+END:VEVENT
+BEGIN:VEVENT
+UID:b0785478ddd300e34561577e24e34e4dc6164fd6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270205T003000Z
+DTEND:20270205T023000Z
+SUMMARY:Commercial Dance BFA Concert
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Boston Conservatory Theater\nBoston Conservatory’s commercial
+  dance majors perform world-premiere works choreographed by guest artists 
+ Alex Fetbroth\, Asiel Hardison\, and Reina Hidalgo\, and by faculty member
+ s Jun Kuribayashi and Lindsey Klein—plus a reconstruction of Bob Fosse
+ ’s masterpiece Dancin’ Man.\nhttps://bostonconservatory.berklee.edu/ev
+ ents/02-04-commercial-dance-bfa-concert\nFrom Pushpin Boston: https://push
+ pin.city/
+URL:https://bostonconservatory.berklee.edu/events/02-04-commercial-dance-bf
+ a-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:61e11063822cad774533fdee065d6d36d531464d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270206T003000Z
+DTEND:20270206T023000Z
+SUMMARY:Commercial Dance BFA Concert
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Boston Conservatory Theater\nBoston Conservatory’s commercial
+  dance majors perform world-premiere works choreographed by guest artists 
+ Alex Fetbroth\, Asiel Hardison\, and Reina Hidalgo\, and by faculty member
+ s Jun Kuribayashi and Lindsey Klein—plus a reconstruction of Bob Fosse
+ ’s masterpiece Dancin’ Man.\nhttps://bostonconservatory.berklee.edu/ev
+ ents/02-04-commercial-dance-bfa-concert\nFrom Pushpin Boston: https://push
+ pin.city/
+URL:https://bostonconservatory.berklee.edu/events/02-04-commercial-dance-bf
+ a-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:51a97d7719de92e1ecc09532ccfcc50faf9bd4cf@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270206T180000Z
+DTEND:20270206T200000Z
+SUMMARY:Commercial Dance BFA Concert
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Times: 1pm\, 7:30pm\nBoston Conservatory Theater\nBoston Conser
+ vatory’s commercial dance majors perform world-premiere works choreograp
+ hed by guest artists Alex Fetbroth\, Asiel Hardison\, and Reina Hidalgo\, 
+ and by faculty members Jun Kuribayashi and Lindsey Klein—plus a reconstr
+ uction of Bob Fosse’s masterpiece Dancin’ Man.\nhttps://bostonconserva
+ tory.berklee.edu/events/02-04-commercial-dance-bfa-concert\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/02-04-commercial-dance-bf
+ a-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:dd9897213b0ce0a353225d476cbb5883fe673c45@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270207T180000Z
+DTEND:20270207T200000Z
+SUMMARY:Commercial Dance BFA Concert
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Boston Conservatory Theater\nBoston Conservatory’s commercial
+  dance majors perform world-premiere works choreographed by guest artists 
+ Alex Fetbroth\, Asiel Hardison\, and Reina Hidalgo\, and by faculty member
+ s Jun Kuribayashi and Lindsey Klein—plus a reconstruction of Bob Fosse
+ ’s masterpiece Dancin’ Man.\nhttps://bostonconservatory.berklee.edu/ev
+ ents/02-04-commercial-dance-bfa-concert\nFrom Pushpin Boston: https://push
+ pin.city/
+URL:https://bostonconservatory.berklee.edu/events/02-04-commercial-dance-bf
+ a-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:df5a59aa7de7586f11c397dfccd47b11a637b4e5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270213T010000Z
+DTEND:20270213T030000Z
+SUMMARY:Boston Conservatory Opera Studio Presents: Opera Scenes
+LOCATION:Boston Conservatory\, 8 Fenway\, Boston\, MA 02215
+DESCRIPTION:Seully Hall\nThe Opera Studio at Boston Conservatory at Berklee
+  presents an evening of opera scenes from works spanning from the 18th cen
+ tury to modern day.\nhttps://bostonconservatory.berklee.edu/events/boston-
+ conservatory-opera-studio-presents-opera-scenes\nFrom Pushpin Boston: http
+ s://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/boston-conservatory-opera
+ -studio-presents-opera-scenes
+END:VEVENT
+BEGIN:VEVENT
+UID:283d4d7d192416321dc9d1d36b3ad900454dce05@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270214T010000Z
+DTEND:20270214T030000Z
+SUMMARY:Boston Conservatory Opera Studio Presents: Opera Scenes
+LOCATION:Boston Conservatory\, 8 Fenway\, Boston\, MA 02215
+DESCRIPTION:Seully Hall\nThe Opera Studio at Boston Conservatory at Berklee
+  presents an evening of opera scenes from works spanning from the 18th cen
+ tury to modern day.\nhttps://bostonconservatory.berklee.edu/events/boston-
+ conservatory-opera-studio-presents-opera-scenes\nFrom Pushpin Boston: http
+ s://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/boston-conservatory-opera
+ -studio-presents-opera-scenes
+END:VEVENT
+BEGIN:VEVENT
+UID:861967fce63d71476eadcf98de2b6cba4f91015b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270220T010000Z
+DTEND:20270220T030000Z
+SUMMARY:Artistry in Action: Faculty Chamber Music Series
+LOCATION:Boston Conservatory\, 8 Fenway\, Boston\, MA 02215
+DESCRIPTION:Seully Hall\nEsteemed faculty of Boston Conservatory at Berklee
+  perform Beethoven’s Quintet in E-flat for piano and winds\, Prokofiev
+ ’s Quintet in G Minor\, op. 39\, and more.\nhttps://bostonconservatory.b
+ erklee.edu/events/artistry-in-action-faculty-chamber-music-series02-19\nFr
+ om Pushpin Boston: https://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/artistry-in-action-facult
+ y-chamber-music-series02-19
+END:VEVENT
+BEGIN:VEVENT
+UID:ae57e24f6298fd94f169601cab1273e4114e0940@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270226T003000Z
+DTEND:20270226T023000Z
+SUMMARY:Marie Antoinette
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Boston Conservatory Theater\nDavid Adjmi’s play Marie Antoine
+ tte reimagines France’s most infamous queen through a striking contempor
+ ary lens\, drawing sharp parallels between eighteenth-century France and t
+ oday’s culture of fame\, consumption\, and spectacle.\nhttps://bostoncon
+ servatory.berklee.edu/events/i-marie-antoinette-i\nFrom Pushpin Boston: ht
+ tps://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/i-marie-antoinette-i
+END:VEVENT
+BEGIN:VEVENT
+UID:52eec5bc8ca42e370d7ae4ae3c23098ccee233fc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270227T003000Z
+DTEND:20270227T023000Z
+SUMMARY:Marie Antoinette
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Boston Conservatory Theater\nDavid Adjmi’s play Marie Antoine
+ tte reimagines France’s most infamous queen through a striking contempor
+ ary lens\, drawing sharp parallels between eighteenth-century France and t
+ oday’s culture of fame\, consumption\, and spectacle.\nhttps://bostoncon
+ servatory.berklee.edu/events/i-marie-antoinette-i\nFrom Pushpin Boston: ht
+ tps://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/i-marie-antoinette-i
+END:VEVENT
+END:VCALENDAR

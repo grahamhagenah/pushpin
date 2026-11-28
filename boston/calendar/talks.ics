@@ -1,0 +1,1060 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Art & talks
+X-WR-CALDESC:Art & talks around Boston\, Cambridge\, and Somerville\, from 
+ Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:81d837c9494ef4a93e37c7d0c1a78a77f8566590@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Places Known and Remembered: An Art Exhibition by Laura Gatzos
+LOCATION:West Roxbury Library
+DESCRIPTION:through Jan 2\nThis exhibit by Laura Gatzos\, contains depictio
+ ns of familiar and comforting scenes and places we encounter as New Englan
+ ders. From local parks to rural roads\, from museums to comforting scenes 
+ of home\, the paintings in this collection invoke a sense of nostalgia and
+  wonderment and assert that beauty and color are a form of self-care."\nht
+ tps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905b\nFrom Pushpin 
+ Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905b
+END:VEVENT
+BEGIN:VEVENT
+UID:7d5758eb299e2e480aaba6b9ba15c3c10c801bd4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T210000Z
+DTEND:20261130T230000Z
+SUMMARY:Chinese Americans in Science & Technology
+LOCATION:MIT\, 1 AMHERST ST\, Cambridge\, MA 02142
+DESCRIPTION:MIT-China presents the China Diaologue Series. Panelists Profes
+ sors Xiaoxing Xi and Gang Chen\, moderated by Professor Yasheng Huang\, wi
+ ll explore how professional achievement can intersect with heightened nati
+ onal-security considerations. Drawing on personal experiences and institut
+ ional perspectives\, the discussion will address evolving policies and the
+  broader implications for academia\, scientific research\, and internation
+ al collaboration.\nhttps://calendar.mit.edu/event/when-success-meets-suspi
+ cion-chinese-americans-in-science-technology\nFrom Pushpin Boston: https:/
+ /pushpin.city/
+URL:https://calendar.mit.edu/event/when-success-meets-suspicion-chinese-ame
+ ricans-in-science-technology
+END:VEVENT
+BEGIN:VEVENT
+UID:2f402c8bfcb56b59fcf2c08c49e7f2c08ddcfeed@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T230000Z
+DTEND:20261202T010000Z
+SUMMARY:SURGE: A Participatory Performance on Sea Level Rise
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Experience sea level rise through this interactive performance-
+ workshop that combines movement\, climate science\, and activism at the MI
+ T Museum.\nhttps://calendar.mit.edu/event/surge-a-participatory-performanc
+ e-on-sea-level-rise\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/surge-a-participatory-performance-on-sea
+ -level-rise
+END:VEVENT
+BEGIN:VEVENT
+UID:829a4c7aef31f75d10be478fd5fdda1654c0cb74@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T180000Z
+DTEND:20261202T200000Z
+SUMMARY:Presses\, Plates\, and Propaganda: 18th-Century Print Culture in th
+ e Americas
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/presses-plates-and-propaganda
+ -18th-century-print-culture-in-the-americas?event=178431\nFrom Pushpin Bos
+ ton: https://pushpin.city/
+URL:https://www.mfa.org/event/lecture/presses-plates-and-propaganda-18th-ce
+ ntury-print-culture-in-the-americas?event=178431
+END:VEVENT
+BEGIN:VEVENT
+UID:243b6864273306a1b84739dfa8f332514bd2d223@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T203000Z
+DTEND:20261202T223000Z
+SUMMARY:Book Signing: Leslie Guity
+LOCATION:Shaw-Roxbury Library\, 149 Dudley Street\, Roxbury\, MA 02119
+DESCRIPTION:Author talk with Leslie Guity of Orangesticity\, author of I Am
+  Extraordinary! Join us for snacks\, books\, and conversation.\nhttps://bp
+ l.bibliocommons.com/events/6b05d7f95ce6ca0041ec395f\nFrom Pushpin Boston: 
+ https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6b05d7f95ce6ca0041ec395f
+END:VEVENT
+BEGIN:VEVENT
+UID:7642acb76f6c75d0db757a6a96342ad31e1e898c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T230000Z
+DTEND:20261203T010000Z
+SUMMARY:Author Talk: Carlton Champian - Notes to My Father
+LOCATION:Adams Street Library\, 690 Adams Street\, Dorchester\, MA 02122
+DESCRIPTION:Join Boston author Carlton Champian for a reading and conversat
+ ion centered on Notes to My Father\, a personal collection exploring fathe
+ rhood\, absence\, grief\, and healing.\nhttps://bpl.bibliocommons.com/even
+ ts/6aee234e9dbc2b002c93d361\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aee234e9dbc2b002c93d361
+END:VEVENT
+BEGIN:VEVENT
+UID:2b40ef3265b5af34a850a5c69a7e9627cc958509@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T220000Z
+DTEND:20261204T000000Z
+SUMMARY:Author Ted Chiang in Conversation with MIT President Sally Kornblut
+ h
+LOCATION:MIT\, 160 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:Join us for a special conversation with author Ted Chiang and M
+ IT President Sally Kornbluth about Exhalation. President Kornbluth has cho
+ sen Chiang’s celebrated science fiction short story collection to celebr
+ ate 10 years of MIT Reads. Exploring the book’s provocative questions ab
+ out technology and humanity\, their discussion will focus on the stories "
+ The Truth of Fact\, the Truth of Feeling\,” "The Lifecycle of Software O
+ bjects\,” “Omphalos\,” “What’s Expected of Us\," and "Exhalation
+ ."\nhttps://calendar.mit.edu/event/author-ted-chiang-in-conversation-with-
+ mit-president-sally-kornbluth\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/author-ted-chiang-in-conversation-with-m
+ it-president-sally-kornbluth
+END:VEVENT
+BEGIN:VEVENT
+UID:bebc3b00ad36e5bc36e0c7be0a6816f3939b486d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:AI and the Future of Filmmaking
+LOCATION:MIT\, 345 Vassar Street\, Cambridge\, MA 02139
+DESCRIPTION:W97-160 · December 3 · Lecture and Discussion – 6-7.30p\nht
+ tps://calendar.mit.edu/event/ai-and-the-future-of-filmmaking\nFrom Pushpin
+  Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/ai-and-the-future-of-filmmaking
+END:VEVENT
+BEGIN:VEVENT
+UID:848d6bf9364df230629e8c7e53e985382175164e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:Meriem Chabani. Communion It is embarrassing to believe. It is terr
+ ifying to care. What happens when we dare anyway?
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Algerian born\, Paris based Meriem Chabani is the founder and P
+ rincipal of NEW SOUTH\, an award-winning architecture\, urban planning and
+  anthropology practice that puts the margin at the center. Her work on civ
+ ic spaces\, memory and belonging includes the Taungdwingyi cultural center
+  in Myanmar\, the Globe Aroma refugee art center in Brussels\, and the upc
+ oming Mosque Zero in Paris. She is currently a finalist for the National S
+ lavery Museum in Amsterdam. As an educator\, Chabani has taught and lectur
+ ed extensively. She has notably served as Aga Khan Design Critic in Archit
+ ecture at Harvard GSD (USA)\, and currently teaches at Ecole Paris Malaqua
+ is (FR). Her work has regularly been distinguished and showcased at a numb
+ er of international architecture Biennials\, including Venice\, Istanbul\,
+  Oslo and Lagos. In 2020 Chabani won the Europe 40 under 40 award from The
+  European Centre for Architecture and The Chicago Athenaeum. In 2023\, she
+  is one of the emerging women architects for AMC. In 2025\, Le Monde names
+  her one of the leading voices in culture in France.\nhttps://calendar.mit
+ .edu/event/meriem-chabani-communion-it-is-embarrassing-to-believe-it-is-te
+ rrifying-to-care-what-happens-when-we-dare-anyway\nFrom Pushpin Boston: ht
+ tps://pushpin.city/
+URL:https://calendar.mit.edu/event/meriem-chabani-communion-it-is-embarrass
+ ing-to-believe-it-is-terrifying-to-care-what-happens-when-we-dare-anyway
+END:VEVENT
+BEGIN:VEVENT
+UID:9f1f79d26cbab18b29c211c648727b54eeacb8f1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:New South—Meriem Chabani
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Part of the MIT Fall 2026 Architecture Lecture Series.\nhttps:/
+ /calendar.mit.edu/event/new-southmeriem-chabani\nFrom Pushpin Boston: http
+ s://pushpin.city/
+URL:https://calendar.mit.edu/event/new-southmeriem-chabani
+END:VEVENT
+BEGIN:VEVENT
+UID:9e993b79f7750139a7008e8bcd8d89f15754f471@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Mo Rocca’s Variety Pack Approach to Living
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity
+ -lectures/mo-roccas-variety-pack-approach-to-living?event=178931\nFrom Pus
+ hpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity-lecture
+ s/mo-roccas-variety-pack-approach-to-living?event=178931
+END:VEVENT
+BEGIN:VEVENT
+UID:b51fe8f0741cd41e8836c0413d6c24bd649677fe@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T180000Z
+DTEND:20261204T200000Z
+SUMMARY:Charla En El Grupo De Lectura
+LOCATION:Connolly Library\, 433 Centre St\, Jamaica Plain\, MA 02130
+DESCRIPTION:La mula ciega por Karen Castañeda Una historia inspirada en ac
+ ontecimientos reales enlaza tres vidas como consecuencia de un plan monstr
+ uoso creado por un crimen organizado. Un malhechor\, una madre soltera y u
+ na mujer arrepentida desarrollan una trama llena de ambición\, dolor y ju
+ sticia. La aventura de María la lleva a destapar un caso terrorífico que
+  conmocionó todos los niveles políticos y sociales en las comunidades fr
+ onterizas de El Paso\, Texas\, y Ciudad Juárez En esta charla vamos a exp
+ lorar una conversación sobre la frontera\, la resiliencia\, la injusticia
+  constitucional y la importancia de contar historias que nacen de nuestra 
+ comunidad y en nuestra lenguas. Después\, tendremos una sesión de pregun
+ tas para conversar directamente con la autora.\nhttps://bpl.bibliocommons.
+ com/events/6aea362b035faf0033e12533\nFrom Pushpin Boston: https://pushpin.
+ city/
+URL:https://bpl.bibliocommons.com/events/6aea362b035faf0033e12533
+END:VEVENT
+BEGIN:VEVENT
+UID:2c11ad8d34d90e0e98ff2ca00c544acca90f7abc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T220000Z
+DTEND:20261205T000000Z
+SUMMARY:First Friday
+LOCATION:SoWa\, 450 Harrison Ave\, Boston\, MA 02118
+DESCRIPTION:On the First Friday of every month\, the artists\, galleries\, 
+ shops and showrooms of the SoWa Art + Design District in the South End ope
+ n their doors to the public for an evening of art\, culture and inspiratio
+ n. Meet the artists in their element\, view the latest gallery exhibitions
+ \, shop small\, and dine at one of SoWa’s world-class restaurants.\nhttp
+ s://www.sowaboston.com/event/first-friday-40/\nFrom Pushpin Boston: https:
+ //pushpin.city/
+URL:https://www.sowaboston.com/event/first-friday-40/
+END:VEVENT
+BEGIN:VEVENT
+UID:a2a0120da3f90532db1441698aff72e4251b0dac@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T230000Z
+DTEND:20261205T010000Z
+SUMMARY:First Fridays
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/mfa-first-fridays?event
+ =179356\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/special-event/mfa-first-fridays?event=179356
+END:VEVENT
+BEGIN:VEVENT
+UID:f8f0d6eee84ce4ec6a16170c0ab3c1aecfab5912@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T230000Z
+DTEND:20261205T010000Z
+SUMMARY:First Fridays: Made with Love
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:`Tis the season to celebrate local art and artists! Enjoy live 
+ performances and installations by the innovative artists recognized by WBU
+ R’s annual series\, “The Makers.” And get inspired by our 90 YEARS e
+ xhibition upstairs in the galleries!\nhttps://www.icaboston.org/events/fir
+ st-friday-made-with-love/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/first-friday-made-with-love/
+END:VEVENT
+BEGIN:VEVENT
+UID:ba9ca06725dc6088882f5fc78de526d2a425d9c9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:MFA Musical Theater Vocal Pedagogy Showcase—“God\, That’s Goo
+ d!: Songs of Stephen Sondheim”
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02215
+DESCRIPTION:Studio T401 (Boston Conservatory at Berklee)\nJoin the MFA Musi
+ cal Theatre Vocal Pedagogy students for the fall 2026 showcase\, "God\, Th
+ at’s Good!: Songs of Stephen Sondheim”\, stage directed by Danny Pelzi
+ g and music directed by Scott Nicholas.\nhttps://bostonconservatory.berkle
+ e.edu/events/mfa-musical-theater-vocal-pedagogy-showcase\nFrom Pushpin Bos
+ ton: https://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/mfa-musical-theater-vocal
+ -pedagogy-showcase
+END:VEVENT
+BEGIN:VEVENT
+UID:c0478f1657fd0ec78e1fe06fabbacf6159cf96df@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T180000Z
+DTEND:20261205T200000Z
+SUMMARY:90 YEARS Exhibition Tour
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Engage with nine decades of ICA history during a guided tour of
+  90 YEARS. Led by a Graduate Student Lecturer\, deepen your understanding 
+ of exhibition artists and themes through guided close looking and discussi
+ on.\nhttps://www.icaboston.org/events/90-years-exhibition-tour/\nFrom Push
+ pin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/90-years-exhibition-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:f4ad39c2415d497c8e67c44ee5a9f133e64a1592@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T180000Z
+DTEND:20261205T200000Z
+SUMMARY:Senior Choreographers Concert: REVERENCE
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Times: 1pm\, 7:30pm\nBoston Conservatory Theater\nREVERENCE wil
+ l showcase 16 contemporary dance seniors' original choreographic works. Th
+ is show is the culmination of four years of dedication and growth in chore
+ ography\, and features a vast array of styles and themes.\nhttps://bostonc
+ onservatory.berklee.edu/events/senior-choreographers-concert-reverence\nFr
+ om Pushpin Boston: https://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/senior-choreographers-con
+ cert-reverence
+END:VEVENT
+BEGIN:VEVENT
+UID:a113775217db180434138a7bf4924c9d5b456e05@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Author Talk: Paul Lewis — Quothing "The Raven"
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Boston College Professor Emeritus Paul Lewis leads a discussion
+  of his new book\, Quothing "The Raven": The First Responses to America's 
+ Most Famous Poem.\nhttps://bpl.bibliocommons.com/events/6a8f3fed29a7dd0d67
+ 46ddcb\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6a8f3fed29a7dd0d6746ddcb
+END:VEVENT
+BEGIN:VEVENT
+UID:a8dbaf5ea1f49677760857299d32647a1fc88894@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Brighton on Atlascope: Exploring the Urban History of Brighton thro
+ ugh Maps
+LOCATION:Brighton Library\, 40 Academy Hill Rd\, Brighton\, MA 02135
+DESCRIPTION:How has the landscape of Brighton changed over time? How can yo
+ u use digital map collections to investigate the history of a house\, a ne
+ ighborhood\, or a city? How can the stories of places open up new perspect
+ ives on the past and present?\nhttps://bpl.bibliocommons.com/events/6acfc8
+ 6529c3d600332fe56f\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6acfc86529c3d600332fe56f
+END:VEVENT
+BEGIN:VEVENT
+UID:eb6618106603525b65b9cc03e25d33891bc4f386@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Royal Portraiture of Amenhotep III at Thebes
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/barbara-w-herman-memorial-lecture/roy
+ al-portraiture-of-amenhotep-iii-at-thebes?event=179111\nFrom Pushpin Bosto
+ n: https://pushpin.city/
+URL:https://www.mfa.org/event/barbara-w-herman-memorial-lecture/royal-portr
+ aiture-of-amenhotep-iii-at-thebes?event=179111
+END:VEVENT
+BEGIN:VEVENT
+UID:e7af131357ccf4cb8f7e091980fd53b505536914@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T150000Z
+DTEND:20261206T170000Z
+SUMMARY:Hanukkah
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/hanukkah?event=6043\nFr
+ om Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/special-event/hanukkah?event=6043
+END:VEVENT
+BEGIN:VEVENT
+UID:be84058f5d77ba5e6d1a09ab138400804a3fff30@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T180000Z
+DTEND:20261206T200000Z
+SUMMARY:Senior Choreographers Concert: REVERENCE
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Boston Conservatory Theater\nREVERENCE will showcase 16 contemp
+ orary dance seniors' original choreographic works. This show is the culmin
+ ation of four years of dedication and growth in choreography\, and feature
+ s a vast array of styles and themes.\nhttps://bostonconservatory.berklee.e
+ du/events/senior-choreographers-concert-reverence\nFrom Pushpin Boston: ht
+ tps://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/senior-choreographers-con
+ cert-reverence
+END:VEVENT
+BEGIN:VEVENT
+UID:430dbdb7f6d6087527badb625231a6a7f232cf50@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261207T003000Z
+DTEND:20261207T023000Z
+SUMMARY:Ezekiel's Wheels & ZACHOR Dance Projects
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ ezekiels-wheels-linsky-fy27/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/ezekiels-wheels-linsky-f
+ y27/
+END:VEVENT
+BEGIN:VEVENT
+UID:a774b567a747394b50ecc903b964ab7228fa5e40@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261207T230000Z
+DTEND:20261208T010000Z
+SUMMARY:Opera Night at the BPL: Songs of Light and Liberation: An Explorati
+ on of Many Faiths Through Music
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:In a season when many traditions gather around light\, hope\, a
+ nd the promise of freedom\, Boston Lyric Opera returns to the Boston Publi
+ c Library for an evening of music drawn from different faiths and shared h
+ uman stories.\nhttps://bpl.bibliocommons.com/events/6af88f47e5605400508c9a
+ ae\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af88f47e5605400508c9aae
+END:VEVENT
+BEGIN:VEVENT
+UID:d08ffcbd876ed17257bb272bc7508d711a74710d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261208T230000Z
+DTEND:20261209T010000Z
+SUMMARY:Author Talk: Steven Levitsky — How Democracies Die
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Author Steven Levitsky discusses his New York Times bestselling
+  nonfiction book\, How Democracies Die.\nhttps://bpl.bibliocommons.com/eve
+ nts/6ae24987198b996a80a93ffb\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6ae24987198b996a80a93ffb
+END:VEVENT
+BEGIN:VEVENT
+UID:4b07248f917aeb4e0578a14afddd23d6f94fc3f3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T173000Z
+DTEND:20261209T193000Z
+SUMMARY:State of the Library with BPL President David Leonard
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join Boston Public Library President David Leonard for the Stat
+ e of the Library.\nhttps://bpl.bibliocommons.com/events/6aeba3569d27a00045
+ 55bdf9\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aeba3569d27a0004555bdf9
+END:VEVENT
+BEGIN:VEVENT
+UID:712ae9a5cbf13ec6c77717dc4d601c8980496b85@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T180000Z
+DTEND:20261209T200000Z
+SUMMARY:Representations of Liberty in American Folk Art
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/lecture/representations-of-liberty-in
+ -american-folk-art?event=178441\nFrom Pushpin Boston: https://pushpin.city
+ /
+URL:https://www.mfa.org/event/lecture/representations-of-liberty-in-america
+ n-folk-art?event=178441
+END:VEVENT
+BEGIN:VEVENT
+UID:801c80acb556e5294395f94911ee52a65ee2ff5e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T223000Z
+DTEND:20261210T003000Z
+SUMMARY:Casse-Noisette: A Holiday Tale in Music
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:The Arpeggione Ensemble presents a magical mini Nutcracker: Tch
+ aikovsky's music paired with French narration and illustrations from Dumas
+ 's Histoire d'un casse-noisette.\nhttps://frenchlibrary.org/events/french_
+ nutcracker-2026/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://frenchlibrary.org/events/french_nutcracker-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:e380ec30980d13c3cf13fcffa81f5f3a4816da78@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T233000Z
+DTEND:20261210T013000Z
+SUMMARY:Author Talk: Jason Allison—The Killing Yards
+LOCATION:South End Library\, 685 Tremont St\, Boston\, MA 02118
+DESCRIPTION:The Fall 2026 Author Talk Series\, presented by the Friends of 
+ the South End Library\, will wrap up with Jason Allison sharing his debut 
+ novel\, The Killing Yards. Please join us on Wednesday\, December 9 starti
+ ng at 6:30 pm at Union Church (Connection Room\, 485 Columbus Ave.) for a 
+ fun and lively conversation in this author talk series!\nhttps://bpl.bibli
+ ocommons.com/events/6aa9a8c9a5dbde002aa4cafc\nFrom Pushpin Boston: https:/
+ /pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aa9a8c9a5dbde002aa4cafc
+END:VEVENT
+BEGIN:VEVENT
+UID:e8c44d9dbc357434aa5bd024c27b28cb3f372eed@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T170000Z
+DTEND:20261210T190000Z
+SUMMARY:Author Talk: Cotten Seiler on “White Care”
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join Dickinson College professor Cotten Seiler for a conversati
+ on about his new book\, White Care. The book discusses how few of us\, goi
+ ng about our daily lives\, notice the infrastructure that surrounds us and
+  makes those lives possible. What also remains hidden in plain sight is ho
+ w public infrastructure in the United States has been shaped by theories o
+ f race and human evolution. Cotten Seiler’s White Care shows that\, from
+  the late 1800s to the present\, expert assessments of the quality of the 
+ national population have both driven and thwarted the state’s provision 
+ of infrastructures of water\, sanitation\, energy\, transportation\, recre
+ ation\, and education. If a nation’s infrastructure is a concrete measur
+ e of its belief in its population’s future\, what does the current state
+  of American infrastructure say about us?\nhttps://bpl.bibliocommons.com/e
+ vents/6aea33f296ec3a003adf1244\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aea33f296ec3a003adf1244
+END:VEVENT
+BEGIN:VEVENT
+UID:92111c10dc86103a05a4b33d0f7e4bc52bb24573@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T183000Z
+DTEND:20261210T203000Z
+SUMMARY:Art in Motion
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:Times: 1:30pm\, 3:30pm\nhttps://www.mfa.org/event/special-event
+ /art-in-motion?event=183101\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/special-event/art-in-motion?event=183101
+END:VEVENT
+BEGIN:VEVENT
+UID:dcb5f8191963d2182e1bdbb3fd2ed4d8d9423a63@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T230000Z
+DTEND:20261211T010000Z
+SUMMARY:After Dark: The Twilight Zone
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Ready to meet some seriously weird creatures? Venture into the 
+ ocean's shadowy depths and discover the research happening in our ocean’
+ s Twilight Zone.\nhttps://calendar.mit.edu/event/after-dark-the-twilight-z
+ one\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/after-dark-the-twilight-zone
+END:VEVENT
+BEGIN:VEVENT
+UID:8ea7d418ff767b63f49a90a11502f2b5c1feda96@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T230000Z
+DTEND:20261211T010000Z
+SUMMARY:Book Launch & Author Talk: Michelle A. Gabow & Kate Rushin
+LOCATION:Jamaica Plain Library\, 30 South Street\, Jamaica Plain\, MA 02130
+DESCRIPTION:Michelle A. Gabow (playwright and author) will launch her fourt
+ h novel\, a simple queer incorrigible heartbreaking miraculous life\, an i
+ ntrospective work that exists in the space between fiction\, memoir and pr
+ ose poetry\, exploring aging\, grief\, memory and falling in love at any a
+ ge.\nhttps://bpl.bibliocommons.com/events/6af88e68e14c170074fef264\nFrom P
+ ushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af88e68e14c170074fef264
+END:VEVENT
+BEGIN:VEVENT
+UID:b2e47d7d5bc20521ad2c229ff4a5a64d7bce01e9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:The Inevitable Return: Exploding Plastic Revisited
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:On October 29\, 1966\, the ICA/Boston hosted a groundbreaking m
+ ultimedia performance by Andy Warhol and the Velvet Underground under the 
+ enigmatic title “Exploding Plastic Inevitable.” Presented as part of W
+ arhol’s second-ever museum exhibition\, the event invited audiences to e
+ xperience a cacophony of durational light and sound activations\, meant to
+  challenge any expectations of instant pleasure or gratification. The Velv
+ et Underground had become well-known for their dark\, minimalist\, and occ
+ asionally abrasive sound. Among Warhol’s goals for the piece were to exp
+ lore the capacity to bestow renewed interest upon details that are often s
+ ubmerged in the normative\, evenly lit flow of time. In addition to live m
+ usic\, the night consisted of film projections\, a variety of strobe and s
+ potlights\, and choreographed dance\, to create a singular\, and confronta
+ tional\, total-art experience.\nhttps://www.icaboston.org/events/the-inevi
+ table-return-exploding-plastic-revisited/\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://www.icaboston.org/events/the-inevitable-return-exploding-plasti
+ c-revisited/
+END:VEVENT
+BEGIN:VEVENT
+UID:8f5307e391fca3a230f1243298589829dc48873f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T010000Z
+DTEND:20261212T030000Z
+SUMMARY:Subject:Matter
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ subjectmatter-fy27/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/subjectmatter-fy27/
+END:VEVENT
+BEGIN:VEVENT
+UID:9677c0db64180c2e333cafc939cbf3cf36d74306@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T183000Z
+DTEND:20261212T203000Z
+SUMMARY:The Art of Looking: Netherlandish Paintings at the MIT Museum
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Did you know the MIT Museum has a remarkable\, but little-known
+  collection of seventeenth-century Netherlandish art?\nhttps://calendar.mi
+ t.edu/event/the-art-of-looking-netherlandish-paintings-at-the-mit-museum\n
+ From Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/the-art-of-looking-netherlandish-paintin
+ gs-at-the-mit-museum
+END:VEVENT
+BEGIN:VEVENT
+UID:7a25715dbf25c9c42f24d6aeb0c5b7e28df50a4d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:Subject:Matter
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ subjectmatter-fy27/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/subjectmatter-fy27/
+END:VEVENT
+BEGIN:VEVENT
+UID:87a5d8cd14ae81be5b1a99733b96b093ab7069d6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T190000Z
+DTEND:20261213T210000Z
+SUMMARY:Gallery Talk: Ruth Erickson on Leilah Babirye: Embaga ya Naki ne Na
+ ki (Wedding of Naki and Naki)
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:You’re invited to Leilah Babirye: Embaga ya Naki ne Naki (Wed
+ ding of Naki and Naki)!\nhttps://www.icaboston.org/events/gallery-talk-rut
+ h-erickson-on-leilah-babirye-embaga-ya-naki-ne-naki-wedding-of-naki-and-na
+ ki/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/gallery-talk-ruth-erickson-on-leilah-b
+ abirye-embaga-ya-naki-ne-naki-wedding-of-naki-and-naki/
+END:VEVENT
+BEGIN:VEVENT
+UID:bf1b5f1bc594f3e9380d195b09afe11d41a0d526@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261217T150000Z
+DTEND:20261217T170000Z
+SUMMARY:Water Lines: Architecture at the Edge Exhibition Opens
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Through a selection of MIT student thesis drawings\, Water Line
+ s: Architecture at the Edge explores how aspiring architects have approach
+ ed the unique challenges and opportunities of designing in waterfront zone
+ s\, and how architectural design has responded to shifting social prioriti
+ es and environmental challenges over 150 years.\nhttps://calendar.mit.edu/
+ event/water-lines-architecture-at-the-edge-exhibition-opens\nFrom Pushpin 
+ Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/water-lines-architecture-at-the-edge-exh
+ ibition-opens
+END:VEVENT
+BEGIN:VEVENT
+UID:5d9db6e2907e5b41108184039c14bc2e648db3ea@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261217T220000Z
+DTEND:20261218T000000Z
+SUMMARY:$5 Third Thursday
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/5-third-thursday-decemb
+ er-2026?event=182531\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/special-event/5-third-thursday-december-2026?
+ event=182531
+END:VEVENT
+BEGIN:VEVENT
+UID:1053abf53045a1bbfc1bc18b3bca43362048a478@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261229T230000Z
+DTEND:20261230T010000Z
+SUMMARY:Author Talk: Carlton Champian - Notes to My Father
+LOCATION:Mattapan Library\, 1350 Blue Hill Ave\, Mattapan\, MA 02126
+DESCRIPTION:What happens when a father’s absence becomes part of who you 
+ are? Join Boston-area author Carlton Champian for a reading and discussion
+  of his book\, Notes to My Father\, a deeply personal exploration of fathe
+ rhood\, abandonment\, identity\, and the journey of confronting what we in
+ herit.\nhttps://bpl.bibliocommons.com/events/6aea3330035faf0033e12227\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aea3330035faf0033e12227
+END:VEVENT
+BEGIN:VEVENT
+UID:8c14f684ad1aae2d309c8c09279b1037c1c44dfc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261231T170000Z
+DTEND:20261231T190000Z
+SUMMARY:First Night: Special Collections Open House
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join us for a New Year's Eve open house featuring historic maps
+  and photos of Back Bay and the Central Library in the McKim Exhibition Ha
+ ll. Co-sponsored by the Boston Public Library Special Collections and Leve
+ nthal Map and Education Center.\nhttps://bpl.bibliocommons.com/events/6adf
+ ab3f035faf0033df24dc\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6adfab3f035faf0033df24dc
+END:VEVENT
+BEGIN:VEVENT
+UID:6045e6938be042385d9cc85c96591794455e5491@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Gallery Talk: Cynthia Daignault with Jeffrey De Blois on Cynthia Da
+ ignault: Valley
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Join exhibiting artist Cynthia Daignault and Mannion Family Cur
+ ator\, Jeff De Blois\, for a conversation exploring Cynthia Daignault: Val
+ ley. Learn from the artist about her process of “long-form painting” a
+ nd the undertaking of creating a painting a day for this monumental 96 pan
+ el installation.\nhttps://www.icaboston.org/events/gallery-talk-cynthia-da
+ ignault-with-jeffrey-de-blois/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/gallery-talk-cynthia-daignault-with-je
+ ffrey-de-blois/
+END:VEVENT
+BEGIN:VEVENT
+UID:783e2409a4049f26b26394f8d656c3b6a23b2689@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270118T150000Z
+DTEND:20270118T170000Z
+SUMMARY:MLK Day
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/open-house/mlk-day?event=152991\nFrom
+  Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/open-house/mlk-day?event=152991
+END:VEVENT
+BEGIN:VEVENT
+UID:bd7bbee85d1992689de925b74b5caf325009f457@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Andrew Schneider: NOWISWHENWEARE (the stars)
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Every point in space occurs once at each moment in time.\nhttps
+ ://www.icaboston.org/events/andrew-schneider-nowiswhenweare-the-stars/\nFr
+ om Pushpin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/andrew-schneider-nowiswhenweare-the-st
+ ars/
+END:VEVENT
+BEGIN:VEVENT
+UID:f32259e404c920d42753cdee896c362e01ea7477@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270121T233000Z
+DTEND:20270122T013000Z
+SUMMARY:The Point: Villains\, Power\, and the Human Condition
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/the-point-villains-power-and-the-
+ human-condition/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artsemerson.org/event/the-point-villains-power-and-the-human-co
+ ndition/
+END:VEVENT
+BEGIN:VEVENT
+UID:675c96c918d40a178691f1ed04ae20418ac48b4c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270126T233000Z
+DTEND:20270127T013000Z
+SUMMARY:The Moth: Boston StorySLAM
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Join us the fourth Tuesday of each month for the Boston Moth St
+ orySLAM! This community-focused\, open-mic storytelling competition is ope
+ n to anyone can share a story on the night’s theme (changes every month)
+ .\nhttps://artsatthearmory.org/events/the-moth-boston-storyslam-2027-01-26
+ /\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artsatthearmory.org/events/the-moth-boston-storyslam-2027-01-26
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:14ae4f4079399b982cac482af061f6ffd54205e4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270128T230000Z
+DTEND:20270129T010000Z
+SUMMARY:Author Talk and Reading: Rob Quinn
+LOCATION:Hyde Park Library\, 35 Harvard Ave\, Hyde Park\, MA 02136
+DESCRIPTION:On the Other Side of the Street is Rob Quinn’s account of liv
+ ing through HIV\, serious illness\, addiction\, and the loss of a career a
+ nd identity he valued. Through the image of a street crossing\, he explore
+ s recognizing change\, accepting support\, and beginning again. Each chapt
+ er includes reflection questions and a self-care activity. At the reading\
+ , Rob will share passages and invite a community conversation about the cr
+ ossings in our own lives.\nhttps://bpl.bibliocommons.com/events/6abbc1e3eb
+ ad22004541bd03\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6abbc1e3ebad22004541bd03
+END:VEVENT
+BEGIN:VEVENT
+UID:b331966e15af5378f1e236094d8653a0ddfd5d11@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270130T010000Z
+DTEND:20270130T030000Z
+SUMMARY:Cirque Kalabanté
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ cirque-kabalante-afrique-en-cirque/\nFrom Pushpin Boston: https://pushpin.
+ city/
+URL:https://www.theplatformkendall.org/productions/cirque-kabalante-afrique
+ -en-cirque/
+END:VEVENT
+BEGIN:VEVENT
+UID:109e127ffa374912e71eb48bbe15a2f94e552764@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270131T010000Z
+DTEND:20270131T030000Z
+SUMMARY:Cirque Kalabanté
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ cirque-kabalante-afrique-en-cirque/\nFrom Pushpin Boston: https://pushpin.
+ city/
+URL:https://www.theplatformkendall.org/productions/cirque-kabalante-afrique
+ -en-cirque/
+END:VEVENT
+BEGIN:VEVENT
+UID:18dc519e483b9613845b1ad9010250193242f3bc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270131T200000Z
+DTEND:20270131T220000Z
+SUMMARY:Cirque Kalabanté
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ cirque-kabalante-afrique-en-cirque/\nFrom Pushpin Boston: https://pushpin.
+ city/
+URL:https://www.theplatformkendall.org/productions/cirque-kabalante-afrique
+ -en-cirque/
+END:VEVENT
+BEGIN:VEVENT
+UID:b3ff3e1d564a925457683f86d35bd7e517587fd5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270202T173000Z
+DTEND:20270202T193000Z
+SUMMARY:Gallery Talk: Redlining and the Visual Culture of Suburbia
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Join Krystle Brown for a discussion of redlining and the visual
+  construction of the American suburb through postwar photography.\nhttps:/
+ /harvardartmuseums.org/event/4160\nFrom Pushpin Boston: https://pushpin.ci
+ ty/
+URL:https://harvardartmuseums.org/event/4160
+END:VEVENT
+BEGIN:VEVENT
+UID:9ab30429120dc76b7ad10088ef8865fc7773b35b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270205T000000Z
+DTEND:20270205T020000Z
+SUMMARY:Joan Jonas in Conversation with Carmen Hermo
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/smfa-at-tufts-leo-and-betty-beckwith-
+ lecture/joan-jonas-in-conversation-with-carmen-hermo?event=183671\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/smfa-at-tufts-leo-and-betty-beckwith-lecture/
+ joan-jonas-in-conversation-with-carmen-hermo?event=183671
+END:VEVENT
+BEGIN:VEVENT
+UID:b0785478ddd300e34561577e24e34e4dc6164fd6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270205T003000Z
+DTEND:20270205T023000Z
+SUMMARY:Commercial Dance BFA Concert
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Boston Conservatory Theater\nBoston Conservatory’s commercial
+  dance majors perform world-premiere works choreographed by guest artists 
+ Alex Fetbroth\, Asiel Hardison\, and Reina Hidalgo\, and by faculty member
+ s Jun Kuribayashi and Lindsey Klein—plus a reconstruction of Bob Fosse
+ ’s masterpiece Dancin’ Man.\nhttps://bostonconservatory.berklee.edu/ev
+ ents/02-04-commercial-dance-bfa-concert\nFrom Pushpin Boston: https://push
+ pin.city/
+URL:https://bostonconservatory.berklee.edu/events/02-04-commercial-dance-bf
+ a-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:4f05b02cf75030f34268ec35cbc7b853fe3f3b89@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270205T230000Z
+DTEND:20270206T010000Z
+SUMMARY:First Fridays
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/mfa-first-fridays?event
+ =182476\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/special-event/mfa-first-fridays?event=182476
+END:VEVENT
+BEGIN:VEVENT
+UID:61e11063822cad774533fdee065d6d36d531464d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270206T003000Z
+DTEND:20270206T023000Z
+SUMMARY:Commercial Dance BFA Concert
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Boston Conservatory Theater\nBoston Conservatory’s commercial
+  dance majors perform world-premiere works choreographed by guest artists 
+ Alex Fetbroth\, Asiel Hardison\, and Reina Hidalgo\, and by faculty member
+ s Jun Kuribayashi and Lindsey Klein—plus a reconstruction of Bob Fosse
+ ’s masterpiece Dancin’ Man.\nhttps://bostonconservatory.berklee.edu/ev
+ ents/02-04-commercial-dance-bfa-concert\nFrom Pushpin Boston: https://push
+ pin.city/
+URL:https://bostonconservatory.berklee.edu/events/02-04-commercial-dance-bf
+ a-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:51a97d7719de92e1ecc09532ccfcc50faf9bd4cf@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270206T180000Z
+DTEND:20270206T200000Z
+SUMMARY:Commercial Dance BFA Concert
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Times: 1pm\, 7:30pm\nBoston Conservatory Theater\nBoston Conser
+ vatory’s commercial dance majors perform world-premiere works choreograp
+ hed by guest artists Alex Fetbroth\, Asiel Hardison\, and Reina Hidalgo\, 
+ and by faculty members Jun Kuribayashi and Lindsey Klein—plus a reconstr
+ uction of Bob Fosse’s masterpiece Dancin’ Man.\nhttps://bostonconserva
+ tory.berklee.edu/events/02-04-commercial-dance-bfa-concert\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/02-04-commercial-dance-bf
+ a-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:df9b277edf3595933d3657982873fc500037386a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270207T150000Z
+DTEND:20270207T170000Z
+SUMMARY:Lunar New Year
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/lunar-new-year?event=15
+ 2996\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/special-event/lunar-new-year?event=152996
+END:VEVENT
+BEGIN:VEVENT
+UID:dd9897213b0ce0a353225d476cbb5883fe673c45@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270207T180000Z
+DTEND:20270207T200000Z
+SUMMARY:Commercial Dance BFA Concert
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Boston Conservatory Theater\nBoston Conservatory’s commercial
+  dance majors perform world-premiere works choreographed by guest artists 
+ Alex Fetbroth\, Asiel Hardison\, and Reina Hidalgo\, and by faculty member
+ s Jun Kuribayashi and Lindsey Klein—plus a reconstruction of Bob Fosse
+ ’s masterpiece Dancin’ Man.\nhttps://bostonconservatory.berklee.edu/ev
+ ents/02-04-commercial-dance-bfa-concert\nFrom Pushpin Boston: https://push
+ pin.city/
+URL:https://bostonconservatory.berklee.edu/events/02-04-commercial-dance-bf
+ a-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:02bba3db70facdb013f0ceb05b9881e5f13387e5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270212T003000Z
+DTEND:20270212T023000Z
+SUMMARY:WAKE
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/wake-4/\nFrom Pushpin Boston: htt
+ ps://pushpin.city/
+URL:https://artsemerson.org/event/wake-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:185648ebf751ed661d777028d4dbef4d0fbe68da@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270213T010000Z
+DTEND:20270213T030000Z
+SUMMARY:WAKE
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/wake/\nFrom Pushpin Boston: https
+ ://pushpin.city/
+URL:https://artsemerson.org/event/wake/
+END:VEVENT
+BEGIN:VEVENT
+UID:02b27b4c0d3deb8671a14481772066b65fcb7344@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270214T010000Z
+DTEND:20270214T030000Z
+SUMMARY:WAKE
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/wake-3/\nFrom Pushpin Boston: htt
+ ps://pushpin.city/
+URL:https://artsemerson.org/event/wake-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:3574f44d4c5bb0f7e64941f599145392d27fa2e3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270214T190000Z
+DTEND:20270214T210000Z
+SUMMARY:WAKE
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/wake-2/\nFrom Pushpin Boston: htt
+ ps://pushpin.city/
+URL:https://artsemerson.org/event/wake-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:0856e2efc87042cfc86fc08c979a5f931fc16bee@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270216T230000Z
+DTEND:20270217T010000Z
+SUMMARY:Hidden History of Black Boston (with Joel Mackall)
+LOCATION:Fields Corner Library\, 1520 Dorchester Ave\, Dorchester\, MA 0212
+ 2
+DESCRIPTION:Learn Boston's 400-year African-American history with Joel Mack
+ all.\nhttps://bpl.bibliocommons.com/events/6afc7b1ed7e98e002c53665e\nFrom 
+ Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6afc7b1ed7e98e002c53665e
+END:VEVENT
+BEGIN:VEVENT
+UID:4ffb5025fb8ac7af0ebe7d3e64b2e7677b5c61cd@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270218T233000Z
+DTEND:20270219T013000Z
+SUMMARY:The Point: Who Owns the Story? Art\, Authorship\, and Cultural Powe
+ r
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/the-point-who-owns-the-story-art-
+ authorship-and-cultural-power/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artsemerson.org/event/the-point-who-owns-the-story-art-authorsh
+ ip-and-cultural-power/
+END:VEVENT
+BEGIN:VEVENT
+UID:1624ab3943fb09406ba26e6ce2bf70f57758f6db@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270223T233000Z
+DTEND:20270224T013000Z
+SUMMARY:The Moth: Boston StorySLAM
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Join us the fourth Tuesday of each month for the Boston Moth St
+ orySLAM! This community-focused\, open-mic storytelling competition is ope
+ n to anyone can share a story on the night’s theme (changes every month)
+ .\nhttps://artsatthearmory.org/events/the-moth-boston-storyslam-2027-02-23
+ /\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artsatthearmory.org/events/the-moth-boston-storyslam-2027-02-23
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:83a3a59a449f0933b1265a6501c6facde14b2ae0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270226T000000Z
+DTEND:20270226T020000Z
+SUMMARY:Back to Boston: An Evening with Rachel Dratch
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity
+ -lectures/back-to-boston-an-evening-with-rachel-dratch?event=178921\nFrom 
+ Pushpin Boston: https://pushpin.city/
+URL:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity-lecture
+ s/back-to-boston-an-evening-with-rachel-dratch?event=178921
+END:VEVENT
+BEGIN:VEVENT
+UID:582c62739bdcd3878ff9ed712161b4a6ab00bf03@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270226T003000Z
+DTEND:20270226T023000Z
+SUMMARY:2021
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/2021-6/\nFrom Pushpin Boston: htt
+ ps://pushpin.city/
+URL:https://artsemerson.org/event/2021-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ae57e24f6298fd94f169601cab1273e4114e0940@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270226T003000Z
+DTEND:20270226T023000Z
+SUMMARY:Marie Antoinette
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Boston Conservatory Theater\nDavid Adjmi’s play Marie Antoine
+ tte reimagines France’s most infamous queen through a striking contempor
+ ary lens\, drawing sharp parallels between eighteenth-century France and t
+ oday’s culture of fame\, consumption\, and spectacle.\nhttps://bostoncon
+ servatory.berklee.edu/events/i-marie-antoinette-i\nFrom Pushpin Boston: ht
+ tps://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/i-marie-antoinette-i
+END:VEVENT
+BEGIN:VEVENT
+UID:e7976c9df736d31cfa463b35353d256009106e25@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Ogemdi Ude: MAJOR
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:MAJOR is a dance theater project exploring the physicality\, hi
+ story\, sociopolitics\, and interiority of majorette dance\, a form that o
+ riginated in the American South within Historically Black Colleges and Uni
+ versities in the 1960s. These Black femme teams accompanied by marching ba
+ nds created a movement style that requires master showmanship with allegia
+ nce to count\, undulation\, groove\, and sensual yet strong performativity
+ .\nhttps://www.icaboston.org/events/ogemdi-ude-major/\nFrom Pushpin Boston
+ : https://pushpin.city/
+URL:https://www.icaboston.org/events/ogemdi-ude-major/
+END:VEVENT
+BEGIN:VEVENT
+UID:52eec5bc8ca42e370d7ae4ae3c23098ccee233fc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270227T003000Z
+DTEND:20270227T023000Z
+SUMMARY:Marie Antoinette
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:Boston Conservatory Theater\nDavid Adjmi’s play Marie Antoine
+ tte reimagines France’s most infamous queen through a striking contempor
+ ary lens\, drawing sharp parallels between eighteenth-century France and t
+ oday’s culture of fame\, consumption\, and spectacle.\nhttps://bostoncon
+ servatory.berklee.edu/events/i-marie-antoinette-i\nFrom Pushpin Boston: ht
+ tps://pushpin.city/
+URL:https://bostonconservatory.berklee.edu/events/i-marie-antoinette-i
+END:VEVENT
+BEGIN:VEVENT
+UID:05d03fc99891405cab30afc1fb4be2d778603285@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270227T010000Z
+DTEND:20270227T030000Z
+SUMMARY:2021
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/2021-5/\nFrom Pushpin Boston: htt
+ ps://pushpin.city/
+URL:https://artsemerson.org/event/2021-5/
+END:VEVENT
+END:VCALENDAR

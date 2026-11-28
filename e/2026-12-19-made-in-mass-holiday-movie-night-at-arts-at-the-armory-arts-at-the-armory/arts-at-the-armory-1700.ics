@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:703ba047da869fc1589b461e6f5167d957c9463a@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261219T220000Z
+DTEND:20261220T000000Z
+SUMMARY:Made in Mass: Holiday Movie Night at Arts at the Armory
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/made-in-mass-holiday-movie-n
+ ight/
+URL:https://artsatthearmory.org/events/made-in-mass-holiday-movie-night/
+END:VEVENT
+END:VCALENDAR

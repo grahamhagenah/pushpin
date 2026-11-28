@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:84dc8ef3ea80ba48a8e824425b5349c200d4ebba@pushpin.city
+DTSTAMP:20270202T000000Z
+DTSTART:20270203T010000Z
+DTEND:20270203T030000Z
+SUMMARY:Tap Showcase: The Late Set
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/tap-showcase-the-late-set
+URL:https://www.berklee.edu/BPC/events/tap-showcase-the-late-set
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:667675625fedfe53f10fb2877687358089c0403d@pushpin.city
+DTSTAMP:20270116T000000Z
+DTSTART:20270117T010000Z
+DTEND:20270117T030000Z
+SUMMARY:Kalos
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/kalos/
+URL:https://www.theplatformkendall.org/productions/kalos/
+END:VEVENT
+END:VCALENDAR

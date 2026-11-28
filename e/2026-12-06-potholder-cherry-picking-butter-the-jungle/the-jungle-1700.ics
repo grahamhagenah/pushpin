@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:292b435770c32eaa297a289f940eabdc5a8d579b@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T220000Z
+DTEND:20261207T000000Z
+SUMMARY:PotHolder\, Cherry Picking\, Butter
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/potholder-cherry-picking-butter-ti
+ ckets-2002681306699
+URL:https://www.eventbrite.com/e/potholder-cherry-picking-butter-tickets-20
+ 02681306699
+END:VEVENT
+END:VCALENDAR

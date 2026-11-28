@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:14be0f24ac9b8f04721b3f0d0062dfc6f1115fc0@pushpin.city
+DTSTAMP:20270117T000000Z
+DTSTART:20270117T210000Z
+DTEND:20270117T230000Z
+SUMMARY:Joshua Redman Quartet
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/joshua-redman-qu
+ artet/
+URL:https://www.theplatformkendall.org/productions/joshua-redman-quartet/
+END:VEVENT
+END:VCALENDAR

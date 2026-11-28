@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2813ba65d24fab6a6a826482bd01cded1bd4a861@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T021500Z
+DTEND:20261129T041500Z
+SUMMARY:Elsinore
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/elsinore/
+URL:https://nitehawkcinema.com/prospectpark/movies/elsinore/
+END:VEVENT
+END:VCALENDAR

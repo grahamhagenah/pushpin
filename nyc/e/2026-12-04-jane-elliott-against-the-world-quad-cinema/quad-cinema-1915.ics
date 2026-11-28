@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a3485423931ced8f33ad42269bdfcd399b0bea71@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T001500Z
+DTEND:20261205T021500Z
+SUMMARY:Jane Elliott Against the World
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:https://quadcinema.com/film/jane-elliot-against-the-world/
+URL:https://quadcinema.com/film/jane-elliot-against-the-world/
+END:VEVENT
+END:VCALENDAR

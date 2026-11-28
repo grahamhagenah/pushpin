@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9915f18585d2dcbbbc0da59277d97c7d35573f0d@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261220T000000Z
+DTEND:20261220T020000Z
+SUMMARY:Queer Dance Party
+LOCATION:New City Brewery\, 180 Pleasant St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.newcitybrewery.com/events-1/queer-dance-party-rtmht
+ -tmjfx
+URL:https://www.newcitybrewery.com/events-1/queer-dance-party-rtmht-tmjfx
+END:VEVENT
+END:VCALENDAR

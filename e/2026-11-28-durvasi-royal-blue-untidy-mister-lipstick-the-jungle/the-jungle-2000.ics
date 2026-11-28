@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c6951d881e70340f76bc43dcb8733861ab79b306@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Durvasi\, Royal Blue\, Untidy\, Mister Lipstick
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/durvasi-royal-blue-untidy-mister-l
+ ipstick-tickets-2000341880412
+URL:https://www.eventbrite.com/e/durvasi-royal-blue-untidy-mister-lipstick-
+ tickets-2000341880412
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:40304f2ccb15285fcad2353c366ad93e4feda068@pushpin.city
+DTSTAMP:20270218T000000Z
+DTSTART:20270218T233000Z
+DTEND:20270219T013000Z
+SUMMARY:The Point: Who Owns the Story? Art\, Authorship\, and Cultural Powe
+ r
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/the-point-who-owns-the-story-art-
+ authorship-and-cultural-power/
+URL:https://artsemerson.org/event/the-point-who-owns-the-story-art-authorsh
+ ip-and-cultural-power/
+END:VEVENT
+END:VCALENDAR

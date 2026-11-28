@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Shea Theater
+X-WR-CALDESC:What’s coming up at Shea Theater\, from Pushpin Western Mass
+ .
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:66730251680a397cbd28bc22dfceb68cdff45040@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:Midwinter Celebration
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Welcome Yule presents\nWelcome Yule: A Midwinter Celebration Re
+ turns for Its 42nd Season\, Featuring Dutch and Nordic Traditions\nhttps:/
+ /sheatheater.org/d/23341/Welcome-Yule-Presents-Midwinter-Celebration\nFrom
+  Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23341/Welcome-Yule-Presents-Midwinter-Celebra
+ tion
+END:VEVENT
+BEGIN:VEVENT
+UID:78eb2dc87cce7227b961055ffd08abbb46ff2df2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T003000Z
+DTEND:20261213T023000Z
+SUMMARY:Midwinter Celebration
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Welcome Yule presents\nWelcome Yule: A Midwinter Celebration Re
+ turns for Its 42nd Season\, Featuring Dutch and Nordic Traditions\nhttps:/
+ /sheatheater.org/d/23342/Welcome-Yule-Presents-Midwinter-Celebration\nFrom
+  Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23342/Welcome-Yule-Presents-Midwinter-Celebra
+ tion
+END:VEVENT
+BEGIN:VEVENT
+UID:4928b9fe88de561d6f0eb3c07a6e086627648cb5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T190000Z
+DTEND:20261213T210000Z
+SUMMARY:Midwinter Celebration
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Welcome Yule presents\nWelcome Yule: A Midwinter Celebration Re
+ turns for Its 42nd Season\, Featuring Dutch and Nordic Traditions\nhttps:/
+ /sheatheater.org/d/23343/Welcome-Yule-Presents-Midwinter-Celebration\nFrom
+  Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23343/Welcome-Yule-Presents-Midwinter-Celebra
+ tion
+END:VEVENT
+BEGIN:VEVENT
+UID:c26c6ee634ce59729cc69b74cf6725a735d50d0d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T003000Z
+DTEND:20261220T023000Z
+SUMMARY:Wicked Strange New England with Jeff Belanger
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:#GETTOTHESHEA on Saturday\, December 19th 2026 for a night of a
+ dult-oriented thrills and chills\, storytelling\, and more thanks to Jeff 
+ Belanger at the Shea Theater Arts Center in Turners Falls\nhttps://sheathe
+ ater.org/d/23348/Shea-Presents-Wicked-Strange-New-England-with-Jeff-Belang
+ er\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://sheatheater.org/d/23348/Shea-Presents-Wicked-Strange-New-Englan
+ d-with-Jeff-Belanger
+END:VEVENT
+BEGIN:VEVENT
+UID:7495cff131ed944aae815836e0034c36abc1e057@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270101T010000Z
+DTEND:20270101T030000Z
+SUMMARY:NEW YEARS WITH MAX CREEK
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:Join us on Thursday\, December 31st 2026 for an evening with le
+ gendary staples of the Northeast jamband scene Max Creek at the Shea Theat
+ er Arts Center in Turners Falls\nhttps://sheatheater.org/d/23346/Shea-Pres
+ ents-NEW-YEARS-WITH-MAX-CREEK\nFrom Pushpin Western Mass: https://pushpin.
+ city/westernma/
+URL:https://sheatheater.org/d/23346/Shea-Presents-NEW-YEARS-WITH-MAX-CREEK
+END:VEVENT
+END:VCALENDAR

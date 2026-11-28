@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cc247032014283a77b3bf6df8bbb007608d416a2@pushpin.city
+DTSTAMP:20261222T000000Z
+DTSTART:20261223T003000Z
+DTEND:20261223T023000Z
+SUMMARY:Jake Manzi
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000Czq1BMAR
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0Czq1BMAR
+END:VEVENT
+END:VCALENDAR

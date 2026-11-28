@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b3bb55ec31c7b6a9439da12daf9c93ee6620b0ec@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:Matthew Shipp & William Parker: A Whole System Of
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/matthew-shipp-william-parker-duo-a-w
+ hole-system-of/
+URL:https://roulette.org/event/matthew-shipp-william-parker-duo-a-whole-sys
+ tem-of/
+END:VEVENT
+END:VCALENDAR

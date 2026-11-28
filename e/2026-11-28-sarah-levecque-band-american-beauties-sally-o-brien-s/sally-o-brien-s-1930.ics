@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:942ac554a3fa8c0faa1364b7e1b8d63c7e85f1f5@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:Sarah Levecque Band\, American Beauties
+LOCATION:Sally O'Brien's\, 335 Somerville Ave\, Somerville\, MA 02143
+DESCRIPTION:https://www.sallyobriensbar.com/music/
+URL:https://www.sallyobriensbar.com/music/
+END:VEVENT
+END:VCALENDAR

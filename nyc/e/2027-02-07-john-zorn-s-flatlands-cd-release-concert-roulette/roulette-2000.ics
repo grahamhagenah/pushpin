@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a3d3b01811077dfd45afd4395ebec90787b3cf73@pushpin.city
+DTSTAMP:20270207T000000Z
+DTSTART:20270208T010000Z
+DTEND:20270208T030000Z
+SUMMARY:John Zorn’s FLATLANDS (CD Release Concert)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/john-zorns-flatlands/
+URL:https://roulette.org/event/john-zorns-flatlands/
+END:VEVENT
+END:VCALENDAR

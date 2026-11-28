@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0cacce569fdbc7e43872b8dda6c16e79ac8c85b3@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261202T231500Z
+DTEND:20261203T011500Z
+SUMMARY:Discussion: L.A. Confidential
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/events/discussion-la-confidential
+URL:https://coolidge.org/events/discussion-la-confidential
+END:VEVENT
+END:VCALENDAR

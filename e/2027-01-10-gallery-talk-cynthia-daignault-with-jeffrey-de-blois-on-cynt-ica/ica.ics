@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9c64aa5cc48b1dc082eb4dd3cf601f58bfe9d011@pushpin.city
+DTSTAMP:20270110T000000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Gallery Talk: Cynthia Daignault with Jeffrey De Blois on Cynthia Da
+ ignault: Valley
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:https://www.icaboston.org/events/gallery-talk-cynthia-daignault
+ -with-jeffrey-de-blois/
+URL:https://www.icaboston.org/events/gallery-talk-cynthia-daignault-with-je
+ ffrey-de-blois/
+END:VEVENT
+END:VCALENDAR

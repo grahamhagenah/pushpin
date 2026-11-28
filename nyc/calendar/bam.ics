@@ -1,0 +1,929 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · BAM
+X-WR-CALDESC:What’s coming up at BAM\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:a962070963bc021006633305b7fc1f4bb6aa9e2d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T180000Z
+DTEND:20261128T200000Z
+SUMMARY:Minotaur
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1pm\, 3:45pm\, 6:30pm\, 9:15pm\nA Russian executive’s 
+ life accelerates toward violence in the latest from Andrey Zvyagintsev.\nh
+ ttps://www.bam.org/film/2026/minotaur\nFrom Pushpin NYC: https://pushpin.c
+ ity/nyc/
+URL:https://www.bam.org/film/2026/minotaur
+END:VEVENT
+BEGIN:VEVENT
+UID:6a1e7517cdf8db1f60692cfb9bb37caad857b493@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T180000Z
+DTEND:20261128T200000Z
+SUMMARY:You Can See Everything
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1pm\, 4:30pm\, 8pm\nTech founder Elizabeth Holmes invite
+ s Nathan Fielder to film her before she’s sent to prison.\nhttps://www.b
+ am.org/film/2026/you-can-see-everything\nFrom Pushpin NYC: https://pushpin
+ .city/nyc/
+URL:https://www.bam.org/film/2026/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:be2085db18b0c7b5765aa6cb9c17a12c07646939@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T181000Z
+DTEND:20261128T201000Z
+SUMMARY:Club Kid
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1:10pm\, 4pm\, 6:40pm\, 9:20pm\nA hard-partying NYC club
+  promoter discovers he has a 10-year-old son that he never knew about.\nht
+ tps://www.bam.org/film/2026/club-kid\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://www.bam.org/film/2026/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:0a34a4dd608ccfad03609c179c754461a2e728a9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T182000Z
+DTEND:20261128T202000Z
+SUMMARY:Paper Tiger
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1:20pm\, 4:15pm\, 6:45pm\, 9:30pm\nJames Gray’s latest
+  drama follows two brothers whose bond is threatened by a dangerous scheme
+ .\nhttps://www.bam.org/film/2026/paper-tiger\nFrom Pushpin NYC: https://pu
+ shpin.city/nyc/
+URL:https://www.bam.org/film/2026/paper-tiger
+END:VEVENT
+BEGIN:VEVENT
+UID:86277a1516ee1db3c9e66a8f6cab465fb05d8d4c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T183000Z
+DTEND:20261128T203000Z
+SUMMARY:Wild Horse Nine
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1:30pm\, 4:20pm\, 6:50pm\, 9:30pm\nTwo CIA agents wrestl
+ e with their dark pasts and present conspiracies on Easter Island.\nhttps:
+ //www.bam.org/film/2026/wild-horse-nine\nFrom Pushpin NYC: https://pushpin
+ .city/nyc/
+URL:https://www.bam.org/film/2026/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:964c90a98e919460320e2c1cda4adae981d36fe9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T184000Z
+DTEND:20261128T204000Z
+SUMMARY:Elsinore
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1:40pm\, 4:30pm\, 7pm\, 9:40pm\nAndrew Scott (Sherlock) 
+ stars as Ian Charleson in a story of courage\, art\, and mortality.\nhttps
+ ://www.bam.org/film/2026/elsinore\nFrom Pushpin NYC: https://pushpin.city/
+ nyc/
+URL:https://www.bam.org/film/2026/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:bd113cfe1bb849cab5c5dc456137f8ad40f368c3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:La Distance
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 2pm\, 7:30pm\nWhen a daughter opts for exile on Mars\, a
+  father left behind grapples with love and loss.\nhttps://www.bam.org/thea
+ ter/2026/la-distance\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/theater/2026/la-distance
+END:VEVENT
+BEGIN:VEVENT
+UID:11e1820e9fafffa24e33898753308ac3b3838bf8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:Minotaur
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1pm\, 3:45pm\, 6:30pm\, 9:15pm\nA Russian executive’s 
+ life accelerates toward violence in the latest from Andrey Zvyagintsev.\nh
+ ttps://www.bam.org/film/2026/minotaur\nFrom Pushpin NYC: https://pushpin.c
+ ity/nyc/
+URL:https://www.bam.org/film/2026/minotaur
+END:VEVENT
+BEGIN:VEVENT
+UID:26b9ba86b6b51fcfa50890628b348d2f56c8c235@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:You Can See Everything
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1pm\, 4:30pm\, 8pm\nTech founder Elizabeth Holmes invite
+ s Nathan Fielder to film her before she’s sent to prison.\nhttps://www.b
+ am.org/film/2026/you-can-see-everything\nFrom Pushpin NYC: https://pushpin
+ .city/nyc/
+URL:https://www.bam.org/film/2026/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:aa0d1fec6239845cada4eecc9365445eb3da6ad2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T181000Z
+DTEND:20261129T201000Z
+SUMMARY:Club Kid
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1:10pm\, 4pm\, 6:40pm\, 9:20pm\nA hard-partying NYC club
+  promoter discovers he has a 10-year-old son that he never knew about.\nht
+ tps://www.bam.org/film/2026/club-kid\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://www.bam.org/film/2026/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:2284b79a25fed79f5d0c926e984d4198ac5643bb@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T182000Z
+DTEND:20261129T202000Z
+SUMMARY:Paper Tiger
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1:20pm\, 4:15pm\, 6:45pm\, 9:30pm\nJames Gray’s latest
+  drama follows two brothers whose bond is threatened by a dangerous scheme
+ .\nhttps://www.bam.org/film/2026/paper-tiger\nFrom Pushpin NYC: https://pu
+ shpin.city/nyc/
+URL:https://www.bam.org/film/2026/paper-tiger
+END:VEVENT
+BEGIN:VEVENT
+UID:d58f3042725fad29b4cd21f05f2c9a3bb5b47270@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T183000Z
+DTEND:20261129T203000Z
+SUMMARY:Wild Horse Nine
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1:30pm\, 4:20pm\, 6:50pm\, 9:30pm\nTwo CIA agents wrestl
+ e with their dark pasts and present conspiracies on Easter Island.\nhttps:
+ //www.bam.org/film/2026/wild-horse-nine\nFrom Pushpin NYC: https://pushpin
+ .city/nyc/
+URL:https://www.bam.org/film/2026/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:d6538698f7b5ca1f73a125e9be7e5ac85947fa94@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T184000Z
+DTEND:20261129T204000Z
+SUMMARY:Elsinore
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1:40pm\, 4:30pm\, 7pm\, 9:40pm\nAndrew Scott (Sherlock) 
+ stars as Ian Charleson in a story of courage\, art\, and mortality.\nhttps
+ ://www.bam.org/film/2026/elsinore\nFrom Pushpin NYC: https://pushpin.city/
+ nyc/
+URL:https://www.bam.org/film/2026/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:f018798d2ee347d15cc1ea173c87e0dc7ff3b3ae@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:La Distance
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:When a daughter opts for exile on Mars\, a father left behind g
+ rapples with love and loss.\nhttps://www.bam.org/theater/2026/la-distance\
+ nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/theater/2026/la-distance
+END:VEVENT
+BEGIN:VEVENT
+UID:116549ef283edb63fee12d115fba9ccfd315d213@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T204500Z
+DTEND:20261130T224500Z
+SUMMARY:Minotaur
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 3:45pm\, 6:30pm\, 9:15pm\nA Russian executive’s life a
+ ccelerates toward violence in the latest from Andrey Zvyagintsev.\nhttps:/
+ /www.bam.org/film/2026/minotaur\nFrom Pushpin NYC: https://pushpin.city/ny
+ c/
+URL:https://www.bam.org/film/2026/minotaur
+END:VEVENT
+BEGIN:VEVENT
+UID:cf859bbde7f6ebf3beca1ef36fd1c4b91378ef95@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T204500Z
+DTEND:20261130T224500Z
+SUMMARY:You Can See Everything
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 3:45pm\, 7:15pm\nTech founder Elizabeth Holmes invites N
+ athan Fielder to film her before she’s sent to prison.\nhttps://www.bam.
+ org/film/2026/you-can-see-everything\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://www.bam.org/film/2026/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:b781f1a9ac210955f4ee5bb94709f11c05aa7c20@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T210000Z
+DTEND:20261130T230000Z
+SUMMARY:Club Kid
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4pm\, 6:40pm\, 9:20pm\nA hard-partying NYC club promoter
+  discovers he has a 10-year-old son that he never knew about.\nhttps://www
+ .bam.org/film/2026/club-kid\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:3ad9c4f2cbb4c15aa323a20077d5a6ab1aa997c9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T211500Z
+DTEND:20261130T231500Z
+SUMMARY:Paper Tiger
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4:15pm\, 6:45pm\, 9:30pm\nJames Gray’s latest drama fo
+ llows two brothers whose bond is threatened by a dangerous scheme.\nhttps:
+ //www.bam.org/film/2026/paper-tiger\nFrom Pushpin NYC: https://pushpin.cit
+ y/nyc/
+URL:https://www.bam.org/film/2026/paper-tiger
+END:VEVENT
+BEGIN:VEVENT
+UID:204334b8a49cb19919f66de9bc8d4c7efcfc8b09@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T212000Z
+DTEND:20261130T232000Z
+SUMMARY:Wild Horse Nine
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4:20pm\, 6:50pm\, 9:30pm\nTwo CIA agents wrestle with th
+ eir dark pasts and present conspiracies on Easter Island.\nhttps://www.bam
+ .org/film/2026/wild-horse-nine\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://www.bam.org/film/2026/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:c65d77eca3f36f34a752fabbff155ecd2b408fac@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T213000Z
+DTEND:20261130T233000Z
+SUMMARY:Elsinore
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4:30pm\, 7pm\, 9:40pm\nAndrew Scott (Sherlock) stars as 
+ Ian Charleson in a story of courage\, art\, and mortality.\nhttps://www.ba
+ m.org/film/2026/elsinore\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:fca34e54dbdaa69237d0377e47038afe78c71f2d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T203000Z
+DTEND:20261201T223000Z
+SUMMARY:Wild Horse Nine
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 3:30pm\, 6:10pm\, 8:50pm\nTwo CIA agents wrestle with th
+ eir dark pasts and present conspiracies on Easter Island.\nhttps://www.bam
+ .org/film/2026/wild-horse-nine\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://www.bam.org/film/2026/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:736b104d4229463e9a4a9fc953de83f0b0a9baea@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T204000Z
+DTEND:20261201T224000Z
+SUMMARY:Club Kid
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 3:40pm\, 6:20pm\, 9pm\nA hard-partying NYC club promoter
+  discovers he has a 10-year-old son that he never knew about.\nhttps://www
+ .bam.org/film/2026/club-kid\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:ca36f453b5eecd825045bd85bd668514150c7beb@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T204500Z
+DTEND:20261201T224500Z
+SUMMARY:Minotaur
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 3:45pm\, 6:30pm\, 9:15pm\nA Russian executive’s life a
+ ccelerates toward violence in the latest from Andrey Zvyagintsev.\nhttps:/
+ /www.bam.org/film/2026/minotaur\nFrom Pushpin NYC: https://pushpin.city/ny
+ c/
+URL:https://www.bam.org/film/2026/minotaur
+END:VEVENT
+BEGIN:VEVENT
+UID:532b0f894adc43ed1c3f77fc89240d35fcc04ddb@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T210000Z
+DTEND:20261201T230000Z
+SUMMARY:Elsinore
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4pm\, 6:30pm\, 9:10pm\nAndrew Scott (Sherlock) stars as 
+ Ian Charleson in a story of courage\, art\, and mortality.\nhttps://www.ba
+ m.org/film/2026/elsinore\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:84916f194a8ff280ea4ab4aced62a06d58bafd20@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T211500Z
+DTEND:20261201T231500Z
+SUMMARY:Paper Tiger
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4:15pm\, 6:45pm\, 9:30pm\nJames Gray’s latest drama fo
+ llows two brothers whose bond is threatened by a dangerous scheme.\nhttps:
+ //www.bam.org/film/2026/paper-tiger\nFrom Pushpin NYC: https://pushpin.cit
+ y/nyc/
+URL:https://www.bam.org/film/2026/paper-tiger
+END:VEVENT
+BEGIN:VEVENT
+UID:2bb21fa3a4c716f9a6bd79e68b6d81ecbcf6df60@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:The History of Concrete
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:John Wilson (How To with John Wilson) sets out to make the defi
+ nitive documentary on concrete.\nhttps://www.bam.org/film/2026/the-history
+ -of-concrete\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
+UID:4c410da2cf5add658139748a2988932f3086c603@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T204500Z
+DTEND:20261202T224500Z
+SUMMARY:Minotaur
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 3:45pm\, 6:30pm\, 9:15pm\nA Russian executive’s life a
+ ccelerates toward violence in the latest from Andrey Zvyagintsev.\nhttps:/
+ /www.bam.org/film/2026/minotaur\nFrom Pushpin NYC: https://pushpin.city/ny
+ c/
+URL:https://www.bam.org/film/2026/minotaur
+END:VEVENT
+BEGIN:VEVENT
+UID:1d3c913d912f60992fb3c5f7cd89b1393231208e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T204500Z
+DTEND:20261202T224500Z
+SUMMARY:You Can See Everything
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 3:45pm\, 7:15pm\nTech founder Elizabeth Holmes invites N
+ athan Fielder to film her before she’s sent to prison.\nhttps://www.bam.
+ org/film/2026/you-can-see-everything\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://www.bam.org/film/2026/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:08a61ad98e1edca2ff6f204be308fdcc3a841657@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T210000Z
+DTEND:20261202T230000Z
+SUMMARY:Club Kid
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4pm\, 6:40pm\nA hard-partying NYC club promoter discover
+ s he has a 10-year-old son that he never knew about.\nhttps://www.bam.org/
+ film/2026/club-kid\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:b227747d520b360cd61feb762b6f7f8ba1da4601@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T211500Z
+DTEND:20261202T231500Z
+SUMMARY:Paper Tiger
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4:15pm\, 6:45pm\, 9:30pm\nJames Gray’s latest drama fo
+ llows two brothers whose bond is threatened by a dangerous scheme.\nhttps:
+ //www.bam.org/film/2026/paper-tiger\nFrom Pushpin NYC: https://pushpin.cit
+ y/nyc/
+URL:https://www.bam.org/film/2026/paper-tiger
+END:VEVENT
+BEGIN:VEVENT
+UID:1162a3abcd962bc9b4f4f63d2cb49e8fbd759f05@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T212000Z
+DTEND:20261202T232000Z
+SUMMARY:Wild Horse Nine
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4:20pm\, 9:30pm\nTwo CIA agents wrestle with their dark 
+ pasts and present conspiracies on Easter Island.\nhttps://www.bam.org/film
+ /2026/wild-horse-nine\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:fc264d1e5b2e5f654e2b24a67801961f0d9ff8ef@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T213000Z
+DTEND:20261202T233000Z
+SUMMARY:Elsinore
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4:30pm\, 7pm\, 9:40pm\nAndrew Scott (Sherlock) stars as 
+ Ian Charleson in a story of courage\, art\, and mortality.\nhttps://www.ba
+ m.org/film/2026/elsinore\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:76dc7d5a9fd60c7973c9895cd20cfd8f9acf7e19@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T003000Z
+DTEND:20261203T023000Z
+SUMMARY:“HUMAN”
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:This puppetry-driven story in the depths of the ocean explores 
+ what it means to be human.\nhttps://www.bam.org/theater/2026/human\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/theater/2026/human
+END:VEVENT
+BEGIN:VEVENT
+UID:27a1ca7cf14454b158e1957d130303df35a370a7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T204500Z
+DTEND:20261203T224500Z
+SUMMARY:Minotaur
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 3:45pm\, 6:30pm\, 9:15pm\nA Russian executive’s life a
+ ccelerates toward violence in the latest from Andrey Zvyagintsev.\nhttps:/
+ /www.bam.org/film/2026/minotaur\nFrom Pushpin NYC: https://pushpin.city/ny
+ c/
+URL:https://www.bam.org/film/2026/minotaur
+END:VEVENT
+BEGIN:VEVENT
+UID:de083526430a74630d6945aaf6e0ad75b9294558@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T204500Z
+DTEND:20261203T224500Z
+SUMMARY:You Can See Everything
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 3:45pm\, 7:15pm\nTech founder Elizabeth Holmes invites N
+ athan Fielder to film her before she’s sent to prison.\nhttps://www.bam.
+ org/film/2026/you-can-see-everything\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://www.bam.org/film/2026/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:b055e65f545da1228eff962cfa7c758aea189002@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T210000Z
+DTEND:20261203T230000Z
+SUMMARY:Club Kid
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4pm\, 6:40pm\, 9:20pm\nA hard-partying NYC club promoter
+  discovers he has a 10-year-old son that he never knew about.\nhttps://www
+ .bam.org/film/2026/club-kid\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:35331bed41ee5ad461a8fa866688edfedbeee20e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T211500Z
+DTEND:20261203T231500Z
+SUMMARY:Paper Tiger
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4:15pm\, 6:45pm\, 9:30pm\nJames Gray’s latest drama fo
+ llows two brothers whose bond is threatened by a dangerous scheme.\nhttps:
+ //www.bam.org/film/2026/paper-tiger\nFrom Pushpin NYC: https://pushpin.cit
+ y/nyc/
+URL:https://www.bam.org/film/2026/paper-tiger
+END:VEVENT
+BEGIN:VEVENT
+UID:b719e6edd09b72e9c31f9a75a6b104d800cf185c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T212000Z
+DTEND:20261203T232000Z
+SUMMARY:Wild Horse Nine
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4:20pm\, 6:50pm\, 9:30pm\nTwo CIA agents wrestle with th
+ eir dark pasts and present conspiracies on Easter Island.\nhttps://www.bam
+ .org/film/2026/wild-horse-nine\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://www.bam.org/film/2026/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:0933f1b87d8b322e1ce0a6e289e4944f2268c48d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T213000Z
+DTEND:20261203T233000Z
+SUMMARY:Elsinore
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4:30pm\, 7pm\, 9:40pm\nAndrew Scott (Sherlock) stars as 
+ Ian Charleson in a story of courage\, art\, and mortality.\nhttps://www.ba
+ m.org/film/2026/elsinore\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:605a1438ae30c04a2c089b4e19a8c91324a4a8c0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T003000Z
+DTEND:20261204T023000Z
+SUMMARY:“HUMAN”
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:This puppetry-driven story in the depths of the ocean explores 
+ what it means to be human.\nhttps://www.bam.org/theater/2026/human\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/theater/2026/human
+END:VEVENT
+BEGIN:VEVENT
+UID:7cf012819b8a48f74f63bd5ab6607b4bba617085@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:Minor Music at the End of the World
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:This multi-disciplinary performance explores Black life at the 
+ end of the world.\nhttps://www.bam.org/theater/2026/minor-music\nFrom Push
+ pin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/theater/2026/minor-music
+END:VEVENT
+BEGIN:VEVENT
+UID:e24b9de955f1f2bce30de508e063b342f2e94047@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:“HUMAN”
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:This puppetry-driven story in the depths of the ocean explores 
+ what it means to be human.\nhttps://www.bam.org/theater/2026/human\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/theater/2026/human
+END:VEVENT
+BEGIN:VEVENT
+UID:1476327b301391cdef92c20cc9fa45fcd1a9a5f6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Samson et Dalila
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Saint-Saëns’s spectacular take on the biblical saga returns\
+ , sacred\, scandalous\, and alluring.\nhttps://www.bam.org/opera/2026/met-
+ hd-samson\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/opera/2026/met-hd-samson
+END:VEVENT
+BEGIN:VEVENT
+UID:64aa8ea304e7debcb66a987adafc39e6ef5731aa@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:“HUMAN”
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 2pm\, 7:30pm\nThis puppetry-driven story in the depths o
+ f the ocean explores what it means to be human.\nhttps://www.bam.org/theat
+ er/2026/human\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/theater/2026/human
+END:VEVENT
+BEGIN:VEVENT
+UID:c6c3da02342c5e4d6b6f976e9174b156f07a3624@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:Minor Music at the End of the World
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:This multi-disciplinary performance explores Black life at the 
+ end of the world.\nhttps://www.bam.org/theater/2026/minor-music\nFrom Push
+ pin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/theater/2026/minor-music
+END:VEVENT
+BEGIN:VEVENT
+UID:ae8863e16805060b4fb44fc773533e8cdd38a349@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T200000Z
+DTEND:20261206T220000Z
+SUMMARY:Minor Music at the End of the World
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:This multi-disciplinary performance explores Black life at the 
+ end of the world.\nhttps://www.bam.org/theater/2026/minor-music\nFrom Push
+ pin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/theater/2026/minor-music
+END:VEVENT
+BEGIN:VEVENT
+UID:de86931accfe72dc1f42d779c114d6855bc98e3b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T003000Z
+DTEND:20261209T023000Z
+SUMMARY:Somi in conversation with Claudia Rankine and Helga Davis
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Grammy-nominated vocalist Somi joins Helga Davis and Claudia Ra
+ nkine in conversation.\nhttps://www.bam.org/music/2026/unworlding-somi\nFr
+ om Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/music/2026/unworlding-somi
+END:VEVENT
+BEGIN:VEVENT
+UID:a7d12f5298bc30ce0ea9f8388f49178cf13d2324@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:Theater of the Matters Presents: Gassan + Woman of Tokyo
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:The Theater of the Matters presents the first US screening of S
+ hinji Somai’s final film.\nhttps://www.bam.org/film/2026/theater-of-the-
+ matter-gassan\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/theater-of-the-matter-gassan
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb23cdae77f10561c588b7504dca97e548e3111@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:I’mPossible Holiday Wonders
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Behold an extraordinary group of multi-abled artists in this jo
+ yous circus extravaganza.\nhttps://www.bam.org/holiday/2026/impossible\nFr
+ om Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/holiday/2026/impossible
+END:VEVENT
+BEGIN:VEVENT
+UID:9b4d81d58d28ba937bfa86c4ab6b0078fca51477@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:I’mPossible Holiday Wonders
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 2pm\, 7pm\nBehold an extraordinary group of multi-abled 
+ artists in this joyous circus extravaganza.\nhttps://www.bam.org/holiday/2
+ 026/impossible\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/holiday/2026/impossible
+END:VEVENT
+BEGIN:VEVENT
+UID:1643ce6e21d33aeff1a7749f77b514850dd7f1ed@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T190000Z
+DTEND:20261213T210000Z
+SUMMARY:I’mPossible Holiday Wonders
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Behold an extraordinary group of multi-abled artists in this jo
+ yous circus extravaganza.\nhttps://www.bam.org/holiday/2026/impossible\nFr
+ om Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/holiday/2026/impossible
+END:VEVENT
+BEGIN:VEVENT
+UID:d125067121e0494730d54e409960f182eb15dff0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261217T210000Z
+DTEND:20261217T230000Z
+SUMMARY:Dune: Part Three
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4pm\, 7:15pm\nEmperor Paul Atreides (Timothée Chalamet)
+  faces a growing threat to his rule.\nhttps://www.bam.org/film/2026/dune-p
+ art-three\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:593d7b1ffe988e69535a5bf2315261d4e8436010@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T180000Z
+DTEND:20261218T200000Z
+SUMMARY:Dune: Part Three
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1pm\, 4:15pm\, 7:30pm\nEmperor Paul Atreides (Timothée 
+ Chalamet) faces a growing threat to his rule.\nhttps://www.bam.org/film/20
+ 26/dune-part-three\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:4793aa6fe57a63ce35443e564b503790143cac69@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T160000Z
+DTEND:20261219T180000Z
+SUMMARY:Best of BAMkids Film Festival (Ages 9+)
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:These gems\, for kids nine and up\, explore moments in which br
+ ave characters dazzle the world.\nhttps://www.bam.org/kids/2026/best-of-bk
+ ff9\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/kids/2026/best-of-bkff9
+END:VEVENT
+BEGIN:VEVENT
+UID:fbffb555ac3df001ea68a9aa8eb34c48117d575c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T180000Z
+DTEND:20261219T200000Z
+SUMMARY:Dune: Part Three
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1pm\, 4:15pm\, 7:30pm\nEmperor Paul Atreides (Timothée 
+ Chalamet) faces a growing threat to his rule.\nhttps://www.bam.org/film/20
+ 26/dune-part-three\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:c0f7e513873df3892e40788dcad525e88e139d02@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T180000Z
+DTEND:20261220T200000Z
+SUMMARY:Dune: Part Three
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1pm\, 4:15pm\, 7:30pm\nEmperor Paul Atreides (Timothée 
+ Chalamet) faces a growing threat to his rule.\nhttps://www.bam.org/film/20
+ 26/dune-part-three\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:249412c30149d07355b2056805efb51e48ce1540@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261221T210000Z
+DTEND:20261221T230000Z
+SUMMARY:Dune: Part Three
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4pm\, 7:15pm\nEmperor Paul Atreides (Timothée Chalamet)
+  faces a growing threat to his rule.\nhttps://www.bam.org/film/2026/dune-p
+ art-three\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:532decdb8ed5e9315fa06b3e514e39846305cec5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261222T210000Z
+DTEND:20261222T230000Z
+SUMMARY:Dune: Part Three
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4pm\, 7:15pm\nEmperor Paul Atreides (Timothée Chalamet)
+  faces a growing threat to his rule.\nhttps://www.bam.org/film/2026/dune-p
+ art-three\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:08cdbc08bee6c902e478d6c7bf7c1aefcde48bc3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261223T210000Z
+DTEND:20261223T230000Z
+SUMMARY:Dune: Part Three
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4pm\, 7:15pm\nEmperor Paul Atreides (Timothée Chalamet)
+  faces a growing threat to his rule.\nhttps://www.bam.org/film/2026/dune-p
+ art-three\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:92f8c5a7285c67f30b7d9525cd37dd7abfdc6739@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261224T210000Z
+DTEND:20261224T230000Z
+SUMMARY:Dune: Part Three
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 4pm\, 7:15pm\nEmperor Paul Atreides (Timothée Chalamet)
+  faces a growing threat to his rule.\nhttps://www.bam.org/film/2026/dune-p
+ art-three\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:d21990934a6aa8d4cd3e16b04f8eb0cb6bdbd734@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261225T182000Z
+DTEND:20261225T202000Z
+SUMMARY:Werwulf
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1:20pm\, 4:10pm\, 6:50pm\, 9:30pm\nRobert Eggers (Nosfer
+ atu) returns with a haunting tale of devotion\, damnation\, and the devil 
+ within.\nhttps://www.bam.org/film/2026/werwulf\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/werwulf
+END:VEVENT
+BEGIN:VEVENT
+UID:565f92416ea3cefdb99c0afba9a7664e54174bb4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261226T182000Z
+DTEND:20261226T202000Z
+SUMMARY:Werwulf
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1:20pm\, 4:10pm\, 6:50pm\, 9:30pm\nRobert Eggers (Nosfer
+ atu) returns with a haunting tale of devotion\, damnation\, and the devil 
+ within.\nhttps://www.bam.org/film/2026/werwulf\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/werwulf
+END:VEVENT
+BEGIN:VEVENT
+UID:e4a4b7f5015ce79c898a6a7a4c3e528f11affdf8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261227T182000Z
+DTEND:20261227T202000Z
+SUMMARY:Werwulf
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1:20pm\, 4:10pm\, 6:50pm\, 9:30pm\nRobert Eggers (Nosfer
+ atu) returns with a haunting tale of devotion\, damnation\, and the devil 
+ within.\nhttps://www.bam.org/film/2026/werwulf\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/werwulf
+END:VEVENT
+BEGIN:VEVENT
+UID:6a202af11baa741d455a94d8807b55b8c78077eb@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261228T182000Z
+DTEND:20261228T202000Z
+SUMMARY:Werwulf
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 1:20pm\, 4:10pm\, 6:50pm\, 9:30pm\nRobert Eggers (Nosfer
+ atu) returns with a haunting tale of devotion\, damnation\, and the devil 
+ within.\nhttps://www.bam.org/film/2026/werwulf\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://www.bam.org/film/2026/werwulf
+END:VEVENT
+BEGIN:VEVENT
+UID:3ca218584dd48b2d95443b12952fd09721e5ae22@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270115T003000Z
+DTEND:20270115T023000Z
+SUMMARY:THIS IS RISK
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:The boundless dance troupe Urban Bush Women return to BAM for t
+ he first time in over a decade.\nhttps://www.bam.org/urban-bush-women\nFro
+ m Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/urban-bush-women
+END:VEVENT
+BEGIN:VEVENT
+UID:887e7f0a1cdf26b4fbbc0a133e67d6fa8e8aaa30@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270116T003000Z
+DTEND:20270116T023000Z
+SUMMARY:THIS IS RISK
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:The boundless dance troupe Urban Bush Women return to BAM for t
+ he first time in over a decade.\nhttps://www.bam.org/urban-bush-women\nFro
+ m Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/urban-bush-women
+END:VEVENT
+BEGIN:VEVENT
+UID:de43e6d8b30c4f1b5c8cc29e280502c92f317662@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270116T190000Z
+DTEND:20270116T210000Z
+SUMMARY:THIS IS RISK
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Times: 2pm\, 7:30pm\nThe boundless dance troupe Urban Bush Wome
+ n return to BAM for the first time in over a decade.\nhttps://www.bam.org/
+ urban-bush-women\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/urban-bush-women
+END:VEVENT
+BEGIN:VEVENT
+UID:ca36f8b994eb1e83a429185cf6efd3e040d3a92f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270118T153000Z
+DTEND:20270118T173000Z
+SUMMARY:The 41st Annual Tribute to Dr. Martin Luther King\, Jr.
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Join BAM for the largest and longest running public celebration
+  of Dr. King in New York City.\nhttps://www.bam.org/mlk\nFrom Pushpin NYC:
+  https://pushpin.city/nyc/
+URL:https://www.bam.org/mlk
+END:VEVENT
+BEGIN:VEVENT
+UID:b8caf9980c002027ef14c59f5332124b6e0e5388@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270118T190000Z
+DTEND:20270118T210000Z
+SUMMARY:THIS IS RISK
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:The boundless dance troupe Urban Bush Women return to BAM for t
+ he first time in over a decade.\nhttps://www.bam.org/urban-bush-women\nFro
+ m Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/urban-bush-women
+END:VEVENT
+BEGIN:VEVENT
+UID:1edfc8f61d226bff987fe3e00391c1451f1e8d5d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270124T200000Z
+DTEND:20270124T220000Z
+SUMMARY:Innocent Eyes: A Workshop Presentation
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:A new opera by David Hertzberg spins an eerie episode in the li
+ fe of film icon Joan Crawford.\nhttps://www.bam.org/innocent-eyes\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/innocent-eyes
+END:VEVENT
+BEGIN:VEVENT
+UID:67fc137504901cb2e5b4ac6a59763801e63965e6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270205T010000Z
+DTEND:20270205T030000Z
+SUMMARY:Dido and Aeneas
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:High drama\, striking choreography\, and stunning music converg
+ e in a signature Morris work.\nhttps://www.bam.org/dido-and-aeneas\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/dido-and-aeneas
+END:VEVENT
+BEGIN:VEVENT
+UID:cafcdb0545f04837fcc1e57d8e55877cf2103865@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270206T010000Z
+DTEND:20270206T030000Z
+SUMMARY:Dido and Aeneas
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:High drama\, striking choreography\, and stunning music converg
+ e in a signature Morris work.\nhttps://www.bam.org/dido-and-aeneas\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/dido-and-aeneas
+END:VEVENT
+BEGIN:VEVENT
+UID:042b8c52eec2232c01244f0dc73bfb5f83227187@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270207T010000Z
+DTEND:20270207T030000Z
+SUMMARY:Dido and Aeneas
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:High drama\, striking choreography\, and stunning music converg
+ e in a signature Morris work.\nhttps://www.bam.org/dido-and-aeneas\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/dido-and-aeneas
+END:VEVENT
+BEGIN:VEVENT
+UID:a64cdee5421e7023eeda959c4c484d5b4e7ebb50@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270207T190000Z
+DTEND:20270207T210000Z
+SUMMARY:Dido and Aeneas
+LOCATION:BAM\, 30 Lafayette Ave\, Brooklyn\, NY 11217
+DESCRIPTION:High drama\, striking choreography\, and stunning music converg
+ e in a signature Morris work.\nhttps://www.bam.org/dido-and-aeneas\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://www.bam.org/dido-and-aeneas
+END:VEVENT
+END:VCALENDAR

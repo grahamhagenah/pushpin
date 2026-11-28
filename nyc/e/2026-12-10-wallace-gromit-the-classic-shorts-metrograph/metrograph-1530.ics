@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6d77d341b62416dcab05c1f6125e4a71a3cbc553@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261210T203000Z
+DTEND:20261210T223000Z
+SUMMARY:Wallace & Gromit: The Classic Shorts
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005087-wallace-gromit-the-class
+ ic-shorts/
+URL:https://metrograph.com/film/9999005087-wallace-gromit-the-classic-short
+ s/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:64cef6f46b6d0783b876dcdba7d5755d1be9168f@pushpin.city
+DTSTAMP:20270206T000000Z
+DTSTART:20270207T003000Z
+DTEND:20270207T023000Z
+SUMMARY:Rev Tor’s 15th Annual Dead Of Winter Jam Featuring Dead Man’s W
+ altz & Friends
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.berkshiretheatregroup.org/event/rev-tors-15th-annua
+ l-dead-of-winter-jam/
+URL:https://www.berkshiretheatregroup.org/event/rev-tors-15th-annual-dead-o
+ f-winter-jam/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:27130c1040f4d3ee32724da96ed718ce8c0b7cc7@pushpin.city
+DTSTAMP:20270210T000000Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:National Sawdust Presents: Silkroad Up-Close featuring Shawn Conley
+  and Kinan Azmeh Trio
+LOCATION:National Sawdust\, 80 N 6th St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.nationalsawdust.org/event/national-sawdust-presents
+ -silkroad-up-close-featuring-shawn-conley-and-kinan-azmeh-trio
+URL:https://www.nationalsawdust.org/event/national-sawdust-presents-silkroa
+ d-up-close-featuring-shawn-conley-and-kinan-azmeh-trio
+END:VEVENT
+END:VCALENDAR

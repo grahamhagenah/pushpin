@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:16cccada9e5b02b9faa54dd1b9942d9b4d71e9d7@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T212000Z
+DTEND:20261206T232000Z
+SUMMARY:Still Life + Train-Trains #2: A Bypass
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005126-still-life-train-trains-
+ 2-a-bypass/
+URL:https://metrograph.com/film/9999005126-still-life-train-trains-2-a-bypa
+ ss/
+END:VEVENT
+END:VCALENDAR

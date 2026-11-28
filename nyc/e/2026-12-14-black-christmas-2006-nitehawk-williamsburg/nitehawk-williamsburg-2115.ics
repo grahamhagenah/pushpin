@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:07e1fe83945e2aba0e9a4b3aac304b0b22d3945d@pushpin.city
+DTSTAMP:20261214T000000Z
+DTSTART:20261215T021500Z
+DTEND:20261215T041500Z
+SUMMARY:Black Christmas (2006)
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/black-christmas-
+ 2006/
+URL:https://nitehawkcinema.com/williamsburg/movies/black-christmas-2006/
+END:VEVENT
+END:VCALENDAR

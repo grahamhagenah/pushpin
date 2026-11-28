@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e2edf3ee67c86aa10b6876b91f8d8b34152d3cda@pushpin.city
+DTSTAMP:20270128T000000Z
+DTSTART:20270129T000000Z
+DTEND:20270129T020000Z
+SUMMARY:ALEXANDRA KAY - THE ONE WOMAN SHOW
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-b
+ oston-massachusetts-01-28-2027/event/0100655B91C87252
+URL:https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-boston-ma
+ ssachusetts-01-28-2027/event/0100655B91C87252
+END:VEVENT
+END:VCALENDAR

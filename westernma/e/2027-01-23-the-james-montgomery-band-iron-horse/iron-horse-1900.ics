@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:be286d50e19d0842b5dde0ec7bd36c1f1b53a09e@pushpin.city
+DTSTAMP:20270123T000000Z
+DTSTART:20270124T000000Z
+DTEND:20270124T020000Z
+SUMMARY:The James Montgomery Band
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000C7HDJMA3
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0C7HDJMA3
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7c9ebebf01c66a41544b415ba3fa2da023cf1307@pushpin.city
+DTSTAMP:20270124T000000Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Zoë Knight Studio Winter Recital
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2027/1/24/zo-knight-studio-wi
+ nter-recital
+URL:https://www.lilypadinman.com/home/2027/1/24/zo-knight-studio-winter-rec
+ ital
+END:VEVENT
+END:VCALENDAR

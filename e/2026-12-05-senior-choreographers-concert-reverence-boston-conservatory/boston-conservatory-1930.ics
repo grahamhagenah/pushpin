@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ce4f9e462177a5edbba39250c805f7fd99830b55@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:Senior Choreographers Concert: REVERENCE
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:https://bostonconservatory.berklee.edu/events/senior-choreograp
+ hers-concert-reverence
+URL:https://bostonconservatory.berklee.edu/events/senior-choreographers-con
+ cert-reverence
+END:VEVENT
+END:VCALENDAR

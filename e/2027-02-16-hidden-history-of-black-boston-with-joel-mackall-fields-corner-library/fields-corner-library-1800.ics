@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:61bc74918dd3a600cf241d2ca743a01db164cd8d@pushpin.city
+DTSTAMP:20270216T000000Z
+DTSTART:20270216T230000Z
+DTEND:20270217T010000Z
+SUMMARY:Hidden History of Black Boston (with Joel Mackall)
+LOCATION:Fields Corner Library\, 1520 Dorchester Ave\, Dorchester\, MA 0212
+ 2
+DESCRIPTION:https://bpl.bibliocommons.com/events/6afc7b1ed7e98e002c53665e
+URL:https://bpl.bibliocommons.com/events/6afc7b1ed7e98e002c53665e
+END:VEVENT
+END:VCALENDAR

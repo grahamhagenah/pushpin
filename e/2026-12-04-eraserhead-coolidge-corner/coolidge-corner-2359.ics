@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b8be15f10449e04cfe2c51ac9a66b73bb2d78f1a@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T045900Z
+DTEND:20261205T065900Z
+SUMMARY:Eraserhead
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/films/eraserhead
+URL:https://coolidge.org/films/eraserhead
+END:VEVENT
+END:VCALENDAR

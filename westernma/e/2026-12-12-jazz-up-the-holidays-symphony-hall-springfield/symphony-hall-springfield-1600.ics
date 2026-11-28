@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6d0f39da88b5ce6da1636f8adbb6773d904f80b8@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T210000Z
+DTEND:20261212T230000Z
+SUMMARY:Jazz Up the Holidays
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:https://www.symphonyhallspringfield.com/events/detail/jazz-up-t
+ he-holidays
+URL:https://www.symphonyhallspringfield.com/events/detail/jazz-up-the-holid
+ ays
+END:VEVENT
+END:VCALENDAR

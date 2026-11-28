@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c446e44c0c350e2ce9b240ff32c37f5df1e21098@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261202T233000Z
+DTEND:20261203T013000Z
+SUMMARY:An Evening With The New York Times Op-Docs 2026\, Part 2
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/an-evening-with-the-new-york-ti
+ mes-op-docs-2026-part-2/
+URL:https://www.ifccenter.com/films/an-evening-with-the-new-york-times-op-d
+ ocs-2026-part-2/
+END:VEVENT
+END:VCALENDAR

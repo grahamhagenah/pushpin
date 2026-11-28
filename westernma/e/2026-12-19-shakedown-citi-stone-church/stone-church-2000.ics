@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:497018dcf4a47d902730bb957b6660be4c25ba69@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261220T010000Z
+DTEND:20261220T030000Z
+SUMMARY:Shakedown CITI
+LOCATION:Stone Church\, 210 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://tickets.venuepilot.com/e/shakedown-citi-2026-12-19-ston
+ e-church-brattleboro-f61ffa
+URL:https://tickets.venuepilot.com/e/shakedown-citi-2026-12-19-stone-church
+ -brattleboro-f61ffa
+END:VEVENT
+END:VCALENDAR

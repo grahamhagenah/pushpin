@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:81bd3cbe2bc4c49a155356a61609ba666ad36761@pushpin.city
+DTSTAMP:20261130T000000Z
+DTSTART:20261130T230000Z
+DTEND:20261201T010000Z
+SUMMARY:The Marriage Circle
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/the-marriage-circle-silent-lubitsch
+URL:https://filmforum.org/film/the-marriage-circle-silent-lubitsch
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8ed5d174f426b5b5b244875c28da7bda0f64b74e@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T200000Z
+DTEND:20261212T220000Z
+SUMMARY:Lyle Brewer’s Wintery Mix
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/12/12/lyle-brewers-winte
+ ry-mix
+URL:https://www.lilypadinman.com/home/2026/12/12/lyle-brewers-wintery-mix
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e93135e4b7bf7c54ccbaa2f32d69160fe5ae925b@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261208T230000Z
+DTEND:20261209T010000Z
+SUMMARY:Sofia Devitt\, A Day Without Love\, Shorebird
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/sofia-devitt-a-day-without-love-sh
+ orebird-tickets-2002768963884
+URL:https://www.eventbrite.com/e/sofia-devitt-a-day-without-love-shorebird-
+ tickets-2002768963884
+END:VEVENT
+END:VCALENDAR

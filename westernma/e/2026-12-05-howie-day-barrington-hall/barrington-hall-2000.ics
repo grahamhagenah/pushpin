@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ad500d76cae892d978c1b918704b372197d2fb77@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Howie Day
+LOCATION:Barrington Hall\, 426 Stockbridge Rd\, Great Barrington\, MA 01230
+DESCRIPTION:https://live.barringtonhallgb.com/events/barringtonhall/2406379
+URL:https://live.barringtonhallgb.com/events/barringtonhall/2406379
+END:VEVENT
+END:VCALENDAR

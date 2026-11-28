@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b830ebe6f10f98a49c0d7f82d5e515c0e773f390@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T213000Z
+DTEND:20261213T233000Z
+SUMMARY:BENEDICT KOH BIG BAND + durianhead
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/12/13/benedict-koh-big-b
+ and-durianhead
+URL:https://www.lilypadinman.com/home/2026/12/13/benedict-koh-big-band-duri
+ anhead
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a7aa8dc4df61ac4f6459028f9f87effec6e52419@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:The Holiday Spectravaganza
+LOCATION:Barrington Hall\, 426 Stockbridge Rd\, Great Barrington\, MA 01230
+DESCRIPTION:https://live.barringtonhallgb.com/events/barringtonhall/2529785
+URL:https://live.barringtonhallgb.com/events/barringtonhall/2529785
+END:VEVENT
+END:VCALENDAR

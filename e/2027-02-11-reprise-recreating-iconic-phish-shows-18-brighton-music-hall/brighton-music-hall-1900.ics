@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:15bdd65e7ff4325e8d2d4c6a63a35c24d2c72cdc@pushpin.city
+DTSTAMP:20270211T000000Z
+DTSTART:20270212T000000Z
+DTEND:20270212T020000Z
+SUMMARY:Reprise - Recreating Iconic Phish Shows (18+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/reprise-recreating-iconic-phish-sh
+ ows-18-boston-massachusetts-02-11-2027/event/0100656DD6562130
+URL:https://www.ticketmaster.com/reprise-recreating-iconic-phish-shows-18-b
+ oston-massachusetts-02-11-2027/event/0100656DD6562130
+END:VEVENT
+END:VCALENDAR

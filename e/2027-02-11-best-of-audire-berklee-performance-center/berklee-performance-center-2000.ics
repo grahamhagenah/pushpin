@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:902f9e2a913ffb6ebc056619269e76a4ef9162d1@pushpin.city
+DTSTAMP:20270211T000000Z
+DTSTART:20270212T010000Z
+DTEND:20270212T030000Z
+SUMMARY:Best of Audire
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/best-of-audire
+URL:https://www.berklee.edu/BPC/events/best-of-audire
+END:VEVENT
+END:VCALENDAR

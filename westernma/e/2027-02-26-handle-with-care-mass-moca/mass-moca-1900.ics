@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a21163d9bec10542146db68e7b3f3ec944327ffb@pushpin.city
+DTSTAMP:20270226T000000Z
+DTSTART:20270227T000000Z
+DTEND:20270227T020000Z
+SUMMARY:Handle with Care
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:https://massmoca.org/event/handle-with-care-a-theater-performan
+ ce-in-a-box/
+URL:https://massmoca.org/event/handle-with-care-a-theater-performance-in-a-
+ box/
+END:VEVENT
+END:VCALENDAR

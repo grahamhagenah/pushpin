@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8bbe28804921c03d77101d69130d071102b2bec2@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T003000Z
+DTEND:20261202T023000Z
+SUMMARY:Boston Conservatory Choirs: Carols at St. Clements—Welcoming Wint
+ er
+LOCATION:Boston Conservatory\, 1105 Boylston St\, Boston\, MA 02215
+DESCRIPTION:https://bostonconservatory.berklee.edu/events/boston-conservato
+ ry-choirs-carols-at-st-clements-welcoming-winter
+URL:https://bostonconservatory.berklee.edu/events/boston-conservatory-choir
+ s-carols-at-st-clements-welcoming-winter
+END:VEVENT
+END:VCALENDAR

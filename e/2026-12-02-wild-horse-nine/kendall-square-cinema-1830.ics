@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d43893edd356c1df7bccd977b710a75b77b40141@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261202T233000Z
+DTEND:20261203T013000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Kendall Square Cinema\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/6c6544ef-
+ cfc6-5cda-9f74-171cb00850be
+URL:https://booking.landmarktheatres.com/launch/ticketing/6c6544ef-cfc6-5cd
+ a-9f74-171cb00850be
+END:VEVENT
+END:VCALENDAR

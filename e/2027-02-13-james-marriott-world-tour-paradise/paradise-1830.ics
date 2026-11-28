@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ce8ced1df8df544e1bc48a822f30c30ec184301d@pushpin.city
+DTSTAMP:20270213T000000Z
+DTSTART:20270213T233000Z
+DTEND:20270214T013000Z
+SUMMARY:James Marriott World Tour
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/james-marriott-world-tour-boston-m
+ assachusetts-02-13-2027/event/01006531CB1DC64D
+URL:https://www.ticketmaster.com/james-marriott-world-tour-boston-massachus
+ etts-02-13-2027/event/01006531CB1DC64D
+END:VEVENT
+END:VCALENDAR

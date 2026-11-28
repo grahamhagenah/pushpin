@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a12d08a5045389eb04b05316337bcc4f5151c97c@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T010000Z
+DTEND:20261212T030000Z
+SUMMARY:Slow Burn Speakeasy
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/slow-burn-speakeasy
+URL:https://www.nohoarts.org/slow-burn-speakeasy
+END:VEVENT
+END:VCALENDAR

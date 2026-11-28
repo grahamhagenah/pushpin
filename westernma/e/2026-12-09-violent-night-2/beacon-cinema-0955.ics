@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8f9a6a36daf425ff671cccf00927f29304fee527@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261209T145500Z
+DTEND:20261209T165500Z
+SUMMARY:Violent Night 2
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.phoenixmovies.net/movies/violent-night-2/HO00001815
+URL:https://www.phoenixmovies.net/movies/violent-night-2/HO00001815
+END:VEVENT
+END:VCALENDAR

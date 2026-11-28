@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5f048b329ba04e841ee2cfdd05f1ab01f6ceae3d@pushpin.city
+DTSTAMP:20270208T000000Z
+DTSTART:20270209T003000Z
+DTEND:20270209T023000Z
+SUMMARY:UMPHREY'S McGEE - Fresh Cut 2027
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/umphreys-mcgee-fresh-cut-2027/
+URL:https://aomtheatre.com/aom_event/umphreys-mcgee-fresh-cut-2027/
+END:VEVENT
+END:VCALENDAR

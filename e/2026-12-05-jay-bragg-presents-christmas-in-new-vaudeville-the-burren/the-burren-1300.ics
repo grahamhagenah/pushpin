@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:951e4a5a87ad6210a32a55bf492ecc32a8cdb03b@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T180000Z
+DTEND:20261205T200000Z
+SUMMARY:Jay Bragg Presents: Christmas in New Vaudeville
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1460
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1460
+END:VEVENT
+END:VCALENDAR

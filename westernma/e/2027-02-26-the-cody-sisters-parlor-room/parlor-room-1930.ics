@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:13e00b258cb86a8a64cf49e8ba60c14d14be7b4a@pushpin.city
+DTSTAMP:20270226T000000Z
+DTSTART:20270227T003000Z
+DTEND:20270227T023000Z
+SUMMARY:The Cody Sisters
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000DCAtmMAH
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0DCAtmMAH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4b4a87bd64454dc6e04b623350c1529d379ae0eb@pushpin.city
+DTSTAMP:20270205T000000Z
+DTSTART:20270206T010000Z
+DTEND:20270206T030000Z
+SUMMARY:Kurt Elling's Wildflowers
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/wildflowers-kurt
+ -elling-with-fred-hersch/
+URL:https://www.theplatformkendall.org/productions/wildflowers-kurt-elling-
+ with-fred-hersch/
+END:VEVENT
+END:VCALENDAR

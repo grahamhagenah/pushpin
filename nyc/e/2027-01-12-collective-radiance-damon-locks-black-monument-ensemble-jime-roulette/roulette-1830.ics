@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e58b3cbce8819b6828832272aafac88ac140b67f@pushpin.city
+DTSTAMP:20270112T000000Z
+DTSTART:20270112T233000Z
+DTEND:20270113T013000Z
+SUMMARY:Collective Radiance: Damon Locks Black Monument Ensemble / Jimetta 
+ Rose presents METTASUN / Victor Campbell / aja monet (Winter Jazzfest)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/collective-radiance-damon-locks-blac
+ k-monument-ensemble-jimetta-rose-presents-mettasun-victor-campell-aja-mone
+ t/
+URL:https://roulette.org/event/collective-radiance-damon-locks-black-monume
+ nt-ensemble-jimetta-rose-presents-mettasun-victor-campell-aja-monet/
+END:VEVENT
+END:VCALENDAR

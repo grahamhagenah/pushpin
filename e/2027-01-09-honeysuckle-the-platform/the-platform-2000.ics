@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bd98bce53d473c2bdae1cae6d5a06ff53c709a84@pushpin.city
+DTSTAMP:20270109T000000Z
+DTSTART:20270110T010000Z
+DTEND:20270110T030000Z
+SUMMARY:Honeysuckle
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/honeysuckle/
+URL:https://www.theplatformkendall.org/productions/honeysuckle/
+END:VEVENT
+END:VCALENDAR

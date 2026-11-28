@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0fb238147490328c2a23be1a03ce3589e2c16ea1@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T045500Z
+DTEND:20261129T065500Z
+SUMMARY:Young Blondes Stalked and Murdered
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/young-blondes-stalked-and-murd
+ ered/
+URL:https://www.spectacletheater.com/young-blondes-stalked-and-murdered/
+END:VEVENT
+END:VCALENDAR

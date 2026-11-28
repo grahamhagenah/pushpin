@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · De La Luz
+X-WR-CALDESC:What’s coming up at De La Luz\, from Pushpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:8e11b498ae859d45300c2029c7bec686a97b48a2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T030000Z
+DTEND:20261206T050000Z
+SUMMARY:FreakMass
+LOCATION:De La Luz\, 114 Race St\, Holyoke\, MA 01040
+DESCRIPTION:Soundstage\nThe biggest Christmas Party in New England\nhttps:/
+ /delaluz.org/events/freakmass\nFrom Pushpin Western Mass: https://pushpin.
+ city/westernma/
+URL:https://delaluz.org/events/freakmass
+END:VEVENT
+BEGIN:VEVENT
+UID:d19fd39da4c99863172733f46c07b0d03a24106f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:Danny Bedrosian & Secret Army
+LOCATION:De La Luz\, 114 Race St\, Holyoke\, MA 01040
+DESCRIPTION:Soundstage\nLocal funk-jazz five-piece Cosmic Chatter opens.\nh
+ ttps://delaluz.org/events/danny-bedrosian-and-secret-army\nFrom Pushpin We
+ stern Mass: https://pushpin.city/westernma/
+URL:https://delaluz.org/events/danny-bedrosian-and-secret-army
+END:VEVENT
+BEGIN:VEVENT
+UID:926cd9e8341fc482bcd91f058ba3bc8fa03b5b99@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T230000Z
+DTEND:20261214T010000Z
+SUMMARY:Kevin Sharpe Birthday Extravaganza
+LOCATION:De La Luz\, 114 Race St\, Holyoke\, MA 01040
+DESCRIPTION:Soundstage\nA lifetime of making music\, gathered on one stage.
+ \nhttps://delaluz.org/events/kevin-sharpe\nFrom Pushpin Western Mass: http
+ s://pushpin.city/westernma/
+URL:https://delaluz.org/events/kevin-sharpe
+END:VEVENT
+BEGIN:VEVENT
+UID:624449cc101b2beca2fa92fd617b0901c6ac278f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261221T000000Z
+DTEND:20261221T020000Z
+SUMMARY:Singer’s Cafe
+LOCATION:De La Luz\, 114 Race St\, Holyoke\, MA 01040
+DESCRIPTION:Divine Theater\nFirst-time singers and familiar Valley voices s
+ hare a live band at Singers Café.\nhttps://delaluz.org/events/singerscafe
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://delaluz.org/events/singerscafe
+END:VEVENT
+BEGIN:VEVENT
+UID:021820c4ac7c3965dfa41fa31d989121a1dc3ee8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270117T000000Z
+DTEND:20270117T020000Z
+SUMMARY:Harold López-Nussa
+LOCATION:De La Luz\, 114 Race St\, Holyoke\, MA 01040
+DESCRIPTION:Soundstage\nhttps://delaluz.org/events/harold-lopez-nussa\nFrom
+  Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://delaluz.org/events/harold-lopez-nussa
+END:VEVENT
+BEGIN:VEVENT
+UID:487fcf950a6717272d4fcba80f3fae51b1458812@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270123T000000Z
+DTEND:20270123T020000Z
+SUMMARY:Avery Sharpe Trio
+LOCATION:De La Luz\, 114 Race St\, Holyoke\, MA 01040
+DESCRIPTION:Soundstage\nAvery Sharpe is recording a live album and we'd lik
+ e you to be part of it.\nhttps://delaluz.org/events/avery-sharpe-trio\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://delaluz.org/events/avery-sharpe-trio
+END:VEVENT
+BEGIN:VEVENT
+UID:a423c8201d21c80c5c29130a0012bba77a3bb879@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270221T000000Z
+DTEND:20270221T020000Z
+SUMMARY:Gadan Featuring Enda Scahill
+LOCATION:De La Luz\, 114 Race St\, Holyoke\, MA 01040
+DESCRIPTION:Soundstage\nWe Banjo 3 founder Enda Scahill brings banjo fire t
+ o Gadan’s spirited mix of Irish tunes\, bluegrass and Appalachian folk.\
+ nhttps://delaluz.org/events/gadan-featuring-enda-scahill\nFrom Pushpin Wes
+ tern Mass: https://pushpin.city/westernma/
+URL:https://delaluz.org/events/gadan-featuring-enda-scahill
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ed53d2d0ed49c22d58deefa06a61fc552640c453@pushpin.city
+DTSTAMP:20270213T000000Z
+DTSTART:20270214T003000Z
+DTEND:20270214T023000Z
+SUMMARY:Joe Lovano Joyous Encounter Quartet
+LOCATION:Vermont Jazz Center\, 72 Cotton Mill Hill\, Brattleboro\, VT 05301
+DESCRIPTION:https://vtjazz.org/calendar/joe-lovano/
+URL:https://vtjazz.org/calendar/joe-lovano/
+END:VEVENT
+END:VCALENDAR

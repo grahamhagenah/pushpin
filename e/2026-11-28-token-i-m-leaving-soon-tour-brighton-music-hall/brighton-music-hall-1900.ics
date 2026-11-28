@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3951a3bfa1c25eb28a27af6bca8115d3bda51535@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Token: I'm Leaving Soon Tour
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/token-im-leaving-soon-tour-boston-
+ massachusetts-11-28-2026/event/010064EAEA152276
+URL:https://www.ticketmaster.com/token-im-leaving-soon-tour-boston-massachu
+ setts-11-28-2026/event/010064EAEA152276
+END:VEVENT
+END:VCALENDAR

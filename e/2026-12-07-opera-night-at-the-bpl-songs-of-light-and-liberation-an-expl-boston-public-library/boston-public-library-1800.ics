@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6362162e829f3fedef431637c1c536c001241113@pushpin.city
+DTSTAMP:20261207T000000Z
+DTSTART:20261207T230000Z
+DTEND:20261208T010000Z
+SUMMARY:Opera Night at the BPL: Songs of Light and Liberation: An Explorati
+ on of Many Faiths Through Music
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:https://bpl.bibliocommons.com/events/6af88f47e5605400508c9aae
+URL:https://bpl.bibliocommons.com/events/6af88f47e5605400508c9aae
+END:VEVENT
+END:VCALENDAR

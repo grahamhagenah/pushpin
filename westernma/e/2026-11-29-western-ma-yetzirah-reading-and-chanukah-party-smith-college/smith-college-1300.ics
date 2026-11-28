@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:292f6cde02512ba7f5d335c24a971437be3011ec@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:Western MA Yetzirah reading and Chanukah party
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:https://www.smith.edu/news-events/events/western-ma-yetzirah-re
+ ading-and-chanukah-party
+URL:https://www.smith.edu/news-events/events/western-ma-yetzirah-reading-an
+ d-chanukah-party
+END:VEVENT
+END:VCALENDAR

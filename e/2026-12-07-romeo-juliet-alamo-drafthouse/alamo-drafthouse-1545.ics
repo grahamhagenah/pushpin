@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fc90f8daa8d67ecce3fbc708a689293103961e5d@pushpin.city
+DTSTAMP:20261207T000000Z
+DTSTART:20261207T204500Z
+DTEND:20261207T224500Z
+SUMMARY:Romeo + Juliet
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/special-event-romeo-juliet-3
+ 0th-anniversary
+URL:https://drafthouse.com/boston/show/special-event-romeo-juliet-30th-anni
+ versary
+END:VEVENT
+END:VCALENDAR

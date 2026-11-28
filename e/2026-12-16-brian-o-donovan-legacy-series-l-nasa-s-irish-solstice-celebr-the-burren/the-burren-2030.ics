@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a8ee9a102a4855a02aa3d34b47f80e69e221fb4d@pushpin.city
+DTSTAMP:20261216T000000Z
+DTSTART:20261217T013000Z
+DTEND:20261217T033000Z
+SUMMARY:Brian O'Donovan Legacy Series: Lúnasa’s “Irish Solstice Celebr
+ ation” with special guest singer Dave Curley - TWO SHOWS
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=779
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=779
+END:VEVENT
+END:VCALENDAR

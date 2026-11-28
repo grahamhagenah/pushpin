@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8a1f9f693aadfdcce98936b7c8d9c9b3f0d084e8@pushpin.city
+DTSTAMP:20270130T000000Z
+DTSTART:20270131T000000Z
+DTEND:20270131T020000Z
+SUMMARY:Infected Mushroom (Live Band)
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/infected-mushroom-live-band-boston
+ -massachusetts-01-30-2027/event/01006564A6CA7DFA
+URL:https://www.ticketmaster.com/infected-mushroom-live-band-boston-massach
+ usetts-01-30-2027/event/01006564A6CA7DFA
+END:VEVENT
+END:VCALENDAR

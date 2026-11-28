@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8c098eca0669f9fd2e991c07e87354904bdf8612@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Gonzo The Grand / Trauma / Int3rn3t / Bullhead / A.T.P. / Aligned /
+  CMF MILO
+LOCATION:The Heavy Culture\, 1 Northampton St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.theheavyculture.coop/event-details-registration/gon
+ zo-the-grand-trauma-int3rn3t-bullhead-a-t-p-aligned-cmf-milo
+URL:https://www.theheavyculture.coop/event-details-registration/gonzo-the-g
+ rand-trauma-int3rn3t-bullhead-a-t-p-aligned-cmf-milo
+END:VEVENT
+END:VCALENDAR

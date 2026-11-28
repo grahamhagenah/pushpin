@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cb89a9b2c70feed1a3ade82881e01d0f8e6ba712@pushpin.city
+DTSTAMP:20261224T000000Z
+DTSTART:20261224T161500Z
+DTEND:20261224T181500Z
+SUMMARY:The Land Before Time
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999000637-the-land-before-time/
+URL:https://metrograph.com/film/9999000637-the-land-before-time/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8ac3114ff88922d190abfc1c2f65f343578d4b1a@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:AI and the Future of Filmmaking
+LOCATION:MIT\, 345 Vassar Street\, Cambridge\, MA 02139
+DESCRIPTION:https://calendar.mit.edu/event/ai-and-the-future-of-filmmaking
+URL:https://calendar.mit.edu/event/ai-and-the-future-of-filmmaking
+END:VEVENT
+END:VCALENDAR

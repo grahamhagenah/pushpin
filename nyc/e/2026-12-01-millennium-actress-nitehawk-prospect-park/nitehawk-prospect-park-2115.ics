@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d0da95f7e28819a6cd329d94bf038aa52eb64c68@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T021500Z
+DTEND:20261202T041500Z
+SUMMARY:Millennium Actress
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/millennium-actre
+ ss/
+URL:https://nitehawkcinema.com/prospectpark/movies/millennium-actress/
+END:VEVENT
+END:VCALENDAR

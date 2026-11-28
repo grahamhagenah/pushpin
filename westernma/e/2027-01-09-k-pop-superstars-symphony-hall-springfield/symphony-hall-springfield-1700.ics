@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6cf07b7c838e1c809de72efc189f17b8edb8cf98@pushpin.city
+DTSTAMP:20270109T000000Z
+DTSTART:20270109T220000Z
+DTEND:20270110T000000Z
+SUMMARY:K·POP SUPERSTARS
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:https://www.symphonyhallspringfield.com/events/detail/kpop-supe
+ rstars
+URL:https://www.symphonyhallspringfield.com/events/detail/kpop-superstars
+END:VEVENT
+END:VCALENDAR

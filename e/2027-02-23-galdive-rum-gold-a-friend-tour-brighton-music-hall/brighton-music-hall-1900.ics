@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:92a7be26d513b7ecfecdc666ae7af82072830af5@pushpin.city
+DTSTAMP:20270223T000000Z
+DTSTART:20270224T000000Z
+DTEND:20270224T020000Z
+SUMMARY:galdive & rum.gold: A Friend Tour
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/galdive-rumgold-a-friend-tour-bost
+ on-massachusetts-02-23-2027/event/01006562D197D3B4
+URL:https://www.ticketmaster.com/galdive-rumgold-a-friend-tour-boston-massa
+ chusetts-02-23-2027/event/01006562D197D3B4
+END:VEVENT
+END:VCALENDAR

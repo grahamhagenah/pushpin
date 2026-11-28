@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a74d5c23a679f149f987cd1d4513799ac3ee1af7@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T003000Z
+DTEND:20261211T023000Z
+SUMMARY:Monty Alexander
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/monty-alexander-
+ fy27/
+URL:https://www.theplatformkendall.org/productions/monty-alexander-fy27/
+END:VEVENT
+END:VCALENDAR

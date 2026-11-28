@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:97cdc6c8efb9106cb93e2b6f94df420f7a7ca52e@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Laura Anglade
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/laura-anglade/
+URL:https://www.theplatformkendall.org/productions/laura-anglade/
+END:VEVENT
+END:VCALENDAR

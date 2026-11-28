@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cabbab7ec2012b0c0673db5d9ed89250cf50512e@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261203T233000Z
+DTEND:20261204T013000Z
+SUMMARY:All of a Sudden
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/all-of-a-sudden
+URL:https://filmforum.org/film/all-of-a-sudden
+END:VEVENT
+END:VCALENDAR

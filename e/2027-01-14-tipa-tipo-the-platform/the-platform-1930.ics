@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b4a69e167acfc5f3c73c9e19888f4f7a89f55863@pushpin.city
+DTSTAMP:20270114T000000Z
+DTSTART:20270115T003000Z
+DTEND:20270115T023000Z
+SUMMARY:Tipa Tipo
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/tipa-tipo/
+URL:https://www.theplatformkendall.org/productions/tipa-tipo/
+END:VEVENT
+END:VCALENDAR

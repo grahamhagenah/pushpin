@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7873b3f6eb33a70057470a2aed85a59399b68c07@pushpin.city
+DTSTAMP:20270116T000000Z
+DTSTART:20270117T000000Z
+DTEND:20270117T020000Z
+SUMMARY:The Bowery Presents Jean-Michel Blais
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/jean-michael-blais/
+URL:https://artsatthearmory.org/events/jean-michael-blais/
+END:VEVENT
+END:VCALENDAR

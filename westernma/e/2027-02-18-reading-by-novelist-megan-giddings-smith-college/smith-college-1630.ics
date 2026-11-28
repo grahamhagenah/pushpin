@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fd516b854947e2a75671d3ca6fb59fde33f3c5f0@pushpin.city
+DTSTAMP:20270218T000000Z
+DTSTART:20270218T213000Z
+DTEND:20270218T233000Z
+SUMMARY:Reading by Novelist Megan Giddings
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:https://www.smith.edu/news-events/events/reading-novelist-megan
+ -giddings
+URL:https://www.smith.edu/news-events/events/reading-novelist-megan-gidding
+ s
+END:VEVENT
+END:VCALENDAR

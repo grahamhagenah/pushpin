@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:33bbfc112a7522ebac3425926a87486d74c2c4df@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:Sonido Mal Maiz
+LOCATION:Next Stage Arts\, 15 Kimball Hill\, Putney\, VT 05346
+DESCRIPTION:https://tickets.venuepilot.com/e/sonido-mal-maiz-2026-12-18-nex
+ t-stage-arts-putney-5e4f08
+URL:https://tickets.venuepilot.com/e/sonido-mal-maiz-2026-12-18-next-stage-
+ arts-putney-5e4f08
+END:VEVENT
+END:VCALENDAR

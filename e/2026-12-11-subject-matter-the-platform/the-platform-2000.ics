@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:56d28782a0ff049645f3819bec09606082c37fd2@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T010000Z
+DTEND:20261212T030000Z
+SUMMARY:Subject:Matter
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/subjectmatter-fy
+ 27/
+URL:https://www.theplatformkendall.org/productions/subjectmatter-fy27/
+END:VEVENT
+END:VCALENDAR

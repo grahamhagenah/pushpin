@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0b583bc311b1ee16369e53d93615f013b4e2daf6@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:Swinging Steaks with Wishbone Zoe
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:https://marigold.org/swingingsteakswishbonezone/
+URL:https://marigold.org/swingingsteakswishbonezone/
+END:VEVENT
+END:VCALENDAR

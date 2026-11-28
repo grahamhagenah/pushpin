@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:12b2058ba03e5f528d948b619d8a178920c5c81e@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T160500Z
+DTEND:20261129T180500Z
+SUMMARY:Fatherland
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/fatherland
+URL:https://amherstcinema.org/films-and-events/fatherland
+END:VEVENT
+END:VCALENDAR

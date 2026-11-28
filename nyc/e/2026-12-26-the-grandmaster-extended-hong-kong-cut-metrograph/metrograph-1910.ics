@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:98beaf8d5a46ff2280f282afc13b29b139a57d88@pushpin.city
+DTSTAMP:20261226T000000Z
+DTSTART:20261227T001000Z
+DTEND:20261227T021000Z
+SUMMARY:The Grandmaster [Extended Hong Kong Cut]
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999001260-the-grandmaster-extended
+ -hong-kong-cut/
+URL:https://metrograph.com/film/9999001260-the-grandmaster-extended-hong-ko
+ ng-cut/
+END:VEVENT
+END:VCALENDAR

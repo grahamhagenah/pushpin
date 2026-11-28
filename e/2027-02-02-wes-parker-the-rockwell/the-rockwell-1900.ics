@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:af94ef346189674ddd8318113cf70d0fe40f174b@pushpin.city
+DTSTAMP:20270202T000000Z
+DTSTART:20270203T000000Z
+DTEND:20270203T020000Z
+SUMMARY:Wes Parker
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/wes-parker/
+URL:https://therockwell.org/calendar/wes-parker/
+END:VEVENT
+END:VCALENDAR

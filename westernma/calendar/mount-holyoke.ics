@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Mount Holyoke
+X-WR-CALDESC:What’s coming up at Mount Holyoke\, from Pushpin Western Mas
+ s.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:3a391182c135563ac159df4f0829cba555a17319@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Percussion Ensemble Concert
+LOCATION:Mount Holyoke\, 1 Woolley Circle\, South Hadley\, MA
+DESCRIPTION:Mary Woolley Hall\nPlease join us for our percussion ensemble c
+ oncert Fall 2026!\nhttps://events.mtholyoke.edu/event/percussion-ensemble-
+ concert-8465\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://events.mtholyoke.edu/event/percussion-ensemble-concert-8465
+END:VEVENT
+BEGIN:VEVENT
+UID:a9ca85936035bd8e2cb7b507ec1a89464277ff11@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:Mount Holyoke Symphony Orchestra: Mary Lyon Concert
+LOCATION:Mount Holyoke\, 3 Gateway Road\, South Hadley\, MA
+DESCRIPTION:Abbey Memorial Chapel\nThe Mount Holyoke Symphony Orchestra hon
+ ors the pioneering spirit of its founder through music by two remarkable w
+ omen separated by more than a century.\nhttps://events.mtholyoke.edu/event
+ /mary-lyon-concert-2026\nFrom Pushpin Western Mass: https://pushpin.city/w
+ esternma/
+URL:https://events.mtholyoke.edu/event/mary-lyon-concert-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:ece746dc7f711f302c4d9813695d204b7c329c49@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T210000Z
+DTEND:20261206T230000Z
+SUMMARY:Holiday Vespers
+LOCATION:Mount Holyoke\, 3 Gateway Road\, South Hadley\, MA
+DESCRIPTION:Times: 4pm\, 7:30pm\nAbbey Memorial Chapel\nJoin the Mount Holy
+ oke Choral Forces\, Jazz Ensembles\, Klezmer Ensemble\, Flute Choir\, and 
+ the English Handbell Ensemble for their annual performance of Holiday Vesp
+ ers.\nhttps://events.mtholyoke.edu/event/holiday-vespers\nFrom Pushpin Wes
+ tern Mass: https://pushpin.city/westernma/
+URL:https://events.mtholyoke.edu/event/holiday-vespers
+END:VEVENT
+BEGIN:VEVENT
+UID:5bf915de1e120cdc4e5f883049c6f0df4c0b54fb@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T003000Z
+DTEND:20261209T023000Z
+SUMMARY:Five College West African Music Ensemble
+LOCATION:Mount Holyoke\, 6 Dunlap Place\, South Hadley\, MA
+DESCRIPTION:Kendall Sports & Dance Complex\nStudents from MUS161 and MUS261
+  will perform music from the Gbe speaking people of southern Ghana\, Togo 
+ and Benin on traditional instruments.\nhttps://events.mtholyoke.edu/event/
+ five-college-west-african-music-ensemble\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://events.mtholyoke.edu/event/five-college-west-african-music-ense
+ mble
+END:VEVENT
+BEGIN:VEVENT
+UID:aca620fc0415b550d483f70595604c2b6e8cf61e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270227T010000Z
+DTEND:20270227T030000Z
+SUMMARY:Orchestra & Glee Club: Consolations and Triumphs
+LOCATION:Mount Holyoke\, 3 Gateway Road\, South Hadley\, MA
+DESCRIPTION:Abbey Memorial Chapel\nCelebrating the 150th anniversary of cho
+ ral music at Mount Holyoke\, the Symphony Orchestra joins the historic Gle
+ e Club in Brahms's luminous Nänie\, a meditation on beauty\, loss\, and t
+ he enduring power of art.\nhttps://events.mtholyoke.edu/event/orchestra-gl
+ ee-club-consolations-and\nFrom Pushpin Western Mass: https://pushpin.city/
+ westernma/
+URL:https://events.mtholyoke.edu/event/orchestra-glee-club-consolations-and
+END:VEVENT
+END:VCALENDAR

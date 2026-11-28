@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fd3738f5321f518614c9c6c70b3c399c2fbd7e4f@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T003000Z
+DTEND:20261203T023000Z
+SUMMARY:Fandango featuring Brian Templeton
+LOCATION:Sally O'Brien's\, 335 Somerville Ave\, Somerville\, MA 02143
+DESCRIPTION:https://www.sallyobriensbar.com/music/
+URL:https://www.sallyobriensbar.com/music/
+END:VEVENT
+END:VCALENDAR

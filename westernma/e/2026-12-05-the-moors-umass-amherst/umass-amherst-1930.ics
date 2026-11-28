@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4cfed984629da33b763d641d487ec3fb19f37f44@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:The Moors
+LOCATION:UMass Amherst\, 151 Presidents Drive\, Amherst\, MA 01003
+DESCRIPTION:https://events.umass.edu/event/the-moors
+URL:https://events.umass.edu/event/the-moors
+END:VEVENT
+END:VCALENDAR

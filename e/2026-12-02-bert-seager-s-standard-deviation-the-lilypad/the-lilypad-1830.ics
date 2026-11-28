@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:77500d186059e79acdd632fa3d089a97ac4733a9@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261202T233000Z
+DTEND:20261203T013000Z
+SUMMARY:Bert Seager's Standard Deviation
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/bert-seagers-standard-de
+ viation-49b7p
+URL:https://www.lilypadinman.com/home/2026/bert-seagers-standard-deviation-
+ 49b7p
+END:VEVENT
+END:VCALENDAR

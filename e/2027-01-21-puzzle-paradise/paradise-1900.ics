@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7e105a58c910ceeb2ff3a24f3f86ad39dafcf89f@pushpin.city
+DTSTAMP:20270121T000000Z
+DTSTART:20270122T000000Z
+DTEND:20270122T020000Z
+SUMMARY:Puzzle
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/puzzle-boston-massachusetts-01-21-
+ 2027/event/0100654FDA606093
+URL:https://www.ticketmaster.com/puzzle-boston-massachusetts-01-21-2027/eve
+ nt/0100654FDA606093
+END:VEVENT
+END:VCALENDAR

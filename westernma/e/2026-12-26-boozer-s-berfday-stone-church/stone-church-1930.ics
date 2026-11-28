@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab3e601d70dfc985ca17097b86be129c94fec5f8@pushpin.city
+DTSTAMP:20261226T000000Z
+DTSTART:20261227T003000Z
+DTEND:20261227T023000Z
+SUMMARY:Boozer's Berfday
+LOCATION:Stone Church\, 210 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://tickets.venuepilot.com/e/boozer-s-berfday-2026-12-26-st
+ one-church-brattleboro-393b48
+URL:https://tickets.venuepilot.com/e/boozer-s-berfday-2026-12-26-stone-chur
+ ch-brattleboro-393b48
+END:VEVENT
+END:VCALENDAR

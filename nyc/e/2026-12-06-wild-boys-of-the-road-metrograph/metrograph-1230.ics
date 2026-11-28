@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eecf369de718d965285c0e6812d7af928dba4e32@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Wild Boys of the Road
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005124-wild-boys-of-the-road/
+URL:https://metrograph.com/film/9999005124-wild-boys-of-the-road/
+END:VEVENT
+END:VCALENDAR

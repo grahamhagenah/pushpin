@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · 52 Sumner
+X-WR-CALDESC:What’s coming up at 52 Sumner\, from Pushpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:e0496950473db0cf88c31ffa43cd8e4b3c150f7c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Creepy Christmas Carol
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:Produced by FEVER\nhttps://feverup.com/m/774100\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://feverup.com/m/774100
+END:VEVENT
+BEGIN:VEVENT
+UID:c50a05e9257de57d77a58235423ebd2b6c40f873@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Tom Hambridge - Blue 52 Series
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:https://www.eventbrite.com/e/tom-hambridge-out-front-blue-52-se
+ ries-with-a-5x-grammy-winner-tickets-2001406360300\nFrom Pushpin Western M
+ ass: https://pushpin.city/westernma/
+URL:https://www.eventbrite.com/e/tom-hambridge-out-front-blue-52-series-wit
+ h-a-5x-grammy-winner-tickets-2001406360300
+END:VEVENT
+BEGIN:VEVENT
+UID:614525948b676f17051713f0ffc791d0709afe19@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:It's a Wonderful Life: the Radio Play
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:https://www.eventbrite.com/e/its-a-wonderful-life-radio-play-ti
+ ckets-2003828502994\nFrom Pushpin Western Mass: https://pushpin.city/weste
+ rnma/
+URL:https://www.eventbrite.com/e/its-a-wonderful-life-radio-play-tickets-20
+ 03828502994
+END:VEVENT
+BEGIN:VEVENT
+UID:1555ad2ded5cd1b78a2daae358c954b8b2c094c9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:It's a Wonderful Life: the Radio Play
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:https://www.eventbrite.com/e/its-a-wonderful-life-radio-play-ti
+ ckets-2003828502994\nFrom Pushpin Western Mass: https://pushpin.city/weste
+ rnma/
+URL:https://www.eventbrite.com/e/its-a-wonderful-life-radio-play-tickets-20
+ 03828502994
+END:VEVENT
+BEGIN:VEVENT
+UID:58664c4b1dce2a281a042bc55024e091fc1b3cbd@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Brandon Santini - Blue 52 Series New Year Kick-off
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:https://www.eventbrite.com/e/brandon-santini-the-blue-52-series
+ -new-year-kick-off-tickets-2001409788554\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://www.eventbrite.com/e/brandon-santini-the-blue-52-series-new-yea
+ r-kick-off-tickets-2001409788554
+END:VEVENT
+BEGIN:VEVENT
+UID:fdb549e0070fcfd60a43f9a3b16d44125c4874ff@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:BEYOND PURPLE: Tribute to Deep Purple and Whitesnake
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:https://www.eventbrite.com/e/beyond-purple-tribute-to-deep-purp
+ le-and-whitesnake-tickets-2004017280633\nFrom Pushpin Western Mass: https:
+ //pushpin.city/westernma/
+URL:https://www.eventbrite.com/e/beyond-purple-tribute-to-deep-purple-and-w
+ hitesnake-tickets-2004017280633
+END:VEVENT
+BEGIN:VEVENT
+UID:7960f1b18f4b0289765726624bd01bc3ba50aef5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Seconds Out - Genesis Tribute
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:https://www.eventbrite.com/e/seconds-out-a-tribute-to-genesis-t
+ ickets-1998890677826\nFrom Pushpin Western Mass: https://pushpin.city/west
+ ernma/
+URL:https://www.eventbrite.com/e/seconds-out-a-tribute-to-genesis-tickets-1
+ 998890677826
+END:VEVENT
+BEGIN:VEVENT
+UID:c0093f10169e7261137b075a7ab47a8a97a0c770@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Springfield Symphony Chamber Players - Quartetto Mosso
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:https://ci.ovationtix.com/37039/production/1293697\nFrom Pushpi
+ n Western Mass: https://pushpin.city/westernma/
+URL:https://ci.ovationtix.com/37039/production/1293697
+END:VEVENT
+END:VCALENDAR

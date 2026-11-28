@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f2bf5fdf8148217aaadc35b9d590ac14ae1a930d@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Agenbite Misery / Hauzu / Hexrot
+LOCATION:The Heavy Culture\, 1 Northampton St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.theheavyculture.coop/event-details-registration/age
+ nbite-misery-hauzu-hexrot
+URL:https://www.theheavyculture.coop/event-details-registration/agenbite-mi
+ sery-hauzu-hexrot
+END:VEVENT
+END:VCALENDAR

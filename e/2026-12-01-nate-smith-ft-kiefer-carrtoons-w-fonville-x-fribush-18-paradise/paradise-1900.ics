@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6fbaebb8764e3baeaf9415f2f774fda3f9c1d37e@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:Nate Smith ft. Kiefer & CARRTOONS w/ Fonville x Fribush (18+)
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/nate-smith-ft-kiefer-carrtoons-w-b
+ oston-massachusetts-12-01-2026/event/010064E9B3F02965
+URL:https://www.ticketmaster.com/nate-smith-ft-kiefer-carrtoons-w-boston-ma
+ ssachusetts-12-01-2026/event/010064E9B3F02965
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a5bcd9a6f3c995dd6f591bf9b1715878b0d9b9fb@pushpin.city
+DTSTAMP:20270204T000000Z
+DTSTART:20270205T000000Z
+DTEND:20270205T020000Z
+SUMMARY:Don Was & The Pan Detroit Ensemble
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000DEIVRMA5
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0DEIVRMA5
+END:VEVENT
+END:VCALENDAR

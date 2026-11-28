@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8d23cd9164d108c826a5660b8456b7df0a35e403@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T190000Z
+SUMMARY:2026 Fall Semester Student Showcase
+LOCATION:Vermont Jazz Center\, 72 Cotton Mill Hill\, Brattleboro\, VT 05301
+DESCRIPTION:https://vtjazz.org/calendar/2026-fall-semester-student-showcase
+ /
+URL:https://vtjazz.org/calendar/2026-fall-semester-student-showcase/
+END:VEVENT
+END:VCALENDAR

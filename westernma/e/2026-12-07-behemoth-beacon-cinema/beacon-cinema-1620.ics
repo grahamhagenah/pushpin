@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:08c049b2002c1fc9fb3f4acd6fdbdf555b533952@pushpin.city
+DTSTAMP:20261207T000000Z
+DTSTART:20261207T212000Z
+DTEND:20261207T232000Z
+SUMMARY:Behemoth!
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.phoenixmovies.net/movies/behemoth!/HO00001825
+URL:https://www.phoenixmovies.net/movies/behemoth!/HO00001825
+END:VEVENT
+END:VCALENDAR

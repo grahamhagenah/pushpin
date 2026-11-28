@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e21597791d5431bff075f992089e1d5f3fd8d477@pushpin.city
+DTSTAMP:20270108T000000Z
+DTSTART:20270109T010000Z
+DTEND:20270109T030000Z
+SUMMARY:Jill McCracken Album Release Show
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1542177
+URL:https://www.sinclaircambridge.com/events/detail/1542177
+END:VEVENT
+END:VCALENDAR

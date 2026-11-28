@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d67e8baf2cc222ff4a47794eb3b7a82552db75e7@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261201T230000Z
+DTEND:20261202T010000Z
+SUMMARY:SURGE: A Participatory Performance on Sea Level Rise
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://calendar.mit.edu/event/surge-a-participatory-performanc
+ e-on-sea-level-rise
+URL:https://calendar.mit.edu/event/surge-a-participatory-performance-on-sea
+ -level-rise
+END:VEVENT
+END:VCALENDAR

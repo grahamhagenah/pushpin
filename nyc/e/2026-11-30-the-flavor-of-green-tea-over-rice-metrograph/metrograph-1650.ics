@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:43ba64a53af7487d0c92d6e32081eb423f6d2611@pushpin.city
+DTSTAMP:20261130T000000Z
+DTSTART:20261130T215000Z
+DTEND:20261130T235000Z
+SUMMARY:The Flavor of Green Tea Over Rice
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999003990-the-flavor-of-green-tea-
+ over-rice/
+URL:https://metrograph.com/film/9999003990-the-flavor-of-green-tea-over-ric
+ e/
+END:VEVENT
+END:VCALENDAR

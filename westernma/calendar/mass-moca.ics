@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Mass MoCA
+X-WR-CALDESC:What’s coming up at Mass MoCA\, from Pushpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:92352d7371ab06bd6e509c137f7cc72b4c9c067a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Kimberly Bartosik: bLUr
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:bLUr\, choreographed by Kimberly Bartosik\, is a highly physica
+ l and emotionally intense dance piece in which five performers navigate sc
+ enes of desire\, care\, violence\, and tender rescue.\nhttps://massmoca.or
+ g/event/kimberly-bartosik-blur/\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://massmoca.org/event/kimberly-bartosik-blur/
+END:VEVENT
+BEGIN:VEVENT
+UID:9db68444be0f8ad52d7c6653ddcdbbeae683f5c3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T223000Z
+DTEND:20261219T003000Z
+SUMMARY:Weave\, Repair\, Connect
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Textile Repair Salon\nDip your toes into the world of textiles 
+ during MASS MoCA’s Textile Repair Salon! Join regional practitioners Jen
+ a Duncan and Elsa Cousins from Swanson’s Fabrics Stash House and MASS Mo
+ CA museum educators for a casual evening of textile repair\, embroidery\, 
+ and small-scale weaving.\nhttps://massmoca.org/event/textile-salon-weave-r
+ epair-connect/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/textile-salon-weave-repair-connect/
+END:VEVENT
+BEGIN:VEVENT
+UID:aa81200787ca17d942c116ac515b72b34e6a95ea@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Machine Dazzle: Changes
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:The Costume Design for Taylor Mac’s A 24-Decade History of Po
+ pular Music\nMachine Dazzle has been creating extraordinary costumes for o
+ ver 30 years. As an artist\, costume designer\, set designer\, and perform
+ ance artist\, he has presented his genre-defying work at venues ranging fr
+ om Broadway to the runway\, wowing audiences from Joe’s Pub to the Museu
+ m of Arts and Design in New York. As the nation marks 250 years of America
+ ’s history\, MASS MoCA will showcase wearable sculptural looks by the ar
+ tist that examine the 24 decades since the founding of the United States i
+ n 1776.\nhttps://massmoca.org/event/machine-dazzle-changes-the-costume-des
+ ign-for-taylor-macs-a-24-decade-history-of-popular-music/\nFrom Pushpin We
+ stern Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/machine-dazzle-changes-the-costume-design-fo
+ r-taylor-macs-a-24-decade-history-of-popular-music/
+END:VEVENT
+BEGIN:VEVENT
+UID:946a26fdcc3c23968a69189f3271747f87a88b47@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:The Oath
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:through Jun 30\nSince the beginning of time — in community\, 
+ clan\, congregation\, and club — humans have developed systems\, both ut
+ opian and dystopian\, for moving together in unison in large groups. The O
+ ath\, a film based on Annie-B Parson’s stage choreography\, explores hum
+ anity’s dance of vernacular and poetic group actions. Set in a vivid uni
+ verse of color\, the work spans time\, from the primeval age and into the 
+ future\, and features seventeen women and femmes moving as one for purpose
+  and for pleasure\, to gather\, to bond\, to intimidate\, to believe\, to 
+ fight\, to promise – to dance.\nhttps://massmoca.org/event/annie-b-parso
+ n-and-alla-kovgan-big-dance-theater-the-oath/\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://massmoca.org/event/annie-b-parson-and-alla-kovgan-big-dance-the
+ ater-the-oath/
+END:VEVENT
+BEGIN:VEVENT
+UID:b994f44c52b0b7f20b49ec7d03d1695fbdcb8071@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Nick Meyer
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:through Jun 30\nNick Meyer lives and works in Western Massachus
+ etts. Taking a documentary-adjacent approach\, his photographs explore per
+ manence and mutability\, finding beauty in the patina of decay and the wor
+ n-away by time. Photographed in Western Massachusetts\, his imagery is ine
+ xtricably tied to this place and instantly recognizable to anyone who has 
+ spent time here.\nhttps://massmoca.org/event/nick-meyer-good-bones/\nFrom 
+ Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/nick-meyer-good-bones/
+END:VEVENT
+BEGIN:VEVENT
+UID:e88da4700af5b2a462d5d888b88bc058f4d375ae@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270121T230000Z
+DTEND:20270122T010000Z
+SUMMARY:On the Queer Songbook:
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Taylor Mac and Matt Ray\n“Music solves 99% of the problems in
+  the world. We hope to nudge readers\, listeners\, movers\, singers\, and 
+ music makers into an openhearted prayer (or spell) of ecstatic frenzy.” 
+ — Taylor Mac Renegade theater artists Taylor Mac\, Matt Ray\, and Machin
+ e Dazzle’s four-hour rock opera\, Bark of Millions\, is an electrifying 
+ collision of performance\, live music\, and drag spectacle celebrating que
+ erness\, with the fierce elation of a pride parade.\nhttps://massmoca.org/
+ event/on-the-queer-songbook-taylor-mac-and-matt-ray/\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/on-the-queer-songbook-taylor-mac-and-matt-ra
+ y/
+END:VEVENT
+BEGIN:VEVENT
+UID:cf34aead68a15d865c47f2f51e95a9390eed52d8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Community Free Day
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:January 2027\nFree for all who walk through our doors\, MASS Mo
+ CA’s biannual community celebration is an invitation to all to explore e
+ very corner of the museum and grounds.\nhttps://massmoca.org/event/communi
+ ty-free-day-january-2027/\nFrom Pushpin Western Mass: https://pushpin.city
+ /westernma/
+URL:https://massmoca.org/event/community-free-day-january-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:961eb593f690d84f12bc9176430d8cb1712ab7df@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270131T000000Z
+DTEND:20270131T020000Z
+SUMMARY:Gibney Company: Another Look
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Choreography by Lucinda Childs\, Composition by Philip Glass\n
+ “The troupe’s superpower is clear: its strong and versatile dancers\, 
+ artists who appear to be physically capable of anything.” —The New Yor
+ k Times\, June 2022 Following two successful collaborations\, Gibney Compa
+ ny Resident Choreographer Lucinda Childs is creating a full-length work se
+ t to Another Look at Harmony\, Part 4\, a major score by Philip Glass that
+  has never been choreographed at this scale. Premiering at New York City C
+ enter in January 2027\, the work is conceived in celebration of Philip Gla
+ ss’ 90th birthday and reunites two defining figures of American minimali
+ sm in a rare and timely artistic convergence.\nhttps://massmoca.org/event/
+ gibney-company-another-look-choreography-by-lucinda-childs-composition-by-
+ philip-glass/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/gibney-company-another-look-choreography-by-
+ lucinda-childs-composition-by-philip-glass/
+END:VEVENT
+BEGIN:VEVENT
+UID:cf378b6c2ed5897a4613af23e1539091e1e2f5ba@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270207T000000Z
+DTEND:20270207T020000Z
+SUMMARY:Perfume Genius & Kate Wallich:
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:The Lesson\nPerfume Genius (Mike Hadreas) and choreographer Kat
+ e Wallich return to the stage with a new collaboration.\nhttps://massmoca.
+ org/event/perfume-genius-and-kate-wallich-the-lesson/\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/perfume-genius-and-kate-wallich-the-lesson/
+END:VEVENT
+BEGIN:VEVENT
+UID:32d908c02b05bd1b2cb4726a0e2aeeca8a82cb3a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270210T220000Z
+DTEND:20270211T000000Z
+SUMMARY:On the Calculation of Volume (Book II)
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Book Talk with Lizzie Whitman\n“How on earth did this book co
+ me into being? It’s like it has always been here in this world with us\,
+  like one feels about the best art. I am torn as I read it between lingeri
+ ng and racing ahead\, and I think about my days completely differently now
+ .” — Sheila Heti Lizzie Whitman convenes this casual book club around 
+ Solvej Balle’s utterly riveting On the Calculation of Volume (Book II) 
+ — the grand opening of her speculative fiction septology\, winner of the
+  2022 Nordic Council Literature Prize (Scandinavia’s most important lite
+ rary award) for being “a masterpiece of its time.” Balle was also nomi
+ nated for the International Booker Prize and a National Book Award for thi
+ s book.\nhttps://massmoca.org/event/on-the-calculation-of-volume-book-iibo
+ ok-talk-with-lizzie-whitman/\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://massmoca.org/event/on-the-calculation-of-volume-book-iibook-tal
+ k-with-lizzie-whitman/
+END:VEVENT
+BEGIN:VEVENT
+UID:c5e6a55d2469b5ebb823df745bef517ea8b9f4bc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270211T223000Z
+DTEND:20270212T003000Z
+SUMMARY:Artist Workshop:
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Fresco building with Daniela Rivera\nJoin the artist of Hacia C
+ uando (To When)\, Daniela Rivera\, for a process-oriented workshop on Fres
+ co making. Each participant will receive materials and instructions to cre
+ ate individual\, small-scale frescos on wood panels.\nhttps://massmoca.org
+ /event/artist-workshop-fresco-building-with-daniela-rivera/\nFrom Pushpin 
+ Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/artist-workshop-fresco-building-with-daniela
+ -rivera/
+END:VEVENT
+BEGIN:VEVENT
+UID:796e6d53be4993a4c6adcbced40191f76dafdce1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Touki Delphine:
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:through Feb 19\nSUPERDRUM consists of more than one hundred sec
+ ond-hand drums\, donated by the public or sourced through online marketpla
+ ces\, thrift stores\, and attics. No two drums are the same\; each carries
+  its own history in its shape\, dents\, discoloration\, and old band logos
+ .\nhttps://massmoca.org/event/touki-delphine-superdrum/\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/touki-delphine-superdrum/
+END:VEVENT
+BEGIN:VEVENT
+UID:3f82db9d3684474df8c5bd0e14fb3642dd293670@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270220T223000Z
+DTEND:20270221T003000Z
+SUMMARY:Piano QUI-Poem
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Performance by Cecilia Vicuña and Ricardo Gallo\nPoetry\, pian
+ o\, flutes\, and synthesizer come together in a performance that will neve
+ r happen the same way twice. Renowned artist Cecilia Vicuña and pianist R
+ icardo Gallo bring Vicuña’s poems to life\, building a sonic and poetic
+  world in real time.\nhttps://massmoca.org/event/piano-qui-poem-performanc
+ e-by-cecilia-vicuna-and-ricardo-gallo/\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://massmoca.org/event/piano-qui-poem-performance-by-cecilia-vicuna
+ -and-ricardo-gallo/
+END:VEVENT
+BEGIN:VEVENT
+UID:e6ca674cacdcf2d7f2c72fc4c20e0f59dc4ee60b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270227T000000Z
+DTEND:20270227T020000Z
+SUMMARY:Handle with Care
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:A theater performance in a box\nHandle with Care is a theater p
+ erformance in a box. No actors\, no technicians. Just a box. And you.\nhtt
+ ps://massmoca.org/event/handle-with-care-a-theater-performance-in-a-box/\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/handle-with-care-a-theater-performance-in-a-
+ box/
+END:VEVENT
+END:VCALENDAR

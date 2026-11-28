@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3cadd05c9a32db3cf354215478507febfd51219f@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T210000Z
+DTEND:20261206T230000Z
+SUMMARY:14th Annual Italian Christmas Concert
+LOCATION:Boston Conservatory\, 12 North Square\, Boston\, MA 02113
+DESCRIPTION:https://bostonconservatory.berklee.edu/events/14th-annual-itali
+ an-christmas-concert
+URL:https://bostonconservatory.berklee.edu/events/14th-annual-italian-chris
+ tmas-concert
+END:VEVENT
+END:VCALENDAR

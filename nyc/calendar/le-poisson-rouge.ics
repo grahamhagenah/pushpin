@@ -1,0 +1,486 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Le Poisson Rouge
+X-WR-CALDESC:What’s coming up at Le Poisson Rouge\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:331813d4ca1be806137565fdf562baa6694f6d71@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T233000Z
+DTEND:20261129T013000Z
+SUMMARY:The Last Waltz
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/tlw26nyc/\nFrom Pushpin NYC: https:/
+ /pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/tlw26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:020a89d854ce59f1dac6c94eb630e755f7eb068c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T040000Z
+DTEND:20261129T060000Z
+SUMMARY:Y2K Party
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/y2knov26nyc/\nFrom Pushpin NYC: http
+ s://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/y2knov26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:633fc11b51235a88f6a9f9be139e8ea6ff433516@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T233000Z
+DTEND:20261203T013000Z
+SUMMARY:Nate Smith
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:with CARRTOONS & Fonville x Fribush\nhttps://lpr.com/lpr_events
+ /nates26nyc/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/nates26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:b806424527f5c6fa06f41a80ae5a0dcf44e0ba48@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T020000Z
+DTEND:20261204T040000Z
+SUMMARY:The Choreographer’s Carnival NYC
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/choreo1226nyc/\nFrom Pushpin NYC: ht
+ tps://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/choreo1226nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:75ec78b747225b18fbe50be3a748eb22aa563947@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T230000Z
+DTEND:20261205T010000Z
+SUMMARY:Herbert Holler’s Freedom™ Party NYC
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/hhdec26nyc/\nFrom Pushpin NYC: https
+ ://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/hhdec26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:121588603bc489da3b2f916ad727cea0e3315014@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T040000Z
+DTEND:20261205T060000Z
+SUMMARY:WHO’S DANCING?™
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/wd26nyc/\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/wd26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:c555f6f86e211287c89afc87e8039ebb9a3a1674@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T220000Z
+DTEND:20261206T000000Z
+SUMMARY:Matinee Social Club: Matinee Holiday
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/mscdec26nyc/\nFrom Pushpin NYC: http
+ s://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/mscdec26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:1f7d8a0eb03816c39bfd76f70041712345c3ea7a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T040000Z
+DTEND:20261206T060000Z
+SUMMARY:Gimme Gimme Disco
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/ggd12413/\nFrom Pushpin NYC: https:/
+ /pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/ggd12413/
+END:VEVENT
+BEGIN:VEVENT
+UID:849bbe8a6d70bc0a82709e97641606c3babd979e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T233000Z
+DTEND:20261207T013000Z
+SUMMARY:Friendship & Charlotte Cornfield
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/fcc26nyc/\nFrom Pushpin NYC: https:/
+ /pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/fcc26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:abd0adaa190f07173f83d4a23cbf5ba5cf5ad2e2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261207T233000Z
+DTEND:20261208T013000Z
+SUMMARY:Young M.A
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/yma26nyc/\nFrom Pushpin NYC: https:/
+ /pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/yma26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4a03dd7431f07af15150e061fe702db1903b43@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261208T230000Z
+DTEND:20261209T010000Z
+SUMMARY:Jackie Evans
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/jackie0126nyc/\nFrom Pushpin NYC: ht
+ tps://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/jackie0126nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a7939c5efce2a52ef432d54b940459afdc67070@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T230000Z
+DTEND:20261210T010000Z
+SUMMARY:Jackie Evans
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/jackie0226nyc/\nFrom Pushpin NYC: ht
+ tps://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/jackie0226nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:0cbfaa00b53766e5daeabd29c2c763a6f4771da5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:Steven Page
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/spt26nyc/\nFrom Pushpin NYC: https:/
+ /pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/spt26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:60ae050f3e4befbc5f1ff2529eb91f63936c1422@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T233000Z
+DTEND:20261212T013000Z
+SUMMARY:King Buffalo
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:with Handsome Jack\nhttps://lpr.com/lpr_events/kb26nyc/\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/kb26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:60a79ec4cd1c5918ae32f4f277f78a4c9db4daff@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T040000Z
+DTEND:20261212T060000Z
+SUMMARY:Nightmare Before Xmas
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/xmas26nyc/\nFrom Pushpin NYC: https:
+ //pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/xmas26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:1efa1597d71fc0b28b96d64eb80927b118b34128@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T040000Z
+DTEND:20261213T060000Z
+SUMMARY:Jams
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/jams1226nyc/\nFrom Pushpin NYC: http
+ s://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/jams1226nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:655d805a3ca5da78fd8f7867500356f9ee115db5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T233000Z
+DTEND:20261214T013000Z
+SUMMARY:Bettye LaVette
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/bl26nyc/\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/bl26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:0043e481f695893a5630c7cdcdaff4148a5dcd0e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261215T233000Z
+DTEND:20261216T013000Z
+SUMMARY:The Bean Tones
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/tbt26nyc/\nFrom Pushpin NYC: https:/
+ /pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/tbt26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:17d38b7cf11f6e2f015fdae3865387b6fa2f2e97@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261217T000000Z
+DTEND:20261217T020000Z
+SUMMARY:UNKLE SOUNDS
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/unkle26nyc/\nFrom Pushpin NYC: https
+ ://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/unkle26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:82deca9281f7942a3e5cc7630f02dcc98cb9a8f5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261217T233000Z
+DTEND:20261218T013000Z
+SUMMARY:Jon McLaughlin
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:with Chris Trapper\nhttps://lpr.com/lpr_events/jm26nyc/\nFrom P
+ ushpin NYC: https://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/jm26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:a260aaaba38d3102d1fb2c4163db8e696e68b00d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T230000Z
+DTEND:20261219T010000Z
+SUMMARY:The Slackers
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:with The Bandulus & Ratas En Zelo\nhttps://lpr.com/lpr_events/s
+ lackerslpr26/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/slackerslpr26/
+END:VEVENT
+BEGIN:VEVENT
+UID:c9d742596e9cf4a27fc67009824f19195c366527@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T040000Z
+DTEND:20261219T060000Z
+SUMMARY:The Golden Age of EDM Party
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/edmdec26nyc/\nFrom Pushpin NYC: http
+ s://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/edmdec26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a2b3306172b9dd73ac656ff9ae0a7b724b33369@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T220000Z
+DTEND:20261220T000000Z
+SUMMARY:Matinee Social Club: 90s vs. 00s Decade Battle
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/mscdec1926nyc/\nFrom Pushpin NYC: ht
+ tps://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/mscdec1926nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:0835d4081ae6b3a3b1f465e2afcead2f2d3bb25b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T040000Z
+DTEND:20261220T060000Z
+SUMMARY:Emo Night Brooklyn
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/enb10954/\nFrom Pushpin NYC: https:/
+ /pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/enb10954/
+END:VEVENT
+BEGIN:VEVENT
+UID:fb5e86e441da95f77d5121169c32997c2566d906@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T233000Z
+DTEND:20261221T013000Z
+SUMMARY:The Weight Band
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/weightband26nyc/\nFrom Pushpin NYC: 
+ https://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/weightband26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:94026f4fec00af2a66d7239f8b3c9851705f451c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261231T043000Z
+DTEND:20261231T063000Z
+SUMMARY:A Phish After-Party
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/phish26nyc/\nFrom Pushpin NYC: https
+ ://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/phish26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:012856eaa945b3990ba00b0126f4734068f4b2b2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270103T043000Z
+DTEND:20270103T063000Z
+SUMMARY:The Breaks
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/breaks27nyc/\nFrom Pushpin NYC: http
+ s://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/breaks27nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:9c1210d5d8282ac396de3179d12ba43fc1f4070c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270113T000000Z
+DTEND:20270113T020000Z
+SUMMARY:Jean-Michel Blais
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/jmb27nyc/\nFrom Pushpin NYC: https:/
+ /pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/jmb27nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:47f6ce9bd79d74a278994c2d9bde73d03b0c5de7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270114T230000Z
+DTEND:20270115T010000Z
+SUMMARY:Lakecia Benjamin\, Sullivan Fortner\, Tyreek McDole\, Davell Crawfo
+ rd + Georgia Heers
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/wjz27nyc/\nFrom Pushpin NYC: https:/
+ /pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/wjz27nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:601f46dcb02dc97ee2aac00294c967a9d35c3b49@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270115T223000Z
+DTEND:20270116T003000Z
+SUMMARY:Winter Jazzfest Manhattan Marathon
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:with Julius Rodriguez\, Donny McCaslin\, Melanie Charles\, The 
+ Greyboy Allstars\, Marc Ribot & Chad Taylor\nhttps://lpr.com/lpr_events/wj
+ fm27nyc/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/wjfm27nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:bdb1b7c699f39dbfb3c56eeb45fcc3ed97f441f3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270118T010000Z
+DTEND:20270118T030000Z
+SUMMARY:Rewind: 2000s Rave
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/01rr27nyc/\nFrom Pushpin NYC: https:
+ //pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/01rr27nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:b268c3f8faa46295665629e2abb509d1b5367d11@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270119T000000Z
+DTEND:20270119T020000Z
+SUMMARY:From The Mountaintop
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/ftm27nyc/\nFrom Pushpin NYC: https:/
+ /pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/ftm27nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:ab972e8ef14a40208305ad4c0123b57094a18fcf@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270122T233000Z
+DTEND:20270123T013000Z
+SUMMARY:corto.alto
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/ca27nyc/\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/ca27nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:fadba681f830b315e22570ac79e0fb6cf14ba096@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270123T233000Z
+DTEND:20270124T013000Z
+SUMMARY:JAMES FELICE
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/jf27nyc/\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/jf27nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:6b5d0a6bc435138b7ac0247b360a61eab3fd20ca@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270129T000000Z
+DTEND:20270129T020000Z
+SUMMARY:Odezenne
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/odezenne26nyc/\nFrom Pushpin NYC: ht
+ tps://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/odezenne26nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:c7c0565f12d1eb03b23e853f3eb18cf683bb2326@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270130T220000Z
+DTEND:20270131T000000Z
+SUMMARY:Matinee Social Club: 90s vs. 00s Decade Battle
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/msc013027nyc/\nFrom Pushpin NYC: htt
+ ps://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/msc013027nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:dc11a0cb66894923234574bcabbbc5d3c02a091e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270131T233000Z
+DTEND:20270201T013000Z
+SUMMARY:Everyone Asked About You
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:with Holidays in United States\nhttps://lpr.com/lpr_events/eaay
+ 27nyc/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/eaay27nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:dc2eb79a348746ac8679ddfb931e6101b26553d4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270207T000000Z
+DTEND:20270207T020000Z
+SUMMARY:Pearl and the Beard
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/pearl27nyc/\nFrom Pushpin NYC: https
+ ://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/pearl27nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:33b3668228b8cfdfc3bfd0fce44f020d12d2772c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270212T003000Z
+DTEND:20270212T023000Z
+SUMMARY:Cloud Nothings
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/cn27nyc/\nFrom Pushpin NYC: https://
+ pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/cn27nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:77783b1dae132249b00c51088af51dfe0b8528cc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270219T000000Z
+DTEND:20270219T020000Z
+SUMMARY:Jamie Duffy
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:with Megan Perry Fisher\nhttps://lpr.com/lpr_events/jd27nyc/\nF
+ rom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/jd27nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:8e25b958c54503b4aff424c07f2014bc3652f65b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270225T233000Z
+DTEND:20270226T013000Z
+SUMMARY:galdive & rum.gold:
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/grg27nyc/\nFrom Pushpin NYC: https:/
+ /pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/grg27nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:97ce01a1dd5961ff00a3d8fca29ca6681856eeaa@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270226T233000Z
+DTEND:20270227T013000Z
+SUMMARY:Romare (live)
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/romare27nyc/\nFrom Pushpin NYC: http
+ s://pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/romare27nyc/
+END:VEVENT
+BEGIN:VEVENT
+UID:45e256216f8f249c03016832cf372828d3ff1b9f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270227T040000Z
+DTEND:20270227T060000Z
+SUMMARY:HEATED RIVALRY NIGHT
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/bnet12661/\nFrom Pushpin NYC: https:
+ //pushpin.city/nyc/
+URL:https://lpr.com/lpr_events/bnet12661/
+END:VEVENT
+END:VCALENDAR

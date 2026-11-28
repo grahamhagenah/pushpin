@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4154f5a75277a81b4394ca4527dde4e8a5f9dbda@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T220000Z
+DTEND:20261130T000000Z
+SUMMARY:Hexed
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:https://www.capitoltheatreusa.com/movie/hexed/
+URL:https://www.capitoltheatreusa.com/movie/hexed/
+END:VEVENT
+END:VCALENDAR

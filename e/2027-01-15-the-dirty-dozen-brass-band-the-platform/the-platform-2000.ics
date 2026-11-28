@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d29232935586ac6dcd49d44e70e551cc8051b846@pushpin.city
+DTSTAMP:20270115T000000Z
+DTSTART:20270116T010000Z
+DTEND:20270116T030000Z
+SUMMARY:The Dirty Dozen Brass Band
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/the-dirty-brass-
+ dozen-band/
+URL:https://www.theplatformkendall.org/productions/the-dirty-brass-dozen-ba
+ nd/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c11d8c2bfa7c07ce79854ee651985787cd1d30c0@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T160000Z
+DTEND:20261213T180000Z
+SUMMARY:Rex: A Dinosaur's Story [Easy Reader Version]
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005157-rex-a-dinosaurs-story-ea
+ sy-reader-version/
+URL:https://metrograph.com/film/9999005157-rex-a-dinosaurs-story-easy-reade
+ r-version/
+END:VEVENT
+END:VCALENDAR

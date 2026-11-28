@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2a2cbf8d8abc71c2c3aaf23943fb5de5900a9ec5@pushpin.city
+DTSTAMP:20270122T000000Z
+DTSTART:20270122T233000Z
+DTEND:20270123T013000Z
+SUMMARY:Mollie Elizabeth: People Pleaser Live
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/mollie-elizabeth-people-pleaser-li
+ ve-boston-massachusetts-01-22-2027/event/0100654CE498F79D
+URL:https://www.ticketmaster.com/mollie-elizabeth-people-pleaser-live-bosto
+ n-massachusetts-01-22-2027/event/0100654CE498F79D
+END:VEVENT
+END:VCALENDAR

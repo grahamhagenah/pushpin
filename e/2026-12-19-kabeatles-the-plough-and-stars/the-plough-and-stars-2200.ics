@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a5962975bc1b8fe817bd55ae4c63478a1c777fa5@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261220T030000Z
+DTEND:20261220T050000Z
+SUMMARY:KaBeatles
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ee1abc5ddcf4ce7070b3613540194635167a6b57@pushpin.city
+DTSTAMP:20270221T000000Z
+DTSTART:20270222T003000Z
+DTEND:20270222T023000Z
+SUMMARY:Avanza\, FM Collective
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1937
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1937
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d9c90a26bd4252aabcc34ec7913520e9b398f859@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:The Vibe Syndicate Presents: SOUL CHAMPION
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-vibe-syndicate-presents-sou
+ l-middle-east-zuzu-tickets/15075823?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/the-vibe-syndicate-presents-soul-middle
+ -east-zuzu-tickets/15075823?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b9931a154766d6920f0038616e82aa2dbfd171df@pushpin.city
+DTSTAMP:20270220T000000Z
+DTSTART:20270221T000000Z
+DTEND:20270221T020000Z
+SUMMARY:Gadan Featuring Enda Scahill
+LOCATION:De La Luz\, 114 Race St\, Holyoke\, MA 01040
+DESCRIPTION:https://delaluz.org/events/gadan-featuring-enda-scahill
+URL:https://delaluz.org/events/gadan-featuring-enda-scahill
+END:VEVENT
+END:VCALENDAR

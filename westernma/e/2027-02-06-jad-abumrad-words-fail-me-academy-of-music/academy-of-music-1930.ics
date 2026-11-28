@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:281deaf53349b1ad2f049ec2dcc9d8b35a6098c5@pushpin.city
+DTSTAMP:20270206T000000Z
+DTSTART:20270207T003000Z
+DTEND:20270207T023000Z
+SUMMARY:Jad Abumrad: Words Fail Me
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/jad-abumrad-words-fail-me/
+URL:https://aomtheatre.com/aom_event/jad-abumrad-words-fail-me/
+END:VEVENT
+END:VCALENDAR

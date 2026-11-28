@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4fd4a99a9798fd0988af30d600943f3f1f430bcc@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261203T233000Z
+DTEND:20261204T013000Z
+SUMMARY:Blinn & The Breakdown\, Soupe
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/blinn-the-breakdown-soupe-middl
+ e-east-upstairs-tickets/14369144?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/blinn-the-breakdown-soupe-middle-east-u
+ pstairs-tickets/14369144?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

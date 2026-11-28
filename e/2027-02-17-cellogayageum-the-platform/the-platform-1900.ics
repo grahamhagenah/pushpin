@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:850dac17251ca28ea856a76ff4c408fb94ae0f89@pushpin.city
+DTSTAMP:20270217T000000Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:CelloGayageum
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/cellogayageum/
+URL:https://www.theplatformkendall.org/productions/cellogayageum/
+END:VEVENT
+END:VCALENDAR

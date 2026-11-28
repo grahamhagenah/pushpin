@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:18ee5465ac0adedf99a3b209765ccbec80b0f9c4@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T003000Z
+DTEND:20261204T023000Z
+SUMMARY:Adam Sherman Band
+LOCATION:Sally O'Brien's\, 335 Somerville Ave\, Somerville\, MA 02143
+DESCRIPTION:https://www.sallyobriensbar.com/music/
+URL:https://www.sallyobriensbar.com/music/
+END:VEVENT
+END:VCALENDAR

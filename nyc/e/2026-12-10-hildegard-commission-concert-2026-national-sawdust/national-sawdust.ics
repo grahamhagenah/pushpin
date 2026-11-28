@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9db08a004575004692d41b26b915973194991929@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Hildegard Commission Concert 2026
+LOCATION:National Sawdust\, 80 N 6th St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.nationalsawdust.org/event/hildegard-commission-conc
+ ert-2026
+URL:https://www.nationalsawdust.org/event/hildegard-commission-concert-2026
+END:VEVENT
+END:VCALENDAR

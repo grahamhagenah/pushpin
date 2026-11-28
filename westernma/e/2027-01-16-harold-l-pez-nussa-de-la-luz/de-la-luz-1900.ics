@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2cfbbf758550ac9efef6866df7f65e3bc01be66a@pushpin.city
+DTSTAMP:20270116T000000Z
+DTSTART:20270117T000000Z
+DTEND:20270117T020000Z
+SUMMARY:Harold López-Nussa
+LOCATION:De La Luz\, 114 Race St\, Holyoke\, MA 01040
+DESCRIPTION:https://delaluz.org/events/harold-lopez-nussa
+URL:https://delaluz.org/events/harold-lopez-nussa
+END:VEVENT
+END:VCALENDAR

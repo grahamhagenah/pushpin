@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:08e5da47d408e1220dcdd4ec215d6b4e749b3104@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:Clamb “Quiche Mountain” Release w/Targus Targus and Digital Awa
+ reness
+LOCATION:Lizard Lounge\, 1667 Massachusetts Ave\, Cambridge\, MA 02138
+DESCRIPTION:https://lizardloungeclub.com/event/clamb-quiche-mountain-releas
+ e-w-targus-targus-and-digital-awareness/
+URL:https://lizardloungeclub.com/event/clamb-quiche-mountain-release-w-targ
+ us-targus-and-digital-awareness/
+END:VEVENT
+END:VCALENDAR

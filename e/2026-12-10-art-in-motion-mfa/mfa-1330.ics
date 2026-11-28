@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:83585334588e9249883bf429c1230909ff0718aa@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261210T183000Z
+DTEND:20261210T203000Z
+SUMMARY:Art in Motion
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/art-in-motion?event=183
+ 101
+URL:https://www.mfa.org/event/special-event/art-in-motion?event=183101
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5e4afcecf56be2ff15e8f8cf2b868a42953903ba@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T030000Z
+DTEND:20261213T050000Z
+SUMMARY:Strange Pains + Sinnet + Justin Lally
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/12/12/strange-pains-sinn
+ et-justin-lally
+URL:https://www.lilypadinman.com/home/2026/12/12/strange-pains-sinnet-justi
+ n-lally
+END:VEVENT
+END:VCALENDAR

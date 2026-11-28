@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cbe54642fc047fe5efcf730f4325c162668ab79d@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T023000Z
+DTEND:20261211T043000Z
+SUMMARY:Lisztomania
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/lisztomania/
+URL:https://nitehawkcinema.com/williamsburg/movies/lisztomania/
+END:VEVENT
+END:VCALENDAR

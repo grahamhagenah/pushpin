@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c4a78f21f10672e7b780dc77bbd5c63836859acc@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261219T170000Z
+DTEND:20261219T190000Z
+SUMMARY:Teen Battle of the Bands
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1936
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1936
+END:VEVENT
+END:VCALENDAR

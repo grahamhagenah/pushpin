@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bfd9d757570400cf8405edc1be468f7698b41298@pushpin.city
+DTSTAMP:20270220T000000Z
+DTSTART:20270221T000000Z
+DTEND:20270221T020000Z
+SUMMARY:Quinn Sullivan
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000D1mmHMAR
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0D1mmHMAR
+END:VEVENT
+END:VCALENDAR

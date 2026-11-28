@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:36a88f57eefaecf77fe0faa39e0f766a30edc0de@pushpin.city
+DTSTAMP:20270220T000000Z
+DTSTART:20270220T223000Z
+DTEND:20270221T003000Z
+SUMMARY:Art Talk: Sara Jimenez & Sarah Freeman
+LOCATION:Brattleboro Museum & Art Center\, 10 Vernon St\, Brattleboro\, VT 
+ 05301
+DESCRIPTION:https://www.brattleboromuseum.org/event/art-talk-sara-jimenez-s
+ arah-freeman/
+URL:https://www.brattleboromuseum.org/event/art-talk-sara-jimenez-sarah-fre
+ eman/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b59b0398411432201fd7fbea3060bc7a312bc55e@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T030000Z
+DTEND:20261205T050000Z
+SUMMARY:The Spring Hill Rounders
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+END:VCALENDAR

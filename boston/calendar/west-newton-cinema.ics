@@ -1,0 +1,580 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · West Newton Cinema
+X-WR-CALDESC:What’s coming up at West Newton Cinema\, from Pushpin Boston
+ .
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ccab447d6438e99abdb700eac8a71ca1a9ade6f8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T173000Z
+DTEND:20261128T193000Z
+SUMMARY:Focker-in-Law
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:30pm\, 4:45pm\, 7:30pm\nThis November\, comedy icon a
+ nd Emmy winner Ben Stiller and two-time Oscar® winner Robert De Niro reun
+ ite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, in Focke
+ r-In-Law\, a new chapter in the blockbuster Meet the Parents franchise.\nh
+ ttps://www.westnewtoncinema.com/movie/focker-in-law\nFrom Pushpin Boston: 
+ https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/focker-in-law
+END:VEVENT
+BEGIN:VEVENT
+UID:cfd61e25c1ff183f57ed86d3dfd655a97ef9295c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T174500Z
+DTEND:20261128T194500Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:45pm\, 4pm\, 7:15pm\nThe Hunger Games: Sunrise on the
+  Reaping will revisit the world of Panem twenty-four years before the even
+ ts of The Hunger Games\, starting on the morning of the reaping of the Fif
+ tieth Hunger Games\, also known as the Second Quarter Quell.\nhttps://www.
+ westnewtoncinema.com/movie/the-hunger-games-sunrise-on-the-reaping\nFrom P
+ ushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/the-hunger-games-sunrise-on-the-
+ reaping
+END:VEVENT
+BEGIN:VEVENT
+UID:d3d6646d25cbdc52668253310314554bbdb57f9d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T180000Z
+DTEND:20261128T200000Z
+SUMMARY:Club Kid
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 1pm\, 5pm\, 7:45pm\nA washed-up New York party promoter 
+ is forced to turn his life around when an unexpected visitor arrives.\nhtt
+ ps://www.westnewtoncinema.com/movie/club-kid\nFrom Pushpin Boston: https:/
+ /pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:fa01907819de12d8c03dff40d6efc0775db851a7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T180000Z
+DTEND:20261128T200000Z
+SUMMARY:Hexed
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 1pm\, 3:30pm\, 6pm\nIn Walt Disney Animation Studios' al
+ l-new magical coming-of-age saga\, “Hexed\,” an impulsive and unconven
+ tional teenage girl named Billie (voice of Hailee Steinfeld) discovers sec
+ ret magical abilities which\, once unleashed\, hurtle her into a spectacle
+ -filled journey out of suburbia and into a vast witch realm called Hexe. F
+ orced to team up with her cautious mother\, Alice (voice of Rashida Jones)
+ \, they uncover family mysteries that could change the world of witches fo
+ rever. Directed by Fawn Veerasunthorn and Jason Hand\, co-directed by Josi
+ e Trinidad and produced by Roy Conli\, Disney’s “Hexed” opens exclus
+ ively in theaters November 25\, 2026.\nhttps://www.westnewtoncinema.com/mo
+ vie/hexed\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/hexed
+END:VEVENT
+BEGIN:VEVENT
+UID:6cdff7d62063a236d8f2c47f3c6ca13cd496d21c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T183000Z
+DTEND:20261128T203000Z
+SUMMARY:You Can See Everything
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 1:30pm\, 3pm\, 6:45pm\nThirty-four days before she’s s
+ ent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites 
+ a skeptical film crew to document her every move. What begins as an intima
+ te portrait of an enigmatic felon becomes a mind-bending three-year journe
+ y into the abyss. From boundary-pushing directors Nathan Fielder and Lance
+  Oppenheim comes You Can See Everything.\nhttps://www.westnewtoncinema.com
+ /movie/you-can-see-everything\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:cacd08948001af36208ad513fd215a9aa1e29aca@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:I Play Rocky
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 2pm\, 6:30pm\nI PLAY ROCKY is an electrifying true story
+  about an unknown actor with an unshakable belief that he wasn't just mean
+ t to write Rocky--he was meant to be Rocky Balboa. Told "no" at every turn
+ \, Sylvester Stallone bets everything on himself\, holding the line on pla
+ ying the lead against seemingly impossible odds. The result is the ultimat
+ e underdog story behind the ultimate underdog movie.\nhttps://www.westnewt
+ oncinema.com/movie/i-play-rocky\nFrom Pushpin Boston: https://pushpin.city
+ /
+URL:https://www.westnewtoncinema.com/movie/i-play-rocky
+END:VEVENT
+BEGIN:VEVENT
+UID:1c16345f653a5a291d6a59cbaca0b1a812a40938@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T204500Z
+DTEND:20261128T224500Z
+SUMMARY:Wild Horse Nine
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris (John M
+ alkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter is
+ land by their bureau chief\, MJ (Steve Buscemi). Amongst the Island's icon
+ ic statues\, and as the longtime partners wrestle with their dark pasts an
+ d present conspiracies\, Chris's newfound bond with a pair of rebellious s
+ tudents (Mariana di Girolamo and Ailín Salas) threatens to send everyone
+ ’s trip to this remote paradise sideways.\nhttps://www.westnewtoncinema.
+ com/movie/wild-horse-nine\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:ea4f6c01ccef3e0a7b1e5aeb4a091b3620f413c0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Focker-in-Law
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:30pm\, 4:45pm\, 7:30pm\nThis November\, comedy icon a
+ nd Emmy winner Ben Stiller and two-time Oscar® winner Robert De Niro reun
+ ite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, in Focke
+ r-In-Law\, a new chapter in the blockbuster Meet the Parents franchise.\nh
+ ttps://www.westnewtoncinema.com/movie/focker-in-law\nFrom Pushpin Boston: 
+ https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/focker-in-law
+END:VEVENT
+BEGIN:VEVENT
+UID:1124277a8e8bc45b694e1767f5d1d09069232162@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T174500Z
+DTEND:20261129T194500Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:45pm\, 4pm\, 7:15pm\nThe Hunger Games: Sunrise on the
+  Reaping will revisit the world of Panem twenty-four years before the even
+ ts of The Hunger Games\, starting on the morning of the reaping of the Fif
+ tieth Hunger Games\, also known as the Second Quarter Quell.\nhttps://www.
+ westnewtoncinema.com/movie/the-hunger-games-sunrise-on-the-reaping\nFrom P
+ ushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/the-hunger-games-sunrise-on-the-
+ reaping
+END:VEVENT
+BEGIN:VEVENT
+UID:637075f38831e7fce4c1dae047317b1600746295@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:Club Kid
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 1pm\, 5pm\, 7:45pm\nA washed-up New York party promoter 
+ is forced to turn his life around when an unexpected visitor arrives.\nhtt
+ ps://www.westnewtoncinema.com/movie/club-kid\nFrom Pushpin Boston: https:/
+ /pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:9327fbda0ee171150cc5575bb799028520ac0a96@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:Hexed
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 1pm\, 3:30pm\, 6pm\nIn Walt Disney Animation Studios' al
+ l-new magical coming-of-age saga\, “Hexed\,” an impulsive and unconven
+ tional teenage girl named Billie (voice of Hailee Steinfeld) discovers sec
+ ret magical abilities which\, once unleashed\, hurtle her into a spectacle
+ -filled journey out of suburbia and into a vast witch realm called Hexe. F
+ orced to team up with her cautious mother\, Alice (voice of Rashida Jones)
+ \, they uncover family mysteries that could change the world of witches fo
+ rever. Directed by Fawn Veerasunthorn and Jason Hand\, co-directed by Josi
+ e Trinidad and produced by Roy Conli\, Disney’s “Hexed” opens exclus
+ ively in theaters November 25\, 2026.\nhttps://www.westnewtoncinema.com/mo
+ vie/hexed\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/hexed
+END:VEVENT
+BEGIN:VEVENT
+UID:b844f292abe8f0a24afdd4c0c2092d3bf96e234d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T183000Z
+DTEND:20261129T203000Z
+SUMMARY:You Can See Everything
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 1:30pm\, 3pm\, 6:45pm\nThirty-four days before she’s s
+ ent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites 
+ a skeptical film crew to document her every move. What begins as an intima
+ te portrait of an enigmatic felon becomes a mind-bending three-year journe
+ y into the abyss. From boundary-pushing directors Nathan Fielder and Lance
+  Oppenheim comes You Can See Everything.\nhttps://www.westnewtoncinema.com
+ /movie/you-can-see-everything\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:6ba031ba0d619ad6f1aaeef58bb9bd70e7245724@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:I Play Rocky
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 2pm\, 3:30pm\nI PLAY ROCKY is an electrifying true story
+  about an unknown actor with an unshakable belief that he wasn't just mean
+ t to write Rocky--he was meant to be Rocky Balboa. Told "no" at every turn
+ \, Sylvester Stallone bets everything on himself\, holding the line on pla
+ ying the lead against seemingly impossible odds. The result is the ultimat
+ e underdog story behind the ultimate underdog movie.\nhttps://www.westnewt
+ oncinema.com/movie/i-play-rocky\nFrom Pushpin Boston: https://pushpin.city
+ /
+URL:https://www.westnewtoncinema.com/movie/i-play-rocky
+END:VEVENT
+BEGIN:VEVENT
+UID:5cbf22a461970553d777696bcd8d646442074d84@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T231500Z
+DTEND:20261130T011500Z
+SUMMARY:Wild Horse Nine
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris (John M
+ alkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter is
+ land by their bureau chief\, MJ (Steve Buscemi). Amongst the Island's icon
+ ic statues\, and as the longtime partners wrestle with their dark pasts an
+ d present conspiracies\, Chris's newfound bond with a pair of rebellious s
+ tudents (Mariana di Girolamo and Ailín Salas) threatens to send everyone
+ ’s trip to this remote paradise sideways.\nhttps://www.westnewtoncinema.
+ com/movie/wild-horse-nine\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:2dc1eaa40129c1ef6c6847e0c0339c73619c2a50@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T203000Z
+DTEND:20261202T223000Z
+SUMMARY:You Can See Everything
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Thirty-four days before she’s sent to prison\, notorious Sili
+ con Valley founder Elizabeth Holmes invites a skeptical film crew to docum
+ ent her every move. What begins as an intimate portrait of an enigmatic fe
+ lon becomes a mind-bending three-year journey into the abyss. From boundar
+ y-pushing directors Nathan Fielder and Lance Oppenheim comes You Can See E
+ verything.\nhttps://www.westnewtoncinema.com/movie/you-can-see-everything\
+ nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:67499041354af98aa03dbcca00d35def3b66f441@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T204500Z
+DTEND:20261202T224500Z
+SUMMARY:Wild Horse Nine
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris (John M
+ alkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter is
+ land by their bureau chief\, MJ (Steve Buscemi). Amongst the Island's icon
+ ic statues\, and as the longtime partners wrestle with their dark pasts an
+ d present conspiracies\, Chris's newfound bond with a pair of rebellious s
+ tudents (Mariana di Girolamo and Ailín Salas) threatens to send everyone
+ ’s trip to this remote paradise sideways.\nhttps://www.westnewtoncinema.
+ com/movie/wild-horse-nine\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:72992c5b0a8b579c3f52287b5d5dcbd4b1396d1d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T210000Z
+DTEND:20261202T230000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4pm\, 7:30pm\nThe Hunger Games: Sunrise on the Reaping w
+ ill revisit the world of Panem twenty-four years before the events of The 
+ Hunger Games\, starting on the morning of the reaping of the Fiftieth Hung
+ er Games\, also known as the Second Quarter Quell.\nhttps://www.westnewton
+ cinema.com/movie/the-hunger-games-sunrise-on-the-reaping\nFrom Pushpin Bos
+ ton: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/the-hunger-games-sunrise-on-the-
+ reaping
+END:VEVENT
+BEGIN:VEVENT
+UID:412f142dfb6253bba424b04751bfe9ba3c3fec66@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T214500Z
+DTEND:20261202T234500Z
+SUMMARY:Focker-in-Law
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4:45pm\, 7:15pm\nThis November\, comedy icon and Emmy wi
+ nner Ben Stiller and two-time Oscar® winner Robert De Niro reunite\, join
+ ed by Grammy winner and Oscar® nominee Ariana Grande\, in Focker-In-Law\,
+  a new chapter in the blockbuster Meet the Parents franchise.\nhttps://www
+ .westnewtoncinema.com/movie/focker-in-law\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://www.westnewtoncinema.com/movie/focker-in-law
+END:VEVENT
+BEGIN:VEVENT
+UID:093d16536a866c2054c0ff1f93a8afaa92ddaa38@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T220000Z
+DTEND:20261203T000000Z
+SUMMARY:Club Kid
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:45pm\nA washed-up New York party promoter is for
+ ced to turn his life around when an unexpected visitor arrives.\nhttps://w
+ ww.westnewtoncinema.com/movie/club-kid\nFrom Pushpin Boston: https://pushp
+ in.city/
+URL:https://www.westnewtoncinema.com/movie/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:2ecfc972d26db006baf63ae9f78862360a0c5fc0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T233000Z
+DTEND:20261203T013000Z
+SUMMARY:Hexed
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:In Walt Disney Animation Studios' all-new magical coming-of-age
+  saga\, “Hexed\,” an impulsive and unconventional teenage girl named B
+ illie (voice of Hailee Steinfeld) discovers secret magical abilities which
+ \, once unleashed\, hurtle her into a spectacle-filled journey out of subu
+ rbia and into a vast witch realm called Hexe. Forced to team up with her c
+ autious mother\, Alice (voice of Rashida Jones)\, they uncover family myst
+ eries that could change the world of witches forever. Directed by Fawn Vee
+ rasunthorn and Jason Hand\, co-directed by Josie Trinidad and produced by 
+ Roy Conli\, Disney’s “Hexed” opens exclusively in theaters November 
+ 25\, 2026.\nhttps://www.westnewtoncinema.com/movie/hexed\nFrom Pushpin Bos
+ ton: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/hexed
+END:VEVENT
+BEGIN:VEVENT
+UID:013072b2c34b5c091f8068cebdcbfc3f5f83713d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:I Play Rocky
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:I PLAY ROCKY is an electrifying true story about an unknown act
+ or with an unshakable belief that he wasn't just meant to write Rocky--he 
+ was meant to be Rocky Balboa. Told "no" at every turn\, Sylvester Stallone
+  bets everything on himself\, holding the line on playing the lead against
+  seemingly impossible odds. The result is the ultimate underdog story behi
+ nd the ultimate underdog movie.\nhttps://www.westnewtoncinema.com/movie/i-
+ play-rocky\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/i-play-rocky
+END:VEVENT
+BEGIN:VEVENT
+UID:871cf33f1046e44222a3d2fd70e252566d03a2e9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T233000Z
+DTEND:20261204T013000Z
+SUMMARY:Local Spotlight: Cut To David
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Join us for a one-day only community screening of Cut to David 
+ followed by a post-film discussion with the filmmaker Sandy Jaffe and fami
+ ly\, and other participants in the film.\nhttps://www.westnewtoncinema.com
+ /movie/cut-to-david\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/cut-to-david
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a736c91a8ef8bda041630b5ad427f12f717145@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T210000Z
+DTEND:20261204T230000Z
+SUMMARY:Behemoth!
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 4pm\, 7pm\nA gifted cellist\, Alex Serian (Pedro Pascal)
+ \, returns home to Los Angeles after 20 years on the road.\nhttps://www.we
+ stnewtoncinema.com/movie/behemoth\nFrom Pushpin Boston: https://pushpin.ci
+ ty/
+URL:https://www.westnewtoncinema.com/movie/behemoth
+END:VEVENT
+BEGIN:VEVENT
+UID:88933c7ecef4d31f249e858d4f79303b6bb2c068@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T220000Z
+DTEND:20261205T000000Z
+SUMMARY:Elsinore
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 5pm\, 7:30pm\nThe deeply emotional and inspirational tru
+ e story of Ian Charleson\, a gifted actor whose greatest challenge becomes
+  his greatest triumph. Facing his own mortality with unflinching honesty\,
+  wit\, and grace\, Charleson delivers a courageous performance that become
+ s a source of healing and inspiration for those around him.\nhttps://www.w
+ estnewtoncinema.com/movie/elsinore\nFrom Pushpin Boston: https://pushpin.c
+ ity/
+URL:https://www.westnewtoncinema.com/movie/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:d136bdb2d8a69d213fe26481b3c8f7397617d14e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T170000Z
+DTEND:20261205T190000Z
+SUMMARY:Elsinore
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12pm\, 2:30pm\, 5pm\, 7:30pm\nThe deeply emotional and i
+ nspirational true story of Ian Charleson\, a gifted actor whose greatest c
+ hallenge becomes his greatest triumph. Facing his own mortality with unfli
+ nching honesty\, wit\, and grace\, Charleson delivers a courageous perform
+ ance that becomes a source of healing and inspiration for those around him
+ .\nhttps://www.westnewtoncinema.com/movie/elsinore\nFrom Pushpin Boston: h
+ ttps://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:9652005a93d8d688bbb1b8cb7db43a47830e9cf6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T180000Z
+DTEND:20261205T200000Z
+SUMMARY:Behemoth!
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 1pm\, 4pm\, 7pm\nA gifted cellist\, Alex Serian (Pedro P
+ ascal)\, returns home to Los Angeles after 20 years on the road.\nhttps://
+ www.westnewtoncinema.com/movie/behemoth\nFrom Pushpin Boston: https://push
+ pin.city/
+URL:https://www.westnewtoncinema.com/movie/behemoth
+END:VEVENT
+BEGIN:VEVENT
+UID:7b64a8dd13b4cdc1aee0f19a0ae3405023b47da3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T233000Z
+DTEND:20261211T013000Z
+SUMMARY:Ty Burr Film Club: Singin' in the Rain
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:A silent film production company and cast make a difficult tran
+ sition to sound.\nhttps://www.westnewtoncinema.com/movie/ty-burr-film-club
+ -singin-in-the-rain\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/ty-burr-film-club-singin-in-the-
+ rain
+END:VEVENT
+BEGIN:VEVENT
+UID:610e623dcf9b8fd583af8f09d6710235b1af942b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T233000Z
+DTEND:20261212T013000Z
+SUMMARY:All of a Sudden
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Marie-Lou Fontaine\, director of a nursing home in the Paris su
+ burbs\, defies convention by adopting the ‘Humanitude’ method despite 
+ her team’s resistance. Her encounter with Mari Morisaki\, a terminally i
+ ll Japanese playwright\, transforms her life. Together\, they turn the fac
+ ility into a symbol of resistance and humanity against the system’s limi
+ ts.\nhttps://www.westnewtoncinema.com/movie/all-of-a-sudden\nFrom Pushpin 
+ Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/all-of-a-sudden
+END:VEVENT
+BEGIN:VEVENT
+UID:0e06d3dcd88c024d39b0ea50186f93942302ca89@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:Minotaur
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Intrigue\, corruption\, betrayal\, survival: the walls of the m
+ aze are closing in.\nhttps://www.westnewtoncinema.com/movie/minotaur\nFrom
+  Pushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/minotaur
+END:VEVENT
+BEGIN:VEVENT
+UID:87e3f511ca255f706df867a5ffe2a2c167043acf@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T171500Z
+DTEND:20261212T191500Z
+SUMMARY:Minotaur
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12:15pm\, 4pm\, 7:30pm\nIntrigue\, corruption\, betrayal
+ \, survival: the walls of the maze are closing in.\nhttps://www.westnewton
+ cinema.com/movie/minotaur\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/minotaur
+END:VEVENT
+BEGIN:VEVENT
+UID:69b2aa7aa931b214c9411c52da34b63d1bb2738f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T233000Z
+DTEND:20261213T013000Z
+SUMMARY:All of a Sudden
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Marie-Lou Fontaine\, director of a nursing home in the Paris su
+ burbs\, defies convention by adopting the ‘Humanitude’ method despite 
+ her team’s resistance. Her encounter with Mari Morisaki\, a terminally i
+ ll Japanese playwright\, transforms her life. Together\, they turn the fac
+ ility into a symbol of resistance and humanity against the system’s limi
+ ts.\nhttps://www.westnewtoncinema.com/movie/all-of-a-sudden\nFrom Pushpin 
+ Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/all-of-a-sudden
+END:VEVENT
+BEGIN:VEVENT
+UID:0f40f5e0e9aeb116f7f9b54ce6e5d2e33a7f3c4f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T223000Z
+DTEND:20261214T003000Z
+SUMMARY:Yury Butusov's "King Lear"
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Presented in Russian with English subtitles RUNTIME: 3 hours 34
+  minutes (Includes a 10 minute intermission)\nhttps://www.westnewtoncinema
+ .com/movie/yury-butusovs-king-lear\nFrom Pushpin Boston: https://pushpin.c
+ ity/
+URL:https://www.westnewtoncinema.com/movie/yury-butusovs-king-lear
+END:VEVENT
+BEGIN:VEVENT
+UID:11275777e3e35c6aa079a5712763070a73e44671@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261217T210000Z
+DTEND:20261217T230000Z
+SUMMARY:Rome\, Open City
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:During the Nazi occupation of Rome in 1944\, the Resistance lea
+ der\, Giorgio Manfredi\, is chased by the Nazis as he seeks refuge and a w
+ ay to escape.\nhttps://www.westnewtoncinema.com/movie/rome-open-city\nFrom
+  Pushpin Boston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/rome-open-city
+END:VEVENT
+BEGIN:VEVENT
+UID:64b3fe6ee2e7b1cd8b9cc1e721e2c108a42c45be@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T204500Z
+DTEND:20261218T224500Z
+SUMMARY:Dune: Part Three
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 3:45pm\, 7pm\nFrom Warner Bros. Pictures and Legendary P
+ ictures comes Dune: Part Three\, bringing Academy Award-nominated filmmake
+ r Denis Villeneuve’s epic trilogy to a breathtaking conclusion.\nhttps:/
+ /www.westnewtoncinema.com/movie/dune-part-three\nFrom Pushpin Boston: http
+ s://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:d98bb8cbf1878ddb540468cf106022cac2644aae@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T170000Z
+DTEND:20261219T190000Z
+SUMMARY:Dune: Part Three
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12pm\, 3:45pm\, 7pm\nFrom Warner Bros. Pictures and Lege
+ ndary Pictures comes Dune: Part Three\, bringing Academy Award-nominated f
+ ilmmaker Denis Villeneuve’s epic trilogy to a breathtaking conclusion.\n
+ https://www.westnewtoncinema.com/movie/dune-part-three\nFrom Pushpin Bosto
+ n: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:08c6db8c869a60788007454200ae4e7b9b3ed234@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T180000Z
+DTEND:20261219T200000Z
+SUMMARY:White Christmas
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Join West Newton Cinema for a musical matinee! Our monthly pick
+  will vary from beloved classics to jazz\, from vaudeville to psychedelic 
+ rock\, brought to you by the imaginative skill of artists able to make sce
+ nes look the way great music feels. We’ll feature films from the Golden 
+ Age of Hollywood musicals\, with surprises that transcend the era and defi
+ ne others. The cinematic brilliance of these films has never left us. In f
+ act\, seeing them again\, or for the first time\, will reinvigorate your l
+ ove for the movie musical and send you out of the theater tapping your fee
+ t.\nhttps://www.westnewtoncinema.com/movie/white-christmas\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/white-christmas
+END:VEVENT
+BEGIN:VEVENT
+UID:9528ac36325384d8201fbf6ad681f6accf420863@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T170000Z
+DTEND:20261220T190000Z
+SUMMARY:Dune: Part Three
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:Times: 12pm\, 3:15pm\, 6:30pm\nFrom Warner Bros. Pictures and L
+ egendary Pictures comes Dune: Part Three\, bringing Academy Award-nominate
+ d filmmaker Denis Villeneuve’s epic trilogy to a breathtaking conclusion
+ .\nhttps://www.westnewtoncinema.com/movie/dune-part-three\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://www.westnewtoncinema.com/movie/dune-part-three
+END:VEVENT
+END:VCALENDAR

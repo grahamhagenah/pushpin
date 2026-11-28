@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:38a288e7c4b85d71d306071ebc596f113b60f258@pushpin.city
+DTSTAMP:20261226T000000Z
+DTSTART:20261226T161500Z
+DTEND:20261226T181500Z
+SUMMARY:Jingle All the Way
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/jingle-all-the-w
+ ay/
+URL:https://nitehawkcinema.com/williamsburg/movies/jingle-all-the-way/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e8f515fb98fe3ded746d9b4b8811434722c58798@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T003000Z
+DTEND:20261211T023000Z
+SUMMARY:Magic Tuber Stringband
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/magic-tuber-stri
+ ngband/
+URL:https://www.theplatformkendall.org/productions/magic-tuber-stringband/
+END:VEVENT
+END:VCALENDAR

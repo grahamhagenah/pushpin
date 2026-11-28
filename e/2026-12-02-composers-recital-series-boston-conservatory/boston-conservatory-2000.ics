@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c9e34018ffe375950154f6c81d96ddf0772a8388@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T010000Z
+DTEND:20261203T030000Z
+SUMMARY:Composers Recital Series
+LOCATION:Boston Conservatory\, 132 Ipswich Street (Richard Ortner Studio Bu
+ ilding)\, Boston\, MA 02115
+DESCRIPTION:https://bostonconservatory.berklee.edu/events/12-02-composer-re
+ cital-series
+URL:https://bostonconservatory.berklee.edu/events/12-02-composer-recital-se
+ ries
+END:VEVENT
+END:VCALENDAR

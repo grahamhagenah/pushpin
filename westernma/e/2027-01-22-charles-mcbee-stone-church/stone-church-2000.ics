@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:97bfe76f6dad9f48b2230247c05bce0343e6966b@pushpin.city
+DTSTAMP:20270122T000000Z
+DTSTART:20270123T010000Z
+DTEND:20270123T030000Z
+SUMMARY:Charles McBee
+LOCATION:Stone Church\, 210 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://v-afd7d1a2-14f1-48a2-a9df-c06a112fa8b7.seatengine.net/e
+ vents/charles-mcbee
+URL:https://v-afd7d1a2-14f1-48a2-a9df-c06a112fa8b7.seatengine.net/events/ch
+ arles-mcbee
+END:VEVENT
+END:VCALENDAR

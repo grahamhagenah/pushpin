@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · New City Brewery
+X-WR-CALDESC:What’s coming up at New City Brewery\, from Pushpin Western 
+ Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:02f4d6738ddd96af2c088beb7ddfdf8f61bc6678@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:DEEJAY THEORY
+LOCATION:New City Brewery\, 180 Pleasant St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.newcitybrewery.com/events-1/dj-theory\nFrom Pushpin
+  Western Mass: https://pushpin.city/westernma/
+URL:https://www.newcitybrewery.com/events-1/dj-theory
+END:VEVENT
+BEGIN:VEVENT
+UID:8fd730f04b3778c8496943d3e84b1d1dbe65dd0f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Misty Blues
+LOCATION:New City Brewery\, 180 Pleasant St\, Easthampton\, MA 01027
+DESCRIPTION:2019 International Blues Challenge finalist\, Misty Blues\, is 
+ fronted by lead singer/band founder Gina Coleman. The band is based out of
+  Berkshire County\, Massachusetts playing original and traditional blues w
+ ith hints of jazz\, soul\, funk and tent revival gospel since 1999. The ba
+ nd has recorded with Eric Gales\, Charles Neville\, Alexis P. Suter\, Earl
+ y Times\, Kat Riggins\, Candice Ivory and Joe Louis Walker\, and opened fo
+ r contemporary blues artists like Mike Zito\, Albert Castiglia\, Tab Benoi
+ t\, James Montgomery\, John Primer\, Roomful Of Blues\, Albert Cummings an
+ d Michael Powers. Misty Blues performs extensively throughout New England 
+ and has toured the continental U.S.\, Canada and the UK. The band has been
+  nominated for a few Independent Blues Music Awards and their original rec
+ ordings have broad international airplay. In 2024 the band had a song they
+  released selected for use in a U.S. Presidential campaign ad.\nhttps://ww
+ w.newcitybrewery.com/events-1/misty-blues\nFrom Pushpin Western Mass: http
+ s://pushpin.city/westernma/
+URL:https://www.newcitybrewery.com/events-1/misty-blues
+END:VEVENT
+BEGIN:VEVENT
+UID:f45da06fa5dd713e44b0f76e2938164681fd156a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Stashspot 413 presents: Homeboy Sandman
+LOCATION:New City Brewery\, 180 Pleasant St\, Easthampton\, MA 01027
+DESCRIPTION:<a href=" class="sqs-block-button-element--medium sqs-button-el
+ ement--primary sqs-block-button-element" data-sqsp-button\nhttps://www.new
+ citybrewery.com/events-1/igw9nws24f79c0mxzxmeay34884ooy\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://www.newcitybrewery.com/events-1/igw9nws24f79c0mxzxmeay34884ooy
+END:VEVENT
+BEGIN:VEVENT
+UID:8c081fe0a0da94fa2a4aa259de06a344677d0128@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T000000Z
+DTEND:20261219T020000Z
+SUMMARY:Heavy Punk/Hardcore
+LOCATION:New City Brewery\, 180 Pleasant St\, Easthampton\, MA 01027
+DESCRIPTION:7 Minutes in Heaven (CT)\nhttps://www.newcitybrewery.com/events
+ -1/heavy-punkhardcore\nFrom Pushpin Western Mass: https://pushpin.city/wes
+ ternma/
+URL:https://www.newcitybrewery.com/events-1/heavy-punkhardcore
+END:VEVENT
+BEGIN:VEVENT
+UID:7262461f0e64ca60b261adea246a54082b2260eb@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T000000Z
+DTEND:20261220T020000Z
+SUMMARY:Queer Dance Party
+LOCATION:New City Brewery\, 180 Pleasant St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.newcitybrewery.com/events-1/queer-dance-party-rtmht
+ -tmjfx\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.newcitybrewery.com/events-1/queer-dance-party-rtmht-tmjfx
+END:VEVENT
+BEGIN:VEVENT
+UID:4436fd86cad9fea95b5f2ba44bdf9f6f1071b07a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261227T030000Z
+DTEND:20261227T050000Z
+SUMMARY:Clubhouse Entertainment presents: Black and Brews
+LOCATION:New City Brewery\, 180 Pleasant St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.newcitybrewery.com/events-1/clubhouse-entertainment
+ -presents-black-and-brews\nFrom Pushpin Western Mass: https://pushpin.city
+ /westernma/
+URL:https://www.newcitybrewery.com/events-1/clubhouse-entertainment-present
+ s-black-and-brews
+END:VEVENT
+END:VCALENDAR

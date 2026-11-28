@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7bc00e6b54c604e1cfafb6cc98fe48430a133878@pushpin.city
+DTSTAMP:20270226T000000Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Ogemdi Ude: MAJOR
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:https://www.icaboston.org/events/ogemdi-ude-major/
+URL:https://www.icaboston.org/events/ogemdi-ude-major/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7405a1eb7cf23b09ab7e1dad31c68e4621cde528@pushpin.city
+DTSTAMP:20261227T000000Z
+DTSTART:20261227T210000Z
+DTEND:20261227T230000Z
+SUMMARY:Dub Apocalypse
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+END:VCALENDAR

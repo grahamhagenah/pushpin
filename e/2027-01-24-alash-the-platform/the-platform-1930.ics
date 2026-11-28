@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:be299ea6c2d7d7cd7c22ce5d6af96a372dc661e4@pushpin.city
+DTSTAMP:20270124T000000Z
+DTSTART:20270125T003000Z
+DTEND:20270125T023000Z
+SUMMARY:Alash
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/alash/
+URL:https://www.theplatformkendall.org/productions/alash/
+END:VEVENT
+END:VCALENDAR

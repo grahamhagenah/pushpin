@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c24cb26e2d069205f3c04ddd9db0c4b21e955f78@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:Island of Alaska\, RivalSociety\, OnRegret\, IndoorFriends\, Lions&
+ Lavender
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/island-of-alaska-rivalsociety-onre
+ gret-indoorfriends-lionslavender-tickets-2001233847309
+URL:https://www.eventbrite.com/e/island-of-alaska-rivalsociety-onregret-ind
+ oorfriends-lionslavender-tickets-2001233847309
+END:VEVENT
+END:VCALENDAR

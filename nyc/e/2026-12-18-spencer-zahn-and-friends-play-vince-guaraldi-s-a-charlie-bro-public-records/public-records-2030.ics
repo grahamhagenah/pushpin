@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bbd521ca8e33666f5d5664c842a7ed7b6ccce9de@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T013000Z
+DTEND:20261219T033000Z
+SUMMARY:Spencer Zahn and friends play Vince Guaraldi’s 'A Charlie Brown C
+ hristmas' [Late Show]
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6af497237525ea0001d0c8e8
+URL:https://dice.fm/event/6af497237525ea0001d0c8e8
+END:VEVENT
+END:VCALENDAR

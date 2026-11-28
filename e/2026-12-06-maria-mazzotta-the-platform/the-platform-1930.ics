@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5706ca05ba2c74d5d4f4b4146044dc52ae1d5a4c@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261207T003000Z
+DTEND:20261207T023000Z
+SUMMARY:Maria Mazzotta
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/maria-mazzotta-f
+ y27/
+URL:https://www.theplatformkendall.org/productions/maria-mazzotta-fy27/
+END:VEVENT
+END:VCALENDAR

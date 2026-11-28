@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cf3b062b2aa3e9775e6c08bc08848a95128ecda8@pushpin.city
+DTSTAMP:20261231T000000Z
+DTSTART:20270101T010000Z
+DTEND:20270101T030000Z
+SUMMARY:Ward Hayden & The Outliers NYE
+LOCATION:Lizard Lounge\, 1667 Massachusetts Ave\, Cambridge\, MA 02138
+DESCRIPTION:https://lizardloungeclub.com/event/ward-hayden-the-outliers-nye
+ /
+URL:https://lizardloungeclub.com/event/ward-hayden-the-outliers-nye/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Amherst College
+X-WR-CALDESC:What’s coming up at Amherst College\, from Pushpin Western M
+ ass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:245ae0ad280d7a7bf7ff6bcc45631d444de893bf@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270213T003000Z
+DTEND:20270213T023000Z
+SUMMARY:Valerie Coleman & Friends
+LOCATION:Amherst College\, 220 South Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:Buckley Recital Hall\nValerie Coleman is regarded by many as an
+  iconic artist who continues to pave her own unique path as a composer\, G
+ RA…\nhttps://www.amherst.edu/academiclife/departments/music/events/node/
+ 944337\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.amherst.edu/academiclife/departments/music/events/node/9443
+ 37
+END:VEVENT
+END:VCALENDAR

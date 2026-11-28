@@ -1,0 +1,655 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Somerville Theatre
+X-WR-CALDESC:What’s coming up at Somerville Theatre\, from Pushpin Boston
+ .
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:368f8f65f5e552532cea59bdb225f65a59c3698d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T184000Z
+DTEND:20261128T204000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Times: 1:40pm\, 4:30pm\nShortly before the 1973 Chilean coup\, 
+ CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched fr
+ om Santiago to Easter island by their bureau chief\, MJ (Steve Buscemi). A
+ mongst the Island’s iconic statues\, and as the longtime partners wrestl
+ e with their dark pasts and present conspiracies\, Chris’s newfound bond
+  with a pair of rebellious…\nhttps://www.somervilletheatre.com/productio
+ n/wild-horse-nine/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/wild-horse-nine/
+END:VEVENT
+BEGIN:VEVENT
+UID:f66f3d035c5c9265103e69b0b260220185260b7d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Club Kid
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Times: 2pm\, 4:45pm\, 7:30pm\nThe heartfelt feature directorial
+  debut of writer and actor Jordan Firstman (I Love LA\, Search Party)\, Cl
+ ub Kid tells the story of a hard-partying New York City club promoter (Fir
+ stman) whose life is upended by the arrival of the 10-year-old son (newcom
+ er Reggie Absolom) he never knew he had. Also starring Cara Delevingne and
+  Diego…\nhttps://www.somervilletheatre.com/production/club-kid/\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/club-kid/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0f31af6f93f1bc2c36f36e8fd3bb5c44c8f2916@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T001000Z
+DTEND:20261129T021000Z
+SUMMARY:You Can See Everything
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Thirty-four days before she’s sent to prison\, notorious Sili
+ con Valley founder Elizabeth Holmes invites a skeptical film crew to docum
+ ent her every move. What begins as an intimate portrait of an enigmatic fe
+ lon becomes a mind-bending three-year journey into the abyss.\nhttps://www
+ .somervilletheatre.com/production/you-can-see-everything/\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:9349474578a6b572385de1deb98aabb237a087dc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T184000Z
+DTEND:20261129T204000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Times: 1:40pm\, 4:30pm\nShortly before the 1973 Chilean coup\, 
+ CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched fr
+ om Santiago to Easter island by their bureau chief\, MJ (Steve Buscemi). A
+ mongst the Island’s iconic statues\, and as the longtime partners wrestl
+ e with their dark pasts and present conspiracies\, Chris’s newfound bond
+  with a pair of rebellious…\nhttps://www.somervilletheatre.com/productio
+ n/wild-horse-nine/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/wild-horse-nine/
+END:VEVENT
+BEGIN:VEVENT
+UID:1b7e364270ae261839f3b251e343712cbd034c8b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:Club Kid
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Times: 2pm\, 4:45pm\, 7:30pm\nThe heartfelt feature directorial
+  debut of writer and actor Jordan Firstman (I Love LA\, Search Party)\, Cl
+ ub Kid tells the story of a hard-partying New York City club promoter (Fir
+ stman) whose life is upended by the arrival of the 10-year-old son (newcom
+ er Reggie Absolom) he never knew he had. Also starring Cara Delevingne and
+  Diego…\nhttps://www.somervilletheatre.com/production/club-kid/\nFrom Pu
+ shpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/club-kid/
+END:VEVENT
+BEGIN:VEVENT
+UID:1080fed9bc023f0e07e5cd46fd8902158d8d0a35@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T001000Z
+DTEND:20261130T021000Z
+SUMMARY:You Can See Everything
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Thirty-four days before she’s sent to prison\, notorious Sili
+ con Valley founder Elizabeth Holmes invites a skeptical film crew to docum
+ ent her every move. What begins as an intimate portrait of an enigmatic fe
+ lon becomes a mind-bending three-year journey into the abyss.\nhttps://www
+ .somervilletheatre.com/production/you-can-see-everything/\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:47078012ae35eda01ac5138b0d0067edff09f68c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T213000Z
+DTEND:20261130T233000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris (John M
+ alkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter is
+ land by their bureau chief\, MJ (Steve Buscemi). Amongst the Island’s ic
+ onic statues\, and as the longtime partners wrestle with their dark pasts 
+ and present conspiracies\, Chris’s newfound bond with a pair of rebellio
+ us…\nhttps://www.somervilletheatre.com/production/wild-horse-nine/\nFrom
+  Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/wild-horse-nine/
+END:VEVENT
+BEGIN:VEVENT
+UID:723e5ebbdc02b66f44d13af770195e8d070b6fcf@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T214500Z
+DTEND:20261130T234500Z
+SUMMARY:Club Kid
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Times: 4:45pm\, 7:30pm\nThe heartfelt feature directorial debut
+  of writer and actor Jordan Firstman (I Love LA\, Search Party)\, Club Kid
+  tells the story of a hard-partying New York City club promoter (Firstman)
+  whose life is upended by the arrival of the 10-year-old son (newcomer Reg
+ gie Absolom) he never knew he had. Also starring Cara Delevingne and Diego
+ …\nhttps://www.somervilletheatre.com/production/club-kid/\nFrom Pushpin 
+ Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/club-kid/
+END:VEVENT
+BEGIN:VEVENT
+UID:89271248baabde3e00619dc27362934fbd8b9919@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T000000Z
+DTEND:20261201T020000Z
+SUMMARY:You Can See Everything
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Thirty-four days before she’s sent to prison\, notorious Sili
+ con Valley founder Elizabeth Holmes invites a skeptical film crew to docum
+ ent her every move. What begins as an intimate portrait of an enigmatic fe
+ lon becomes a mind-bending three-year journey into the abyss.\nhttps://www
+ .somervilletheatre.com/production/you-can-see-everything/\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:e184faaa57eb8ed808257161cf061a3425d5e369@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T213000Z
+DTEND:20261201T233000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris (John M
+ alkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter is
+ land by their bureau chief\, MJ (Steve Buscemi). Amongst the Island’s ic
+ onic statues\, and as the longtime partners wrestle with their dark pasts 
+ and present conspiracies\, Chris’s newfound bond with a pair of rebellio
+ us…\nhttps://www.somervilletheatre.com/production/wild-horse-nine/\nFrom
+  Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/wild-horse-nine/
+END:VEVENT
+BEGIN:VEVENT
+UID:07644c493c0d9b3b5229a63d7ddcb43cf3bf47f0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T214500Z
+DTEND:20261201T234500Z
+SUMMARY:Club Kid
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Times: 4:45pm\, 7:30pm\nThe heartfelt feature directorial debut
+  of writer and actor Jordan Firstman (I Love LA\, Search Party)\, Club Kid
+  tells the story of a hard-partying New York City club promoter (Firstman)
+  whose life is upended by the arrival of the 10-year-old son (newcomer Reg
+ gie Absolom) he never knew he had. Also starring Cara Delevingne and Diego
+ …\nhttps://www.somervilletheatre.com/production/club-kid/\nFrom Pushpin 
+ Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/club-kid/
+END:VEVENT
+BEGIN:VEVENT
+UID:881e03a6c95bddd5661c63cc6a64d572bf729d59@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:You Can See Everything
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Thirty-four days before she’s sent to prison\, notorious Sili
+ con Valley founder Elizabeth Holmes invites a skeptical film crew to docum
+ ent her every move. What begins as an intimate portrait of an enigmatic fe
+ lon becomes a mind-bending three-year journey into the abyss.\nhttps://www
+ .somervilletheatre.com/production/you-can-see-everything/\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:0dad907e4fa34c560a6ad3bca79f2bf34d14bb58@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T213000Z
+DTEND:20261202T233000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris (John M
+ alkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter is
+ land by their bureau chief\, MJ (Steve Buscemi). Amongst the Island’s ic
+ onic statues\, and as the longtime partners wrestle with their dark pasts 
+ and present conspiracies\, Chris’s newfound bond with a pair of rebellio
+ us…\nhttps://www.somervilletheatre.com/production/wild-horse-nine/\nFrom
+  Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/wild-horse-nine/
+END:VEVENT
+BEGIN:VEVENT
+UID:da40345a7b60c61b699195c5c477fb4d6e60a04a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T214500Z
+DTEND:20261202T234500Z
+SUMMARY:Club Kid
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Times: 4:45pm\, 7:30pm\nThe heartfelt feature directorial debut
+  of writer and actor Jordan Firstman (I Love LA\, Search Party)\, Club Kid
+  tells the story of a hard-partying New York City club promoter (Firstman)
+  whose life is upended by the arrival of the 10-year-old son (newcomer Reg
+ gie Absolom) he never knew he had. Also starring Cara Delevingne and Diego
+ …\nhttps://www.somervilletheatre.com/production/club-kid/\nFrom Pushpin 
+ Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/club-kid/
+END:VEVENT
+BEGIN:VEVENT
+UID:7239c69e778d2b6983150680cd39b61703856e1d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:You Can See Everything
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Thirty-four days before she’s sent to prison\, notorious Sili
+ con Valley founder Elizabeth Holmes invites a skeptical film crew to docum
+ ent her every move. What begins as an intimate portrait of an enigmatic fe
+ lon becomes a mind-bending three-year journey into the abyss.\nhttps://www
+ .somervilletheatre.com/production/you-can-see-everything/\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:f7c9ae9666c36e27d42d350fee24664628639034@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T214500Z
+DTEND:20261203T234500Z
+SUMMARY:Club Kid
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Times: 4:45pm\, 7:30pm\nThe heartfelt feature directorial debut
+  of writer and actor Jordan Firstman (I Love LA\, Search Party)\, Club Kid
+  tells the story of a hard-partying New York City club promoter (Firstman)
+  whose life is upended by the arrival of the 10-year-old son (newcomer Reg
+ gie Absolom) he never knew he had. Also starring Cara Delevingne and Diego
+ …\nhttps://www.somervilletheatre.com/production/club-kid/\nFrom Pushpin 
+ Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/club-kid/
+END:VEVENT
+BEGIN:VEVENT
+UID:0e7ae47da2f37a9189f75d804e1634a7a2f6ae10@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T233000Z
+DTEND:20261204T013000Z
+SUMMARY:Hundreds of Beavers
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Times: 6:30pm\, 9pm\nCertified Fresh at 97% on Rotten Tomatoes 
+ and one of the highest-rated comedies on Letterboxd\, the underground hit 
+ that sold out theaters across the country is back for the holidays. A drun
+ ken applejack salesman loses everything and has to survive the winter by b
+ ecoming North America’s greatest fur trapper. Hundreds of Beavers is a b
+ lack-and-white…\nhttps://www.somervilletheatre.com/production/hundreds-o
+ f-beavers/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/hundreds-of-beavers/
+END:VEVENT
+BEGIN:VEVENT
+UID:6120371050f21bba63f7b26310b348891bfc2aff@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:The Slutcracker Tickets on sale Friday\, October 2 at Noon. The
+  Slutcracker is a beacon of joy that sparked worldwide interest upon its s
+ candalous debut. It is beautiful. It is bawdy. But…no children\, please
+ —our parody of The Nutcracker transports the audience into a grown-up re
+ telling of a holiday classic. Personality and diversity. Sequins and glitt
+ er….\nhttps://www.somervilletheatre.com/production/the-slutcracker/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5557ac082ab1eb934381d3d6e82ab9bd1803e9e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:The Slutcracker Tickets on sale Friday\, October 2 at Noon. The
+  Slutcracker is a beacon of joy that sparked worldwide interest upon its s
+ candalous debut. It is beautiful. It is bawdy. But…no children\, please
+ —our parody of The Nutcracker transports the audience into a grown-up re
+ telling of a holiday classic. Personality and diversity. Sequins and glitt
+ er….\nhttps://www.somervilletheatre.com/production/the-slutcracker/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:18e75f544e8fe606d74b558f71e7d65adaebdb95@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T210000Z
+DTEND:20261206T230000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:The Slutcracker Tickets on sale Friday\, October 2 at Noon. The
+  Slutcracker is a beacon of joy that sparked worldwide interest upon its s
+ candalous debut. It is beautiful. It is bawdy. But…no children\, please
+ —our parody of The Nutcracker transports the audience into a grown-up re
+ telling of a holiday classic. Personality and diversity. Sequins and glitt
+ er….\nhttps://www.somervilletheatre.com/production/the-slutcracker/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:5e4ef641bc944d1c53894255ed1a7b0d4c966754@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T010000Z
+DTEND:20261212T030000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:The Slutcracker Tickets on sale Friday\, October 2 at Noon. The
+  Slutcracker is a beacon of joy that sparked worldwide interest upon its s
+ candalous debut. It is beautiful. It is bawdy. But…no children\, please
+ —our parody of The Nutcracker transports the audience into a grown-up re
+ telling of a holiday classic. Personality and diversity. Sequins and glitt
+ er….\nhttps://www.somervilletheatre.com/production/the-slutcracker/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:b3fc82c4ff28f7d4885dd8662f1c642c53d3d47a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Times: 2pm\, 8pm\nThe Slutcracker Tickets on sale Friday\, Octo
+ ber 2 at Noon. The Slutcracker is a beacon of joy that sparked worldwide i
+ nterest upon its scandalous debut. It is beautiful. It is bawdy. But…no 
+ children\, please—our parody of The Nutcracker transports the audience i
+ nto a grown-up retelling of a holiday classic. Personality and diversity. 
+ Sequins and glitter….\nhttps://www.somervilletheatre.com/production/the-
+ slutcracker/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:9a9fb5cccf8f1fefe0305aba59ad6dd9bc76c15d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T210000Z
+DTEND:20261213T230000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:The Slutcracker Tickets on sale Friday\, October 2 at Noon. The
+  Slutcracker is a beacon of joy that sparked worldwide interest upon its s
+ candalous debut. It is beautiful. It is bawdy. But…no children\, please
+ —our parody of The Nutcracker transports the audience into a grown-up re
+ telling of a holiday classic. Personality and diversity. Sequins and glitt
+ er….\nhttps://www.somervilletheatre.com/production/the-slutcracker/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:4266f3f7a659c019f25077ecd648bf25473f7d73@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261217T010000Z
+DTEND:20261217T030000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:The Slutcracker Tickets on sale Friday\, October 2 at Noon. The
+  Slutcracker is a beacon of joy that sparked worldwide interest upon its s
+ candalous debut. It is beautiful. It is bawdy. But…no children\, please
+ —our parody of The Nutcracker transports the audience into a grown-up re
+ telling of a holiday classic. Personality and diversity. Sequins and glitt
+ er….\nhttps://www.somervilletheatre.com/production/the-slutcracker/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:fcfb00317524fb99fdaa0509e75be6eaafbb68a2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T010000Z
+DTEND:20261218T030000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:The Slutcracker Tickets on sale Friday\, October 2 at Noon. The
+  Slutcracker is a beacon of joy that sparked worldwide interest upon its s
+ candalous debut. It is beautiful. It is bawdy. But…no children\, please
+ —our parody of The Nutcracker transports the audience into a grown-up re
+ telling of a holiday classic. Personality and diversity. Sequins and glitt
+ er….\nhttps://www.somervilletheatre.com/production/the-slutcracker/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:ed6a33b40643c2d90ff6c5c49d5d7255f3213902@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T010000Z
+DTEND:20261219T030000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:The Slutcracker Tickets on sale Friday\, October 2 at Noon. The
+  Slutcracker is a beacon of joy that sparked worldwide interest upon its s
+ candalous debut. It is beautiful. It is bawdy. But…no children\, please
+ —our parody of The Nutcracker transports the audience into a grown-up re
+ telling of a holiday classic. Personality and diversity. Sequins and glitt
+ er….\nhttps://www.somervilletheatre.com/production/the-slutcracker/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:dca08c2dce72d7ed802b890019be69701c9ac978@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T190000Z
+DTEND:20261219T210000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Times: 2pm\, 8pm\nThe Slutcracker Tickets on sale Friday\, Octo
+ ber 2 at Noon. The Slutcracker is a beacon of joy that sparked worldwide i
+ nterest upon its scandalous debut. It is beautiful. It is bawdy. But…no 
+ children\, please—our parody of The Nutcracker transports the audience i
+ nto a grown-up retelling of a holiday classic. Personality and diversity. 
+ Sequins and glitter….\nhttps://www.somervilletheatre.com/production/the-
+ slutcracker/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:f9ab9c954962bf8b560932e0a0af5170ca227f4b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T210000Z
+DTEND:20261220T230000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:The Slutcracker Tickets on sale Friday\, October 2 at Noon. The
+  Slutcracker is a beacon of joy that sparked worldwide interest upon its s
+ candalous debut. It is beautiful. It is bawdy. But…no children\, please
+ —our parody of The Nutcracker transports the audience into a grown-up re
+ telling of a holiday classic. Personality and diversity. Sequins and glitt
+ er….\nhttps://www.somervilletheatre.com/production/the-slutcracker/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:d4a6ed51cf2e8c5e87e7fa6afe7293b98805ebb2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261222T010000Z
+DTEND:20261222T030000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:The Slutcracker Tickets on sale Friday\, October 2 at Noon. The
+  Slutcracker is a beacon of joy that sparked worldwide interest upon its s
+ candalous debut. It is beautiful. It is bawdy. But…no children\, please
+ —our parody of The Nutcracker transports the audience into a grown-up re
+ telling of a holiday classic. Personality and diversity. Sequins and glitt
+ er….\nhttps://www.somervilletheatre.com/production/the-slutcracker/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:05aad3fae6b44a2e349df5ef1599f6354ad1685d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261225T224500Z
+DTEND:20261226T004500Z
+SUMMARY:Werwulf in 35mm
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Times: 5:45pm\, 8:20pm\nWitness Robert Eggers’ most visceral 
+ and haunting experience yet. Focus Features presents WERWULF\, a harrowing
+  tale of devotion\, damnation and the devil within. Screening in 35mm.\nht
+ tps://www.somervilletheatre.com/production/werwulf-in-35mm/\nFrom Pushpin 
+ Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/werwulf-in-35mm/
+END:VEVENT
+BEGIN:VEVENT
+UID:8741c3e7b0b96e05287b59924148642ef736ce13@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261226T181500Z
+DTEND:20261226T201500Z
+SUMMARY:Werwulf in 35mm
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7:15pm\, 9:50pm\nWitness Robert Eggers
+ ’ most visceral and haunting experience yet. Focus Features presents WER
+ WULF\, a harrowing tale of devotion\, damnation and the devil within. Scre
+ ening in 35mm.\nhttps://www.somervilletheatre.com/production/werwulf-in-35
+ mm/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/werwulf-in-35mm/
+END:VEVENT
+BEGIN:VEVENT
+UID:cc2aba84a8f95eb50852691eafa82026fa6339f5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261227T010000Z
+DTEND:20261227T030000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:The Slutcracker Tickets on sale Friday\, October 2 at Noon. The
+  Slutcracker is a beacon of joy that sparked worldwide interest upon its s
+ candalous debut. It is beautiful. It is bawdy. But…no children\, please
+ —our parody of The Nutcracker transports the audience into a grown-up re
+ telling of a holiday classic. Personality and diversity. Sequins and glitt
+ er….\nhttps://www.somervilletheatre.com/production/the-slutcracker/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:154896718b1a5d94bac0a30e5906f183bef2359a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261227T181500Z
+DTEND:20261227T201500Z
+SUMMARY:Werwulf in 35mm
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7:15pm\nWitness Robert Eggers’ most 
+ visceral and haunting experience yet. Focus Features presents WERWULF\, a 
+ harrowing tale of devotion\, damnation and the devil within. Screening in 
+ 35mm.\nhttps://www.somervilletheatre.com/production/werwulf-in-35mm/\nFrom
+  Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/werwulf-in-35mm/
+END:VEVENT
+BEGIN:VEVENT
+UID:d29dd2a800ecc3f5182aec205fcbf6f5720da558@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261227T210000Z
+DTEND:20261227T230000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:The Slutcracker Tickets on sale Friday\, October 2 at Noon. The
+  Slutcracker is a beacon of joy that sparked worldwide interest upon its s
+ candalous debut. It is beautiful. It is bawdy. But…no children\, please
+ —our parody of The Nutcracker transports the audience into a grown-up re
+ telling of a holiday classic. Personality and diversity. Sequins and glitt
+ er….\nhttps://www.somervilletheatre.com/production/the-slutcracker/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:ad1212f911629f82bbe330a6f1f619acd26f9592@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261228T211500Z
+DTEND:20261228T231500Z
+SUMMARY:Werwulf in 35mm
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Times: 4:15pm\, 7:15pm\nWitness Robert Eggers’ most visceral 
+ and haunting experience yet. Focus Features presents WERWULF\, a harrowing
+  tale of devotion\, damnation and the devil within. Screening in 35mm.\nht
+ tps://www.somervilletheatre.com/production/werwulf-in-35mm/\nFrom Pushpin 
+ Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/werwulf-in-35mm/
+END:VEVENT
+BEGIN:VEVENT
+UID:7c1613dbaebaf39bd21ac5dd25c42a2720f1a9a5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270102T010000Z
+DTEND:20270102T030000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:The Slutcracker Tickets on sale Friday\, October 2 at Noon. The
+  Slutcracker is a beacon of joy that sparked worldwide interest upon its s
+ candalous debut. It is beautiful. It is bawdy. But…no children\, please
+ —our parody of The Nutcracker transports the audience into a grown-up re
+ telling of a holiday classic. Personality and diversity. Sequins and glitt
+ er….\nhttps://www.somervilletheatre.com/production/the-slutcracker/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:6917590e7381544d6921fda02dffb5dc44f8d289@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270103T010000Z
+DTEND:20270103T030000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:The Slutcracker Tickets on sale Friday\, October 2 at Noon. The
+  Slutcracker is a beacon of joy that sparked worldwide interest upon its s
+ candalous debut. It is beautiful. It is bawdy. But…no children\, please
+ —our parody of The Nutcracker transports the audience into a grown-up re
+ telling of a holiday classic. Personality and diversity. Sequins and glitt
+ er….\nhttps://www.somervilletheatre.com/production/the-slutcracker/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:17b68fc2f92a1a8f05f44e9856bb479f9c4612fe@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270103T210000Z
+DTEND:20270103T230000Z
+SUMMARY:The Slutcracker
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:The Slutcracker Tickets on sale Friday\, October 2 at Noon. The
+  Slutcracker is a beacon of joy that sparked worldwide interest upon its s
+ candalous debut. It is beautiful. It is bawdy. But…no children\, please
+ —our parody of The Nutcracker transports the audience into a grown-up re
+ telling of a holiday classic. Personality and diversity. Sequins and glitt
+ er….\nhttps://www.somervilletheatre.com/production/the-slutcracker/\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/the-slutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:c1f878deb90b8632ccbe250b808bdb6ca03fecfc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270117T010000Z
+DTEND:20270117T030000Z
+SUMMARY:BCMFest: Nightcap
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Passim presents BCMFest: Nightcap with Open the Door For Three 
+ Cassie & Maggie Adam Hendey Band Forsyth & special guests Now in its 24th 
+ year\, the Passim Program Boston Celtic Music Festival (BCMFest) returns t
+ o venues across Cambridge and Somerville\, including Club Passim\, Crystal
+  Ballroom\, The Rockwell\, Arts at the Armory\, and Somerville Theatre. Pr
+ esented…\nhttps://www.somervilletheatre.com/production/bcmfest-nightcap/
+ \nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/bcmfest-nightcap/
+END:VEVENT
+BEGIN:VEVENT
+UID:44c35d2e7d89dafc35d4e7f8af8848b090272fb2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270123T010000Z
+DTEND:20270123T030000Z
+SUMMARY:Sertab Erener
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Serdar Ilhan presents Sertab Erener in Boston Carrying her powe
+ rful vocal technique shaped by classical music training into a professiona
+ l solo career in the early 1990s\, Sertab Erener has become one of the mos
+ t prolific and pioneering figures in Turkish music\, thanks not only to he
+ r exceptional vocal interpretation but also to a discography of…\nhttps:
+ //www.somervilletheatre.com/production/sertab-erener/\nFrom Pushpin Boston
+ : https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/sertab-erener/
+END:VEVENT
+BEGIN:VEVENT
+UID:89d130201156e30545c2fbe326f2e0cb00fa4bf7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270130T010000Z
+DTEND:20270130T030000Z
+SUMMARY:DAKHABRAKHA
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:Global Arts Live presents DAKHABRAKHA Drones\, beats\, and towe
+ ring black lamb’s-wool hats all serve as a striking backdrop to the Ukra
+ inian folk-rock quartet DakhaBrakha. With one foot in the urban avant-gard
+ e and the other rooted in Ukrainian village culture\, the group’s self-p
+ roclaimed “ethno-chaos” is a refreshingly novel vision of Eastern Euro
+ pean roots music. Accompanied by…\nhttps://www.somervilletheatre.com/pro
+ duction/dakhabrakha/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.somervilletheatre.com/production/dakhabrakha/
+END:VEVENT
+END:VCALENDAR

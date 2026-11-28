@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4ae08c7ba410eaa55e9a52018f1e95fd870c4064@pushpin.city
+DTSTAMP:20270205T000000Z
+DTSTART:20270206T000000Z
+DTEND:20270206T020000Z
+SUMMARY:Bella Poarch Presents Picnic at the Cemetery Tour
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/bella-poarch-presents-picnic-at-th
+ e-boston-massachusetts-02-05-2027/event/01006542EECE3E15
+URL:https://www.ticketmaster.com/bella-poarch-presents-picnic-at-the-boston
+ -massachusetts-02-05-2027/event/01006542EECE3E15
+END:VEVENT
+END:VCALENDAR

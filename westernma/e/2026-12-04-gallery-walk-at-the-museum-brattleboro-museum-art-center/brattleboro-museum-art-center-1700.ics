@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:314844d1261543fa897cb3394920888631ca55c8@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261204T220000Z
+DTEND:20261205T000000Z
+SUMMARY:Gallery Walk at the Museum
+LOCATION:Brattleboro Museum & Art Center\, 10 Vernon St\, Brattleboro\, VT 
+ 05301
+DESCRIPTION:https://www.brattleboromuseum.org/event/gallery-walk-at-the-mus
+ eum/
+URL:https://www.brattleboromuseum.org/event/gallery-walk-at-the-museum/
+END:VEVENT
+END:VCALENDAR

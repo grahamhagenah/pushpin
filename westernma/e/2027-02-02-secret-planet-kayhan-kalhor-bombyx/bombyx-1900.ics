@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:59db3c281ab0c9246fc6d9c8672b055f86bc0038@pushpin.city
+DTSTAMP:20270202T000000Z
+DTSTART:20270203T000000Z
+DTEND:20270203T020000Z
+SUMMARY:Secret Planet: Kayhan Kalhor
+LOCATION:Bombyx\, 130 Pine St\, Florence\, MA 01062
+DESCRIPTION:https://bombyx.live/events/secret-planet-kayhan-kalhor/
+URL:https://bombyx.live/events/secret-planet-kayhan-kalhor/
+END:VEVENT
+END:VCALENDAR

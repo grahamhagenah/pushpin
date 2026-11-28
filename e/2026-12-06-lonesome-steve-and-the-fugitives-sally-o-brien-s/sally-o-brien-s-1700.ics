@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b3f36994607fc364ea62311fb001d973e5154f53@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T220000Z
+DTEND:20261207T000000Z
+SUMMARY:Lonesome Steve and The Fugitives
+LOCATION:Sally O'Brien's\, 335 Somerville Ave\, Somerville\, MA 02143
+DESCRIPTION:https://www.sallyobriensbar.com/music/
+URL:https://www.sallyobriensbar.com/music/
+END:VEVENT
+END:VCALENDAR

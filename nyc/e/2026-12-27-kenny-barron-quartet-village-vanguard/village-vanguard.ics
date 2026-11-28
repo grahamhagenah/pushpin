@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7c8610c6b2c4a6aa2d0adb9ab830f12a3fdfcd5a@pushpin.city
+DTSTAMP:20261227T000000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Kenny Barron Quartet
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:https://vv.squadup.com/artists/kenny-barron-quartet
+URL:https://vv.squadup.com/artists/kenny-barron-quartet
+END:VEVENT
+END:VCALENDAR

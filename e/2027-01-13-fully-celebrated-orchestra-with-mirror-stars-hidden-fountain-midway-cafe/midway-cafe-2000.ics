@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6c99661610eb28dd5cdc7d7ff991c11f66d1b0b7@pushpin.city
+DTSTAMP:20270113T000000Z
+DTSTART:20270114T010000Z
+DTEND:20270114T030000Z
+SUMMARY:Fully Celebrated Orchestra with Mirror Stars + Hidden Fountains
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/384/1799888400000
+URL:https://tockify.com/midwaycafejp/detail/384/1799888400000
+END:VEVENT
+END:VCALENDAR

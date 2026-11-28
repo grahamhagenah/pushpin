@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:01c9d81e40fd97f9ff965dd784e842bc22a0ef08@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261210T003000Z
+DTEND:20261210T023000Z
+SUMMARY:Dave Hull and the Dirty Angels
+LOCATION:Sally O'Brien's\, 335 Somerville Ave\, Somerville\, MA 02143
+DESCRIPTION:https://www.sallyobriensbar.com/music/
+URL:https://www.sallyobriensbar.com/music/
+END:VEVENT
+END:VCALENDAR

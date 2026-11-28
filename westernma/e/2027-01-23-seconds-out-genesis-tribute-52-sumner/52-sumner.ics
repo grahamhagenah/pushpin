@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:178c6bef0933a414ff5f5f176de3614b6acf02f6@pushpin.city
+DTSTAMP:20270123T000000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Seconds Out - Genesis Tribute
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:https://www.eventbrite.com/e/seconds-out-a-tribute-to-genesis-t
+ ickets-1998890677826
+URL:https://www.eventbrite.com/e/seconds-out-a-tribute-to-genesis-tickets-1
+ 998890677826
+END:VEVENT
+END:VCALENDAR

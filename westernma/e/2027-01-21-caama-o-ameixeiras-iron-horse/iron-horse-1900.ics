@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2f5527d6c4f809911e20f4ba3bcaa299a9784f7f@pushpin.city
+DTSTAMP:20270121T000000Z
+DTSTART:20270122T000000Z
+DTEND:20270122T020000Z
+SUMMARY:Caamańo & Ameixeiras
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000DBfTNMA1
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0DBfTNMA1
+END:VEVENT
+END:VCALENDAR

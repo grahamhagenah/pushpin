@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2ca7ffe8f0ce4f31c258a03f2eda4a55d0b7a8ad@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T171500Z
+DTEND:20261129T191500Z
+SUMMARY:Beginners
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/beginners/
+URL:https://nitehawkcinema.com/prospectpark/movies/beginners/
+END:VEVENT
+END:VCALENDAR

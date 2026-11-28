@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9987bd0b4a60c10ae90e735e94dd31229fc8d8a7@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261203T205500Z
+DTEND:20261203T225500Z
+SUMMARY:Club Kid
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/club-kid/
+URL:https://nitehawkcinema.com/williamsburg/movies/club-kid/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4a8d3e45e664b356379e67307ab88e55ed151fe9@pushpin.city
+DTSTAMP:20261229T000000Z
+DTSTART:20261229T230000Z
+DTEND:20261230T010000Z
+SUMMARY:Author Talk: Carlton Champian - Notes to My Father
+LOCATION:Mattapan Library\, 1350 Blue Hill Ave\, Mattapan\, MA 02126
+DESCRIPTION:https://bpl.bibliocommons.com/events/6aea3330035faf0033e12227
+URL:https://bpl.bibliocommons.com/events/6aea3330035faf0033e12227
+END:VEVENT
+END:VCALENDAR

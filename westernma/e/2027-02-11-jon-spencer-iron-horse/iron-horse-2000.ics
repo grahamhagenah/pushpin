@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fa91111e6cca5b80e742b6b1de9ded983db83c58@pushpin.city
+DTSTAMP:20270211T000000Z
+DTSTART:20270212T010000Z
+DTEND:20270212T030000Z
+SUMMARY:Jon Spencer
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000CjWJaMAN
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0CjWJaMAN
+END:VEVENT
+END:VCALENDAR

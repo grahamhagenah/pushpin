@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:98b04d73ad35299999ab5b97ad1f7cc2888f1198@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T011500Z
+DTEND:20261213T031500Z
+SUMMARY:Fatherland
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/fatherland
+URL:https://www.thetriplex.org/movie/fatherland
+END:VEVENT
+END:VCALENDAR

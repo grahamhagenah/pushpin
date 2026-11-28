@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5c3da464599e20535418ab78ca08ef268afd9f05@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261202T204500Z
+DTEND:20261202T224500Z
+SUMMARY:Wild Horse Nine
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/wild-horse-nine/
+URL:https://nitehawkcinema.com/williamsburg/movies/wild-horse-nine/
+END:VEVENT
+END:VCALENDAR

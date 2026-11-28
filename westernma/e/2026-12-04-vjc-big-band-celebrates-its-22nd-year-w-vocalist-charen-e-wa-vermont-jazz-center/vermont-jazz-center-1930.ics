@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:63f710c0a154d3796f4e27f936cd4e5ea66436e5@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:VJC Big Band Celebrates its 22nd Year w/ Vocalist Charenée Wade
+LOCATION:Vermont Jazz Center\, 72 Cotton Mill Hill\, Brattleboro\, VT 05301
+DESCRIPTION:https://vtjazz.org/calendar/big-band-charenee-wade/
+URL:https://vtjazz.org/calendar/big-band-charenee-wade/
+END:VEVENT
+END:VCALENDAR

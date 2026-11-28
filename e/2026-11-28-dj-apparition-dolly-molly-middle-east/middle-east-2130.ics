@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1d649bc233089c5aa00ff46495a238879e0e7c5a@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T023000Z
+DTEND:20261129T043000Z
+SUMMARY:DJ APPARITION\, Dolly Molly
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/dj-apparition-dolly-molly-middl
+ e-east-cornerbakery-tickets/15071163?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/dj-apparition-dolly-molly-middle-east-c
+ ornerbakery-tickets/15071163?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dd73837f5d7c94faa9ba5d27b8bff0a43fbb5f0d@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T153000Z
+DTEND:20261220T173000Z
+SUMMARY:TLI for Families: BSO Holiday Brass
+LOCATION:Tanglewood\, 297 West St\, Lenox\, MA 01240
+DESCRIPTION:https://www.bso.org/events/dec-20-familybso-holiday-bras
+URL:https://www.bso.org/events/dec-20-familybso-holiday-bras
+END:VEVENT
+END:VCALENDAR

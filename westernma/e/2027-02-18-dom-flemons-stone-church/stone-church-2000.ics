@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:78d2630edfde61b458b6dc6c6499e55f20536472@pushpin.city
+DTSTAMP:20270218T000000Z
+DTSTART:20270219T010000Z
+DTEND:20270219T030000Z
+SUMMARY:Dom Flemons
+LOCATION:Stone Church\, 210 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://tickets.venuepilot.com/e/don-flemons-2027-02-18-festiva
+ l-conflict-west-brattleboro-76e38b
+URL:https://tickets.venuepilot.com/e/don-flemons-2027-02-18-festival-confli
+ ct-west-brattleboro-76e38b
+END:VEVENT
+END:VCALENDAR

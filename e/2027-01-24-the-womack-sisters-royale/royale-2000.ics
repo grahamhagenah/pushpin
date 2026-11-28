@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b4d45169627a5052ad2da03041f28843337a32f2@pushpin.city
+DTSTAMP:20270124T000000Z
+DTSTART:20270125T010000Z
+DTEND:20270125T030000Z
+SUMMARY:The Womack Sisters
+LOCATION:Royale\, 279 Tremont St\, Boston\, MA 02116
+DESCRIPTION:https://www.axs.com/events/1641306/the-womack-sisters-tickets
+URL:https://www.axs.com/events/1641306/the-womack-sisters-tickets
+END:VEVENT
+END:VCALENDAR

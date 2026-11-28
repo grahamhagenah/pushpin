@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf45c8d2e857df5b083cdf72e31366526e29c23@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261202T154000Z
+DTEND:20261202T174000Z
+SUMMARY:A Fox Under a Pink Moon
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/a-fox-under-a-pink-moon/
+URL:https://www.ifccenter.com/films/a-fox-under-a-pink-moon/
+END:VEVENT
+END:VCALENDAR

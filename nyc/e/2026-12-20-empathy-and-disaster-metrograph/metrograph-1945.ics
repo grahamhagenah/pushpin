@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e3752cf6b16f8157949eb8b368ebdce31fbf1be8@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261221T004500Z
+DTEND:20261221T024500Z
+SUMMARY:Empathy and Disaster
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005153-empathy-and-disaster/
+URL:https://metrograph.com/film/9999005153-empathy-and-disaster/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f07f2dc1e6f37a11939c618093f76a97db883f40@pushpin.city
+DTSTAMP:20261217T000000Z
+DTSTART:20261218T000000Z
+DTEND:20261218T020000Z
+SUMMARY:Grrl Haus Cinema: Horror and Camp Shorts
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/special_events/grrl-haus-cinema/
+URL:https://brattlefilm.org/special_events/grrl-haus-cinema/
+END:VEVENT
+END:VCALENDAR

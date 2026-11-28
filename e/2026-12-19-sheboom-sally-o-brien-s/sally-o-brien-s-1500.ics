@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e000c7a68c9f9b2c028f371e6cdf67e30cf47fca@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261219T200000Z
+DTEND:20261219T220000Z
+SUMMARY:SheBoom
+LOCATION:Sally O'Brien's\, 335 Somerville Ave\, Somerville\, MA 02143
+DESCRIPTION:https://www.sallyobriensbar.com/music/
+URL:https://www.sallyobriensbar.com/music/
+END:VEVENT
+END:VCALENDAR

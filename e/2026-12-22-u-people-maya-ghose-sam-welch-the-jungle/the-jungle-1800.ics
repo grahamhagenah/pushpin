@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6fd808e2672df3f142af84d05339ff15e1d938ac@pushpin.city
+DTSTAMP:20261222T000000Z
+DTSTART:20261222T230000Z
+DTEND:20261223T010000Z
+SUMMARY:U-People\, Maya Ghose\, Sam Welch
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/u-people-maya-ghose-sam-welch-tick
+ ets-2003868955990
+URL:https://www.eventbrite.com/e/u-people-maya-ghose-sam-welch-tickets-2003
+ 868955990
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:975a4e48638078b37e1d537292035accafe4a886@pushpin.city
+DTSTAMP:20270116T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:BEYOND PURPLE: Tribute to Deep Purple and Whitesnake
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:https://www.eventbrite.com/e/beyond-purple-tribute-to-deep-purp
+ le-and-whitesnake-tickets-2004017280633
+URL:https://www.eventbrite.com/e/beyond-purple-tribute-to-deep-purple-and-w
+ hitesnake-tickets-2004017280633
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7853646fef749e1e0b348c7235e817075dab1f6b@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261202T210000Z
+DTEND:20261202T230000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/the-hunger-games-sunrise
+ -on-the-reaping
+URL:https://www.westnewtoncinema.com/movie/the-hunger-games-sunrise-on-the-
+ reaping
+END:VEVENT
+END:VCALENDAR

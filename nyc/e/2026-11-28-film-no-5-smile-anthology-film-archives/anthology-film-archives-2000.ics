@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0c63646805d70406aed36a9ea003748c28bfbf5a@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Film NO. 5 (Smile)
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=11&year=2026#showing-62290
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=11&year=2026#showing-62290
+END:VEVENT
+END:VCALENDAR

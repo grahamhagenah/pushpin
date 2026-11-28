@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9ac5fa6f78019260efb9e854df0de6fc978824ce@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:Interpretations: Gerry Hemingway\, Lina Andonovska\, and Earl Howar
+ d // Kyle Motl\, Eli Wallace\, and Nick Neuburg
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/hemingway-andonovska-howard-motl-wal
+ lace-neuburg/
+URL:https://roulette.org/event/hemingway-andonovska-howard-motl-wallace-neu
+ burg/
+END:VEVENT
+END:VCALENDAR

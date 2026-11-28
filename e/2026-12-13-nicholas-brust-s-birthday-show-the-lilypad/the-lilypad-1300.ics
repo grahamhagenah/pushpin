@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:595230b51c9ac0966af1b7efe5b2e598b7e28f43@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T180000Z
+DTEND:20261213T200000Z
+SUMMARY:Nicholas Brust's Birthday Show!
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/11/1/nicholas-brust-birt
+ hday-show
+URL:https://www.lilypadinman.com/home/2026/11/1/nicholas-brust-birthday-sho
+ w
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2b28a1012b94895b6e8a89ff33df1f6177997554@pushpin.city
+DTSTAMP:20270219T000000Z
+DTSTART:20270220T010000Z
+DTEND:20270220T030000Z
+SUMMARY:Artistry in Action: Faculty Chamber Music Series
+LOCATION:Boston Conservatory\, 8 Fenway\, Boston\, MA 02215
+DESCRIPTION:https://bostonconservatory.berklee.edu/events/artistry-in-actio
+ n-faculty-chamber-music-series02-19
+URL:https://bostonconservatory.berklee.edu/events/artistry-in-action-facult
+ y-chamber-music-series02-19
+END:VEVENT
+END:VCALENDAR

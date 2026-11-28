@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b0305724c2980a7dcbee70be459168dd3ca790b6@pushpin.city
+DTSTAMP:20261207T000000Z
+DTSTART:20261208T000000Z
+DTEND:20261208T020000Z
+SUMMARY:Dead City Punx
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/dead-city-punx/
+URL:https://nitehawkcinema.com/prospectpark/movies/dead-city-punx/
+END:VEVENT
+END:VCALENDAR

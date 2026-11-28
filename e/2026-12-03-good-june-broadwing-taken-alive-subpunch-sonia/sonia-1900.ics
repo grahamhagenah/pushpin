@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0906dff24c63f93febdbf0d2ae767e2f5fd1de40@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Good June\, Broadwing\, Taken Alive\, Subpunch
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/good-june-broadwing-taken-alive
+ -sonia-tickets/14329734?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/good-june-broadwing-taken-alive-sonia-t
+ ickets/14329734?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

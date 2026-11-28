@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3e78d7f41dff2d345fbcce74dd023db97cf800d3@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T010000Z
+DTEND:20261203T030000Z
+SUMMARY:Amelia Heintzelman: How Dogs Play (Night 2)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/amelia-heintzelman-how-dogs-play-2/
+URL:https://roulette.org/event/amelia-heintzelman-how-dogs-play-2/
+END:VEVENT
+END:VCALENDAR

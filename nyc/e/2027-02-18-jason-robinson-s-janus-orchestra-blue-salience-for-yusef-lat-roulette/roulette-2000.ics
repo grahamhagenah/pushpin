@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0fb4c802d18b453e2fdd12792db03cad6dee9a15@pushpin.city
+DTSTAMP:20270218T000000Z
+DTSTART:20270219T010000Z
+DTEND:20270219T030000Z
+SUMMARY:Jason Robinson’s Janus Orchestra – Blue Salience: For Yusef Lat
+ eef
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/blue-salience-jason-robinsons-janus-
+ orchestra/
+URL:https://roulette.org/event/blue-salience-jason-robinsons-janus-orchestr
+ a/
+END:VEVENT
+END:VCALENDAR

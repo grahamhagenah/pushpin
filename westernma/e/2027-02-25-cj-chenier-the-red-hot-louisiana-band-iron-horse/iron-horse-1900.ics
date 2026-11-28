@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:16b376d0d9380ba6c30cde44d83a35c7f2f96927@pushpin.city
+DTSTAMP:20270225T000000Z
+DTSTART:20270226T000000Z
+DTEND:20270226T020000Z
+SUMMARY:CJ Chenier & The Red Hot Louisiana Band
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000DEIlZMAX
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0DEIlZMAX
+END:VEVENT
+END:VCALENDAR

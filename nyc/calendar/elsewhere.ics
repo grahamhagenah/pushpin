@@ -1,0 +1,222 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Elsewhere
+X-WR-CALDESC:What’s coming up at Elsewhere\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:399bccf94a55b8eb061805bc14b4ef9d5b0bc97a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T033000Z
+DTEND:20261129T053000Z
+SUMMARY:DICKAPPOINTMENT INVITES: TROMAC with Kenni Javon and Libby Brothers
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6adb69404b84a80001a43627\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6adb69404b84a80001a43627
+END:VEVENT
+BEGIN:VEVENT
+UID:77677243c5d87ae695fcd66faf7454b1e278eb18@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T043000Z
+DTEND:20261204T063000Z
+SUMMARY:DARIUS (DJ Set)\, Orson
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6afddba679de4200011f4a1f\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afddba679de4200011f4a1f
+END:VEVENT
+BEGIN:VEVENT
+UID:07367cffec6f78368b04181ce5f7edd7b5bf8dc9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T040000Z
+DTEND:20261205T060000Z
+SUMMARY:Laylit
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6afc963bd9362500013146b0\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afc963bd9362500013146b0
+END:VEVENT
+BEGIN:VEVENT
+UID:66dbfb662a61586b2caa6b526224caf79844f5b9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T033000Z
+DTEND:20261206T053000Z
+SUMMARY:DOST ELSEWHERE TAKEOVER
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6aff2414cb1f79000100c8c7\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aff2414cb1f79000100c8c7
+END:VEVENT
+BEGIN:VEVENT
+UID:c07e49a2989359513a4c51d78474bbe7050a9336@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T033000Z
+DTEND:20261212T053000Z
+SUMMARY:Only Fire\, Reysha Rami (Live)\,  Angel Money (DJ Set)\, flirty800
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ad631961e8f4a000187cd46\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad631961e8f4a000187cd46
+END:VEVENT
+BEGIN:VEVENT
+UID:bc50622d92a5df1e5e0b679345a0a0ac048003aa@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T033000Z
+DTEND:20261219T053000Z
+SUMMARY:Shabe Yalda with Club Joon
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af1da37f39ccf00013eb473\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af1da37f39ccf00013eb473
+END:VEVENT
+BEGIN:VEVENT
+UID:9672eeef3de3b5b0323b7310e1eafeebb40ac4be@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T033000Z
+DTEND:20261220T053000Z
+SUMMARY:Perreo Intenso - Noche Buena
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af221e04fc5120001a78239\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af221e04fc5120001a78239
+END:VEVENT
+BEGIN:VEVENT
+UID:6db614b9ee2b0493116da0f472717ea72826d319@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T190000Z
+DTEND:20261220T210000Z
+SUMMARY:Bad Habit by HARDER
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ae8b125346df80001c4755b\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ae8b125346df80001c4755b
+END:VEVENT
+BEGIN:VEVENT
+UID:90dd71d37716bd0062eb094b1fab3af9e323e09d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261227T033000Z
+DTEND:20261227T053000Z
+SUMMARY:Disco Tehran - End of Year Party
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6b04608440d70a0001c45135\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6b04608440d70a0001c45135
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc0e0be5e43926221eac06ac5e1312f8c3b6052@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261231T033000Z
+DTEND:20261231T053000Z
+SUMMARY:Dylan Brady\, Nick León
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6afe08071ffc5300017f7d74\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afe08071ffc5300017f7d74
+END:VEVENT
+BEGIN:VEVENT
+UID:f00aa80874ab95108ceae2020daaca931a06fbac@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270101T033000Z
+DTEND:20270101T053000Z
+SUMMARY:Elsewhere New Year's Eve: San Pacho\, Ben Miller\, MARTA\, Soraya\,
+  Glass Halo b2b ZIGGGY + more
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ac3eb856c20d30001932c50\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ac3eb856c20d30001932c50
+END:VEVENT
+BEGIN:VEVENT
+UID:7372146956ffc1010c784ecea95b9ce8d23f6899@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270102T040000Z
+DTEND:20270102T060000Z
+SUMMARY:New Year's Day: Soul Summit
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6b046749d0eea600014e63e9\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6b046749d0eea600014e63e9
+END:VEVENT
+BEGIN:VEVENT
+UID:75e096713eced147962acf794162d2364d1c490b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270103T040000Z
+DTEND:20270103T060000Z
+SUMMARY:Armana Khan & Friends
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ad65ccb9f982c0001eb4ef3\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad65ccb9f982c0001eb4ef3
+END:VEVENT
+BEGIN:VEVENT
+UID:73fceed0ab29ecb0c287a5843aa05648f2f0fcb3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270116T033000Z
+DTEND:20270116T053000Z
+SUMMARY:4 Year Anniversary - BIAS\, oomfcon
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af2354fdbec6c00010ca652\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af2354fdbec6c00010ca652
+END:VEVENT
+BEGIN:VEVENT
+UID:5f4f7f30ba785e11d2ca0df823554dbf174e024f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270124T033000Z
+DTEND:20270124T053000Z
+SUMMARY:Eli Escobar (Open To Close)
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6ac3ce873e99b10001dda2df\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ac3ce873e99b10001dda2df
+END:VEVENT
+BEGIN:VEVENT
+UID:34200b3908106eb8c2a9f98ac571c68e780160e8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270130T033000Z
+DTEND:20270130T053000Z
+SUMMARY:Miss Bashful (Live) Full Venue Takeover
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6abfd92fa7ef550001df20fb\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6abfd92fa7ef550001df20fb
+END:VEVENT
+BEGIN:VEVENT
+UID:2ba9e66fa34400a72860a669292af663643826a3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270131T033000Z
+DTEND:20270131T053000Z
+SUMMARY:Conrad Taylor\, Flash Gea\, BKG: SANGARANG\, DIANTORO\, JAXX B2B MI
+ LES GREY\, Machine Thirst: PFDA\, Firebunny
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6b04af3126b2850001658ae1\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6b04af3126b2850001658ae1
+END:VEVENT
+BEGIN:VEVENT
+UID:0d59e11194d1529282b236a5f69c9fbad13c0b4f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270206T033000Z
+DTEND:20270206T053000Z
+SUMMARY:Taiki Nulight\, Nash Rly\, Hans Glader
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af72b79cf06d60001dd5480\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af72b79cf06d60001dd5480
+END:VEVENT
+BEGIN:VEVENT
+UID:38ba12bc2b28d48cdc72067e1aad0c847a2a124c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270220T033000Z
+DTEND:20270220T053000Z
+SUMMARY:Purity Ring (DJ Set)
+LOCATION:Elsewhere\, 599 Johnson Ave\, Brooklyn\, NY 11237
+DESCRIPTION:https://dice.fm/event/6af620b9b185580001b04eda\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af620b9b185580001b04eda
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cf3ae06f50ce5c48837d9740df300b689dd77117@pushpin.city
+DTSTAMP:20270116T000000Z
+DTSTART:20270117T000000Z
+DTEND:20270117T020000Z
+SUMMARY:Slip Bizkit A Tribute To Nu Metal (18+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/slip-bizkit-a-tribute-to-nu-boston
+ -massachusetts-01-16-2027/event/01006566D22C4F78
+URL:https://www.ticketmaster.com/slip-bizkit-a-tribute-to-nu-boston-massach
+ usetts-01-16-2027/event/01006566D22C4F78
+END:VEVENT
+END:VCALENDAR

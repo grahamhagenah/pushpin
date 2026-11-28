@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:778a9ca753cf14bfd3e848cb753ebf78a1dafdc3@pushpin.city
+DTSTAMP:20270225T000000Z
+DTSTART:20270226T003000Z
+DTEND:20270226T023000Z
+SUMMARY:Philadanco
+LOCATION:UMass Fine Arts Center\, 151 Presidents Dr\, Amherst\, MA 01003
+DESCRIPTION:https://arts.umass.edu/performing-arts/events/2026-2027/philada
+ nco
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/philadanco
+END:VEVENT
+END:VCALENDAR

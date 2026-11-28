@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:282b22488ecd9c1c9fea4a3bccd93baf71398f4f@pushpin.city
+DTSTAMP:20261221T000000Z
+DTSTART:20261222T003000Z
+DTEND:20261222T023000Z
+SUMMARY:The White Owls
+LOCATION:Sally O'Brien's\, 335 Somerville Ave\, Somerville\, MA 02143
+DESCRIPTION:https://www.sallyobriensbar.com/music/
+URL:https://www.sallyobriensbar.com/music/
+END:VEVENT
+END:VCALENDAR

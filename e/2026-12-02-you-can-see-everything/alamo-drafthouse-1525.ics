@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c6b6fede53824ea2696c41ac7cc3c965ef80e876@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261202T202500Z
+DTEND:20261202T222500Z
+SUMMARY:You Can See Everything
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/you-can-see-everything
+URL:https://drafthouse.com/boston/show/you-can-see-everything
+END:VEVENT
+END:VCALENDAR

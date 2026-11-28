@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5f1b610aa493ca6e0d76ca51a42b11c674b20a48@pushpin.city
+DTSTAMP:20270131T000000Z
+DTSTART:20270131T200000Z
+DTEND:20270131T220000Z
+SUMMARY:Cirque Kalabanté
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/cirque-kabalante
+ -afrique-en-cirque/
+URL:https://www.theplatformkendall.org/productions/cirque-kabalante-afrique
+ -en-cirque/
+END:VEVENT
+END:VCALENDAR

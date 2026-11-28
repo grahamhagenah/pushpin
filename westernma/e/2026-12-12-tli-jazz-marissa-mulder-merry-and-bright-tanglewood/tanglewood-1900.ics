@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9d77ce147c62ba24269217bc127520392f4ef1c4@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:TLI Jazz: Marissa Mulder—Merry and Bright
+LOCATION:Tanglewood\, 297 West St\, Lenox\, MA 01240
+DESCRIPTION:https://www.bso.org/events/dec-12-tli-jazz-marissa-mulde
+URL:https://www.bso.org/events/dec-12-tli-jazz-marissa-mulde
+END:VEVENT
+END:VCALENDAR

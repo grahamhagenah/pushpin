@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7b7fa0c8aa929ffc19f0a72ace3e9b984639e08d@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:It's a Wonderful Life: A Live Radio Play
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/its-a-wonderful-life-a-live-ra
+ dio-play/
+URL:https://aomtheatre.com/aom_event/its-a-wonderful-life-a-live-radio-play
+ /
+END:VEVENT
+END:VCALENDAR

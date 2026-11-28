@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4029c8d195d61bcd00d7eff92285e580c856fb95@pushpin.city
+DTSTAMP:20270218T000000Z
+DTSTART:20270219T000000Z
+DTEND:20270219T020000Z
+SUMMARY:Frank Viele w/Special Guests Liz Reed & Bri Green
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1938
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1938
+END:VEVENT
+END:VCALENDAR

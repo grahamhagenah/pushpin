@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:08185878aafbcc80eba55ceabbe1d0705c441d75@pushpin.city
+DTSTAMP:20270206T000000Z
+DTSTART:20270206T230000Z
+DTEND:20270207T010000Z
+SUMMARY:Dura Mater in the Valley—Evening Reading Marathon
+LOCATION:Bombyx\, 130 Pine St\, Florence\, MA 01062
+DESCRIPTION:https://bombyx.live/events/dura-mater-in-the-valley-evening-rea
+ ding-marathon/
+URL:https://bombyx.live/events/dura-mater-in-the-valley-evening-reading-mar
+ athon/
+END:VEVENT
+END:VCALENDAR

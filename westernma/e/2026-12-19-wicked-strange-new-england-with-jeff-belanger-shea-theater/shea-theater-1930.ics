@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b68507bddd32caeec93fbdfa3d40f2b7eafe6aae@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261220T003000Z
+DTEND:20261220T023000Z
+SUMMARY:Wicked Strange New England with Jeff Belanger
+LOCATION:Shea Theater\, 71 Avenue A\, Turners Falls\, MA 01376
+DESCRIPTION:https://sheatheater.org/d/23348/Shea-Presents-Wicked-Strange-Ne
+ w-England-with-Jeff-Belanger
+URL:https://sheatheater.org/d/23348/Shea-Presents-Wicked-Strange-New-Englan
+ d-with-Jeff-Belanger
+END:VEVENT
+END:VCALENDAR

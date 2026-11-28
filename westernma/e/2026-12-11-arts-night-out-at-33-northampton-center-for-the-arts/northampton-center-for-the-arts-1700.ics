@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:02ce7ffb4e3e12d89a3bceb459d3e9d5a1658539@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261211T220000Z
+DTEND:20261212T000000Z
+SUMMARY:Arts Night Out at 33
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/arts-night-out-at-33-hawley
+URL:https://www.nohoarts.org/arts-night-out-at-33-hawley
+END:VEVENT
+END:VCALENDAR

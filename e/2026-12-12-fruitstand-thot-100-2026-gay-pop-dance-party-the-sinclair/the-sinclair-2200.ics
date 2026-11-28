@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1ce3572de01dd8aef3a5e4bd2ee8e325de8a5c52@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T030000Z
+DTEND:20261213T050000Z
+SUMMARY:FRUITSTAND THOT 100: 2026 gay pop dance party
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1705462
+URL:https://www.sinclaircambridge.com/events/detail/1705462
+END:VEVENT
+END:VCALENDAR

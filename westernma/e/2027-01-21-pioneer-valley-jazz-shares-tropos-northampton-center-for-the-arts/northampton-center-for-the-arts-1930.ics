@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:606a42c6428709a36ab0154505c2a408845e41e7@pushpin.city
+DTSTAMP:20270121T000000Z
+DTSTART:20270122T003000Z
+DTEND:20270122T023000Z
+SUMMARY:Pioneer Valley Jazz Shares: Tropos
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/tropos
+URL:https://www.nohoarts.org/tropos
+END:VEVENT
+END:VCALENDAR

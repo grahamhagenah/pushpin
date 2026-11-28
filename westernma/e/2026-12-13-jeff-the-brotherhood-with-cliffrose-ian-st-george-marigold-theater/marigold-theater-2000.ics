@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8dbc7521db37ae3896dec6d85e039c5679b133cc@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261214T010000Z
+DTEND:20261214T030000Z
+SUMMARY:Jeff The Brotherhood With Cliffrose & Ian St George
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:https://marigold.org/jeff-the-brotherhood-with-cliffrose-ian-st
+ -george/
+URL:https://marigold.org/jeff-the-brotherhood-with-cliffrose-ian-st-george/
+END:VEVENT
+END:VCALENDAR

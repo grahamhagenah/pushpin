@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f3f923a70458193d5469c7639507ba672ff42de9@pushpin.city
+DTSTAMP:20270226T000000Z
+DTSTART:20270227T010000Z
+DTEND:20270227T030000Z
+SUMMARY:MARTIN SEXTON
+LOCATION:Stone Church\, 210 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://tickets.venuepilot.com/e/martin-sexton-2027-02-26-stone
+ -church-brattleboro-6ea673
+URL:https://tickets.venuepilot.com/e/martin-sexton-2027-02-26-stone-church-
+ brattleboro-6ea673
+END:VEVENT
+END:VCALENDAR

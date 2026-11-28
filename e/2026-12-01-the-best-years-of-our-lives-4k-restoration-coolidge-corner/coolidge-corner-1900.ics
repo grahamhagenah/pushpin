@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c8faf2a1de0ecd4486e605bb79427158740ed498@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:The Best Years of Our Lives (4K Restoration)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/films/best-years-our-lives-4k-restoration
+URL:https://coolidge.org/films/best-years-our-lives-4k-restoration
+END:VEVENT
+END:VCALENDAR

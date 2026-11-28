@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1d8eb737bbe543a9c50e3f4599fac2c07b05437a@pushpin.city
+DTSTAMP:20270123T000000Z
+DTSTART:20270123T180000Z
+DTEND:20270123T200000Z
+SUMMARY:La Fanciulla del West: Puccini
+LOCATION:Shelburne Falls Memorial Hall\, 51 Bridge St\, Shelburne Falls\, M
+ A 01370
+DESCRIPTION:https://shelburnefallsmemorialhall.org/102851-2/
+URL:https://shelburnefallsmemorialhall.org/102851-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1e9b2d26531eae78d17624aeb6aaca0b6e57e185@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261220T003000Z
+DTEND:20261220T023000Z
+SUMMARY:It’s a Wonderful Life (1946)
+LOCATION:Pothole Pictures\, 51 Bridge St\, Shelburne Falls\, MA 01370
+DESCRIPTION:https://shelburnefallsmemorialhall.org/its-a-wonderful-life-194
+ 6/
+URL:https://shelburnefallsmemorialhall.org/its-a-wonderful-life-1946/
+END:VEVENT
+END:VCALENDAR

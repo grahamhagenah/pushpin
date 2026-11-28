@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a129646c81d7af365f7e92924919bd656c319ad5@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261203T172000Z
+DTEND:20261203T192000Z
+SUMMARY:India: Matri Bhumi
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/india-matri-bhumi-rossellini-120
+URL:https://filmforum.org/film/india-matri-bhumi-rossellini-120
+END:VEVENT
+END:VCALENDAR

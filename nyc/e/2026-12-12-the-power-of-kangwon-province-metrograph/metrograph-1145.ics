@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3474385c5a39f7c23f99bc9b70872ad4dae6b54f@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T164500Z
+DTEND:20261212T184500Z
+SUMMARY:The Power of Kangwon Province
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005132-the-power-of-kangwon-pro
+ vince/
+URL:https://metrograph.com/film/9999005132-the-power-of-kangwon-province/
+END:VEVENT
+END:VCALENDAR

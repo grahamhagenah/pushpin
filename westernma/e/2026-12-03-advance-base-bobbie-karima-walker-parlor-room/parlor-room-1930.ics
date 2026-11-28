@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ca1752ccaa67ab1845115d857be02859eda883d2@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T003000Z
+DTEND:20261204T023000Z
+SUMMARY:Advance Base + bobbie + Karima Walker
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000CeW2HMAV
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0CeW2HMAV
+END:VEVENT
+END:VCALENDAR

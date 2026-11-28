@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2d79980229307da4fb7b5c581d888bd4c4121c14@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:The Secret Sauce
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/the-secret-sauce/
+URL:https://www.passim.org/live-music/events/the-secret-sauce/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a6b54fa2330dff3ce387eebb5073f7b0ae04f95a@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T003000Z
+DTEND:20261213T023000Z
+SUMMARY:Across the Ocean: Voices from Southeast Asia
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/across-the-ocean
+ -voices-from-southeast-asia/
+URL:https://www.theplatformkendall.org/productions/across-the-ocean-voices-
+ from-southeast-asia/
+END:VEVENT
+END:VCALENDAR

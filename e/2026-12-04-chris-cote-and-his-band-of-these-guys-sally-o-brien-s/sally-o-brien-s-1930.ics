@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fea4debcc6b7cdc78136c79c0068192da68b7e77@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:Chris Cote and his Band of These Guys
+LOCATION:Sally O'Brien's\, 335 Somerville Ave\, Somerville\, MA 02143
+DESCRIPTION:https://www.sallyobriensbar.com/music/
+URL:https://www.sallyobriensbar.com/music/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Market Hotel
+X-WR-CALDESC:What’s coming up at Market Hotel\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:6f07a76c33983e40c46853e3eac716edd7603b36@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:Rexv2
+LOCATION:Market Hotel\, 1140 Myrtle Ave\, Brooklyn\, NY 11221
+DESCRIPTION:https://dice.fm/event/6ad8cf7ec6d9720001b7797c\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad8cf7ec6d9720001b7797c
+END:VEVENT
+BEGIN:VEVENT
+UID:d05e95f646be6a9e0ff0e1cfc78e93bbfbe28142@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:Vercetti Way Present: Yung Fazo
+LOCATION:Market Hotel\, 1140 Myrtle Ave\, Brooklyn\, NY 11221
+DESCRIPTION:https://dice.fm/event/6aeb6523c4cc0d0001295308\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aeb6523c4cc0d0001295308
+END:VEVENT
+BEGIN:VEVENT
+UID:cc96bf3660ba71a12f8fdcd13007b0bc5a6b6906@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Gorilla Glue x Lil Nakur
+LOCATION:Market Hotel\, 1140 Myrtle Ave\, Brooklyn\, NY 11221
+DESCRIPTION:https://dice.fm/event/6af740d863a15100011143ad\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af740d863a15100011143ad
+END:VEVENT
+BEGIN:VEVENT
+UID:26a2901011a0d940bcdfb7e28b9bb7938c900796@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270213T000000Z
+DTEND:20270213T020000Z
+SUMMARY:Sean Healy Presents MISSIO: Love & Heartbreak Tour
+LOCATION:Market Hotel\, 1140 Myrtle Ave\, Brooklyn\, NY 11221
+DESCRIPTION:https://dice.fm/event/6a7b4fe25c6b36000168c73c\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a7b4fe25c6b36000168c73c
+END:VEVENT
+END:VCALENDAR

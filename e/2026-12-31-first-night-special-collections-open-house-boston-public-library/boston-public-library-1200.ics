@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2f36b7d867451ffb193207ef399a2f116aeb6244@pushpin.city
+DTSTAMP:20261231T000000Z
+DTSTART:20261231T170000Z
+DTEND:20261231T190000Z
+SUMMARY:First Night: Special Collections Open House
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:https://bpl.bibliocommons.com/events/6adfab3f035faf0033df24dc
+URL:https://bpl.bibliocommons.com/events/6adfab3f035faf0033df24dc
+END:VEVENT
+END:VCALENDAR

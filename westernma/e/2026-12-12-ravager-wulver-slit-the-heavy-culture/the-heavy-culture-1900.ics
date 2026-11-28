@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bef6227c0618c833b03f65c8476087ecb1268c54@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Ravager / Wulver / Slit
+LOCATION:The Heavy Culture\, 1 Northampton St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.theheavyculture.coop/event-details-registration/rav
+ ager-wulver-slit
+URL:https://www.theheavyculture.coop/event-details-registration/ravager-wul
+ ver-slit
+END:VEVENT
+END:VCALENDAR

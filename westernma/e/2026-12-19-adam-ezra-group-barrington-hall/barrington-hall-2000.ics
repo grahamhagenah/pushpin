@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:accf1dc2a4ca7278a2ea8ccb7401a68711e8d05c@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261220T010000Z
+DTEND:20261220T030000Z
+SUMMARY:Adam Ezra Group
+LOCATION:Barrington Hall\, 426 Stockbridge Rd\, Great Barrington\, MA 01230
+DESCRIPTION:https://live.barringtonhallgb.com/events/barringtonhall/2398125
+URL:https://live.barringtonhallgb.com/events/barringtonhall/2398125
+END:VEVENT
+END:VCALENDAR

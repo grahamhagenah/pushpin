@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:939743f6587e2b6a4d42beeb3eff617f7c7d82f5@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T020000Z
+DTEND:20261205T040000Z
+SUMMARY:Twin Peaks: The Return (Part 5 & 6)
+LOCATION:The Brattle\, 40 Brattle St\, Cambridge\, MA 02138
+DESCRIPTION:https://brattlefilm.org/special_events/twin-peaks-the-return-pa
+ rt-5-6/
+URL:https://brattlefilm.org/special_events/twin-peaks-the-return-part-5-6/
+END:VEVENT
+END:VCALENDAR

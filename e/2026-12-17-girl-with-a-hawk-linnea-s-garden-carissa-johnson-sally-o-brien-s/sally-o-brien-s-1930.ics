@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1e96e44fed96b30953a2f4c9ee58e3b659b646bd@pushpin.city
+DTSTAMP:20261217T000000Z
+DTSTART:20261218T003000Z
+DTEND:20261218T023000Z
+SUMMARY:Girl With A Hawk\, Linnea's Garden\, Carissa Johnson
+LOCATION:Sally O'Brien's\, 335 Somerville Ave\, Somerville\, MA 02143
+DESCRIPTION:https://www.sallyobriensbar.com/music/
+URL:https://www.sallyobriensbar.com/music/
+END:VEVENT
+END:VCALENDAR

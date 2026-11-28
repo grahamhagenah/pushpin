@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e1361f623313fcf86036da31ae4132faa1dff28e@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T030000Z
+DTEND:20261206T050000Z
+SUMMARY:Emily Grogan Band
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+END:VCALENDAR

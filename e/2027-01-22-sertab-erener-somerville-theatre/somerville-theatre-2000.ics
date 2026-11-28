@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b426ac4ff9e69ee51c6f339eb95169a8e4f5d612@pushpin.city
+DTSTAMP:20270122T000000Z
+DTSTART:20270123T010000Z
+DTEND:20270123T030000Z
+SUMMARY:Sertab Erener
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.somervilletheatre.com/production/sertab-erener/
+URL:https://www.somervilletheatre.com/production/sertab-erener/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4dfe7955bb3bb045b89b225a2c2e551635118a4e@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T170500Z
+DTEND:20261220T190500Z
+SUMMARY:Gremlins
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/gremlins/
+URL:https://nitehawkcinema.com/prospectpark/movies/gremlins/
+END:VEVENT
+END:VCALENDAR

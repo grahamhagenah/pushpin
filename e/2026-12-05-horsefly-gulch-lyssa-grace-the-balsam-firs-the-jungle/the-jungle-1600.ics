@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4683c8bac4160f3aed8a811343e8a0b317088471@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T210000Z
+DTEND:20261205T230000Z
+SUMMARY:HorseFly Gulch\, Lyssa Grace\, The Balsam Firs
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/horsefly-gulch-lyssa-grace-the-bal
+ sam-firs-tickets-2000358484074
+URL:https://www.eventbrite.com/e/horsefly-gulch-lyssa-grace-the-balsam-firs
+ -tickets-2000358484074
+END:VEVENT
+END:VCALENDAR

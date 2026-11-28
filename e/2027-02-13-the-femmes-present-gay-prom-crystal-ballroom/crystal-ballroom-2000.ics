@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a0d2159ee6789990f8151157e86946eb1a3cb0a5@pushpin.city
+DTSTAMP:20270213T000000Z
+DTSTART:20270214T010000Z
+DTEND:20270214T030000Z
+SUMMARY:THE FEMMES present GAY PROM!
+LOCATION:Crystal Ballroom\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.ticketmaster.com/the-femmes-present-gay-prom-somerv
+ ille-massachusetts-02-13-2027/event/01006569BABFAE05
+URL:https://www.ticketmaster.com/the-femmes-present-gay-prom-somerville-mas
+ sachusetts-02-13-2027/event/01006569BABFAE05
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:869a0b16aa6abc1c4288dc4b90730ea9c4ac8d68@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T220000Z
+DTEND:20261206T000000Z
+SUMMARY:Matinee Social Club: Matinee Holiday
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/mscdec26nyc/
+URL:https://lpr.com/lpr_events/mscdec26nyc/
+END:VEVENT
+END:VCALENDAR

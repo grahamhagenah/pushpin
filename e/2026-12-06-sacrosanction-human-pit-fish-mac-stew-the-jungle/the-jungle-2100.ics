@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:22aff278c9c3fce78d90f1643c848b19ee48312f@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261207T020000Z
+DTEND:20261207T040000Z
+SUMMARY:Sacrosanction\, Human Pit\, Fish Mac Stew
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/sacrosanction-human-pit-fish-mac-s
+ tew-tickets-2004048997499
+URL:https://www.eventbrite.com/e/sacrosanction-human-pit-fish-mac-stew-tick
+ ets-2004048997499
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aef18288170eca5ec1a57ab93839211cfce9b538@pushpin.city
+DTSTAMP:20270207T000000Z
+DTSTART:20270207T150000Z
+DTEND:20270207T170000Z
+SUMMARY:Lunar New Year
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/special-event/lunar-new-year?event=15
+ 2996
+URL:https://www.mfa.org/event/special-event/lunar-new-year?event=152996
+END:VEVENT
+END:VCALENDAR

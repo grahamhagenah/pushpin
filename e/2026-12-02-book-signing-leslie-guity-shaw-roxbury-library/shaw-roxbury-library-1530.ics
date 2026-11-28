@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:49e70410716a9cdca5f1d3ccffee9763cd8705db@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261202T203000Z
+DTEND:20261202T223000Z
+SUMMARY:Book Signing: Leslie Guity
+LOCATION:Shaw-Roxbury Library\, 149 Dudley Street\, Roxbury\, MA 02119
+DESCRIPTION:https://bpl.bibliocommons.com/events/6b05d7f95ce6ca0041ec395f
+URL:https://bpl.bibliocommons.com/events/6b05d7f95ce6ca0041ec395f
+END:VEVENT
+END:VCALENDAR

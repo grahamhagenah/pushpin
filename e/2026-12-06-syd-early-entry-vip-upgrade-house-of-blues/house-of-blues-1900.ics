@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1e2351375ccf39dfcb754fd55069d13c899934d9@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261207T000000Z
+DTEND:20261207T020000Z
+SUMMARY:Syd - Early Entry VIP Upgrade
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.vipnation.com/tour_date/syd-boston-ma-12-06-2026
+URL:https://www.vipnation.com/tour_date/syd-boston-ma-12-06-2026
+END:VEVENT
+END:VCALENDAR

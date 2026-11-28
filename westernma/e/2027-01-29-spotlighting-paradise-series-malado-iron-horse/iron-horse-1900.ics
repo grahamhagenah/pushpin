@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e95aa69793341cfec21b69a83965e4067303313c@pushpin.city
+DTSTAMP:20270129T000000Z
+DTSTART:20270130T000000Z
+DTEND:20270130T020000Z
+SUMMARY:Spotlighting Paradise Series: Malado
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000DEIOzMAP
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0DEIOzMAP
+END:VEVENT
+END:VCALENDAR

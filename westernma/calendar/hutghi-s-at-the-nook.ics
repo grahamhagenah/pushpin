@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Hutghi's at the Nook
+X-WR-CALDESC:What’s coming up at Hutghi's at the Nook\, from Pushpin West
+ ern Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:09ddc130fa7d2300f2576a931769a359b628947f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Myq Kaplan / KMOY / Ghost Tones / Hardcar
+LOCATION:Hutghi's at the Nook\, 8 Franklin St\, Westfield\, MA 01085
+DESCRIPTION:Ticket price includes Shopify service charge. All tickets are w
+ ill call\, you will just need to provide a name at the door.\nhttps://m3pn
+ 87-t7.myshopify.com/products/saturday-february-6th-myq-kaplan-kmoy-ghost-t
+ ones-hardcar\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://m3pn87-t7.myshopify.com/products/saturday-february-6th-myq-kapl
+ an-kmoy-ghost-tones-hardcar
+END:VEVENT
+END:VCALENDAR

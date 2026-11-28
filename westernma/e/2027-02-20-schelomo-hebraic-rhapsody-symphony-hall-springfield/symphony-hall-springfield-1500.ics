@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:35a5896f69b8635af1804918c5760ef8e8d6632b@pushpin.city
+DTSTAMP:20270220T000000Z
+DTSTART:20270220T200000Z
+DTEND:20270220T220000Z
+SUMMARY:Schelomo: Hebraic Rhapsody
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:https://www.symphonyhallspringfield.com/events/detail/schelomo-
+ hebraic-rhapsody
+URL:https://www.symphonyhallspringfield.com/events/detail/schelomo-hebraic-
+ rhapsody
+END:VEVENT
+END:VCALENDAR

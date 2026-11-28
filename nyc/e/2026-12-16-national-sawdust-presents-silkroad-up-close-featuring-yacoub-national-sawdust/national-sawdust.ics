@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2a9806ba07d193c84ac2318c07df7ce3007d9ca0@pushpin.city
+DTSTAMP:20261216T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:National Sawdust Presents: Silkroad Up-Close featuring Yacouba Siss
+ oko & Mike Block Duo and Maeve Gilchrist and Seamus Egan
+LOCATION:National Sawdust\, 80 N 6th St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.nationalsawdust.org/event/national-sawdust-presents
+ -silkroad-up-close-featuring-yacouba-sissoko-mike-block-duo-and-maeve-gilc
+ hrist-and-seamus-egan
+URL:https://www.nationalsawdust.org/event/national-sawdust-presents-silkroa
+ d-up-close-featuring-yacouba-sissoko-mike-block-duo-and-maeve-gilchrist-an
+ d-seamus-egan
+END:VEVENT
+END:VCALENDAR

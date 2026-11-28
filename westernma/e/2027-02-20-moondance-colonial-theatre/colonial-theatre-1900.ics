@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dd7dff3b2ee9c016ff0f997be9049270cf60b840@pushpin.city
+DTSTAMP:20270220T000000Z
+DTSTART:20270221T000000Z
+DTEND:20270221T020000Z
+SUMMARY:Moondance
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.berkshiretheatregroup.org/event/moondance/
+URL:https://www.berkshiretheatregroup.org/event/moondance/
+END:VEVENT
+END:VCALENDAR

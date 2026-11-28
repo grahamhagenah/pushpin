@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e9c8deb9fb610ac672e9573e2215d4769c6be154@pushpin.city
+DTSTAMP:20270209T000000Z
+DTSTART:20270210T000000Z
+DTEND:20270210T020000Z
+SUMMARY:Gabe Dixon
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000CoZrhMAF
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0CoZrhMAF
+END:VEVENT
+END:VCALENDAR

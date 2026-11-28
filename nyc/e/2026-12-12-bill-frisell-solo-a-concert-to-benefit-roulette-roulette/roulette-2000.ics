@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:87f6c9a14a44848ae608b38deacd8b1ee16eb23b@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:Bill Frisell Solo: A Concert to Benefit Roulette
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/a-concert-to-benefit-roulette-bill-f
+ risell/
+URL:https://roulette.org/event/a-concert-to-benefit-roulette-bill-frisell/
+END:VEVENT
+END:VCALENDAR

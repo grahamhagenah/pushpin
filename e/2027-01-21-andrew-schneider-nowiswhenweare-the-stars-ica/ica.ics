@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:92188415d90e28a805bd39adff284a5eb2367b69@pushpin.city
+DTSTAMP:20270121T000000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Andrew Schneider: NOWISWHENWEARE (the stars)
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:https://www.icaboston.org/events/andrew-schneider-nowiswhenwear
+ e-the-stars/
+URL:https://www.icaboston.org/events/andrew-schneider-nowiswhenweare-the-st
+ ars/
+END:VEVENT
+END:VCALENDAR

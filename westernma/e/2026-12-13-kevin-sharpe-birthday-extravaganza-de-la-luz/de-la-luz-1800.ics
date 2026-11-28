@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab644cbcd0e23676fb537d160c2268491ee80812@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T230000Z
+DTEND:20261214T010000Z
+SUMMARY:Kevin Sharpe Birthday Extravaganza
+LOCATION:De La Luz\, 114 Race St\, Holyoke\, MA 01040
+DESCRIPTION:https://delaluz.org/events/kevin-sharpe
+URL:https://delaluz.org/events/kevin-sharpe
+END:VEVENT
+END:VCALENDAR

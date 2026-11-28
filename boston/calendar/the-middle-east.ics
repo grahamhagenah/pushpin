@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · The Middle East
+X-WR-CALDESC:What’s coming up at The Middle East\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:6e605c4c7b4219a96dc6386b2d5ccb7a592f7e2b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Joe Gittleman & Friends\, Diablogato\, Mark Lind
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/joe-gittleman-friends-diablogat
+ o-middle-east-upstairs-tickets/14364734?pl=mideastclub&REFID=clientsitewp\
+ nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/joe-gittleman-friends-diablogato-middle
+ -east-upstairs-tickets/14364734?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:54485f15dd910cae063720094fe5d93c756af15d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T023000Z
+DTEND:20261129T043000Z
+SUMMARY:DJ APPARITION\, Dolly Molly
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/dj-apparition-dolly-molly-middl
+ e-east-cornerbakery-tickets/15071163?pl=mideastclub&REFID=clientsitewp\nFr
+ om Pushpin Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/dj-apparition-dolly-molly-middle-east-c
+ ornerbakery-tickets/15071163?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:d0af0ec80b28a6eed281100fc562cbcef85d336c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:The Vibe Syndicate Presents: SOUL CHAMPION
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-vibe-syndicate-presents-sou
+ l-middle-east-zuzu-tickets/15075823?pl=mideastclub&REFID=clientsitewp\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/the-vibe-syndicate-presents-soul-middle
+ -east-zuzu-tickets/15075823?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:614c05fb3d6bde0c77e90d00de250e34a41a1ab7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:Overnight Goats\, Pledge Of Allegiance\, FishMac Stew
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/overnight-goats-pledge-of-alleg
+ iance-middle-east-upstairs-tickets/15075753?pl=mideastclub&REFID=clientsit
+ ewp\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/overnight-goats-pledge-of-allegiance-mi
+ ddle-east-upstairs-tickets/15075753?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:cda7cd820e9e983d6205232fa65ae958754de749@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:HellBound Experience: NECROPOLIS
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/hellbound-experience-necropolis
+ -sonia-tickets/14448784?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/hellbound-experience-necropolis-sonia-t
+ ickets/14448784?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb5b4923bc6cf3502eacbfc1a734f9e0dd2685d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:The Freestyle Clinic w/ Seti Tzu
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-freestyle-clinic-w-seti-mid
+ dle-east-cornerbakery-tickets/14118974?pl=mideastclub&REFID=clientsitewp\n
+ From Pushpin Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/the-freestyle-clinic-w-seti-middle-east
+ -cornerbakery-tickets/14118974?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:a818337fa653fef9b9c41e8fab314a2b591c61c5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T020000Z
+DTEND:20261130T040000Z
+SUMMARY:Haint ft. Akasha St. Web\, joey Hitop
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/haint-ft-akasha-st-web-middle-e
+ ast-zuzu-tickets/14441404?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin 
+ Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/haint-ft-akasha-st-web-middle-east-zuzu
+ -tickets/14441404?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:ff9ea6ee37aebbdd68d5b8afcac0f4e114bd1a1f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:Safekeep\, Stapler\, Object of Desire\, The Gwiggles
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/safekeep-stapler-object-of-desi
+ re-middle-east-upstairs-tickets/14365534?pl=mideastclub&REFID=clientsitewp
+ \nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/safekeep-stapler-object-of-desire-middl
+ e-east-upstairs-tickets/14365534?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:d0137ac9b317f0382543b3c642b1f24153ae4953@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T023000Z
+DTEND:20261202T043000Z
+SUMMARY:Mood
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-t
+ ickets/14031634?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: ht
+ tps://pushpin.city/
+URL:https://www.ticketweb.com/event/mood-middle-east-cornerbakery-tickets/1
+ 4031634?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:293d67fa6156352ef6a5acda2300258fdb37e4cc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T023000Z
+DTEND:20261202T043000Z
+SUMMARY:Zach Morgan Presents: Hard Travelin’
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/zach-morgan-presents-hard-trave
+ lin-middle-east-zuzu-tickets/14353904?pl=mideastclub&REFID=clientsitewp\nF
+ rom Pushpin Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/zach-morgan-presents-hard-travelin-midd
+ le-east-zuzu-tickets/14353904?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:de2d10ce66b84ea1bb6bb31a7be6b7e19c6ecb94@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Bluegrass Night w/ Sullivan Sisters\, Spencer Krenz & Friends
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/bluegrass-night-w-sullivan-sist
+ ers-middle-east-upstairs-tickets/14454434?pl=mideastclub&REFID=clientsitew
+ p\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/bluegrass-night-w-sullivan-sisters-midd
+ le-east-upstairs-tickets/14454434?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:e1dc97d2464fa78660fd11398d633956e76207cd@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T020000Z
+DTEND:20261203T040000Z
+SUMMARY:The Ooze
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-ooze-middle-east-zuzu-ticke
+ ts/14020794?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: https:
+ //pushpin.city/
+URL:https://www.ticketweb.com/event/the-ooze-middle-east-zuzu-tickets/14020
+ 794?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:923a1879709db8c9db934d90c853a992077ad8ee@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T233000Z
+DTEND:20261204T013000Z
+SUMMARY:Blinn & The Breakdown\, Soupe
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/blinn-the-breakdown-soupe-middl
+ e-east-upstairs-tickets/14369144?pl=mideastclub&REFID=clientsitewp\nFrom P
+ ushpin Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/blinn-the-breakdown-soupe-middle-east-u
+ pstairs-tickets/14369144?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:0632a734fec048ba6aabe2543df0d563f13346c4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Good June\, Broadwing\, Taken Alive\, Subpunch
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/good-june-broadwing-taken-alive
+ -sonia-tickets/14329734?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/good-june-broadwing-taken-alive-sonia-t
+ ickets/14329734?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:481a3fc6442c947a42bb23ad8dd490849ba8119f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T030000Z
+DTEND:20261204T050000Z
+SUMMARY:Patchwork
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/patchwork-middle-east-zuzu-tick
+ ets/14725453?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: https
+ ://pushpin.city/
+URL:https://www.ticketweb.com/event/patchwork-middle-east-zuzu-tickets/1472
+ 5453?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:0894d82203c64fd4555190765da5bff55826a9fa@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:Horny for Santa
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/horny-for-santa-middle-east-ups
+ tairs-tickets/14404854?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bos
+ ton: https://pushpin.city/
+URL:https://www.ticketweb.com/event/horny-for-santa-middle-east-upstairs-ti
+ ckets/14404854?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:4fb813f47c701449e66576837ca419d321348613@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:The Pills\, The Powhida Infirmary\, The Extra Virgin
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-pills-the-powhida-infirmary
+ -sonia-tickets/14438314?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/the-pills-the-powhida-infirmary-sonia-t
+ ickets/14438314?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:4873c1a63d3ae0c138404bd0f8be08a513863f34@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T020000Z
+DTEND:20261205T040000Z
+SUMMARY:Banda de Zero
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/banda-de-zero-middle-east-zuzu-
+ tickets/14394294?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin Boston: h
+ ttps://pushpin.city/
+URL:https://www.ticketweb.com/event/banda-de-zero-middle-east-zuzu-tickets/
+ 14394294?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+BEGIN:VEVENT
+UID:725dc8a3c977086f6d728f631a8e2ed9029dfdd5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T023000Z
+DTEND:20261205T043000Z
+SUMMARY:Can't Feel My Face
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/cant-feel-my-face-middle-east-d
+ ownstairs-tickets/14365804?pl=mideastclub&REFID=clientsitewp\nFrom Pushpin
+  Boston: https://pushpin.city/
+URL:https://www.ticketweb.com/event/cant-feel-my-face-middle-east-downstair
+ s-tickets/14365804?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

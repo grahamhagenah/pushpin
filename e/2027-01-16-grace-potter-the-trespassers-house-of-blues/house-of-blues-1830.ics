@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d1ba3a00706273ecbe1fca3008a74b89690cc638@pushpin.city
+DTSTAMP:20270116T000000Z
+DTSTART:20270116T233000Z
+DTEND:20270117T013000Z
+SUMMARY:Grace Potter & The Trespassers
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/grace-potter-the-trespassers-bosto
+ n-massachusetts-01-16-2027/event/01006565E4755E9B
+URL:https://www.ticketmaster.com/grace-potter-the-trespassers-boston-massac
+ husetts-01-16-2027/event/01006565E4755E9B
+END:VEVENT
+END:VCALENDAR

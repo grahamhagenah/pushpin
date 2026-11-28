@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e9ede3a50354e9412dbcad96f5876654b696dc92@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T010000Z
+DTEND:20261219T030000Z
+SUMMARY:Slack Magic\, Twin Peel\, The Leftovers\, Warrens
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/slack-magic-twin-peel-the-leftover
+ s-warrens-tickets-2004852355364
+URL:https://www.eventbrite.com/e/slack-magic-twin-peel-the-leftovers-warren
+ s-tickets-2004852355364
+END:VEVENT
+END:VCALENDAR

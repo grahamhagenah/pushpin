@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a3e7de4d72af8fcf65e6e63f8444441330067bf2@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Ice Giant / Chained to the Dead / Lurching
+LOCATION:The Heavy Culture\, 1 Northampton St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.theheavyculture.coop/event-details-registration/ice
+ -giant-chained-to-the-dead-lurching
+URL:https://www.theheavyculture.coop/event-details-registration/ice-giant-c
+ hained-to-the-dead-lurching
+END:VEVENT
+END:VCALENDAR

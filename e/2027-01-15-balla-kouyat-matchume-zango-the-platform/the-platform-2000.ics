@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:29505e5701c400928b7fc168dea3f6f6912dd04e@pushpin.city
+DTSTAMP:20270115T000000Z
+DTSTART:20270116T010000Z
+DTEND:20270116T030000Z
+SUMMARY:Balla Kouyaté & Matchume Zango
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/balla-kouyate-an
+ d-matchume-zango-bala-bila/
+URL:https://www.theplatformkendall.org/productions/balla-kouyate-and-matchu
+ me-zango-bala-bila/
+END:VEVENT
+END:VCALENDAR

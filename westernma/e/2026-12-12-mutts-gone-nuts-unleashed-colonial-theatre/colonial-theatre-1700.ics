@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9d651b4f0d1f12334cf70058fdda7ce8cf611438@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T220000Z
+DTEND:20261213T000000Z
+SUMMARY:Mutts Gone Nuts: Unleashed
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.berkshiretheatregroup.org/calendar/
+URL:https://www.berkshiretheatregroup.org/calendar/
+END:VEVENT
+END:VCALENDAR

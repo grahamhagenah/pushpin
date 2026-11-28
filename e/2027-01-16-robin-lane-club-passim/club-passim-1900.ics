@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:88f32f83b40ae5d6799412c17dcf869dca561aa4@pushpin.city
+DTSTAMP:20270116T000000Z
+DTSTART:20270117T000000Z
+DTEND:20270117T020000Z
+SUMMARY:Robin Lane
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/robin-lane/
+URL:https://www.passim.org/live-music/events/robin-lane/
+END:VEVENT
+END:VCALENDAR

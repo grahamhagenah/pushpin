@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:346a236046c0bb28f2e98177a39a8079abfbe50f@pushpin.city
+DTSTAMP:20261217T000000Z
+DTSTART:20261217T191500Z
+DTEND:20261217T211500Z
+SUMMARY:Once Upon a Time In Harlem
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/once-upon-a-time-in-harlem
+URL:https://www.thetriplex.org/movie/once-upon-a-time-in-harlem
+END:VEVENT
+END:VCALENDAR

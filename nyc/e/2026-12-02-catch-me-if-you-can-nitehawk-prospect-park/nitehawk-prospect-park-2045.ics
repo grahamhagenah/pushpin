@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b0be48f49e631249bae1a2160ae944234085043b@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T014500Z
+DTEND:20261203T034500Z
+SUMMARY:Catch Me If You Can
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/catch-me-if-you-
+ can/
+URL:https://nitehawkcinema.com/prospectpark/movies/catch-me-if-you-can/
+END:VEVENT
+END:VCALENDAR

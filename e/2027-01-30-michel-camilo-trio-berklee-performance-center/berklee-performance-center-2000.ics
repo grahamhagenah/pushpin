@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f57659d8b8fb267e1aad12f017dbd9cc626e80f2@pushpin.city
+DTSTAMP:20270130T000000Z
+DTSTART:20270131T010000Z
+DTEND:20270131T030000Z
+SUMMARY:Michel Camilo Trio
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/michel-camilo-trio
+URL:https://www.berklee.edu/BPC/events/michel-camilo-trio
+END:VEVENT
+END:VCALENDAR

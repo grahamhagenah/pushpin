@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3bc8ab1f1cd2215a56aacc33ce8c2d787baab3b3@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261209T030000Z
+DTEND:20261209T050000Z
+SUMMARY:Johnny Trama and The B3 Kings
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+END:VCALENDAR

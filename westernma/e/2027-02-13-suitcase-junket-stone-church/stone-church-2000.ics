@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8c3909eacf71ee967e2af31cd9d3a7ffc538deaf@pushpin.city
+DTSTAMP:20270213T000000Z
+DTSTART:20270214T010000Z
+DTEND:20270214T030000Z
+SUMMARY:Suitcase Junket
+LOCATION:Stone Church\, 210 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://tickets.venuepilot.com/e/suitcase-junket-2027-02-13-sto
+ ne-church-brattleboro-60d590
+URL:https://tickets.venuepilot.com/e/suitcase-junket-2027-02-13-stone-churc
+ h-brattleboro-60d590
+END:VEVENT
+END:VCALENDAR

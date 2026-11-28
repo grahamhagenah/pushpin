@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:08228cf1a71b70b11df3d9e4b466433effc85f5b@pushpin.city
+DTSTAMP:20261207T000000Z
+DTSTART:20261208T001500Z
+DTEND:20261208T021500Z
+SUMMARY:Wicker
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/wicker
+URL:https://www.imagescinema.org/movie/wicker
+END:VEVENT
+END:VCALENDAR

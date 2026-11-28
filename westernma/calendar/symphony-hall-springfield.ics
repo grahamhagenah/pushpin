@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Symphony Hall Springfield
+X-WR-CALDESC:What’s coming up at Symphony Hall Springfield\, from Pushpin
+  Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:573eb47720f4ea456b133b715d7b4a3998a4b575@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Cinderella by The United European Ballet Company
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:Presented by Classical Arts Entertainment\nStep into the magica
+ l world of Cinderella\, one of the most beloved fairytales of all time\, b
+ rought to life in a dazzling Broadway-style ballet production filled with 
+ beauty\, humor\, romance\, and unforgettable theatrical magic.\nhttps://ww
+ w.symphonyhallspringfield.com/events/detail/the-united-european-ballet-com
+ pany-cinderella\nFrom Pushpin Western Mass: https://pushpin.city/westernma
+ /
+URL:https://www.symphonyhallspringfield.com/events/detail/the-united-europe
+ an-ballet-company-cinderella
+END:VEVENT
+BEGIN:VEVENT
+UID:b5257879ca1915b8f7b627498a3a7552cd660747@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T210000Z
+DTEND:20261212T230000Z
+SUMMARY:Jazz Up the Holidays
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:Presented by the Springfield Symphony Orchestra\nCelebrate the 
+ season with a jazzy\, fun holiday concert full of music that brings people
+  together. Featuring beloved holiday classics re-imagined with a swingin
+ ’ flair\, special guest vocalist Paul Loren\, and the Springfield Sympho
+ ny Chorus\, this festive tradition is sure to fill the hall with warmth\, 
+ joy\, and jazzy holiday cheer.\nhttps://www.symphonyhallspringfield.com/ev
+ ents/detail/jazz-up-the-holidays\nFrom Pushpin Western Mass: https://pushp
+ in.city/westernma/
+URL:https://www.symphonyhallspringfield.com/events/detail/jazz-up-the-holid
+ ays
+END:VEVENT
+BEGIN:VEVENT
+UID:cb398ecbe22e17d7473faa41e4f332b7eee404ca@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T190000Z
+DTEND:20261213T210000Z
+SUMMARY:Spirit of Springfield - Free Holiday Concert
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:215th Army Band Holiday Concert\nSpringfield Symphony Hall is f
+ illed with the sounds of the holiday and patriotism for the annual concert
+  by the 215th Army Band of the Massachusetts Army National Guard. They bri
+ ng holiday cheer\, lift spirits and get the audience singing-a-long during
+  the free concert in Springfield Symphony Hall.\nhttps://www.symphonyhalls
+ pringfield.com/events/detail/spirit-of-springfield-free-holiday-concert\nF
+ rom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.symphonyhallspringfield.com/events/detail/spirit-of-springf
+ ield-free-holiday-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:53fb555eb4c20b667de59a7d3b5f3da3a0be9d0c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T180000Z
+DTEND:20261219T200000Z
+SUMMARY:Albany Berkshire Ballet - The Nutcracker
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:Two Showings: 1p and 4:30p\nImportant Parking Update: Parking i
+ n the 91 South Garage will be $15 prepay upon entry. There is not free par
+ king at the 91 South Garage. Parking is free at the MGM Springfield Garage
+ .\nhttps://www.symphonyhallspringfield.com/events/detail/thenutcracker\nFr
+ om Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.symphonyhallspringfield.com/events/detail/thenutcracker
+END:VEVENT
+BEGIN:VEVENT
+UID:ddf5b22ab540d04a0c6e5178af588cb0919afae4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270109T220000Z
+DTEND:20270110T000000Z
+SUMMARY:K·POP SUPERSTARS
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:The Ultimate K-Pop & Demon Hunters Tribute Experience Get ready
+  for an unforgettable live celebration where fans of all ages can dance\, 
+ sing\, and step into the dazzling world of K-Pop! K·POP SUPERSTARS LIVE i
+ s a high-energy show packed with explosive choreography\, live vocals\, an
+ d anime-inspired visuals that bring the global phenomenon of K-Pop to life
+ .\nhttps://www.symphonyhallspringfield.com/events/detail/kpop-superstars\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.symphonyhallspringfield.com/events/detail/kpop-superstars
+END:VEVENT
+BEGIN:VEVENT
+UID:14e08ed5ba982471b5677ac80490886293bb2d76@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270123T200000Z
+DTEND:20270123T220000Z
+SUMMARY:Beethoven’s Eroica
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:Presented by the Springfield Symphony Orchestra\nExperience mus
+ ic inspired by larger-than-life characters\, epic struggles\, and unforget
+ table victories. Featuring pianist Spencer Myer and Beethoven’s groundbr
+ eaking Eroica Symphony\, this concert is packed with energy\, drama\, and 
+ inspiration.\nhttps://www.symphonyhallspringfield.com/events/detail/beetho
+ vens-eroica\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.symphonyhallspringfield.com/events/detail/beethovens-eroica
+END:VEVENT
+BEGIN:VEVENT
+UID:8b80db01abc58256c69548fbcf3b7a83ad28710d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270220T200000Z
+DTEND:20270220T220000Z
+SUMMARY:Schelomo: Hebraic Rhapsody
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:Presented by the Springfield Symphony Orchestra\nA moving after
+ noon of music about overcoming challenges and finding strength along the w
+ ay. Cellist Julian Schwarz joins the orchestra for Bloch’s deeply expres
+ sive Schelomo\, followed by Tchaikovsky’s beloved Fifth Symphony\, a jou
+ rney from uncertainty to triumph.\nhttps://www.symphonyhallspringfield.com
+ /events/detail/schelomo-hebraic-rhapsody\nFrom Pushpin Western Mass: https
+ ://pushpin.city/westernma/
+URL:https://www.symphonyhallspringfield.com/events/detail/schelomo-hebraic-
+ rhapsody
+END:VEVENT
+BEGIN:VEVENT
+UID:b69eabb6b027cc01464cf098af38c187ad8c08c4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270222T000000Z
+DTEND:20270222T020000Z
+SUMMARY:Swan Lake
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:Presented by International Ballet Stars\nExperience the world
+ ’s most beloved ballet like never before.\nhttps://www.symphonyhallsprin
+ gfield.com/events/detail/swan-lake-1\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.symphonyhallspringfield.com/events/detail/swan-lake-1
+END:VEVENT
+END:VCALENDAR

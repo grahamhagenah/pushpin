@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d53f403157a8390d5c4818e6ef3e0d90556eeac9@pushpin.city
+DTSTAMP:20270204T000000Z
+DTSTART:20270205T010000Z
+DTEND:20270205T030000Z
+SUMMARY:Black Resilience and Jubilation
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/black-resilience-and-jubilat
+ ion
+URL:https://www.berklee.edu/BPC/events/black-resilience-and-jubilation
+END:VEVENT
+END:VCALENDAR

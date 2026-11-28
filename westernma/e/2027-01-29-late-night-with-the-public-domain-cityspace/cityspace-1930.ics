@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f37dd02064a65296fc4ba09cb18f6dc3825609f4@pushpin.city
+DTSTAMP:20270129T000000Z
+DTSTART:20270130T003000Z
+DTEND:20270130T023000Z
+SUMMARY:Late Night with the Public Domain
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:https://tickets.venuepilot.com/e/cityspace-presents-late-night-
+ with-the-public-domain-2027-01-29-cityspace-easthampton-335ffe
+URL:https://tickets.venuepilot.com/e/cityspace-presents-late-night-with-the
+ -public-domain-2027-01-29-cityspace-easthampton-335ffe
+END:VEVENT
+END:VCALENDAR

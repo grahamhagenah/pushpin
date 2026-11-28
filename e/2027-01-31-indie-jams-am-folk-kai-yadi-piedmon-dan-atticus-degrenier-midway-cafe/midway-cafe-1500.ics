@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a94eacbc5ddf52c0ce2833c4a2dec952941be3df@pushpin.city
+DTSTAMP:20270131T000000Z
+DTSTART:20270131T200000Z
+DTEND:20270131T220000Z
+SUMMARY:Indie Jams | AM Folk | Kai Yadi | Piedmon Dan | Atticus DeGrenier
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/2767/1801425600000
+URL:https://tockify.com/midwaycafejp/detail/2767/1801425600000
+END:VEVENT
+END:VCALENDAR

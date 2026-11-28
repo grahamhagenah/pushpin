@@ -1,0 +1,501 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Capitol Theatre
+X-WR-CALDESC:What’s coming up at Capitol Theatre\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ffe748b1b04047abff35e8cf312cf0d624e1c5b9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T171000Z
+DTEND:20261128T191000Z
+SUMMARY:Hexed
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12:10pm\, 2:30pm\, 5pm\, 7:20pm\nAn impulsive and unconv
+ entional teenage girl named Billie discovers secret magical abilities whic
+ h\, once unleashed\, hurtle her into a spectacle-filled journey out of sub
+ urbia and into a vast witch realm called Hexe. Forced to team up with her 
+ cautious mother\, Alice\, they uncover family mysteries that could change 
+ the world of witches forever.\nhttps://www.capitoltheatreusa.com/movie/hex
+ ed/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/hexed/
+END:VEVENT
+BEGIN:VEVENT
+UID:45365000b8cdee5e6e10ef5318e2b3e2e3cabad2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T171500Z
+DTEND:20261128T191500Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12:15pm\, 3:45pm\, 7:10pm\nReturn to the world of Panem 
+ 24 years before the events of the original The Hunger Games\, starting on 
+ the morning of the reaping of the 50th Hunger Games. The story chronicles 
+ the youth and origins of Haymitch Abernathy as he navigates the deadly are
+ na under the peak of President Snow’s tyrannical reign\nhttps://www.capi
+ toltheatreusa.com/movie/the-hunger-games-sunrise-on-the-reaping/\nFrom Pus
+ hpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-hunger-games-sunrise-on-the
+ -reaping/
+END:VEVENT
+BEGIN:VEVENT
+UID:b834eddc7b6740a73f3ec3fdd336bad6ed981149@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T173000Z
+DTEND:20261128T193000Z
+SUMMARY:Focker-in-Law
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12:30pm\, 2:45pm\, 5:15pm\, 7:40pm\nGreg Focker’s anxi
+ eties spiral when his son brings home a formidable new girlfriend and reve
+ als that he plans to propose. Focker-in-Law is the latest in the “Meet t
+ he Parents” franchise and features Robert De Niro\, Ben Stiller\, Ariana
+  Grande\, Owen Wilson\, Blythe Danner\, Teri Polo\, Skyler Gisondo\, Beani
+ e Feldstein\, and Eduardo Franco.\nhttps://www.capitoltheatreusa.com/movie
+ /focker-in-law/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/focker-in-law/
+END:VEVENT
+BEGIN:VEVENT
+UID:0d9e2981fc6f1d6ac835d4b7310b1b35ef79d3c7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T181500Z
+DTEND:20261128T201500Z
+SUMMARY:I Play Rocky
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 1:15pm\, 4:15pm\, 7:30pm\nThe electrifying true story ab
+ out an unknown actor with an unshakable belief that he wasn’t just meant
+  to write Rocky-he was meant to be Rocky Balboa. Told “no” at every tu
+ rn\, Sylvester Stallone bets everything on himself\, holding the line on p
+ laying the lead against seemingly impossible odds.\nhttps://www.capitolthe
+ atreusa.com/movie/i-play-rocky/\nFrom Pushpin Boston: https://pushpin.city
+ /
+URL:https://www.capitoltheatreusa.com/movie/i-play-rocky/
+END:VEVENT
+BEGIN:VEVENT
+UID:bc0141f0435771f9d41c3b9a82e0cd9741d9d1a2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T203000Z
+DTEND:20261128T223000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:30pm\, 7pm\nThirty-four days before she’s sent to pr
+ ison\, notorious Silicon Valley founder Elizabeth Holmes invites a skeptic
+ al film crew to document her every move. What begins as an intimate portra
+ it of an enigmatic felon becomes a mind-bending three-year journey into th
+ e abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-everything/\
+ nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:e2166025ca6434a5ae3d1e171f82c09e4134f79e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T171000Z
+DTEND:20261129T191000Z
+SUMMARY:Hexed
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12:10pm\, 2:30pm\, 5pm\, 7:20pm\nAn impulsive and unconv
+ entional teenage girl named Billie discovers secret magical abilities whic
+ h\, once unleashed\, hurtle her into a spectacle-filled journey out of sub
+ urbia and into a vast witch realm called Hexe. Forced to team up with her 
+ cautious mother\, Alice\, they uncover family mysteries that could change 
+ the world of witches forever.\nhttps://www.capitoltheatreusa.com/movie/hex
+ ed/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/hexed/
+END:VEVENT
+BEGIN:VEVENT
+UID:b6c6323def976dd4ab17f920b3a7b116ef8d9d8d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T171500Z
+DTEND:20261129T191500Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12:15pm\, 3:45pm\, 7:10pm\nReturn to the world of Panem 
+ 24 years before the events of the original The Hunger Games\, starting on 
+ the morning of the reaping of the 50th Hunger Games. The story chronicles 
+ the youth and origins of Haymitch Abernathy as he navigates the deadly are
+ na under the peak of President Snow’s tyrannical reign\nhttps://www.capi
+ toltheatreusa.com/movie/the-hunger-games-sunrise-on-the-reaping/\nFrom Pus
+ hpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-hunger-games-sunrise-on-the
+ -reaping/
+END:VEVENT
+BEGIN:VEVENT
+UID:23054f0c4c75f9007566acf654242745edaee834@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Focker-in-Law
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12:30pm\, 2:45pm\, 5:15pm\, 7:40pm\nGreg Focker’s anxi
+ eties spiral when his son brings home a formidable new girlfriend and reve
+ als that he plans to propose. Focker-in-Law is the latest in the “Meet t
+ he Parents” franchise and features Robert De Niro\, Ben Stiller\, Ariana
+  Grande\, Owen Wilson\, Blythe Danner\, Teri Polo\, Skyler Gisondo\, Beani
+ e Feldstein\, and Eduardo Franco.\nhttps://www.capitoltheatreusa.com/movie
+ /focker-in-law/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/focker-in-law/
+END:VEVENT
+BEGIN:VEVENT
+UID:abd683438428c245fa033604304a630f92bb6dde@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T203000Z
+DTEND:20261129T223000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:30pm\, 7pm\nThirty-four days before she’s sent to pr
+ ison\, notorious Silicon Valley founder Elizabeth Holmes invites a skeptic
+ al film crew to document her every move. What begins as an intimate portra
+ it of an enigmatic felon becomes a mind-bending three-year journey into th
+ e abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-everything/\
+ nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:800e86ebd6ae53b4f23b1a9899ff0bb4834c5535@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T003000Z
+DTEND:20261130T023000Z
+SUMMARY:I Play Rocky
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:The electrifying true story about an unknown actor with an unsh
+ akable belief that he wasn’t just meant to write Rocky-he was meant to b
+ e Rocky Balboa. Told “no” at every turn\, Sylvester Stallone bets ever
+ ything on himself\, holding the line on playing the lead against seemingly
+  impossible odds.\nhttps://www.capitoltheatreusa.com/movie/i-play-rocky/\n
+ From Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/i-play-rocky/
+END:VEVENT
+BEGIN:VEVENT
+UID:921227123cbefd381b3a6b847c78e1c7fa71d4f0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T170000Z
+DTEND:20261130T190000Z
+SUMMARY:Focker-in-Law
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 12pm\, 5:15pm\, 7:40pm\nGreg Focker’s anxieties spiral
+  when his son brings home a formidable new girlfriend and reveals that he 
+ plans to propose. Focker-in-Law is the latest in the “Meet the Parents
+ ” franchise and features Robert De Niro\, Ben Stiller\, Ariana Grande\, 
+ Owen Wilson\, Blythe Danner\, Teri Polo\, Skyler Gisondo\, Beanie Feldstei
+ n\, and Eduardo Franco.\nhttps://www.capitoltheatreusa.com/movie/focker-in
+ -law/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/focker-in-law/
+END:VEVENT
+BEGIN:VEVENT
+UID:f5f65118c7655a888c1f2f43860dad96bfe75f4c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T203000Z
+DTEND:20261130T223000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:30pm\, 7pm\nThirty-four days before she’s sent to pr
+ ison\, notorious Silicon Valley founder Elizabeth Holmes invites a skeptic
+ al film crew to document her every move. What begins as an intimate portra
+ it of an enigmatic felon becomes a mind-bending three-year journey into th
+ e abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-everything/\
+ nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:4a02c25f4570cfa7e365abb18564c6fe5ccf5b53@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T204500Z
+DTEND:20261130T224500Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:45pm\, 7:10pm\nReturn to the world of Panem 24 years b
+ efore the events of the original The Hunger Games\, starting on the mornin
+ g of the reaping of the 50th Hunger Games. The story chronicles the youth 
+ and origins of Haymitch Abernathy as he navigates the deadly arena under t
+ he peak of President Snow’s tyrannical reign\nhttps://www.capitoltheatre
+ usa.com/movie/the-hunger-games-sunrise-on-the-reaping/\nFrom Pushpin Bosto
+ n: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-hunger-games-sunrise-on-the
+ -reaping/
+END:VEVENT
+BEGIN:VEVENT
+UID:37cff44495b9f89e94691ee86522b87cd60b63a4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T211500Z
+DTEND:20261130T231500Z
+SUMMARY:I Play Rocky
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 4:15pm\, 7:30pm\nThe electrifying true story about an un
+ known actor with an unshakable belief that he wasn’t just meant to write
+  Rocky-he was meant to be Rocky Balboa. Told “no” at every turn\, Sylv
+ ester Stallone bets everything on himself\, holding the line on playing th
+ e lead against seemingly impossible odds.\nhttps://www.capitoltheatreusa.c
+ om/movie/i-play-rocky/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/i-play-rocky/
+END:VEVENT
+BEGIN:VEVENT
+UID:7f5d1f49bc39325e367ba9bfd5fc849113c8e834@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T220000Z
+DTEND:20261201T000000Z
+SUMMARY:Hexed
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 5pm\, 7:20pm\nAn impulsive and unconventional teenage gi
+ rl named Billie discovers secret magical abilities which\, once unleashed\
+ , hurtle her into a spectacle-filled journey out of suburbia and into a va
+ st witch realm called Hexe. Forced to team up with her cautious mother\, A
+ lice\, they uncover family mysteries that could change the world of witche
+ s forever.\nhttps://www.capitoltheatreusa.com/movie/hexed/\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/hexed/
+END:VEVENT
+BEGIN:VEVENT
+UID:776528aa816fbc6f44bb8684a449aa4dec02fc40@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T203000Z
+DTEND:20261201T223000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:30pm\, 7pm\nThirty-four days before she’s sent to pr
+ ison\, notorious Silicon Valley founder Elizabeth Holmes invites a skeptic
+ al film crew to document her every move. What begins as an intimate portra
+ it of an enigmatic felon becomes a mind-bending three-year journey into th
+ e abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-everything/\
+ nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:c68e9fe02a57ed3eaaec114fe4fc6dc0451565db@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T204500Z
+DTEND:20261201T224500Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:45pm\, 7:10pm\nReturn to the world of Panem 24 years b
+ efore the events of the original The Hunger Games\, starting on the mornin
+ g of the reaping of the 50th Hunger Games. The story chronicles the youth 
+ and origins of Haymitch Abernathy as he navigates the deadly arena under t
+ he peak of President Snow’s tyrannical reign\nhttps://www.capitoltheatre
+ usa.com/movie/the-hunger-games-sunrise-on-the-reaping/\nFrom Pushpin Bosto
+ n: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-hunger-games-sunrise-on-the
+ -reaping/
+END:VEVENT
+BEGIN:VEVENT
+UID:113f6b71f342d347b11a16c0a9259755bd484ee5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T211500Z
+DTEND:20261201T231500Z
+SUMMARY:I Play Rocky
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 4:15pm\, 7:30pm\nThe electrifying true story about an un
+ known actor with an unshakable belief that he wasn’t just meant to write
+  Rocky-he was meant to be Rocky Balboa. Told “no” at every turn\, Sylv
+ ester Stallone bets everything on himself\, holding the line on playing th
+ e lead against seemingly impossible odds.\nhttps://www.capitoltheatreusa.c
+ om/movie/i-play-rocky/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/i-play-rocky/
+END:VEVENT
+BEGIN:VEVENT
+UID:be67074357a8b1e67a7379203fa003fcfcaeb751@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T220000Z
+DTEND:20261202T000000Z
+SUMMARY:Hexed
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 5pm\, 7:20pm\nAn impulsive and unconventional teenage gi
+ rl named Billie discovers secret magical abilities which\, once unleashed\
+ , hurtle her into a spectacle-filled journey out of suburbia and into a va
+ st witch realm called Hexe. Forced to team up with her cautious mother\, A
+ lice\, they uncover family mysteries that could change the world of witche
+ s forever.\nhttps://www.capitoltheatreusa.com/movie/hexed/\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/hexed/
+END:VEVENT
+BEGIN:VEVENT
+UID:8a9e534de742a8a766faf483d08271c0d8b340a3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T221500Z
+DTEND:20261202T001500Z
+SUMMARY:Focker-in-Law
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 5:15pm\, 7:40pm\nGreg Focker’s anxieties spiral when h
+ is son brings home a formidable new girlfriend and reveals that he plans t
+ o propose. Focker-in-Law is the latest in the “Meet the Parents” franc
+ hise and features Robert De Niro\, Ben Stiller\, Ariana Grande\, Owen Wils
+ on\, Blythe Danner\, Teri Polo\, Skyler Gisondo\, Beanie Feldstein\, and E
+ duardo Franco.\nhttps://www.capitoltheatreusa.com/movie/focker-in-law/\nFr
+ om Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/focker-in-law/
+END:VEVENT
+BEGIN:VEVENT
+UID:5220008bdce0ac4e92d48e8172784bb549ed99ef@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T203000Z
+DTEND:20261202T223000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:30pm\, 7pm\nThirty-four days before she’s sent to pr
+ ison\, notorious Silicon Valley founder Elizabeth Holmes invites a skeptic
+ al film crew to document her every move. What begins as an intimate portra
+ it of an enigmatic felon becomes a mind-bending three-year journey into th
+ e abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-everything/\
+ nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:e4e924ac68ef521dae5f4f5120767b50e5c51300@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T204500Z
+DTEND:20261202T224500Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:45pm\, 7:10pm\nReturn to the world of Panem 24 years b
+ efore the events of the original The Hunger Games\, starting on the mornin
+ g of the reaping of the 50th Hunger Games. The story chronicles the youth 
+ and origins of Haymitch Abernathy as he navigates the deadly arena under t
+ he peak of President Snow’s tyrannical reign\nhttps://www.capitoltheatre
+ usa.com/movie/the-hunger-games-sunrise-on-the-reaping/\nFrom Pushpin Bosto
+ n: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-hunger-games-sunrise-on-the
+ -reaping/
+END:VEVENT
+BEGIN:VEVENT
+UID:ab84a85d0629ccb5f9c570d4f3ae221db095524e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T211500Z
+DTEND:20261202T231500Z
+SUMMARY:I Play Rocky
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 4:15pm\, 7:30pm\nThe electrifying true story about an un
+ known actor with an unshakable belief that he wasn’t just meant to write
+  Rocky-he was meant to be Rocky Balboa. Told “no” at every turn\, Sylv
+ ester Stallone bets everything on himself\, holding the line on playing th
+ e lead against seemingly impossible odds.\nhttps://www.capitoltheatreusa.c
+ om/movie/i-play-rocky/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/i-play-rocky/
+END:VEVENT
+BEGIN:VEVENT
+UID:eb17495bcf599804d0966e402b49a4692bf8062b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T220000Z
+DTEND:20261203T000000Z
+SUMMARY:Hexed
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 5pm\, 7:20pm\nAn impulsive and unconventional teenage gi
+ rl named Billie discovers secret magical abilities which\, once unleashed\
+ , hurtle her into a spectacle-filled journey out of suburbia and into a va
+ st witch realm called Hexe. Forced to team up with her cautious mother\, A
+ lice\, they uncover family mysteries that could change the world of witche
+ s forever.\nhttps://www.capitoltheatreusa.com/movie/hexed/\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/hexed/
+END:VEVENT
+BEGIN:VEVENT
+UID:6c45a026edc101f46ffa6852354fde061d605783@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T221500Z
+DTEND:20261203T001500Z
+SUMMARY:Focker-in-Law
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 5:15pm\, 7:40pm\nGreg Focker’s anxieties spiral when h
+ is son brings home a formidable new girlfriend and reveals that he plans t
+ o propose. Focker-in-Law is the latest in the “Meet the Parents” franc
+ hise and features Robert De Niro\, Ben Stiller\, Ariana Grande\, Owen Wils
+ on\, Blythe Danner\, Teri Polo\, Skyler Gisondo\, Beanie Feldstein\, and E
+ duardo Franco.\nhttps://www.capitoltheatreusa.com/movie/focker-in-law/\nFr
+ om Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/focker-in-law/
+END:VEVENT
+BEGIN:VEVENT
+UID:4363a2407adaf958981bef77c6fa7e735e1e19d7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T203000Z
+DTEND:20261203T223000Z
+SUMMARY:You Can See Everything
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:30pm\, 7pm\nThirty-four days before she’s sent to pr
+ ison\, notorious Silicon Valley founder Elizabeth Holmes invites a skeptic
+ al film crew to document her every move. What begins as an intimate portra
+ it of an enigmatic felon becomes a mind-bending three-year journey into th
+ e abyss.\nhttps://www.capitoltheatreusa.com/movie/you-can-see-everything/\
+ nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:c747fa0d99c487eb83745e75f3c88ce03fbb8785@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T204500Z
+DTEND:20261203T224500Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 3:45pm\, 7:10pm\nReturn to the world of Panem 24 years b
+ efore the events of the original The Hunger Games\, starting on the mornin
+ g of the reaping of the 50th Hunger Games. The story chronicles the youth 
+ and origins of Haymitch Abernathy as he navigates the deadly arena under t
+ he peak of President Snow’s tyrannical reign\nhttps://www.capitoltheatre
+ usa.com/movie/the-hunger-games-sunrise-on-the-reaping/\nFrom Pushpin Bosto
+ n: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/the-hunger-games-sunrise-on-the
+ -reaping/
+END:VEVENT
+BEGIN:VEVENT
+UID:da877b28403072afdd2f5b6b7e6da1782d336f44@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T211500Z
+DTEND:20261203T231500Z
+SUMMARY:I Play Rocky
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 4:15pm\, 7:30pm\nThe electrifying true story about an un
+ known actor with an unshakable belief that he wasn’t just meant to write
+  Rocky-he was meant to be Rocky Balboa. Told “no” at every turn\, Sylv
+ ester Stallone bets everything on himself\, holding the line on playing th
+ e lead against seemingly impossible odds.\nhttps://www.capitoltheatreusa.c
+ om/movie/i-play-rocky/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/i-play-rocky/
+END:VEVENT
+BEGIN:VEVENT
+UID:a875c1403459eff5f420ddb56faec0c1a872401d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T220000Z
+DTEND:20261204T000000Z
+SUMMARY:Hexed
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 5pm\, 7:20pm\nAn impulsive and unconventional teenage gi
+ rl named Billie discovers secret magical abilities which\, once unleashed\
+ , hurtle her into a spectacle-filled journey out of suburbia and into a va
+ st witch realm called Hexe. Forced to team up with her cautious mother\, A
+ lice\, they uncover family mysteries that could change the world of witche
+ s forever.\nhttps://www.capitoltheatreusa.com/movie/hexed/\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/hexed/
+END:VEVENT
+BEGIN:VEVENT
+UID:bce33b819b9ee90c27b5863122b06446dd0293cb@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T221500Z
+DTEND:20261204T001500Z
+SUMMARY:Focker-in-Law
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Times: 5:15pm\, 7:40pm\nGreg Focker’s anxieties spiral when h
+ is son brings home a formidable new girlfriend and reveals that he plans t
+ o propose. Focker-in-Law is the latest in the “Meet the Parents” franc
+ hise and features Robert De Niro\, Ben Stiller\, Ariana Grande\, Owen Wils
+ on\, Blythe Danner\, Teri Polo\, Skyler Gisondo\, Beanie Feldstein\, and E
+ duardo Franco.\nhttps://www.capitoltheatreusa.com/movie/focker-in-law/\nFr
+ om Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/focker-in-law/
+END:VEVENT
+BEGIN:VEVENT
+UID:54a1a2c6196e2d01e99661fd53fab64513e2672f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Christmas in Connecticut
+LOCATION:Capitol Theatre\, 204 Massachusetts Ave\, Arlington\, MA 02474
+DESCRIPTION:Barbara Stanwyck stars as a famous expert on marriage\, cooking
+  and homemaking who is asked by her publisher to host a national hero for 
+ Christmas dinner at her famous Connecticut home. It should be simple\, but
+  she must scramble to keep the secret that she’s single\, can’t cook a
+ nd doesn’t own a home. With a…\nhttps://www.capitoltheatreusa.com/movi
+ e/christmas-in-connecticut/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.capitoltheatreusa.com/movie/christmas-in-connecticut/
+END:VEVENT
+END:VCALENDAR

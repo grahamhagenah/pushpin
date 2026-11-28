@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8f4ca0bdd6720b81952f70083a52b333bcd78b06@pushpin.city
+DTSTAMP:20270121T000000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:THE SEEN AND THE UNSEEN: An evening of two visionary chamber operas
+  about women who listen for voices the world cannot yet hear.
+LOCATION:National Sawdust\, 80 N 6th St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.nationalsawdust.org/event/the-seen-and-the-unseen-1
+ -21-27
+URL:https://www.nationalsawdust.org/event/the-seen-and-the-unseen-1-21-27
+END:VEVENT
+END:VCALENDAR

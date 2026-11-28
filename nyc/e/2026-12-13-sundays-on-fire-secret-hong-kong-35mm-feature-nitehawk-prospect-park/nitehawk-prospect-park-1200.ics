@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:994cc83df94b494867235b0d1220918561688b87@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T170000Z
+DTEND:20261213T190000Z
+SUMMARY:Sundays on Fire: Secret Hong Kong 35mm Feature
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/sunday-on-fire-d
+ ecember-2026/
+URL:https://nitehawkcinema.com/prospectpark/movies/sunday-on-fire-december-
+ 2026/
+END:VEVENT
+END:VCALENDAR

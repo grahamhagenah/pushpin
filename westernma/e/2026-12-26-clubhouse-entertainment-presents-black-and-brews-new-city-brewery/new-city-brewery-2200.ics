@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6840703f8af632a915c16213aeb268892abf1e57@pushpin.city
+DTSTAMP:20261226T000000Z
+DTSTART:20261227T030000Z
+DTEND:20261227T050000Z
+SUMMARY:Clubhouse Entertainment presents: Black and Brews
+LOCATION:New City Brewery\, 180 Pleasant St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.newcitybrewery.com/events-1/clubhouse-entertainment
+ -presents-black-and-brews
+URL:https://www.newcitybrewery.com/events-1/clubhouse-entertainment-present
+ s-black-and-brews
+END:VEVENT
+END:VCALENDAR

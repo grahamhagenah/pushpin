@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4b3528330c4fe855c5d2f222739823e4db91f27b@pushpin.city
+DTSTAMP:20261217T000000Z
+DTSTART:20261217T150000Z
+DTEND:20261217T170000Z
+SUMMARY:Water Lines: Architecture at the Edge Exhibition Opens
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://calendar.mit.edu/event/water-lines-architecture-at-the-
+ edge-exhibition-opens
+URL:https://calendar.mit.edu/event/water-lines-architecture-at-the-edge-exh
+ ibition-opens
+END:VEVENT
+END:VCALENDAR

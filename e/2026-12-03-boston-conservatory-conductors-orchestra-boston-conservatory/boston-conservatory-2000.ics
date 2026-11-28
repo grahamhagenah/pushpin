@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:17972028a50686899647cbab7bf2288d2387d738@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:Boston Conservatory Conductors Orchestra
+LOCATION:Boston Conservatory\, 132 Ipswich Street (Richard Ortner Studio Bu
+ ilding)\, Boston\, MA 02115
+DESCRIPTION:https://bostonconservatory.berklee.edu/events/boston-conservato
+ ry-conductors-orchestra-12-03
+URL:https://bostonconservatory.berklee.edu/events/boston-conservatory-condu
+ ctors-orchestra-12-03
+END:VEVENT
+END:VCALENDAR

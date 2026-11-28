@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:189debbac1815ea2fda305e01a51263b62d2e943@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T030000Z
+DTEND:20261204T050000Z
+SUMMARY:Patchwork
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/patchwork-middle-east-zuzu-tick
+ ets/14725453?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/patchwork-middle-east-zuzu-tickets/1472
+ 5453?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

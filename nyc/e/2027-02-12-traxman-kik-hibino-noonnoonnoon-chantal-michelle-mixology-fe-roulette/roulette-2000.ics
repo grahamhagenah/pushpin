@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dd4390322c9e964ab94fc07f7ed41eeea0e55030@pushpin.city
+DTSTAMP:20270212T000000Z
+DTSTART:20270213T010000Z
+DTEND:20270213T030000Z
+SUMMARY:Traxman + Kikù Hibino: NOONNOONNOON // Chantal Michelle (Mixology 
+ Festival)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/noonnoonnoon-kiku-hibino-traxman/
+URL:https://roulette.org/event/noonnoonnoon-kiku-hibino-traxman/
+END:VEVENT
+END:VCALENDAR

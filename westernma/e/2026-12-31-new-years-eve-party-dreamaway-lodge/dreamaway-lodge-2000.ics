@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6af380fd8e955a72433de95684934786c2dde3ce@pushpin.city
+DTSTAMP:20261231T000000Z
+DTSTART:20270101T010000Z
+DTEND:20270101T030000Z
+SUMMARY:NEW YEARS EVE PARTY
+LOCATION:Dreamaway Lodge\, 1342 County Rd\, Becket\, MA 01223
+DESCRIPTION:https://www.thedreamawaylodge.com/music/new-years-eve-party
+URL:https://www.thedreamawaylodge.com/music/new-years-eve-party
+END:VEVENT
+END:VCALENDAR

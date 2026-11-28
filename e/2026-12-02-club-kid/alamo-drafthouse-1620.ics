@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fd6d38ab8a3cc9e4baaf9da79fc62db2bf5394ef@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261202T212000Z
+DTEND:20261202T232000Z
+SUMMARY:Club Kid
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/club-kid
+URL:https://drafthouse.com/boston/show/club-kid
+END:VEVENT
+END:VCALENDAR

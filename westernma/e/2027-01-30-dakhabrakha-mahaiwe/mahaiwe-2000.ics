@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ffe2fbcdd90f9ee3ba637aceaf213341aa16630d@pushpin.city
+DTSTAMP:20270130T000000Z
+DTSTART:20270131T010000Z
+DTEND:20270131T030000Z
+SUMMARY:DakhaBrakha
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:https://mahaiwe.org/event/dakhabrakha/
+URL:https://mahaiwe.org/event/dakhabrakha/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:53720b27d1c89265a5e4c6f32ff48cfe086a91b2@pushpin.city
+DTSTAMP:20270126T000000Z
+DTSTART:20270127T000000Z
+DTEND:20270127T020000Z
+SUMMARY:Seb Lowe US 2027 - As Part of the Fenway Recordings Sessions
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/seb-lowe-us-2027-as-part-boston-ma
+ ssachusetts-01-26-2027/event/0100652FDBC67E23
+URL:https://www.ticketmaster.com/seb-lowe-us-2027-as-part-boston-massachuse
+ tts-01-26-2027/event/0100652FDBC67E23
+END:VEVENT
+END:VCALENDAR

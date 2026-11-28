@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:828b7d54fb207a850597938632bc82e881d2be35@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261209T000000Z
+DTEND:20261209T020000Z
+SUMMARY:Bombyx Brass Collective: Music for a Festive Season
+LOCATION:Bombyx\, 130 Pine St\, Florence\, MA 01062
+DESCRIPTION:https://bombyx.live/events/music-for-a-festive-season/
+URL:https://bombyx.live/events/music-for-a-festive-season/
+END:VEVENT
+END:VCALENDAR

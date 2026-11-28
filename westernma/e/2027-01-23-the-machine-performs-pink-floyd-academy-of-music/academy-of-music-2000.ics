@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dc110dc3817fde7628e1c1d9a161ddb70a1e3680@pushpin.city
+DTSTAMP:20270123T000000Z
+DTSTART:20270124T010000Z
+DTEND:20270124T030000Z
+SUMMARY:The Machine performs Pink Floyd
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/the-machine-performs-pink-floy
+ d-3/
+URL:https://aomtheatre.com/aom_event/the-machine-performs-pink-floyd-3/
+END:VEVENT
+END:VCALENDAR

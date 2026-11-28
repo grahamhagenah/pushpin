@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7f0f36803971a12f46e9ecf38e602e5f703b5126@pushpin.city
+DTSTAMP:20270222T000000Z
+DTSTART:20270223T000000Z
+DTEND:20270223T020000Z
+SUMMARY:Elan Mehler Trio
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/25kemlwjygsh8fz-j3d78-dzmxs
+URL:https://www.lilypadinman.com/home/25kemlwjygsh8fz-j3d78-dzmxs
+END:VEVENT
+END:VCALENDAR

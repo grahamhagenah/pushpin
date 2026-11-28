@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · The Foundry
+X-WR-CALDESC:What’s coming up at The Foundry\, from Pushpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:e3b58ee2096f85dfbff7d6567e860db5891870fc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:The Kwintet
+LOCATION:The Foundry\, 2 Harris St\, West Stockbridge\, MA 01266
+DESCRIPTION:The Kwintet is a group of musicians put together by musician an
+ d composer Luke Seto in the spirit of connection\, spontaneity\, and creat
+ ivity.\nhttps://thefoundryws.com/event/the-kwintet/\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://thefoundryws.com/event/the-kwintet/
+END:VEVENT
+BEGIN:VEVENT
+UID:e2bd0de3e453ae21d6c8a435b6bb2bd8760f3420@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T003000Z
+DTEND:20261211T023000Z
+SUMMARY:Pine Tree Flyers
+LOCATION:The Foundry\, 2 Harris St\, West Stockbridge\, MA 01266
+DESCRIPTION:Pine Tree Flyers is a quartet bringing renewed energy and respe
+ ct to the traditional music of New England. Featuring fiddle\, accordion\,
+  guitar\, and piano\, the group blends deep roots in contra dance music wi
+ th influences from Irish\, Scottish\, and Québécois traditions to create
+  a vibrant and distinctly Northeastern folk sound.\nhttps://thefoundryws.c
+ om/event/pine-tree-flyers/\nFrom Pushpin Western Mass: https://pushpin.cit
+ y/westernma/
+URL:https://thefoundryws.com/event/pine-tree-flyers/
+END:VEVENT
+END:VCALENDAR

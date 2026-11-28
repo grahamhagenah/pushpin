@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d4925654c8280a448bc77e1522b38ffee0be3488@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:Son Lux with Samora Pinderhughes\, Holland Andrews\, mmeadows\, Vin
+ es
+LOCATION:Pioneer Works\, 159 Pioneer St\, Brooklyn\, NY 11231
+DESCRIPTION:https://pioneerworks.org/programs/son-lux
+URL:https://pioneerworks.org/programs/son-lux
+END:VEVENT
+END:VCALENDAR

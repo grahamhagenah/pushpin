@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f63b878a95c36c9800698c9f43c42992981b79a3@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T220000Z
+DTEND:20261130T000000Z
+SUMMARY:Riffin Dots\, Solution\, A Modern Anthem
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/riffin-dotssolutiona-modern-anthem
+ -tickets-2004785997887
+URL:https://www.eventbrite.com/e/riffin-dotssolutiona-modern-anthem-tickets
+ -2004785997887
+END:VEVENT
+END:VCALENDAR

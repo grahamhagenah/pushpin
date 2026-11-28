@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d57909f75e917b2b132642578398e84f1b6a1964@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T230000Z
+DTEND:20261207T010000Z
+SUMMARY:Valley Arabic Music Ensemble
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:https://tickets.venuepilot.com/e/valley-arabic-music-ensemble-2
+ 026-12-06-cityspace-easthampton-12c7db
+URL:https://tickets.venuepilot.com/e/valley-arabic-music-ensemble-2026-12-0
+ 6-cityspace-easthampton-12c7db
+END:VEVENT
+END:VCALENDAR

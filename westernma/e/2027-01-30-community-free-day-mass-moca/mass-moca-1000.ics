@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f991597995e32289401c3c9ca3ca68b9a8cae7a7@pushpin.city
+DTSTAMP:20270130T000000Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Community Free Day
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:https://massmoca.org/event/community-free-day-january-2027/
+URL:https://massmoca.org/event/community-free-day-january-2027/
+END:VEVENT
+END:VCALENDAR

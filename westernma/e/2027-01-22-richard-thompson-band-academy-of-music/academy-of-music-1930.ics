@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fe97b0c3858b8b0c3e7cd7df51657c7c8f890a23@pushpin.city
+DTSTAMP:20270122T000000Z
+DTSTART:20270123T003000Z
+DTEND:20270123T023000Z
+SUMMARY:Richard Thompson & Band
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/richard-thompson-band/
+URL:https://aomtheatre.com/aom_event/richard-thompson-band/
+END:VEVENT
+END:VCALENDAR

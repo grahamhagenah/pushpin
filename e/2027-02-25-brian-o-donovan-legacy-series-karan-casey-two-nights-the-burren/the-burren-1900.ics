@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5d34de2a630a0efed036784fea6031af8b40f73b@pushpin.city
+DTSTAMP:20270225T000000Z
+DTSTART:20270226T000000Z
+DTEND:20270226T020000Z
+SUMMARY:Brian O'Donovan Legacy Series: Karan Casey TWO NIGHTS
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=899
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=899
+END:VEVENT
+END:VCALENDAR

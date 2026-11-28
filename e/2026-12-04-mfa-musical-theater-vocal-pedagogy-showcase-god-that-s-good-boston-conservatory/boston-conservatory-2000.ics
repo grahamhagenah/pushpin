@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b7597788f4a803bff86eb35f1a45d3fa0b412213@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:MFA Musical Theater Vocal Pedagogy Showcase—“God\, That’s Goo
+ d!: Songs of Stephen Sondheim”
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02215
+DESCRIPTION:https://bostonconservatory.berklee.edu/events/mfa-musical-theat
+ er-vocal-pedagogy-showcase
+URL:https://bostonconservatory.berklee.edu/events/mfa-musical-theater-vocal
+ -pedagogy-showcase
+END:VEVENT
+END:VCALENDAR

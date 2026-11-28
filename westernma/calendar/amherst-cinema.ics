@@ -1,0 +1,743 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Amherst Cinema
+X-WR-CALDESC:What’s coming up at Amherst Cinema\, from Pushpin Western Ma
+ ss.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:0e08f0cf613a7642e3dffbd111a9e9573becbf69@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T183500Z
+DTEND:20261128T203500Z
+SUMMARY:Club Kid
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:35pm\, 4:25pm\, 7:10pm\, 9:40pm\nA hard-partying New Y
+ ork City club promoter (writer/director Jordan Firstman) sees his whirlwin
+ d lifestyle upended by the arrival of the 10-year-old son (Reggie Absolom)
+  he never knew he had.\nhttps://amherstcinema.org/films-and-events/club-ki
+ d\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:aae0401dd9ca44bea5ec0e208fd2b8e08cea0a15@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T185000Z
+DTEND:20261128T205000Z
+SUMMARY:Wicker
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:50pm\, 9:50pm\nAn audacious comedic fable about sex\, 
+ marriage\, and the absurdities of social convention\, WICKER tells the who
+ lly original love story of an ostracized fisherwoman (Olivia Colman) who c
+ ommissions a husband to be made by the local basketmaker (Peter Dinklage).
+ \nhttps://amherstcinema.org/films-and-events/wicker\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:289513638a09784b5995a96130d4219ab2be840c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T190500Z
+DTEND:20261128T210500Z
+SUMMARY:Fatherland
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:05pm\, 7:30pm\nAt the height of the Cold War\, the wri
+ ter Thomas Mann and his daughter—actress\, writer\, and rally driver—E
+ rika embark on a road trip in a black Buick cruiser across a divided Germa
+ ny in ruins\, traveling from the Allied-occupied city of Frankfurt to Sovi
+ et-controlled Weimar.\nhttps://amherstcinema.org/films-and-events/fatherla
+ nd\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/fatherland
+END:VEVENT
+BEGIN:VEVENT
+UID:46b353d55b155598cc1073eee3bdc36b09ef2d0a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T210500Z
+DTEND:20261128T230500Z
+SUMMARY:Wild Horse Nine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:05pm\, 6:55pm\, 9:30pm\nShortly before the 1973 Chilea
+ n coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are disp
+ atched from Santiago to Easter island by their bureau chief\, MJ (Steve Bu
+ scemi).\nhttps://amherstcinema.org/films-and-events/wild-horse-nine\nFrom 
+ Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:f8bb2c4c353daa1e0b5331c3476dcfd4dc58a28a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T214500Z
+DTEND:20261128T234500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Harry Lehman (John Turturro) is an aging pickpocket who plies h
+ is trade with ever-diminishing returns in a drastically changed New York.\
+ nhttps://amherstcinema.org/films-and-events/only-living-pickpocket-new-yor
+ k\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/only-living-pickpocket-new-y
+ ork
+END:VEVENT
+BEGIN:VEVENT
+UID:79aaa961869a7f2a73d9761226af6c95f7f38068@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T154500Z
+DTEND:20261129T174500Z
+SUMMARY:Club Kid
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 10:45am\, 1:35pm\, 4:25pm\, 7:10pm\nA hard-partying New 
+ York City club promoter (writer/director Jordan Firstman) sees his whirlwi
+ nd lifestyle upended by the arrival of the 10-year-old son (Reggie Absolom
+ ) he never knew he had.\nhttps://amherstcinema.org/films-and-events/club-k
+ id\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:001ae5766d3a615f34de6cfc3f928caa65c9bc6e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T155500Z
+DTEND:20261129T175500Z
+SUMMARY:Wicker
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 10:55am\, 1:50pm\nAn audacious comedic fable about sex\,
+  marriage\, and the absurdities of social convention\, WICKER tells the wh
+ olly original love story of an ostracized fisherwoman (Olivia Colman) who 
+ commissions a husband to be made by the local basketmaker (Peter Dinklage)
+ .\nhttps://amherstcinema.org/films-and-events/wicker\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:8a5cfb39506c0880e689f36ff424197d5bd0e12a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T160500Z
+DTEND:20261129T180500Z
+SUMMARY:Fatherland
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 11:05am\, 2:05pm\, 7:30pm\nAt the height of the Cold War
+ \, the writer Thomas Mann and his daughter—actress\, writer\, and rally 
+ driver—Erika embark on a road trip in a black Buick cruiser across a div
+ ided Germany in ruins\, traveling from the Allied-occupied city of Frankfu
+ rt to Soviet-controlled Weimar.\nhttps://amherstcinema.org/films-and-event
+ s/fatherland\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/fatherland
+END:VEVENT
+BEGIN:VEVENT
+UID:f84ed36144ad5f7484373d823bee833e6a499f84@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T210500Z
+DTEND:20261129T230500Z
+SUMMARY:Wild Horse Nine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:05pm\, 6:55pm\nShortly before the 1973 Chilean coup\, 
+ CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched fr
+ om Santiago to Easter island by their bureau chief\, MJ (Steve Buscemi).\n
+ https://amherstcinema.org/films-and-events/wild-horse-nine\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:dcd0335246da85b815d62b64feeda090f2f711f2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T214500Z
+DTEND:20261129T234500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Harry Lehman (John Turturro) is an aging pickpocket who plies h
+ is trade with ever-diminishing returns in a drastically changed New York.\
+ nhttps://amherstcinema.org/films-and-events/only-living-pickpocket-new-yor
+ k\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/only-living-pickpocket-new-y
+ ork
+END:VEVENT
+BEGIN:VEVENT
+UID:0696b639ad6e17fbf4a342edff845c6530a2728f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T183500Z
+DTEND:20261130T203500Z
+SUMMARY:Club Kid
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:35pm\, 4:25pm\, 7:10pm\, 9:40pm\nA hard-partying New Y
+ ork City club promoter (writer/director Jordan Firstman) sees his whirlwin
+ d lifestyle upended by the arrival of the 10-year-old son (Reggie Absolom)
+  he never knew he had.\nhttps://amherstcinema.org/films-and-events/club-ki
+ d\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:e0e5ba79229c88e7727b3e1b93d3d54fb33511ef@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T185000Z
+DTEND:20261130T205000Z
+SUMMARY:Wicker
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:50pm\, 9:50pm\nAn audacious comedic fable about sex\, 
+ marriage\, and the absurdities of social convention\, WICKER tells the who
+ lly original love story of an ostracized fisherwoman (Olivia Colman) who c
+ ommissions a husband to be made by the local basketmaker (Peter Dinklage).
+ \nhttps://amherstcinema.org/films-and-events/wicker\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:1cfd77182ff669a9b9d9ceac19371d26e6d72768@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T190500Z
+DTEND:20261130T210500Z
+SUMMARY:Fatherland
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:05pm\, 7:30pm\nAt the height of the Cold War\, the wri
+ ter Thomas Mann and his daughter—actress\, writer\, and rally driver—E
+ rika embark on a road trip in a black Buick cruiser across a divided Germa
+ ny in ruins\, traveling from the Allied-occupied city of Frankfurt to Sovi
+ et-controlled Weimar.\nhttps://amherstcinema.org/films-and-events/fatherla
+ nd\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/fatherland
+END:VEVENT
+BEGIN:VEVENT
+UID:5f3e4ad490010fb23968f50990e724b94a7687b1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T210500Z
+DTEND:20261130T230500Z
+SUMMARY:Wild Horse Nine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:05pm\, 6:55pm\, 9:30pm\nShortly before the 1973 Chilea
+ n coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are disp
+ atched from Santiago to Easter island by their bureau chief\, MJ (Steve Bu
+ scemi).\nhttps://amherstcinema.org/films-and-events/wild-horse-nine\nFrom 
+ Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:394b12798a25eefca102c010a6b67134528cb9df@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T214500Z
+DTEND:20261130T234500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Harry Lehman (John Turturro) is an aging pickpocket who plies h
+ is trade with ever-diminishing returns in a drastically changed New York.\
+ nhttps://amherstcinema.org/films-and-events/only-living-pickpocket-new-yor
+ k\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/only-living-pickpocket-new-y
+ ork
+END:VEVENT
+BEGIN:VEVENT
+UID:79d30a99af91ab54bd3cd05fe42477b7c160dd64@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T183500Z
+DTEND:20261201T203500Z
+SUMMARY:Club Kid
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:35pm\, 4:25pm\, 7:10pm\, 9:40pm\nA hard-partying New Y
+ ork City club promoter (writer/director Jordan Firstman) sees his whirlwin
+ d lifestyle upended by the arrival of the 10-year-old son (Reggie Absolom)
+  he never knew he had.\nhttps://amherstcinema.org/films-and-events/club-ki
+ d\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:345d1c8054dca60bb58fcb7422647e1ba7a4c7e1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T185000Z
+DTEND:20261201T205000Z
+SUMMARY:Wicker
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:50pm\, 9:50pm\nAn audacious comedic fable about sex\, 
+ marriage\, and the absurdities of social convention\, WICKER tells the who
+ lly original love story of an ostracized fisherwoman (Olivia Colman) who c
+ ommissions a husband to be made by the local basketmaker (Peter Dinklage).
+ \nhttps://amherstcinema.org/films-and-events/wicker\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:4d991cc12d7e913b411ea503a580e1625b8d0b4c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T190500Z
+DTEND:20261201T210500Z
+SUMMARY:Fatherland
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2:05pm\, 7:30pm\nAt the height of the Cold War\, the wri
+ ter Thomas Mann and his daughter—actress\, writer\, and rally driver—E
+ rika embark on a road trip in a black Buick cruiser across a divided Germa
+ ny in ruins\, traveling from the Allied-occupied city of Frankfurt to Sovi
+ et-controlled Weimar.\nhttps://amherstcinema.org/films-and-events/fatherla
+ nd\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/fatherland
+END:VEVENT
+BEGIN:VEVENT
+UID:dc9a7fa3524d168f78f9ee27568670b8677b665f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T210500Z
+DTEND:20261201T230500Z
+SUMMARY:Wild Horse Nine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:05pm\, 6:55pm\, 9:30pm\nShortly before the 1973 Chilea
+ n coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are disp
+ atched from Santiago to Easter island by their bureau chief\, MJ (Steve Bu
+ scemi).\nhttps://amherstcinema.org/films-and-events/wild-horse-nine\nFrom 
+ Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:ab74e39f7bdfc7a23ff3f5ea2a306d84235afa33@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T214500Z
+DTEND:20261201T234500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Harry Lehman (John Turturro) is an aging pickpocket who plies h
+ is trade with ever-diminishing returns in a drastically changed New York.\
+ nhttps://amherstcinema.org/films-and-events/only-living-pickpocket-new-yor
+ k\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/only-living-pickpocket-new-y
+ ork
+END:VEVENT
+BEGIN:VEVENT
+UID:1b0ee5a2709093607d2a25bdf2f5fbf4f80cc326@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T204500Z
+DTEND:20261202T224500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Harry Lehman (John Turturro) is an aging pickpocket who plies h
+ is trade with ever-diminishing returns in a drastically changed New York.\
+ nhttps://amherstcinema.org/films-and-events/only-living-pickpocket-new-yor
+ k\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/only-living-pickpocket-new-y
+ ork
+END:VEVENT
+BEGIN:VEVENT
+UID:5e7f26235b9ed728be58bc66cf2f07e306b98d1e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T210500Z
+DTEND:20261202T230500Z
+SUMMARY:Wild Horse Nine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris (John M
+ alkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter is
+ land by their bureau chief\, MJ (Steve Buscemi).\nhttps://amherstcinema.or
+ g/films-and-events/wild-horse-nine\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:3ac4f3f222b5f1fd5aafb0f55543548c20e3247e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T212500Z
+DTEND:20261202T232500Z
+SUMMARY:Club Kid
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:25pm\, 7:10pm\nA hard-partying New York City club prom
+ oter (writer/director Jordan Firstman) sees his whirlwind lifestyle upende
+ d by the arrival of the 10-year-old son (Reggie Absolom) he never knew he 
+ had.\nhttps://amherstcinema.org/films-and-events/club-kid\nFrom Pushpin We
+ stern Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:6137dc2329e73dfd2fa79b4ff9cd5605ae0e33a9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:The Exquisite Hour\, Part 2
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Free to the General Public\nThis screening is free to the gener
+ al public. Tickets are available only at the Amherst Cinema box office on 
+ a first-come\, first-served basis. They can be picked up in advance during
+  the Cinema’s regular box office hours\, or at the door the evening of t
+ he screening.\nhttps://amherstcinema.org/films-and-events/exquisite-hour-p
+ art-2\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/exquisite-hour-part-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ee8dc80a1541afa9c4664f1a14dc0530234091e2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T003000Z
+DTEND:20261203T023000Z
+SUMMARY:Fatherland
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:At the height of the Cold War\, the writer Thomas Mann and his 
+ daughter—actress\, writer\, and rally driver—Erika embark on a road tr
+ ip in a black Buick cruiser across a divided Germany in ruins\, traveling 
+ from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.\nh
+ ttps://amherstcinema.org/films-and-events/fatherland\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/fatherland
+END:VEVENT
+BEGIN:VEVENT
+UID:1d83d85dbfa5b98356d454c71a922e2cc2746a36@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T183500Z
+DTEND:20261203T203500Z
+SUMMARY:Club Kid
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:35pm\, 4:10pm\, 7pm\, 9:40pm\nA hard-partying New York
+  City club promoter (writer/director Jordan Firstman) sees his whirlwind l
+ ifestyle upended by the arrival of the 10-year-old son (Reggie Absolom) he
+  never knew he had.\nhttps://amherstcinema.org/films-and-events/club-kid\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:4ac05e9b3f8ffdcbea877ca32553c80aeefac706@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T185000Z
+DTEND:20261203T205000Z
+SUMMARY:Wicker
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:An audacious comedic fable about sex\, marriage\, and the absur
+ dities of social convention\, WICKER tells the wholly original love story 
+ of an ostracized fisherwoman (Olivia Colman) who commissions a husband to 
+ be made by the local basketmaker (Peter Dinklage).\nhttps://amherstcinema.
+ org/films-and-events/wicker\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://amherstcinema.org/films-and-events/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:19c2cc7d6c338c2b910b0398fffbe04bee1f8391@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T190000Z
+DTEND:20261203T210000Z
+SUMMARY:Elsinore
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 2pm\, 4:40pm\, 7:15pm\, 9:45pm\nAndrew Scott delivers hi
+ s strongest performance honoring the real-life story of Ian Charleson\, th
+ e CHARIOTS OF FIRE actor who courageously pushed through AIDS to play Haml
+ et at London’s National Theatre.\nhttps://amherstcinema.org/films-and-ev
+ ents/elsinore\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:3b1c5f6c68eb9c52284d259c1071834e8a9a96da@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T212500Z
+DTEND:20261203T232500Z
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Harry Lehman (John Turturro) is an aging pickpocket who plies h
+ is trade with ever-diminishing returns in a drastically changed New York.\
+ nhttps://amherstcinema.org/films-and-events/only-living-pickpocket-new-yor
+ k\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/only-living-pickpocket-new-y
+ ork
+END:VEVENT
+BEGIN:VEVENT
+UID:10791347f69da4cbc28422d0044a8eadab23c812@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T003000Z
+DTEND:20261204T023000Z
+SUMMARY:Fatherland
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:At the height of the Cold War\, the writer Thomas Mann and his 
+ daughter—actress\, writer\, and rally driver—Erika embark on a road tr
+ ip in a black Buick cruiser across a divided Germany in ruins\, traveling 
+ from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.\nh
+ ttps://amherstcinema.org/films-and-events/fatherland\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/fatherland
+END:VEVENT
+BEGIN:VEVENT
+UID:fe6b60a2defc003b39acda54750ca6c81dffbde1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T023000Z
+DTEND:20261204T043000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris (John M
+ alkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter is
+ land by their bureau chief\, MJ (Steve Buscemi).\nhttps://amherstcinema.or
+ g/films-and-events/wild-horse-nine\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:be3ec88eedf435b0c51df574cdf5e59ca0f1996d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T184500Z
+DTEND:20261204T204500Z
+SUMMARY:Elsinore
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:15pm\, 9:35pm\nAndrew Scott delivers
+  his strongest performance honoring the real-life story of Ian Charleson\,
+  the CHARIOTS OF FIRE actor who courageously pushed through AIDS to play H
+ amlet at London’s National Theatre.\nhttps://amherstcinema.org/films-and
+ -events/elsinore\nFrom Pushpin Western Mass: https://pushpin.city/westernm
+ a/
+URL:https://amherstcinema.org/films-and-events/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:0cdd75d12839b8c42b8fdc631e54cc1c001d2f27@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T024500Z
+DTEND:20261205T044500Z
+SUMMARY:The Beastmaster
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nCalling all dungeon masters! The follow-up to PHAN
+ TASM from young filmmaker Don Coscarelli\, THE BEASTMASTER is a sublime th
+ rill-ride in the 1980s sword-and-sorcery sweepstakes. It's also the only o
+ ne that was photographed by John Alcott\, the Oscar-winning\, Kubrick favo
+ rite DP who filmed THE SHINING and A CLOCKWORK ORANGE.\nhttps://amherstcin
+ ema.org/films-and-events/beastmaster\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/beastmaster
+END:VEVENT
+BEGIN:VEVENT
+UID:4b1cf54d5da9df788cc026a1c5afd3ad54abb968@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T173000Z
+DTEND:20261205T193000Z
+SUMMARY:NT Live: Golden Boy
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:National Theatre Live\nJosh O’Connor (The Crown\; CHALLENGERS
+ ) leads the cast in this searing revival of Clifford Odets’ knockout Ame
+ rican classic.\nhttps://amherstcinema.org/films-and-events/nt-live-golden-
+ boy\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/nt-live-golden-boy
+END:VEVENT
+BEGIN:VEVENT
+UID:0d8b1f291885b3f1a8a66c8a730260686a0fa448@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T184500Z
+DTEND:20261205T204500Z
+SUMMARY:Elsinore
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:15pm\, 9:45pm\nAndrew Scott delivers
+  his strongest performance honoring the real-life story of Ian Charleson\,
+  the CHARIOTS OF FIRE actor who courageously pushed through AIDS to play H
+ amlet at London’s National Theatre.\nhttps://amherstcinema.org/films-and
+ -events/elsinore\nFrom Pushpin Western Mass: https://pushpin.city/westernm
+ a/
+URL:https://amherstcinema.org/films-and-events/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:28895b9551e0eba1c3729817b3e3efb6b2210812@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T155500Z
+DTEND:20261206T175500Z
+SUMMARY:Elsinore
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 10:55am\, 1:45pm\, 4:30pm\, 7:15pm\nAndrew Scott deliver
+ s his strongest performance honoring the real-life story of Ian Charleson\
+ , the CHARIOTS OF FIRE actor who courageously pushed through AIDS to play 
+ Hamlet at London’s National Theatre.\nhttps://amherstcinema.org/films-an
+ d-events/elsinore\nFrom Pushpin Western Mass: https://pushpin.city/western
+ ma/
+URL:https://amherstcinema.org/films-and-events/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:0e0061fcd559e49e38513e29d8d80573efde89c5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261207T184500Z
+DTEND:20261207T204500Z
+SUMMARY:Elsinore
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:15pm\, 9:45pm\nAndrew Scott delivers
+  his strongest performance honoring the real-life story of Ian Charleson\,
+  the CHARIOTS OF FIRE actor who courageously pushed through AIDS to play H
+ amlet at London’s National Theatre.\nhttps://amherstcinema.org/films-and
+ -events/elsinore\nFrom Pushpin Western Mass: https://pushpin.city/westernm
+ a/
+URL:https://amherstcinema.org/films-and-events/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:df369858c956936db0652750ace742b533e88f7d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261208T184500Z
+DTEND:20261208T204500Z
+SUMMARY:Elsinore
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:15pm\, 9:45pm\nAndrew Scott delivers
+  his strongest performance honoring the real-life story of Ian Charleson\,
+  the CHARIOTS OF FIRE actor who courageously pushed through AIDS to play H
+ amlet at London’s National Theatre.\nhttps://amherstcinema.org/films-and
+ -events/elsinore\nFrom Pushpin Western Mass: https://pushpin.city/westernm
+ a/
+URL:https://amherstcinema.org/films-and-events/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:c399fbaadd5f877d0d9d6f0a56d9b1b10c068c5f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T211500Z
+DTEND:20261209T231500Z
+SUMMARY:Elsinore
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 4:15pm\, 7:15pm\nAndrew Scott delivers his strongest per
+ formance honoring the real-life story of Ian Charleson\, the CHARIOTS OF F
+ IRE actor who courageously pushed through AIDS to play Hamlet at London’
+ s National Theatre.\nhttps://amherstcinema.org/films-and-events/elsinore\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:cec1c5ce057ee88ce72a41f2d7e171a770c8dd21@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Emerging Filmmakers of Western Massachusetts 2026
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Free to the General Public\nThis screening is free to the gener
+ al public. Tickets are available only at the Amherst Cinema box office on 
+ a first-come\, first-served basis. They can be picked up in advance during
+  the Cinema’s regular box office hours\, or at the door the evening of t
+ he screening.\nhttps://amherstcinema.org/films-and-events/emerging-filmmak
+ ers-western-massachusetts-2026\nFrom Pushpin Western Mass: https://pushpin
+ .city/westernma/
+URL:https://amherstcinema.org/films-and-events/emerging-filmmakers-western-
+ massachusetts-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:38efc832a23e6bfc1312ed93a953f02eaee484f8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T184500Z
+DTEND:20261210T204500Z
+SUMMARY:Elsinore
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:30pm\, 9:45pm\nAndrew Scott delivers
+  his strongest performance honoring the real-life story of Ian Charleson\,
+  the CHARIOTS OF FIRE actor who courageously pushed through AIDS to play H
+ amlet at London’s National Theatre.\nhttps://amherstcinema.org/films-and
+ -events/elsinore\nFrom Pushpin Western Mass: https://pushpin.city/westernm
+ a/
+URL:https://amherstcinema.org/films-and-events/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:f51181503fb1ee77427fa85c94c39af8d8417186@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:Joybubbles
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Bellwether\nDirector Rachael J. Morrison\, a Hampshire College 
+ alum\, joins us for a post-film discussion.\nhttps://amherstcinema.org/fil
+ ms-and-events/joybubbles\nFrom Pushpin Western Mass: https://pushpin.city/
+ westernma/
+URL:https://amherstcinema.org/films-and-events/joybubbles
+END:VEVENT
+BEGIN:VEVENT
+UID:099edc780302be6abcc65b0097e10d58b0e1db92@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Minotaur
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Opens Friday\, December 11.\nhttps://amherstcinema.org/films-an
+ d-events/minotaur\nFrom Pushpin Western Mass: https://pushpin.city/western
+ ma/
+URL:https://amherstcinema.org/films-and-events/minotaur
+END:VEVENT
+BEGIN:VEVENT
+UID:519709445934d7ee5b14571e1780526d2c9dc80a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T024500Z
+DTEND:20261212T044500Z
+SUMMARY:Tokyo Godfathers
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Late Nights\nIn modern-day Tokyo\, three homeless people’s li
+ ves are changed forever when they discover a baby girl at a garbage dump o
+ n Christmas Eve. As the New Year fast approaches\, these three forgotten m
+ embers of society band together to solve the mystery of the abandoned chil
+ d and the fate of her parents. Along the way\, encounters with seemingly u
+ nrelated events and people force them to confront their own haunted pasts\
+ , as they learn to face their future\, together.\nhttps://amherstcinema.or
+ g/films-and-events/tokyo-godfathers\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/tokyo-godfathers
+END:VEVENT
+BEGIN:VEVENT
+UID:8e94f2074964b4734958619803797e250c750342@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T174500Z
+DTEND:20261212T194500Z
+SUMMARY:The Muppet Christmas Carol
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:$5 Family Films\nPlease note that passes cannot be redeemed for
+  this screening.\nhttps://amherstcinema.org/films-and-events/muppet-christ
+ mas-carol\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/muppet-christmas-carol
+END:VEVENT
+BEGIN:VEVENT
+UID:06ce57ab88df9b982e68be8fb1831340671fba7a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261215T000000Z
+DTEND:20261215T020000Z
+SUMMARY:The Apartment
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Billy Wilder presented by Nina Kleinberg\nJoin us this fall for
+  three films by Billy Wilder\, featuring introductions by local film exper
+ t Nina Kleinberg.\nhttps://amherstcinema.org/films-and-events/apartment\nF
+ rom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/apartment
+END:VEVENT
+BEGIN:VEVENT
+UID:7f3278d5d859fb9bba5f6ae8dca4cf2c46900537@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261216T000000Z
+DTEND:20261216T020000Z
+SUMMARY:Carol
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Holiday Classics\nTherese Belivet (Rooney Mara)\, a young woman
+  in her 20s\, is a clerk working in a Manhattan department store and dream
+ ing of a more fulfilling life when she meets Carol (Cate Blanchett)\, an a
+ lluring woman trapped in a loveless\, convenient marriage.\nhttps://amhers
+ tcinema.org/films-and-events/carol\nFrom Pushpin Western Mass: https://pus
+ hpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/carol
+END:VEVENT
+BEGIN:VEVENT
+UID:1ee9c53eb1a34e86fde6dcdd591d39471c483b1b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T183000Z
+DTEND:20261219T203000Z
+SUMMARY:Gremlins
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Holiday Classics\nWith its Christmas lights and dusting of snow
+ \, Kingston Falls is an idyllic small town—until the gremlins take over.
+ \nhttps://amherstcinema.org/films-and-events/gremlins\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/gremlins
+END:VEVENT
+BEGIN:VEVENT
+UID:7d7d7e6022b0f1dcb5607652aea9b818ffc227d6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T183000Z
+DTEND:20261220T203000Z
+SUMMARY:It's A Wonderful Life
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Holiday Classics\nThis 1946 release marked director Frank Capra
+ 's return to features after four years of turning out propaganda films for
+  the government\, and Capra poured his heart and soul into it.\nhttps://am
+ herstcinema.org/films-and-events/its-wonderful-life\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/its-wonderful-life
+END:VEVENT
+BEGIN:VEVENT
+UID:b07508ed6061c6b84c167a0a098eafd11598e098@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261223T000000Z
+DTEND:20261223T020000Z
+SUMMARY:It's A Wonderful Life
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Holiday Classics\nThis 1946 release marked director Frank Capra
+ 's return to features after four years of turning out propaganda films for
+  the government\, and Capra poured his heart and soul into it.\nhttps://am
+ herstcinema.org/films-and-events/its-wonderful-life\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/its-wonderful-life
+END:VEVENT
+BEGIN:VEVENT
+UID:3f6b0a08948dc19e0314477280b0533f2b3b24f1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:The Debut
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:Opens Thursday 12/24.\nhttps://amherstcinema.org/films-and-even
+ ts/debut\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://amherstcinema.org/films-and-events/debut
+END:VEVENT
+END:VCALENDAR

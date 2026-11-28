@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8dba7e4c40926f4000da7051bbe8ffa20ec703cc@pushpin.city
+DTSTAMP:20270121T000000Z
+DTSTART:20270121T230000Z
+DTEND:20270122T010000Z
+SUMMARY:On the Queer Songbook:
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:https://massmoca.org/event/on-the-queer-songbook-taylor-mac-and
+ -matt-ray/
+URL:https://massmoca.org/event/on-the-queer-songbook-taylor-mac-and-matt-ra
+ y/
+END:VEVENT
+END:VCALENDAR

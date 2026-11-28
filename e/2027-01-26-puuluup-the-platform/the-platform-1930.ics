@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:64ac624098d0166bc53e38c5c909f6f8d17aba77@pushpin.city
+DTSTAMP:20270126T000000Z
+DTSTART:20270127T003000Z
+DTEND:20270127T023000Z
+SUMMARY:Puuluup
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/puuluup/
+URL:https://www.theplatformkendall.org/productions/puuluup/
+END:VEVENT
+END:VCALENDAR

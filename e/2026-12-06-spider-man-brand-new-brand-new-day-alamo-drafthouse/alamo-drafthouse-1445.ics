@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a48a172b338ee8e4772d6e79a57f5ed551d4f815@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T194500Z
+DTEND:20261206T214500Z
+SUMMARY:Spider-Man "Brand New" Brand New Day
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/spider-man-brand-new-brand-n
+ ew-day
+URL:https://drafthouse.com/boston/show/spider-man-brand-new-brand-new-day
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3a05f050a377b73446c6fc58574d340e4cfcc962@pushpin.city
+DTSTAMP:20270122T000000Z
+DTSTART:20270123T010000Z
+DTEND:20270123T030000Z
+SUMMARY:CRUSH: Dave Matthews Band Tribute
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000CrnQHMAZ
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0CrnQHMAZ
+END:VEVENT
+END:VCALENDAR

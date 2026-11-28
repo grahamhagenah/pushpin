@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:998f3b3917357b4817f124b9063e2adcf0353e35@pushpin.city
+DTSTAMP:20261226T000000Z
+DTSTART:20261226T163000Z
+DTEND:20261226T183000Z
+SUMMARY:The Holiday
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/the-holiday/
+URL:https://nitehawkcinema.com/prospectpark/movies/the-holiday/
+END:VEVENT
+END:VCALENDAR

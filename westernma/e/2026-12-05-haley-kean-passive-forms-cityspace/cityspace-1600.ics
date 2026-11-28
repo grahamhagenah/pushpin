@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:74d775efb19bab50e94fec73c3134e2c208ef2a2@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T210000Z
+DTEND:20261205T230000Z
+SUMMARY:Haley Kean - Passive Forms
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.cityspaceeasthampton.org/all-events/
+URL:https://www.cityspaceeasthampton.org/all-events/
+END:VEVENT
+END:VCALENDAR

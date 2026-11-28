@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:388a1c774fd6596c0ff524005622bb47f20149ef@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:Moon Hollow
+LOCATION:Dreamaway Lodge\, 1342 County Rd\, Becket\, MA 01223
+DESCRIPTION:https://www.thedreamawaylodge.com/music/moon-hollow-jpk73
+URL:https://www.thedreamawaylodge.com/music/moon-hollow-jpk73
+END:VEVENT
+END:VCALENDAR

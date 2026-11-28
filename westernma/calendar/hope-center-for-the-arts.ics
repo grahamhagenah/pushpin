@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · HOPE Center for the Arts
+X-WR-CALDESC:What’s coming up at HOPE Center for the Arts\, from Pushpin 
+ Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:6aa8e9a99747e95d08ad5dd9c5b827556497dc27@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:CCM: A Night of Worship
+LOCATION:HOPE Center for the Arts\, 150 Bridge St\, Springfield\, MA 01103
+DESCRIPTION:True Vine Radio invites you to C.C.M — Christ‑Centered Musi
+ c: A Night of Worship\, a powerful worship concert featuring Isaac Cruz\, 
+ Kathy Stuart\, and worship leaders united to uplift the name of Jesus.\nht
+ tps://hopecenterforthearts.org/events/christ-centered-music-a-night-of-wor
+ ship/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://hopecenterforthearts.org/events/christ-centered-music-a-night-o
+ f-worship/
+END:VEVENT
+BEGIN:VEVENT
+UID:7426194313bc7fcd7341f9a2546cc9d4c703e0ec@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:The Irish Tenors
+LOCATION:HOPE Center for the Arts\, 150 Bridge St\, Springfield\, MA 01103
+DESCRIPTION:For more than a quarter century\, The Irish Tenors have thrille
+ d audiences around the world with their unmistakable blend of soaring clas
+ sical voices\, Irish charm\, and heartfelt storytelling. Since first joini
+ ng voices in 1998\, they have sold out iconic venues including Radio City 
+ Music Hall\, Carnegie Hall\, the Sydney Opera House\, and The Hollywood Bo
+ wl\, while becoming beloved PBS favorites through acclaimed specials such 
+ as Ellis Island. With millions of albums sold and a repertoire that effort
+ lessly spans treasured Irish ballads\, popular standards\, and stirring co
+ ntemporary favorites\, The Irish Tenors have become one of the most succes
+ sful Irish touring acts in the world.\nhttps://hopecenterforthearts.org/ev
+ ents/irish-tenors-christmas/\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://hopecenterforthearts.org/events/irish-tenors-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:58568c6153ed13992b30a8a239a30d7155394086@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:Amherst Ballet presents The Snow Maiden
+LOCATION:HOPE Center for the Arts\, 150 Bridge St\, Springfield\, MA 01103
+DESCRIPTION:Amherst Ballet’s beloved winter show\, ‘The Snow Maiden’\
+ , returns. This magical production invites you to the land of Father Frost
+ \, full of swirling snowflakes and glittering fairies\, where we meet the 
+ Snow Maiden on her search for love beyond her wintry realm. Join her quest
+  in this heartwarming tale of longing and friendship\, amidst the turning 
+ of winter into spring. Set to selections from three works by Peter Tchaiko
+ vsky: The Serenade for Strings\, Symphony No. 1 in G-minor (Winter Reverie
+ )\, and Incidental Music for the play\, “The Snow Maiden\,” and presen
+ ted by students from the Amherst Ballet School and our volunteer company\,
+  this production is an excellent opportunity for young audience members to
+  experience the magic of ballet for the first time. Several characters fro
+ m the show will be available for photographs during intermission\, and our
+  director will give backstage tours to show how we bring a production toge
+ ther following each show.\nhttps://hopecenterforthearts.org/events/amherst
+ -ballet-presents-the-snow-maiden/\nFrom Pushpin Western Mass: https://push
+ pin.city/westernma/
+URL:https://hopecenterforthearts.org/events/amherst-ballet-presents-the-sno
+ w-maiden/
+END:VEVENT
+END:VCALENDAR

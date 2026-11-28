@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab45d18e850f1586608342077582fe7960eb2f03@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T030000Z
+DTEND:20261205T050000Z
+SUMMARY:Michael Mann's Manhunter: The Final Cut
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005116-michael-manns-manhunter-
+ the-final-cut/
+URL:https://metrograph.com/film/9999005116-michael-manns-manhunter-the-fina
+ l-cut/
+END:VEVENT
+END:VCALENDAR

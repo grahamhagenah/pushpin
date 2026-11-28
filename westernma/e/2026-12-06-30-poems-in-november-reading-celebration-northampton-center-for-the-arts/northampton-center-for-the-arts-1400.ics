@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4d182071d517aaf0991518c91419722cae03c490@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T190000Z
+DTEND:20261206T210000Z
+SUMMARY:30 Poems in November Reading & Celebration
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/30-poems-in-november-reading-and-celeb
+ ration
+URL:https://www.nohoarts.org/30-poems-in-november-reading-and-celebration
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b4ddbc7d3da6cad48a19458eee935bca353aa28f@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T190000Z
+SUMMARY:The Metropolitan Opera: Samson et Dalila (2026)
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.phoenixmovies.net/movies/the-metropolitan-opera:-sa
+ mson-et-dalila-(2026)/HO00001729
+URL:https://www.phoenixmovies.net/movies/the-metropolitan-opera:-samson-et-
+ dalila-(2026)/HO00001729
+END:VEVENT
+END:VCALENDAR

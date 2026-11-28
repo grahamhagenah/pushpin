@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cf26e3dc4b25654214428b4fb6ed734108b06531@pushpin.city
+DTSTAMP:20270110T000000Z
+DTSTART:20270110T200000Z
+DTEND:20270110T220000Z
+SUMMARY:Bowie Cello Symphonic Aura: Black Star Visualized
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/bowie-cello-symp
+ honic-aura-blackstar-visualized/
+URL:https://www.theplatformkendall.org/productions/bowie-cello-symphonic-au
+ ra-blackstar-visualized/
+END:VEVENT
+END:VCALENDAR

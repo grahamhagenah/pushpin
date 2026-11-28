@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cb6cba54acff7e04af5e8c749849ee0398c437b2@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T210000Z
+DTEND:20261213T230000Z
+SUMMARY:Close Encounters With Music: Come to the Cabaret! Paris and Weimar 
+ Berlin
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:https://mahaiwe.org/event/close-encounters-with-music-come-to-t
+ he-cabaret-paris-and-weimar-berlin/
+URL:https://mahaiwe.org/event/close-encounters-with-music-come-to-the-cabar
+ et-paris-and-weimar-berlin/
+END:VEVENT
+END:VCALENDAR

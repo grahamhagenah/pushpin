@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4975b47805caf760710a0a75b19442cc4e82493c@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:The Pills\, The Powhida Infirmary\, The Extra Virgin
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/the-pills-the-powhida-infirmary
+ -sonia-tickets/14438314?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/the-pills-the-powhida-infirmary-sonia-t
+ ickets/14438314?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b3764cff98adfe8129ae5cec2a314f21a3bf4562@pushpin.city
+DTSTAMP:20261228T000000Z
+DTSTART:20261229T000000Z
+DTEND:20261229T020000Z
+SUMMARY:The Apartment
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/the-apartment
+URL:https://drafthouse.com/boston/show/the-apartment
+END:VEVENT
+END:VCALENDAR

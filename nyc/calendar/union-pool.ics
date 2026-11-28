@@ -1,0 +1,343 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Union Pool
+X-WR-CALDESC:What’s coming up at Union Pool\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:42d098ca86ebb8cb207a638db2637e7119515c74@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:Frank Hurricane\, Tara Zorthian\, Ada Interactive
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6af1242a13b4df0001ad09e6\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af1242a13b4df0001ad09e6
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb2d50703eeb45f25dc34108460c31423df35ca@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T013000Z
+DTEND:20261201T033000Z
+SUMMARY:Rev. Vince Anderson & The Love Choir!
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6a72445734dfb90001624c24\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a72445734dfb90001624c24
+END:VEVENT
+BEGIN:VEVENT
+UID:872bd7e1d36125c70cb072a01e97b0461f72e88b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:Activity • Psincerity • Beck Zegans (solo)
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6ad7b3f871e63600010f0789\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad7b3f871e63600010f0789
+END:VEVENT
+BEGIN:VEVENT
+UID:43bbdb927b685922250742800b18611cad05336b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:RÓIS *2nd Show Added!*
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6acff321e12f1c00014fd29f\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6acff321e12f1c00014fd29f
+END:VEVENT
+BEGIN:VEVENT
+UID:9a6d4f819e5366002bd1d4e9d95000a3c12d73a2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:RÓIS
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6ab5791900e4860001a552db\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ab5791900e4860001a552db
+END:VEVENT
+BEGIN:VEVENT
+UID:aba6a466e8e1130aaff291f0a21490c7c3aab8ec@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:Tami Hart (Record Release) • Eviee Echoes and the Locations • H
+ annah Lee Thompson • Joanie and the Chasers
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6ad7ddc19dbbd9000182fe8b\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad7ddc19dbbd9000182fe8b
+END:VEVENT
+BEGIN:VEVENT
+UID:8a36c3b7a09cb0106fa1b34e8fb4d663cacceafd@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T220000Z
+DTEND:20261206T000000Z
+SUMMARY:Alice Phoebe Lou: Early Show
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6b00a2658d6c82000198b284\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6b00a2658d6c82000198b284
+END:VEVENT
+BEGIN:VEVENT
+UID:dd0af9a40f77c74c99246cf1d801b9448aadeb3a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Alice Phoebe Lou: Late Show
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6b00a2b0ad89d0000157dd1f\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6b00a2b0ad89d0000157dd1f
+END:VEVENT
+BEGIN:VEVENT
+UID:b845b263decb42cdb4afae39f4ac96b465241615@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261207T000000Z
+DTEND:20261207T020000Z
+SUMMARY:Real Young + Lazy Horse
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6ab18f57692a6a0001f70f22\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ab18f57692a6a0001f70f22
+END:VEVENT
+BEGIN:VEVENT
+UID:d554dc960d851e0167f3f34d66b361c4dbbce582@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261208T013000Z
+DTEND:20261208T033000Z
+SUMMARY:Rev. Vince Anderson & The Love Choir!
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6a7244578134e600012d5905\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a7244578134e600012d5905
+END:VEVENT
+BEGIN:VEVENT
+UID:f8b5f81a2b03d89dba9c1db1643102b62d67011e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T000000Z
+DTEND:20261209T020000Z
+SUMMARY:BCMC • GIFT HORSE *Record Release*
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6ac6c3e8f8dd130001cd09c5\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ac6c3e8f8dd130001cd09c5
+END:VEVENT
+BEGIN:VEVENT
+UID:d9f568a7fa03258d40f30b4d6b24fa87bea107ed@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:MANAS • Blacks' Myths (with visuals by Spencer Bewley)
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6aa9becea469040001bec8d2\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aa9becea469040001bec8d2
+END:VEVENT
+BEGIN:VEVENT
+UID:40a3caa758b41aa7963b48e92cef6e2e017256f7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Angela Autumn • Ramsey Thornton
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6a4ff881982ba4000188ef87\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a4ff881982ba4000188ef87
+END:VEVENT
+BEGIN:VEVENT
+UID:ef9fa2d500ed120be8d205e0eb832d3dde01c8a1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:The Last Waltz (performed by Stagefright)
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6ace7698a4141300015eb688\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ace7698a4141300015eb688
+END:VEVENT
+BEGIN:VEVENT
+UID:ad5e697302c6f04d9266eb70ea0cfb1ae43a9129@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:The Last Waltz (performed by Stagefright)
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6ace7703b18c5b0001d5e713\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ace7703b18c5b0001d5e713
+END:VEVENT
+BEGIN:VEVENT
+UID:1638d7cf6a7f9b29775bbbe3967d72ec6c16efe7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261215T013000Z
+DTEND:20261215T033000Z
+SUMMARY:Rev. Vince Anderson & The Love Choir!
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6a72445734dfb90001624c27\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a72445734dfb90001624c27
+END:VEVENT
+BEGIN:VEVENT
+UID:d3e3be910041b757b28139a54de769dca29c5278@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261216T000000Z
+DTEND:20261216T020000Z
+SUMMARY:The Fiery Furnaces
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6acd4358014bdf0001cf7260\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6acd4358014bdf0001cf7260
+END:VEVENT
+BEGIN:VEVENT
+UID:896e1331a493b6125794257494cc2354e4dc066c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261217T000000Z
+DTEND:20261217T020000Z
+SUMMARY:The Fiery Furnaces
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6acd42ab014bdf000179df45\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6acd42ab014bdf000179df45
+END:VEVENT
+BEGIN:VEVENT
+UID:9c369dbb145dd7f6fc2ce9f2a0e803e7680ffe88@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T000000Z
+DTEND:20261219T020000Z
+SUMMARY:Wendy Eisenberg (EP Release & BDay) w/ Frances Chang + Stefani Bond
+ ari
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6b0496d8c3b3c00001d8e8a0\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6b0496d8c3b3c00001d8e8a0
+END:VEVENT
+BEGIN:VEVENT
+UID:1a1dd7e6fd135ae3247d8aaeb521664c8e0ca91e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T000000Z
+DTEND:20261220T020000Z
+SUMMARY:Chandelier • The ||| • Chronophage
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6aecd87322839d0001e9529d\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aecd87322839d0001e9529d
+END:VEVENT
+BEGIN:VEVENT
+UID:7f9d4deae2a7ab6b16dc3e3165dd2b8563cbe95a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261222T013000Z
+DTEND:20261222T033000Z
+SUMMARY:Rev. Vince Anderson & The Love Choir XMas Supertacular!
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6a7244578134e600012d5908\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a7244578134e600012d5908
+END:VEVENT
+BEGIN:VEVENT
+UID:b4d3d1eea64ebe9d4c30d01d601ab6d01acffeef@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261229T013000Z
+DTEND:20261229T033000Z
+SUMMARY:Rev. Vince Anderson & The Love Choir!
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6b00a8acbafb9000019d9ff4\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6b00a8acbafb9000019d9ff4
+END:VEVENT
+BEGIN:VEVENT
+UID:3e3787fb5b294160c7bfa2818d72b98e79098b7d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270105T013000Z
+DTEND:20270105T033000Z
+SUMMARY:Rev. Vince Anderson & The Love Choir!
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6b00a8accfcd40000164346f\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6b00a8accfcd40000164346f
+END:VEVENT
+BEGIN:VEVENT
+UID:ca8d8855b0026873d13eaf8f02f7bddf0f53b755@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270112T013000Z
+DTEND:20270112T033000Z
+SUMMARY:Rev. Vince Anderson & The Love Choir!
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6b00a8ac8d6c820001cb84d1\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6b00a8ac8d6c820001cb84d1
+END:VEVENT
+BEGIN:VEVENT
+UID:1eea1ba19556c848f30e876a461c7dc63f8f9572@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270119T013000Z
+DTEND:20270119T033000Z
+SUMMARY:Rev. Vince Anderson & The Love Choir!
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6b00a8ac7ecbbf000151b036\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6b00a8ac7ecbbf000151b036
+END:VEVENT
+BEGIN:VEVENT
+UID:623df0d29c14d50c0e9b32e292a3c305dfbbee55@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270126T013000Z
+DTEND:20270126T033000Z
+SUMMARY:Rev. Vince Anderson & The Love Choir!
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6b00a8acbafb9000019d9ff5\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6b00a8acbafb9000019d9ff5
+END:VEVENT
+BEGIN:VEVENT
+UID:aba730500a3052e377e48f29f16f47ded7b87072@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270128T000000Z
+DTEND:20270128T020000Z
+SUMMARY:HEATHERS
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6acfcafa4a462600013b5c03\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6acfcafa4a462600013b5c03
+END:VEVENT
+BEGIN:VEVENT
+UID:804c1ee700b13b240062b3eaf5d40474ed665165@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270130T000000Z
+DTEND:20270130T020000Z
+SUMMARY:JOSEPH
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6aecf5a659b33300011101cd\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aecf5a659b33300011101cd
+END:VEVENT
+BEGIN:VEVENT
+UID:fd93ba70ccf3c7df3e39107378ec41edc9212d69@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270131T000000Z
+DTEND:20270131T020000Z
+SUMMARY:JOSEPH
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6aecf6337e987b0001d44894\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aecf6337e987b0001d44894
+END:VEVENT
+BEGIN:VEVENT
+UID:c9c07b92fa63e2593e2de51254e93ee4189f308a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270201T000000Z
+DTEND:20270201T020000Z
+SUMMARY:JOSEPH *3rd Night Added!*
+LOCATION:Union Pool\, 484 Union Ave\, Brooklyn\, NY 11211
+DESCRIPTION:https://dice.fm/event/6aff5623781e62000194d8b3\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aff5623781e62000194d8b3
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d421c907fcefef1e90a188ed6a48a2b34928e6c8@pushpin.city
+DTSTAMP:20270213T000000Z
+DTSTART:20270214T010000Z
+DTEND:20270214T030000Z
+SUMMARY:Yamato
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/yamato/
+URL:https://www.theplatformkendall.org/productions/yamato/
+END:VEVENT
+END:VCALENDAR

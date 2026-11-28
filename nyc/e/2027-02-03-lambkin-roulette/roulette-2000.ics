@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a3bb32a3c24f7fe5c0a7ecd95667fbaed15092ba@pushpin.city
+DTSTAMP:20270203T000000Z
+DTSTART:20270204T010000Z
+DTEND:20270204T030000Z
+SUMMARY:Lambkin
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/lambkin-roulette-resident/
+URL:https://roulette.org/event/lambkin-roulette-resident/
+END:VEVENT
+END:VCALENDAR

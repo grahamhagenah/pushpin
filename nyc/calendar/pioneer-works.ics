@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Pioneer Works
+X-WR-CALDESC:What’s coming up at Pioneer Works\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:59185bc372ee7e1bcc3bf55f1c784c9043ceb796@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T233000Z
+DTEND:20261202T013000Z
+SUMMARY:Members Night: Broadcast and Beers
+LOCATION:Pioneer Works\, 159 Pioneer St\, Brooklyn\, NY 11231
+DESCRIPTION:https://pioneerworks.org/programs/members-night-broadcast-and-b
+ eers\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://pioneerworks.org/programs/members-night-broadcast-and-beers
+END:VEVENT
+BEGIN:VEVENT
+UID:6b8d584cf5750610d5b6f2a6b4f5df4c7ded8b88@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T010000Z
+DTEND:20261202T030000Z
+SUMMARY:Księżyc
+LOCATION:Pioneer Works\, 159 Pioneer St\, Brooklyn\, NY 11231
+DESCRIPTION:Doors 7pm\nhttps://pioneerworks.org/programs/ksiezyc\nFrom Push
+ pin NYC: https://pushpin.city/nyc/
+URL:https://pioneerworks.org/programs/ksiezyc
+END:VEVENT
+BEGIN:VEVENT
+UID:c12483ed93c36e6fa37ad45442b4702a5a547156@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T180000Z
+DTEND:20261206T200000Z
+SUMMARY:American Sign Language (ASL) Tour of There's no me without you
+LOCATION:Pioneer Works\, 159 Pioneer St\, Brooklyn\, NY 11231
+DESCRIPTION:Doors 12pm\nhttps://pioneerworks.org/programs/ASL-tour-of-there
+ -s-no-me-without-you\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://pioneerworks.org/programs/ASL-tour-of-there-s-no-me-without-you
+END:VEVENT
+BEGIN:VEVENT
+UID:6c00968a4f2f0d8d0144acb140711ff19e32e82f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T170000Z
+DTEND:20261212T190000Z
+SUMMARY:Press Play 2026
+LOCATION:Pioneer Works\, 159 Pioneer St\, Brooklyn\, NY 11231
+DESCRIPTION:https://pioneerworks.org/programs/press-play-2026\nFrom Pushpin
+  NYC: https://pushpin.city/nyc/
+URL:https://pioneerworks.org/programs/press-play-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:385c69822ff0ca64677991b85e90deb5e8e46d88@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261216T230000Z
+DTEND:20261217T010000Z
+SUMMARY:Supper Club with Chama Mama
+LOCATION:Pioneer Works\, 159 Pioneer St\, Brooklyn\, NY 11231
+DESCRIPTION:https://pioneerworks.org/programs/supper-club-with-chama-mama\n
+ From Pushpin NYC: https://pushpin.city/nyc/
+URL:https://pioneerworks.org/programs/supper-club-with-chama-mama
+END:VEVENT
+BEGIN:VEVENT
+UID:f089cb2f83ecc187db0a52af71c57584413b1a9e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:3ETV
+LOCATION:Pioneer Works\, 159 Pioneer St\, Brooklyn\, NY 11231
+DESCRIPTION:https://pioneerworks.org/programs/3etv\nFrom Pushpin NYC: https
+ ://pushpin.city/nyc/
+URL:https://pioneerworks.org/programs/3etv
+END:VEVENT
+BEGIN:VEVENT
+UID:195553ba1ef2fa286b8fa7ac7ec8f67932ba22be@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:Son Lux with Samora Pinderhughes\, Holland Andrews\, mmeadows\, Vin
+ es
+LOCATION:Pioneer Works\, 159 Pioneer St\, Brooklyn\, NY 11231
+DESCRIPTION:Doors 7pm\nhttps://pioneerworks.org/programs/son-lux\nFrom Push
+ pin NYC: https://pushpin.city/nyc/
+URL:https://pioneerworks.org/programs/son-lux
+END:VEVENT
+BEGIN:VEVENT
+UID:0729ea8cfef9e99b756d6aa0830ed495a7756612@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270207T010000Z
+DTEND:20270207T030000Z
+SUMMARY:Tara Clerkin Trio
+LOCATION:Pioneer Works\, 159 Pioneer St\, Brooklyn\, NY 11231
+DESCRIPTION:Doors 7pm\nhttps://pioneerworks.org/programs/tara-clerkin-trio\
+ nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://pioneerworks.org/programs/tara-clerkin-trio
+END:VEVENT
+END:VCALENDAR

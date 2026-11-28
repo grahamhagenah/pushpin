@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e317c056bd2e7d3bd9861007055254eec6784691@pushpin.city
+DTSTAMP:20270206T000000Z
+DTSTART:20270207T020000Z
+DTEND:20270207T040000Z
+SUMMARY:Kabir Sen & The Krush Factory
+LOCATION:Lizard Lounge\, 1667 Massachusetts Ave\, Cambridge\, MA 02138
+DESCRIPTION:https://lizardloungeclub.com/event/mc-kabir-with-krush-factory-
+ 23/
+URL:https://lizardloungeclub.com/event/mc-kabir-with-krush-factory-23/
+END:VEVENT
+END:VCALENDAR

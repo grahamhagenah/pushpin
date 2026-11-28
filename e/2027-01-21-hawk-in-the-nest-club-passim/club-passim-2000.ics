@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:01123965ad9863355864e9d5996701093fed5081@pushpin.city
+DTSTAMP:20270121T000000Z
+DTSTART:20270122T010000Z
+DTEND:20270122T030000Z
+SUMMARY:Hawk In The Nest
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/hawk-in-the-nest/
+URL:https://www.passim.org/live-music/events/hawk-in-the-nest/
+END:VEVENT
+END:VCALENDAR

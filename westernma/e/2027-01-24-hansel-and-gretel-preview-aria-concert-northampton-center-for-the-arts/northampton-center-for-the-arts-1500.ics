@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab438d05814694f47ece257f0667939668a73094@pushpin.city
+DTSTAMP:20270124T000000Z
+DTSTART:20270124T200000Z
+DTEND:20270124T220000Z
+SUMMARY:Hansel and Gretel Preview & Aria Concert
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/hansel-and-gretel
+URL:https://www.nohoarts.org/hansel-and-gretel
+END:VEVENT
+END:VCALENDAR

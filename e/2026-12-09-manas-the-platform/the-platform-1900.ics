@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:906ec114cc36445eb4ec77d244f4f8cd09caa83f@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:MANAS
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/manas/
+URL:https://www.theplatformkendall.org/productions/manas/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a0db61ba9497d3e2b67093926b4c41ca586d78c8@pushpin.city
+DTSTAMP:20270221T000000Z
+DTSTART:20270221T220000Z
+DTEND:20270222T000000Z
+SUMMARY:Masters of Hawaiian Music
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/masters-of-hawaiian-mu
+ sic/
+URL:https://www.passim.org/live-music/events/masters-of-hawaiian-music/
+END:VEVENT
+END:VCALENDAR

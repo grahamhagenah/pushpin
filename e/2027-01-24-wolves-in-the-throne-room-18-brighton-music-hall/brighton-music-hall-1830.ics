@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:272874b49ca264fe466b7169f356b5e4e999cbef@pushpin.city
+DTSTAMP:20270124T000000Z
+DTSTART:20270124T233000Z
+DTEND:20270125T013000Z
+SUMMARY:Wolves In The Throne Room (18+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/wolves-in-the-throne-room-18-bosto
+ n-massachusetts-01-24-2027/event/0100653CF4C9C396
+URL:https://www.ticketmaster.com/wolves-in-the-throne-room-18-boston-massac
+ husetts-01-24-2027/event/0100653CF4C9C396
+END:VEVENT
+END:VCALENDAR

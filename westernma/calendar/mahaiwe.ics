@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Mahaiwe
+X-WR-CALDESC:What’s coming up at Mahaiwe\, from Pushpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:d0d9266581eca1dab9fd4c10b658b413caed50f0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:The Wizard of Oz (1939)
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$8 / $5 ages 12 and under (plus processing fees)\nhttps://mahai
+ we.org/event/the-wizard-of-oz-1939-4/\nFrom Pushpin Western Mass: https://
+ pushpin.city/westernma/
+URL:https://mahaiwe.org/event/the-wizard-of-oz-1939-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:8cd68ee9ef8ea464dc2f7cda45fd060a71750390@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T223000Z
+DTEND:20261204T003000Z
+SUMMARY:Scott Eyerly’s Virtual Met Opera Lecture: Saint-Saëns's Samson e
+ t Dalila
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:FREE\nhttps://mahaiwe.org/event/scott-eyerlys-virtual-met-opera
+ -lecture-verdis-macbeth-duplicate-1/\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://mahaiwe.org/event/scott-eyerlys-virtual-met-opera-lecture-verdi
+ s-macbeth-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:910255d30eb19da67b014e232863f514251effd3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:Richard Marx
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$49 – $99 (plus processing fees)\nhttps://mahaiwe.org/event/r
+ ichard-marx/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/richard-marx/
+END:VEVENT
+BEGIN:VEVENT
+UID:a90c1ad6c4beb9c24cfef4f94b46f953e6383f8c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Chris Thile and Aoife O’Donovan - Wassail! An Evening of Carols a
+ nd Merriment
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$65 – $99 (plus processing fees)\nhttps://mahaiwe.org/event/c
+ hris-thile-and-aoife-odonovan-wassail-an-evening-of-carols-and-merriment/\
+ nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/chris-thile-and-aoife-odonovan-wassail-an-eve
+ ning-of-carols-and-merriment/
+END:VEVENT
+BEGIN:VEVENT
+UID:503ae49650b16281402b4d33c16ab5240c37f6e6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T180000Z
+DTEND:20261206T200000Z
+SUMMARY:Met Opera Live in HD: Saint-Saëns’s Samson et Dalila
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$25 / $10 ages 21 and under (plus processing fees)\nhttps://mah
+ aiwe.org/event/met-opera-live-in-hd-saint-saenss-samson-et-dalila/\nFrom P
+ ushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/met-opera-live-in-hd-saint-saenss-samson-et-d
+ alila/
+END:VEVENT
+BEGIN:VEVENT
+UID:7f0f1809c87e228cab070ce6741eaf62fe4d8f8f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T210000Z
+DTEND:20261212T230000Z
+SUMMARY:Olaf’s Frozen Adventure (2017)
+LOCATION:Mahaiwe\, 20 Castle Street\, Great Barrington\, MA
+DESCRIPTION:Indigo Room\nFREE\, No reservations required\nhttps://mahaiwe.o
+ rg/event/olafs-frozen-adventure-2017-2/\nFrom Pushpin Western Mass: https:
+ //pushpin.city/westernma/
+URL:https://mahaiwe.org/event/olafs-frozen-adventure-2017-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:62b14c91960b7e8eafc5388c062db1174a46d561@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T210000Z
+DTEND:20261213T230000Z
+SUMMARY:Close Encounters With Music: Come to the Cabaret! Paris and Weimar 
+ Berlin
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$35 Balcony / $60 Orchestra (plus processing fees)\nhttps://mah
+ aiwe.org/event/close-encounters-with-music-come-to-the-cabaret-paris-and-w
+ eimar-berlin/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/close-encounters-with-music-come-to-the-cabar
+ et-paris-and-weimar-berlin/
+END:VEVENT
+BEGIN:VEVENT
+UID:0bfa93e489bdf980d16891d3cd82dc993bc7d27a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T000000Z
+DTEND:20261219T020000Z
+SUMMARY:It’s a Wonderful Life (1946)
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:FREE\, No reservations required\nhttps://mahaiwe.org/event/its-
+ a-wonderful-life-1946-5/\nFrom Pushpin Western Mass: https://pushpin.city/
+ westernma/
+URL:https://mahaiwe.org/event/its-a-wonderful-life-1946-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:94ac01be0ffee46e17b1511fa8b610841cf4dfd8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T010000Z
+DTEND:20261220T030000Z
+SUMMARY:John Pizzarelli Trio with Jessica Molaskey – The Glory of Love: M
+ arried to Jazz
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$55 – $95 (plus processing fees)\nhttps://mahaiwe.org/event/j
+ ohn-pizzarelli-trio-with-jessica-molaskey-the-glory-of-love-married-to-jaz
+ z/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/john-pizzarelli-trio-with-jessica-molaskey-th
+ e-glory-of-love-married-to-jazz/
+END:VEVENT
+BEGIN:VEVENT
+UID:8925c6803a281443e0208ea22127e04404693521@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261231T230000Z
+DTEND:20270101T010000Z
+SUMMARY:Berkshire Bach Society presents: Bach at New Year’s - A Joyful No
+ ise
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$60 – $90 (plus processing fees)\nhttps://mahaiwe.org/event/b
+ erkshire-bach-society-presents-bach-at-new-years-a-joyful-noise/\nFrom Pus
+ hpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/berkshire-bach-society-presents-bach-at-new-y
+ ears-a-joyful-noise/
+END:VEVENT
+BEGIN:VEVENT
+UID:9595ece16c631a4252b71e7c7e6d081eef21f77a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270121T223000Z
+DTEND:20270122T003000Z
+SUMMARY:Scott Eyerly’s Virtual Met Opera Lecture: Puccini's La Fanciulla 
+ Del West
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:FREE\nhttps://mahaiwe.org/event/scott-eyerlys-virtual-met-opera
+ -lecture-saint-saenss-samson-et-delila-duplicate-1/\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/scott-eyerlys-virtual-met-opera-lecture-saint
+ -saenss-samson-et-delila-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:99837ab978b4b2e4fd9ec7a49aaec907d4189347@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270131T010000Z
+DTEND:20270131T030000Z
+SUMMARY:DakhaBrakha
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:$39 – $59 (plus processing fees)\nhttps://mahaiwe.org/event/d
+ akhabrakha/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/dakhabrakha/
+END:VEVENT
+BEGIN:VEVENT
+UID:4765b37954e1c61c5ec675de9d130e4d7ab7bfee@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270220T223000Z
+DTEND:20270221T003000Z
+SUMMARY:Dom Flemons
+LOCATION:Mahaiwe\, 20 Castle Street\, Great Barrington\, MA
+DESCRIPTION:Times: 5:30pm\, 8:30pm\nIndigo Room\n$42 General Admission (plu
+ s processing fees)\nhttps://mahaiwe.org/event/dom-flemons/2027-02-20/1/\nF
+ rom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/dom-flemons/2027-02-20/1/
+END:VEVENT
+END:VCALENDAR

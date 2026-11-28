@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:74d2840f5113fe53ca4ce57a5bcddc8dbaa32d62@pushpin.city
+DTSTAMP:20261227T000000Z
+DTSTART:20261227T175000Z
+DTEND:20261227T195000Z
+SUMMARY:The Hudsucker Proxy
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999001225-the-hudsucker-proxy/
+URL:https://metrograph.com/film/9999001225-the-hudsucker-proxy/
+END:VEVENT
+END:VCALENDAR

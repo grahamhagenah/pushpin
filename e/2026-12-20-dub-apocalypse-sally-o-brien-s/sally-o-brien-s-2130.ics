@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1620811ee325b384b1b9bd791aaf6c3a9a35e5cf@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261221T023000Z
+DTEND:20261221T043000Z
+SUMMARY:Dub Apocalypse
+LOCATION:Sally O'Brien's\, 335 Somerville Ave\, Somerville\, MA 02143
+DESCRIPTION:https://www.sallyobriensbar.com/music/
+URL:https://www.sallyobriensbar.com/music/
+END:VEVENT
+END:VCALENDAR

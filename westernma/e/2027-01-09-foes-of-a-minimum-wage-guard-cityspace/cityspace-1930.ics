@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f806031fce3b6b95522afc565bf02bc5f8c98b42@pushpin.city
+DTSTAMP:20270109T000000Z
+DTSTART:20270110T003000Z
+DTEND:20270110T023000Z
+SUMMARY:Foes of a Minimum Wage Guard
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:https://tickets.venuepilot.com/e/cityspace-presents-foes-of-a-m
+ inimum-wage-guard-2027-01-09-cityspace-easthampton-ff3ff2
+URL:https://tickets.venuepilot.com/e/cityspace-presents-foes-of-a-minimum-w
+ age-guard-2027-01-09-cityspace-easthampton-ff3ff2
+END:VEVENT
+END:VCALENDAR

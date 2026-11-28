@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3892bd8ea67c4555fdaa72a301fbfa03731cce88@pushpin.city
+DTSTAMP:20270115T000000Z
+DTSTART:20270116T010000Z
+DTEND:20270116T030000Z
+SUMMARY:Night Zero
+LOCATION:Stone Church\, 210 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://tickets.venuepilot.com/e/night-zero-2027-01-15-stone-ch
+ urch-brattleboro-114f16
+URL:https://tickets.venuepilot.com/e/night-zero-2027-01-15-stone-church-bra
+ ttleboro-114f16
+END:VEVENT
+END:VCALENDAR

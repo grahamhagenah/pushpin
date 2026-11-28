@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5d489ace5c477f5018142c389d4be2f60ef718f0@pushpin.city
+DTSTAMP:20270204T000000Z
+DTSTART:20270205T003000Z
+DTEND:20270205T023000Z
+SUMMARY:Commercial Dance BFA Concert
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:https://bostonconservatory.berklee.edu/events/02-04-commercial-
+ dance-bfa-concert
+URL:https://bostonconservatory.berklee.edu/events/02-04-commercial-dance-bf
+ a-concert
+END:VEVENT
+END:VCALENDAR

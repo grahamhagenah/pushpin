@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f3bae6c21745b4d42c12235f89767c8e3edf7d45@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261219T180000Z
+DTEND:20261219T200000Z
+SUMMARY:Saturday Afternoon Cartoons: That Frosty Holiday
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005146-saturday-afternoon-carto
+ ons-that-frosty-holiday/
+URL:https://metrograph.com/film/9999005146-saturday-afternoon-cartoons-that
+ -frosty-holiday/
+END:VEVENT
+END:VCALENDAR

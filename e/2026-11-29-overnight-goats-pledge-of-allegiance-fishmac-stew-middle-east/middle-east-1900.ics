@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:18a29a766cfdadf8c1f6cbe2bcb52809128faf60@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:Overnight Goats\, Pledge Of Allegiance\, FishMac Stew
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/overnight-goats-pledge-of-alleg
+ iance-middle-east-upstairs-tickets/15075753?pl=mideastclub&REFID=clientsit
+ ewp
+URL:https://www.ticketweb.com/event/overnight-goats-pledge-of-allegiance-mi
+ ddle-east-upstairs-tickets/15075753?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

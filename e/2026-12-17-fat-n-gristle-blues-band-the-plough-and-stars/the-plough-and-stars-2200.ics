@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:934015f73b5d99eff954f7deaf362b53b3b371dd@pushpin.city
+DTSTAMP:20261217T000000Z
+DTSTART:20261218T030000Z
+DTEND:20261218T050000Z
+SUMMARY:Fat n’ Gristle Blues Band
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+END:VCALENDAR

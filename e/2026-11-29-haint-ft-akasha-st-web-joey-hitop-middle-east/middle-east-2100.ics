@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5b7d68d4af9ab05835c3ed4a4007099bb64630a0@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261130T020000Z
+DTEND:20261130T040000Z
+SUMMARY:Haint ft. Akasha St. Web\, joey Hitop
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/haint-ft-akasha-st-web-middle-e
+ ast-zuzu-tickets/14441404?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/haint-ft-akasha-st-web-middle-east-zuzu
+ -tickets/14441404?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

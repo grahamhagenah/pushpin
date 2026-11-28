@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:21f9d2fdc3e393121f1f6517d6d1932db5820cba@pushpin.city
+DTSTAMP:20270131T000000Z
+DTSTART:20270131T163000Z
+DTEND:20270131T183000Z
+SUMMARY:The Honey Steelers Brunch!
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1707
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1707
+END:VEVENT
+END:VCALENDAR

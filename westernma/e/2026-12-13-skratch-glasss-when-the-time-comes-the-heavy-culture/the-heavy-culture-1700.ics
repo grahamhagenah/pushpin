@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:79472cb186431afb1685fc6a67d1911065e3a3b1@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T220000Z
+DTEND:20261214T000000Z
+SUMMARY:Skratch / Glasss / When The Time Comes
+LOCATION:The Heavy Culture\, 1 Northampton St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.theheavyculture.coop/event-details-registration/skr
+ atch-glasss-when-the-time-comes
+URL:https://www.theheavyculture.coop/event-details-registration/skratch-gla
+ sss-when-the-time-comes
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:31514f0c359af2b4f818df665dcad63d39579333@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261207T000000Z
+DTEND:20261207T020000Z
+SUMMARY:Syd: Beard Tour
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/syd-beard-tour-boston-massachusett
+ s-12-06-2026/event/0100652B9C3BCB1B
+URL:https://www.ticketmaster.com/syd-beard-tour-boston-massachusetts-12-06-
+ 2026/event/0100652B9C3BCB1B
+END:VEVENT
+END:VCALENDAR

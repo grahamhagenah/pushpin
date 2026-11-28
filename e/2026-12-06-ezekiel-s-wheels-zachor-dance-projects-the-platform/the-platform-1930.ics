@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a9e342baf37e22c4900723000f9d792f66af0fc6@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261207T003000Z
+DTEND:20261207T023000Z
+SUMMARY:Ezekiel's Wheels & ZACHOR Dance Projects
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/ezekiels-wheels-
+ linsky-fy27/
+URL:https://www.theplatformkendall.org/productions/ezekiels-wheels-linsky-f
+ y27/
+END:VEVENT
+END:VCALENDAR

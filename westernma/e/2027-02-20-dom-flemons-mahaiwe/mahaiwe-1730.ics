@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ff6c9e360c2c1647730f3384f0947bb1ae9edbb6@pushpin.city
+DTSTAMP:20270220T000000Z
+DTSTART:20270220T223000Z
+DTEND:20270221T003000Z
+SUMMARY:Dom Flemons
+LOCATION:Mahaiwe\, 20 Castle Street\, Great Barrington\, MA
+DESCRIPTION:https://mahaiwe.org/event/dom-flemons/2027-02-20/1/
+URL:https://mahaiwe.org/event/dom-flemons/2027-02-20/1/
+END:VEVENT
+END:VCALENDAR

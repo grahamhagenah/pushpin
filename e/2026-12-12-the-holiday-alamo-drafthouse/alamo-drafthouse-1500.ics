@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8f2ebd0520035cb33de1b908fb186bf195addf30@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T200000Z
+DTEND:20261212T220000Z
+SUMMARY:The Holiday
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/special-event-the-holiday-20
+ th-anniversary
+URL:https://drafthouse.com/boston/show/special-event-the-holiday-20th-anniv
+ ersary
+END:VEVENT
+END:VCALENDAR

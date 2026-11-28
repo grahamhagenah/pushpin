@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8d01cbd9c3801a1c016eb3910b0921fb9f8bc536@pushpin.city
+DTSTAMP:20270218T000000Z
+DTSTART:20270219T010000Z
+DTEND:20270219T030000Z
+SUMMARY:Damir Imamovic
+LOCATION:Crystal Ballroom\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.ticketmaster.com/damir-imamovic-somerville-massachu
+ setts-02-18-2027/event/0100653BAEA5B4DF
+URL:https://www.ticketmaster.com/damir-imamovic-somerville-massachusetts-02
+ -18-2027/event/0100653BAEA5B4DF
+END:VEVENT
+END:VCALENDAR

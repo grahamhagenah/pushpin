@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:55c06d24aaec8d3ef9e5e3ae2a5b272ff8ad6f98@pushpin.city
+DTSTAMP:20270210T000000Z
+DTSTART:20270210T220000Z
+DTEND:20270211T000000Z
+SUMMARY:On the Calculation of Volume (Book II)
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:https://massmoca.org/event/on-the-calculation-of-volume-book-ii
+ book-talk-with-lizzie-whitman/
+URL:https://massmoca.org/event/on-the-calculation-of-volume-book-iibook-tal
+ k-with-lizzie-whitman/
+END:VEVENT
+END:VCALENDAR

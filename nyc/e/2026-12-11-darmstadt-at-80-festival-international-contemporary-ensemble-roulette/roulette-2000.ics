@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4bed1612f0b8dc53f88ff41d7c6347f8ecc1b2e2@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T010000Z
+DTEND:20261212T030000Z
+SUMMARY:Darmstadt at 80 Festival: International Contemporary Ensemble x Tri
+ -Centric plays Anthony Braxton’s Thunder Music // GBSR Duo plays Stockha
+ usen’s Kontakte
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/darmstadt-at-80-international-contem
+ porary-ensemble-x-tri-centric-anthony-braxtons-thunder-music/
+URL:https://roulette.org/event/darmstadt-at-80-international-contemporary-e
+ nsemble-x-tri-centric-anthony-braxtons-thunder-music/
+END:VEVENT
+END:VCALENDAR

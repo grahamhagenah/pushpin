@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:da69c1510ce7fa00bca9c1d05eb35f460fed202d@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T190000Z
+DTEND:20261213T210000Z
+SUMMARY:Spirit of Springfield - Free Holiday Concert
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:https://www.symphonyhallspringfield.com/events/detail/spirit-of
+ -springfield-free-holiday-concert
+URL:https://www.symphonyhallspringfield.com/events/detail/spirit-of-springf
+ ield-free-holiday-concert
+END:VEVENT
+END:VCALENDAR

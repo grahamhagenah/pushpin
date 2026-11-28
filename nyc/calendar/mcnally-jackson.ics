@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · McNally Jackson
+X-WR-CALDESC:What’s coming up at McNally Jackson\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:e8a4139c9adad22cdb766077734b7ed6379fb4ae@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:Daisy Garrison & Cat Cohen
+LOCATION:McNally Jackson\, 4 Fulton Street\, New York\, NY 10038
+DESCRIPTION:Seaport\nJoin us for an evening launching Tommy from the Moon\,
+  by Daisy Garrison\, in conversation with Cat Cohen. The evening will feat
+ ure a reading of the novel by audiobook narrator\, Helen Laser. A romant..
+ .\nhttps://mcnallyjackson.com/event/2026-12-01/daisy-garrison-cat-cohen\nF
+ rom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://mcnallyjackson.com/event/2026-12-01/daisy-garrison-cat-cohen
+END:VEVENT
+BEGIN:VEVENT
+UID:87b9bb35494722c622eaa28965eddeb99e420544@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Robbie Whelan & Ben Smith
+LOCATION:McNally Jackson\, 4 Fulton Street\, New York\, NY 10038
+DESCRIPTION:Seaport\nVeteran Wall Street Journal reporter Robbie Whelan tak
+ es us inside Bob Iger’s reign over the Walt Disney Company\, replete wit
+ h palace intrigue\, shareholder revolts\, out-of-control egos\, and wild..
+ .\nhttps://mcnallyjackson.com/event/2026-12-02/robbie-whelan-ben-smith\nFr
+ om Pushpin NYC: https://pushpin.city/nyc/
+URL:https://mcnallyjackson.com/event/2026-12-02/robbie-whelan-ben-smith
+END:VEVENT
+BEGIN:VEVENT
+UID:58fb95e0f8ad534c8aa1e80914852473ce801978@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:The Story of the Body: Launch Party and Reading
+LOCATION:McNally Jackson\, 4 Fulton Street\, New York\, NY 10038
+DESCRIPTION:Seaport\nJoin The Yale Review and W. W. Norton to celebrate the
+  publication of The Story of the Body: Poems of Illness and Recovery\, a n
+ ew anthology edited by Meghan O'Rourke. O'Rourke will b...\nhttps://mcnall
+ yjackson.com/event/2026-12-03/story-body-launch-party-and-reading\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://mcnallyjackson.com/event/2026-12-03/story-body-launch-party-and
+ -reading
+END:VEVENT
+END:VCALENDAR

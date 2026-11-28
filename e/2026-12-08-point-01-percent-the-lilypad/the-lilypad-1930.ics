@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d40676920f59ab2a2ef252d7867284ff270ea430@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261209T003000Z
+DTEND:20261209T023000Z
+SUMMARY:Point 01 Percent
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/point-01-percent-decembe
+ r
+URL:https://www.lilypadinman.com/home/2026/point-01-percent-december
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9e13ceb0b566052dfbcedda0e333bc373611ad9d@pushpin.city
+DTSTAMP:20270121T000000Z
+DTSTART:20270121T223000Z
+DTEND:20270122T003000Z
+SUMMARY:Scott Eyerly’s Virtual Met Opera Lecture: Puccini's La Fanciulla 
+ Del West
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:https://mahaiwe.org/event/scott-eyerlys-virtual-met-opera-lectu
+ re-saint-saenss-samson-et-delila-duplicate-1/
+URL:https://mahaiwe.org/event/scott-eyerlys-virtual-met-opera-lecture-saint
+ -saenss-samson-et-delila-duplicate-1/
+END:VEVENT
+END:VCALENDAR

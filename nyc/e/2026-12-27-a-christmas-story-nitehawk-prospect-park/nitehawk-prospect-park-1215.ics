@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5731e06fda085f5c3e7e22abac4551ae6522d967@pushpin.city
+DTSTAMP:20261227T000000Z
+DTSTART:20261227T171500Z
+DTEND:20261227T191500Z
+SUMMARY:A Christmas Story
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/a-christmas-stor
+ y/
+URL:https://nitehawkcinema.com/prospectpark/movies/a-christmas-story/
+END:VEVENT
+END:VCALENDAR

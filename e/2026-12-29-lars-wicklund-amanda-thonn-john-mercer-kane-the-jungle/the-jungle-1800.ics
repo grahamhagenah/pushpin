@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eb73d2110add04638f1935fd93e75267537eab87@pushpin.city
+DTSTAMP:20261229T000000Z
+DTSTART:20261229T230000Z
+DTEND:20261230T010000Z
+SUMMARY:Lars Wicklund\, Amanda Thonn\, JOHN MERCER KANE
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/lars-wicklund-amanda-thonn-john-me
+ rcer-kane-tickets-2005321907808
+URL:https://www.eventbrite.com/e/lars-wicklund-amanda-thonn-john-mercer-kan
+ e-tickets-2005321907808
+END:VEVENT
+END:VCALENDAR

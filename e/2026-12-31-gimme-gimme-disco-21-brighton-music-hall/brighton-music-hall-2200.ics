@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9c9c5773882f2d00bde81059f1bf9bfb55b30d3a@pushpin.city
+DTSTAMP:20261231T000000Z
+DTSTART:20270101T030000Z
+DTEND:20270101T050000Z
+SUMMARY:Gimme Gimme Disco (21+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/gimme-gimme-disco-21-boston-massac
+ husetts-12-31-2026/event/0100655CCF75B6D1
+URL:https://www.ticketmaster.com/gimme-gimme-disco-21-boston-massachusetts-
+ 12-31-2026/event/0100655CCF75B6D1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6b88f6fe26aa92c356ca42e42c7a41fa2087d06b@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261211T221500Z
+DTEND:20261212T001500Z
+SUMMARY:Rex: A Dinosaur's Story
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005128-rex-a-dinosaurs-story/
+URL:https://metrograph.com/film/9999005128-rex-a-dinosaurs-story/
+END:VEVENT
+END:VCALENDAR

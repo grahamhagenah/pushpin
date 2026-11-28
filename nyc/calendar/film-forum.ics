@@ -1,0 +1,585 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Film Forum
+X-WR-CALDESC:What’s coming up at Film Forum\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:fe64f670223e2e84e383231b5bfa73568481e8f8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T171500Z
+DTEND:20261128T191500Z
+SUMMARY:All of a Sudden
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 12:15pm\, 2:30pm\, 6:30pm\nhttps://filmforum.org/film/al
+ l-of-a-sudden\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/all-of-a-sudden
+END:VEVENT
+BEGIN:VEVENT
+UID:d6b6ed0db11da984a55496c0f789ffba17741626@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T172000Z
+DTEND:20261128T192000Z
+SUMMARY:Paisan
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/paisan-rossellini-120\nFrom Pushpin 
+ NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/paisan-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:144a92c03edeb5913d57aff9b1a3079bcc3da500@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T173000Z
+DTEND:20261128T193000Z
+SUMMARY:Fatherland
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 12:30pm\, 4pm\, 8:15pm\nhttps://filmforum.org/film/fathe
+ rland\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/fatherland
+END:VEVENT
+BEGIN:VEVENT
+UID:9dc510bc41cf6376a4926184742f541980edf3d9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T183000Z
+DTEND:20261128T203000Z
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 1:30pm\, 6pm\nhttps://filmforum.org/film/once-upon-a-tim
+ e-in-harlem\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/once-upon-a-time-in-harlem
+END:VEVENT
+BEGIN:VEVENT
+UID:52addd0051c25da4df1fe3e314fbecb3be77bb9c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T201000Z
+DTEND:20261128T221000Z
+SUMMARY:General Della Rovere
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/general-della-rovere-rossellini-120\
+ nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/general-della-rovere-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:a4345807b9cd1b53a501614b44889d2ff0359891@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T211000Z
+DTEND:20261128T231000Z
+SUMMARY:Raise the Red Lantern
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 4:10pm\, 6:50pm\nhttps://filmforum.org/film/raise-the-re
+ d-lantern\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/raise-the-red-lantern
+END:VEVENT
+BEGIN:VEVENT
+UID:119ba23e9da415bc5ae64ea0cca3c4c09e88c089@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T225000Z
+DTEND:20261129T005000Z
+SUMMARY:Rome\, Open City
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/rome-open-city-rossellini-120\nFrom 
+ Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/rome-open-city-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:f971fa486efff3968eb66712d93804b9921d2d4e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T011000Z
+DTEND:20261129T031000Z
+SUMMARY:Europa '51
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/europa-51-rossellini-120\nFrom Pushp
+ in NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/europa-51-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:d082c82e28ead8a000032665863bf5128666c795@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:Pinocchio
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/pinocchio-ffjr-2026\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/pinocchio-ffjr-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:1843df7f90273809cd6fd69ad6aacf49f2a27fe9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T171500Z
+DTEND:20261129T191500Z
+SUMMARY:All of a Sudden
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 12:15pm\, 2:30pm\, 6:30pm\nhttps://filmforum.org/film/al
+ l-of-a-sudden\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/all-of-a-sudden
+END:VEVENT
+BEGIN:VEVENT
+UID:27ce132136639a745c5f96bf64734882247e8f69@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Fatherland
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 12:30pm\, 4pm\, 8:15pm\nhttps://filmforum.org/film/fathe
+ rland\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/fatherland
+END:VEVENT
+BEGIN:VEVENT
+UID:8a5fcd939ec29e18771e0ce8288a3cb09d0d7c54@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:Rome\, Open City
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/rome-open-city-rossellini-120\nFrom 
+ Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/rome-open-city-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:c9f160e3bf91c422fbd5c09e2f23d8c9e396389f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T183000Z
+DTEND:20261129T203000Z
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 1:30pm\, 6pm\nhttps://filmforum.org/film/once-upon-a-tim
+ e-in-harlem\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/once-upon-a-time-in-harlem
+END:VEVENT
+BEGIN:VEVENT
+UID:14ed770ccbcdf493575da6a398785e11c89447c7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T203000Z
+DTEND:20261129T223000Z
+SUMMARY:When Caesar Was King The comedy genius of Sid Caesar
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/when-caesar-was-king-2026\nFrom Push
+ pin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/when-caesar-was-king-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:0e286c454303f350690c181a27d8d2117365e79f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T211000Z
+DTEND:20261129T231000Z
+SUMMARY:Raise the Red Lantern
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 4:10pm\, 6:50pm\nhttps://filmforum.org/film/raise-the-re
+ d-lantern\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/raise-the-red-lantern
+END:VEVENT
+BEGIN:VEVENT
+UID:77613c76623b020af072dadbb22332188ab53818@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T225000Z
+DTEND:20261130T005000Z
+SUMMARY:Paisan
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/paisan-rossellini-120\nFrom Pushpin 
+ NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/paisan-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:3115ec9b1dee2a321297f9548a94059d278c1766@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T013000Z
+DTEND:20261130T033000Z
+SUMMARY:Voyage to Italy
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/voyage-to-italy-rossellini-120\nFrom
+  Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/voyage-to-italy-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:fddeff3e07a106d4e0be60599e1c900caf0ccfab@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T171500Z
+DTEND:20261130T191500Z
+SUMMARY:All of a Sudden
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 12:15pm\, 4:10pm\nhttps://filmforum.org/film/all-of-a-su
+ dden\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/all-of-a-sudden
+END:VEVENT
+BEGIN:VEVENT
+UID:7d7722529520b69462175275f52d1e9e2bce6d34@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T172000Z
+DTEND:20261130T192000Z
+SUMMARY:L'Amore
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/lamore-rossellini-120\nFrom Pushpin 
+ NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/lamore-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:457b404e8302195ea14382714ba57836048ec3d6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T180000Z
+DTEND:20261130T200000Z
+SUMMARY:Raise the Red Lantern
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 1pm\, 3:40pm\, 8:10pm\nhttps://filmforum.org/film/raise-
+ the-red-lantern\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/raise-the-red-lantern
+END:VEVENT
+BEGIN:VEVENT
+UID:2155f3ba6852c168e5062236bde15189f90d119d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T183000Z
+DTEND:20261130T203000Z
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 1:30pm\, 6pm\nhttps://filmforum.org/film/once-upon-a-tim
+ e-in-harlem\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/once-upon-a-time-in-harlem
+END:VEVENT
+BEGIN:VEVENT
+UID:57a6a75c926e2a8d48a6ac3e8729ea27dba99b0f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T191000Z
+DTEND:20261130T211000Z
+SUMMARY:Rome\, Open City
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/rome-open-city-rossellini-120\nFrom 
+ Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/rome-open-city-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:54a8a7679991d728ab0e30fbdd59ce5e22942b4e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T210000Z
+DTEND:20261130T230000Z
+SUMMARY:Fatherland
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 4pm\, 8:15pm\nhttps://filmforum.org/film/fatherland\nFro
+ m Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/fatherland
+END:VEVENT
+BEGIN:VEVENT
+UID:9ea1ce9cc456fcad71a054a1f4fd59051d8ac3ef@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T212000Z
+DTEND:20261130T232000Z
+SUMMARY:Germany\, Year Zero
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/germany-year-zero-rossellini-120\nFr
+ om Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/germany-year-zero-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:52b619c3509f728ae39bbd63ded9da6b42d917aa@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T230000Z
+DTEND:20261201T010000Z
+SUMMARY:The Marriage Circle
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/the-marriage-circle-silent-lubitsch\
+ nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/the-marriage-circle-silent-lubitsch
+END:VEVENT
+BEGIN:VEVENT
+UID:f47026052fa1f7011bcc52a9cb0d1f25c0a72f3e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T010000Z
+DTEND:20261201T030000Z
+SUMMARY:Stromboli
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/stromboli-rossellini-120\nFrom Pushp
+ in NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/stromboli-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:54178f677882f82475a085d4c1c3151566c91c8e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T171500Z
+DTEND:20261201T191500Z
+SUMMARY:All of a Sudden
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 12:15pm\, 4:10pm\, 6:30pm\nhttps://filmforum.org/film/al
+ l-of-a-sudden\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/all-of-a-sudden
+END:VEVENT
+BEGIN:VEVENT
+UID:b5df2db8c6cecbd767fe925e748c89699f8b7013@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T172000Z
+DTEND:20261201T192000Z
+SUMMARY:The Flowers of ST. Francis
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 12:20pm\, 8:10pm\nhttps://filmforum.org/film/the-flowers
+ -of-st-francis-rossellini-120\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/the-flowers-of-st-francis-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:33da7b67007b18657f925898d12f2012472c3d4a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T180000Z
+DTEND:20261201T200000Z
+SUMMARY:Raise the Red Lantern
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 1pm\, 3:40pm\, 8:10pm\nhttps://filmforum.org/film/raise-
+ the-red-lantern\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/raise-the-red-lantern
+END:VEVENT
+BEGIN:VEVENT
+UID:3a848c08053e66804fb5317491e0bc8d0bdbe45a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T183000Z
+DTEND:20261201T203000Z
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 1:30pm\, 6pm\nhttps://filmforum.org/film/once-upon-a-tim
+ e-in-harlem\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/once-upon-a-time-in-harlem
+END:VEVENT
+BEGIN:VEVENT
+UID:c0b2917070172f0c4e7a449c5660c8aaa5a717ef@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T192000Z
+DTEND:20261201T212000Z
+SUMMARY:L'Amore
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/lamore-rossellini-120\nFrom Pushpin 
+ NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/lamore-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:5f28f22e7c0d043fb2d1e93a3d2c557ae44461e0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T210000Z
+DTEND:20261201T230000Z
+SUMMARY:Fatherland
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 4pm\, 8:15pm\nhttps://filmforum.org/film/fatherland\nFro
+ m Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/fatherland
+END:VEVENT
+BEGIN:VEVENT
+UID:249da672bbcb9aea67de59c6ab7c9e22eaec7c7f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T211000Z
+DTEND:20261201T231000Z
+SUMMARY:Les Carabiniers
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/les-carabiniers-rossellini-120\nFrom
+  Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/les-carabiniers-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:4522b14a63bb957f0a7956b8cbdc13d307adb998@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T230000Z
+DTEND:20261202T010000Z
+SUMMARY:The Rossellinis
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/the-rossellinis-rossellini-120\nFrom
+  Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/the-rossellinis-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:73f2346c25ac7d49f39eabb20207434a71080e4c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T171500Z
+DTEND:20261202T191500Z
+SUMMARY:All of a Sudden
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 12:15pm\, 4:10pm\, 6:30pm\nhttps://filmforum.org/film/al
+ l-of-a-sudden\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/all-of-a-sudden
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4c3d5146c8cb301a7f390c256e009f43cd6043@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T172000Z
+DTEND:20261202T192000Z
+SUMMARY:Dov’è LA Libertà?
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/dove-la-liberta-rossellini-120\nFrom
+  Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/dove-la-liberta-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:4cec11dcc82689aa17d01ae3e87e96d8c4178014@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T180000Z
+DTEND:20261202T200000Z
+SUMMARY:Raise the Red Lantern
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 1pm\, 3:40pm\, 8:10pm\nhttps://filmforum.org/film/raise-
+ the-red-lantern\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/raise-the-red-lantern
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad8cda008a7de7345401f2b100d780d46501e7d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T183000Z
+DTEND:20261202T203000Z
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 1:30pm\, 6pm\nhttps://filmforum.org/film/once-upon-a-tim
+ e-in-harlem\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/once-upon-a-time-in-harlem
+END:VEVENT
+BEGIN:VEVENT
+UID:b29337d1591fee69eba970fbd65a22957ac70a53@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T192000Z
+DTEND:20261202T212000Z
+SUMMARY:Rome\, Open City
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/rome-open-city-rossellini-120\nFrom 
+ Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/rome-open-city-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:78cf9a0bab51c92f755e20375255d3d871e6173c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T210000Z
+DTEND:20261202T230000Z
+SUMMARY:Fatherland
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 4pm\, 8:15pm\nhttps://filmforum.org/film/fatherland\nFro
+ m Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/fatherland
+END:VEVENT
+BEGIN:VEVENT
+UID:5b0a4cf69dd0f4e11c6d5e8e9fdcd972809a177b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T213000Z
+DTEND:20261202T233000Z
+SUMMARY:L'Amore
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/lamore-rossellini-120\nFrom Pushpin 
+ NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/lamore-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:3afaa500473f8dc98a6f200b9ce0af25d962d8f1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T232000Z
+DTEND:20261203T012000Z
+SUMMARY:The Machine to Kill Bad People
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/the-machine-to-kill-bad-people-rosse
+ llini-120\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/the-machine-to-kill-bad-people-rossellini-12
+ 0
+END:VEVENT
+BEGIN:VEVENT
+UID:079a95613705d5cf0e1319559bd4aa4c246b3130@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T011000Z
+DTEND:20261203T031000Z
+SUMMARY:India: Matri Bhumi
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/india-matri-bhumi-rossellini-120\nFr
+ om Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/india-matri-bhumi-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:a6af0f38439f4599084ad3d9cea52fe49124f402@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T171500Z
+DTEND:20261203T191500Z
+SUMMARY:All of a Sudden
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 12:15pm\, 4:10pm\, 6:30pm\nhttps://filmforum.org/film/al
+ l-of-a-sudden\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/all-of-a-sudden
+END:VEVENT
+BEGIN:VEVENT
+UID:e4e4a44da6a90910992e154f4d26274ff976d617@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T172000Z
+DTEND:20261203T192000Z
+SUMMARY:India: Matri Bhumi
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/india-matri-bhumi-rossellini-120\nFr
+ om Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/india-matri-bhumi-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a78e4fd40c96b862d23d93e10c822dcdd39fdb@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T180000Z
+DTEND:20261203T200000Z
+SUMMARY:Raise the Red Lantern
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 1pm\, 3:40pm\, 8:10pm\nhttps://filmforum.org/film/raise-
+ the-red-lantern\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/raise-the-red-lantern
+END:VEVENT
+BEGIN:VEVENT
+UID:cc4d3affd679e4ca2e78a26d55f2543b1396dee4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T183000Z
+DTEND:20261203T203000Z
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 1:30pm\, 6pm\nhttps://filmforum.org/film/once-upon-a-tim
+ e-in-harlem\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/once-upon-a-time-in-harlem
+END:VEVENT
+BEGIN:VEVENT
+UID:95a43a4990b2406bb5e8420b45b30fe93356a640@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T200000Z
+DTEND:20261203T220000Z
+SUMMARY:Fear
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/fear-rossellini-120\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/fear-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:d6859bd55a417e05d75ae346d6c1f44d45241b03@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T210000Z
+DTEND:20261203T230000Z
+SUMMARY:Fatherland
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:Times: 4pm\, 8:15pm\nhttps://filmforum.org/film/fatherland\nFro
+ m Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/fatherland
+END:VEVENT
+BEGIN:VEVENT
+UID:791a4a15ac72d594fc2fb28a3248efbc9747aa31@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T221000Z
+DTEND:20261204T001000Z
+SUMMARY:The Machine to Kill Bad People
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/the-machine-to-kill-bad-people-rosse
+ llini-120-rossellini-120\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/the-machine-to-kill-bad-people-rossellini-12
+ 0-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:b06e596e06a6e173cb8ed0dc047c7d8e5aecac8b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:L'Amore
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/lamore-rossellini-120\nFrom Pushpin 
+ NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/lamore-rossellini-120
+END:VEVENT
+BEGIN:VEVENT
+UID:88c519ab692c3e89c074b41131855f300afad4d9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T015000Z
+DTEND:20261204T035000Z
+SUMMARY:Rome\, Open City
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/rome-open-city-rossellini-120\nFrom 
+ Pushpin NYC: https://pushpin.city/nyc/
+URL:https://filmforum.org/film/rome-open-city-rossellini-120
+END:VEVENT
+END:VCALENDAR

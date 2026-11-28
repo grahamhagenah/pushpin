@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c73f88a51d392767e3bc714fb6f51c1932eaa690@pushpin.city
+DTSTAMP:20270212T000000Z
+DTSTART:20270213T000000Z
+DTEND:20270213T020000Z
+SUMMARY:Bo Staloch: The Too Big\, Too Big Tour
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/bo-staloch-the-too-big-too-boston-
+ massachusetts-02-12-2027/event/0100652FD6C06A18
+URL:https://www.ticketmaster.com/bo-staloch-the-too-big-too-boston-massachu
+ setts-02-12-2027/event/0100652FD6C06A18
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0eb0dbdd7c2a184c530f1434f19aa9147c453a00@pushpin.city
+DTSTAMP:20270221T000000Z
+DTSTART:20270221T210000Z
+DTEND:20270221T230000Z
+SUMMARY:Flamenco Celebration of Jimi Hendrix with the Juanito Pascual Trio
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/flamenco-celebration-of-jimi-hendrix
+URL:https://www.nohoarts.org/flamenco-celebration-of-jimi-hendrix
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d9b112e3836e7f34082140095443e2e71dc1549c@pushpin.city
+DTSTAMP:20261228T000000Z
+DTSTART:20261228T201500Z
+DTEND:20261228T221500Z
+SUMMARY:The Debut
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/the-debut
+URL:https://www.thetriplex.org/movie/the-debut
+END:VEVENT
+END:VCALENDAR

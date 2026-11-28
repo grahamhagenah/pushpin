@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · UMass Fine Arts Center
+X-WR-CALDESC:What’s coming up at UMass Fine Arts Center\, from Pushpin We
+ stern Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:3c9b90cd452c1bdf1006c450965b6dce591cdbf9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:Maria Mazzotta
+LOCATION:UMass Fine Arts Center\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:The Drake\nMaria Mazzotta builds on a foundation of traditional
+  music of her native Apulia\, adding influences from southern Europe and n
+ orth Africa and layering on fuzzy post-rock experimentation.\nhttps://arts
+ .umass.edu/performing-arts/events/2026-2027/maria-mazzotta\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/maria-mazzotta
+END:VEVENT
+BEGIN:VEVENT
+UID:46fb6940f36f2df28bf9918f7b858fbb1c2eea5e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Yamato\, The Drummers of Japan World Tour 2027 Tamayura: Echoes of 
+ the Soul
+LOCATION:UMass Fine Arts Center\, 151 Presidents Dr\, Amherst\, MA 01003
+DESCRIPTION:Frederick C. Tillis Performance Hall\nYamato has been a leading
+  force in Japanese taiko drumming for more than three decades. The troupe'
+ s performances combine masterful musicianship\, athleticism\, and visual s
+ pectacle.\nhttps://arts.umass.edu/performing-arts/events/2026-2027/yamato-
+ tamayura\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/yamato-tamayura
+END:VEVENT
+BEGIN:VEVENT
+UID:acd8150b293a07005d079f87769f8c7146e17c4e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270219T010000Z
+DTEND:20270219T030000Z
+SUMMARY:Mary Prescott
+LOCATION:UMass Fine Arts Center\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:The Drake\nMary Prescott is a Thai American interdisciplinary a
+ rtist\, composer\, and pianist. She will develop a new work during residen
+ cy with the UMass Fine Arts Center\, and will premiere the piece at this e
+ vent.\nhttps://arts.umass.edu/performing-arts/events/2026-2027/mary-presco
+ tt\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/mary-prescott
+END:VEVENT
+BEGIN:VEVENT
+UID:d13e60cc2d1303d2ffb1eddfa7c8933266c9438c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270226T003000Z
+DTEND:20270226T023000Z
+SUMMARY:Philadanco
+LOCATION:UMass Fine Arts Center\, 151 Presidents Dr\, Amherst\, MA 01003
+DESCRIPTION:Frederick C. Tillis Performance Hall\nFeaturing a new work by h
+ ip-hop and street dance legend Rennie Harris! &nbsp\;\nhttps://arts.umass.
+ edu/performing-arts/events/2026-2027/philadanco\nFrom Pushpin Western Mass
+ : https://pushpin.city/westernma/
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/philadanco
+END:VEVENT
+END:VCALENDAR

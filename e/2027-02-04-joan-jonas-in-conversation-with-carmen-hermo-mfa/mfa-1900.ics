@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d6f101af6627f66aaaabb00bc3b55c8e98557f41@pushpin.city
+DTSTAMP:20270204T000000Z
+DTSTART:20270205T000000Z
+DTEND:20270205T020000Z
+SUMMARY:Joan Jonas in Conversation with Carmen Hermo
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/smfa-at-tufts-leo-and-betty-beckwith-
+ lecture/joan-jonas-in-conversation-with-carmen-hermo?event=183671
+URL:https://www.mfa.org/event/smfa-at-tufts-leo-and-betty-beckwith-lecture/
+ joan-jonas-in-conversation-with-carmen-hermo?event=183671
+END:VEVENT
+END:VCALENDAR

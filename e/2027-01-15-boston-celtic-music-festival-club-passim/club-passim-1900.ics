@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:91df8d2759d2c4f8649a3520934629caec40e6e8@pushpin.city
+DTSTAMP:20270115T000000Z
+DTSTART:20270116T000000Z
+DTEND:20270116T020000Z
+SUMMARY:Boston Celtic Music Festival
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/boston-celtic-music-fe
+ stival/
+URL:https://www.passim.org/live-music/events/boston-celtic-music-festival/
+END:VEVENT
+END:VCALENDAR

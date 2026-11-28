@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f0cfea5ff339ebdb8219828134eb50e66c897a27@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T203000Z
+DTEND:20261129T223000Z
+SUMMARY:When Caesar Was King The comedy genius of Sid Caesar
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/when-caesar-was-king-2026
+URL:https://filmforum.org/film/when-caesar-was-king-2026
+END:VEVENT
+END:VCALENDAR

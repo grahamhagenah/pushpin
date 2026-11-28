@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6d63a9f2459c1a89d49f301cda03407703ad3fff@pushpin.city
+DTSTAMP:20270116T000000Z
+DTSTART:20270116T200000Z
+DTEND:20270116T220000Z
+SUMMARY:Church & Puppets | Merry Merry | Sounds Like Bri Dee | A Day Withou
+ t Love
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/2778/1800129600000
+URL:https://tockify.com/midwaycafejp/detail/2778/1800129600000
+END:VEVENT
+END:VCALENDAR

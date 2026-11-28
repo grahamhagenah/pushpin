@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:336485a67c3345fd6da90d76c670e0bfd706a1e7@pushpin.city
+DTSTAMP:20270211T000000Z
+DTSTART:20270212T010000Z
+DTEND:20270212T030000Z
+SUMMARY:Ashcan Orchestra // Ivana Dama (Mixology Festival)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/mixology-night-ivana-dama-ashcan-orc
+ hestra/
+URL:https://roulette.org/event/mixology-night-ivana-dama-ashcan-orchestra/
+END:VEVENT
+END:VCALENDAR

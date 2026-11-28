@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a0a24a6af8593525da393305b325f6b591d3e31@pushpin.city
+DTSTAMP:20270226T000000Z
+DTSTART:20270227T000000Z
+DTEND:20270227T020000Z
+SUMMARY:A Night of Neil
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000D91OnMAJ
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0D91OnMAJ
+END:VEVENT
+END:VCALENDAR

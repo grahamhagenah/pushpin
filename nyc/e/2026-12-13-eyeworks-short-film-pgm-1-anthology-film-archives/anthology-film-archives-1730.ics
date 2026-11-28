@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5d4afdab892cb1847820b579cc28dd9a23476179@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T223000Z
+DTEND:20261214T003000Z
+SUMMARY:Eyeworks Short Film PGM 1
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62437
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62437
+END:VEVENT
+END:VCALENDAR

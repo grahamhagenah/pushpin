@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8f56c1cf8dd1edc985b1eb3bb34731c285fd6e43@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T180000Z
+DTEND:20261206T200000Z
+SUMMARY:American Sign Language (ASL) Tour of There's no me without you
+LOCATION:Pioneer Works\, 159 Pioneer St\, Brooklyn\, NY 11231
+DESCRIPTION:https://pioneerworks.org/programs/ASL-tour-of-there-s-no-me-wit
+ hout-you
+URL:https://pioneerworks.org/programs/ASL-tour-of-there-s-no-me-without-you
+END:VEVENT
+END:VCALENDAR

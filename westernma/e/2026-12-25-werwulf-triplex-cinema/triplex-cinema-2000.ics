@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:109a2b633344e0b39edbd53fea31a1ac50d2d4ed@pushpin.city
+DTSTAMP:20261225T000000Z
+DTSTART:20261226T010000Z
+DTEND:20261226T030000Z
+SUMMARY:Werwulf
+LOCATION:Triplex Cinema\, 70 Railroad St\, Great Barrington\, MA 01230
+DESCRIPTION:https://www.thetriplex.org/movie/werwulf
+URL:https://www.thetriplex.org/movie/werwulf
+END:VEVENT
+END:VCALENDAR

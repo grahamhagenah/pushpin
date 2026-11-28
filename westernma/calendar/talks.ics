@@ -1,0 +1,977 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Art & talks
+X-WR-CALDESC:Art & talks around the Pioneer Valley and the Berkshires\, fro
+ m Pushpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:e0496950473db0cf88c31ffa43cd8e4b3c150f7c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Creepy Christmas Carol
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:Produced by FEVER\nhttps://feverup.com/m/774100\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://feverup.com/m/774100
+END:VEVENT
+BEGIN:VEVENT
+UID:528c7f943fb1d54bc39f910c983f7fb81d77715e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:Western MA Yetzirah reading and Chanukah party
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:Reading by poets of Western MA Yetzirah followed by a pre-Chanu
+ kah party! All welcome.\nhttps://www.smith.edu/news-events/events/western-
+ ma-yetzirah-reading-and-chanukah-party\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://www.smith.edu/news-events/events/western-ma-yetzirah-reading-an
+ d-chanukah-party
+END:VEVENT
+BEGIN:VEVENT
+UID:329151a65cc8ad38e263351909690022cd34c878@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T190000Z
+DTEND:20261201T210000Z
+SUMMARY:Artist Talk: Farihah Aliyah Shah
+LOCATION:UMass Amherst\, 154 Hicks Way\, Amherst\, MA 01003
+DESCRIPTION:Library\, W. E. B. Du Bois\nhttps://events.umass.edu/event/arti
+ st-talk-farihah-aliyah-shah\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://events.umass.edu/event/artist-talk-farihah-aliyah-shah
+END:VEVENT
+BEGIN:VEVENT
+UID:8cd68ee9ef8ea464dc2f7cda45fd060a71750390@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T223000Z
+DTEND:20261204T003000Z
+SUMMARY:Scott Eyerly’s Virtual Met Opera Lecture: Saint-Saëns's Samson e
+ t Dalila
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:FREE\nhttps://mahaiwe.org/event/scott-eyerlys-virtual-met-opera
+ -lecture-verdis-macbeth-duplicate-1/\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://mahaiwe.org/event/scott-eyerlys-virtual-met-opera-lecture-verdi
+ s-macbeth-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:184e7397281d6c06631769478b7635f4dc1fb278@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T003000Z
+DTEND:20261204T023000Z
+SUMMARY:Faculty Dance Concert - UMass & Amherst College
+LOCATION:UMass Amherst\, 151 Presidents Dr\, Amherst\, MA 01003
+DESCRIPTION:Kirby Theater at Amherst College\nJoin us for this special coll
+ aborative UMass and Amherst College Faculty Dance Concert\, featuring chor
+ eography by our own Lauren Cox\, the renowned Garth Fagan's From Before\, 
+ and others.\nhttps://events.umass.edu/event/faculty-dance-concert-umass-am
+ herst-college\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://events.umass.edu/event/faculty-dance-concert-umass-amherst-coll
+ ege
+END:VEVENT
+BEGIN:VEVENT
+UID:e24aafa4d457defed13f359964204c12aedc9024@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T220000Z
+DTEND:20261205T000000Z
+SUMMARY:Gallery Walk at the Museum
+LOCATION:Brattleboro Museum & Art Center\, 10 Vernon St\, Brattleboro\, VT 
+ 05301
+DESCRIPTION:It’s the holiday season: Main Street is all lit up\, the Fest
+ ival of Miniatures is in full swing\, Brattleboro’s fantastic retailers 
+ are ready to meet all your holiday shopping needs\, and we’re staying op
+ en late!\nhttps://www.brattleboromuseum.org/event/gallery-walk-at-the-muse
+ um/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.brattleboromuseum.org/event/gallery-walk-at-the-museum/
+END:VEVENT
+BEGIN:VEVENT
+UID:320f82a57ee7dfdba500a5e7fb40ab45b5135cb1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:Faculty Dance Concert - UMass & Amherst College
+LOCATION:UMass Amherst\, 151 Presidents Dr\, Amherst\, MA 01003
+DESCRIPTION:Kirby Theater at Amherst College\nJoin us for this special coll
+ aborative UMass and Amherst College Faculty Dance Concert\, featuring chor
+ eography by our own Lauren Cox\, the renowned Garth Fagan's From Before\, 
+ and others.\nhttps://events.umass.edu/event/faculty-dance-concert-umass-am
+ herst-college\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://events.umass.edu/event/faculty-dance-concert-umass-amherst-coll
+ ege
+END:VEVENT
+BEGIN:VEVENT
+UID:80938d6260ed9da8bf068c65eab4c577b8c52ca0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:The Moors
+LOCATION:UMass Amherst\, 151 Presidents Drive\, Amherst\, MA 01003
+DESCRIPTION:Curtain Theater\nA hapless governess\, a mysterious hero\, sche
+ ming siblings\, and the bleak setting of the windswept countryside: Jen Si
+ lverman’s The Moors has all the trapping of the best gothic yarns writte
+ n by folks like the Brontë sisters. At once satire and homage to this sou
+ rce material\, this dark and funny play also introduces us to two surprisi
+ ngly literate animals and their star-crossed love. This richly weird set-u
+ p offers a unique lens to explore the things that motivate us: love\, powe
+ r\, the search for connection.\nhttps://events.umass.edu/event/the-moors\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://events.umass.edu/event/the-moors
+END:VEVENT
+BEGIN:VEVENT
+UID:9f120ffd5363b8dba1612deb0af371582fc0a173@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Albany Berkshire Ballet Presents: The Nutcracker
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 2pm\, 6pm\nCelebrate the magic of the holiday season as 
+ Albany Berkshire Ballet (ABB) returns with its annual tour of The Nutcrack
+ er. Choreographed by ABB’s Artistic Director Madeline Cantarella Culpo\,
+  this beloved production features lavish sets and scenery by Stockbridge n
+ ative and renowned theatre and film set designer Carl Sprague\, with costu
+ mes by Sam Meredith. Young local dance students join professional ABB danc
+ ers in special children’s roles\, sharing the stage with a company of pe
+ rformers from across the United States and around the world.\nhttps://www.
+ berkshiretheatregroup.org/event/albany-berkshire-ballet-presents-the-nutcr
+ acker/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.berkshiretheatregroup.org/event/albany-berkshire-ballet-pre
+ sents-the-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:2c285d6a855df8974fd42e2f22c3987cd4a3ee65@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T210000Z
+DTEND:20261205T230000Z
+SUMMARY:Haley Kean - Passive Forms
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:Art Walk Easthampton\nDecember 5\, 2026 - December 23\, 2026 Ar
+ t Walk and Artist reception: Saturday\, December 5\, 4-7pm Exhibition Stat
+ ement: In Passive Forms\, I explore the relationship between my hometown o
+ f Newtown CT\, and the abandoned institution of Fairfield Hills. Drawing i
+ nspiration from Hokusai’s 36 Views of Mount Fuji Series\, I created this
+  body of work to illuminate the location that the people of Newtown live t
+ heir daily lives around. The campus has been collectively reimagined as an
+  active participant in the social ecology of Newtown\; It has become a way
+ finding device\, a projection of self and community. In my work\, I interp
+ ret space within Fairfield Hills\, while emulating the visceral atmosphere
+  of a place with layered identity. I do so through scale and detail within
+  the etchings\, juxtaposed with the spontaneous materiality of the plaster
+ -casting process. I focus the project with large scale drawings that becom
+ e abstracted vignettes of place and time on the site of Fairfield Hills.\n
+ https://www.cityspaceeasthampton.org/all-events/\nFrom Pushpin Western Mas
+ s: https://pushpin.city/westernma/
+URL:https://www.cityspaceeasthampton.org/all-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:f5b495329d261257af5d6ecb3137b6f67588b1c7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:Faculty Dance Concert - UMass & Amherst College
+LOCATION:UMass Amherst\, 151 Presidents Dr\, Amherst\, MA 01003
+DESCRIPTION:Kirby Theater at Amherst College\nJoin us for this special coll
+ aborative UMass and Amherst College Faculty Dance Concert\, featuring chor
+ eography by our own Lauren Cox\, the renowned Garth Fagan's From Before\, 
+ and others.\nhttps://events.umass.edu/event/faculty-dance-concert-umass-am
+ herst-college\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://events.umass.edu/event/faculty-dance-concert-umass-amherst-coll
+ ege
+END:VEVENT
+BEGIN:VEVENT
+UID:3ca5947a11ef1addd4f6129689f67f9a0caf3d73@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:The Moors
+LOCATION:UMass Amherst\, 151 Presidents Drive\, Amherst\, MA 01003
+DESCRIPTION:Curtain Theater\nA hapless governess\, a mysterious hero\, sche
+ ming siblings\, and the bleak setting of the windswept countryside: Jen Si
+ lverman’s The Moors has all the trapping of the best gothic yarns writte
+ n by folks like the Brontë sisters. At once satire and homage to this sou
+ rce material\, this dark and funny play also introduces us to two surprisi
+ ngly literate animals and their star-crossed love. This richly weird set-u
+ p offers a unique lens to explore the things that motivate us: love\, powe
+ r\, the search for connection.\nhttps://events.umass.edu/event/the-moors\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://events.umass.edu/event/the-moors
+END:VEVENT
+BEGIN:VEVENT
+UID:0dff29ce2c50a686b5df0b73ea2ddc63d947c43f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T170000Z
+DTEND:20261206T190000Z
+SUMMARY:Lydia Thomson: Of Fields and Feathers
+LOCATION:Next Stage Arts\, 15 Kimball Hill\, Putney\, VT 05346
+DESCRIPTION:Opening Reception\nOpening reception 12:00-2:00pm\nhttps://tick
+ ets.venuepilot.com/e/lydia-thomson-of-fields-and-feathers-2026-12-06-next-
+ stage-arts-putney-754f0b\nFrom Pushpin Western Mass: https://pushpin.city/
+ westernma/
+URL:https://tickets.venuepilot.com/e/lydia-thomson-of-fields-and-feathers-2
+ 026-12-06-next-stage-arts-putney-754f0b
+END:VEVENT
+BEGIN:VEVENT
+UID:458157a3e3c694768ff9d63c32c4dd3ca015cf40@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T180000Z
+DTEND:20261206T200000Z
+SUMMARY:Albany Berkshire Ballet Presents: The Nutcracker
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:Celebrate the magic of the holiday season as Albany Berkshire B
+ allet (ABB) returns with its annual tour of The Nutcracker. Choreographed 
+ by ABB’s Artistic Director Madeline Cantarella Culpo\, this beloved prod
+ uction features lavish sets and scenery by Stockbridge native and renowned
+  theatre and film set designer Carl Sprague\, with costumes by Sam Meredit
+ h. Young local dance students join professional ABB dancers in special chi
+ ldren’s roles\, sharing the stage with a company of performers from acro
+ ss the United States and around the world.\nhttps://www.berkshiretheatregr
+ oup.org/event/albany-berkshire-ballet-presents-the-nutcracker/\nFrom Pushp
+ in Western Mass: https://pushpin.city/westernma/
+URL:https://www.berkshiretheatregroup.org/event/albany-berkshire-ballet-pre
+ sents-the-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:8f25eccb90be4249d7bf1b254cb32e343fb52bae@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T190000Z
+DTEND:20261206T210000Z
+SUMMARY:30 Poems in November Reading & Celebration
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/30-poems-in-november-reading-and-celeb
+ ration\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.nohoarts.org/30-poems-in-november-reading-and-celebration
+END:VEVENT
+BEGIN:VEVENT
+UID:6dfcd8a5f3475ca63cb0a8a3859767011da1e096@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T223000Z
+DTEND:20261210T003000Z
+SUMMARY:Art Talk: Amy Beecher on Glotech Cantata
+LOCATION:Brattleboro Museum & Art Center\, 10 Vernon St\, Brattleboro\, VT 
+ 05301
+DESCRIPTION:Amy Beecher discusses Glotech Cantata—a performance of moveme
+ nt\, sound\, and still images that interprets the dance between women and 
+ influencer marketing. Taking the Glotech LED facial mask as its motif\, th
+ e work meditates upon our era of aspirational social media\, where women a
+ re both the authors and the objects of images. This site-responsive perfor
+ mance uses “paintings”—large printed panels of still lifes\, masks\,
+  and color abstractions—as both props and a movable set that frame\, con
+ ceal\, and cast color onto dancers\, who pit improvised movements against 
+ stylized gestures and words.\nhttps://www.brattleboromuseum.org/event/art-
+ talk-amy-beecher-on-glotech-cantata/\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.brattleboromuseum.org/event/art-talk-amy-beecher-on-glotech
+ -cantata/
+END:VEVENT
+BEGIN:VEVENT
+UID:6c30eed0ec6ebfe11afd5d1b37e829790c2248ca@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T003000Z
+DTEND:20261210T023000Z
+SUMMARY:The Moors
+LOCATION:UMass Amherst\, 151 Presidents Drive\, Amherst\, MA 01003
+DESCRIPTION:Curtain Theater\nA hapless governess\, a mysterious hero\, sche
+ ming siblings\, and the bleak setting of the windswept countryside: Jen Si
+ lverman’s The Moors has all the trapping of the best gothic yarns writte
+ n by folks like the Brontë sisters. At once satire and homage to this sou
+ rce material\, this dark and funny play also introduces us to two surprisi
+ ngly literate animals and their star-crossed love. This richly weird set-u
+ p offers a unique lens to explore the things that motivate us: love\, powe
+ r\, the search for connection.\nhttps://events.umass.edu/event/the-moors\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://events.umass.edu/event/the-moors
+END:VEVENT
+BEGIN:VEVENT
+UID:47f7a7105972e3c21e4197b70fc41adfeb6276d4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T150000Z
+DTEND:20261210T170000Z
+SUMMARY:The Moors
+LOCATION:UMass Amherst\, 151 Presidents Drive\, Amherst\, MA 01003
+DESCRIPTION:Curtain Theater\nA hapless governess\, a mysterious hero\, sche
+ ming siblings\, and the bleak setting of the windswept countryside: Jen Si
+ lverman’s The Moors has all the trapping of the best gothic yarns writte
+ n by folks like the Brontë sisters. At once satire and homage to this sou
+ rce material\, this dark and funny play also introduces us to two surprisi
+ ngly literate animals and their star-crossed love. This richly weird set-u
+ p offers a unique lens to explore the things that motivate us: love\, powe
+ r\, the search for connection.\nhttps://events.umass.edu/event/the-moors\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://events.umass.edu/event/the-moors
+END:VEVENT
+BEGIN:VEVENT
+UID:2d38adab9921fdad5e8f0831f26be61071ee0c8f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T220000Z
+DTEND:20261212T000000Z
+SUMMARY:Arts Night Out at 33
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/arts-night-out-at-33-hawley\nFrom Push
+ pin Western Mass: https://pushpin.city/westernma/
+URL:https://www.nohoarts.org/arts-night-out-at-33-hawley
+END:VEVENT
+BEGIN:VEVENT
+UID:573eb47720f4ea456b133b715d7b4a3998a4b575@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Cinderella by The United European Ballet Company
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:Presented by Classical Arts Entertainment\nStep into the magica
+ l world of Cinderella\, one of the most beloved fairytales of all time\, b
+ rought to life in a dazzling Broadway-style ballet production filled with 
+ beauty\, humor\, romance\, and unforgettable theatrical magic.\nhttps://ww
+ w.symphonyhallspringfield.com/events/detail/the-united-european-ballet-com
+ pany-cinderella\nFrom Pushpin Western Mass: https://pushpin.city/westernma
+ /
+URL:https://www.symphonyhallspringfield.com/events/detail/the-united-europe
+ an-ballet-company-cinderella
+END:VEVENT
+BEGIN:VEVENT
+UID:ea1504d5f2e167f3440f6c5f18c8ab3ca1093af9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:Bare Bones Dance Concert
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:The Smith College Department of Dance presents Bare Bones\, an 
+ exciting showcase of dances choreograp...\nhttps://www.smith.edu/news-even
+ ts/events/bare-bones-dance-concert-0\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.smith.edu/news-events/events/bare-bones-dance-concert-0
+END:VEVENT
+BEGIN:VEVENT
+UID:6843085dc965a3a1353059f4b500ccf8efe1aba1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:The Moors
+LOCATION:UMass Amherst\, 151 Presidents Drive\, Amherst\, MA 01003
+DESCRIPTION:Curtain Theater\nA hapless governess\, a mysterious hero\, sche
+ ming siblings\, and the bleak setting of the windswept countryside: Jen Si
+ lverman’s The Moors has all the trapping of the best gothic yarns writte
+ n by folks like the Brontë sisters. At once satire and homage to this sou
+ rce material\, this dark and funny play also introduces us to two surprisi
+ ngly literate animals and their star-crossed love. This richly weird set-u
+ p offers a unique lens to explore the things that motivate us: love\, powe
+ r\, the search for connection.\nhttps://events.umass.edu/event/the-moors\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://events.umass.edu/event/the-moors
+END:VEVENT
+BEGIN:VEVENT
+UID:5f8a2659cf07cd9ab6078497e2511b6049e2e6ea@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T010000Z
+DTEND:20261212T030000Z
+SUMMARY:Jerry Wayne Longmire
+LOCATION:Stone Church\, 210 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:Jerry Wayne Longmire is a veteran stand-up comic\, original vir
+ al content creator\, and well-known internet personality. A seasoned perfo
+ rmer based out of Houston\, Jerry performs for the troops overseas\, deliv
+ ers dynamic sets in intimate comedy club settings and theater venues alike
+ \, and produces 100% original\, professional-grade social media content. H
+ is playful brand of storytelling and signature twang — reminiscent of an
+  East Texas junkyard upbringing — effortlessly draws in audiences and ca
+ ptivates people worldwide.\nhttps://tickets.venuepilot.com/e/jerry-wayne-l
+ ongmire-2026-12-11-stone-church-brattleboro-4ee79d\nFrom Pushpin Western M
+ ass: https://pushpin.city/westernma/
+URL:https://tickets.venuepilot.com/e/jerry-wayne-longmire-2026-12-11-stone-
+ church-brattleboro-4ee79d
+END:VEVENT
+BEGIN:VEVENT
+UID:614525948b676f17051713f0ffc791d0709afe19@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:It's a Wonderful Life: the Radio Play
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:https://www.eventbrite.com/e/its-a-wonderful-life-radio-play-ti
+ ckets-2003828502994\nFrom Pushpin Western Mass: https://pushpin.city/weste
+ rnma/
+URL:https://www.eventbrite.com/e/its-a-wonderful-life-radio-play-tickets-20
+ 03828502994
+END:VEVENT
+BEGIN:VEVENT
+UID:58568c6153ed13992b30a8a239a30d7155394086@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:Amherst Ballet presents The Snow Maiden
+LOCATION:HOPE Center for the Arts\, 150 Bridge St\, Springfield\, MA 01103
+DESCRIPTION:Amherst Ballet’s beloved winter show\, ‘The Snow Maiden’\
+ , returns. This magical production invites you to the land of Father Frost
+ \, full of swirling snowflakes and glittering fairies\, where we meet the 
+ Snow Maiden on her search for love beyond her wintry realm. Join her quest
+  in this heartwarming tale of longing and friendship\, amidst the turning 
+ of winter into spring. Set to selections from three works by Peter Tchaiko
+ vsky: The Serenade for Strings\, Symphony No. 1 in G-minor (Winter Reverie
+ )\, and Incidental Music for the play\, “The Snow Maiden\,” and presen
+ ted by students from the Amherst Ballet School and our volunteer company\,
+  this production is an excellent opportunity for young audience members to
+  experience the magic of ballet for the first time. Several characters fro
+ m the show will be available for photographs during intermission\, and our
+  director will give backstage tours to show how we bring a production toge
+ ther following each show.\nhttps://hopecenterforthearts.org/events/amherst
+ -ballet-presents-the-snow-maiden/\nFrom Pushpin Western Mass: https://push
+ pin.city/westernma/
+URL:https://hopecenterforthearts.org/events/amherst-ballet-presents-the-sno
+ w-maiden/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a81e68d7400db660b67649c36ff3946a874a7b8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:The Moors
+LOCATION:UMass Amherst\, 151 Presidents Drive\, Amherst\, MA 01003
+DESCRIPTION:Curtain Theater\nA hapless governess\, a mysterious hero\, sche
+ ming siblings\, and the bleak setting of the windswept countryside: Jen Si
+ lverman’s The Moors has all the trapping of the best gothic yarns writte
+ n by folks like the Brontë sisters. At once satire and homage to this sou
+ rce material\, this dark and funny play also introduces us to two surprisi
+ ngly literate animals and their star-crossed love. This richly weird set-u
+ p offers a unique lens to explore the things that motivate us: love\, powe
+ r\, the search for connection.\nhttps://events.umass.edu/event/the-moors\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://events.umass.edu/event/the-moors
+END:VEVENT
+BEGIN:VEVENT
+UID:92352d7371ab06bd6e509c137f7cc72b4c9c067a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Kimberly Bartosik: bLUr
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:bLUr\, choreographed by Kimberly Bartosik\, is a highly physica
+ l and emotionally intense dance piece in which five performers navigate sc
+ enes of desire\, care\, violence\, and tender rescue.\nhttps://massmoca.or
+ g/event/kimberly-bartosik-blur/\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://massmoca.org/event/kimberly-bartosik-blur/
+END:VEVENT
+BEGIN:VEVENT
+UID:1555ad2ded5cd1b78a2daae358c954b8b2c094c9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:It's a Wonderful Life: the Radio Play
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:https://www.eventbrite.com/e/its-a-wonderful-life-radio-play-ti
+ ckets-2003828502994\nFrom Pushpin Western Mass: https://pushpin.city/weste
+ rnma/
+URL:https://www.eventbrite.com/e/its-a-wonderful-life-radio-play-tickets-20
+ 03828502994
+END:VEVENT
+BEGIN:VEVENT
+UID:791f3e636994d6238418e25c7d8a6fc1a5715368@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T170000Z
+DTEND:20261213T190000Z
+SUMMARY:Glotech Cantata: A Performance of Images
+LOCATION:Brattleboro Museum & Art Center\, 10 Vernon St\, Brattleboro\, VT 
+ 05301
+DESCRIPTION:Glotech Cantata is an afternoon of movement\, sound\, and still
+  images that interprets the dance between women and influencer marketing. 
+ Taking the Glotech LED facial mask as its motif\, the work meditates upon 
+ our era of aspirational social media\, where women are both the authors an
+ d the objects of images. This site-responsive performance uses “painting
+ s”—large printed panels of still lifes\, masks\, and color abstraction
+ s—as both props and a movable set that frame\, conceal\, and cast color 
+ onto dancers\, who pit improvised movements against stylized gestures and 
+ words.\nhttps://www.brattleboromuseum.org/event/glotech-cantata-a-performa
+ nce-of-images/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.brattleboromuseum.org/event/glotech-cantata-a-performance-o
+ f-images/
+END:VEVENT
+BEGIN:VEVENT
+UID:671a49b0588e1c7e2917e36dfd0058d1941b3be2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261216T003000Z
+DTEND:20261216T023000Z
+SUMMARY:Fall Grad Dance Event
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:Catch an exciting first look at new work by Smith MFA first yea
+ r candidates: Claire Evangelho\, Laure...\nhttps://www.smith.edu/news-even
+ ts/events/fall-grad-dance-event-1\nFrom Pushpin Western Mass: https://push
+ pin.city/westernma/
+URL:https://www.smith.edu/news-events/events/fall-grad-dance-event-1
+END:VEVENT
+BEGIN:VEVENT
+UID:9db68444be0f8ad52d7c6653ddcdbbeae683f5c3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T223000Z
+DTEND:20261219T003000Z
+SUMMARY:Weave\, Repair\, Connect
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Textile Repair Salon\nDip your toes into the world of textiles 
+ during MASS MoCA’s Textile Repair Salon! Join regional practitioners Jen
+ a Duncan and Elsa Cousins from Swanson’s Fabrics Stash House and MASS Mo
+ CA museum educators for a casual evening of textile repair\, embroidery\, 
+ and small-scale weaving.\nhttps://massmoca.org/event/textile-salon-weave-r
+ epair-connect/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/textile-salon-weave-repair-connect/
+END:VEVENT
+BEGIN:VEVENT
+UID:c8f468295abfe187167b89be2e2549adab62d4ba@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:Gogol Dreams of Gogol Dreaming
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:Pay it Forward 2026\nGogol Dreams of Gogol Dreaming\, December 
+ 18 & 19 Pay it Forward 2026 Milo is a multi-media artist based in Western 
+ Massachusetts. Her work in puppetry and performance explores themes of mem
+ ory and belonging\, emphasizing playfulness and other such spices of life.
+  When she is not puppeteering\, you can find her collaging\, writing and f
+ orgetting stupid songs\, and generally just chilling...\nhttps://tickets.v
+ enuepilot.com/e/cityspace-presents-gogol-dreams-of-gogol-dreaming-2026-12-
+ 18-cityspace-easthampton-398b09\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://tickets.venuepilot.com/e/cityspace-presents-gogol-dreams-of-gog
+ ol-dreaming-2026-12-18-cityspace-easthampton-398b09
+END:VEVENT
+BEGIN:VEVENT
+UID:aa81200787ca17d942c116ac515b72b34e6a95ea@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Machine Dazzle: Changes
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:The Costume Design for Taylor Mac’s A 24-Decade History of Po
+ pular Music\nMachine Dazzle has been creating extraordinary costumes for o
+ ver 30 years. As an artist\, costume designer\, set designer\, and perform
+ ance artist\, he has presented his genre-defying work at venues ranging fr
+ om Broadway to the runway\, wowing audiences from Joe’s Pub to the Museu
+ m of Arts and Design in New York. As the nation marks 250 years of America
+ ’s history\, MASS MoCA will showcase wearable sculptural looks by the ar
+ tist that examine the 24 decades since the founding of the United States i
+ n 1776.\nhttps://massmoca.org/event/machine-dazzle-changes-the-costume-des
+ ign-for-taylor-macs-a-24-decade-history-of-popular-music/\nFrom Pushpin We
+ stern Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/machine-dazzle-changes-the-costume-design-fo
+ r-taylor-macs-a-24-decade-history-of-popular-music/
+END:VEVENT
+BEGIN:VEVENT
+UID:53fb555eb4c20b667de59a7d3b5f3da3a0be9d0c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T180000Z
+DTEND:20261219T200000Z
+SUMMARY:Albany Berkshire Ballet - The Nutcracker
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:Two Showings: 1p and 4:30p\nImportant Parking Update: Parking i
+ n the 91 South Garage will be $15 prepay upon entry. There is not free par
+ king at the 91 South Garage. Parking is free at the MGM Springfield Garage
+ .\nhttps://www.symphonyhallspringfield.com/events/detail/thenutcracker\nFr
+ om Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.symphonyhallspringfield.com/events/detail/thenutcracker
+END:VEVENT
+BEGIN:VEVENT
+UID:c1d897e801aa4344b366aadab3262fa08a419c67@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T003000Z
+DTEND:20261220T023000Z
+SUMMARY:Gogol Dreams of Gogol Dreaming
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:Pay it Forward 2026\nKate Ciolkowski-Winters\, December 18 & 19
+  Pay it Forward Milo is a multi-media artist based in Western Massachusett
+ s. Her work in puppetry and performance explores themes of memory and belo
+ nging\, emphasizing playfulness and other such spices of life. When she is
+  not puppeteering\, you can find her collaging\, writing and forgetting st
+ upid songs\, and generally just chilling...\nhttps://tickets.venuepilot.co
+ m/e/cityspace-presents-gogol-dreams-of-gogol-dreaming-2026-12-19-cityspace
+ -easthampton-d53240\nFrom Pushpin Western Mass: https://pushpin.city/weste
+ rnma/
+URL:https://tickets.venuepilot.com/e/cityspace-presents-gogol-dreams-of-gog
+ ol-dreaming-2026-12-19-cityspace-easthampton-d53240
+END:VEVENT
+BEGIN:VEVENT
+UID:0fb09ad31d60d2f7c107897d24c31683153ee6bf@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261224T000000Z
+DTEND:20261224T020000Z
+SUMMARY:The Continuing Adventures of King Wenceslas and His Page Edith
+LOCATION:Next Stage Arts\, 15 Kimball Hill\, Putney\, VT 05346
+DESCRIPTION:$12 Adults / $5 Youth 18 & Under Back by popular demand! Follow
+  King Wenceslas and his Page\, Edith\, across the deep and crisp and even 
+ snow of Medieval Europe in their comedic search for meaning and goodness. 
+ This play delves deep between the stanzas of everyone’s favorite Christm
+ as carol\, delighting audiences with quick-paced physical comedy\, stage m
+ agic\, and puppets\, all performed by four actors. You’ve seen A Christm
+ as Carol and The Nutcracker\, this season why not try a new holiday treat\
+ , (Good) King Wenceslas\, a winter play for winter people!\nhttps://ticket
+ s.venuepilot.com/e/the-continuing-adventures-of-king-wenceslas-and-his-pag
+ e-edith-2026-12-23-next-stage-arts-putney-0f1de4\nFrom Pushpin Western Mas
+ s: https://pushpin.city/westernma/
+URL:https://tickets.venuepilot.com/e/the-continuing-adventures-of-king-wenc
+ eslas-and-his-page-edith-2026-12-23-next-stage-arts-putney-0f1de4
+END:VEVENT
+BEGIN:VEVENT
+UID:40e0d80c749113b5d528221839bd8b69fe689390@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270109T003000Z
+DTEND:20270109T023000Z
+SUMMARY:Foes of a Minimum Wage Guard
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:Pay it Forward 2026\nFoes of a Minimum Wage Guard- A Solo Play\
+ , January 8 & 9 Pay it Forward Foes of a Minimum Wage Guard is an award-wi
+ nning solo comedy-drama play in which a 68-year-old retail worker is sudde
+ nly reassigned to loss prevention without training and must protect a stru
+ ggling department store—or risk losing his job. Performed by Ken Harris 
+ portraying 12 different characters\, the play explores workplace pressure\
+ , resilience\, and the search for dignity through humor\, suspense\, and h
+ eartfelt storytelling.\nhttps://tickets.venuepilot.com/e/cityspace-present
+ s-quarters-in-the-water-2027-01-08-cityspace-easthampton-e17126\nFrom Push
+ pin Western Mass: https://pushpin.city/westernma/
+URL:https://tickets.venuepilot.com/e/cityspace-presents-quarters-in-the-wat
+ er-2027-01-08-cityspace-easthampton-e17126
+END:VEVENT
+BEGIN:VEVENT
+UID:946a26fdcc3c23968a69189f3271747f87a88b47@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:The Oath
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:through Jun 30\nSince the beginning of time — in community\, 
+ clan\, congregation\, and club — humans have developed systems\, both ut
+ opian and dystopian\, for moving together in unison in large groups. The O
+ ath\, a film based on Annie-B Parson’s stage choreography\, explores hum
+ anity’s dance of vernacular and poetic group actions. Set in a vivid uni
+ verse of color\, the work spans time\, from the primeval age and into the 
+ future\, and features seventeen women and femmes moving as one for purpose
+  and for pleasure\, to gather\, to bond\, to intimidate\, to believe\, to 
+ fight\, to promise – to dance.\nhttps://massmoca.org/event/annie-b-parso
+ n-and-alla-kovgan-big-dance-theater-the-oath/\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://massmoca.org/event/annie-b-parson-and-alla-kovgan-big-dance-the
+ ater-the-oath/
+END:VEVENT
+BEGIN:VEVENT
+UID:556b62d8e854366005ecc357f70c6d9936a90328@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270110T003000Z
+DTEND:20270110T023000Z
+SUMMARY:Foes of a Minimum Wage Guard
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:Pay it Forward 2026\nFoes of a Minimum Wage Guard- A Solo Play\
+ , January 8 & 9 Pay it Forward Foes of a Minimum Wage Guard is an award-wi
+ nning solo comedy-drama play in which a 68-year-old retail worker is sudde
+ nly reassigned to loss prevention without training and must protect a stru
+ ggling department store—or risk losing his job. Performed by Ken Harris 
+ portraying 12 different characters\, the play explores workplace pressure\
+ , resilience\, and the search for dignity through humor\, suspense\, and h
+ eartfelt storytelling.\nhttps://tickets.venuepilot.com/e/cityspace-present
+ s-foes-of-a-minimum-wage-guard-2027-01-09-cityspace-easthampton-ff3ff2\nFr
+ om Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://tickets.venuepilot.com/e/cityspace-presents-foes-of-a-minimum-w
+ age-guard-2027-01-09-cityspace-easthampton-ff3ff2
+END:VEVENT
+BEGIN:VEVENT
+UID:d6d4db17b3411402131865995e6a0da9e956068a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270115T003000Z
+DTEND:20270115T023000Z
+SUMMARY:Valley Voices Story Slam: Second Opinion
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:Academy of Music Theatre presents\nThursday\, January 14th 2027
+  at 7:30 pm Doors at 7:00 pm The Eric Carle Museum of Picture Book Art 125
+  W. Bay Road\, Amherst $22 After Fees 10% Off tickets for groups of 10+\, 
+ please call the Box Office to secure group tickets.\nhttps://aomtheatre.co
+ m/aom_event/valley-voices-story-slam-second-opinion/\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://aomtheatre.com/aom_event/valley-voices-story-slam-second-opinio
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:b994f44c52b0b7f20b49ec7d03d1695fbdcb8071@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Nick Meyer
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:through Jun 30\nNick Meyer lives and works in Western Massachus
+ etts. Taking a documentary-adjacent approach\, his photographs explore per
+ manence and mutability\, finding beauty in the patina of decay and the wor
+ n-away by time. Photographed in Western Massachusetts\, his imagery is ine
+ xtricably tied to this place and instantly recognizable to anyone who has 
+ spent time here.\nhttps://massmoca.org/event/nick-meyer-good-bones/\nFrom 
+ Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/nick-meyer-good-bones/
+END:VEVENT
+BEGIN:VEVENT
+UID:9595ece16c631a4252b71e7c7e6d081eef21f77a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270121T223000Z
+DTEND:20270122T003000Z
+SUMMARY:Scott Eyerly’s Virtual Met Opera Lecture: Puccini's La Fanciulla 
+ Del West
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:FREE\nhttps://mahaiwe.org/event/scott-eyerlys-virtual-met-opera
+ -lecture-saint-saenss-samson-et-delila-duplicate-1/\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://mahaiwe.org/event/scott-eyerlys-virtual-met-opera-lecture-saint
+ -saenss-samson-et-delila-duplicate-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:e88da4700af5b2a462d5d888b88bc058f4d375ae@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270121T230000Z
+DTEND:20270122T010000Z
+SUMMARY:On the Queer Songbook:
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Taylor Mac and Matt Ray\n“Music solves 99% of the problems in
+  the world. We hope to nudge readers\, listeners\, movers\, singers\, and 
+ music makers into an openhearted prayer (or spell) of ecstatic frenzy.” 
+ — Taylor Mac Renegade theater artists Taylor Mac\, Matt Ray\, and Machin
+ e Dazzle’s four-hour rock opera\, Bark of Millions\, is an electrifying 
+ collision of performance\, live music\, and drag spectacle celebrating que
+ erness\, with the fierce elation of a pride parade.\nhttps://massmoca.org/
+ event/on-the-queer-songbook-taylor-mac-and-matt-ray/\nFrom Pushpin Western
+  Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/on-the-queer-songbook-taylor-mac-and-matt-ra
+ y/
+END:VEVENT
+BEGIN:VEVENT
+UID:9bcf4b2254561128c64c738fd79359dcb89a74b6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270130T003000Z
+DTEND:20270130T023000Z
+SUMMARY:Late Night with the Public Domain
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:Pay it Forward 2026\nLate Night with the Public Domain\, Januar
+ y 29 & 30 Pay it Forward Late Night with the Public Domain\; a late night 
+ talk show where expired IPs take the stage. Part talent show\, part comedy
+  sketch with puppets\, singing\, dancing\, hand constructed wild sets and 
+ more.\nhttps://tickets.venuepilot.com/e/cityspace-presents-late-night-with
+ -the-public-domain-2027-01-29-cityspace-easthampton-335ffe\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://tickets.venuepilot.com/e/cityspace-presents-late-night-with-the
+ -public-domain-2027-01-29-cityspace-easthampton-335ffe
+END:VEVENT
+BEGIN:VEVENT
+UID:cf34aead68a15d865c47f2f51e95a9390eed52d8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Community Free Day
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:January 2027\nFree for all who walk through our doors\, MASS Mo
+ CA’s biannual community celebration is an invitation to all to explore e
+ very corner of the museum and grounds.\nhttps://massmoca.org/event/communi
+ ty-free-day-january-2027/\nFrom Pushpin Western Mass: https://pushpin.city
+ /westernma/
+URL:https://massmoca.org/event/community-free-day-january-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:961eb593f690d84f12bc9176430d8cb1712ab7df@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270131T000000Z
+DTEND:20270131T020000Z
+SUMMARY:Gibney Company: Another Look
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Choreography by Lucinda Childs\, Composition by Philip Glass\n
+ “The troupe’s superpower is clear: its strong and versatile dancers\, 
+ artists who appear to be physically capable of anything.” —The New Yor
+ k Times\, June 2022 Following two successful collaborations\, Gibney Compa
+ ny Resident Choreographer Lucinda Childs is creating a full-length work se
+ t to Another Look at Harmony\, Part 4\, a major score by Philip Glass that
+  has never been choreographed at this scale. Premiering at New York City C
+ enter in January 2027\, the work is conceived in celebration of Philip Gla
+ ss’ 90th birthday and reunites two defining figures of American minimali
+ sm in a rare and timely artistic convergence.\nhttps://massmoca.org/event/
+ gibney-company-another-look-choreography-by-lucinda-childs-composition-by-
+ philip-glass/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/gibney-company-another-look-choreography-by-
+ lucinda-childs-composition-by-philip-glass/
+END:VEVENT
+BEGIN:VEVENT
+UID:87f85d4443028a9ec6d6e4498056b75b97fe4f2c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270131T003000Z
+DTEND:20270131T023000Z
+SUMMARY:Late Night with the Public Domain
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:Pay it Forward 2026\nLate Night with the Public Domain\, Januar
+ y 29 & 30 Pay it Forward Late Night with the Public Domain\; a late night 
+ talk show where expired IPs take the stage. Part talent show\, part comedy
+  sketch with puppets\, singing\, dancing\, hand constructed wild sets and 
+ more.\nhttps://tickets.venuepilot.com/e/cityspace-presents-late-night-with
+ -the-public-domain-2027-01-30-cityspace-easthampton-6fda7b\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://tickets.venuepilot.com/e/cityspace-presents-late-night-with-the
+ -public-domain-2027-01-30-cityspace-easthampton-6fda7b
+END:VEVENT
+BEGIN:VEVENT
+UID:d4371e41ef1f91d55a33c4319c3eb660d1e9aa91@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Symposium: Immigrant Artists in Vermont
+LOCATION:Brattleboro Museum & Art Center\, 10 Vernon St\, Brattleboro\, VT 
+ 05301
+DESCRIPTION:What has drawn immigrant artists to Vermont over the past two c
+ enturies? How has Vermont shaped their work\, and how have these artists\,
+  in turn\, shaped Vermont’s evolving cultural identity?\nhttps://www.bra
+ ttleboromuseum.org/event/symposium-immigrant-artists-in-vermont/\nFrom Pus
+ hpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.brattleboromuseum.org/event/symposium-immigrant-artists-in-
+ vermont/
+END:VEVENT
+BEGIN:VEVENT
+UID:25a42c4a8566e657c0ab4acd638ed0daeb9b8392@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270206T230000Z
+DTEND:20270207T010000Z
+SUMMARY:Dura Mater in the Valley—Evening Reading Marathon
+LOCATION:Bombyx\, 130 Pine St\, Florence\, MA 01062
+DESCRIPTION:In recognition and celebration of a day-long communal experimen
+ t in spontaneous durational writing organized by poets Sara Jane Stoner an
+ d Ari Banias\, Dura Mater’s public marathon reading will feature partici
+ pants sharing excerpts of their new writing emerging from the day. Come an
+ d hear the converging\, overlapping\, divergent\, wild resonances and text
+ ures that writing together can produce. A few additional reading slots wil
+ l be available for members of the community who would like to join in shar
+ ing their own writing.\nhttps://bombyx.live/events/dura-mater-in-the-valle
+ y-evening-reading-marathon/\nFrom Pushpin Western Mass: https://pushpin.ci
+ ty/westernma/
+URL:https://bombyx.live/events/dura-mater-in-the-valley-evening-reading-mar
+ athon/
+END:VEVENT
+BEGIN:VEVENT
+UID:32d908c02b05bd1b2cb4726a0e2aeeca8a82cb3a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270210T220000Z
+DTEND:20270211T000000Z
+SUMMARY:On the Calculation of Volume (Book II)
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Book Talk with Lizzie Whitman\n“How on earth did this book co
+ me into being? It’s like it has always been here in this world with us\,
+  like one feels about the best art. I am torn as I read it between lingeri
+ ng and racing ahead\, and I think about my days completely differently now
+ .” — Sheila Heti Lizzie Whitman convenes this casual book club around 
+ Solvej Balle’s utterly riveting On the Calculation of Volume (Book II) 
+ — the grand opening of her speculative fiction septology\, winner of the
+  2022 Nordic Council Literature Prize (Scandinavia’s most important lite
+ rary award) for being “a masterpiece of its time.” Balle was also nomi
+ nated for the International Booker Prize and a National Book Award for thi
+ s book.\nhttps://massmoca.org/event/on-the-calculation-of-volume-book-iibo
+ ok-talk-with-lizzie-whitman/\nFrom Pushpin Western Mass: https://pushpin.c
+ ity/westernma/
+URL:https://massmoca.org/event/on-the-calculation-of-volume-book-iibook-tal
+ k-with-lizzie-whitman/
+END:VEVENT
+BEGIN:VEVENT
+UID:c5e6a55d2469b5ebb823df745bef517ea8b9f4bc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270211T223000Z
+DTEND:20270212T003000Z
+SUMMARY:Artist Workshop:
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Fresco building with Daniela Rivera\nJoin the artist of Hacia C
+ uando (To When)\, Daniela Rivera\, for a process-oriented workshop on Fres
+ co making. Each participant will receive materials and instructions to cre
+ ate individual\, small-scale frescos on wood panels.\nhttps://massmoca.org
+ /event/artist-workshop-fresco-building-with-daniela-rivera/\nFrom Pushpin 
+ Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/artist-workshop-fresco-building-with-daniela
+ -rivera/
+END:VEVENT
+BEGIN:VEVENT
+UID:796e6d53be4993a4c6adcbced40191f76dafdce1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Touki Delphine:
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:through Feb 19\nSUPERDRUM consists of more than one hundred sec
+ ond-hand drums\, donated by the public or sourced through online marketpla
+ ces\, thrift stores\, and attics. No two drums are the same\; each carries
+  its own history in its shape\, dents\, discoloration\, and old band logos
+ .\nhttps://massmoca.org/event/touki-delphine-superdrum/\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/touki-delphine-superdrum/
+END:VEVENT
+BEGIN:VEVENT
+UID:ac6b89a55775c0d6c5b0ff86b84ec1d5972340a7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270218T213000Z
+DTEND:20270218T233000Z
+SUMMARY:Reading by Novelist Megan Giddings
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:https://www.smith.edu/news-events/events/reading-novelist-megan
+ -giddings\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.smith.edu/news-events/events/reading-novelist-megan-gidding
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:1bab9adc50208dec6166e5845da6b0e5efca1197@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270220T223000Z
+DTEND:20270221T003000Z
+SUMMARY:Art Talk: Sara Jimenez & Sarah Freeman
+LOCATION:Brattleboro Museum & Art Center\, 10 Vernon St\, Brattleboro\, VT 
+ 05301
+DESCRIPTION:Artist Sara Jimenez and curator Sarah Freeman discuss Jimenez
+ ’s installation the story never stops beginning or ending\, exploring ho
+ w textiles\, ceramics\, and collaged imagery bring together personal memor
+ y and histories of American colonization in the Philippines. Through layer
+ ed landscapes and sculptural forms honoring Filipino women and non-binary 
+ individuals\, Jimenez creates a space for reflection on history\, remembra
+ nce\, and care.\nhttps://www.brattleboromuseum.org/event/art-talk-sara-jim
+ enez-sarah-freeman/\nFrom Pushpin Western Mass: https://pushpin.city/weste
+ rnma/
+URL:https://www.brattleboromuseum.org/event/art-talk-sara-jimenez-sarah-fre
+ eman/
+END:VEVENT
+BEGIN:VEVENT
+UID:3f82db9d3684474df8c5bd0e14fb3642dd293670@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270220T223000Z
+DTEND:20270221T003000Z
+SUMMARY:Piano QUI-Poem
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:Performance by Cecilia Vicuña and Ricardo Gallo\nPoetry\, pian
+ o\, flutes\, and synthesizer come together in a performance that will neve
+ r happen the same way twice. Renowned artist Cecilia Vicuña and pianist R
+ icardo Gallo bring Vicuña’s poems to life\, building a sonic and poetic
+  world in real time.\nhttps://massmoca.org/event/piano-qui-poem-performanc
+ e-by-cecilia-vicuna-and-ricardo-gallo/\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://massmoca.org/event/piano-qui-poem-performance-by-cecilia-vicuna
+ -and-ricardo-gallo/
+END:VEVENT
+BEGIN:VEVENT
+UID:b69eabb6b027cc01464cf098af38c187ad8c08c4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270222T000000Z
+DTEND:20270222T020000Z
+SUMMARY:Swan Lake
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:Presented by International Ballet Stars\nExperience the world
+ ’s most beloved ballet like never before.\nhttps://www.symphonyhallsprin
+ gfield.com/events/detail/swan-lake-1\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.symphonyhallspringfield.com/events/detail/swan-lake-1
+END:VEVENT
+BEGIN:VEVENT
+UID:e6ca674cacdcf2d7f2c72fc4c20e0f59dc4ee60b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270227T000000Z
+DTEND:20270227T020000Z
+SUMMARY:Handle with Care
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:A theater performance in a box\nHandle with Care is a theater p
+ erformance in a box. No actors\, no technicians. Just a box. And you.\nhtt
+ ps://massmoca.org/event/handle-with-care-a-theater-performance-in-a-box/\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://massmoca.org/event/handle-with-care-a-theater-performance-in-a-
+ box/
+END:VEVENT
+END:VCALENDAR

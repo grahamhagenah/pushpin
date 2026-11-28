@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a813413056e8fde9d872206b66a3992a03bad18d@pushpin.city
+DTSTAMP:20261224T000000Z
+DTSTART:20261224T200000Z
+DTEND:20261224T220000Z
+SUMMARY:Hail Mary preceded by The Book of Mary
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005148-hail-mary-preceded-by-th
+ e-book-of-mary/
+URL:https://metrograph.com/film/9999005148-hail-mary-preceded-by-the-book-o
+ f-mary/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,454 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Arts at the Armory
+X-WR-CALDESC:What’s coming up at Arts at the Armory\, from Pushpin Boston
+ .
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:168c5c79132ecc6ffc4a49b58b4ac3cc9db341ea@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Rick & Friends
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Dave\, Ben & Rick play music at the Somerville Armory Cafe Satu
+ rdays from 10 am - 1 pm!\nhttps://artsatthearmory.org/events/rick-friends-
+ 3-2026-04-18-2026-04-25-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-0
+ 5-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-202
+ 6-07-18-2026-07-25-2026-0-21-2026-11-28/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://artsatthearmory.org/events/rick-friends-3-2026-04-18-2026-04-25
+ -2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
+ -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026
+ -0-21-2026-11-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:587fab0311d7f6db1c5f4ca254e46c28cc81aa05@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T150000Z
+DTEND:20261129T170000Z
+SUMMARY:Rick & Friends
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Dave\, Ben & Rick play music at the Somerville Armory Cafe Satu
+ rdays from 10 am - 1 pm!\nhttps://artsatthearmory.org/events/rick-friends-
+ sunday2/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artsatthearmory.org/events/rick-friends-sunday2/
+END:VEVENT
+BEGIN:VEVENT
+UID:a6090f376d21aa18418c35016cb3436b6b8561e2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Eliza McLamb with Lily Konigsberg
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Eliza McLamb is a little bit of everything.\nhttps://artsatthea
+ rmory.org/events/eliza-mclamb/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artsatthearmory.org/events/eliza-mclamb/
+END:VEVENT
+BEGIN:VEVENT
+UID:e4763129bc966ca428facb96c873210af677ccf8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:24 Hour Concerts Presents: Honky Tonk Holiday with the Talking Hear
+ ts
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Pull up your cowboy boots and join the Talking Hearts and the B
+ en Wetherbee Honky-Tonk Band for Honky Tonk Holiday on December 3!\nhttps:
+ //artsatthearmory.org/events/24-hour-concerts-presents-honky-tonk-holiday-
+ with-the-talking-hearts/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artsatthearmory.org/events/24-hour-concerts-presents-honky-tonk
+ -holiday-with-the-talking-hearts/
+END:VEVENT
+BEGIN:VEVENT
+UID:59cdb11851fcc8d2cd5a1fad8e2f97d527d3e641@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:Windborne Presents Music of Midwinter
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:A joyful and heartfelt celebration of song\, Windborne’s lush
+  vocals and unique arrangements bring light to a dark time\, drawing on mi
+ dwinter music from traditional\, classical\, and folk roots in the US\, Br
+ itish Isles and beyond. Unique from their typical show\, the holiday spiri
+ t is accentuated with added instrumentation\, including banjos and guitars
+ \, Lithuanian Kanklės\, and Irish bodhrán.\nhttps://artsatthearmory.org/
+ events/windborne-presents-music-of-midwinter/\nFrom Pushpin Boston: https:
+ //pushpin.city/
+URL:https://artsatthearmory.org/events/windborne-presents-music-of-midwinte
+ r/
+END:VEVENT
+BEGIN:VEVENT
+UID:cabaa272e677541d08e4cb0ec60362e460b7b578@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Rick & Friends
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Dave\, Ben & Rick play music at the Somerville Armory Cafe Satu
+ rdays from 10 am - 1 pm!\nhttps://artsatthearmory.org/events/rick-friends-
+ 3-2026-04-18-2026-04-25-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-0
+ 5-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-202
+ 6-07-18-2026-07-25-2026-0-28-2026-12-05/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://artsatthearmory.org/events/rick-friends-3-2026-04-18-2026-04-25
+ -2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
+ -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026
+ -0-28-2026-12-05/
+END:VEVENT
+BEGIN:VEVENT
+UID:aeafb90a82e569f3337baa10df21390c9368f04c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T153000Z
+DTEND:20261206T173000Z
+SUMMARY:Guitar Stop All Ages Student Recital
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Students who study at Guitar Stop in Porter Square perform!\nht
+ tps://artsatthearmory.org/events/guitar-stop-all-ages-student-recital/\nFr
+ om Pushpin Boston: https://pushpin.city/
+URL:https://artsatthearmory.org/events/guitar-stop-all-ages-student-recital
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:8dc3a4c863d3a35c9aa836542e8470ce47f23c41@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:Pub Sing
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Join in with chorus songs that are easy to learn and fun to sin
+ g\nhttps://artsatthearmory.org/events/pub-sing-6-2026-08-13-2026-09-10-202
+ 6-10-08-2026-11-12-2026-12-10/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artsatthearmory.org/events/pub-sing-6-2026-08-13-2026-09-10-202
+ 6-10-08-2026-11-12-2026-12-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:02fef5cdfba7987e7027ff118713b696d0bdf787@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Arts at the Armory Spotlight Series Presents Tito Puente Jr.
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Tito Puente Jr. comes to Arts at the Armory’s Spotlight Serie
+ s on Friday\, December 11\, 2026!\nhttps://artsatthearmory.org/events/arts
+ -at-the-armory-spotlight-series-presents-tito-puente-jr/\nFrom Pushpin Bos
+ ton: https://pushpin.city/
+URL:https://artsatthearmory.org/events/arts-at-the-armory-spotlight-series-
+ presents-tito-puente-jr/
+END:VEVENT
+BEGIN:VEVENT
+UID:82f629c8d25f6954050be4c1bdf1c6752ec4f2a2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Rick & Friends
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Dave\, Ben & Rick play music at the Somerville Armory Cafe Satu
+ rdays from 10 am - 1 pm!\nhttps://artsatthearmory.org/events/rick-friends-
+ 3-2026-04-18-2026-04-25-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-0
+ 5-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-202
+ 6-07-18-2026-07-25-2026-0-05-2026-12-12/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://artsatthearmory.org/events/rick-friends-3-2026-04-18-2026-04-25
+ -2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
+ -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026
+ -0-05-2026-12-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:e47c231e3c823165aa260388b149b14bc5a772a1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Craft Rave
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Social space for artists to craft\, yap\, and dance while live 
+ DJs mix House/Techno/EDM. BYO project or start something new!\nhttps://art
+ satthearmory.org/events/craft-rave/\nFrom Pushpin Boston: https://pushpin.
+ city/
+URL:https://artsatthearmory.org/events/craft-rave/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0deab984bb834e53a35d232a5fd47c12c6ed5c9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T220000Z
+DTEND:20261214T000000Z
+SUMMARY:Lady Ray and Her Jazz Birds
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Enjoy the sultry voice of Raynel Shepard\, aka Lady Ray\, with 
+ her fabulous troupe of instrumentalists\, as she lends a unique interpreta
+ tion to favorite jazz standards.\nhttps://artsatthearmory.org/events/lady-
+ ray-and-her-jazz-birds-9/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artsatthearmory.org/events/lady-ray-and-her-jazz-birds-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:81932189789e4e5d1a263682072399e2a1c11f65@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Rick & Friends
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Dave\, Ben & Rick play music at the Somerville Armory Cafe Satu
+ rdays from 10 am - 1 pm!\nhttps://artsatthearmory.org/events/rick-friends-
+ 3-2026-04-18-2026-04-25-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-0
+ 5-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-202
+ 6-07-18-2026-07-25-2026-0-12-2026-12-19/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://artsatthearmory.org/events/rick-friends-3-2026-04-18-2026-04-25
+ -2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
+ -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026
+ -0-12-2026-12-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:50e7c5ce22e55de9a9d5530f20be09454c3f3a5e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T220000Z
+DTEND:20261220T000000Z
+SUMMARY:Made in Mass: Holiday Movie Night at Arts at the Armory
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:A locally-shot double feature (Little Women & The Holdovers) to
+  share with our community!\nhttps://artsatthearmory.org/events/made-in-mas
+ s-holiday-movie-night/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artsatthearmory.org/events/made-in-mass-holiday-movie-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:21e09ce5765182d2b0010ab9144caf3c3be066b0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Rick & Friends
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Dave\, Ben & Rick play music at the Somerville Armory Cafe Satu
+ rdays from 10 am - 1 pm!\nhttps://artsatthearmory.org/events/rick-friends-
+ 3-2026-04-18-2026-04-25-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-0
+ 5-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-202
+ 6-07-18-2026-07-25-2026-0-19-2026-12-26/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://artsatthearmory.org/events/rick-friends-3-2026-04-18-2026-04-25
+ -2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
+ -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026
+ -0-19-2026-12-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:62949393b41c04a57800f3af6e60776285f78e4e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Rick & Friends
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Dave\, Ben & Rick play music at the Somerville Armory Cafe Satu
+ rdays from 10 am - 1 pm!\nhttps://artsatthearmory.org/events/rick-friends-
+ 3-2026-04-18-2026-04-25-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-0
+ 5-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-202
+ 6-07-18-2026-07-25-2026-0-26-2027-01-02/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://artsatthearmory.org/events/rick-friends-3-2026-04-18-2026-04-25
+ -2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
+ -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026
+ -0-26-2027-01-02/
+END:VEVENT
+BEGIN:VEVENT
+UID:81d4c2ab0c4fb64b5e707b900a15e0b58b6d6e83@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270109T150000Z
+DTEND:20270109T170000Z
+SUMMARY:Rick & Friends
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Dave\, Ben & Rick play music at the Somerville Armory Cafe Satu
+ rdays from 10 am - 1 pm!\nhttps://artsatthearmory.org/events/rick-friends-
+ 3-2026-04-18-2026-04-25-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-0
+ 5-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-202
+ 6-07-18-2026-07-25-2026-0-02-2027-01-09/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://artsatthearmory.org/events/rick-friends-3-2026-04-18-2026-04-25
+ -2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
+ -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026
+ -0-02-2027-01-09/
+END:VEVENT
+BEGIN:VEVENT
+UID:e45d4d57b53c78201e87839a24823e020c522b65@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270113T233000Z
+DTEND:20270114T013000Z
+SUMMARY:Bill Blumenreich Presents Payne Lindsey
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Payne Lindsey is a filmmaker and the creator and host of Up and
+  Vanished\, the investigative podcast with more than 600 million downloads
+ . His debut season brought national attention to the disappearance of Tara
+  Grinstead\, with two arrests made as the series unfolded. A co-founder of
+  Tenderfoot TV\, Lindsey is also known for Radio Rental\, Atlanta Monster\
+ , and High Strange. Originally from Atlanta\, he now calls Boston home.\nh
+ ttps://artsatthearmory.org/events/bill-blumenreich-presents-payne-lindsey/
+ \nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artsatthearmory.org/events/bill-blumenreich-presents-payne-lind
+ sey/
+END:VEVENT
+BEGIN:VEVENT
+UID:61d9dc8de89d6fccbc364b5df1937877aadf6ea4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Rick & Friends
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Dave\, Ben & Rick play music at the Somerville Armory Cafe Satu
+ rdays from 10 am - 1 pm!\nhttps://artsatthearmory.org/events/rick-friends-
+ 3-2026-04-18-2026-04-25-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-0
+ 5-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-202
+ 6-07-18-2026-07-25-2026-0-09-2027-01-16/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://artsatthearmory.org/events/rick-friends-3-2026-04-18-2026-04-25
+ -2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
+ -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026
+ -0-09-2027-01-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:5fe073777419f82365ad5583038e1e4418f3559d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270117T000000Z
+DTEND:20270117T020000Z
+SUMMARY:The Bowery Presents Jean-Michel Blais
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Doors open at 7:00 PM · Show begins at 8:00 PM\nhttps://artsat
+ thearmory.org/events/jean-michael-blais/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://artsatthearmory.org/events/jean-michael-blais/
+END:VEVENT
+BEGIN:VEVENT
+UID:80dabd566c391c22f039ef4fd130a8d9da894792@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Rick & Friends
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Dave\, Ben & Rick play music at the Somerville Armory Cafe Satu
+ rdays from 10 am - 1 pm!\nhttps://artsatthearmory.org/events/rick-friends-
+ 3-2026-04-18-2026-04-25-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-0
+ 5-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-202
+ 6-07-18-2026-07-25-2026-0-16-2027-01-23/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://artsatthearmory.org/events/rick-friends-3-2026-04-18-2026-04-25
+ -2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
+ -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026
+ -0-16-2027-01-23/
+END:VEVENT
+BEGIN:VEVENT
+UID:675c96c918d40a178691f1ed04ae20418ac48b4c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270126T233000Z
+DTEND:20270127T013000Z
+SUMMARY:The Moth: Boston StorySLAM
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Join us the fourth Tuesday of each month for the Boston Moth St
+ orySLAM! This community-focused\, open-mic storytelling competition is ope
+ n to anyone can share a story on the night’s theme (changes every month)
+ .\nhttps://artsatthearmory.org/events/the-moth-boston-storyslam-2027-01-26
+ /\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artsatthearmory.org/events/the-moth-boston-storyslam-2027-01-26
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:4de7e5cf51838acdeb9b6165f706f0d35ff33e9f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Rick & Friends
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Dave\, Ben & Rick play music at the Somerville Armory Cafe Satu
+ rdays from 10 am - 1 pm!\nhttps://artsatthearmory.org/events/rick-friends-
+ 3-2026-04-18-2026-04-25-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-0
+ 5-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-202
+ 6-07-18-2026-07-25-2026-0-23-2027-01-30/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://artsatthearmory.org/events/rick-friends-3-2026-04-18-2026-04-25
+ -2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
+ -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026
+ -0-23-2027-01-30/
+END:VEVENT
+BEGIN:VEVENT
+UID:c7dbc9614cc64e7fda1ea96b31b873702b4c3e82@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Rick & Friends
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Dave\, Ben & Rick play music at the Somerville Armory Cafe Satu
+ rdays from 10 am - 1 pm!\nhttps://artsatthearmory.org/events/rick-friends-
+ 3-2026-04-18-2026-04-25-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-0
+ 5-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-202
+ 6-07-18-2026-07-25-2026-0-30-2027-02-06/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://artsatthearmory.org/events/rick-friends-3-2026-04-18-2026-04-25
+ -2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
+ -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026
+ -0-30-2027-02-06/
+END:VEVENT
+BEGIN:VEVENT
+UID:41c2b7c3cedb00ac358381adc5afce7ec0aaeb13@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270213T000000Z
+DTEND:20270213T020000Z
+SUMMARY:Arts at the Armory Spotlight Series Presents Blind Boys of Alabama
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:6x Grammy Winners return to Somerville\, celebrating Stevie Won
+ der’s “Songs in the Key of Life”\nhttps://artsatthearmory.org/events
+ /spotlight-series-blind-boys-of-alabama/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://artsatthearmory.org/events/spotlight-series-blind-boys-of-alaba
+ ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:8e630f3d6bf683a1eb00f219808c91ba6901b142@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270213T150000Z
+DTEND:20270213T170000Z
+SUMMARY:Rick & Friends
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Dave\, Ben & Rick play music at the Somerville Armory Cafe Satu
+ rdays from 10 am - 1 pm!\nhttps://artsatthearmory.org/events/rick-friends-
+ 3-2026-04-18-2026-04-25-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-0
+ 5-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-202
+ 6-07-18-2026-07-25-2026-0-06-2027-02-13/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://artsatthearmory.org/events/rick-friends-3-2026-04-18-2026-04-25
+ -2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
+ -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026
+ -0-06-2027-02-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:982033a9a97aaabe001232dbcff45c55e7368861@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Rick & Friends
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Dave\, Ben & Rick play music at the Somerville Armory Cafe Satu
+ rdays from 10 am - 1 pm!\nhttps://artsatthearmory.org/events/rick-friends-
+ 3-2026-04-18-2026-04-25-2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-0
+ 5-30-2026-06-06-2026-06-13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-202
+ 6-07-18-2026-07-25-2026-0-13-2027-02-20/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://artsatthearmory.org/events/rick-friends-3-2026-04-18-2026-04-25
+ -2026-05-02-2026-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06
+ -13-2026-06-20-2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026
+ -0-13-2027-02-20/
+END:VEVENT
+BEGIN:VEVENT
+UID:1624ab3943fb09406ba26e6ce2bf70f57758f6db@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270223T233000Z
+DTEND:20270224T013000Z
+SUMMARY:The Moth: Boston StorySLAM
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:Join us the fourth Tuesday of each month for the Boston Moth St
+ orySLAM! This community-focused\, open-mic storytelling competition is ope
+ n to anyone can share a story on the night’s theme (changes every month)
+ .\nhttps://artsatthearmory.org/events/the-moth-boston-storyslam-2027-02-23
+ /\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artsatthearmory.org/events/the-moth-boston-storyslam-2027-02-23
+ /
+END:VEVENT
+END:VCALENDAR

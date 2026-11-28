@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f2d6cc2a995d5485e9634e97ac5fcaffacabad2c@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261220T010000Z
+DTEND:20261220T030000Z
+SUMMARY:Interzone\, The Breaks\, Sailor Down\, Lost My Balance
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/interzonethe-breakssailor-downlost
+ -my-balance-tickets-2004831072707
+URL:https://www.eventbrite.com/e/interzonethe-breakssailor-downlost-my-bala
+ nce-tickets-2004831072707
+END:VEVENT
+END:VCALENDAR

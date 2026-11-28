@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5ad1ca9b131933e6b6d3d5834c11278d36427049@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T210000Z
+DTEND:20261220T230000Z
+SUMMARY:20th Anniversary of The Country Christmas Sing Along Spectacular
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/20th-anniversary-of-the-countr
+ y-christmas-sing-along-spectacular/
+URL:https://aomtheatre.com/aom_event/20th-anniversary-of-the-country-christ
+ mas-sing-along-spectacular/
+END:VEVENT
+END:VCALENDAR

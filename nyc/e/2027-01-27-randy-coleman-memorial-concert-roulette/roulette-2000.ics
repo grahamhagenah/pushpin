@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bdc79bd9ead91a4f2bfb227c43f0322cccbaec5d@pushpin.city
+DTSTAMP:20270127T000000Z
+DTSTART:20270128T010000Z
+DTEND:20270128T030000Z
+SUMMARY:Randy Coleman Memorial Concert
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/randy-coleman-memorial-concert/
+URL:https://roulette.org/event/randy-coleman-memorial-concert/
+END:VEVENT
+END:VCALENDAR

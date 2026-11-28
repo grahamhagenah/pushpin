@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1fefdeeda428ff3b331e6ae6d4a2a8e537b52de3@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T024500Z
+DTEND:20261205T044500Z
+SUMMARY:The Beastmaster
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/beastmaster
+URL:https://amherstcinema.org/films-and-events/beastmaster
+END:VEVENT
+END:VCALENDAR

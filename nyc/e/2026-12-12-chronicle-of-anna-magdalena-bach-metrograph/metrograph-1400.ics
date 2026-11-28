@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:38e3c792a23b5596b40560100d46bb89182e8e48@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:Chronicle of Anna Magdalena Bach
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999003336-chronicle-of-anna-magdal
+ ena-bach/
+URL:https://metrograph.com/film/9999003336-chronicle-of-anna-magdalena-bach
+ /
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ebd7a5248dbe3550fefa1f77e9981807040f9498@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261219T210000Z
+DTEND:20261219T230000Z
+SUMMARY:The Dock Rats\, Mixed G\, Magestic
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/the-dock-ratsmixed-gmagestic-ticke
+ ts-2004783111253
+URL:https://www.eventbrite.com/e/the-dock-ratsmixed-gmagestic-tickets-20047
+ 83111253
+END:VEVENT
+END:VCALENDAR

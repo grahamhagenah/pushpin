@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bd99257daad8c3d83e7006ef00d8e719a5472016@pushpin.city
+DTSTAMP:20270222T000000Z
+DTSTART:20270223T003000Z
+DTEND:20270223T023000Z
+SUMMARY:Sammy Rae & The Friends - the GET DOWN!
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/sammy-rae-the-friends-the-get-
+ down/
+URL:https://aomtheatre.com/aom_event/sammy-rae-the-friends-the-get-down/
+END:VEVENT
+END:VCALENDAR

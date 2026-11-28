@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2680915f0bac8888e3582dfddad1000f25fc548d@pushpin.city
+DTSTAMP:20270207T000000Z
+DTSTART:20270207T160000Z
+DTEND:20270207T180000Z
+SUMMARY:Happy Valley Bluegrass Church ft. Deep River Ramblers
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/instance
+ s/a0FV500000MvfzRMAR
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/instances/a0FV50
+ 0000MvfzRMAR
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fc478ec3bc0c6449f5a61d3fdc4addaba002c498@pushpin.city
+DTSTAMP:20270129T000000Z
+DTSTART:20270130T010000Z
+DTEND:20270130T030000Z
+SUMMARY:DAKHABRAKHA
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.somervilletheatre.com/production/dakhabrakha/
+URL:https://www.somervilletheatre.com/production/dakhabrakha/
+END:VEVENT
+END:VCALENDAR

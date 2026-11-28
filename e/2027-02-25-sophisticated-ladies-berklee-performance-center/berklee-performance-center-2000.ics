@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:df314ae58949b1f0a875d69d3b82a61919e3d209@pushpin.city
+DTSTAMP:20270225T000000Z
+DTSTART:20270226T010000Z
+DTEND:20270226T030000Z
+SUMMARY:Sophisticated Ladies
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/sophisticated-ladies
+URL:https://www.berklee.edu/BPC/events/sophisticated-ladies
+END:VEVENT
+END:VCALENDAR

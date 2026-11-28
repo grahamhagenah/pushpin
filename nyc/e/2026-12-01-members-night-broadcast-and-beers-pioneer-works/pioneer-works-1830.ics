@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8183495487fc1a0277ccbcd9f26fb79e6431e6d2@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261201T233000Z
+DTEND:20261202T013000Z
+SUMMARY:Members Night: Broadcast and Beers
+LOCATION:Pioneer Works\, 159 Pioneer St\, Brooklyn\, NY 11231
+DESCRIPTION:https://pioneerworks.org/programs/members-night-broadcast-and-b
+ eers
+URL:https://pioneerworks.org/programs/members-night-broadcast-and-beers
+END:VEVENT
+END:VCALENDAR

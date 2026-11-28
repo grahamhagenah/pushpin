@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:17ebcf21e0c468cbcc3faaf904a7c295feb04b6e@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T003000Z
+DTEND:20261203T023000Z
+SUMMARY:Central Javanese Gamelan Fall Concert
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:https://www.smith.edu/news-events/events/central-javanese-gamel
+ an-fall-concert-0
+URL:https://www.smith.edu/news-events/events/central-javanese-gamelan-fall-
+ concert-0
+END:VEVENT
+END:VCALENDAR

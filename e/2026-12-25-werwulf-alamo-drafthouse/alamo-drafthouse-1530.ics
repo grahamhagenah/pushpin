@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d6961aedb6ffb1b53c14f6cbcce9fe95f653affa@pushpin.city
+DTSTAMP:20261225T000000Z
+DTSTART:20261225T203000Z
+DTEND:20261225T223000Z
+SUMMARY:Werwulf
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/werwulf
+URL:https://drafthouse.com/boston/show/werwulf
+END:VEVENT
+END:VCALENDAR

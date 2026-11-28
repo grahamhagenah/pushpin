@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f6fd78d98871774b497f9b8cac8b00ef8740d079@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:CitySpace 20th Anniversary Celebration
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:https://tickets.venuepilot.com/e/celebrating-20-years-of-citysp
+ ace-future-forward-2026-12-03-cityspace-easthampton-3d319d
+URL:https://tickets.venuepilot.com/e/celebrating-20-years-of-cityspace-futu
+ re-forward-2026-12-03-cityspace-easthampton-3d319d
+END:VEVENT
+END:VCALENDAR

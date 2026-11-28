@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Shelburne Falls Memorial Hall
+X-WR-CALDESC:What’s coming up at Shelburne Falls Memorial Hall\, from Pus
+ hpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:e437958e1f2df4306ab1e550496557b547c5d3f8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T180000Z
+DTEND:20261205T200000Z
+SUMMARY:Samson et Dalila: Saint-Saëns
+LOCATION:Shelburne Falls Memorial Hall\, 51 Bridge St\, Shelburne Falls\, M
+ A 01370
+DESCRIPTION:Met Opera Live in HD\nhttps://shelburnefallsmemorialhall.org/sa
+ mson-et-dalila-camille-saint-saens/\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://shelburnefallsmemorialhall.org/samson-et-dalila-camille-saint-s
+ aens/
+END:VEVENT
+BEGIN:VEVENT
+UID:e48e7e062dfb538aa60bf964ed8210c085d60603@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270123T180000Z
+DTEND:20270123T200000Z
+SUMMARY:La Fanciulla del West: Puccini
+LOCATION:Shelburne Falls Memorial Hall\, 51 Bridge St\, Shelburne Falls\, M
+ A 01370
+DESCRIPTION:Met Opera Live in HD\nhttps://shelburnefallsmemorialhall.org/10
+ 2851-2/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://shelburnefallsmemorialhall.org/102851-2/
+END:VEVENT
+END:VCALENDAR

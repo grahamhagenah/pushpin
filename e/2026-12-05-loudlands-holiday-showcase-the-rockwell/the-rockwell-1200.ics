@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5c0bd59c447db4be66e5c2c114475b3f0e1dd0e0@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T190000Z
+SUMMARY:LOUDLANDS Holiday Showcase
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/loudlands-holiday-showcase-2/
+URL:https://therockwell.org/calendar/loudlands-holiday-showcase-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ce7fb37009192a9c408c3e9893a7c7f2f12e0bc7@pushpin.city
+DTSTAMP:20270123T000000Z
+DTSTART:20270123T200000Z
+DTEND:20270123T220000Z
+SUMMARY:Beethoven’s Eroica
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:https://www.symphonyhallspringfield.com/events/detail/beethoven
+ s-eroica
+URL:https://www.symphonyhallspringfield.com/events/detail/beethovens-eroica
+END:VEVENT
+END:VCALENDAR

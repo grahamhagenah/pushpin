@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:59b1c6907a3f7aad8632c3345123c6944a27f1ce@pushpin.city
+DTSTAMP:20270102T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Brandon Santini - Blue 52 Series New Year Kick-off
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:https://www.eventbrite.com/e/brandon-santini-the-blue-52-series
+ -new-year-kick-off-tickets-2001409788554
+URL:https://www.eventbrite.com/e/brandon-santini-the-blue-52-series-new-yea
+ r-kick-off-tickets-2001409788554
+END:VEVENT
+END:VCALENDAR

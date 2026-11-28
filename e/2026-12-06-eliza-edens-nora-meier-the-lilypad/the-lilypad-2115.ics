@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e7edb5d89c706c347f262869598a5117a49b9b66@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261207T021500Z
+DTEND:20261207T041500Z
+SUMMARY:Eliza Edens & Nora Meier
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/12/6/eliza-edens-nora-me
+ ier
+URL:https://www.lilypadinman.com/home/2026/12/6/eliza-edens-nora-meier
+END:VEVENT
+END:VCALENDAR

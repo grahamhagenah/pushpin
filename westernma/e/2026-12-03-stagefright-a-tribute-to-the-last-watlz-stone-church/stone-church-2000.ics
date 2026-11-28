@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cd2b0102e3575b25b48b4e940c66fa9c650b03ea@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:StageFright: A Tribute to The Last Watlz
+LOCATION:Stone Church\, 210 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://tickets.venuepilot.com/e/stagefright-2026-12-03-stone-c
+ hurch-brattleboro-d75f34
+URL:https://tickets.venuepilot.com/e/stagefright-2026-12-03-stone-church-br
+ attleboro-d75f34
+END:VEVENT
+END:VCALENDAR

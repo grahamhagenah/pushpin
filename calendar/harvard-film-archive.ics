@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Harvard Film Archive
+X-WR-CALDESC:What’s coming up at Harvard Film Archive\, from Pushpin Bost
+ on.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:662c875cc12cc7a9d5a9134cd0ec15f0db090af1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Man of Marble
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1977\nhttps://harvardfilmarchive.or
+ g/calendar/man-of-marble-2026-11\nFrom Pushpin Boston: https://pushpin.cit
+ y/
+URL:https://harvardfilmarchive.org/calendar/man-of-marble-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:c80384296a4753f6800f4b32be968d36ca3ab02f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Wałęsa: Man of Hope
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 2013\nhttps://harvardfilmarchive.or
+ g/calendar/walesa-man-of-hope-2026-11\nFrom Pushpin Boston: https://pushpi
+ n.city/
+URL:https://harvardfilmarchive.org/calendar/walesa-man-of-hope-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:7b0336ec9750641775411be1d1c7d0f360dfe9cb@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T000000Z
+DTEND:20261201T020000Z
+SUMMARY:Man of Iron
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1981\nhttps://harvardfilmarchive.or
+ g/calendar/man-of-iron-2026-11\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardfilmarchive.org/calendar/man-of-iron-2026-11
+END:VEVENT
+BEGIN:VEVENT
+UID:c4d34bd55909ef397903da513d7dfbf9839be8f2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261208T000000Z
+DTEND:20261208T020000Z
+SUMMARY:The Conductor
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1980\nhttps://harvardfilmarchive.or
+ g/calendar/the-conductor-2026-12\nFrom Pushpin Boston: https://pushpin.cit
+ y/
+URL:https://harvardfilmarchive.org/calendar/the-conductor-2026-12
+END:VEVENT
+BEGIN:VEVENT
+UID:6d9b0c35989279df25d881f3ff4c4093c2364b65@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Without Anesthesia\, aka Rough Treatment
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1978\nhttps://harvardfilmarchive.or
+ g/calendar/without-anesthesia-aka-rough-treatment-2026-12\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://harvardfilmarchive.org/calendar/without-anesthesia-aka-rough-tr
+ eatment-2026-12
+END:VEVENT
+BEGIN:VEVENT
+UID:787b0b3de5808b20746ab3ada30f4eb622e8e726@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:Fanny and Alexander
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Ingmar Bergman\, 1982\nhttps://harvardfilmarchive.o
+ rg/calendar/fanny-and-alexander-2026-12\nFrom Pushpin Boston: https://push
+ pin.city/
+URL:https://harvardfilmarchive.org/calendar/fanny-and-alexander-2026-12
+END:VEVENT
+BEGIN:VEVENT
+UID:9478915e397a41da5a816e1dc00b86e58a309e4f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:The Ashes
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1965\nhttps://harvardfilmarchive.or
+ g/calendar/the-ashes-2026-12\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://harvardfilmarchive.org/calendar/the-ashes-2026-12
+END:VEVENT
+BEGIN:VEVENT
+UID:7da956e4b4fb10c5571230b6406447cf2fb42556@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T200000Z
+DTEND:20261213T220000Z
+SUMMARY:Pan Tadeusz\, aka The Last Days
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1999\nhttps://harvardfilmarchive.or
+ g/calendar/pan-tadeusz-aka-the-last-days-2026-12\nFrom Pushpin Boston: htt
+ ps://pushpin.city/
+URL:https://harvardfilmarchive.org/calendar/pan-tadeusz-aka-the-last-days-2
+ 026-12
+END:VEVENT
+BEGIN:VEVENT
+UID:819138c9e313b9c8adc0861aa8375b1a4e24d43e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261215T000000Z
+DTEND:20261215T020000Z
+SUMMARY:Ashes and Diamonds
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:Directed by Andrzej Wajda\, 1958\nhttps://harvardfilmarchive.or
+ g/calendar/ashes-and-diamonds-2026-12\nFrom Pushpin Boston: https://pushpi
+ n.city/
+URL:https://harvardfilmarchive.org/calendar/ashes-and-diamonds-2026-12
+END:VEVENT
+END:VCALENDAR

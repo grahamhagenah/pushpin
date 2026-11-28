@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c4471c50fd6517e57d41f98131c14717e615fcea@pushpin.city
+DTSTAMP:20270206T000000Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Symposium: Immigrant Artists in Vermont
+LOCATION:Brattleboro Museum & Art Center\, 10 Vernon St\, Brattleboro\, VT 
+ 05301
+DESCRIPTION:https://www.brattleboromuseum.org/event/symposium-immigrant-art
+ ists-in-vermont/
+URL:https://www.brattleboromuseum.org/event/symposium-immigrant-artists-in-
+ vermont/
+END:VEVENT
+END:VCALENDAR

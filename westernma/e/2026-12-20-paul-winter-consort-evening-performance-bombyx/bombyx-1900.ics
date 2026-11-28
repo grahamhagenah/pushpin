@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:674b4fe5eea39ef77008ff69561cf068f951cf16@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261221T000000Z
+DTEND:20261221T020000Z
+SUMMARY:Paul Winter Consort | Evening Performance
+LOCATION:Bombyx\, 130 Pine St\, Florence\, MA 01062
+DESCRIPTION:https://bombyx.live/events/paul-winter-consort-evening-performa
+ nce-2/
+URL:https://bombyx.live/events/paul-winter-consort-evening-performance-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:939116c7f795764ee1a2b438a064485e75092961@pushpin.city
+DTSTAMP:20270207T000000Z
+DTSTART:20270207T190000Z
+DTEND:20270207T210000Z
+SUMMARY:Stitch 'n Flix Series: Mamma Mia!
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/stitch-n-flix-series-mamma-mia
+ /
+URL:https://aomtheatre.com/aom_event/stitch-n-flix-series-mamma-mia/
+END:VEVENT
+END:VCALENDAR

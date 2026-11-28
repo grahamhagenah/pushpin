@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7d08d3d9c52a0bbb25440d740b4581e566bf98ff@pushpin.city
+DTSTAMP:20261215T000000Z
+DTSTART:20261216T003000Z
+DTEND:20261216T023000Z
+SUMMARY:Fall Grad Dance Event
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:https://www.smith.edu/news-events/events/fall-grad-dance-event-
+ 1
+URL:https://www.smith.edu/news-events/events/fall-grad-dance-event-1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2d3850f95a23d8833859249fda322928e01d12c1@pushpin.city
+DTSTAMP:20270129T000000Z
+DTSTART:20270130T000000Z
+DTEND:20270130T020000Z
+SUMMARY:Driftwood
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/driftwood/
+URL:https://www.passim.org/live-music/events/driftwood/
+END:VEVENT
+END:VCALENDAR

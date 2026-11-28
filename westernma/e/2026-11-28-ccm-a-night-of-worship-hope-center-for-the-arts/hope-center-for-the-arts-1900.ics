@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b2634f5d4f34358027d4f615fab078670ce0aa45@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:CCM: A Night of Worship
+LOCATION:HOPE Center for the Arts\, 150 Bridge St\, Springfield\, MA 01103
+DESCRIPTION:https://hopecenterforthearts.org/events/christ-centered-music-a
+ -night-of-worship/
+URL:https://hopecenterforthearts.org/events/christ-centered-music-a-night-o
+ f-worship/
+END:VEVENT
+END:VCALENDAR

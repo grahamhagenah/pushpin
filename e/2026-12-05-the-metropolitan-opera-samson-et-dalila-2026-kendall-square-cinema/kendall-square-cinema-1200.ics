@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5090deb623ec696203210b64244350e668e769a5@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T190000Z
+SUMMARY:The Metropolitan Opera: Samson et Dalila (2026)
+LOCATION:Kendall Square Cinema\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/89491de7-
+ 6ae8-57d8-a7c7-cd4326c93679
+URL:https://booking.landmarktheatres.com/launch/ticketing/89491de7-6ae8-57d
+ 8-a7c7-cd4326c93679
+END:VEVENT
+END:VCALENDAR

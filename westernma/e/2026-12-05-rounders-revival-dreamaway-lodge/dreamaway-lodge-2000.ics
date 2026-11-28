@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3defea135f7832788c8660f4f83854ec0066a17f@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:ROUNDERS REVIVAL
+LOCATION:Dreamaway Lodge\, 1342 County Rd\, Becket\, MA 01223
+DESCRIPTION:https://www.thedreamawaylodge.com/music/rounder-revival-9ptkd-c
+ j63z
+URL:https://www.thedreamawaylodge.com/music/rounder-revival-9ptkd-cj63z
+END:VEVENT
+END:VCALENDAR

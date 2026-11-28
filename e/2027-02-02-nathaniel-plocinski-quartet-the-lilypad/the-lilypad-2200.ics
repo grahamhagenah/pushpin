@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c88c82d7ee0cf9f4e89ec2bd16a4a80000cad2d8@pushpin.city
+DTSTAMP:20270202T000000Z
+DTSTART:20270203T030000Z
+DTEND:20270203T050000Z
+SUMMARY:Nathaniel Plocinski Quartet
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2027/2/2/nathaniel-plocinski-
+ quartet
+URL:https://www.lilypadinman.com/home/2027/2/2/nathaniel-plocinski-quartet
+END:VEVENT
+END:VCALENDAR

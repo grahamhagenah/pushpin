@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f3847cb0f63a8b45068aff35b5f497e04dcf4795@pushpin.city
+DTSTAMP:20270122T000000Z
+DTSTART:20270123T010000Z
+DTEND:20270123T030000Z
+SUMMARY:THE FEMMES - POP PUNK NIGHT
+LOCATION:Crystal Ballroom\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.ticketmaster.com/the-femmes-pop-punk-night-somervil
+ le-massachusetts-01-22-2027/event/01006569B935ABC6
+URL:https://www.ticketmaster.com/the-femmes-pop-punk-night-somerville-massa
+ chusetts-01-22-2027/event/01006569B935ABC6
+END:VEVENT
+END:VCALENDAR

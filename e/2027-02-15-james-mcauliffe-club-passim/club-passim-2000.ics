@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:410cbce99d2c247ce051032461bcebde85b5124f@pushpin.city
+DTSTAMP:20270215T000000Z
+DTSTART:20270216T010000Z
+DTEND:20270216T030000Z
+SUMMARY:James McAuliffe
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/james-mcauliffe/
+URL:https://www.passim.org/live-music/events/james-mcauliffe/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9b1a953c6ebca1348c5ac7ad0df22dac95584a9b@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T023000Z
+DTEND:20261205T043000Z
+SUMMARY:Can't Feel My Face
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/cant-feel-my-face-middle-east-d
+ ownstairs-tickets/14365804?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/cant-feel-my-face-middle-east-downstair
+ s-tickets/14365804?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

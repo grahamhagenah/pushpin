@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5fc0d81b4c7da2c9015801932b2f2cdcdd2cf132@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:The Wizard of Oz (1939)
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:https://mahaiwe.org/event/the-wizard-of-oz-1939-4/
+URL:https://mahaiwe.org/event/the-wizard-of-oz-1939-4/
+END:VEVENT
+END:VCALENDAR

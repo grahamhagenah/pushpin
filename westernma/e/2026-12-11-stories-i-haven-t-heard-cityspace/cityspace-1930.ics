@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fb2a4c017b152e75c44492e832aa8844ab71d7f2@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:Stories I Haven't Heard
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:https://tickets.venuepilot.com/e/cityspace-presents-leo-harriso
+ n-2026-12-11-cityspace-easthampton-5cf8f6
+URL:https://tickets.venuepilot.com/e/cityspace-presents-leo-harrison-2026-1
+ 2-11-cityspace-easthampton-5cf8f6
+END:VEVENT
+END:VCALENDAR

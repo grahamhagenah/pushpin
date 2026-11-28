@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d0e284d7e76bd92b9f07c5dc423da30fb482c044@pushpin.city
+DTSTAMP:20270206T000000Z
+DTSTART:20270207T000000Z
+DTEND:20270207T020000Z
+SUMMARY:Ibeyi
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/ibeyi-boston-massachusetts-02-06-2
+ 027/event/010064CFB67F099B
+URL:https://www.ticketmaster.com/ibeyi-boston-massachusetts-02-06-2027/even
+ t/010064CFB67F099B
+END:VEVENT
+END:VCALENDAR

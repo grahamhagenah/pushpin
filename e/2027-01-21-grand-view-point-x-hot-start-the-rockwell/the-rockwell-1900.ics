@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aadadc1edca8914bcf208895c852e2d5039e5763@pushpin.city
+DTSTAMP:20270121T000000Z
+DTSTART:20270122T000000Z
+DTEND:20270122T020000Z
+SUMMARY:Grand View Point x Hot Start
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/grand-view-point-x-hot-start/
+URL:https://therockwell.org/calendar/grand-view-point-x-hot-start/
+END:VEVENT
+END:VCALENDAR

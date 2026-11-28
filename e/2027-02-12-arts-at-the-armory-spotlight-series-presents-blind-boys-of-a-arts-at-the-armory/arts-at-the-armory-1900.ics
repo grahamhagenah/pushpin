@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1a08f1f8d9809d098e70a3ab6a832a67d5d1a948@pushpin.city
+DTSTAMP:20270212T000000Z
+DTSTART:20270213T000000Z
+DTEND:20270213T020000Z
+SUMMARY:Arts at the Armory Spotlight Series Presents Blind Boys of Alabama
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/spotlight-series-blind-boys-
+ of-alabama/
+URL:https://artsatthearmory.org/events/spotlight-series-blind-boys-of-alaba
+ ma/
+END:VEVENT
+END:VCALENDAR

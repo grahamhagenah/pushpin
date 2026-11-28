@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4a9e8924c0dca6c2d9657c4004e01330d095caaa@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261218T213000Z
+DTEND:20261218T233000Z
+SUMMARY:Fanny and Alexander (Theatrical version)
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999003566-fanny-and-alexander-thea
+ trical-version/
+URL:https://metrograph.com/film/9999003566-fanny-and-alexander-theatrical-v
+ ersion/
+END:VEVENT
+END:VCALENDAR

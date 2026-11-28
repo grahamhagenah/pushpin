@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9f06c4b84405c7166cb46d284f0eaf42ef9df4e1@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261210T010000Z
+DTEND:20261210T030000Z
+SUMMARY:THE LEEVEES
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/the-leevees
+URL:https://www.thedrakeamherst.org/events/the-leevees
+END:VEVENT
+END:VCALENDAR

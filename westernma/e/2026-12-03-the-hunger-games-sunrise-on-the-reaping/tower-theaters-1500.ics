@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ea7a415bff89ae5a4461ad44928bb8128ec2391a@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261203T200000Z
+DTEND:20261203T220000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Tower Theaters\, 19 College St\, South Hadley\, MA 01075
+DESCRIPTION:https://www.towertheaters.com/
+URL:https://www.towertheaters.com/
+END:VEVENT
+END:VCALENDAR

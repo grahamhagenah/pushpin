@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ca52f81b0ff823f3c64ca10d778333831cf9098e@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:Safekeep\, Stapler\, Object of Desire\, The Gwiggles
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/safekeep-stapler-object-of-desi
+ re-middle-east-upstairs-tickets/14365534?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/safekeep-stapler-object-of-desire-middl
+ e-east-upstairs-tickets/14365534?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69fb7916b1a26efe13a9b26b1442ff99beb06aba@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T233000Z
+DTEND:20261221T013000Z
+SUMMARY:It Goes On and On Telethon
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/its-goes-on-and-on-telethon/
+URL:https://therockwell.org/calendar/its-goes-on-and-on-telethon/
+END:VEVENT
+END:VCALENDAR

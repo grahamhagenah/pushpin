@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d80e4226eb887c0cf4bb9b5376005a9c9e0a19b5@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Blizzard of Blues
+LOCATION:Arts Collaborative Medford\, 162 Mystic Ave\, Medford\, MA 02155
+DESCRIPTION:https://artscollabmedford.org/eventscalendar#!event/2026/12/12/
+ blizzard-of-blues
+URL:https://artscollabmedford.org/eventscalendar#!event/2026/12/12/blizzard
+ -of-blues
+END:VEVENT
+END:VCALENDAR

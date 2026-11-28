@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c9ac16a1beaeaead02f7092160fe20c1bcf4b16c@pushpin.city
+DTSTAMP:20261215T000000Z
+DTSTART:20261216T003000Z
+DTEND:20261216T023000Z
+SUMMARY:Wailing Banshees Fall Concert: Celtic Creatures
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:https://www.smith.edu/news-events/events/wailing-banshees-fall-
+ concert-celtic-creatures
+URL:https://www.smith.edu/news-events/events/wailing-banshees-fall-concert-
+ celtic-creatures
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b37d8be1dc52acb3b2bdf16d7d3f4d678b996cc3@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:The Hard Part Begins
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/journey-through-the-past-70s-c
+ anadian-classics/
+URL:https://www.spectacletheater.com/journey-through-the-past-70s-canadian-
+ classics/
+END:VEVENT
+END:VCALENDAR

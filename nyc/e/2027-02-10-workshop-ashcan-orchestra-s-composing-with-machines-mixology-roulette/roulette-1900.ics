@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d380350e425b74fa2f82c749d00612842e8332c2@pushpin.city
+DTSTAMP:20270210T000000Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Workshop: Ashcan Orchestra’s Composing with Machines (Mixology Fe
+ stival)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/ashcan-orchestra-composing-with-mach
+ ines/
+URL:https://roulette.org/event/ashcan-orchestra-composing-with-machines/
+END:VEVENT
+END:VCALENDAR

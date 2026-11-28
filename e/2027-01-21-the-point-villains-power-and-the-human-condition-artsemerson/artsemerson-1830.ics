@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b80642e013301e139fbee7184d04610aff75eb61@pushpin.city
+DTSTAMP:20270121T000000Z
+DTSTART:20270121T233000Z
+DTEND:20270122T013000Z
+SUMMARY:The Point: Villains\, Power\, and the Human Condition
+LOCATION:ArtsEmerson\, 559 Washington St\, Boston\, MA 02111
+DESCRIPTION:https://artsemerson.org/event/the-point-villains-power-and-the-
+ human-condition/
+URL:https://artsemerson.org/event/the-point-villains-power-and-the-human-co
+ ndition/
+END:VEVENT
+END:VCALENDAR

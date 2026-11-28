@@ -1,0 +1,277 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Brooklyn Music Kitchen
+X-WR-CALDESC:What’s coming up at Brooklyn Music Kitchen\, from Pushpin NY
+ C.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:00cc21b128e4f0de0d672a02c5044f8212aa9ee9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:The Jolly What! + MORE!
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6a903253f6adda0001ceb533\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a903253f6adda0001ceb533
+END:VEVENT
+BEGIN:VEVENT
+UID:820a82a885f1a49db5ac47109be6bba799cd61f0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T000000Z
+DTEND:20261201T020000Z
+SUMMARY:PINK FLOYD TRIBUTE: Echoes Through Time
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ad6e32f9f982c00010b7816\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad6e32f9f982c00010b7816
+END:VEVENT
+BEGIN:VEVENT
+UID:2de446b049193d7287f4ec8652004a3b410cc106@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T003000Z
+DTEND:20261202T023000Z
+SUMMARY:Breaking Sound NYC at Brooklyn Music Kitchen 12/01
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ae0ef700de9ee0001875702\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ae0ef700de9ee0001875702
+END:VEVENT
+BEGIN:VEVENT
+UID:0a4229a5aa35c4f379db0e462087da1b7c40bca1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Featured Artist of the Week: TIKIBABY
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6aad16aadf2bfe00019be645\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aad16aadf2bfe00019be645
+END:VEVENT
+BEGIN:VEVENT
+UID:4e26d58cd8bc81d40b25c0356b0a1bebbb0606e5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Joline\, Joey Konopka\, Zaire Bloomfield and MORE!
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ad6d930fa2b1b0001e994ad\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad6d930fa2b1b0001e994ad
+END:VEVENT
+BEGIN:VEVENT
+UID:765f9cb59e21883727ece07caebd263b9a3a11dd@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:The Orange Blossoms\, The Smugs\, Grandma Drinks\, Red Mary
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6aba9c570afa8e0001e5665a\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aba9c570afa8e0001e5665a
+END:VEVENT
+BEGIN:VEVENT
+UID:cbcf471e98dba3301f8706acc41ce2cb44e19db3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:Victoria Herrera\, Angelica Gianna\, Joey Ama Dio\, Freedom Attic
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6aad1a5ca11a9d0001731a33\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aad1a5ca11a9d0001731a33
+END:VEVENT
+BEGIN:VEVENT
+UID:34f0b5cb7e16d101cd58bccb7d9b8ae219c9aebd@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T003000Z
+DTEND:20261209T023000Z
+SUMMARY:Breaking Sound NYC at Brooklyn Music Kitchen 12/08
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ae0ef860de9ee000146d130\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ae0ef860de9ee000146d130
+END:VEVENT
+BEGIN:VEVENT
+UID:209b88c94fbb0125eb5944f0a1270d3cce277983@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Featured Artist of the Week: Alex Franc
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ace67a658973b00013139ad\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ace67a658973b00013139ad
+END:VEVENT
+BEGIN:VEVENT
+UID:b94386ee6c5a8e12625a0f4c38b87f7e71d5ca23@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T003000Z
+DTEND:20261211T023000Z
+SUMMARY:Breaking Sound NYC at Brooklyn Music Kitchen 12/10
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ae0ef920de9ee000178670d\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ae0ef920de9ee000178670d
+END:VEVENT
+BEGIN:VEVENT
+UID:c833c0cbc45ffc9f03a650d30621ed5a8ac8e534@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Sandro Besta\, Anna Melva\, Oscar Thom\, Blood Boy
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ace63d92f9e660001d6ae0c\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ace63d92f9e660001d6ae0c
+END:VEVENT
+BEGIN:VEVENT
+UID:31a34649f7cc60e660ccfda79cf65b6fa11d96fa@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Lunar Pools\, Jenn Dean\, The Dead Weights + more!
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ace69cfb2296a0001775921\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ace69cfb2296a0001775921
+END:VEVENT
+BEGIN:VEVENT
+UID:9a055ac99e9e5531c04fc119db9e9a3f761e5cc2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261216T003000Z
+DTEND:20261216T023000Z
+SUMMARY:Breaking Sound NYC at Brooklyn Music Kitchen 12/15
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ae0efb6dfeeed0001434cdb\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ae0efb6dfeeed0001434cdb
+END:VEVENT
+BEGIN:VEVENT
+UID:3a29f90f9eee4ebc0e4b4cbbb44fdf1e763fde77@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261217T000000Z
+DTEND:20261217T020000Z
+SUMMARY:Featured Artist of the Week: D NILE
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ad10c2c3cdbd50001f41827\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad10c2c3cdbd50001f41827
+END:VEVENT
+BEGIN:VEVENT
+UID:60f1d7566577b93df0bfaae65b50e04f509e9257@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T003000Z
+DTEND:20261218T023000Z
+SUMMARY:Breaking Sound NYC at Brooklyn Music Kitchen 12/17
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ae0efc4d0057a0001f00d70\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ae0efc4d0057a0001f00d70
+END:VEVENT
+BEGIN:VEVENT
+UID:641874962d16523cc6a3d87f20bb34e3432f3c7e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T000000Z
+DTEND:20261220T020000Z
+SUMMARY:Nolan Lewis\, Edwin Camille + MORE!
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ab6ada90d3c230001ae866e\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ab6ada90d3c230001ae866e
+END:VEVENT
+BEGIN:VEVENT
+UID:b771f0a5fba2039920756c7fce84c3be64803c2f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261230T000000Z
+DTEND:20261230T020000Z
+SUMMARY:Breaking Sound NYC at Brooklyn Music Kitchen 12/29
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6afc9363d9362500018c59bb\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afc9363d9362500018c59bb
+END:VEVENT
+BEGIN:VEVENT
+UID:cee5bf8848ee06461e8394430b42cfc2bfe252e6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270109T000000Z
+DTEND:20270109T020000Z
+SUMMARY:Lauryn Natalia\, raindogg\, Liz Bounds\, Victoria Grills + MORE!
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ac3cfb1e902670001a11baa\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ac3cfb1e902670001a11baa
+END:VEVENT
+BEGIN:VEVENT
+UID:fab74f1c86c70f1fdd900582436d476aeb845773@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270116T000000Z
+DTEND:20270116T020000Z
+SUMMARY:Rebel Kicks\, Ray Sheehan\, Keith Roth @ The New Variants + MORE
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ac3d1733e99b100013f5be9\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ac3d1733e99b100013f5be9
+END:VEVENT
+BEGIN:VEVENT
+UID:bff5d39db23132f17501b7ed54fa7ef42325170c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270123T000000Z
+DTEND:20270123T020000Z
+SUMMARY:misc.
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6b05d350ca3c030001423f1f\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6b05d350ca3c030001423f1f
+END:VEVENT
+BEGIN:VEVENT
+UID:9669107a66d9f1460553638bbf5ea2019d39c3f4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270124T000000Z
+DTEND:20270124T020000Z
+SUMMARY:Jesse Garwood
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6af5c2b12f758d00018d7fa4\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af5c2b12f758d00018d7fa4
+END:VEVENT
+BEGIN:VEVENT
+UID:06815d05f2e6eb563a1d6aa9e43e990d349f96f0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270206T000000Z
+DTEND:20270206T020000Z
+SUMMARY:New Yeller\, Brendan Lane & the Sugar Packets + MORE!
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6af5bae9a236b40001077ebf\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af5bae9a236b40001077ebf
+END:VEVENT
+BEGIN:VEVENT
+UID:c8c47d5289044e79a47670a6f2c75f7a46f307ef@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270207T000000Z
+DTEND:20270207T020000Z
+SUMMARY:Cowboy Chords\, Juliette Reilly + MORE!
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6ad6d6434e2c340001ecc3d4\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ad6d6434e2c340001ecc3d4
+END:VEVENT
+BEGIN:VEVENT
+UID:1eebd4f0ad3346502185d3cbcfbaa089485196d2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Featured Artist of the Week: Dan Weintraub: Jerry Garcia Retrospect
+ ive with Story and Song
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6af5bf282f758d000129cf7a\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af5bf282f758d000129cf7a
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:59d3c0d7bf7c99059a11e847f1424a414989b243@pushpin.city
+DTSTAMP:20270124T000000Z
+DTSTART:20270124T190000Z
+DTEND:20270124T210000Z
+SUMMARY:The Secret Chord
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000D7I8nMAF
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0D7I8nMAF
+END:VEVENT
+END:VCALENDAR

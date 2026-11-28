@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5bcd32fa3d9a9f5949f4ce050f89a8ca17bccef2@pushpin.city
+DTSTAMP:20261228T000000Z
+DTSTART:20261229T000000Z
+DTEND:20261229T020000Z
+SUMMARY:The Gaslight Tinkers
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000D7E3aMAF
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0D7E3aMAF
+END:VEVENT
+END:VCALENDAR

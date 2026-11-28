@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dfdd02cb0b1339749653e6ab94ae3bcabf3cd654@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T044000Z
+DTEND:20261129T064000Z
+SUMMARY:Earth Girls Are Easy
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/earth-girls-are-easy/
+URL:https://www.ifccenter.com/films/earth-girls-are-easy/
+END:VEVENT
+END:VCALENDAR

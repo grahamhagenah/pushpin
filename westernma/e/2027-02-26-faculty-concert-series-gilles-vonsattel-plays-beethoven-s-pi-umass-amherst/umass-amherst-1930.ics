@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:79f0d8173e2c72f69ef0e55b4ba5ab7b49d801be@pushpin.city
+DTSTAMP:20270226T000000Z
+DTSTART:20270227T003000Z
+DTEND:20270227T023000Z
+SUMMARY:Faculty Concert Series: Gilles Vonsattel Plays Beethoven's Piano So
+ natas
+LOCATION:UMass Amherst\, 151 Presidents Drive\, Amherst\, MA 01003
+DESCRIPTION:https://events.umass.edu/event/faculty-concert-series-gilles-vo
+ nsattel-plays-beethovens-piano-sonatas
+URL:https://events.umass.edu/event/faculty-concert-series-gilles-vonsattel-
+ plays-beethovens-piano-sonatas
+END:VEVENT
+END:VCALENDAR

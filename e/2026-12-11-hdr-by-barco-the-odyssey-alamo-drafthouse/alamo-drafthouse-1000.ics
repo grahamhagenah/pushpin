@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d8545f1952e6b99f4dd7cabf84ff5e4731dd637d@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261211T150000Z
+DTEND:20261211T170000Z
+SUMMARY:HDR BY BARCO: THE ODYSSEY
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/hdr-by-barco-the-odyssey
+URL:https://drafthouse.com/boston/show/hdr-by-barco-the-odyssey
+END:VEVENT
+END:VCALENDAR

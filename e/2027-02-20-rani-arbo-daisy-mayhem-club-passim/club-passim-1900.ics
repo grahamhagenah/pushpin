@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a5c341bc660c286ba7a24c061f4287aa430a62a6@pushpin.city
+DTSTAMP:20270220T000000Z
+DTSTART:20270221T000000Z
+DTEND:20270221T020000Z
+SUMMARY:Rani Arbo & daisy mayhem
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/rani-arbo-daisy-mayhem
+ /
+URL:https://www.passim.org/live-music/events/rani-arbo-daisy-mayhem/
+END:VEVENT
+END:VCALENDAR

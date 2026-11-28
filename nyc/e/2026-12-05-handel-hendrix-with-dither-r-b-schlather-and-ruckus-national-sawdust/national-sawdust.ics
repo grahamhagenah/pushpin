@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0575da6a45fe6995ddcfd10a0c7b40d4481d1891@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:HANDEL + HENDRIX With Dither\, R.B. Schlather\, and Ruckus
+LOCATION:National Sawdust\, 80 N 6th St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.nationalsawdust.org/event/handel-hendrix-with-dithe
+ r-r-b-schlather-and-ruckus-12-5-26
+URL:https://www.nationalsawdust.org/event/handel-hendrix-with-dither-r-b-sc
+ hlather-and-ruckus-12-5-26
+END:VEVENT
+END:VCALENDAR

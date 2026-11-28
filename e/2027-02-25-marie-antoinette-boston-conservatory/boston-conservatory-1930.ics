@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1d9edb8fd52d725451fe24b73a0432c7e772fb86@pushpin.city
+DTSTAMP:20270225T000000Z
+DTSTART:20270226T003000Z
+DTEND:20270226T023000Z
+SUMMARY:Marie Antoinette
+LOCATION:Boston Conservatory\, 31 Hemenway Street\, Boston\, MA 02115
+DESCRIPTION:https://bostonconservatory.berklee.edu/events/i-marie-antoinett
+ e-i
+URL:https://bostonconservatory.berklee.edu/events/i-marie-antoinette-i
+END:VEVENT
+END:VCALENDAR

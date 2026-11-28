@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:da12881d97079ad9e365cc717dc3e627ef099cf2@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T003000Z
+DTEND:20261204T023000Z
+SUMMARY:Faculty Dance Concert - UMass & Amherst College
+LOCATION:UMass Amherst\, 151 Presidents Dr\, Amherst\, MA 01003
+DESCRIPTION:https://events.umass.edu/event/faculty-dance-concert-umass-amhe
+ rst-college
+URL:https://events.umass.edu/event/faculty-dance-concert-umass-amherst-coll
+ ege
+END:VEVENT
+END:VCALENDAR

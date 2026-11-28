@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:59a499be6825b9145eca1a31e89cd1e91117afb3@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261201T190000Z
+DTEND:20261201T210000Z
+SUMMARY:Artist Talk: Farihah Aliyah Shah
+LOCATION:UMass Amherst\, 154 Hicks Way\, Amherst\, MA 01003
+DESCRIPTION:https://events.umass.edu/event/artist-talk-farihah-aliyah-shah
+URL:https://events.umass.edu/event/artist-talk-farihah-aliyah-shah
+END:VEVENT
+END:VCALENDAR

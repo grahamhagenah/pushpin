@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:73da1e5616071394bc8705233884b6e0ade146d4@pushpin.city
+DTSTAMP:20270223T000000Z
+DTSTART:20270223T233000Z
+DTEND:20270224T013000Z
+SUMMARY:The Moth: Boston StorySLAM
+LOCATION:Arts at the Armory\, 191 Highland Ave\, Somerville\, MA 02143
+DESCRIPTION:https://artsatthearmory.org/events/the-moth-boston-storyslam-20
+ 27-02-23/
+URL:https://artsatthearmory.org/events/the-moth-boston-storyslam-2027-02-23
+ /
+END:VEVENT
+END:VCALENDAR

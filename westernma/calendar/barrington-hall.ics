@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Barrington Hall
+X-WR-CALDESC:What’s coming up at Barrington Hall\, from Pushpin Western M
+ ass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:9266cab16be2df046c5c213b099acc44d158fe67@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T010000Z
+DTEND:20261129T030000Z
+SUMMARY:A Night to Celebrate Dolly Parton - A live concert celebrating her 
+ music and legacy
+LOCATION:Barrington Hall\, 426 Stockbridge Rd\, Great Barrington\, MA 01230
+DESCRIPTION:https://live.barringtonhallgb.com/events/barringtonhall/2457054
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://live.barringtonhallgb.com/events/barringtonhall/2457054
+END:VEVENT
+BEGIN:VEVENT
+UID:2529ab837c7e30bc343c5aa2083b4a22a2da3a3a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Howie Day
+LOCATION:Barrington Hall\, 426 Stockbridge Rd\, Great Barrington\, MA 01230
+DESCRIPTION:https://live.barringtonhallgb.com/events/barringtonhall/2406379
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://live.barringtonhallgb.com/events/barringtonhall/2406379
+END:VEVENT
+BEGIN:VEVENT
+UID:fcc22464d035c83cd8b2e143f55c6470c0eb6a93@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:The Holiday Spectravaganza
+LOCATION:Barrington Hall\, 426 Stockbridge Rd\, Great Barrington\, MA 01230
+DESCRIPTION:https://live.barringtonhallgb.com/events/barringtonhall/2529785
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://live.barringtonhallgb.com/events/barringtonhall/2529785
+END:VEVENT
+BEGIN:VEVENT
+UID:be814a37705379e9dade7b569049d089d61f1209@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T010000Z
+DTEND:20261220T030000Z
+SUMMARY:Adam Ezra Group
+LOCATION:Barrington Hall\, 426 Stockbridge Rd\, Great Barrington\, MA 01230
+DESCRIPTION:https://live.barringtonhallgb.com/events/barringtonhall/2398125
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://live.barringtonhallgb.com/events/barringtonhall/2398125
+END:VEVENT
+END:VCALENDAR

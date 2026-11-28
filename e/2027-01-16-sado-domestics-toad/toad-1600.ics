@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d6331e2ec51da990f70fb439b83b1fecadf95055@pushpin.city
+DTSTAMP:20270116T000000Z
+DTSTART:20270116T210000Z
+DTEND:20270116T230000Z
+SUMMARY:Sado-Domestics
+LOCATION:Toad\, 1912 Massachusetts Ave\, Cambridge\, MA 02140
+DESCRIPTION:https://www.mccarthystoad.com/calendar
+URL:https://www.mccarthystoad.com/calendar
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5eaaf96217639ed2adce1459b6be5288ee28e178@pushpin.city
+DTSTAMP:20261224T000000Z
+DTSTART:20261224T160000Z
+DTEND:20261224T180000Z
+SUMMARY:Beauty and the Beast
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005149-beauty-and-the-beast/
+URL:https://metrograph.com/film/9999005149-beauty-and-the-beast/
+END:VEVENT
+END:VCALENDAR

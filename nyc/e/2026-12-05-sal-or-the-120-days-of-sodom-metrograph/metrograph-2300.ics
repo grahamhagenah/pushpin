@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:144e7fd7d47c3c09b6e69637bc162f4263f7c66c@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T040000Z
+DTEND:20261206T060000Z
+SUMMARY:Salò\, or the 120 Days of Sodom
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999000023-salo-or-the-120-days-of-
+ sodom/
+URL:https://metrograph.com/film/9999000023-salo-or-the-120-days-of-sodom/
+END:VEVENT
+END:VCALENDAR

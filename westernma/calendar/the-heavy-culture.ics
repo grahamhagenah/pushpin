@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · The Heavy Culture
+X-WR-CALDESC:What’s coming up at The Heavy Culture\, from Pushpin Western
+  Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:1f5c37f21ba7b999ef51c61137ad7ff7d4f0f23e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Ice Giant / Chained to the Dead / Lurching
+LOCATION:The Heavy Culture\, 1 Northampton St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.theheavyculture.coop/event-details-registration/ice
+ -giant-chained-to-the-dead-lurching\nFrom Pushpin Western Mass: https://pu
+ shpin.city/westernma/
+URL:https://www.theheavyculture.coop/event-details-registration/ice-giant-c
+ hained-to-the-dead-lurching
+END:VEVENT
+BEGIN:VEVENT
+UID:e82bdca3a63309ece18c06715ae3ed159a98daa0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Gonzo The Grand / Trauma / Int3rn3t / Bullhead / A.T.P. / Aligned /
+  CMF MILO
+LOCATION:The Heavy Culture\, 1 Northampton St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.theheavyculture.coop/event-details-registration/gon
+ zo-the-grand-trauma-int3rn3t-bullhead-a-t-p-aligned-cmf-milo\nFrom Pushpin
+  Western Mass: https://pushpin.city/westernma/
+URL:https://www.theheavyculture.coop/event-details-registration/gonzo-the-g
+ rand-trauma-int3rn3t-bullhead-a-t-p-aligned-cmf-milo
+END:VEVENT
+BEGIN:VEVENT
+UID:efa0219ac8fa1d87fe68457104086ed102eabbcb@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:Blue Manic / Sliimo / October Mountain
+LOCATION:The Heavy Culture\, 1 Northampton St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.theheavyculture.coop/event-details-registration/blu
+ e-manic-sliimo-october-mountain\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://www.theheavyculture.coop/event-details-registration/blue-manic-
+ sliimo-october-mountain
+END:VEVENT
+BEGIN:VEVENT
+UID:8034695d8d069ee7b7c237cc067a607db323a561@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:Provenance / Discord / Your Arms Are My Legs
+LOCATION:The Heavy Culture\, 1 Northampton St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.theheavyculture.coop/event-details-registration/pro
+ venance-discord-your-arms-are-my-legs\nFrom Pushpin Western Mass: https://
+ pushpin.city/westernma/
+URL:https://www.theheavyculture.coop/event-details-registration/provenance-
+ discord-your-arms-are-my-legs
+END:VEVENT
+BEGIN:VEVENT
+UID:56809593a7eadf291f8be0e9b20d237bbb96cd8e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Agenbite Misery / Hauzu / Hexrot
+LOCATION:The Heavy Culture\, 1 Northampton St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.theheavyculture.coop/event-details-registration/age
+ nbite-misery-hauzu-hexrot\nFrom Pushpin Western Mass: https://pushpin.city
+ /westernma/
+URL:https://www.theheavyculture.coop/event-details-registration/agenbite-mi
+ sery-hauzu-hexrot
+END:VEVENT
+BEGIN:VEVENT
+UID:a7516c44bec0fe8abc5971b4d6b30cd884435515@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Ravager / Wulver / Slit
+LOCATION:The Heavy Culture\, 1 Northampton St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.theheavyculture.coop/event-details-registration/rav
+ ager-wulver-slit\nFrom Pushpin Western Mass: https://pushpin.city/westernm
+ a/
+URL:https://www.theheavyculture.coop/event-details-registration/ravager-wul
+ ver-slit
+END:VEVENT
+BEGIN:VEVENT
+UID:a57a0c8b5557d82dd314166aa8a502b8f9151547@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T220000Z
+DTEND:20261214T000000Z
+SUMMARY:Skratch / Glasss / When The Time Comes
+LOCATION:The Heavy Culture\, 1 Northampton St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.theheavyculture.coop/event-details-registration/skr
+ atch-glasss-when-the-time-comes\nFrom Pushpin Western Mass: https://pushpi
+ n.city/westernma/
+URL:https://www.theheavyculture.coop/event-details-registration/skratch-gla
+ sss-when-the-time-comes
+END:VEVENT
+END:VCALENDAR

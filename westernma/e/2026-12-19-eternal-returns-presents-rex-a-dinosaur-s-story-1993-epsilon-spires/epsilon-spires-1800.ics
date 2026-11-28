@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0cc7880845fa7c7946557fab69112cbdcd5abd35@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261219T230000Z
+DTEND:20261220T010000Z
+SUMMARY:ETERNAL RETURNS PRESENTS... REX: A DINOSAUR’S STORY (1993)
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://www.epsilonspires.org/event-info/eternal-returns-presen
+ ts-rex-a-dinosaurs-story-1993
+URL:https://www.epsilonspires.org/event-info/eternal-returns-presents-rex-a
+ -dinosaurs-story-1993
+END:VEVENT
+END:VCALENDAR

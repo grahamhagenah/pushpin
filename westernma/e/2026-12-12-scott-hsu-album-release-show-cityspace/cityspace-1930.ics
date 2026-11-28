@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4a719b05f10d61d3fc50ad098c34ab4afcc6374d@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T003000Z
+DTEND:20261213T023000Z
+SUMMARY:Scott Hsu Album Release Show
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:https://tickets.venuepilot.com/e/cityspace-presents-scott-hsu-a
+ lbum-release-show-2026-12-12-cityspace-easthampton-ba4c10
+URL:https://tickets.venuepilot.com/e/cityspace-presents-scott-hsu-album-rel
+ ease-show-2026-12-12-cityspace-easthampton-ba4c10
+END:VEVENT
+END:VCALENDAR

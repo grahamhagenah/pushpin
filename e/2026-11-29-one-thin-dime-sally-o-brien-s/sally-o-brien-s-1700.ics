@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9210b9c39ddf75ef117d5e7c9c47868798f84fee@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T220000Z
+DTEND:20261130T000000Z
+SUMMARY:One Thin Dime
+LOCATION:Sally O'Brien's\, 335 Somerville Ave\, Somerville\, MA 02143
+DESCRIPTION:https://www.sallyobriensbar.com/music/
+URL:https://www.sallyobriensbar.com/music/
+END:VEVENT
+END:VCALENDAR

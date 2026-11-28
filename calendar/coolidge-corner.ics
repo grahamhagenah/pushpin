@@ -1,0 +1,591 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Coolidge Corner
+X-WR-CALDESC:What’s coming up at Coolidge Corner\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:700d27e8c07d9c85bf4cb8bf5c8f283e12029383@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Elsinore
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11am\, 1:40pm\, 4:15pm\, 7pm\, 9:45pm\nThe deeply emotio
+ nal and inspirational true story of Ian Charleson (Andrew Scott).\nhttps:/
+ /coolidge.org/films/elsinore\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:87e4d68b9a16268589131228ffa22c8cec3c18e9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T161000Z
+DTEND:20261128T181000Z
+SUMMARY:Club Kid
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:10am\, 1:30pm\, 4:30pm\, 6:30pm\, 9:55pm\nThe feature
+  directorial debut From writer-actor-director Jordan Firstman.\nhttps://co
+ olidge.org/films/club-kid\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:7d57bca1c29a5e84294a9fe7c68a772e941f06be@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T163000Z
+DTEND:20261128T183000Z
+SUMMARY:Paper Tiger (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:30am\, 2:15pm\, 5pm\, 7:30pm\, 10:05pm\nJames Gray’
+ s deeply felt and intense drama\, starring Adam Driver\, Scarlett Johansso
+ n\, & Miles Teller.\nhttps://coolidge.org/films/paper-tiger-2026\nFrom Pus
+ hpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/paper-tiger-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:abfa90808d206e8ea3bf989a680548d1a5170936@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T164500Z
+DTEND:20261128T184500Z
+SUMMARY:You Can See Everything
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:45am\, 3:45pm\, 8pm\nFrom boundary-pushing directors 
+ Nathan Fielder and Lance Oppenheim.\nhttps://coolidge.org/films/you-can-se
+ e-everything\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:3fc6a221e2bb43d6d785b3071b0f9c3dd9693e72@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 12pm\, 1:50pm\, 4pm\, 7:15pm\, 9:15pm\nWritten and direc
+ ted by Martin McDonagh\, starring John Malkovich\, Sam Rockwell\, Steve Bu
+ scemi\, & Parker Posey.\nhttps://coolidge.org/films/wild-horse-nine\nFrom 
+ Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:475451f8f8c69f2da56f2f7af01caeca182bc42a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T201500Z
+DTEND:20261128T221500Z
+SUMMARY:I Play Rocky
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:15pm\, 6:15pm\, 9pm\nThe ultimate underdog story behin
+ d the ultimate underdog movie.\nhttps://coolidge.org/films/i-play-rocky\nF
+ rom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/i-play-rocky
+END:VEVENT
+BEGIN:VEVENT
+UID:4d9159224d03e8fc8842ad5702ba8e3c2d5cf4c0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11am\, 1:50pm\, 4pm\, 7:15pm\, 9:15pm\nWritten and direc
+ ted by Martin McDonagh\, starring John Malkovich\, Sam Rockwell\, Steve Bu
+ scemi\, & Parker Posey.\nhttps://coolidge.org/films/wild-horse-nine\nFrom 
+ Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5235fbb92ed7b934d62b81a5fc6dc7ab7dba90@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T161000Z
+DTEND:20261129T181000Z
+SUMMARY:Club Kid
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:10am\, 1:30pm\, 4:30pm\, 6:30pm\, 9:55pm\nThe feature
+  directorial debut From writer-actor-director Jordan Firstman.\nhttps://co
+ olidge.org/films/club-kid\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:c07b41b67e58fb0c9d23d54b3ea8d8a346163f3b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T162000Z
+DTEND:20261129T182000Z
+SUMMARY:Elsinore
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:20am\, 1:40pm\, 4:15pm\, 7pm\, 9:45pm\nThe deeply emo
+ tional and inspirational true story of Ian Charleson (Andrew Scott).\nhttp
+ s://coolidge.org/films/elsinore\nFrom Pushpin Boston: https://pushpin.city
+ /
+URL:https://coolidge.org/films/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:dfd1a0a936e56ff3140f82e066c6536d67b8c2c0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T163000Z
+DTEND:20261129T183000Z
+SUMMARY:Paper Tiger (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:30am\, 2:15pm\, 5pm\, 7:30pm\, 10:05pm\nJames Gray’
+ s deeply felt and intense drama\, starring Adam Driver\, Scarlett Johansso
+ n\, & Miles Teller.\nhttps://coolidge.org/films/paper-tiger-2026\nFrom Pus
+ hpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/paper-tiger-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:f5a299613013405c634669017445ceac07a09335@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T164500Z
+DTEND:20261129T184500Z
+SUMMARY:You Can See Everything
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:45am\, 3:45pm\, 8pm\nFrom boundary-pushing directors 
+ Nathan Fielder and Lance Oppenheim.\nhttps://coolidge.org/films/you-can-se
+ e-everything\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:7ef40f6820415319a1c0804f4be970fb1b31e953@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T171500Z
+DTEND:20261129T191500Z
+SUMMARY:I Play Rocky
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 12:15pm\, 3:15pm\, 6:15pm\, 9pm\nThe ultimate underdog s
+ tory behind the ultimate underdog movie.\nhttps://coolidge.org/films/i-pla
+ y-rocky\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/i-play-rocky
+END:VEVENT
+BEGIN:VEVENT
+UID:36367faae9cfb4dcbf99ded0182a3b4f5f9d9066@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T201500Z
+DTEND:20261130T221500Z
+SUMMARY:I Play Rocky
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:15pm\, 9pm\nThe ultimate underdog story behind the ult
+ imate underdog movie.\nhttps://coolidge.org/films/i-play-rocky\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://coolidge.org/films/i-play-rocky
+END:VEVENT
+BEGIN:VEVENT
+UID:578d769fa5a067ca4516d5863e176ea2bd5e24c5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T203000Z
+DTEND:20261130T223000Z
+SUMMARY:Paper Tiger (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:30pm\, 7:30pm\, 10:05pm\nJames Gray’s deeply felt an
+ d intense drama\, starring Adam Driver\, Scarlett Johansson\, & Miles Tell
+ er.\nhttps://coolidge.org/films/paper-tiger-2026\nFrom Pushpin Boston: htt
+ ps://pushpin.city/
+URL:https://coolidge.org/films/paper-tiger-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:8c36ae15e549ba73605f1775ce50bd44cb3c6d08@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T204500Z
+DTEND:20261130T224500Z
+SUMMARY:You Can See Everything
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:45pm\, 8pm\nFrom boundary-pushing directors Nathan Fie
+ lder and Lance Oppenheim.\nhttps://coolidge.org/films/you-can-see-everythi
+ ng\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:8b3fa4f81f74927c3908b08b755e90bc8a0b73a8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T210000Z
+DTEND:20261130T230000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4pm\, 7:15pm\, 10:15pm\nWritten and directed by Martin M
+ cDonagh\, starring John Malkovich\, Sam Rockwell\, Steve Buscemi\, & Parke
+ r Posey.\nhttps://coolidge.org/films/wild-horse-nine\nFrom Pushpin Boston:
+  https://pushpin.city/
+URL:https://coolidge.org/films/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:e954411ffa929be1889e7fb7de964b854a0dce52@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T211500Z
+DTEND:20261130T231500Z
+SUMMARY:Elsinore
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:15pm\, 6:45pm\, 9:45pm\nThe deeply emotional and inspi
+ rational true story of Ian Charleson (Andrew Scott).\nhttps://coolidge.org
+ /films/elsinore\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:6f07adfdb41c4a120f637adaadf92e512df9ea9d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T213000Z
+DTEND:20261130T233000Z
+SUMMARY:Club Kid
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:30pm\, 6:30pm\, 9:55pm\nThe feature directorial debut 
+ From writer-actor-director Jordan Firstman.\nhttps://coolidge.org/films/cl
+ ub-kid\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:d1e99ef4e4a5bc97d9af5c7f97002996f147daca@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T000000Z
+DTEND:20261201T020000Z
+SUMMARY:Sneakers (1992)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Featuring a live conversation between mathematicians Lauren K. 
+ Williams of Harvard and Ken Ono of UVA.\nhttps://coolidge.org/films/sneake
+ rs-1992\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/sneakers-1992
+END:VEVENT
+BEGIN:VEVENT
+UID:67609a09d4e8b13880d86a868dc5e79db8d95c41@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T150000Z
+DTEND:20261201T170000Z
+SUMMARY:Crime\, Comedy\, and Chaos: The Early Cinema of the Coen Brothers
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:A five‑week class on the early films of the Coen brothers tau
+ ght by Andre Puca.\nhttps://coolidge.org/events/crime-comedy-and-chaos-ear
+ ly-cinema-coen-brothers\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/events/crime-comedy-and-chaos-early-cinema-coen-br
+ others
+END:VEVENT
+BEGIN:VEVENT
+UID:62b769887df9627c73c682f26803591b1b4a1183@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T201500Z
+DTEND:20261201T221500Z
+SUMMARY:I Play Rocky
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:15pm\, 9pm\nThe ultimate underdog story behind the ult
+ imate underdog movie.\nhttps://coolidge.org/films/i-play-rocky\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://coolidge.org/films/i-play-rocky
+END:VEVENT
+BEGIN:VEVENT
+UID:6f40d4f9b86676baf98e306e2e46a2878efe68d2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T203000Z
+DTEND:20261201T223000Z
+SUMMARY:Paper Tiger (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:30pm\, 7:30pm\, 10:05pm\nJames Gray’s deeply felt an
+ d intense drama\, starring Adam Driver\, Scarlett Johansson\, & Miles Tell
+ er.\nhttps://coolidge.org/films/paper-tiger-2026\nFrom Pushpin Boston: htt
+ ps://pushpin.city/
+URL:https://coolidge.org/films/paper-tiger-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:164a16f8bdd19303da114f79e76a57f3836e698c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T204500Z
+DTEND:20261201T224500Z
+SUMMARY:You Can See Everything
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:45pm\, 8pm\nFrom boundary-pushing directors Nathan Fie
+ lder and Lance Oppenheim.\nhttps://coolidge.org/films/you-can-see-everythi
+ ng\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:843c2f2da99d40081e7929455d52069bad974890@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T210000Z
+DTEND:20261201T230000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4pm\, 7:15pm\nWritten and directed by Martin McDonagh\, 
+ starring John Malkovich\, Sam Rockwell\, Steve Buscemi\, & Parker Posey.\n
+ https://coolidge.org/films/wild-horse-nine\nFrom Pushpin Boston: https://p
+ ushpin.city/
+URL:https://coolidge.org/films/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:9e6e012c7b3e50c9a55161bd6dd37d22a3d5e9c4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T211500Z
+DTEND:20261201T231500Z
+SUMMARY:Elsinore
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:15pm\, 6:45pm\, 9:45pm\nThe deeply emotional and inspi
+ rational true story of Ian Charleson (Andrew Scott).\nhttps://coolidge.org
+ /films/elsinore\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:6344d74d04df185b3c1e244d67045b1ef9ae79d2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T213000Z
+DTEND:20261201T233000Z
+SUMMARY:Club Kid
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:30pm\, 6:30pm\, 9:55pm\nThe feature directorial debut 
+ From writer-actor-director Jordan Firstman.\nhttps://coolidge.org/films/cl
+ ub-kid\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:ec9b0c2e0d9eee75f2a9c83c40e65f14344e8c65@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:The Best Years of Our Lives (4K Restoration)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:The Most Honored Picture In History!\nhttps://coolidge.org/film
+ s/best-years-our-lives-4k-restoration\nFrom Pushpin Boston: https://pushpi
+ n.city/
+URL:https://coolidge.org/films/best-years-our-lives-4k-restoration
+END:VEVENT
+BEGIN:VEVENT
+UID:71dd04f420e2fb03a64ae81f467ce4fa262cad5c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T201500Z
+DTEND:20261202T221500Z
+SUMMARY:I Play Rocky
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:15pm\, 9pm\nThe ultimate underdog story behind the ult
+ imate underdog movie.\nhttps://coolidge.org/films/i-play-rocky\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://coolidge.org/films/i-play-rocky
+END:VEVENT
+BEGIN:VEVENT
+UID:0a47f68c15bdae7891f42202ce345f4c6beb88ea@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T203000Z
+DTEND:20261202T223000Z
+SUMMARY:Paper Tiger (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:30pm\, 7:30pm\, 10:05pm\nJames Gray’s deeply felt an
+ d intense drama\, starring Adam Driver\, Scarlett Johansson\, & Miles Tell
+ er.\nhttps://coolidge.org/films/paper-tiger-2026\nFrom Pushpin Boston: htt
+ ps://pushpin.city/
+URL:https://coolidge.org/films/paper-tiger-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:7142dbec920cb6aa03f61a3297d7f063313119a4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T204500Z
+DTEND:20261202T224500Z
+SUMMARY:You Can See Everything
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 3:45pm\, 8pm\nFrom boundary-pushing directors Nathan Fie
+ lder and Lance Oppenheim.\nhttps://coolidge.org/films/you-can-see-everythi
+ ng\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:cb77bef6a292633c5f91fc64b66a9e83d563cd07@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T210000Z
+DTEND:20261202T230000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4pm\, 7:15pm\, 10:10pm\nWritten and directed by Martin M
+ cDonagh\, starring John Malkovich\, Sam Rockwell\, Steve Buscemi\, & Parke
+ r Posey.\nhttps://coolidge.org/films/wild-horse-nine\nFrom Pushpin Boston:
+  https://pushpin.city/
+URL:https://coolidge.org/films/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:5e5a98d71f986437442791d324ad521ef4062764@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T211500Z
+DTEND:20261202T231500Z
+SUMMARY:Elsinore
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:15pm\, 6:45pm\, 9:45pm\nThe deeply emotional and inspi
+ rational true story of Ian Charleson (Andrew Scott).\nhttps://coolidge.org
+ /films/elsinore\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:01ad3c9ef190e5206d6194d2201b259fbc814444@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T213000Z
+DTEND:20261202T233000Z
+SUMMARY:Club Kid
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 4:30pm\, 6:30pm\, 9:55pm\nThe feature directorial debut 
+ From writer-actor-director Jordan Firstman.\nhttps://coolidge.org/films/cl
+ ub-kid\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:a444674ee5e7ce84dd9efcea20b20180907ba6f8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T231500Z
+DTEND:20261203T011500Z
+SUMMARY:Discussion: L.A. Confidential
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Before and after select screenings\, gather with experienced in
+ structors for a closer look at the film and its context.\nhttps://coolidge
+ .org/events/discussion-la-confidential\nFrom Pushpin Boston: https://pushp
+ in.city/
+URL:https://coolidge.org/events/discussion-la-confidential
+END:VEVENT
+BEGIN:VEVENT
+UID:ccc59b8d36aa650b22a989a23c1389aaac0b5f8d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:L.A. Confidential
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Everything is suspect...everyone is for sale...and nothing is w
+ hat it seems.\nhttps://coolidge.org/films/la-confidential\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://coolidge.org/films/la-confidential
+END:VEVENT
+BEGIN:VEVENT
+UID:b438bdfe2998d1b07f3fe67d621dc2eb8f017e6c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T160000Z
+DTEND:20261203T180000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11am\, 1:50pm\, 4pm\, 9:15pm\nWritten and directed by Ma
+ rtin McDonagh\, starring John Malkovich\, Sam Rockwell\, Steve Buscemi\, &
+  Parker Posey.\nhttps://coolidge.org/films/wild-horse-nine\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://coolidge.org/films/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:06590e461e1ded603f6bcfe94dab54267862f34e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T161000Z
+DTEND:20261203T181000Z
+SUMMARY:Club Kid
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:10am\, 1:30pm\, 4:45pm\, 6:30pm\, 10:05pm\nThe featur
+ e directorial debut From writer-actor-director Jordan Firstman.\nhttps://c
+ oolidge.org/films/club-kid\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/club-kid
+END:VEVENT
+BEGIN:VEVENT
+UID:6556540d36806207769d32dac2f210967832f98a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T162000Z
+DTEND:20261203T182000Z
+SUMMARY:Elsinore
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:20am\, 1:40pm\, 4:15pm\, 7:15pm\, 9:55pm\nThe deeply 
+ emotional and inspirational true story of Ian Charleson (Andrew Scott).\nh
+ ttps://coolidge.org/films/elsinore\nFrom Pushpin Boston: https://pushpin.c
+ ity/
+URL:https://coolidge.org/films/elsinore
+END:VEVENT
+BEGIN:VEVENT
+UID:215a3059cdacd09db48493d9de82c387b949a834@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T163000Z
+DTEND:20261203T183000Z
+SUMMARY:Paper Tiger (2026)
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:30am\, 2pm\, 4:30pm\, 6:15pm\, 9:45pm\nJames Gray’s
+  deeply felt and intense drama\, starring Adam Driver\, Scarlett Johansson
+ \, & Miles Teller.\nhttps://coolidge.org/films/paper-tiger-2026\nFrom Push
+ pin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/paper-tiger-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:d85ea0707b3d22201fef186382bb54a3843fc5a2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T164500Z
+DTEND:20261203T184500Z
+SUMMARY:You Can See Everything
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 11:45am\, 3:15pm\, 9pm\nFrom boundary-pushing directors 
+ Nathan Fielder and Lance Oppenheim.\nhttps://coolidge.org/films/you-can-se
+ e-everything\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/you-can-see-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:0786c253b2b36885fa91dc9e1a6a8f0f2fad91d7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T171500Z
+DTEND:20261203T191500Z
+SUMMARY:I Play Rocky
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Times: 12:15pm\, 3:30pm\nThe ultimate underdog story behind the
+  ultimate underdog movie.\nhttps://coolidge.org/films/i-play-rocky\nFrom P
+ ushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/i-play-rocky
+END:VEVENT
+BEGIN:VEVENT
+UID:171eec2a6f6beb9df0d816c40ccef3cee4cf66a0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T234500Z
+DTEND:20261204T014500Z
+SUMMARY:Behemoth!
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Written and directed by Tony Gilroy\, starring Pedro Pascal.\nh
+ ttps://coolidge.org/films/behemoth\nFrom Pushpin Boston: https://pushpin.c
+ ity/
+URL:https://coolidge.org/films/behemoth
+END:VEVENT
+BEGIN:VEVENT
+UID:58be4d3e894bf37f6e7e394a30beefecbb9cd1a8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:The Lion in Winter
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Acting greats Peter O’Toole\, Katharine Hepburn\, & Anthony H
+ opkins star in this epic masterpiece directed by Anthony Harvey.\nhttps://
+ coolidge.org/films/lion-winter\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/lion-winter
+END:VEVENT
+BEGIN:VEVENT
+UID:9bece8c8dfb5273a6a3195118450bbc12225ff5e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T023000Z
+DTEND:20261204T043000Z
+SUMMARY:Clifford
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:What's the difference between Clifford and a pit bull? One will
+  tear your heart out\, scare your friends and wreck your house. The other 
+ one is a dog.\nhttps://coolidge.org/films/clifford\nFrom Pushpin Boston: h
+ ttps://pushpin.city/
+URL:https://coolidge.org/films/clifford
+END:VEVENT
+BEGIN:VEVENT
+UID:4f96ecc4d0fb6a45623dd4b6f25b6bf258bb79ca@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:Behemoth!
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:Written and directed by Tony Gilroy\, starring Pedro Pascal.\nh
+ ttps://coolidge.org/films/behemoth\nFrom Pushpin Boston: https://pushpin.c
+ ity/
+URL:https://coolidge.org/films/behemoth
+END:VEVENT
+BEGIN:VEVENT
+UID:73aa8bd9e4239f542cc5a1a6fc5cc30b625dc1d2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T045900Z
+DTEND:20261205T065900Z
+SUMMARY:Child’s Play
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:You'll wish it was only make-believe.\nhttps://coolidge.org/fil
+ ms/childs-play\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/childs-play
+END:VEVENT
+BEGIN:VEVENT
+UID:7c12170cd787f8b15a56b5a2ae4e11815de0b142@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T045900Z
+DTEND:20261205T065900Z
+SUMMARY:Eraserhead
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:David Lynch's startling debut feature is a lasting cult sensati
+ on influenced by the writings of Franz Kafka and Nikolai Gogol.\nhttps://c
+ oolidge.org/films/eraserhead\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://coolidge.org/films/eraserhead
+END:VEVENT
+END:VCALENDAR

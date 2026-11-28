@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:50f4af441d32534daacf34c5df6124a996c256a8@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T223000Z
+DTEND:20261214T003000Z
+SUMMARY:Yury Butusov's "King Lear"
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/yury-butusovs-king-lear
+URL:https://www.westnewtoncinema.com/movie/yury-butusovs-king-lear
+END:VEVENT
+END:VCALENDAR

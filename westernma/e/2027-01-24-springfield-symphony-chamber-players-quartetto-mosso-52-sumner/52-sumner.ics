@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:892a9791470f46cd12fcb7edc3ef58289831d80e@pushpin.city
+DTSTAMP:20270124T000000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Springfield Symphony Chamber Players - Quartetto Mosso
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:https://ci.ovationtix.com/37039/production/1293697
+URL:https://ci.ovationtix.com/37039/production/1293697
+END:VEVENT
+END:VCALENDAR

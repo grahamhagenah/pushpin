@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cc36314a92b6fcabc55ba7a64b751a7bcd432b56@pushpin.city
+DTSTAMP:20261222T000000Z
+DTSTART:20261223T000000Z
+DTEND:20261223T020000Z
+SUMMARY:EC: Reminiscences of a Journey to Lithuania
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62250
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62250
+END:VEVENT
+END:VCALENDAR

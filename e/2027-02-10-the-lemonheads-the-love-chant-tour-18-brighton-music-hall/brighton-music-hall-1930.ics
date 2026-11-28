@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:62bfb7b7ec98a132622e2b6c42d8459ceb4c9a33@pushpin.city
+DTSTAMP:20270210T000000Z
+DTSTART:20270211T003000Z
+DTEND:20270211T023000Z
+SUMMARY:The Lemonheads: The Love Chant Tour (18+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/the-lemonheads-the-love-chant-tour
+ -boston-massachusetts-02-10-2027/event/0100652A99F0DC61
+URL:https://www.ticketmaster.com/the-lemonheads-the-love-chant-tour-boston-
+ massachusetts-02-10-2027/event/0100652A99F0DC61
+END:VEVENT
+END:VCALENDAR

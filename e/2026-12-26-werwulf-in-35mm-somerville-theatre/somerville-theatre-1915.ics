@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697f534713a4c4100453bce4d4a3d20f90b0919a@pushpin.city
+DTSTAMP:20261226T000000Z
+DTSTART:20261227T001500Z
+DTEND:20261227T021500Z
+SUMMARY:Werwulf in 35mm
+LOCATION:Somerville Theatre\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.somervilletheatre.com/production/werwulf-in-35mm/
+URL:https://www.somervilletheatre.com/production/werwulf-in-35mm/
+END:VEVENT
+END:VCALENDAR

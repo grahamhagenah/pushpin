@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fc20718d41172331978645dff5d3b8b4f513b571@pushpin.city
+DTSTAMP:20261224T000000Z
+DTSTART:20261224T181500Z
+DTEND:20261224T201500Z
+SUMMARY:It's a Wonderful Life (1946) (80th Anniversary)
+LOCATION:Images Cinema\, 50 Spring St\, Williamstown\, MA 01267
+DESCRIPTION:https://www.imagescinema.org/movie/its-a-wonderful-life-1946-80
+ th-anniversary
+URL:https://www.imagescinema.org/movie/its-a-wonderful-life-1946-80th-anniv
+ ersary
+END:VEVENT
+END:VCALENDAR

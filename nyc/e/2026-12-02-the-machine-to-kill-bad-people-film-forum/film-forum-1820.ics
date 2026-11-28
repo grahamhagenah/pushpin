@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9f9104676b2598151df0f40907ff77328535b204@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261202T232000Z
+DTEND:20261203T012000Z
+SUMMARY:The Machine to Kill Bad People
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/the-machine-to-kill-bad-people-rosse
+ llini-120
+URL:https://filmforum.org/film/the-machine-to-kill-bad-people-rossellini-12
+ 0
+END:VEVENT
+END:VCALENDAR

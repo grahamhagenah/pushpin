@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eb96854d62ba73862231f6a573ea4920d87e88ca@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:Cold Start\, Dogtown\, Yopoh
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/cold-start-dogtown-yopoh-tickets-2
+ 000339653752
+URL:https://www.eventbrite.com/e/cold-start-dogtown-yopoh-tickets-200033965
+ 3752
+END:VEVENT
+END:VCALENDAR

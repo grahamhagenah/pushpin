@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:98e80730354091de5642c66145e2e82c414c4cf7@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T200000Z
+DTEND:20261213T220000Z
+SUMMARY:Pan Tadeusz\, aka The Last Days
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardfilmarchive.org/calendar/pan-tadeusz-aka-the-las
+ t-days-2026-12
+URL:https://harvardfilmarchive.org/calendar/pan-tadeusz-aka-the-last-days-2
+ 026-12
+END:VEVENT
+END:VCALENDAR

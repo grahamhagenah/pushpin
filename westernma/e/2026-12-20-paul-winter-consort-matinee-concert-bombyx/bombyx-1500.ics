@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:85cbb761aec214ec1692b36288093efaa5f4c3fa@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T200000Z
+DTEND:20261220T220000Z
+SUMMARY:Paul Winter Consort | Matinee Concert
+LOCATION:Bombyx\, 130 Pine St\, Florence\, MA 01062
+DESCRIPTION:https://bombyx.live/events/paul-winter-consort-matinee-concert/
+URL:https://bombyx.live/events/paul-winter-consort-matinee-concert/
+END:VEVENT
+END:VCALENDAR

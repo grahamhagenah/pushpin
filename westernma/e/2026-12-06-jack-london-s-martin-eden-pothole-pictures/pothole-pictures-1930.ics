@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:996db57d93e8185c9b9473225c06a6a3eba3ba36@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261207T003000Z
+DTEND:20261207T023000Z
+SUMMARY:Jack London’s Martin Eden
+LOCATION:Pothole Pictures\, 51 Bridge St\, Shelburne Falls\, MA 01370
+DESCRIPTION:https://shelburnefallsmemorialhall.org/jack-londons-martin-eden
+ /
+URL:https://shelburnefallsmemorialhall.org/jack-londons-martin-eden/
+END:VEVENT
+END:VCALENDAR

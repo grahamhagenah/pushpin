@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4d6d9165254cc7a3df140185533196df68429e83@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Old Haunts\, The Hidden Trax\, Black Hats\, Ronzio
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/old-haunts-the-hidden-trax-black-h
+ ats-ronzio-tickets-2002769137403
+URL:https://www.eventbrite.com/e/old-haunts-the-hidden-trax-black-hats-ronz
+ io-tickets-2002769137403
+END:VEVENT
+END:VCALENDAR

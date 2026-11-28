@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4eac4dc0b56fde49aa46d8edf15a19be345e93a3@pushpin.city
+DTSTAMP:20270223T000000Z
+DTSTART:20270224T010000Z
+DTEND:20270224T030000Z
+SUMMARY:A Guitarist Singer-Songwriter Showcase
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/a-guitarist-singer-songwrite
+ r-showcase-2
+URL:https://www.berklee.edu/BPC/events/a-guitarist-singer-songwriter-showca
+ se-2
+END:VEVENT
+END:VCALENDAR

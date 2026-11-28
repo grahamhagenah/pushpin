@@ -1,0 +1,450 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Roulette
+X-WR-CALDESC:What’s coming up at Roulette\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:3a7f9c006107018399c2bf108c0d6bda8fb4f2c1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T010000Z
+DTEND:20261202T030000Z
+SUMMARY:Amelia Heintzelman: How Dogs Play (Night 1)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Three performers collide\, spin\, fall\, and intertwine in an a
+ thletic maze of child’s play and menacing acts.\nhttps://roulette.org/ev
+ ent/amelia-heintzelman-how-dogs-play/\nFrom Pushpin NYC: https://pushpin.c
+ ity/nyc/
+URL:https://roulette.org/event/amelia-heintzelman-how-dogs-play/
+END:VEVENT
+BEGIN:VEVENT
+UID:5567da9cb1233fa10ca01a3bfd87dbe1b18df1e5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T010000Z
+DTEND:20261203T030000Z
+SUMMARY:Amelia Heintzelman: How Dogs Play (Night 2)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Three performers collide\, spin\, fall\, and intertwine in an a
+ thletic maze of child’s play and menacing acts.\nhttps://roulette.org/ev
+ ent/amelia-heintzelman-how-dogs-play-2/\nFrom Pushpin NYC: https://pushpin
+ .city/nyc/
+URL:https://roulette.org/event/amelia-heintzelman-how-dogs-play-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:7ee21b72aeb4337976f48702f4452a65108496ed@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:Interpretations: Gerry Hemingway\, Lina Andonovska\, and Earl Howar
+ d // Kyle Motl\, Eli Wallace\, and Nick Neuburg
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:The Interpretations Series returns with two ensembles — a per
+ cussion\, flute\, sax\, and synth quartet\, and a piano\, percussion\, and
+  bass trio.\nhttps://roulette.org/event/hemingway-andonovska-howard-motl-w
+ allace-neuburg/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/hemingway-andonovska-howard-motl-wallace-neu
+ burg/
+END:VEVENT
+BEGIN:VEVENT
+UID:861cfa9e874008e042313d9837c013a38bc77839@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:Matthew Shipp & William Parker: A Whole System Of
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Two jazz legends present a rare duo concert\, putting to fore t
+ he consummate magic of their deeply developed communion.\nhttps://roulette
+ .org/event/matthew-shipp-william-parker-duo-a-whole-system-of/\nFrom Pushp
+ in NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/matthew-shipp-william-parker-duo-a-whole-sys
+ tem-of/
+END:VEVENT
+BEGIN:VEVENT
+UID:063d858e67e801174538c92d90ab7c60e0771cad@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:Kit Fitzgerald Selected Video Work 1976 – 2026
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:A celebration of the groundbreaking work of video artist Kit Fi
+ tzgerald\, showcasing her lush visual style in two U.S. premieres.\nhttps:
+ //roulette.org/event/kit-fitzgerald/\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://roulette.org/event/kit-fitzgerald/
+END:VEVENT
+BEGIN:VEVENT
+UID:85eb80e0ccfc7d278b91185353c13e2f6bd7d78a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T010000Z
+DTEND:20261211T030000Z
+SUMMARY:Darmstadt at 80 Festival: Mivos Quartet plays Rebecca Saunders and 
+ Herbert Brün // GBSR Duo // Yaron Deutsch
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Two evenings bring together artists representing the radical sp
+ irit that continues to shape the landscape of contemporary music.\nhttps:/
+ /roulette.org/event/darmstadt-at-80-festival-mivos-quartet-rebecca-saunder
+ s-herbert-brun-yaron-deutsch-gbsr-duo/\nFrom Pushpin NYC: https://pushpin.
+ city/nyc/
+URL:https://roulette.org/event/darmstadt-at-80-festival-mivos-quartet-rebec
+ ca-saunders-herbert-brun-yaron-deutsch-gbsr-duo/
+END:VEVENT
+BEGIN:VEVENT
+UID:cc36df617324ba5aa16f71fd709d0ee5c6a3aaf5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T010000Z
+DTEND:20261212T030000Z
+SUMMARY:Darmstadt at 80 Festival: International Contemporary Ensemble x Tri
+ -Centric plays Anthony Braxton’s Thunder Music // GBSR Duo plays Stockha
+ usen’s Kontakte
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Two evenings bring together artists representing the radical sp
+ irit that continues to shape the landscape of contemporary music.\nhttps:/
+ /roulette.org/event/darmstadt-at-80-international-contemporary-ensemble-x-
+ tri-centric-anthony-braxtons-thunder-music/\nFrom Pushpin NYC: https://pus
+ hpin.city/nyc/
+URL:https://roulette.org/event/darmstadt-at-80-international-contemporary-e
+ nsemble-x-tri-centric-anthony-braxtons-thunder-music/
+END:VEVENT
+BEGIN:VEVENT
+UID:9b2001556852bc02adaee8e8d485c738e7432223@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:Bill Frisell Solo: A Concert to Benefit Roulette
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Legendary guitarist\, composer\, and longtime Roulette regular\
+ , returns with a solo set for a Roulette benefit.\nhttps://roulette.org/ev
+ ent/a-concert-to-benefit-roulette-bill-frisell/\nFrom Pushpin NYC: https:/
+ /pushpin.city/nyc/
+URL:https://roulette.org/event/a-concert-to-benefit-roulette-bill-frisell/
+END:VEVENT
+BEGIN:VEVENT
+UID:6256ba9473961b8bb4fe51bb785d6b6fe8ae05d2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T010000Z
+DTEND:20261218T030000Z
+SUMMARY:Ka Baird & Chris Ryan Williams “Enthalpy” Record Release // Lei
+ la Bordreuil & Luke Stewart
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Baird and Williams celebrate their first duo album on Outside T
+ ime Records\, opened by an improvised cello and bass duo.\nhttps://roulett
+ e.org/event/ka-baird-chris-ryan-williams-leila-bordreuil-luke-stewart/\nFr
+ om Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/ka-baird-chris-ryan-williams-leila-bordreuil
+ -luke-stewart/
+END:VEVENT
+BEGIN:VEVENT
+UID:1c277aa256d97dd9bf6c80c27348b45457197b28@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T010000Z
+DTEND:20261219T030000Z
+SUMMARY:AACM NYC: Celebrating 61 Years of Creative Music with Thurman Barke
+ r\, The Rhythm Method\, Noah Barker\, and David Virelles
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:One of the longest-standing musicians’ associations in the Un
+ ited States celebrates 61 years of fostering creative music.\nhttps://roul
+ ette.org/event/aacm-celebrating-61-years-of-creative-music-2/\nFrom Pushpi
+ n NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/aacm-celebrating-61-years-of-creative-music-
+ 2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ca5548d6d6824b7ab9a63e3bc9878a0f11267c21@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261221T230000Z
+DTEND:20261222T010000Z
+SUMMARY:Phill Niblock Winter Solstice 2026: 6 Hours of Music and Film
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:The 16th consecutive year of Niblock’s meditative installatio
+ n—numerous video projections soundtracked by his iconic and permeating d
+ rone.\nhttps://roulette.org/event/phill-niblock-winter-solstice-2026/\nFro
+ m Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/phill-niblock-winter-solstice-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:2c241aa8d6ac415806712a501ec29469cfafb4a3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270112T233000Z
+DTEND:20270113T013000Z
+SUMMARY:Collective Radiance: Damon Locks Black Monument Ensemble / Jimetta 
+ Rose presents METTASUN / Victor Campbell / aja monet (Winter Jazzfest)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:The theme of this year’s Winter Jazzfest\, Collective Radianc
+ e\, revolves around the belief that a community of musicians and listeners
+  […]\nhttps://roulette.org/event/collective-radiance-damon-locks-black-m
+ onument-ensemble-jimetta-rose-presents-mettasun-victor-campell-aja-monet/\
+ nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/collective-radiance-damon-locks-black-monume
+ nt-ensemble-jimetta-rose-presents-mettasun-victor-campell-aja-monet/
+END:VEVENT
+BEGIN:VEVENT
+UID:f189cf6ee1fef5fdd1d0fe541c0e68924e43efa8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270114T010000Z
+DTEND:20270114T030000Z
+SUMMARY:William Parker’s 75th Birthday Celebration: William Parker\, Hami
+ d Drake\, SHABAKA / Wadada Leo Smith & Sylvie Courvoisier / Black Cherry &
+  Shamanic Principle (Winter Jazzfest)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:To kick off his Winter Jazzfest birthday celebration\, William 
+ Parker appears in trio with longtime friend and drummer Hamid Drake and [
+ …]\nhttps://roulette.org/event/william-parkers-75th-birthday-celebration
+ /\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/william-parkers-75th-birthday-celebration/
+END:VEVENT
+BEGIN:VEVENT
+UID:4842d8be2971e07d1cac37b561e519a786ffd858@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270116T010000Z
+DTEND:20270116T030000Z
+SUMMARY:Mary Prescott: Ancestral Table (Night 1)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Ancestral Table\, by interdisciplinary artist\, Mary Prescott\,
+  is a 5-course communal meal and live performance that examines the relati
+ onships […]\nhttps://roulette.org/event/mary-prescott-ancestral-table/\n
+ From Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/mary-prescott-ancestral-table/
+END:VEVENT
+BEGIN:VEVENT
+UID:708d7196976632840deff67744705b4f81327e2e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270117T010000Z
+DTEND:20270117T030000Z
+SUMMARY:Mary Prescott: Ancestral Table (Night 2)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Ancestral Table\, by interdisciplinary artist\, Mary Prescott\,
+  is a 5-course communal meal and live performance that examines the relati
+ onships […]\nhttps://roulette.org/event/mary-prescott-ancestral-table-2/
+ \nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/mary-prescott-ancestral-table-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:119bd998c44f84dc5296462597eeaca116a92275@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270120T010000Z
+DTEND:20270120T030000Z
+SUMMARY:Spirits of Coltrane: Ravi Coltrane\, Miguel Atwood-Ferguson\, Gary 
+ Bartz\, aja monet\, Morgan Guerin\, Joel Ross\, Brandee Younger\, Justin B
+ rown (Winter Jazzfest)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Presented by Winter Jazzfest\, Ravi Coltrane leads a centennial
+  tribute to John Coltrane\, with an extended set of improvisations informe
+ d by […]\nhttps://roulette.org/event/spirits-of-coltrane-ravi-coltrane-m
+ iguel-atwood-ferguson/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/spirits-of-coltrane-ravi-coltrane-miguel-atw
+ ood-ferguson/
+END:VEVENT
+BEGIN:VEVENT
+UID:f37066d0fe11643f8027a763fed144e06598fcc5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270121T010000Z
+DTEND:20270121T030000Z
+SUMMARY:Michael Gordon: 8
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Join us for the the New York Premiere of Michael Gordon’s 8 p
+ erformed by an all-star cast of eight cellists. Nick Photinos cello Jeffre
+ y […]\nhttps://roulette.org/event/michael-gordon-8/\nFrom Pushpin NYC: h
+ ttps://pushpin.city/nyc/
+URL:https://roulette.org/event/michael-gordon-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:f8e0ba466a30ec06c43bbe65a5bfba6b8871fc4c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270122T010000Z
+DTEND:20270122T030000Z
+SUMMARY:New Amsterdam Presents: Mobéy Lola Irizarry // Scott Li & Claire Z
+ hang (Album Release)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:New Amsterdam Records celebrates two dynamic releases from alum
+ ni of its Composer’s Lab initiative. Mobéy Lola Irizarry will play musi
+ c […]\nhttps://roulette.org/event/mobey-lola-irizarry-scott-li-claire-zh
+ ang-new-amsterdam/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/mobey-lola-irizarry-scott-li-claire-zhang-ne
+ w-amsterdam/
+END:VEVENT
+BEGIN:VEVENT
+UID:2752e6f4537b579261e6d0927772c6111b9e81ef@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270128T010000Z
+DTEND:20270128T030000Z
+SUMMARY:Randy Coleman Memorial Concert
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:RSVP HERE Randolph Coleman\, beloved professor of Composition a
+ nd Music Theory at the Oberlin Conservatory of music\, passed away in earl
+ y 2025. […]\nhttps://roulette.org/event/randy-coleman-memorial-concert/\
+ nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/randy-coleman-memorial-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:7e2d76cf27c77470d038591caca05931ca553b41@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270204T010000Z
+DTEND:20270204T030000Z
+SUMMARY:Lambkin
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Lambkin presents new material as part of her Roulette Residency
+ . *FREE FOR ALL ROULETTE MEMBERS * A livestream will be available free of 
+ charge […]\nhttps://roulette.org/event/lambkin-roulette-resident/\nFrom 
+ Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/lambkin-roulette-resident/
+END:VEVENT
+BEGIN:VEVENT
+UID:303aa34a29b1751481b669fa0c9a45d0501ab32d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270205T000000Z
+DTEND:20270205T020000Z
+SUMMARY:Workshop: Annea Lockwood & Nate Wooley’s Sound Map of the Columbi
+ a River
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Sound artists Annea Lockwood and Nate Wooley resume a decade-lo
+ ng conversation about their shared love of all sounds wild and feral. They
+  will […]\nhttps://roulette.org/event/annea-lockwood-nate-wooley-sound-m
+ ap-of-the-columbia-river-workshop/\nFrom Pushpin NYC: https://pushpin.city
+ /nyc/
+URL:https://roulette.org/event/annea-lockwood-nate-wooley-sound-map-of-the-
+ columbia-river-workshop/
+END:VEVENT
+BEGIN:VEVENT
+UID:d5483bc361b7fa0cb64f25c6b37da4e62b22e03e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270206T010000Z
+DTEND:20270206T030000Z
+SUMMARY:Annea Lockwood & Nate Wooley: Sound Map of the Columbia River (Nigh
+ t 1)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Join us for a two-night run of legendary sound artist Annea Loc
+ kwood and composer/improviser Nate Wooley’s premiere of A Sound Map of t
+ he […]\nhttps://roulette.org/event/annea-lockwood-nate-wooley-sound-map-
+ of-the-columbia-river/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/annea-lockwood-nate-wooley-sound-map-of-the-
+ columbia-river/
+END:VEVENT
+BEGIN:VEVENT
+UID:893e666d9397ec3406e131cc4bd4856ab89a52a9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270207T010000Z
+DTEND:20270207T030000Z
+SUMMARY:Annea Lockwood & Nate Wooley: Sound Map of the Columbia River (Nigh
+ t 2)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Join us for a two-night run of legendary sound artist Annea Loc
+ kwood and composer/improviser Nate Wooley’s premiere of A Sound Map of t
+ he […]\nhttps://roulette.org/event/annea-lockwood-nate-wooley-sound-map-
+ of-the-columbia-river-2/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/annea-lockwood-nate-wooley-sound-map-of-the-
+ columbia-river-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:e95227c6df197755b1688075af3bda418ded4e83@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270208T010000Z
+DTEND:20270208T030000Z
+SUMMARY:John Zorn’s FLATLANDS (CD Release Concert)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Join us for a special concert celebrating the release of FLATLA
+ NDS’ latest recording\, FLATLANDS II. John Zorn’s newest project Flatl
+ ands […]\nhttps://roulette.org/event/john-zorns-flatlands/\nFrom Pushpin
+  NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/john-zorns-flatlands/
+END:VEVENT
+BEGIN:VEVENT
+UID:d1d59c246a5798238dfe6b30d038318a702fe709@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Workshop: Ashcan Orchestra’s Composing with Machines (Mixology Fe
+ stival)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:In this workshop\, Ashcan Orchestra composer P. Spadine shares 
+ lessons learned in the process of designing/building automated instruments
+  to […]\nhttps://roulette.org/event/ashcan-orchestra-composing-with-mach
+ ines/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/ashcan-orchestra-composing-with-machines/
+END:VEVENT
+BEGIN:VEVENT
+UID:2eea5ccd88008d1c5f4c12a60751f7fe9a307179@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270212T010000Z
+DTEND:20270212T030000Z
+SUMMARY:Ashcan Orchestra // Ivana Dama (Mixology Festival)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Ashcan Orchestra presents a selection of works for homemade ins
+ truments and interfaces. Built from mostly salvaged materials and automate
+ d with […]\nhttps://roulette.org/event/mixology-night-ivana-dama-ashcan-
+ orchestra/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/mixology-night-ivana-dama-ashcan-orchestra/
+END:VEVENT
+BEGIN:VEVENT
+UID:bd256be580c36e4be0c9309ea20146aafb24da4b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270213T010000Z
+DTEND:20270213T030000Z
+SUMMARY:Traxman + Kikù Hibino: NOONNOONNOON // Chantal Michelle (Mixology 
+ Festival)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Sound artist Kikù Hibino and Chicago footwork pioneer Traxman 
+ present NOONNOONNOON\, a live exploration of new forms of dance music buil
+ t […]\nhttps://roulette.org/event/noonnoonnoon-kiku-hibino-traxman/\nFro
+ m Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/noonnoonnoon-kiku-hibino-traxman/
+END:VEVENT
+BEGIN:VEVENT
+UID:38c5863146c8e91376b2dc7b5bcea8dc37b86151@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270214T010000Z
+DTEND:20270214T030000Z
+SUMMARY:Holodec // Dorothy Carlos // SCRAAATCH (Mixology Festival)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:C-STUDIOS presents live performances by Holodec and Dorothy Car
+ los\, exploring the expansive possibilities of electronic music. Through t
+ heir […]\nhttps://roulette.org/event/vanessa-amara-holodec-dorothy-carlo
+ s-scraaatch/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/vanessa-amara-holodec-dorothy-carlos-scraaat
+ ch/
+END:VEVENT
+BEGIN:VEVENT
+UID:c4e4c52f5535c13bbe5faebcfb95ee4e96e080d0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270217T010000Z
+DTEND:20270217T030000Z
+SUMMARY:Modney: Nighthawks (Album Release)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Nighthawks is the latest project of composer\, violinist\, and 
+ 2026 Guggenheim Fellow Modney\, featuring an all-star lineup of Ingrid Lau
+ brock […]\nhttps://roulette.org/event/modneys-nighthawks/\nFrom Pushpin 
+ NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/modneys-nighthawks/
+END:VEVENT
+BEGIN:VEVENT
+UID:4e2e09465f91ef5f4a03abc6276c143eca6d69a0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270219T010000Z
+DTEND:20270219T030000Z
+SUMMARY:Jason Robinson’s Janus Orchestra – Blue Salience: For Yusef Lat
+ eef
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Blue Salience: For Yusef Lateef is Jason Robinson’s expansive
+  tribute to the late Dr. Yusef Lateef\, featuring his 17-piece Janus Orche
+ stra—a […]\nhttps://roulette.org/event/blue-salience-jason-robinsons-j
+ anus-orchestra/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/blue-salience-jason-robinsons-janus-orchestr
+ a/
+END:VEVENT
+BEGIN:VEVENT
+UID:89b86fa3dadbf5f70fa91017779731dc6a4b6ea1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270225T010000Z
+DTEND:20270225T030000Z
+SUMMARY:Alexis Marcelo: Pianovolution
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:Alexis Marcelo performs a solo piano set of music from his late
+ st album Solo Piano\, a record that stands as an intimate sonic self-portr
+ ait\, […]\nhttps://roulette.org/event/alexis-marcelo-pianovolution/\nFro
+ m Pushpin NYC: https://pushpin.city/nyc/
+URL:https://roulette.org/event/alexis-marcelo-pianovolution/
+END:VEVENT
+END:VCALENDAR

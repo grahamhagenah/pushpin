@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fa4679b90ad69723c94aa125e90a42eab68fe9e7@pushpin.city
+DTSTAMP:20261217T000000Z
+DTSTART:20261218T023000Z
+DTEND:20261218T043000Z
+SUMMARY:Feeders 2: Slay Bells
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/feeders-2-slay-b
+ ells/
+URL:https://nitehawkcinema.com/williamsburg/movies/feeders-2-slay-bells/
+END:VEVENT
+END:VCALENDAR

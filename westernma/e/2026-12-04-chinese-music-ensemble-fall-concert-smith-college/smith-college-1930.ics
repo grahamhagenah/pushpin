@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:89975beaf1b2a111c7b4e04b0889130fa3c80d93@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:Chinese Music Ensemble Fall Concert
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:https://www.smith.edu/news-events/events/chinese-music-ensemble
+ -fall-concert-0
+URL:https://www.smith.edu/news-events/events/chinese-music-ensemble-fall-co
+ ncert-0
+END:VEVENT
+END:VCALENDAR

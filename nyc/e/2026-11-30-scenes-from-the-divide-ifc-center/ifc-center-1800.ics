@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:575a727e4d0e0edb00e82305f5af69905bde6e4b@pushpin.city
+DTSTAMP:20261130T000000Z
+DTSTART:20261130T230000Z
+DTEND:20261201T010000Z
+SUMMARY:Scenes from the Divide
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/scenes-from-the-divide-2/
+URL:https://www.ifccenter.com/films/scenes-from-the-divide-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6f4ac4fc8b21d7c7fdd67cbfc798220fba5b51f2@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T024500Z
+DTEND:20261129T044500Z
+SUMMARY:Elsinore
+LOCATION:Coolidge Corner\, 290 Harvard St\, Brookline\, MA 02446
+DESCRIPTION:https://coolidge.org/films/elsinore
+URL:https://coolidge.org/films/elsinore
+END:VEVENT
+END:VCALENDAR

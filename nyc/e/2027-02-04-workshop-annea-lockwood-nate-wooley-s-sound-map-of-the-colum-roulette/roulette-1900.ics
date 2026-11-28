@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8d83755b5a148b92075315bbb2165ee8ecb209b4@pushpin.city
+DTSTAMP:20270204T000000Z
+DTSTART:20270205T000000Z
+DTEND:20270205T020000Z
+SUMMARY:Workshop: Annea Lockwood & Nate Wooley’s Sound Map of the Columbi
+ a River
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/annea-lockwood-nate-wooley-sound-map
+ -of-the-columbia-river-workshop/
+URL:https://roulette.org/event/annea-lockwood-nate-wooley-sound-map-of-the-
+ columbia-river-workshop/
+END:VEVENT
+END:VCALENDAR

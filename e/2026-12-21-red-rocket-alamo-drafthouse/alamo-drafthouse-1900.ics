@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fc63fe9e18ea3022ec337198165ad02e62ec82d7@pushpin.city
+DTSTAMP:20261221T000000Z
+DTSTART:20261222T000000Z
+DTEND:20261222T020000Z
+SUMMARY:Red Rocket
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/a24-x-alamo-cinema-club-mand
+ atory-bundle-red-rocket
+URL:https://drafthouse.com/boston/show/a24-x-alamo-cinema-club-mandatory-bu
+ ndle-red-rocket
+END:VEVENT
+END:VCALENDAR

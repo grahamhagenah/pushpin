@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:de3eebca970d8708d63834844c61e6bda6d09027@pushpin.city
+DTSTAMP:20270223T000000Z
+DTSTART:20270224T010000Z
+DTEND:20270224T030000Z
+SUMMARY:Rare Americans
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1644849
+URL:https://www.sinclaircambridge.com/events/detail/1644849
+END:VEVENT
+END:VCALENDAR

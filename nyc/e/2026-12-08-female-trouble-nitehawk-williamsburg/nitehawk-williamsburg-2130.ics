@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ce6069e4cab80c3a9148d7ade2871ea204c6303c@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261209T023000Z
+DTEND:20261209T043000Z
+SUMMARY:Female Trouble
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/female-trouble/
+URL:https://nitehawkcinema.com/williamsburg/movies/female-trouble/
+END:VEVENT
+END:VCALENDAR

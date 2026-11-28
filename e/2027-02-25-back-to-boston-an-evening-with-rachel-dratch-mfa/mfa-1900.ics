@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:380b8e3e7d66b0dd3ec23fd6dc61c03a067a4f95@pushpin.city
+DTSTAMP:20270225T000000Z
+DTSTART:20270226T000000Z
+DTEND:20270226T020000Z
+SUMMARY:Back to Boston: An Evening with Rachel Dratch
+LOCATION:MFA\, 465 Huntington Ave\, Boston\, MA 02115
+DESCRIPTION:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity
+ -lectures/back-to-boston-an-evening-with-rachel-dratch?event=178921
+URL:https://www.mfa.org/event/the-ruth-and-carl-j-shapiro-celebrity-lecture
+ s/back-to-boston-an-evening-with-rachel-dratch?event=178921
+END:VEVENT
+END:VCALENDAR

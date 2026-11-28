@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:230d08b0dd3477d06a71bd7b23549702a5355fab@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Tom Hambridge - Blue 52 Series
+LOCATION:52 Sumner\, 52 Sumner Ave\, Springfield\, MA 01108
+DESCRIPTION:https://www.eventbrite.com/e/tom-hambridge-out-front-blue-52-se
+ ries-with-a-5x-grammy-winner-tickets-2001406360300
+URL:https://www.eventbrite.com/e/tom-hambridge-out-front-blue-52-series-wit
+ h-a-5x-grammy-winner-tickets-2001406360300
+END:VEVENT
+END:VCALENDAR

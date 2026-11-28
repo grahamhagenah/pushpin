@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2da662598182e048e742d0b2f447aaa89b3b80b3@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T010000Z
+DTEND:20261202T030000Z
+SUMMARY:Chamber Music Recital
+LOCATION:Boston Conservatory\, 8 Fenway\, Boston\, MA 02215
+DESCRIPTION:https://bostonconservatory.berklee.edu/events/12-01-chamber-mus
+ ic-recital
+URL:https://bostonconservatory.berklee.edu/events/12-01-chamber-music-recit
+ al
+END:VEVENT
+END:VCALENDAR

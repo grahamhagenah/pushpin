@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9a5d75d229e3d446efefc8bdd9dda18a5c224a21@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T010000Z
+DTEND:20261212T030000Z
+SUMMARY:Dance Yourself Clean
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:https://marigold.org/dance-yourself-clean/
+URL:https://marigold.org/dance-yourself-clean/
+END:VEVENT
+END:VCALENDAR

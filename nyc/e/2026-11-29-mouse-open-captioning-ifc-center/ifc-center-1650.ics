@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a82cd7d0cc64ee7e50c4645c02f17004e9df14e0@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T215000Z
+DTEND:20261129T235000Z
+SUMMARY:Mouse (Open Captioning)
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/mouse-open-captioning/
+URL:https://www.ifccenter.com/films/mouse-open-captioning/
+END:VEVENT
+END:VCALENDAR

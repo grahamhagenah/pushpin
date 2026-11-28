@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:53d3fba140cd9ed0ee2dad6b51a9ea2daa299964@pushpin.city
+DTSTAMP:20270213T000000Z
+DTSTART:20270214T010000Z
+DTEND:20270214T030000Z
+SUMMARY:Boston Conservatory Opera Studio Presents: Opera Scenes
+LOCATION:Boston Conservatory\, 8 Fenway\, Boston\, MA 02215
+DESCRIPTION:https://bostonconservatory.berklee.edu/events/boston-conservato
+ ry-opera-studio-presents-opera-scenes
+URL:https://bostonconservatory.berklee.edu/events/boston-conservatory-opera
+ -studio-presents-opera-scenes
+END:VEVENT
+END:VCALENDAR

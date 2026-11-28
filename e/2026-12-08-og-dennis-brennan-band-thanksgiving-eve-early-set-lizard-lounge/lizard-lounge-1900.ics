@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ad62e04cbf62cf3506a46c23f973321adc6bdc@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261209T000000Z
+DTEND:20261209T020000Z
+SUMMARY:OG Dennis Brennan Band Thanksgiving Eve Early Set
+LOCATION:Lizard Lounge\, 1667 Massachusetts Ave\, Cambridge\, MA 02138
+DESCRIPTION:https://lizardloungeclub.com/event/og-dennis-brennan-band-thank
+ sgiving-eve-early-set/
+URL:https://lizardloungeclub.com/event/og-dennis-brennan-band-thanksgiving-
+ eve-early-set/
+END:VEVENT
+END:VCALENDAR

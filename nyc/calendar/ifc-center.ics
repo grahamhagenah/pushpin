@@ -1,0 +1,882 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · IFC Center
+X-WR-CALDESC:What’s coming up at IFC Center\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:156071eb8cff350ced1e7d08b4a84d2f10b67716@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T154000Z
+DTEND:20261128T174000Z
+SUMMARY:Naza
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 10:40am\, 2:50pm\, 7:30pm\nhttps://www.ifccenter.com/fil
+ ms/naza/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/naza/
+END:VEVENT
+BEGIN:VEVENT
+UID:38e205fd8d11ca487edb4509bf2c79e9809542df@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T154500Z
+DTEND:20261128T174500Z
+SUMMARY:Ben'imana
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/benimana/\nFrom Pushpin NYC: ht
+ tps://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/benimana/
+END:VEVENT
+BEGIN:VEVENT
+UID:19b9b0cf9cdebdc67155f4099a02dbb70160fbe4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T155000Z
+DTEND:20261128T175000Z
+SUMMARY:Possible Love
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/possible-love/\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/possible-love/
+END:VEVENT
+BEGIN:VEVENT
+UID:fbfdb0261901940971023b106acbaf037ad3d33e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:The Devils
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 11am\, 3:50pm\, 9:05pm\, 11:50pm\nhttps://www.ifccenter.
+ com/films/the-devils/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-devils/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d7795ff63b383f7e7905e8e0d57d919fa8f42b9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T160500Z
+DTEND:20261128T180500Z
+SUMMARY:14th
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 11:05am\, 7pm\nhttps://www.ifccenter.com/films/14th/\nFr
+ om Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/14th/
+END:VEVENT
+BEGIN:VEVENT
+UID:10e23f1da7a033e8cae9d5862af7d06b91118ee7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T173500Z
+DTEND:20261128T193500Z
+SUMMARY:Rate It X
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/rate-it-x/\nFrom Pushpin NYC: h
+ ttps://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/rate-it-x/
+END:VEVENT
+BEGIN:VEVENT
+UID:f3b3c53b374e1d1d9db9c7b62b693d8551a3e675@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T181000Z
+DTEND:20261128T201000Z
+SUMMARY:Josephine
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:10pm\, 4pm\, 6:50pm\, 9:40pm\nhttps://www.ifccenter.co
+ m/films/josephine/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/josephine/
+END:VEVENT
+BEGIN:VEVENT
+UID:f8c8b1205197c052758a6b8c918ec86dc76a1fa6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T182000Z
+DTEND:20261128T202000Z
+SUMMARY:The History of Concrete
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:20pm\, 6:35pm\, 9:35pm\nhttps://www.ifccenter.com/film
+ s/the-history-of-concrete/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+UID:56603b911e97bf453a11b5464da333ad053a30dc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T183500Z
+DTEND:20261128T203500Z
+SUMMARY:Tangles
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:35pm\, 4:10pm\, 6:45pm\, 9:20pm\nhttps://www.ifccenter
+ .com/films/tangles/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/tangles/
+END:VEVENT
+BEGIN:VEVENT
+UID:1ced5972eed71a6f4eab37cb656af66b21101a10@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T185500Z
+DTEND:20261128T205500Z
+SUMMARY:14th (Open Captioning)
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/14th-open-captioning/\nFrom Pus
+ hpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/14th-open-captioning/
+END:VEVENT
+BEGIN:VEVENT
+UID:29f2c7ac3ed8b400bde884861071e69c8cb0d6d6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T212000Z
+DTEND:20261128T232000Z
+SUMMARY:The Host
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 4:20pm\, 9:30pm\nhttps://www.ifccenter.com/films/the-hos
+ t-2/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-host-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:1f31d40cb823503bc143dfd2955911c6ea26df79@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T215000Z
+DTEND:20261128T235000Z
+SUMMARY:Mouse
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/mouse/\nFrom Pushpin NYC: https
+ ://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/mouse/
+END:VEVENT
+BEGIN:VEVENT
+UID:442c5503b7daab829ee77e1aee64b64ef8e23f6a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T044000Z
+DTEND:20261129T064000Z
+SUMMARY:Earth Girls Are Easy
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/earth-girls-are-easy/\nFrom Pus
+ hpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/earth-girls-are-easy/
+END:VEVENT
+BEGIN:VEVENT
+UID:0176c9632ef3335997d6db10bdbdefd00a0321f8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T044500Z
+DTEND:20261129T064500Z
+SUMMARY:The Holy Mountain
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/the-holy-mountain/\nFrom Pushpi
+ n NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-holy-mountain/
+END:VEVENT
+BEGIN:VEVENT
+UID:e09c9606a4dfe86b9f749ec1fceae783e4e8b8ed@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T045500Z
+DTEND:20261129T065500Z
+SUMMARY:The Conversation
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/the-conversation/\nFrom Pushpin
+  NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-conversation/
+END:VEVENT
+BEGIN:VEVENT
+UID:5c0bf4da0952afd31e4c478307f5fd6fef0dd238@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T045900Z
+DTEND:20261129T065900Z
+SUMMARY:Female Trouble
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/female-trouble/\nFrom Pushpin N
+ YC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/female-trouble/
+END:VEVENT
+BEGIN:VEVENT
+UID:723789639e62471696b2115df29417999c82b968@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T154000Z
+DTEND:20261129T174000Z
+SUMMARY:Naza
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 10:40am\, 2:50pm\, 7:30pm\nhttps://www.ifccenter.com/fil
+ ms/naza/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/naza/
+END:VEVENT
+BEGIN:VEVENT
+UID:66893ce175cf90e11ceb8f6cf5fb772b1d2b1374@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T154500Z
+DTEND:20261129T174500Z
+SUMMARY:Ben'imana
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/benimana/\nFrom Pushpin NYC: ht
+ tps://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/benimana/
+END:VEVENT
+BEGIN:VEVENT
+UID:adc95e067d094df4ce18af3fc2503ca955cfbf9d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T155000Z
+DTEND:20261129T175000Z
+SUMMARY:Possible Love
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/possible-love/\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/possible-love/
+END:VEVENT
+BEGIN:VEVENT
+UID:559739b845cf5184d0d143e415418c42db7b836c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:The Devils
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 11am\, 3:50pm\, 9:05pm\nhttps://www.ifccenter.com/films/
+ the-devils/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-devils/
+END:VEVENT
+BEGIN:VEVENT
+UID:edef389608581f4d2eb66567c6cb8f105ee29898@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T160500Z
+DTEND:20261129T180500Z
+SUMMARY:14th
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 11:05am\, 1:55pm\nhttps://www.ifccenter.com/films/14th/\
+ nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/14th/
+END:VEVENT
+BEGIN:VEVENT
+UID:a3be82c3a6431de1421aa689746ca7c14578644a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T173500Z
+DTEND:20261129T193500Z
+SUMMARY:Rate It X
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/rate-it-x/\nFrom Pushpin NYC: h
+ ttps://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/rate-it-x/
+END:VEVENT
+BEGIN:VEVENT
+UID:77eabb3749e7b9f73fd1f63eb3323c173cfc4582@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T181000Z
+DTEND:20261129T201000Z
+SUMMARY:Josephine
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:10pm\, 4pm\, 6:50pm\, 9:40pm\nhttps://www.ifccenter.co
+ m/films/josephine/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/josephine/
+END:VEVENT
+BEGIN:VEVENT
+UID:775930a976a5e09093b27916f8d375779f0e39f2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T182000Z
+DTEND:20261129T202000Z
+SUMMARY:The History of Concrete
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:20pm\, 6:35pm\, 9:35pm\nhttps://www.ifccenter.com/film
+ s/the-history-of-concrete/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+UID:7c8e72612f8a5d306a192af28900b8eae2f0d798@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T183500Z
+DTEND:20261129T203500Z
+SUMMARY:Tangles
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:35pm\, 4:10pm\, 6:45pm\, 9:20pm\nhttps://www.ifccenter
+ .com/films/tangles/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/tangles/
+END:VEVENT
+BEGIN:VEVENT
+UID:e50d55d2aca690faa2ab30eb8fb113cf7ab05908@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T212000Z
+DTEND:20261129T232000Z
+SUMMARY:The Host
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 4:20pm\, 9:30pm\nhttps://www.ifccenter.com/films/the-hos
+ t-2/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-host-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:f7feff293633980453f787a7706561bab896b6cd@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T215000Z
+DTEND:20261129T235000Z
+SUMMARY:Mouse (Open Captioning)
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/mouse-open-captioning/\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/mouse-open-captioning/
+END:VEVENT
+BEGIN:VEVENT
+UID:7d7524abc767449d7668e855b763fdbc94360519@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T000000Z
+DTEND:20261130T020000Z
+SUMMARY:14th (Open Captioning)
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/14th-open-captioning/\nFrom Pus
+ hpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/14th-open-captioning/
+END:VEVENT
+BEGIN:VEVENT
+UID:d67d95bd206862ee95d1c8eeee2bbd00a57f2f50@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T154000Z
+DTEND:20261130T174000Z
+SUMMARY:Naza
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 10:40am\, 2:50pm\, 7:40pm\nhttps://www.ifccenter.com/fil
+ ms/naza/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/naza/
+END:VEVENT
+BEGIN:VEVENT
+UID:006e9ab3c95aabb1df9bbdb0169934bee2ac3516@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T154500Z
+DTEND:20261130T174500Z
+SUMMARY:Ben'imana
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/benimana/\nFrom Pushpin NYC: ht
+ tps://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/benimana/
+END:VEVENT
+BEGIN:VEVENT
+UID:74cdaa200ce1f196f0f3d83f3de9a752a0218445@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T155000Z
+DTEND:20261130T175000Z
+SUMMARY:Possible Love
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/possible-love/\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/possible-love/
+END:VEVENT
+BEGIN:VEVENT
+UID:0763297541c6652684cd6f6319b28b34657fdbd9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T160500Z
+DTEND:20261130T180500Z
+SUMMARY:14th
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 11:05am\, 1:55pm\nhttps://www.ifccenter.com/films/14th/\
+ nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/14th/
+END:VEVENT
+BEGIN:VEVENT
+UID:633cb60cefa064be7d23465047667fb6536f38f2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T173500Z
+DTEND:20261130T193500Z
+SUMMARY:Rate It X
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/rate-it-x/\nFrom Pushpin NYC: h
+ ttps://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/rate-it-x/
+END:VEVENT
+BEGIN:VEVENT
+UID:cddf6fb004e1c89bca5450bf376f802eff509e69@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T181000Z
+DTEND:20261130T201000Z
+SUMMARY:Josephine
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:10pm\, 3:50pm\, 9:40pm\nhttps://www.ifccenter.com/film
+ s/josephine/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/josephine/
+END:VEVENT
+BEGIN:VEVENT
+UID:82c7a0d336d9b0f091bc763b81ee85a61314d613@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T182000Z
+DTEND:20261130T202000Z
+SUMMARY:The History of Concrete
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:20pm\, 7:25pm\, 9:35pm\nhttps://www.ifccenter.com/film
+ s/the-history-of-concrete/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+UID:04757a8fdb17941d4006f2928e64d9a092f2b5e4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T183500Z
+DTEND:20261130T203500Z
+SUMMARY:Tangles
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:35pm\, 4:10pm\, 6:45pm\, 9:20pm\nhttps://www.ifccenter
+ .com/films/tangles/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/tangles/
+END:VEVENT
+BEGIN:VEVENT
+UID:d85d7301a5e3d999c2e280dce5bd04d1e1f1726c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T203500Z
+DTEND:20261130T223500Z
+SUMMARY:The Devils
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 3:35pm\, 9:05pm\nhttps://www.ifccenter.com/films/the-dev
+ ils/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-devils/
+END:VEVENT
+BEGIN:VEVENT
+UID:c848dcdbe95c4dad853701ae288c7c45d0c2b754@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T212000Z
+DTEND:20261130T232000Z
+SUMMARY:The Host
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 4:20pm\, 9:30pm\nhttps://www.ifccenter.com/films/the-hos
+ t-2/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-host-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:f5c1392e81828c8ea6667c0f9d2fe767f37cdb48@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T215000Z
+DTEND:20261130T235000Z
+SUMMARY:Mouse
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/mouse/\nFrom Pushpin NYC: https
+ ://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/mouse/
+END:VEVENT
+BEGIN:VEVENT
+UID:151e6219db45509a56e60ad8783b5f625978d93d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T230000Z
+DTEND:20261201T010000Z
+SUMMARY:Scenes from the Divide
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/scenes-from-the-divide-2/\nFrom
+  Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/scenes-from-the-divide-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:e6f1872687d437c5403edf81a8736e0d7a34509f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T000000Z
+DTEND:20261201T020000Z
+SUMMARY:14th (Open Captioning)
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/14th-open-captioning/\nFrom Pus
+ hpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/14th-open-captioning/
+END:VEVENT
+BEGIN:VEVENT
+UID:ba55e7444a99192da5f2eeb1b61e8eba638054d3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T153500Z
+DTEND:20261201T173500Z
+SUMMARY:14th
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 10:35am\, 7pm\nhttps://www.ifccenter.com/films/14th/\nFr
+ om Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/14th/
+END:VEVENT
+BEGIN:VEVENT
+UID:9c0018617f6671d4b6cc2665be0d5542eb5dac96@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T154500Z
+DTEND:20261201T174500Z
+SUMMARY:Ben'imana
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/benimana/\nFrom Pushpin NYC: ht
+ tps://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/benimana/
+END:VEVENT
+BEGIN:VEVENT
+UID:6c2308e556b275d7ce7ccb1b5b43de7c9dabced4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T155000Z
+DTEND:20261201T175000Z
+SUMMARY:Possible Love
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/possible-love/\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/possible-love/
+END:VEVENT
+BEGIN:VEVENT
+UID:944fe819018c5c0e0d5138aa1738d7dd1db99951@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T164500Z
+DTEND:20261201T184500Z
+SUMMARY:Naza
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 11:45am\, 2:50pm\nhttps://www.ifccenter.com/films/naza/\
+ nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/naza/
+END:VEVENT
+BEGIN:VEVENT
+UID:ea6b0e3ac59a6a480b107c31e0d2d2d0d00d31b4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T174000Z
+DTEND:20261201T194000Z
+SUMMARY:Rate It X
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/rate-it-x/\nFrom Pushpin NYC: h
+ ttps://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/rate-it-x/
+END:VEVENT
+BEGIN:VEVENT
+UID:04dbef67bf41889b712c8dec4a5358d2af30fa43@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T182000Z
+DTEND:20261201T202000Z
+SUMMARY:The History of Concrete
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:20pm\, 6:35pm\, 9:50pm\nhttps://www.ifccenter.com/film
+ s/the-history-of-concrete/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+UID:8e0e2ec6af41fceddf650a6fab136aa54f660848@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T182500Z
+DTEND:20261201T202500Z
+SUMMARY:Josephine
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:25pm\, 4pm\, 7:15pm\, 9:40pm\nhttps://www.ifccenter.co
+ m/films/josephine/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/josephine/
+END:VEVENT
+BEGIN:VEVENT
+UID:e87293a15710b8669748a735dbd50150035216b2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T183500Z
+DTEND:20261201T203500Z
+SUMMARY:Tangles
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:35pm\, 4:10pm\, 6:45pm\, 9:20pm\nhttps://www.ifccenter
+ .com/films/tangles/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/tangles/
+END:VEVENT
+BEGIN:VEVENT
+UID:fcdefdd885c36e09e61cfb45bf4c3388cbfb3a5a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T185500Z
+DTEND:20261201T205500Z
+SUMMARY:14th (Open Captioning)
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/14th-open-captioning/\nFrom Pus
+ hpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/14th-open-captioning/
+END:VEVENT
+BEGIN:VEVENT
+UID:521edf7ade42b8a00b68d13e4f30d5e3d01157b9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T205000Z
+DTEND:20261201T225000Z
+SUMMARY:The Devils
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 3:50pm\, 9:25pm\nhttps://www.ifccenter.com/films/the-dev
+ ils/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-devils/
+END:VEVENT
+BEGIN:VEVENT
+UID:08d103901508943ddcbf8537eba675c74bce258b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T212000Z
+DTEND:20261201T232000Z
+SUMMARY:The Host
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 4:20pm\, 9:30pm\nhttps://www.ifccenter.com/films/the-hos
+ t-2/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-host-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:56dc074c877d1f501964256be33280951bef7927@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T215000Z
+DTEND:20261201T235000Z
+SUMMARY:Mouse (Open Captioning)
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/mouse-open-captioning/\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/mouse-open-captioning/
+END:VEVENT
+BEGIN:VEVENT
+UID:9e9773c10a5c6e7694ef43e712f6df1381bfbe39@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T233000Z
+DTEND:20261202T013000Z
+SUMMARY:Everytime
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/everytime/\nFrom Pushpin NYC: h
+ ttps://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/everytime/
+END:VEVENT
+BEGIN:VEVENT
+UID:a7cc66b7f10e6c253eebfa5eef195e7a6332c7ea@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T154000Z
+DTEND:20261202T174000Z
+SUMMARY:A Fox Under a Pink Moon
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 10:40am\, 12:20pm\, 7pm\nhttps://www.ifccenter.com/films
+ /a-fox-under-a-pink-moon/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/a-fox-under-a-pink-moon/
+END:VEVENT
+BEGIN:VEVENT
+UID:02722eb94849860545eba7faa8b9bfa62577b7f4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T154500Z
+DTEND:20261202T174500Z
+SUMMARY:Ben'imana
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/benimana/\nFrom Pushpin NYC: ht
+ tps://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/benimana/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a78bb20d56b22cbef67aba8f13235e321a9fdb6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T155000Z
+DTEND:20261202T175000Z
+SUMMARY:Possible Love
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/possible-love/\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/possible-love/
+END:VEVENT
+BEGIN:VEVENT
+UID:e88e8f67a462523a0eafffe8839c758f31fad4d6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T160000Z
+DTEND:20261202T180000Z
+SUMMARY:The Devils
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 11am\, 3:50pm\, 9:15pm\nhttps://www.ifccenter.com/films/
+ the-devils/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-devils/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcd51b755ee5e3bb6a4f1ed32f0760dd002ca098@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T160500Z
+DTEND:20261202T180500Z
+SUMMARY:14th
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 11:05am\, 1:55pm\, 6:40pm\nhttps://www.ifccenter.com/fil
+ ms/14th/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/14th/
+END:VEVENT
+BEGIN:VEVENT
+UID:64a22237b542fb6786ffbcc371ab5b4bdb1b388c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T181000Z
+DTEND:20261202T201000Z
+SUMMARY:Josephine
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:10pm\, 4pm\, 6:50pm\, 9:40pm\nhttps://www.ifccenter.co
+ m/films/josephine/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/josephine/
+END:VEVENT
+BEGIN:VEVENT
+UID:beab04487a89fd0f63b85ef655b25d40ed34691d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T182000Z
+DTEND:20261202T202000Z
+SUMMARY:The History of Concrete
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:20pm\, 4:20pm\, 9:25pm\nhttps://www.ifccenter.com/film
+ s/the-history-of-concrete/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+UID:c0a52c1d60abf09a8e7c6e0ef2de85f84db6091f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T183500Z
+DTEND:20261202T203500Z
+SUMMARY:Tangles
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:35pm\, 4:10pm\, 6:45pm\, 9:20pm\nhttps://www.ifccenter
+ .com/films/tangles/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/tangles/
+END:VEVENT
+BEGIN:VEVENT
+UID:c0d9d137596d4146214e0cc1c249d6bb6b325fef@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T192000Z
+DTEND:20261202T212000Z
+SUMMARY:Naza
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/naza/\nFrom Pushpin NYC: https:
+ //pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/naza/
+END:VEVENT
+BEGIN:VEVENT
+UID:098fcb1f4dbd207ef701bc52322b3427051abed6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T212000Z
+DTEND:20261202T232000Z
+SUMMARY:Mouse (Open Captioning)
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/mouse-open-captioning/\nFrom Pu
+ shpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/mouse-open-captioning/
+END:VEVENT
+BEGIN:VEVENT
+UID:cf801c26954c5124375951b1fa01d4c385060271@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T233000Z
+DTEND:20261203T013000Z
+SUMMARY:An Evening With The New York Times Op-Docs 2026\, Part 2
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/an-evening-with-the-new-york-ti
+ mes-op-docs-2026-part-2/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/an-evening-with-the-new-york-times-op-d
+ ocs-2026-part-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:f220ed107711142a6fbe09461615220a4e9f664a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T021000Z
+DTEND:20261203T041000Z
+SUMMARY:The Host
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/the-host-2/\nFrom Pushpin NYC: 
+ https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-host-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:363fc48052d71fedfd18f91d0ac2e891af4470cf@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T154000Z
+DTEND:20261203T174000Z
+SUMMARY:A Fox Under a Pink Moon
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 10:40am\, 12:20pm\, 7:05pm\nhttps://www.ifccenter.com/fi
+ lms/a-fox-under-a-pink-moon/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/a-fox-under-a-pink-moon/
+END:VEVENT
+BEGIN:VEVENT
+UID:c720f24b7e5f932baad6a1d71489ab9ccf41da10@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T154500Z
+DTEND:20261203T174500Z
+SUMMARY:Ben'imana
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/benimana/\nFrom Pushpin NYC: ht
+ tps://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/benimana/
+END:VEVENT
+BEGIN:VEVENT
+UID:d142b8b248e28ea7868c10b0f58a1efd05fda108@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T155000Z
+DTEND:20261203T175000Z
+SUMMARY:Possible Love
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/possible-love/\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/possible-love/
+END:VEVENT
+BEGIN:VEVENT
+UID:df6ca2ce94953d392fa9e175bea419c68ee97c79@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T160000Z
+DTEND:20261203T180000Z
+SUMMARY:The Devils
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 11am\, 3:50pm\, 9:25pm\nhttps://www.ifccenter.com/films/
+ the-devils/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-devils/
+END:VEVENT
+BEGIN:VEVENT
+UID:9ff2ea1d72d67b422e6df8b316424dca7712265b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T160500Z
+DTEND:20261203T180500Z
+SUMMARY:14th
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 11:05am\, 1:55pm\, 6:40pm\nhttps://www.ifccenter.com/fil
+ ms/14th/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/14th/
+END:VEVENT
+BEGIN:VEVENT
+UID:3ddd675a1cb68a6f94512f7f2846ccc060d1c11b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T181000Z
+DTEND:20261203T201000Z
+SUMMARY:Josephine
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:10pm\, 4pm\, 9:05pm\nhttps://www.ifccenter.com/films/j
+ osephine/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/josephine/
+END:VEVENT
+BEGIN:VEVENT
+UID:99f28a9966f60d79eb9e8822c6355cee954da731@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T182000Z
+DTEND:20261203T202000Z
+SUMMARY:The History of Concrete
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:20pm\, 4:05pm\, 9:40pm\nhttps://www.ifccenter.com/film
+ s/the-history-of-concrete/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+UID:d497af28be2ef2a6dace20f5b929e5d5bc6c703f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T183500Z
+DTEND:20261203T203500Z
+SUMMARY:Tangles
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:35pm\, 4:10pm\, 6:45pm\, 9:20pm\nhttps://www.ifccenter
+ .com/films/tangles/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/tangles/
+END:VEVENT
+BEGIN:VEVENT
+UID:043398a6341bd6fb145256098ab3a5c86c04588a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T192000Z
+DTEND:20261203T212000Z
+SUMMARY:Naza
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/naza/\nFrom Pushpin NYC: https:
+ //pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/naza/
+END:VEVENT
+BEGIN:VEVENT
+UID:9f91d14d835d58650ba75d5bc2842accf55f8a5e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T212000Z
+DTEND:20261203T232000Z
+SUMMARY:Mouse
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/mouse/\nFrom Pushpin NYC: https
+ ://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/mouse/
+END:VEVENT
+BEGIN:VEVENT
+UID:ed959d7d61afa5fe6567944c071217ff3a78b570@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T021500Z
+DTEND:20261204T041500Z
+SUMMARY:The Host
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/the-host-2/\nFrom Pushpin NYC: 
+ https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/the-host-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:7d604f0bcbd8a986b5d94595ddf5967699159979@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T154500Z
+DTEND:20261204T174500Z
+SUMMARY:Let's Keep This Conversation to a Minimum
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/lets-keep-this-conversation-to-
+ a-minimum/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/lets-keep-this-conversation-to-a-minimu
+ m/
+END:VEVENT
+BEGIN:VEVENT
+UID:a7922970f982d5f300da109a7f46a2fc0893da3d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T182000Z
+DTEND:20261204T202000Z
+SUMMARY:It's a Wonderful Life
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:Times: 1:20pm\, 4:10pm\, 7pm\nhttps://www.ifccenter.com/films/i
+ ts-a-wonderful-life/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.ifccenter.com/films/its-a-wonderful-life/
+END:VEVENT
+END:VCALENDAR

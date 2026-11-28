@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:90e6e18134349219323318727ece69e9a355bf03@pushpin.city
+DTSTAMP:20261223T000000Z
+DTSTART:20261223T233000Z
+DTEND:20261224T013000Z
+SUMMARY:Film Night! “Dreaming of a Jewish Christmas”
+LOCATION:Bombyx\, 130 Pine St\, Florence\, MA 01062
+DESCRIPTION:https://bombyx.live/events/film-night-dreaming-of-a-jewish-chri
+ stmas/
+URL:https://bombyx.live/events/film-night-dreaming-of-a-jewish-christmas/
+END:VEVENT
+END:VCALENDAR

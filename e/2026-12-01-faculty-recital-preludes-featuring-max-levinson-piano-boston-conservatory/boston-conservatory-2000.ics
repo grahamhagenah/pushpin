@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5bc82a0b58d540d707c3e807314c6eafbb0fc8b5@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T010000Z
+DTEND:20261202T030000Z
+SUMMARY:Faculty Recital: Preludes\, Featuring Max Levinson\, Piano
+LOCATION:Boston Conservatory\, 8 Fenway\, Boston\, MA 02215
+DESCRIPTION:https://bostonconservatory.berklee.edu/events/faculty-recital-p
+ reludes-featuring-max-levinson-piano
+URL:https://bostonconservatory.berklee.edu/events/faculty-recital-preludes-
+ featuring-max-levinson-piano
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f569827206fb8c2a1657c38280d1515a6c20cb02@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261214T020000Z
+DTEND:20261214T040000Z
+SUMMARY:Mister Lipstick\, Whisky Cherrybomb\, Ang Huling Minuto
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/mister-lipstick-whisky-cherrybomb-
+ ang-huling-minuto-tickets-2004407406510
+URL:https://www.eventbrite.com/e/mister-lipstick-whisky-cherrybomb-ang-huli
+ ng-minuto-tickets-2004407406510
+END:VEVENT
+END:VCALENDAR

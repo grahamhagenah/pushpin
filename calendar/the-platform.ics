@@ -1,0 +1,415 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · The Platform
+X-WR-CALDESC:What’s coming up at The Platform\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:51b53f1aa210da65c0c2251ebf35302df4cb1f4b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:Zohar & Adam
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Tempo Stage\nhttps://www.theplatformkendall.org/productions/zoh
+ ar-adam-fy27/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/zohar-adam-fy27/
+END:VEVENT
+BEGIN:VEVENT
+UID:b74098e3af76cdc4bd36b815b3c9558ef3d79707@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Laura Anglade
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Tempo Stage\nhttps://www.theplatformkendall.org/productions/lau
+ ra-anglade/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/laura-anglade/
+END:VEVENT
+BEGIN:VEVENT
+UID:ee3bba25e5ef5e104a8225d3679b79213a600823@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Zoë Keating
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ zoe-keating/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/zoe-keating/
+END:VEVENT
+BEGIN:VEVENT
+UID:430dbdb7f6d6087527badb625231a6a7f232cf50@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261207T003000Z
+DTEND:20261207T023000Z
+SUMMARY:Ezekiel's Wheels & ZACHOR Dance Projects
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ ezekiels-wheels-linsky-fy27/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/ezekiels-wheels-linsky-f
+ y27/
+END:VEVENT
+BEGIN:VEVENT
+UID:a40ed0b1a22837bb260db5515e381eb2d39670b1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261207T003000Z
+DTEND:20261207T023000Z
+SUMMARY:Maria Mazzotta
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Tempo Stage\nhttps://www.theplatformkendall.org/productions/mar
+ ia-mazzotta-fy27/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/maria-mazzotta-fy27/
+END:VEVENT
+BEGIN:VEVENT
+UID:050631fc39d2a8cdd708841dae7fafd93e367950@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:MANAS
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Tempo Stage\nhttps://www.theplatformkendall.org/productions/man
+ as/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/manas/
+END:VEVENT
+BEGIN:VEVENT
+UID:583a626f695dd0db36e28a198c9b92a1a497c630@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T003000Z
+DTEND:20261211T023000Z
+SUMMARY:Magic Tuber Stringband
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Tempo Stage\nhttps://www.theplatformkendall.org/productions/mag
+ ic-tuber-stringband/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/magic-tuber-stringband/
+END:VEVENT
+BEGIN:VEVENT
+UID:6dc723b67766be7ca17029d390b90113e9334a44@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T003000Z
+DTEND:20261211T023000Z
+SUMMARY:Monty Alexander
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ monty-alexander-fy27/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/monty-alexander-fy27/
+END:VEVENT
+BEGIN:VEVENT
+UID:0973192cc292fb0f8d0151a67e3566d7ec349077@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T010000Z
+DTEND:20261212T030000Z
+SUMMARY:Pine Tree Flyers
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Tempo Stage\nhttps://www.theplatformkendall.org/productions/pin
+ e-tree-flyers/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/pine-tree-flyers/
+END:VEVENT
+BEGIN:VEVENT
+UID:8f5307e391fca3a230f1243298589829dc48873f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T010000Z
+DTEND:20261212T030000Z
+SUMMARY:Subject:Matter
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ subjectmatter-fy27/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/subjectmatter-fy27/
+END:VEVENT
+BEGIN:VEVENT
+UID:29b3ec2ee29f46a6a1ba291e173b1a0988939796@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T003000Z
+DTEND:20261213T023000Z
+SUMMARY:Across the Ocean: Voices from Southeast Asia
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Tempo Stage\nhttps://www.theplatformkendall.org/productions/acr
+ oss-the-ocean-voices-from-southeast-asia/\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://www.theplatformkendall.org/productions/across-the-ocean-voices-
+ from-southeast-asia/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a25715dbf25c9c42f24d6aeb0c5b7e28df50a4d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:Subject:Matter
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ subjectmatter-fy27/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/subjectmatter-fy27/
+END:VEVENT
+BEGIN:VEVENT
+UID:25c3d7255baa3ebe32b5146cced4440675dc03ce@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261214T003000Z
+DTEND:20261214T023000Z
+SUMMARY:Kandace Springs
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ kandace-springs/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/kandace-springs/
+END:VEVENT
+BEGIN:VEVENT
+UID:5bd15d4639b666d7fa17ad266060e7d43f1bc30b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270110T010000Z
+DTEND:20270110T030000Z
+SUMMARY:Honeysuckle
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Tempo Stage\nhttps://www.theplatformkendall.org/productions/hon
+ eysuckle/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/honeysuckle/
+END:VEVENT
+BEGIN:VEVENT
+UID:2564403f811c80c2847c1aa559b94822c30d73dd@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270110T200000Z
+DTEND:20270110T220000Z
+SUMMARY:Bowie Cello Symphonic Aura: Black Star Visualized
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ bowie-cello-symphonic-aura-blackstar-visualized/\nFrom Pushpin Boston: htt
+ ps://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/bowie-cello-symphonic-au
+ ra-blackstar-visualized/
+END:VEVENT
+BEGIN:VEVENT
+UID:38a861c1bb904c2f70f9867a430ec614f3b7d0d6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270115T003000Z
+DTEND:20270115T023000Z
+SUMMARY:Gretchen Parlato
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ gretchen-parlato/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/gretchen-parlato/
+END:VEVENT
+BEGIN:VEVENT
+UID:565747464f971aa5f3ce00a929a1c0a01b29d774@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270115T003000Z
+DTEND:20270115T023000Z
+SUMMARY:Tipa Tipo
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Tempo Stage\nhttps://www.theplatformkendall.org/productions/tip
+ a-tipo/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/tipa-tipo/
+END:VEVENT
+BEGIN:VEVENT
+UID:23a482a496086f801e66ddb451f58d7321ec3ca6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270116T010000Z
+DTEND:20270116T030000Z
+SUMMARY:Balla Kouyaté & Matchume Zango
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Tempo Stage\nhttps://www.theplatformkendall.org/productions/bal
+ la-kouyate-and-matchume-zango-bala-bila/\nFrom Pushpin Boston: https://pus
+ hpin.city/
+URL:https://www.theplatformkendall.org/productions/balla-kouyate-and-matchu
+ me-zango-bala-bila/
+END:VEVENT
+BEGIN:VEVENT
+UID:270dba88ef5fbcad99d6fdc156391081e9829138@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270116T010000Z
+DTEND:20270116T030000Z
+SUMMARY:The Dirty Dozen Brass Band
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ the-dirty-brass-dozen-band/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/the-dirty-brass-dozen-ba
+ nd/
+END:VEVENT
+BEGIN:VEVENT
+UID:e8f68d96d58d40a8913eea35aac536ba79471795@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270117T010000Z
+DTEND:20270117T030000Z
+SUMMARY:Amythyst Kiah
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ amythyst-kiah/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/amythyst-kiah/
+END:VEVENT
+BEGIN:VEVENT
+UID:b952304d382de157746a2e15ac43fcc6afb8e361@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270117T010000Z
+DTEND:20270117T030000Z
+SUMMARY:Kalos
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Tempo Stage\nhttps://www.theplatformkendall.org/productions/kal
+ os/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/kalos/
+END:VEVENT
+BEGIN:VEVENT
+UID:0b064963ab7d87c4407c9910c78c94b691b981d8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270117T210000Z
+DTEND:20270117T230000Z
+SUMMARY:Joshua Redman Quartet
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Times: 4pm\, 7:30pm\nTakeda Theater\nhttps://www.theplatformken
+ dall.org/productions/joshua-redman-quartet/\nFrom Pushpin Boston: https://
+ pushpin.city/
+URL:https://www.theplatformkendall.org/productions/joshua-redman-quartet/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d52c5aa29c634f0df3d32413b8a0cc5049a5acd@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270125T003000Z
+DTEND:20270125T023000Z
+SUMMARY:Alash
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ alash/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/alash/
+END:VEVENT
+BEGIN:VEVENT
+UID:ad27b0b71294d98605bdc17fc2eb2b95b4370729@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270127T003000Z
+DTEND:20270127T023000Z
+SUMMARY:Puuluup
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Tempo Stage\nhttps://www.theplatformkendall.org/productions/puu
+ luup/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/puuluup/
+END:VEVENT
+BEGIN:VEVENT
+UID:b331966e15af5378f1e236094d8653a0ddfd5d11@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270130T010000Z
+DTEND:20270130T030000Z
+SUMMARY:Cirque Kalabanté
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ cirque-kabalante-afrique-en-cirque/\nFrom Pushpin Boston: https://pushpin.
+ city/
+URL:https://www.theplatformkendall.org/productions/cirque-kabalante-afrique
+ -en-cirque/
+END:VEVENT
+BEGIN:VEVENT
+UID:109e127ffa374912e71eb48bbe15a2f94e552764@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270131T010000Z
+DTEND:20270131T030000Z
+SUMMARY:Cirque Kalabanté
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ cirque-kabalante-afrique-en-cirque/\nFrom Pushpin Boston: https://pushpin.
+ city/
+URL:https://www.theplatformkendall.org/productions/cirque-kabalante-afrique
+ -en-cirque/
+END:VEVENT
+BEGIN:VEVENT
+UID:18dc519e483b9613845b1ad9010250193242f3bc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270131T200000Z
+DTEND:20270131T220000Z
+SUMMARY:Cirque Kalabanté
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ cirque-kabalante-afrique-en-cirque/\nFrom Pushpin Boston: https://pushpin.
+ city/
+URL:https://www.theplatformkendall.org/productions/cirque-kabalante-afrique
+ -en-cirque/
+END:VEVENT
+BEGIN:VEVENT
+UID:51c18d63f85a71d352b08f1a83e06d745b10ca5f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270206T010000Z
+DTEND:20270206T030000Z
+SUMMARY:Kurt Elling's Wildflowers
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ wildflowers-kurt-elling-with-fred-hersch/\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://www.theplatformkendall.org/productions/wildflowers-kurt-elling-
+ with-fred-hersch/
+END:VEVENT
+BEGIN:VEVENT
+UID:2a653c824ea8ae4d5fd0ff40c26d8207c17615bf@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270207T010000Z
+DTEND:20270207T030000Z
+SUMMARY:The Hot Sardines
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ the-hot-sardines/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/the-hot-sardines/
+END:VEVENT
+BEGIN:VEVENT
+UID:0b4b71a63cd8f20189983b8a6e50bd9882e591db@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270207T200000Z
+DTEND:20270207T220000Z
+SUMMARY:The Hot Sardines
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ the-hot-sardines/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/the-hot-sardines/
+END:VEVENT
+BEGIN:VEVENT
+UID:97934928506cd14e1f7840e41a86bd61c252ff70@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270213T010000Z
+DTEND:20270213T030000Z
+SUMMARY:Yamato
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ yamato/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/yamato/
+END:VEVENT
+BEGIN:VEVENT
+UID:b588f1c2dc9b54b30f29a72da94878834d2a86ce@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270213T200000Z
+DTEND:20270213T220000Z
+SUMMARY:Yamato
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Times: 3pm\, 8pm\nTakeda Theater\nhttps://www.theplatformkendal
+ l.org/productions/yamato/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/yamato/
+END:VEVENT
+BEGIN:VEVENT
+UID:2646a4e991ab40c42fc5aa84579389d02267f418@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:CelloGayageum
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Tempo Stage\nhttps://www.theplatformkendall.org/productions/cel
+ logayageum/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/cellogayageum/
+END:VEVENT
+BEGIN:VEVENT
+UID:4174dea4a2de0698eb0e2b2d7a88ba9665d6e69d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270218T233000Z
+DTEND:20270219T013000Z
+SUMMARY:Trail of Stars
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Tempo Stage\nhttps://www.theplatformkendall.org/productions/tra
+ il-of-stars-fy27/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/trail-of-stars-fy27/
+END:VEVENT
+BEGIN:VEVENT
+UID:d7aff086eab2f3cdd40dd2419dc1d4587fa70b9e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270221T010000Z
+DTEND:20270221T030000Z
+SUMMARY:Juanito Pascual Trio
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:Takeda Theater\nhttps://www.theplatformkendall.org/productions/
+ juanito-pascual-trio-flamenco-celebration-of-jimi-hendrix/\nFrom Pushpin B
+ oston: https://pushpin.city/
+URL:https://www.theplatformkendall.org/productions/juanito-pascual-trio-fla
+ menco-celebration-of-jimi-hendrix/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1e877b4f99f5a2455c5201e4b907ef278d4be406@pushpin.city
+DTSTAMP:20261216T000000Z
+DTSTART:20261216T233000Z
+DTEND:20261217T013000Z
+SUMMARY:Rickie Lee Jones
+LOCATION:Bombyx\, 130 Pine St\, Florence\, MA 01062
+DESCRIPTION:https://bombyx.live/events/rickie-lee-jones-2/
+URL:https://bombyx.live/events/rickie-lee-jones-2/
+END:VEVENT
+END:VCALENDAR

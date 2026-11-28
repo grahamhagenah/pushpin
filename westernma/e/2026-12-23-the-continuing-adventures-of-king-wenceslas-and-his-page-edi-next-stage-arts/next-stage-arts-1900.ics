@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2a0ec2db82e825b6c436b42586d386bc7b8cf8f4@pushpin.city
+DTSTAMP:20261223T000000Z
+DTSTART:20261224T000000Z
+DTEND:20261224T020000Z
+SUMMARY:The Continuing Adventures of King Wenceslas and His Page Edith
+LOCATION:Next Stage Arts\, 15 Kimball Hill\, Putney\, VT 05346
+DESCRIPTION:https://tickets.venuepilot.com/e/the-continuing-adventures-of-k
+ ing-wenceslas-and-his-page-edith-2026-12-23-next-stage-arts-putney-0f1de4
+URL:https://tickets.venuepilot.com/e/the-continuing-adventures-of-king-wenc
+ eslas-and-his-page-edith-2026-12-23-next-stage-arts-putney-0f1de4
+END:VEVENT
+END:VCALENDAR

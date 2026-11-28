@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7b555fcf382b89be8dad457bd241e07216fbf09a@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T033000Z
+DTEND:20261205T053000Z
+SUMMARY:Prestige Worldwide
+LOCATION:Toad\, 1912 Massachusetts Ave\, Cambridge\, MA 02140
+DESCRIPTION:https://www.mccarthystoad.com/calendar
+URL:https://www.mccarthystoad.com/calendar
+END:VEVENT
+END:VCALENDAR

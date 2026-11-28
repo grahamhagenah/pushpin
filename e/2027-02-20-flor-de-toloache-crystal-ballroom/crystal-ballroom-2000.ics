@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1d1dadb4c11246049a70a76c3b003d57363b1a0c@pushpin.city
+DTSTAMP:20270220T000000Z
+DTSTART:20270221T010000Z
+DTEND:20270221T030000Z
+SUMMARY:Flor de Toloache
+LOCATION:Crystal Ballroom\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.ticketmaster.com/flor-de-toloache-somerville-massac
+ husetts-02-20-2027/event/0100653BB53CC811
+URL:https://www.ticketmaster.com/flor-de-toloache-somerville-massachusetts-
+ 02-20-2027/event/0100653BB53CC811
+END:VEVENT
+END:VCALENDAR

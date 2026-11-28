@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:da37291d1c455fc36c6c7fdf022517fee55f8fcc@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T200000Z
+DTEND:20261205T220000Z
+SUMMARY:Why Cat Why
+LOCATION:Sally O'Brien's\, 335 Somerville Ave\, Somerville\, MA 02143
+DESCRIPTION:https://www.sallyobriensbar.com/music/
+URL:https://www.sallyobriensbar.com/music/
+END:VEVENT
+END:VCALENDAR

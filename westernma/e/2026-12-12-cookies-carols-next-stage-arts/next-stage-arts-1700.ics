@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:08ca4b002ef5fc8fa8552f235f60b62e25241f47@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T220000Z
+DTEND:20261213T000000Z
+SUMMARY:Cookies & Carols
+LOCATION:Next Stage Arts\, 15 Kimball Hill\, Putney\, VT 05346
+DESCRIPTION:https://www.sanders.senate.gov/vermont/events/
+URL:https://www.sanders.senate.gov/vermont/events/
+END:VEVENT
+END:VCALENDAR

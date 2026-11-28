@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5c5f6061613e8c0fe3176d0dd2fb8e0a9a8ea809@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261201T172000Z
+DTEND:20261201T192000Z
+SUMMARY:The Flowers of ST. Francis
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/the-flowers-of-st-francis-rossellini
+ -120
+URL:https://filmforum.org/film/the-flowers-of-st-francis-rossellini-120
+END:VEVENT
+END:VCALENDAR

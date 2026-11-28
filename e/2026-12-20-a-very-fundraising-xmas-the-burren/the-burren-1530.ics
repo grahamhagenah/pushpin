@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2d8019be91807caae544a268ef9087c5bf72b118@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T203000Z
+DTEND:20261220T223000Z
+SUMMARY:A Very FUNdraising Xmas
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1939
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1939
+END:VEVENT
+END:VCALENDAR

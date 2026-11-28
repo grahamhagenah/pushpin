@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68d21b0e049b7becc81a9a944b2be9da6ab551cf@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T190000Z
+DTEND:20261213T210000Z
+SUMMARY:The Orbit of Minor Satellites
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62435
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62435
+END:VEVENT
+END:VCALENDAR

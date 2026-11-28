@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Colonial Theatre
+X-WR-CALDESC:What’s coming up at Colonial Theatre\, from Pushpin Western 
+ Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:5453acab08b83171306ebb609765652abc9242c2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:A Colonial Candlelight Concert
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:The Light Before Christmas with Trek Track Collective\nBased in
+  the Berkshires\, Trek Track Collective is a premier string quartet featur
+ ing violinists Eileen Markland and Hannah Roberts\, violist Bing Liu\, and
+  cellist Robbie Wilson. Each musician brings a distinguished career spanni
+ ng classical\, jazz and folk traditions\, creating a rich and expressive s
+ ound that is both elegant and deeply moving.\nhttps://www.berkshiretheatre
+ group.org/calendar/\nFrom Pushpin Western Mass: https://pushpin.city/weste
+ rnma/
+URL:https://www.berkshiretheatregroup.org/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:9f120ffd5363b8dba1612deb0af371582fc0a173@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Albany Berkshire Ballet Presents: The Nutcracker
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 2pm\, 6pm\nCelebrate the magic of the holiday season as 
+ Albany Berkshire Ballet (ABB) returns with its annual tour of The Nutcrack
+ er. Choreographed by ABB’s Artistic Director Madeline Cantarella Culpo\,
+  this beloved production features lavish sets and scenery by Stockbridge n
+ ative and renowned theatre and film set designer Carl Sprague\, with costu
+ mes by Sam Meredith. Young local dance students join professional ABB danc
+ ers in special children’s roles\, sharing the stage with a company of pe
+ rformers from across the United States and around the world.\nhttps://www.
+ berkshiretheatregroup.org/event/albany-berkshire-ballet-presents-the-nutcr
+ acker/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.berkshiretheatregroup.org/event/albany-berkshire-ballet-pre
+ sents-the-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:458157a3e3c694768ff9d63c32c4dd3ca015cf40@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T180000Z
+DTEND:20261206T200000Z
+SUMMARY:Albany Berkshire Ballet Presents: The Nutcracker
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:Celebrate the magic of the holiday season as Albany Berkshire B
+ allet (ABB) returns with its annual tour of The Nutcracker. Choreographed 
+ by ABB’s Artistic Director Madeline Cantarella Culpo\, this beloved prod
+ uction features lavish sets and scenery by Stockbridge native and renowned
+  theatre and film set designer Carl Sprague\, with costumes by Sam Meredit
+ h. Young local dance students join professional ABB dancers in special chi
+ ldren’s roles\, sharing the stage with a company of performers from acro
+ ss the United States and around the world.\nhttps://www.berkshiretheatregr
+ oup.org/event/albany-berkshire-ballet-presents-the-nutcracker/\nFrom Pushp
+ in Western Mass: https://pushpin.city/westernma/
+URL:https://www.berkshiretheatregroup.org/event/albany-berkshire-ballet-pre
+ sents-the-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:98d14737e951d4426c00f2ea40f382865ee7efaa@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:Mutts Gone Nuts: Unleashed
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:Times: 2pm\, 5pm\nThe holidays have gone to the dogs—and we w
+ ouldn’t have it any other way! Mutts Gone Nuts: Unleashed returns to The
+  Colonial Theatre for a third festive season of incredible canine talent\,
+  big laughs and plenty of holiday mischief.\nhttps://www.berkshiretheatreg
+ roup.org/calendar/\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://www.berkshiretheatregroup.org/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:87264496dde659e121947d3fe4999fdac584ab1b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:Rock the Halls: A Rock & Roll Christmas
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:From the producers of Moondance and Takin' It to the Streets co
+ mes Rock the Halls: A Rock & Roll Christmas—a high-energy holiday celebr
+ ation featuring rock-inspired arrangements of beloved holiday classics\, p
+ erformed by an all-star band of Berkshire musicians\nhttps://www.berkshire
+ theatregroup.org/event/rock-the-halls-a-rock-roll-christmas/\nFrom Pushpin
+  Western Mass: https://pushpin.city/westernma/
+URL:https://www.berkshiretheatregroup.org/event/rock-the-halls-a-rock-roll-
+ christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:d668fe33c7e36f1250f4bab7f2ecfd1c69c6f458@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270207T003000Z
+DTEND:20270207T023000Z
+SUMMARY:Rev Tor’s 15th Annual Dead Of Winter Jam Featuring Dead Man’s W
+ altz & Friends
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:Drawing from the Northeast festival scene\, Dead Man’s Waltz 
+ brings seasoned musicians together for an adventurous trip through the Gra
+ teful Dead’s expansive songbook. Familiar melodies leave room for unexpe
+ cted turns as the band follows the music wherever it leads. It’s a spiri
+ ted celebration of songs built to be explored\, shared and heard anew.\nht
+ tps://www.berkshiretheatregroup.org/event/rev-tors-15th-annual-dead-of-win
+ ter-jam/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.berkshiretheatregroup.org/event/rev-tors-15th-annual-dead-o
+ f-winter-jam/
+END:VEVENT
+BEGIN:VEVENT
+UID:1a760063301afbfe2fbec397d2c69534e3da02d8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270213T190000Z
+DTEND:20270213T210000Z
+SUMMARY:Magic Tree House: The Knight at Dawn KIDS
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:Fresh from their adventure with the dinosaurs\, Jack and Annie 
+ return to the magic tree house and open a book about the Middle Ages. When
+  Annie wishes she could visit the castle on its pages\, the siblings are w
+ hisked back to the age of knights. Curious about the mysterious Black Knig
+ ht and his quest\, they set off through a castle full of surprises\, from 
+ a grand medieval feast to secret tunnels and dancing suits of armor. As th
+ ey search for a way home\, Jack and Annie discover the power of hope and w
+ hat it really means to be brave.\nhttps://www.berkshiretheatregroup.org/ev
+ ent/magic-tree-house-the-knight-at-dawn-kids/\nFrom Pushpin Western Mass: 
+ https://pushpin.city/westernma/
+URL:https://www.berkshiretheatregroup.org/event/magic-tree-house-the-knight
+ -at-dawn-kids/
+END:VEVENT
+BEGIN:VEVENT
+UID:d9a76aa190c6fbb9d403a79ca09f1bb584bcdedb@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270221T000000Z
+DTEND:20270221T020000Z
+SUMMARY:Moondance
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:From the feel-good charm of “Brown Eyed Girl” to the soulfu
+ l pull of “Into the Mystic\,” Van Morrison’s songs have a way of sta
+ ying with you. Moondance brings that extraordinary catalog to the stage in
+  a tribute concert celebrating the unmistakable sound and spirit of Van th
+ e Man.\nhttps://www.berkshiretheatregroup.org/event/moondance/\nFrom Pushp
+ in Western Mass: https://pushpin.city/westernma/
+URL:https://www.berkshiretheatregroup.org/event/moondance/
+END:VEVENT
+END:VCALENDAR

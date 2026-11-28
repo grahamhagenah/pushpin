@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:986b3975eae4b7336c2ad3946d5d008f3e844047@pushpin.city
+DTSTAMP:20270206T000000Z
+DTSTART:20270207T010000Z
+DTEND:20270207T030000Z
+SUMMARY:SAHA GNAWA
+LOCATION:Crystal Ballroom\, 55 Davis Square\, Somerville\, MA 02144
+DESCRIPTION:https://www.ticketmaster.com/saha-gnawa-somerville-massachusett
+ s-02-06-2027/event/0100652AEE3799CD
+URL:https://www.ticketmaster.com/saha-gnawa-somerville-massachusetts-02-06-
+ 2027/event/0100652AEE3799CD
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:de74d0b0362ba3793f0a6fb38c312b2d6da0e0ad@pushpin.city
+DTSTAMP:20270226T000000Z
+DTSTART:20270227T010000Z
+DTEND:20270227T030000Z
+SUMMARY:Orchestra & Glee Club: Consolations and Triumphs
+LOCATION:Mount Holyoke\, 3 Gateway Road\, South Hadley\, MA
+DESCRIPTION:https://events.mtholyoke.edu/event/orchestra-glee-club-consolat
+ ions-and
+URL:https://events.mtholyoke.edu/event/orchestra-glee-club-consolations-and
+END:VEVENT
+END:VCALENDAR

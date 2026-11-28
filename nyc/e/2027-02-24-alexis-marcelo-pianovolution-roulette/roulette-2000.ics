@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c1bfbfc17edc1e0004423d52e5f7ad0f3299e621@pushpin.city
+DTSTAMP:20270224T000000Z
+DTSTART:20270225T010000Z
+DTEND:20270225T030000Z
+SUMMARY:Alexis Marcelo: Pianovolution
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/alexis-marcelo-pianovolution/
+URL:https://roulette.org/event/alexis-marcelo-pianovolution/
+END:VEVENT
+END:VCALENDAR

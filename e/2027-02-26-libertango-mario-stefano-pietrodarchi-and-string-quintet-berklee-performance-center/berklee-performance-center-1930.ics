@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4b4053f45e1eba2b14cbb52eae6fd4d208d23cd0@pushpin.city
+DTSTAMP:20270226T000000Z
+DTSTART:20270227T003000Z
+DTEND:20270227T023000Z
+SUMMARY:Libertango: Mario Stefano Pietrodarchi and String Quintet
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/libertango-mario-stefano-pie
+ trodarchi-and-string-quintet
+URL:https://www.berklee.edu/BPC/events/libertango-mario-stefano-pietrodarch
+ i-and-string-quintet
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5d04848b190e5c1f04136ab0e48097d836165588@pushpin.city
+DTSTAMP:20270103T000000Z
+DTSTART:20270103T230000Z
+DTEND:20270104T010000Z
+SUMMARY:Wolfman Jack Winter Residency
+LOCATION:Stone Church\, 210 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://tickets.venuepilot.com/e/wolfman-jack-winter-residency-
+ 2027-01-03-stone-church-brattleboro-55d13c
+URL:https://tickets.venuepilot.com/e/wolfman-jack-winter-residency-2027-01-
+ 03-stone-church-brattleboro-55d13c
+END:VEVENT
+END:VCALENDAR

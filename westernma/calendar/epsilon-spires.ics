@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Epsilon Spires
+X-WR-CALDESC:What’s coming up at Epsilon Spires\, from Pushpin Western Ma
+ ss.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:f030292cd5e81328cb24aede78fccbdf1d124a60@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:FAUST (1926): 100th Anniversary w/ Pipe Organ Score by Peter Krasin
+ ski!
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:Celebrate the centennial of F.W. Murnau’s colossal adaptation
+  of Goethe’s sublime tragedy with the LAST live performance on our Histo
+ ric organ this year! An alchemist struggling with his faith amid a devasta
+ ting plague is offered the power to cure and the gift of youth\, in exchan
+ ge for his soul!\nhttps://www.epsilonspires.org/event-info/faust-1926-100t
+ h-anniversary-w-pipe-organ-score-by-peter-krasinski\nFrom Pushpin Western 
+ Mass: https://pushpin.city/westernma/
+URL:https://www.epsilonspires.org/event-info/faust-1926-100th-anniversary-w
+ -pipe-organ-score-by-peter-krasinski
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc072abab7272de0668a2b50cc9276494e2fd48@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T230000Z
+DTEND:20261205T010000Z
+SUMMARY:ETERNAL RETURNS PRESENTS... EARTH II + Filmmaker Q&A!
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:Cinematic tropes reveal truths about society’s past\, present
+ \, and future in this supercut of hollywood blockbusters in which civiliza
+ tion and the world itself are collapsing. "The most expensive climate disa
+ ster epic to be produced for no money” by The Anti-Banality Union!\nhttp
+ s://www.epsilonspires.org/event-info/eternal-returns-presents-earth-ii-fil
+ mmaker-q-a\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.epsilonspires.org/event-info/eternal-returns-presents-earth
+ -ii-filmmaker-q-a
+END:VEVENT
+BEGIN:VEVENT
+UID:3ecc6797a31890e5566939b37747c7e17b83ba63@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:THE GREAT SILENCE (1968) + Paper Jays
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:Experience one of the greatest Italian Westerns ever made! Far-
+ Out West continues with a politically-provocative masterpiece intended as 
+ protest against the assassinations of the revolutionaries Che Guevara and 
+ Malcolm X. Preshow by Paper Jays\, weaving avant-garde string textures int
+ o hypnotic folk!\nhttps://www.epsilonspires.org/event-info/the-great-silen
+ ce-1968-paper-jays\nFrom Pushpin Western Mass: https://pushpin.city/wester
+ nma/
+URL:https://www.epsilonspires.org/event-info/the-great-silence-1968-paper-j
+ ays
+END:VEVENT
+BEGIN:VEVENT
+UID:b6df570739a8d160ecef2c0d434787f64296f121@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T000000Z
+DTEND:20261209T020000Z
+SUMMARY:McCabe and Mrs Miller (1971) +Magic Tuber Stringband!
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:This unorthodox dream western may be the most radically beautif
+ ul film by Robert Altman\, murmuring softly of love\, death\, and capitali
+ sm with evocative cinematography and haunting songs by Leonard Cohan. +Mag
+ ic Tuber Stringband perform a preshow of Old-Time Music for Postmodern Peo
+ ple!\nhttps://www.epsilonspires.org/event-info/mccabe-and-mrs-miller-1971-
+ magic-tuber-stringband\nFrom Pushpin Western Mass: https://pushpin.city/we
+ sternma/
+URL:https://www.epsilonspires.org/event-info/mccabe-and-mrs-miller-1971-mag
+ ic-tuber-stringband
+END:VEVENT
+BEGIN:VEVENT
+UID:58ba4200770b78989e60a754d1d6e22c85dd17e9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:HAUSU (1977) + Gift Horse!
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:Japanese Cult Classic HAUSU is an aesthetically adventurous\, s
+ inister yet hilarious\, hypercolored approach to the horror genre! Experie
+ nce mind-altering\, HAUSU-inspired soundscapes of IDM-reminiscent\, sine-w
+ ave psychedelia by Gift Horse before the film!\nhttps://www.epsilonspires.
+ org/event-info/hausu-1977-gift-horse\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.epsilonspires.org/event-info/hausu-1977-gift-horse
+END:VEVENT
+BEGIN:VEVENT
+UID:fe2700c33924775f1b9d1cb6bed2890e65ca95fa@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T230000Z
+DTEND:20261220T010000Z
+SUMMARY:ETERNAL RETURNS PRESENTS... REX: A DINOSAUR’S STORY (1993)
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:REX: A DINOSAUR’S STORY\, Haruki Kadokawa’s adorable and un
+ hinged cult Christmas blockbuster was one of the most expensive Japanese f
+ ilms of the era\, All-Ages Appropriate! ART EXHIBITION CLOSING PARTY!\nhtt
+ ps://www.epsilonspires.org/event-info/eternal-returns-presents-rex-a-dinos
+ aurs-story-1993\nFrom Pushpin Western Mass: https://pushpin.city/westernma
+ /
+URL:https://www.epsilonspires.org/event-info/eternal-returns-presents-rex-a
+ -dinosaurs-story-1993
+END:VEVENT
+END:VCALENDAR

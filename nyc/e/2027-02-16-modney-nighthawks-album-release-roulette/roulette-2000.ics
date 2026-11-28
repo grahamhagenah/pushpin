@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:994ddc6766e2f079e6585fa27b30ee906db5c66f@pushpin.city
+DTSTAMP:20270216T000000Z
+DTSTART:20270217T010000Z
+DTEND:20270217T030000Z
+SUMMARY:Modney: Nighthawks (Album Release)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/modneys-nighthawks/
+URL:https://roulette.org/event/modneys-nighthawks/
+END:VEVENT
+END:VCALENDAR

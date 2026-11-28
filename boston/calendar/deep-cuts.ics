@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Deep Cuts
+X-WR-CALDESC:What’s coming up at Deep Cuts\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ccfc2da83d35d631cb22b6a2812051e337ac147e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:K.C.U.F. / Unseemlier / Today Junior / Grub Lord
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6acd164a23cba700014a09dc\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6acd164a23cba700014a09dc
+END:VEVENT
+BEGIN:VEVENT
+UID:6c22062166dcfdd3abed7cb67d2eddcd773c4b79@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:La Sécurité / Pinklids
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6ab3cb088d11830001b9fec5\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6ab3cb088d11830001b9fec5
+END:VEVENT
+BEGIN:VEVENT
+UID:3d606ffc2539bed342b8e83e44ba80317750be4a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Wild Pink w/Hiding Places
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a332e7b3c9c6a0001f20f5d\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6a332e7b3c9c6a0001f20f5d
+END:VEVENT
+BEGIN:VEVENT
+UID:7b1057b10d7ee53aa385c4c0e142aa2132f6dc47@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Lily Seabird w/ Eliza Niemi
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a90a605ea9ec80001535be2\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6a90a605ea9ec80001535be2
+END:VEVENT
+BEGIN:VEVENT
+UID:4fb758b6798bdc3b94eb3a9e8ab982d0441a521e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:The Daylilies / Lovina Falls / Girl With A Hawk / American Ocelot
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6ad8d6e174502800014032fe\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6ad8d6e174502800014032fe
+END:VEVENT
+BEGIN:VEVENT
+UID:8403ce0f056b93e8ebe1f30257dfb63fe4da55be@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T230000Z
+DTEND:20261206T010000Z
+SUMMARY:Physical Media Night
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6b00d015bafb900001a4ab05\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6b00d015bafb900001a4ab05
+END:VEVENT
+BEGIN:VEVENT
+UID:d72ccaaceceb279c230d34e64de6225f8dac43e1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261207T000000Z
+DTEND:20261207T020000Z
+SUMMARY:Advance Base / Karima Walker / Jake McKelvie
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a9b26caa3791b0001a34096\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6a9b26caa3791b0001a34096
+END:VEVENT
+BEGIN:VEVENT
+UID:9e299d79f3baf2977ff5600bdc09390bba75afa2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T000000Z
+DTEND:20261209T020000Z
+SUMMARY:Rolling Stony / Name Names / Cigarette Camp
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6aff6317da72d400012ee6cf\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6aff6317da72d400012ee6cf
+END:VEVENT
+BEGIN:VEVENT
+UID:a12dc745991c8556fd226fa3b430b7496bf70f02@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Porcelain / My Wife's An Angel / Frogs
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6abae2da206f7500013ec699\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6abae2da206f7500013ec699
+END:VEVENT
+BEGIN:VEVENT
+UID:cd344ad90fb360cb9dd96f2eaaf9462dfa06d2f3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:Whyte Lipstick / Freak Phone / Puke Pisstols
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6af3c753299019000139d207\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6af3c753299019000139d207
+END:VEVENT
+BEGIN:VEVENT
+UID:709d983e86c37d946fb1c0d0196294cdda64dad5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Third Annual Snowgaze Fest
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6ae8943582d0b900018e292b\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6ae8943582d0b900018e292b
+END:VEVENT
+BEGIN:VEVENT
+UID:90077acff0abd57a4d2155ba1fce1922afed985f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T000000Z
+DTEND:20261218T020000Z
+SUMMARY:Ian Coss Presents: The Maculate Conception\, a nativity musical
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6b05e84af11957000170b15f\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6b05e84af11957000170b15f
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc62dffbb0a4d9ade029553c0dc2012ec7fa548@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T000000Z
+DTEND:20261219T020000Z
+SUMMARY:Piebald / Perennial
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6af248b0dbec6c000139b0f5\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6af248b0dbec6c000139b0f5
+END:VEVENT
+BEGIN:VEVENT
+UID:b75decbbbe822a8d0a733a72e8994ac2b3f41137@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270108T000000Z
+DTEND:20270108T020000Z
+SUMMARY:Kiwi Jr. / Hallelujah the Hills
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6a729727f1a0190001923ce1\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6a729727f1a0190001923ce1
+END:VEVENT
+BEGIN:VEVENT
+UID:aa9e96b0f922ed34d21033a308d40cfeb25297e3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270110T000000Z
+DTEND:20270110T020000Z
+SUMMARY:The Racketeers / 'Bald Guys / Andy California
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6aea2fc116528500011f8fc8\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6aea2fc116528500011f8fc8
+END:VEVENT
+BEGIN:VEVENT
+UID:f83b68df350110db2e453ff5b97e2413acc67e25@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270117T000000Z
+DTEND:20270117T020000Z
+SUMMARY:The Dreadnoughts / Consuelo's Revenge
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6aef39fe098076000164270c\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6aef39fe098076000164270c
+END:VEVENT
+BEGIN:VEVENT
+UID:e5bef6553b1a54d504de2911a0b8a25fa29940ec@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270122T000000Z
+DTEND:20270122T020000Z
+SUMMARY:Sam Burton
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6b01d96bbafb9000013fa732\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6b01d96bbafb9000013fa732
+END:VEVENT
+BEGIN:VEVENT
+UID:09e1465fef46de4324053ea74a42dfc107debb62@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270123T000000Z
+DTEND:20270123T020000Z
+SUMMARY:Glacier / Morne / Eden Rayz
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6ae388bb06f99f0001ba67b0\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6ae388bb06f99f0001ba67b0
+END:VEVENT
+BEGIN:VEVENT
+UID:0aa53ae02fecff4c60d18c5f9fe9f543c66efb0c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270124T000000Z
+DTEND:20270124T020000Z
+SUMMARY:BLOWW w/Astral Bitch / Pink Slip / Evan Greer
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6b022fa67fa86a0001099aee\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6b022fa67fa86a0001099aee
+END:VEVENT
+BEGIN:VEVENT
+UID:26e3cddc53ea795eceb7dc7e4eb8d93c1568fdeb@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270130T000000Z
+DTEND:20270130T020000Z
+SUMMARY:Spirit Ghost / Black Beach / Justin Schaefers
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6adb7e4973038d0001a674bc\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6adb7e4973038d0001a674bc
+END:VEVENT
+BEGIN:VEVENT
+UID:265cdadad3ca6759c2dfcda0df5b58ef6663136d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270204T000000Z
+DTEND:20270204T020000Z
+SUMMARY:Tara Clerkin Trio
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6aba76e82dcaf800016c4474\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6aba76e82dcaf800016c4474
+END:VEVENT
+BEGIN:VEVENT
+UID:c3f9f89e36871d8d6b32f0295ee3750ad4fec5c3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270206T000000Z
+DTEND:20270206T020000Z
+SUMMARY:Beeef / Jonny Tex / Amory Sivertson
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6aff0bdbc9ded7000191662f\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6aff0bdbc9ded7000191662f
+END:VEVENT
+BEGIN:VEVENT
+UID:176d415fc594e74468685d48659b566dcd29468b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270207T000000Z
+DTEND:20270207T020000Z
+SUMMARY:An Evening With Dan Campbell
+LOCATION:Deep Cuts\, 21 Main St\, Medford\, MA 02155
+DESCRIPTION:https://dice.fm/event/6ad657c3a42bf50001002a8c\nFrom Pushpin Bo
+ ston: https://pushpin.city/
+URL:https://dice.fm/event/6ad657c3a42bf50001002a8c
+END:VEVENT
+END:VCALENDAR

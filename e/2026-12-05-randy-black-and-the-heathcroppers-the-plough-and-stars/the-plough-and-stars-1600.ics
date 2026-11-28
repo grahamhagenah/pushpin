@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3e35358b65c1398f7bae14bbeb61fc5bc59ae365@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T210000Z
+DTEND:20261205T230000Z
+SUMMARY:Randy Black and the Heathcroppers
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+END:VCALENDAR

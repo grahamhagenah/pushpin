@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b7d3b93cb3aa825d93a22cc1f6051c412ea47cf2@pushpin.city
+DTSTAMP:20261226T000000Z
+DTSTART:20261226T230000Z
+DTEND:20261227T010000Z
+SUMMARY:BOXING DAY CELEBRATION
+LOCATION:Dreamaway Lodge\, 1342 County Rd\, Becket\, MA 01223
+DESCRIPTION:https://www.thedreamawaylodge.com/music/boxing-day-celebration
+URL:https://www.thedreamawaylodge.com/music/boxing-day-celebration
+END:VEVENT
+END:VCALENDAR

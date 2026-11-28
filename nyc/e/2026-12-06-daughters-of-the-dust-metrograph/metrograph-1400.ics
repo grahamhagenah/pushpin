@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ead857ff1b5bbfaecca6a6cd09cfd4f67eb70cf0@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T190000Z
+DTEND:20261206T210000Z
+SUMMARY:Daughters of the Dust
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999002729-daughters-of-the-dust/
+URL:https://metrograph.com/film/9999002729-daughters-of-the-dust/
+END:VEVENT
+END:VCALENDAR

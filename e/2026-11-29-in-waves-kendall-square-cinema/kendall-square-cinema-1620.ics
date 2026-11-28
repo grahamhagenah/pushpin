@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3ff25c486918cbdf5ac9b927bdeec28a5140c4ad@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T212000Z
+DTEND:20261129T232000Z
+SUMMARY:In Waves
+LOCATION:Kendall Square Cinema\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/78a7daca-
+ 4f0b-54e5-b42a-1e470d2f27eb
+URL:https://booking.landmarktheatres.com/launch/ticketing/78a7daca-4f0b-54e
+ 5-b42a-1e470d2f27eb
+END:VEVENT
+END:VCALENDAR

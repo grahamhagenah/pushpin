@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c48d5283b9f824e6ac3d32b5223dc9f737ad92a3@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261130T010000Z
+DTEND:20261130T030000Z
+SUMMARY:HellBound Experience: NECROPOLIS
+LOCATION:Sonia\, 10 Brookline St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/hellbound-experience-necropolis
+ -sonia-tickets/14448784?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/hellbound-experience-necropolis-sonia-t
+ ickets/14448784?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

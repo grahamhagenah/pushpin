@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:af0c255055b41fe34453eb9b2a8fcca80928e299@pushpin.city
+DTSTAMP:20270213T000000Z
+DTSTART:20270214T010000Z
+DTEND:20270214T030000Z
+SUMMARY:Holodec // Dorothy Carlos // SCRAAATCH (Mixology Festival)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/vanessa-amara-holodec-dorothy-carlos
+ -scraaatch/
+URL:https://roulette.org/event/vanessa-amara-holodec-dorothy-carlos-scraaat
+ ch/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7083cd7512861b109f8e09974fb8ae708d695778@pushpin.city
+DTSTAMP:20270203T000000Z
+DTSTART:20270204T010000Z
+DTEND:20270204T030000Z
+SUMMARY:Bronwyn
+LOCATION:Stone Church\, 210 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://tickets.venuepilot.com/e/bronwyn-2027-02-03-stone-churc
+ h-brattleboro-ebd83a
+URL:https://tickets.venuepilot.com/e/bronwyn-2027-02-03-stone-church-brattl
+ eboro-ebd83a
+END:VEVENT
+END:VCALENDAR

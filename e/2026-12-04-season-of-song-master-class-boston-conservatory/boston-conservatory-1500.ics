@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:21a18f81954dfc09c8bf8eae9d726d9b6514ecc1@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261204T200000Z
+DTEND:20261204T220000Z
+SUMMARY:Season of Song: Master Class
+LOCATION:Boston Conservatory\, 8 Fenway\, Boston\, MA 02215
+DESCRIPTION:https://bostonconservatory.berklee.edu/events/season-of-song-ma
+ ster-class
+URL:https://bostonconservatory.berklee.edu/events/season-of-song-master-cla
+ ss
+END:VEVENT
+END:VCALENDAR

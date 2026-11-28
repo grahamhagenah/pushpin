@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4ff2702aec7fd8212f8919447a040420bfecef8f@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Bonobo - Distance In Static Live North American Tour
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/bonobo-distance-in-static-live-nor
+ th-boston-massachusetts-11-28-2026/event/010064C3A81674EB
+URL:https://www.ticketmaster.com/bonobo-distance-in-static-live-north-bosto
+ n-massachusetts-11-28-2026/event/010064C3A81674EB
+END:VEVENT
+END:VCALENDAR

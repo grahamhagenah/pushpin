@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:997e4467240ab863050a791243b9700544ee2743@pushpin.city
+DTSTAMP:20270120T000000Z
+DTSTART:20270121T010000Z
+DTEND:20270121T030000Z
+SUMMARY:Lexi Weege Album Release with Savoir Faire
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/lexi-weege-album-relea
+ se-with-savoir-faire/
+URL:https://www.passim.org/live-music/events/lexi-weege-album-release-with-
+ savoir-faire/
+END:VEVENT
+END:VCALENDAR

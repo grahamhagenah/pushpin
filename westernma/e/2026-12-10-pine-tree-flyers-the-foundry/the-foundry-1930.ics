@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c47bd6cf3144bbe32358b97adb34f13d43a8de59@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T003000Z
+DTEND:20261211T023000Z
+SUMMARY:Pine Tree Flyers
+LOCATION:The Foundry\, 2 Harris St\, West Stockbridge\, MA 01266
+DESCRIPTION:https://thefoundryws.com/event/pine-tree-flyers/
+URL:https://thefoundryws.com/event/pine-tree-flyers/
+END:VEVENT
+END:VCALENDAR

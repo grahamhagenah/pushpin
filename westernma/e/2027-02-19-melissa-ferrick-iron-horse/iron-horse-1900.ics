@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:76bd0aa1661104960d63ae2fe1e34d7515b08a7b@pushpin.city
+DTSTAMP:20270219T000000Z
+DTSTART:20270220T000000Z
+DTEND:20270220T020000Z
+SUMMARY:Melissa Ferrick
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000D4av3MAB
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0D4av3MAB
+END:VEVENT
+END:VCALENDAR

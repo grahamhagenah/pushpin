@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fb928ad0c3d351f1d1c642b47fc5079ef025c7f6@pushpin.city
+DTSTAMP:20261225T000000Z
+DTSTART:20261225T160000Z
+DTEND:20261225T180000Z
+SUMMARY:The Muppet Christmas Carol
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999001223-the-muppet-christmas-car
+ ol/
+URL:https://metrograph.com/film/9999001223-the-muppet-christmas-carol/
+END:VEVENT
+END:VCALENDAR

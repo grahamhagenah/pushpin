@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:00af161480c5b55f697c11a63252ce639ff226b3@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Author Talk: Paul Lewis — Quothing "The Raven"
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:https://bpl.bibliocommons.com/events/6a8f3fed29a7dd0d6746ddcb
+URL:https://bpl.bibliocommons.com/events/6a8f3fed29a7dd0d6746ddcb
+END:VEVENT
+END:VCALENDAR

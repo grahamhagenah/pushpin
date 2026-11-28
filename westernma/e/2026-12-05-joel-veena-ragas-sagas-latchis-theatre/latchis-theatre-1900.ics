@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:76efc62101ed2de428e75e380ff77b4321bdd376@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:Joel Veena: Ragas & Sagas
+LOCATION:Latchis Theatre\, 50 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://latchis.com/event/joel-veena-ragas-sagas/
+URL:https://latchis.com/event/joel-veena-ragas-sagas/
+END:VEVENT
+END:VCALENDAR

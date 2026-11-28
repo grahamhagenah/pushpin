@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0cc2ac0a8ccf06340247cb156dd85dbc21d96525@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:FAUST (1926): 100th Anniversary w/ Pipe Organ Score by Peter Krasin
+ ski!
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://www.epsilonspires.org/event-info/faust-1926-100th-anniv
+ ersary-w-pipe-organ-score-by-peter-krasinski
+URL:https://www.epsilonspires.org/event-info/faust-1926-100th-anniversary-w
+ -pipe-organ-score-by-peter-krasinski
+END:VEVENT
+END:VCALENDAR

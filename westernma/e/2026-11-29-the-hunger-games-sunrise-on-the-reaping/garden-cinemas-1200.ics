@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:572bb185f4000f137dc92a99985a1b0f6c2bf0e9@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T170000Z
+DTEND:20261129T190000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Garden Cinemas\, 361 Main St\, Greenfield\, MA 01301
+DESCRIPTION:https://www.gardencinemas.net/
+URL:https://www.gardencinemas.net/
+END:VEVENT
+END:VCALENDAR

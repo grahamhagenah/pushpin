@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8cdd50008051e73f6e428b5d4e06fff7df1f27ae@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Jason Moran & the Bandwagon
+LOCATION:Village Vanguard\, 178 Seventh Ave South\, New York\, NY 10014
+DESCRIPTION:https://vv.squadup.com/artists/jason-moran-and-the-bandwagon
+URL:https://vv.squadup.com/artists/jason-moran-and-the-bandwagon
+END:VEVENT
+END:VCALENDAR

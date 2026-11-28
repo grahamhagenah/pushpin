@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e720685284eaed72774624c20fdca7a7134818a7@pushpin.city
+DTSTAMP:20261207T000000Z
+DTSTART:20261208T003000Z
+DTEND:20261208T023000Z
+SUMMARY:Wind Ensemble Fall Concert: To Trip the Light Fantastic
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:https://www.smith.edu/news-events/events/wind-ensemble-fall-con
+ cert-trip-light-fantastic
+URL:https://www.smith.edu/news-events/events/wind-ensemble-fall-concert-tri
+ p-light-fantastic
+END:VEVENT
+END:VCALENDAR

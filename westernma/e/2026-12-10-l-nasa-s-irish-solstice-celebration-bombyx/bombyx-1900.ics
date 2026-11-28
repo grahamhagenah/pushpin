@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:25750c41f48f634f13adfdf61faad37b387e74b2@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:Lúnasa's Irish Solstice Celebration
+LOCATION:Bombyx\, 130 Pine St\, Florence\, MA 01062
+DESCRIPTION:https://bombyx.live/events/lunasas-irish-solstice-celebration-w
+ ith-special-guest-singer-dave-curley/
+URL:https://bombyx.live/events/lunasas-irish-solstice-celebration-with-spec
+ ial-guest-singer-dave-curley/
+END:VEVENT
+END:VCALENDAR

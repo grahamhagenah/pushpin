@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b1029108d5474bf757402cff5f0ed69789862f76@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T000000Z
+DTEND:20261219T020000Z
+SUMMARY:Dune: Part Three
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/dress-up-screening-dune-part
+ -three
+URL:https://drafthouse.com/boston/show/dress-up-screening-dune-part-three
+END:VEVENT
+END:VCALENDAR

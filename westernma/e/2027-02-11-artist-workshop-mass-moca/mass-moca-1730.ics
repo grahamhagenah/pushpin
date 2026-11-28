@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bc6401c62ce93379ce95e7d55f81b7b5ef3632d4@pushpin.city
+DTSTAMP:20270211T000000Z
+DTSTART:20270211T223000Z
+DTEND:20270212T003000Z
+SUMMARY:Artist Workshop:
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:https://massmoca.org/event/artist-workshop-fresco-building-with
+ -daniela-rivera/
+URL:https://massmoca.org/event/artist-workshop-fresco-building-with-daniela
+ -rivera/
+END:VEVENT
+END:VCALENDAR

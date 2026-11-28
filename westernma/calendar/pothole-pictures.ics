@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Pothole Pictures
+X-WR-CALDESC:What’s coming up at Pothole Pictures\, from Pushpin Western 
+ Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:e271eb1dec7cb2bc20d711f39654ab6a7e848d3c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:Jack London’s Martin Eden
+LOCATION:Pothole Pictures\, 51 Bridge St\, Shelburne Falls\, MA 01370
+DESCRIPTION:https://shelburnefallsmemorialhall.org/jack-londons-martin-eden
+ /\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://shelburnefallsmemorialhall.org/jack-londons-martin-eden/
+END:VEVENT
+BEGIN:VEVENT
+UID:8ba6d5b63b786adfe38beb12c110f7f54d6a2cb3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261207T003000Z
+DTEND:20261207T023000Z
+SUMMARY:Jack London’s Martin Eden
+LOCATION:Pothole Pictures\, 51 Bridge St\, Shelburne Falls\, MA 01370
+DESCRIPTION:https://shelburnefallsmemorialhall.org/jack-londons-martin-eden
+ /\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://shelburnefallsmemorialhall.org/jack-londons-martin-eden/
+END:VEVENT
+BEGIN:VEVENT
+UID:1dd21229582d06b0d85d10b73a06800ad3ca1ad9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:It’s a Wonderful Life (1946)
+LOCATION:Pothole Pictures\, 51 Bridge St\, Shelburne Falls\, MA 01370
+DESCRIPTION:Free live music at 7 pm: Friday: Outfielders: “Old-time fiddl
+ e\, mandolin & banjo tunes” Saturday: Shelburne Falls old-time jam sessi
+ on\nhttps://shelburnefallsmemorialhall.org/its-a-wonderful-life-1946/\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://shelburnefallsmemorialhall.org/its-a-wonderful-life-1946/
+END:VEVENT
+BEGIN:VEVENT
+UID:bdea5cb72677a85e1b3b84a781f54f9e96cbf846@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T003000Z
+DTEND:20261220T023000Z
+SUMMARY:It’s a Wonderful Life (1946)
+LOCATION:Pothole Pictures\, 51 Bridge St\, Shelburne Falls\, MA 01370
+DESCRIPTION:Free live music at 7 pm: Friday: Outfielders: “Old-time fiddl
+ e\, mandolin & banjo tunes” Saturday: Shelburne Falls old-time jam sessi
+ on\nhttps://shelburnefallsmemorialhall.org/its-a-wonderful-life-1946/\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://shelburnefallsmemorialhall.org/its-a-wonderful-life-1946/
+END:VEVENT
+END:VCALENDAR

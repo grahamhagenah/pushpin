@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5d971c639663a6b9290fec4eb07c6711e4205fb3@pushpin.city
+DTSTAMP:20270130T000000Z
+DTSTART:20270131T003000Z
+DTEND:20270131T023000Z
+SUMMARY:Louise Coombe & Cliff Eberhardt
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000D8qOXMAZ
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0D8qOXMAZ
+END:VEVENT
+END:VCALENDAR

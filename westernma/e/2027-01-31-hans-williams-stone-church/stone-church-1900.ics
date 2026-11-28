@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6e13f47ccf778b6f865eac447ddf3340c2a32573@pushpin.city
+DTSTAMP:20270131T000000Z
+DTSTART:20270201T000000Z
+DTEND:20270201T020000Z
+SUMMARY:Hans Williams
+LOCATION:Stone Church\, 210 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://tickets.venuepilot.com/e/hans-williams-2027-01-31-stone
+ -church-brattleboro-8159d1
+URL:https://tickets.venuepilot.com/e/hans-williams-2027-01-31-stone-church-
+ brattleboro-8159d1
+END:VEVENT
+END:VCALENDAR

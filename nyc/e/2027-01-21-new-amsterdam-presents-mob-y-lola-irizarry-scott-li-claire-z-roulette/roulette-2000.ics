@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:145caf906fe3db7fc34ce639ac89383309d576be@pushpin.city
+DTSTAMP:20270121T000000Z
+DTSTART:20270122T010000Z
+DTEND:20270122T030000Z
+SUMMARY:New Amsterdam Presents: Mobéy Lola Irizarry // Scott Li & Claire Z
+ hang (Album Release)
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/mobey-lola-irizarry-scott-li-claire-
+ zhang-new-amsterdam/
+URL:https://roulette.org/event/mobey-lola-irizarry-scott-li-claire-zhang-ne
+ w-amsterdam/
+END:VEVENT
+END:VCALENDAR

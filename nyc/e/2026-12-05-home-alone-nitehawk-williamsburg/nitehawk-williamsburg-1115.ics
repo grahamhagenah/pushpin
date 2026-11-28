@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1c3ecbd8b0829c9d13a5a83d3a3062ce15de44fc@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T161500Z
+DTEND:20261205T181500Z
+SUMMARY:Home Alone
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/home-alone/
+URL:https://nitehawkcinema.com/williamsburg/movies/home-alone/
+END:VEVENT
+END:VCALENDAR

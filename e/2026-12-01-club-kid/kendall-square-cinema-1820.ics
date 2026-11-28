@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:117c8c9c98b6c44f6f8247c419448ba506bf3814@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261201T232000Z
+DTEND:20261202T012000Z
+SUMMARY:Club Kid
+LOCATION:Kendall Square Cinema\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/bed43b7e-
+ b1ab-5c6c-91a6-3ec778204fe0
+URL:https://booking.landmarktheatres.com/launch/ticketing/bed43b7e-b1ab-5c6
+ c-91a6-3ec778204fe0
+END:VEVENT
+END:VCALENDAR

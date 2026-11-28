@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:94fe82b548540988418ca784c275beae09fa477b@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T210000Z
+DTEND:20261212T230000Z
+SUMMARY:Jollof Films presents The Price of Forgiveness
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005134-jollof-films-presents-th
+ e-price-of-forgiveness/
+URL:https://metrograph.com/film/9999005134-jollof-films-presents-the-price-
+ of-forgiveness/
+END:VEVENT
+END:VCALENDAR

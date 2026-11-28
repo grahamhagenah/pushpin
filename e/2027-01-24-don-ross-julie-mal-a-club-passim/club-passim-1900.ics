@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:50a6442f921c97ae12e4c8df1fac003fe111eca0@pushpin.city
+DTSTAMP:20270124T000000Z
+DTSTART:20270125T000000Z
+DTEND:20270125T020000Z
+SUMMARY:Don Ross & Julie Malía
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/don-ross-julie-malia/
+URL:https://www.passim.org/live-music/events/don-ross-julie-malia/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ad4ab709fc391b3688b899ceff3beef33d3d864b@pushpin.city
+DTSTAMP:20270116T000000Z
+DTSTART:20270117T003000Z
+DTEND:20270117T023000Z
+SUMMARY:David Sánchez
+LOCATION:Vermont Jazz Center\, 72 Cotton Mill Hill\, Brattleboro\, VT 05301
+DESCRIPTION:https://vtjazz.org/calendar/david-sanchez/
+URL:https://vtjazz.org/calendar/david-sanchez/
+END:VEVENT
+END:VCALENDAR

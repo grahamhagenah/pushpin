@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8a28c8709ad97cda7f440656aa30c26aa0aa9a15@pushpin.city
+DTSTAMP:20270215T000000Z
+DTSTART:20270216T000000Z
+DTEND:20270216T020000Z
+SUMMARY:Asaf Avidan (18+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/asaf-avidan-18-boston-massachusett
+ s-02-15-2027/event/01006569F277326F
+URL:https://www.ticketmaster.com/asaf-avidan-18-boston-massachusetts-02-15-
+ 2027/event/01006569F277326F
+END:VEVENT
+END:VCALENDAR

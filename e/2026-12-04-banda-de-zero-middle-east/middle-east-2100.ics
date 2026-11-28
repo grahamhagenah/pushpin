@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0d649b79f1caf53a8a259c0f4fc347c1c06ec3d7@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261205T020000Z
+DTEND:20261205T040000Z
+SUMMARY:Banda de Zero
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/banda-de-zero-middle-east-zuzu-
+ tickets/14394294?pl=mideastclub&REFID=clientsitewp
+URL:https://www.ticketweb.com/event/banda-de-zero-middle-east-zuzu-tickets/
+ 14394294?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

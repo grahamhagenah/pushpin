@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7f3ecf39c746ec2a7bc987d16a92413931207dc4@pushpin.city
+DTSTAMP:20270226T000000Z
+DTSTART:20270227T000000Z
+DTEND:20270227T020000Z
+SUMMARY:Ruby Waters: Suppre$$ions North America Tour
+LOCATION:Paradise\, 967 Commonwealth Ave\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/ruby-waters-suppreions-north-ameri
+ ca-tour-boston-massachusetts-02-26-2027/event/0100654EC0FAF895
+URL:https://www.ticketmaster.com/ruby-waters-suppreions-north-america-tour-
+ boston-massachusetts-02-26-2027/event/0100654EC0FAF895
+END:VEVENT
+END:VCALENDAR

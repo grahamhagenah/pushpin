@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:855d1fdafa3a2ca3274fb7e3fb0dc443d0279a54@pushpin.city
+DTSTAMP:20261227T000000Z
+DTSTART:20261228T000000Z
+DTEND:20261228T020000Z
+SUMMARY:Juliana Hatfield
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000DGgWrMAL
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0DGgWrMAL
+END:VEVENT
+END:VCALENDAR

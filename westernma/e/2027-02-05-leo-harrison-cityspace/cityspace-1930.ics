@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:735cc1d01918720b366199b412579cec86e7b229@pushpin.city
+DTSTAMP:20270205T000000Z
+DTSTART:20270206T003000Z
+DTEND:20270206T023000Z
+SUMMARY:Leo Harrison
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.cityspaceeasthampton.org/all-events/
+URL:https://www.cityspaceeasthampton.org/all-events/
+END:VEVENT
+END:VCALENDAR

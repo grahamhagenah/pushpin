@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:230a232da397ba32b9666aea378d7077297f839e@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T021500Z
+DTEND:20261211T041500Z
+SUMMARY:Shouting at the Screen
+LOCATION:Nitehawk Prospect Park\, 188 Prospect Park West\, Brooklyn\, NY 11
+ 215
+DESCRIPTION:https://nitehawkcinema.com/prospectpark/movies/shouting-at-the-
+ screen/
+URL:https://nitehawkcinema.com/prospectpark/movies/shouting-at-the-screen/
+END:VEVENT
+END:VCALENDAR

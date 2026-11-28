@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4daa3fcc2818b1a7de974e3c5433ff903437f144@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T030000Z
+DTEND:20261212T050000Z
+SUMMARY:Red Snow
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/red-snow
+URL:https://drafthouse.com/boston/show/red-snow
+END:VEVENT
+END:VCALENDAR

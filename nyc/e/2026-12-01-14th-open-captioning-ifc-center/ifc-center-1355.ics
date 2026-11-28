@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c898f8240b7cbcf3f7ac0295a35592e81f6c1bc1@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261201T185500Z
+DTEND:20261201T205500Z
+SUMMARY:14th (Open Captioning)
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/14th-open-captioning/
+URL:https://www.ifccenter.com/films/14th-open-captioning/
+END:VEVENT
+END:VCALENDAR

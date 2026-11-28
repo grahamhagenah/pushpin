@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2d263978f5d16ec2bb36e720803970e03d2cf943@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261220T010000Z
+DTEND:20261220T030000Z
+SUMMARY:Puerto Rican Parranda
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:https://marigold.org/criollaparranda/
+URL:https://marigold.org/criollaparranda/
+END:VEVENT
+END:VCALENDAR

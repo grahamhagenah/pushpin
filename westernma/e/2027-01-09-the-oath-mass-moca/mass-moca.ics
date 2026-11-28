@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b32c62559311d3483c6356a4e5a50a08e2a81006@pushpin.city
+DTSTAMP:20270109T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:The Oath
+LOCATION:Mass MoCA\, 1040 Mass MoCA Way\, North Adams\, MA 01247
+DESCRIPTION:https://massmoca.org/event/annie-b-parson-and-alla-kovgan-big-d
+ ance-theater-the-oath/
+URL:https://massmoca.org/event/annie-b-parson-and-alla-kovgan-big-dance-the
+ ater-the-oath/
+END:VEVENT
+END:VCALENDAR

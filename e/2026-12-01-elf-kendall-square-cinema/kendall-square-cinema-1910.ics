@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c6c551d36f68ebe3fb93c4aa1b90ee40779a5d2b@pushpin.city
+DTSTAMP:20261201T000000Z
+DTSTART:20261202T001000Z
+DTEND:20261202T021000Z
+SUMMARY:Elf
+LOCATION:Kendall Square Cinema\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/da3f4622-
+ 9887-5bf5-9817-9c70510bbfa8
+URL:https://booking.landmarktheatres.com/launch/ticketing/da3f4622-9887-5bf
+ 5-9817-9c70510bbfa8
+END:VEVENT
+END:VCALENDAR

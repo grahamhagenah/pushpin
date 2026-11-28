@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b59c3ea63b39851143579c62eb9db4aeeda5588b@pushpin.city
+DTSTAMP:20270121T000000Z
+DTSTART:20270122T000000Z
+DTEND:20270122T020000Z
+SUMMARY:Lucas Zelnick
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/lucas-zelnick/
+URL:https://aomtheatre.com/aom_event/lucas-zelnick/
+END:VEVENT
+END:VCALENDAR

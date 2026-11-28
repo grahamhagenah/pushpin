@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b260af68fda8f712de7a623b93c401fef67a694c@pushpin.city
+DTSTAMP:20270209T000000Z
+DTSTART:20270210T010000Z
+DTEND:20270210T030000Z
+SUMMARY:Silverada
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1651927
+URL:https://www.sinclaircambridge.com/events/detail/1651927
+END:VEVENT
+END:VCALENDAR

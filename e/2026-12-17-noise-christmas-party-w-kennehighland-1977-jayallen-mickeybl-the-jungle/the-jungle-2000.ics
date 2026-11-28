@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f808d5f3f63a05b9ce5e81dd8995be24844084d2@pushpin.city
+DTSTAMP:20261217T000000Z
+DTSTART:20261218T010000Z
+DTEND:20261218T030000Z
+SUMMARY:Noise Christmas Party w/ KenneHighland\, 1977\,JayAllen\, MickeyBli
+ ss
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/noise-christmas-party-w-kennehighl
+ and-1977jayallen-mickeybliss-tickets-2002769044124
+URL:https://www.eventbrite.com/e/noise-christmas-party-w-kennehighland-1977
+ jayallen-mickeybliss-tickets-2002769044124
+END:VEVENT
+END:VCALENDAR

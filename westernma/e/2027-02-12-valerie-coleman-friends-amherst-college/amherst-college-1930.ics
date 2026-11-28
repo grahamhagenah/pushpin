@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d5cee9b47a04e2224542f7cb18910c2c5b30fb00@pushpin.city
+DTSTAMP:20270212T000000Z
+DTSTART:20270213T003000Z
+DTEND:20270213T023000Z
+SUMMARY:Valerie Coleman & Friends
+LOCATION:Amherst College\, 220 South Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.amherst.edu/academiclife/departments/music/events/n
+ ode/944337
+URL:https://www.amherst.edu/academiclife/departments/music/events/node/9443
+ 37
+END:VEVENT
+END:VCALENDAR

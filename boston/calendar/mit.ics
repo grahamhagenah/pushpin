@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · MIT
+X-WR-CALDESC:What’s coming up at MIT\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:7d5758eb299e2e480aaba6b9ba15c3c10c801bd4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T210000Z
+DTEND:20261130T230000Z
+SUMMARY:Chinese Americans in Science & Technology
+LOCATION:MIT\, 1 AMHERST ST\, Cambridge\, MA 02142
+DESCRIPTION:MIT-China presents the China Diaologue Series. Panelists Profes
+ sors Xiaoxing Xi and Gang Chen\, moderated by Professor Yasheng Huang\, wi
+ ll explore how professional achievement can intersect with heightened nati
+ onal-security considerations. Drawing on personal experiences and institut
+ ional perspectives\, the discussion will address evolving policies and the
+  broader implications for academia\, scientific research\, and internation
+ al collaboration.\nhttps://calendar.mit.edu/event/when-success-meets-suspi
+ cion-chinese-americans-in-science-technology\nFrom Pushpin Boston: https:/
+ /pushpin.city/
+URL:https://calendar.mit.edu/event/when-success-meets-suspicion-chinese-ame
+ ricans-in-science-technology
+END:VEVENT
+BEGIN:VEVENT
+UID:2f402c8bfcb56b59fcf2c08c49e7f2c08ddcfeed@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T230000Z
+DTEND:20261202T010000Z
+SUMMARY:SURGE: A Participatory Performance on Sea Level Rise
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Experience sea level rise through this interactive performance-
+ workshop that combines movement\, climate science\, and activism at the MI
+ T Museum.\nhttps://calendar.mit.edu/event/surge-a-participatory-performanc
+ e-on-sea-level-rise\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/surge-a-participatory-performance-on-sea
+ -level-rise
+END:VEVENT
+BEGIN:VEVENT
+UID:2b40ef3265b5af34a850a5c69a7e9627cc958509@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T220000Z
+DTEND:20261204T000000Z
+SUMMARY:Author Ted Chiang in Conversation with MIT President Sally Kornblut
+ h
+LOCATION:MIT\, 160 MEMORIAL DR\, Cambridge\, MA 02139
+DESCRIPTION:Join us for a special conversation with author Ted Chiang and M
+ IT President Sally Kornbluth about Exhalation. President Kornbluth has cho
+ sen Chiang’s celebrated science fiction short story collection to celebr
+ ate 10 years of MIT Reads. Exploring the book’s provocative questions ab
+ out technology and humanity\, their discussion will focus on the stories "
+ The Truth of Fact\, the Truth of Feeling\,” "The Lifecycle of Software O
+ bjects\,” “Omphalos\,” “What’s Expected of Us\," and "Exhalation
+ ."\nhttps://calendar.mit.edu/event/author-ted-chiang-in-conversation-with-
+ mit-president-sally-kornbluth\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/author-ted-chiang-in-conversation-with-m
+ it-president-sally-kornbluth
+END:VEVENT
+BEGIN:VEVENT
+UID:bebc3b00ad36e5bc36e0c7be0a6816f3939b486d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:AI and the Future of Filmmaking
+LOCATION:MIT\, 345 Vassar Street\, Cambridge\, MA 02139
+DESCRIPTION:W97-160 · December 3 · Lecture and Discussion – 6-7.30p\nht
+ tps://calendar.mit.edu/event/ai-and-the-future-of-filmmaking\nFrom Pushpin
+  Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/ai-and-the-future-of-filmmaking
+END:VEVENT
+BEGIN:VEVENT
+UID:848d6bf9364df230629e8c7e53e985382175164e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:Meriem Chabani. Communion It is embarrassing to believe. It is terr
+ ifying to care. What happens when we dare anyway?
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Algerian born\, Paris based Meriem Chabani is the founder and P
+ rincipal of NEW SOUTH\, an award-winning architecture\, urban planning and
+  anthropology practice that puts the margin at the center. Her work on civ
+ ic spaces\, memory and belonging includes the Taungdwingyi cultural center
+  in Myanmar\, the Globe Aroma refugee art center in Brussels\, and the upc
+ oming Mosque Zero in Paris. She is currently a finalist for the National S
+ lavery Museum in Amsterdam. As an educator\, Chabani has taught and lectur
+ ed extensively. She has notably served as Aga Khan Design Critic in Archit
+ ecture at Harvard GSD (USA)\, and currently teaches at Ecole Paris Malaqua
+ is (FR). Her work has regularly been distinguished and showcased at a numb
+ er of international architecture Biennials\, including Venice\, Istanbul\,
+  Oslo and Lagos. In 2020 Chabani won the Europe 40 under 40 award from The
+  European Centre for Architecture and The Chicago Athenaeum. In 2023\, she
+  is one of the emerging women architects for AMC. In 2025\, Le Monde names
+  her one of the leading voices in culture in France.\nhttps://calendar.mit
+ .edu/event/meriem-chabani-communion-it-is-embarrassing-to-believe-it-is-te
+ rrifying-to-care-what-happens-when-we-dare-anyway\nFrom Pushpin Boston: ht
+ tps://pushpin.city/
+URL:https://calendar.mit.edu/event/meriem-chabani-communion-it-is-embarrass
+ ing-to-believe-it-is-terrifying-to-care-what-happens-when-we-dare-anyway
+END:VEVENT
+BEGIN:VEVENT
+UID:9f1f79d26cbab18b29c211c648727b54eeacb8f1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:New South—Meriem Chabani
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:Part of the MIT Fall 2026 Architecture Lecture Series.\nhttps:/
+ /calendar.mit.edu/event/new-southmeriem-chabani\nFrom Pushpin Boston: http
+ s://pushpin.city/
+URL:https://calendar.mit.edu/event/new-southmeriem-chabani
+END:VEVENT
+BEGIN:VEVENT
+UID:dcb5f8191963d2182e1bdbb3fd2ed4d8d9423a63@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T230000Z
+DTEND:20261211T010000Z
+SUMMARY:After Dark: The Twilight Zone
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Ready to meet some seriously weird creatures? Venture into the 
+ ocean's shadowy depths and discover the research happening in our ocean’
+ s Twilight Zone.\nhttps://calendar.mit.edu/event/after-dark-the-twilight-z
+ one\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/after-dark-the-twilight-zone
+END:VEVENT
+BEGIN:VEVENT
+UID:9677c0db64180c2e333cafc939cbf3cf36d74306@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T183000Z
+DTEND:20261212T203000Z
+SUMMARY:The Art of Looking: Netherlandish Paintings at the MIT Museum
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Did you know the MIT Museum has a remarkable\, but little-known
+  collection of seventeenth-century Netherlandish art?\nhttps://calendar.mi
+ t.edu/event/the-art-of-looking-netherlandish-paintings-at-the-mit-museum\n
+ From Pushpin Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/the-art-of-looking-netherlandish-paintin
+ gs-at-the-mit-museum
+END:VEVENT
+BEGIN:VEVENT
+UID:bf1b5f1bc594f3e9380d195b09afe11d41a0d526@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261217T150000Z
+DTEND:20261217T170000Z
+SUMMARY:Water Lines: Architecture at the Edge Exhibition Opens
+LOCATION:MIT\, 77 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:Through a selection of MIT student thesis drawings\, Water Line
+ s: Architecture at the Edge explores how aspiring architects have approach
+ ed the unique challenges and opportunities of designing in waterfront zone
+ s\, and how architectural design has responded to shifting social prioriti
+ es and environmental challenges over 150 years.\nhttps://calendar.mit.edu/
+ event/water-lines-architecture-at-the-edge-exhibition-opens\nFrom Pushpin 
+ Boston: https://pushpin.city/
+URL:https://calendar.mit.edu/event/water-lines-architecture-at-the-edge-exh
+ ibition-opens
+END:VEVENT
+END:VCALENDAR

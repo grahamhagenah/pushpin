@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2f5b9c4613ccf011822cec522da35e87423d7255@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T201500Z
+DTEND:20261220T221500Z
+SUMMARY:Dune: Part Three
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/dune-part-three
+URL:https://www.westnewtoncinema.com/movie/dune-part-three
+END:VEVENT
+END:VCALENDAR

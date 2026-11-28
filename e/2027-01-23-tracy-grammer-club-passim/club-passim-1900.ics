@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bd39f1b6b61a0012ee5a281a84050fe950309580@pushpin.city
+DTSTAMP:20270123T000000Z
+DTSTART:20270124T000000Z
+DTEND:20270124T020000Z
+SUMMARY:Tracy Grammer
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/tracy-grammer/
+URL:https://www.passim.org/live-music/events/tracy-grammer/
+END:VEVENT
+END:VCALENDAR

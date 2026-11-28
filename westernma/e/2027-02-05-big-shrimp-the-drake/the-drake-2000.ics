@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c371facd17c01d8a68f2eeb14fcadca9f407fb24@pushpin.city
+DTSTAMP:20270205T000000Z
+DTSTART:20270206T010000Z
+DTEND:20270206T030000Z
+SUMMARY:BIG SHRIMP
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/bigshrimp0205
+URL:https://www.thedrakeamherst.org/events/bigshrimp0205
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:276f80d7f813d5aa02cbd6f937d656d9d99ce626@pushpin.city
+DTSTAMP:20261215T000000Z
+DTSTART:20261216T000000Z
+DTEND:20261216T020000Z
+SUMMARY:Wintery Songs in Eleventy Part Harmony
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/wintery-songs-in-eleve
+ nty-part-harmony/
+URL:https://www.passim.org/live-music/events/wintery-songs-in-eleventy-part
+ -harmony/
+END:VEVENT
+END:VCALENDAR

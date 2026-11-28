@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bf20bfa622fa7e2c950b6875b6264688e26157ec@pushpin.city
+DTSTAMP:20270212T000000Z
+DTSTART:20270213T010000Z
+DTEND:20270213T030000Z
+SUMMARY:Emmet Cohen Trio with Georgia Heers
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/emmet-cohen-trio-with-georgi
+ a-heers
+URL:https://www.berklee.edu/BPC/events/emmet-cohen-trio-with-georgia-heers
+END:VEVENT
+END:VCALENDAR

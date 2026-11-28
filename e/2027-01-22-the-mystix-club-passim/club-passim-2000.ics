@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1fff93e065638f48552d0c4931aeb99b675310fd@pushpin.city
+DTSTAMP:20270122T000000Z
+DTSTART:20270123T010000Z
+DTEND:20270123T030000Z
+SUMMARY:The Mystix
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/the-mystix/
+URL:https://www.passim.org/live-music/events/the-mystix/
+END:VEVENT
+END:VCALENDAR

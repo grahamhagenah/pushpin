@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a5039a8759b28e817840090fe70fb74ff494d3af@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261128T203000Z
+DTEND:20261128T223000Z
+SUMMARY:Railway Sleepers preceded by A Child Already Knows
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005106-railway-sleepers-precede
+ d-by-a-child-already-knows/
+URL:https://metrograph.com/film/9999005106-railway-sleepers-preceded-by-a-c
+ hild-already-knows/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:92d5fca7871f538ada8cda61f5e81e064eee71a6@pushpin.city
+DTSTAMP:20270213T000000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T210000Z
+SUMMARY:Magic Tree House: The Knight at Dawn KIDS
+LOCATION:Colonial Theatre\, 111 South St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.berkshiretheatregroup.org/event/magic-tree-house-th
+ e-knight-at-dawn-kids/
+URL:https://www.berkshiretheatregroup.org/event/magic-tree-house-the-knight
+ -at-dawn-kids/
+END:VEVENT
+END:VCALENDAR

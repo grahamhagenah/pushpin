@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d134841a687ee1bce2e37bb7fb135ed1cbb40941@pushpin.city
+DTSTAMP:20270110T000000Z
+DTSTART:20270111T000000Z
+DTEND:20270111T020000Z
+SUMMARY:Misty Blues
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000D7G6zMAF
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0D7G6zMAF
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:92d86b410a803b1407f948c1fa6d609f72a9517a@pushpin.city
+DTSTAMP:20261130T000000Z
+DTSTART:20261201T030000Z
+DTEND:20261201T050000Z
+SUMMARY:Profit Motive and the Whispering Wind
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/gianvito/
+URL:https://www.spectacletheater.com/gianvito/
+END:VEVENT
+END:VCALENDAR

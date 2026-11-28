@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1f073c320df16545d747507ed4ea9c825f6fdff9@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+SUMMARY:Amherst Ballet presents The Snow Maiden
+LOCATION:HOPE Center for the Arts\, 150 Bridge St\, Springfield\, MA 01103
+DESCRIPTION:https://hopecenterforthearts.org/events/amherst-ballet-presents
+ -the-snow-maiden/
+URL:https://hopecenterforthearts.org/events/amherst-ballet-presents-the-sno
+ w-maiden/
+END:VEVENT
+END:VCALENDAR

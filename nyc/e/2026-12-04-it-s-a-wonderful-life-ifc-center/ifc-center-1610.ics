@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ee95da5db76fb2e76497fdbf21d4e5d3e1822613@pushpin.city
+DTSTAMP:20261204T000000Z
+DTSTART:20261204T211000Z
+DTEND:20261204T231000Z
+SUMMARY:It's a Wonderful Life
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/its-a-wonderful-life/
+URL:https://www.ifccenter.com/films/its-a-wonderful-life/
+END:VEVENT
+END:VCALENDAR

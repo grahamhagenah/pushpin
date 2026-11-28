@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a4ce283549f68a176f0ebd996393181ace671e47@pushpin.city
+DTSTAMP:20270202T000000Z
+DTSTART:20270202T173000Z
+DTEND:20270202T193000Z
+SUMMARY:Gallery Talk: Redlining and the Visual Culture of Suburbia
+LOCATION:Harvard Art Museums\, 32 Quincy St\, Cambridge\, MA 02138
+DESCRIPTION:https://harvardartmuseums.org/event/4160
+URL:https://harvardartmuseums.org/event/4160
+END:VEVENT
+END:VCALENDAR

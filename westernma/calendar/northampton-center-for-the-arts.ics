@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Northampton Center for the Arts
+X-WR-CALDESC:What’s coming up at Northampton Center for the Arts\, from P
+ ushpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:400cf9867f5eb1fd92ede04c1fba04083d0e553d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T150000Z
+DTEND:20261206T170000Z
+SUMMARY:Chanukah Brunch Party with Myrtle Street Klezmer
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/chanukah-brunch-party\nFrom Pushpin We
+ stern Mass: https://pushpin.city/westernma/
+URL:https://www.nohoarts.org/chanukah-brunch-party
+END:VEVENT
+BEGIN:VEVENT
+UID:8f25eccb90be4249d7bf1b254cb32e343fb52bae@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T190000Z
+DTEND:20261206T210000Z
+SUMMARY:30 Poems in November Reading & Celebration
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/30-poems-in-november-reading-and-celeb
+ ration\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.nohoarts.org/30-poems-in-november-reading-and-celebration
+END:VEVENT
+BEGIN:VEVENT
+UID:2d38adab9921fdad5e8f0831f26be61071ee0c8f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T220000Z
+DTEND:20261212T000000Z
+SUMMARY:Arts Night Out at 33
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/arts-night-out-at-33-hawley\nFrom Push
+ pin Western Mass: https://pushpin.city/westernma/
+URL:https://www.nohoarts.org/arts-night-out-at-33-hawley
+END:VEVENT
+BEGIN:VEVENT
+UID:429fa323ced00df2c0883f2793905a3b49c3dd35@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T010000Z
+DTEND:20261212T030000Z
+SUMMARY:Slow Burn Speakeasy
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/slow-burn-speakeasy\nFrom Pushpin West
+ ern Mass: https://pushpin.city/westernma/
+URL:https://www.nohoarts.org/slow-burn-speakeasy
+END:VEVENT
+BEGIN:VEVENT
+UID:344c0ba1717abc0cafebcae8985fc7484133be90@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270122T003000Z
+DTEND:20270122T023000Z
+SUMMARY:Pioneer Valley Jazz Shares: Tropos
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/tropos\nFrom Pushpin Western Mass: htt
+ ps://pushpin.city/westernma/
+URL:https://www.nohoarts.org/tropos
+END:VEVENT
+BEGIN:VEVENT
+UID:10375ff5b31082e5df30c508d5b1702ba408cd5c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270124T200000Z
+DTEND:20270124T220000Z
+SUMMARY:Hansel and Gretel Preview & Aria Concert
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/hansel-and-gretel\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://www.nohoarts.org/hansel-and-gretel
+END:VEVENT
+BEGIN:VEVENT
+UID:2f9f7f4c09195224a8610034e4b4680e43afb501@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270221T210000Z
+DTEND:20270221T230000Z
+SUMMARY:Flamenco Celebration of Jimi Hendrix with the Juanito Pascual Trio
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/flamenco-celebration-of-jimi-hendrix\n
+ From Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.nohoarts.org/flamenco-celebration-of-jimi-hendrix
+END:VEVENT
+END:VCALENDAR

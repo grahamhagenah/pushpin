@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:601d4d465713b36d3b2a2aaeebb77b913a543d44@pushpin.city
+DTSTAMP:20270212T000000Z
+DTSTART:20270213T000000Z
+DTEND:20270213T020000Z
+SUMMARY:TLI Jazz: Camille Thurman
+LOCATION:Tanglewood\, 297 West St\, Lenox\, MA 01240
+DESCRIPTION:https://www.bso.org/events/feb-12-13-tli-jazz-camille-thurman
+URL:https://www.bso.org/events/feb-12-13-tli-jazz-camille-thurman
+END:VEVENT
+END:VCALENDAR

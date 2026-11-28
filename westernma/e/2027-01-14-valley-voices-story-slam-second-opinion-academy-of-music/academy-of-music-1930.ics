@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:73fe3281953091d91b2622517b01966196700182@pushpin.city
+DTSTAMP:20270114T000000Z
+DTSTART:20270115T003000Z
+DTEND:20270115T023000Z
+SUMMARY:Valley Voices Story Slam: Second Opinion
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/valley-voices-story-slam-secon
+ d-opinion/
+URL:https://aomtheatre.com/aom_event/valley-voices-story-slam-second-opinio
+ n/
+END:VEVENT
+END:VCALENDAR

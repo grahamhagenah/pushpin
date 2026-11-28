@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bbe3a5dae8b599b2c93554fdb7ade2306eb7ab29@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261207T003000Z
+DTEND:20261207T023000Z
+SUMMARY:Holiday Vespers
+LOCATION:Mount Holyoke\, 3 Gateway Road\, South Hadley\, MA
+DESCRIPTION:https://events.mtholyoke.edu/event/holiday-vespers
+URL:https://events.mtholyoke.edu/event/holiday-vespers
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:09d4ae8e7377f9c2e8171fd578c25ecf5c363e73@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T010000Z
+DTEND:20261219T030000Z
+SUMMARY:AACM NYC: Celebrating 61 Years of Creative Music with Thurman Barke
+ r\, The Rhythm Method\, Noah Barker\, and David Virelles
+LOCATION:Roulette\, 509 Atlantic Ave\, Brooklyn\, NY 11217
+DESCRIPTION:https://roulette.org/event/aacm-celebrating-61-years-of-creativ
+ e-music-2/
+URL:https://roulette.org/event/aacm-celebrating-61-years-of-creative-music-
+ 2/
+END:VEVENT
+END:VCALENDAR

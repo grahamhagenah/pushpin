@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9f25d742c0fc6e5c9e0c74535297ff565fdc915d@pushpin.city
+DTSTAMP:20270123T000000Z
+DTSTART:20270123T200000Z
+DTEND:20270123T220000Z
+SUMMARY:Valley Jazz Voices Winter Concert
+LOCATION:Bombyx\, 130 Pine St\, Florence\, MA 01062
+DESCRIPTION:https://bombyx.live/events/valley-jazz-voices-winter-concert-2/
+URL:https://bombyx.live/events/valley-jazz-voices-winter-concert-2/
+END:VEVENT
+END:VCALENDAR

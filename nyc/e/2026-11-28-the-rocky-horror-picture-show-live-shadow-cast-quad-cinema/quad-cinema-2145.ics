@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d0f35f27290c3609da1ebb2ecdaac5e3acb6c77b@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T024500Z
+DTEND:20261129T044500Z
+SUMMARY:The Rocky Horror Picture Show: Live Shadow Cast
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:https://quadcinema.com/film/the-rocky-horror-picture-show-shado
+ wcast/
+URL:https://quadcinema.com/film/the-rocky-horror-picture-show-shadowcast/
+END:VEVENT
+END:VCALENDAR

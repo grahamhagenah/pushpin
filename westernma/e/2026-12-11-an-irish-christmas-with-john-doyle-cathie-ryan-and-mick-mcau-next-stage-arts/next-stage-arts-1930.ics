@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e8596a870c7c6537540cfc8f8f96c1d3bba197e8@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:"An Irish Christmas" with John Doyle\, Cathie Ryan and Mick McAuley
+LOCATION:Next Stage Arts\, 15 Kimball Hill\, Putney\, VT 05346
+DESCRIPTION:https://tickets.venuepilot.com/e/an-irish-christmas-with-john-d
+ oyle-and-cathie-ryan-2026-12-11-next-stage-arts-putney-3262cf
+URL:https://tickets.venuepilot.com/e/an-irish-christmas-with-john-doyle-and
+ -cathie-ryan-2026-12-11-next-stage-arts-putney-3262cf
+END:VEVENT
+END:VCALENDAR

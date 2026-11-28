@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2630a8f2b6cccd988c2f3c2c448398f444da8673@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T213000Z
+DTEND:20261213T233000Z
+SUMMARY:We Celebrate the Light
+LOCATION:Bombyx\, 130 Pine St\, Florence\, MA 01062
+DESCRIPTION:https://bombyx.live/events/we-celebrate-the-light-3/
+URL:https://bombyx.live/events/we-celebrate-the-light-3/
+END:VEVENT
+END:VCALENDAR

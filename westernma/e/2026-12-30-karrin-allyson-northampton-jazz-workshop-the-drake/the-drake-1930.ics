@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2cbbdd402e5d957f14ad8c599dbe5cbe46d90f7d@pushpin.city
+DTSTAMP:20261230T000000Z
+DTSTART:20261231T003000Z
+DTEND:20261231T023000Z
+SUMMARY:KARRIN ALLYSON - Northampton Jazz Workshop
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/karrin-allyson-1230
+URL:https://www.thedrakeamherst.org/events/karrin-allyson-1230
+END:VEVENT
+END:VCALENDAR

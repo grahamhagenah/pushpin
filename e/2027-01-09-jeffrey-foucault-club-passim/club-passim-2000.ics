@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a4e07053dc5c72f0849a0e62244aa666b899929a@pushpin.city
+DTSTAMP:20270109T000000Z
+DTSTART:20270110T010000Z
+DTEND:20270110T030000Z
+SUMMARY:Jeffrey Foucault
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/jeffrey-foucault-2/
+URL:https://www.passim.org/live-music/events/jeffrey-foucault-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:812cb9bdc4f8fa1c01d4fe076b44d0694cabe4a9@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T004500Z
+DTEND:20261204T024500Z
+SUMMARY:Midnight Cowboy
+LOCATION:Quad Cinema\, 34 W 13th St\, New York\, NY 10011
+DESCRIPTION:https://quadcinema.com/film/midnight-cowboy/
+URL:https://quadcinema.com/film/midnight-cowboy/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d302f7c5d1e6939ac4d92ceeb5e252e11b4d2689@pushpin.city
+DTSTAMP:20270205T000000Z
+DTSTART:20270206T000000Z
+DTEND:20270206T020000Z
+SUMMARY:Rachel Sumner & Traveling Light
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/rachel-sumner-travelin
+ g-light/
+URL:https://www.passim.org/live-music/events/rachel-sumner-traveling-light/
+END:VEVENT
+END:VCALENDAR

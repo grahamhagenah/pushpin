@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aab2efd2c55d598d4f899b53f306cc14f6fcf80a@pushpin.city
+DTSTAMP:20261222T000000Z
+DTSTART:20261223T000000Z
+DTEND:20261223T020000Z
+SUMMARY:It's A Wonderful Life
+LOCATION:Amherst Cinema\, 28 Amity St\, Amherst\, MA 01002
+DESCRIPTION:https://amherstcinema.org/films-and-events/its-wonderful-life
+URL:https://amherstcinema.org/films-and-events/its-wonderful-life
+END:VEVENT
+END:VCALENDAR

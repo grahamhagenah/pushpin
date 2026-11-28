@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2e32e02ea50a18c49075f6f0c64f8f71edb132f3@pushpin.city
+DTSTAMP:20270226T000000Z
+DTSTART:20270227T000000Z
+DTEND:20270227T020000Z
+SUMMARY:TLI Presents: Santiago Cañón-Valencia
+LOCATION:Tanglewood\, 297 West St\, Lenox\, MA 01240
+DESCRIPTION:https://www.bso.org/events/feb-26-santiago-canon-valencia
+URL:https://www.bso.org/events/feb-26-santiago-canon-valencia
+END:VEVENT
+END:VCALENDAR

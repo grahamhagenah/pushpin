@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f0a61987a08e2f351ebc98594a25bba243179b4d@pushpin.city
+DTSTAMP:20270130T000000Z
+DTSTART:20270131T010000Z
+DTEND:20270131T030000Z
+SUMMARY:Happy Valley Guitar Orchestra
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/happy-valley-guitar-orch
+ estra-1
+URL:https://www.thedrakeamherst.org/events/happy-valley-guitar-orchestra-1
+END:VEVENT
+END:VCALENDAR

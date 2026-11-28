@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bf5ebeaacbd8a54881bbbbdd2571d43e077ad442@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T020000Z
+DTEND:20261204T040000Z
+SUMMARY:The Choreographer’s Carnival NYC
+LOCATION:Le Poisson Rouge\, 158 Bleecker St\, New York\, NY 10012
+DESCRIPTION:https://lpr.com/lpr_events/choreo1226nyc/
+URL:https://lpr.com/lpr_events/choreo1226nyc/
+END:VEVENT
+END:VCALENDAR

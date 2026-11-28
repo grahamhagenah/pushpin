@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aad360eece833737960d266727fabfd6753431d9@pushpin.city
+DTSTAMP:20270204T000000Z
+DTSTART:20270205T000000Z
+DTEND:20270205T020000Z
+SUMMARY:Bronwyn
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/bronwyn-boston-massachusetts-02-04
+ -2027/event/0100653CA4F8B4E2
+URL:https://www.ticketmaster.com/bronwyn-boston-massachusetts-02-04-2027/ev
+ ent/0100653CA4F8B4E2
+END:VEVENT
+END:VCALENDAR

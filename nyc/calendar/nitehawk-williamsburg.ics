@@ -1,0 +1,794 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Nitehawk Williamsburg
+X-WR-CALDESC:What’s coming up at Nitehawk Williamsburg\, from Pushpin NYC
+ .
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:723f21918a7c4534f337754f4d92ac2817269a16@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Night at the Museum
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:When the lights go off\, it’s on\nhttps://nitehawkcinema.com/
+ williamsburg/movies/night-at-the-museum/\nFrom Pushpin NYC: https://pushpi
+ n.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/night-at-the-museum/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d51dfe3cc7d68bd1f1045d510f43666fc05b38c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 11am\, 10pm\nCIA agents face a trust-testing mission fro
+ m Santiago to Easter Island during 1973 in Chile\nhttps://nitehawkcinema.c
+ om/williamsburg/movies/wild-horse-nine/\nFrom Pushpin NYC: https://pushpin
+ .city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/wild-horse-nine/
+END:VEVENT
+BEGIN:VEVENT
+UID:5dac6e31db3683713cb4fc17b48e240c3d2d458e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T161500Z
+DTEND:20261128T181500Z
+SUMMARY:Citizen Kane
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Some called him a hero. Others called him a heel…\nhttps://ni
+ tehawkcinema.com/williamsburg/movies/citizen-kane/\nFrom Pushpin NYC: http
+ s://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/citizen-kane/
+END:VEVENT
+BEGIN:VEVENT
+UID:873ba2cb672564a0d6854bb2720a571fffac84ed@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T183000Z
+DTEND:20261128T203000Z
+SUMMARY:Club Kid
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 1:30pm\, 4:15pm\, 7pm\, 9:30pm\nA hard-partying club pro
+ moter’s lifestyle is upended by son he never knew he had\nhttps://niteha
+ wkcinema.com/williamsburg/movies/club-kid/\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/club-kid/
+END:VEVENT
+BEGIN:VEVENT
+UID:ea44d375dbc5576ba572b7bfeb977826a9c8a67f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T184500Z
+DTEND:20261128T204500Z
+SUMMARY:Paper Tiger
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:15pm\, 9:45pm\nTwo brothers become e
+ ntangled in a scheme that turns out to be too good to be true\nhttps://nit
+ ehawkcinema.com/williamsburg/movies/paper-tiger/\nFrom Pushpin NYC: https:
+ //pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/paper-tiger/
+END:VEVENT
+BEGIN:VEVENT
+UID:2f653e1e8eb627a6a5b30e07e5eedd807e19759f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:You Can See Everything
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 2pm\, 5:45pm\nElizabeth Holmes invites a skeptical film 
+ crew to document her every move before heading to prison\nhttps://nitehawk
+ cinema.com/williamsburg/movies/you-can-see-everything/\nFrom Pushpin NYC: 
+ https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:9ec32e116eecda557261c2b215151669192e8f4a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:Night at the Museum
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:When the lights go off\, it’s on\nhttps://nitehawkcinema.com/
+ williamsburg/movies/night-at-the-museum/\nFrom Pushpin NYC: https://pushpi
+ n.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/night-at-the-museum/
+END:VEVENT
+BEGIN:VEVENT
+UID:b325cfc036fa5646e69b159f3bc98b3aa232cfde@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 11am\, 10pm\nCIA agents face a trust-testing mission fro
+ m Santiago to Easter Island during 1973 in Chile\nhttps://nitehawkcinema.c
+ om/williamsburg/movies/wild-horse-nine/\nFrom Pushpin NYC: https://pushpin
+ .city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/wild-horse-nine/
+END:VEVENT
+BEGIN:VEVENT
+UID:c787b51faf7602373d7b282db03230217c58d04b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T161500Z
+DTEND:20261129T181500Z
+SUMMARY:Citizen Kane
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Some called him a hero. Others called him a heel…\nhttps://ni
+ tehawkcinema.com/williamsburg/movies/citizen-kane/\nFrom Pushpin NYC: http
+ s://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/citizen-kane/
+END:VEVENT
+BEGIN:VEVENT
+UID:07f72fb2255821154088c3f2e730b0bc798576f6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T183000Z
+DTEND:20261129T203000Z
+SUMMARY:Club Kid
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 1:30pm\, 4:15pm\, 7pm\, 9:30pm\nA hard-partying club pro
+ moter’s lifestyle is upended by son he never knew he had\nhttps://niteha
+ wkcinema.com/williamsburg/movies/club-kid/\nFrom Pushpin NYC: https://push
+ pin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/club-kid/
+END:VEVENT
+BEGIN:VEVENT
+UID:6970de207a354d0e333626d38028c13f8330829f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T184500Z
+DTEND:20261129T204500Z
+SUMMARY:Paper Tiger
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 1:45pm\, 4:30pm\, 7:15pm\, 9:45pm\nTwo brothers become e
+ ntangled in a scheme that turns out to be too good to be true\nhttps://nit
+ ehawkcinema.com/williamsburg/movies/paper-tiger/\nFrom Pushpin NYC: https:
+ //pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/paper-tiger/
+END:VEVENT
+BEGIN:VEVENT
+UID:326174f47ff8288f3623c4bddfd3a34301714366@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:You Can See Everything
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 2pm\, 5:45pm\nElizabeth Holmes invites a skeptical film 
+ crew to document her every move before heading to prison\nhttps://nitehawk
+ cinema.com/williamsburg/movies/you-can-see-everything/\nFrom Pushpin NYC: 
+ https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:013d923edfa08f0ff0d9a5401967e53f6c542150@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T203000Z
+DTEND:20261130T223000Z
+SUMMARY:Paper Tiger
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 3:30pm\, 6:45pm\, 9pm\nTwo brothers become entangled in 
+ a scheme that turns out to be too good to be true\nhttps://nitehawkcinema.
+ com/williamsburg/movies/paper-tiger/\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/paper-tiger/
+END:VEVENT
+BEGIN:VEVENT
+UID:2009802cb2e446a9414b2625e4a916314e742388@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T204500Z
+DTEND:20261130T224500Z
+SUMMARY:Club Kid
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 3:45pm\, 6:30pm\, 9:55pm\nA hard-partying club promoter
+ ’s lifestyle is upended by son he never knew he had\nhttps://nitehawkcin
+ ema.com/williamsburg/movies/club-kid/\nFrom Pushpin NYC: https://pushpin.c
+ ity/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/club-kid/
+END:VEVENT
+BEGIN:VEVENT
+UID:49c23d5a52cddfc23d4eaed5d8132b6c456de42d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T210000Z
+DTEND:20261130T230000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:CIA agents face a trust-testing mission from Santiago to Easter
+  Island during 1973 in Chile\nhttps://nitehawkcinema.com/williamsburg/movi
+ es/wild-horse-nine/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/wild-horse-nine/
+END:VEVENT
+BEGIN:VEVENT
+UID:9771be05314e2eca1d0fcc42bf527fb3fa599020@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261130T231500Z
+DTEND:20261201T011500Z
+SUMMARY:You Can See Everything
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 6:15pm\, 9:30pm\nElizabeth Holmes invites a skeptical fi
+ lm crew to document her every move before heading to prison\nhttps://niteh
+ awkcinema.com/williamsburg/movies/you-can-see-everything/\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:221564e17eaf902d2c9ea27f28895b925e8297aa@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T021500Z
+DTEND:20261201T041500Z
+SUMMARY:The Lord of the Rings: The Fellowship of the Ring
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:The first film in Peter Jackson’s LOTR adaptation\nhttps://ni
+ tehawkcinema.com/williamsburg/movies/lotr-the-fellowship-of-the-ring/\nFro
+ m Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/lotr-the-fellowship-of-t
+ he-ring/
+END:VEVENT
+BEGIN:VEVENT
+UID:d8f2f08872d50bbaa5fd7f4feb8f1da29bb4bc4c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T203000Z
+DTEND:20261201T223000Z
+SUMMARY:Paper Tiger
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 3:30pm\, 6:30pm\, 9pm\nTwo brothers become entangled in 
+ a scheme that turns out to be too good to be true\nhttps://nitehawkcinema.
+ com/williamsburg/movies/paper-tiger/\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/paper-tiger/
+END:VEVENT
+BEGIN:VEVENT
+UID:346942dc90c6bfb3fc86dcab53c0fa51e14a72ee@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T204500Z
+DTEND:20261201T224500Z
+SUMMARY:Wild Horse Nine
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:CIA agents face a trust-testing mission from Santiago to Easter
+  Island during 1973 in Chile\nhttps://nitehawkcinema.com/williamsburg/movi
+ es/wild-horse-nine/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/wild-horse-nine/
+END:VEVENT
+BEGIN:VEVENT
+UID:b1f710ce6a67f775ff91fefe9437e2302305e163@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T210000Z
+DTEND:20261201T230000Z
+SUMMARY:Club Kid
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 4pm\, 6:45pm\, 9:55pm\nA hard-partying club promoter’s
+  lifestyle is upended by son he never knew he had\nhttps://nitehawkcinema.
+ com/williamsburg/movies/club-kid/\nFrom Pushpin NYC: https://pushpin.city/
+ nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/club-kid/
+END:VEVENT
+BEGIN:VEVENT
+UID:f49cdc9e3837e1b121755a0cc307524eb82f0695@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T231500Z
+DTEND:20261202T011500Z
+SUMMARY:You Can See Everything
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 6:15pm\, 9:15pm\nElizabeth Holmes invites a skeptical fi
+ lm crew to document her every move before heading to prison\nhttps://niteh
+ awkcinema.com/williamsburg/movies/you-can-see-everything/\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:6c21d5d1b28720ba357c352e0b27aad343ef418b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T023000Z
+DTEND:20261202T043000Z
+SUMMARY:Die Hard
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Now I have a machine gun\; ho ho ho\nhttps://nitehawkcinema.com
+ /williamsburg/movies/die-hard/\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://nitehawkcinema.com/williamsburg/movies/die-hard/
+END:VEVENT
+BEGIN:VEVENT
+UID:9e91cb3605985286b025d0810bd7c369ca62b16a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T203000Z
+DTEND:20261202T223000Z
+SUMMARY:Paper Tiger
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 3:30pm\, 6:30pm\, 9:55pm\nTwo brothers become entangled 
+ in a scheme that turns out to be too good to be true\nhttps://nitehawkcine
+ ma.com/williamsburg/movies/paper-tiger/\nFrom Pushpin NYC: https://pushpin
+ .city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/paper-tiger/
+END:VEVENT
+BEGIN:VEVENT
+UID:b9ebe7af8850a9b07ac44e8ca4e96c3ce13305e1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T204500Z
+DTEND:20261202T224500Z
+SUMMARY:Wild Horse Nine
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:CIA agents face a trust-testing mission from Santiago to Easter
+  Island during 1973 in Chile\nhttps://nitehawkcinema.com/williamsburg/movi
+ es/wild-horse-nine/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/wild-horse-nine/
+END:VEVENT
+BEGIN:VEVENT
+UID:b7fa04c203f13bfb2f8491282ad8026651429a98@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T210000Z
+DTEND:20261202T230000Z
+SUMMARY:Club Kid
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 4pm\, 6:45pm\, 9pm\nA hard-partying club promoter’s li
+ festyle is upended by son he never knew he had\nhttps://nitehawkcinema.com
+ /williamsburg/movies/club-kid/\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://nitehawkcinema.com/williamsburg/movies/club-kid/
+END:VEVENT
+BEGIN:VEVENT
+UID:dc3e830d27d3fdbdf83fe949fee8551aedbbbae7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T231500Z
+DTEND:20261203T011500Z
+SUMMARY:You Can See Everything
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 6:15pm\, 9:15pm\nElizabeth Holmes invites a skeptical fi
+ lm crew to document her every move before heading to prison\nhttps://niteh
+ awkcinema.com/williamsburg/movies/you-can-see-everything/\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:13a4074ccf246dd2df5d442ac992206430dd0467@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T023000Z
+DTEND:20261203T043000Z
+SUMMARY:True Stories
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:1986 · 89 min · PG\nhttps://nitehawkcinema.com/williamsburg/m
+ ovies/true-stories-video-store-gems/\nFrom Pushpin NYC: https://pushpin.ci
+ ty/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/true-stories-video-store
+ -gems/
+END:VEVENT
+BEGIN:VEVENT
+UID:9fd63fd56675442f9fea8d49fe8ff02688512e78@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T203000Z
+DTEND:20261203T223000Z
+SUMMARY:Paper Tiger
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 3:30pm\, 6:15pm\, 9:45pm\nTwo brothers become entangled 
+ in a scheme that turns out to be too good to be true\nhttps://nitehawkcine
+ ma.com/williamsburg/movies/paper-tiger/\nFrom Pushpin NYC: https://pushpin
+ .city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/paper-tiger/
+END:VEVENT
+BEGIN:VEVENT
+UID:633e3b779771011c78592714079d2c3b222d244f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T204000Z
+DTEND:20261203T224000Z
+SUMMARY:Wild Horse Nine
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:CIA agents face a trust-testing mission from Santiago to Easter
+  Island during 1973 in Chile\nhttps://nitehawkcinema.com/williamsburg/movi
+ es/wild-horse-nine/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/wild-horse-nine/
+END:VEVENT
+BEGIN:VEVENT
+UID:125b5d4eb73d6a79793ffd3fbcfcc29493cd9b94@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T205500Z
+DTEND:20261203T225500Z
+SUMMARY:Club Kid
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 3:55pm\, 6:45pm\, 9:20pm\nA hard-partying club promoter
+ ’s lifestyle is upended by son he never knew he had\nhttps://nitehawkcin
+ ema.com/williamsburg/movies/club-kid/\nFrom Pushpin NYC: https://pushpin.c
+ ity/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/club-kid/
+END:VEVENT
+BEGIN:VEVENT
+UID:e169e8eeb8259f9a15030bc906cfc1733a91802e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T230500Z
+DTEND:20261204T010500Z
+SUMMARY:You Can See Everything
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 6:05pm\, 9pm\nElizabeth Holmes invites a skeptical film 
+ crew to document her every move before heading to prison\nhttps://nitehawk
+ cinema.com/williamsburg/movies/you-can-see-everything/\nFrom Pushpin NYC: 
+ https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/you-can-see-everything/
+END:VEVENT
+BEGIN:VEVENT
+UID:2214e2727b8745163e1e196bde498162ae883c8f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Kevin Geeks Out: The Christmas Show
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Comedian Kevin Maher returns with an all-new Christmas spectacu
+ lar\nhttps://nitehawkcinema.com/williamsburg/movies/kevin-geeks-out-the-ch
+ ristmas-show-2026/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/kevin-geeks-out-the-chri
+ stmas-show-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:2c0840ef2affddbbea3116385f526e7e429f3c02@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T045500Z
+DTEND:20261205T065500Z
+SUMMARY:Female Trouble
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:A high point in low taste\nhttps://nitehawkcinema.com/williamsb
+ urg/movies/female-trouble/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/female-trouble/
+END:VEVENT
+BEGIN:VEVENT
+UID:3de4a10a004e21db9d9ac2e748d75aaec35ec664@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Mouse
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:An introverted high-schooler loses her best friend to a car acc
+ ident and navigates the stages of grief\nhttps://nitehawkcinema.com/willia
+ msburg/movies/mouse/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/mouse/
+END:VEVENT
+BEGIN:VEVENT
+UID:bbb0b48e05d72ff1f01b7c2a54413a47a56b18dc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T161500Z
+DTEND:20261205T181500Z
+SUMMARY:Home Alone
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:A family comedy without the family\nhttps://nitehawkcinema.com/
+ williamsburg/movies/home-alone/\nFrom Pushpin NYC: https://pushpin.city/ny
+ c/
+URL:https://nitehawkcinema.com/williamsburg/movies/home-alone/
+END:VEVENT
+BEGIN:VEVENT
+UID:59f9786ff54ef4891bc25384851bbd9785b900d0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T160000Z
+DTEND:20261206T180000Z
+SUMMARY:Mouse
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:An introverted high-schooler loses her best friend to a car acc
+ ident and navigates the stages of grief\nhttps://nitehawkcinema.com/willia
+ msburg/movies/mouse/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/mouse/
+END:VEVENT
+BEGIN:VEVENT
+UID:921a1f252349cc2508c7158f3a0ba48f1296e617@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T161500Z
+DTEND:20261206T181500Z
+SUMMARY:Home Alone
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:A family comedy without the family\nhttps://nitehawkcinema.com/
+ williamsburg/movies/home-alone/\nFrom Pushpin NYC: https://pushpin.city/ny
+ c/
+URL:https://nitehawkcinema.com/williamsburg/movies/home-alone/
+END:VEVENT
+BEGIN:VEVENT
+UID:6988c2d6db39b5685bb121675ab4779f4ea589a8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261208T023000Z
+DTEND:20261208T043000Z
+SUMMARY:Sex Wish
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:You’ve never seen anything like it!\nhttps://nitehawkcinema.c
+ om/williamsburg/movies/sex-wish/\nFrom Pushpin NYC: https://pushpin.city/n
+ yc/
+URL:https://nitehawkcinema.com/williamsburg/movies/sex-wish/
+END:VEVENT
+BEGIN:VEVENT
+UID:f5b340536092c8f559f40b49317da11f3e989ee6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T023000Z
+DTEND:20261209T043000Z
+SUMMARY:Female Trouble
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:A high point in low taste\nhttps://nitehawkcinema.com/williamsb
+ urg/movies/female-trouble/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/female-trouble/
+END:VEVENT
+BEGIN:VEVENT
+UID:ff3a75182154819356f3f8c1649e50d5c702e23d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T233000Z
+DTEND:20261210T013000Z
+SUMMARY:Holiday Ghost Tales: A Benefit for The FOFIF
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:The fifth annual fundraiser for The Future of Film is Female!\n
+ https://nitehawkcinema.com/williamsburg/movies/holiday-ghost-tales-fofif/\
+ nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/holiday-ghost-tales-fofi
+ f/
+END:VEVENT
+BEGIN:VEVENT
+UID:10f1734afb127734eb40b7624bd2d2f54db8a7fd@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T023000Z
+DTEND:20261211T043000Z
+SUMMARY:Lisztomania
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:The Deuce is going to stuff your stocking with the naughtiest n
+ icety on our list of lists of LISZTOMANIA!!\nhttps://nitehawkcinema.com/wi
+ lliamsburg/movies/lisztomania/\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://nitehawkcinema.com/williamsburg/movies/lisztomania/
+END:VEVENT
+BEGIN:VEVENT
+UID:748840400e87d10d6535161fb256570244c81683@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T045500Z
+DTEND:20261212T065500Z
+SUMMARY:Visitor Q
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:The only thing stranger than this family is… VISITOR Q\nhttps
+ ://nitehawkcinema.com/williamsburg/movies/visitor-q/\nFrom Pushpin NYC: ht
+ tps://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/visitor-q/
+END:VEVENT
+BEGIN:VEVENT
+UID:bb34f1beb5b4b53e68e764b71dd9389317b43c97@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Love Actually
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:All we want for Christmas is YOU!\nhttps://nitehawkcinema.com/w
+ illiamsburg/movies/love-actually/\nFrom Pushpin NYC: https://pushpin.city/
+ nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/love-actually/
+END:VEVENT
+BEGIN:VEVENT
+UID:ec74f1413abdfc4a1a3777ee421f74af7cc030cd@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T161500Z
+DTEND:20261212T181500Z
+SUMMARY:101 Dalmatians
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:So many dogs\, so little time\nhttps://nitehawkcinema.com/willi
+ amsburg/movies/101-dalmatians/\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://nitehawkcinema.com/williamsburg/movies/101-dalmatians/
+END:VEVENT
+BEGIN:VEVENT
+UID:a2eeb4bcb9e8c46e13241b86e0f50cde5c4e15ad@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T160000Z
+DTEND:20261213T180000Z
+SUMMARY:Love Actually
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:All we want for Christmas is YOU!\nhttps://nitehawkcinema.com/w
+ illiamsburg/movies/love-actually/\nFrom Pushpin NYC: https://pushpin.city/
+ nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/love-actually/
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc67d2aa379db0264f629fadf90496ff97b7c2f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T161500Z
+DTEND:20261213T181500Z
+SUMMARY:101 Dalmatians
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:So many dogs\, so little time\nhttps://nitehawkcinema.com/willi
+ amsburg/movies/101-dalmatians/\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://nitehawkcinema.com/williamsburg/movies/101-dalmatians/
+END:VEVENT
+BEGIN:VEVENT
+UID:e08e164a77c2ab189fd1b1b04ae00e57c9a7327e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261215T021500Z
+DTEND:20261215T041500Z
+SUMMARY:Black Christmas (2006)
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:This holiday season\, the slay ride begins\nhttps://nitehawkcin
+ ema.com/williamsburg/movies/black-christmas-2006/\nFrom Pushpin NYC: https
+ ://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/black-christmas-2006/
+END:VEVENT
+BEGIN:VEVENT
+UID:7ac9abc617031ef271cbb289def502335c8cfb8e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261216T023000Z
+DTEND:20261216T043000Z
+SUMMARY:Glitter
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:In music she found her dream\, her love\, herself\nhttps://nite
+ hawkcinema.com/williamsburg/movies/glitter/\nFrom Pushpin NYC: https://pus
+ hpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/glitter/
+END:VEVENT
+BEGIN:VEVENT
+UID:fbe18240cdfe2eeabbb88cf6717cca86193c4d67@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261217T000000Z
+DTEND:20261217T020000Z
+SUMMARY:The Most Wonderful Time shorts program
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Festival of short films for dysfunctional families\nhttps://nit
+ ehawkcinema.com/williamsburg/movies/the-most-wonderful-time-shorts-program
+ /\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/the-most-wonderful-time-
+ shorts-program/
+END:VEVENT
+BEGIN:VEVENT
+UID:2dbaf21cb4f8daf0e43911d22d9d4ba93d9720a2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261217T230000Z
+DTEND:20261218T010000Z
+SUMMARY:Dune: Part Three
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 6pm\, 9:15pm\nNow a ruthless Emperor\, Paul must face th
+ e consequences of his reign\nhttps://nitehawkcinema.com/williamsburg/movie
+ s/dune-part-three/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/dune-part-three/
+END:VEVENT
+BEGIN:VEVENT
+UID:25f243419e1b56999d16fd4b049df2d3d0315afe@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T023000Z
+DTEND:20261218T043000Z
+SUMMARY:Feeders 2: Slay Bells
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Close encounters of the worst kind\nhttps://nitehawkcinema.com/
+ williamsburg/movies/feeders-2-slay-bells/\nFrom Pushpin NYC: https://pushp
+ in.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/feeders-2-slay-bells/
+END:VEVENT
+BEGIN:VEVENT
+UID:8ef0652a2131c75c070116f92e8620e8c35006ee@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T230000Z
+DTEND:20261219T010000Z
+SUMMARY:Dune: Part Three
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 6pm\, 9:15pm\nNow a ruthless Emperor\, Paul must face th
+ e consequences of his reign\nhttps://nitehawkcinema.com/williamsburg/movie
+ s/dune-part-three/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/dune-part-three/
+END:VEVENT
+BEGIN:VEVENT
+UID:14478a3bb4d7c57afc42c8f46b3200f6ca793c9c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T163000Z
+DTEND:20261219T183000Z
+SUMMARY:The Preacher's Wife
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:They needed help\; what they got was a miracle\nhttps://nitehaw
+ kcinema.com/williamsburg/movies/the-preachers-wife/\nFrom Pushpin NYC: htt
+ ps://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/the-preachers-wife/
+END:VEVENT
+BEGIN:VEVENT
+UID:b104bd6e8aa6ea0a590b8f8eb59af02494a05836@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T191500Z
+DTEND:20261219T211500Z
+SUMMARY:Dune: Part Three
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 2:15pm\, 5:35pm\, 8:55pm\nNow a ruthless Emperor\, Paul 
+ must face the consequences of his reign\nhttps://nitehawkcinema.com/willia
+ msburg/movies/dune-part-three/\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://nitehawkcinema.com/williamsburg/movies/dune-part-three/
+END:VEVENT
+BEGIN:VEVENT
+UID:b9c714ed0e1faf082064e41afccde51d86c863b8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T163000Z
+DTEND:20261220T183000Z
+SUMMARY:The Preacher's Wife
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:They needed help\; what they got was a miracle\nhttps://nitehaw
+ kcinema.com/williamsburg/movies/the-preachers-wife/\nFrom Pushpin NYC: htt
+ ps://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/the-preachers-wife/
+END:VEVENT
+BEGIN:VEVENT
+UID:9c915acb115ee8211049638ef97837cec98e3d09@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T191500Z
+DTEND:20261220T211500Z
+SUMMARY:Dune: Part Three
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 2:15pm\, 5:35pm\, 8:55pm\nNow a ruthless Emperor\, Paul 
+ must face the consequences of his reign\nhttps://nitehawkcinema.com/willia
+ msburg/movies/dune-part-three/\nFrom Pushpin NYC: https://pushpin.city/nyc
+ /
+URL:https://nitehawkcinema.com/williamsburg/movies/dune-part-three/
+END:VEVENT
+BEGIN:VEVENT
+UID:8a787729347a9f71b00f21b3a568a8cb2224c9a0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261221T230000Z
+DTEND:20261222T010000Z
+SUMMARY:Dune: Part Three
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 6pm\, 9:15pm\nNow a ruthless Emperor\, Paul must face th
+ e consequences of his reign\nhttps://nitehawkcinema.com/williamsburg/movie
+ s/dune-part-three/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/dune-part-three/
+END:VEVENT
+BEGIN:VEVENT
+UID:b978fbe0331437ec4a4d5351f042c6fcd094c579@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261222T230000Z
+DTEND:20261223T010000Z
+SUMMARY:Dune: Part Three
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 6pm\, 9:15pm\nNow a ruthless Emperor\, Paul must face th
+ e consequences of his reign\nhttps://nitehawkcinema.com/williamsburg/movie
+ s/dune-part-three/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/dune-part-three/
+END:VEVENT
+BEGIN:VEVENT
+UID:62c27d78a6766424f83c18753e13b37ce5f39a34@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261223T230000Z
+DTEND:20261224T010000Z
+SUMMARY:Dune: Part Three
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Times: 6pm\, 9:15pm\nNow a ruthless Emperor\, Paul must face th
+ e consequences of his reign\nhttps://nitehawkcinema.com/williamsburg/movie
+ s/dune-part-three/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/dune-part-three/
+END:VEVENT
+BEGIN:VEVENT
+UID:a3ebb4d85dc4e0696c3a868040d52b5376ec55b4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261226T160000Z
+DTEND:20261226T180000Z
+SUMMARY:It's a Wonderful Life
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Every time a bell rings\, an angel gets its wings\nhttps://nite
+ hawkcinema.com/williamsburg/movies/its-a-wonderful-life/\nFrom Pushpin NYC
+ : https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/its-a-wonderful-life/
+END:VEVENT
+BEGIN:VEVENT
+UID:cfad4015b02f62357691a43a7613216c55ed8120@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261226T161500Z
+DTEND:20261226T181500Z
+SUMMARY:Jingle All the Way
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Two Dads\, One Toy\, No Prisoners\nhttps://nitehawkcinema.com/w
+ illiamsburg/movies/jingle-all-the-way/\nFrom Pushpin NYC: https://pushpin.
+ city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/jingle-all-the-way/
+END:VEVENT
+BEGIN:VEVENT
+UID:66f4ec70bb273b00cc0fe56b57f4e7cbb8f51d27@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261227T160000Z
+DTEND:20261227T180000Z
+SUMMARY:It's a Wonderful Life
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Every time a bell rings\, an angel gets its wings\nhttps://nite
+ hawkcinema.com/williamsburg/movies/its-a-wonderful-life/\nFrom Pushpin NYC
+ : https://pushpin.city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/its-a-wonderful-life/
+END:VEVENT
+BEGIN:VEVENT
+UID:fbb96b1ec244c2d21462e5e174b00c6e18ec599a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261227T161500Z
+DTEND:20261227T181500Z
+SUMMARY:Jingle All the Way
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:Two Dads\, One Toy\, No Prisoners\nhttps://nitehawkcinema.com/w
+ illiamsburg/movies/jingle-all-the-way/\nFrom Pushpin NYC: https://pushpin.
+ city/nyc/
+URL:https://nitehawkcinema.com/williamsburg/movies/jingle-all-the-way/
+END:VEVENT
+END:VCALENDAR

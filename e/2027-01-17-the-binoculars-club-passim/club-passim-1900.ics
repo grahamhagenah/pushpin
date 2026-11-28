@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:64158fae3c75addce67aa6bb061420471b3653df@pushpin.city
+DTSTAMP:20270117T000000Z
+DTSTART:20270118T000000Z
+DTEND:20270118T020000Z
+SUMMARY:The Binoculars
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/the-binoculars/
+URL:https://www.passim.org/live-music/events/the-binoculars/
+END:VEVENT
+END:VCALENDAR

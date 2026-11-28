@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7e84adcc872821da3e26bc2a3984d4b2237fc21d@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:HAUSU (1977) + Gift Horse!
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://www.epsilonspires.org/event-info/hausu-1977-gift-horse
+URL:https://www.epsilonspires.org/event-info/hausu-1977-gift-horse
+END:VEVENT
+END:VCALENDAR

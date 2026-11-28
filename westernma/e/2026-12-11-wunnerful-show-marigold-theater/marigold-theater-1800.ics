@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8298a00fa554c2c00c6d7510005f1be0c3fa929e@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261211T230000Z
+DTEND:20261212T010000Z
+SUMMARY:Wunnerful Show
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:https://marigold.org/wunnerful-show/
+URL:https://marigold.org/wunnerful-show/
+END:VEVENT
+END:VCALENDAR

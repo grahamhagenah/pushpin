@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f050a205dfd71713e60c30dd5b7a0df34156865f@pushpin.city
+DTSTAMP:20270225T000000Z
+DTSTART:20270226T010000Z
+DTEND:20270226T030000Z
+SUMMARY:paris jackson
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1688906
+URL:https://www.sinclaircambridge.com/events/detail/1688906
+END:VEVENT
+END:VCALENDAR

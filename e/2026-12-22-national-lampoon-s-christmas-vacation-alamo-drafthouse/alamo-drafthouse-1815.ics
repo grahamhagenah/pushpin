@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:59f2f6ef577f3ad18d7b20943c6760fc52f309d3@pushpin.city
+DTSTAMP:20261222T000000Z
+DTSTART:20261222T231500Z
+DTEND:20261223T011500Z
+SUMMARY:National Lampoon's Christmas Vacation
+LOCATION:Alamo Drafthouse\, 60 Seaport Blvd\, Boston\, MA 02210
+DESCRIPTION:https://drafthouse.com/boston/show/movie-party-national-lampoon
+ s-christmas-vacation
+URL:https://drafthouse.com/boston/show/movie-party-national-lampoons-christ
+ mas-vacation
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:700fde926514771177af89fa94480f0bfce5d014@pushpin.city
+DTSTAMP:20270219T000000Z
+DTSTART:20270220T010000Z
+DTEND:20270220T030000Z
+SUMMARY:Dave Herlihy
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/dave-herlihy/
+URL:https://www.passim.org/live-music/events/dave-herlihy/
+END:VEVENT
+END:VCALENDAR

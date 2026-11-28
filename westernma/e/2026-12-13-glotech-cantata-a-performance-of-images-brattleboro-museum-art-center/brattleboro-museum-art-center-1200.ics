@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:18aaacf2af3d1ae0c8c5c8607e7c441c4646208d@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T170000Z
+DTEND:20261213T190000Z
+SUMMARY:Glotech Cantata: A Performance of Images
+LOCATION:Brattleboro Museum & Art Center\, 10 Vernon St\, Brattleboro\, VT 
+ 05301
+DESCRIPTION:https://www.brattleboromuseum.org/event/glotech-cantata-a-perfo
+ rmance-of-images/
+URL:https://www.brattleboromuseum.org/event/glotech-cantata-a-performance-o
+ f-images/
+END:VEVENT
+END:VCALENDAR

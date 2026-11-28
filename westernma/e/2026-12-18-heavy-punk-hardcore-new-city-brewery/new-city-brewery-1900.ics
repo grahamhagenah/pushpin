@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:114bc3c31569cbf5f168d32e198043fc616f2313@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T000000Z
+DTEND:20261219T020000Z
+SUMMARY:Heavy Punk/Hardcore
+LOCATION:New City Brewery\, 180 Pleasant St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.newcitybrewery.com/events-1/heavy-punkhardcore
+URL:https://www.newcitybrewery.com/events-1/heavy-punkhardcore
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:54724d4275b0551d0ea1fe86f6cfd3462b49a8eb@pushpin.city
+DTSTAMP:20261208T000000Z
+DTSTART:20261209T003000Z
+DTEND:20261209T023000Z
+SUMMARY:Five College West African Music Ensemble
+LOCATION:Mount Holyoke\, 6 Dunlap Place\, South Hadley\, MA
+DESCRIPTION:https://events.mtholyoke.edu/event/five-college-west-african-mu
+ sic-ensemble
+URL:https://events.mtholyoke.edu/event/five-college-west-african-music-ense
+ mble
+END:VEVENT
+END:VCALENDAR

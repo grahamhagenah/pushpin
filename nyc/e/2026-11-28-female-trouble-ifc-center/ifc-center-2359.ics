@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a3b195b3e4aabaa0649dfa060d3c5bd5a4733ac@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T045900Z
+DTEND:20261129T065900Z
+SUMMARY:Female Trouble
+LOCATION:IFC Center\, 323 Sixth Ave\, New York\, NY 10014
+DESCRIPTION:https://www.ifccenter.com/films/female-trouble/
+URL:https://www.ifccenter.com/films/female-trouble/
+END:VEVENT
+END:VCALENDAR

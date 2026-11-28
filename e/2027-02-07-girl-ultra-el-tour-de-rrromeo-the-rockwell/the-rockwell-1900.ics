@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3553526b2ef97e04a60360ea9cc3906daaf6c09f@pushpin.city
+DTSTAMP:20270207T000000Z
+DTSTART:20270208T000000Z
+DTEND:20270208T020000Z
+SUMMARY:Girl Ultra: el Tour de RRRomeo
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/girl-ultra-el-tour-de-rrromeo/
+URL:https://therockwell.org/calendar/girl-ultra-el-tour-de-rrromeo/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:238bfa3e860c21fb9d077685dbe4c29a09b5d0ea@pushpin.city
+DTSTAMP:20270210T000000Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Yamato\, The Drummers of Japan World Tour 2027 Tamayura: Echoes of 
+ the Soul
+LOCATION:UMass Fine Arts Center\, 151 Presidents Dr\, Amherst\, MA 01003
+DESCRIPTION:https://arts.umass.edu/performing-arts/events/2026-2027/yamato-
+ tamayura
+URL:https://arts.umass.edu/performing-arts/events/2026-2027/yamato-tamayura
+END:VEVENT
+END:VCALENDAR

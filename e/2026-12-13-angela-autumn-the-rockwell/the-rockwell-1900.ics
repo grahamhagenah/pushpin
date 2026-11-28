@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e6d1fdbcdf60e8280d91b90c4bcd704b85895ae8@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Angela Autumn
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/angela-autumn/
+URL:https://therockwell.org/calendar/angela-autumn/
+END:VEVENT
+END:VCALENDAR

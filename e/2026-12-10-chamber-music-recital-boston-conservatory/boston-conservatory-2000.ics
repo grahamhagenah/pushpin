@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a3736d9c416032982f95ea69ec34dead17b74698@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T010000Z
+DTEND:20261211T030000Z
+SUMMARY:Chamber Music Recital
+LOCATION:Boston Conservatory\, 132 Ipswich Street (Richard Ortner Studio Bu
+ ilding)\, Boston\, MA 02115
+DESCRIPTION:https://bostonconservatory.berklee.edu/events/chamber-music-rec
+ ital-12-10
+URL:https://bostonconservatory.berklee.edu/events/chamber-music-recital-12-
+ 10
+END:VEVENT
+END:VCALENDAR

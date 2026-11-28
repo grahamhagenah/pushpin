@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e23b873a29a78fa80410e98c42aeb5355c943253@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T200000Z
+DTEND:20261206T220000Z
+SUMMARY:Torch Light Music School
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1176
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1176
+END:VEVENT
+END:VCALENDAR

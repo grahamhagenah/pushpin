@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1ddd6fde22762f83d477386308ab01b008eb0ed7@pushpin.city
+DTSTAMP:20261207T000000Z
+DTSTART:20261208T010000Z
+DTEND:20261208T030000Z
+SUMMARY:Country 102.5's Acoustic Christmas
+LOCATION:Roadrunner\, 89 Guest St\, Boston\, MA 02135
+DESCRIPTION:https://www.axs.com/events/1662612/country-102-5-s-acoustic-chr
+ istmas-tickets
+URL:https://www.axs.com/events/1662612/country-102-5-s-acoustic-christmas-t
+ ickets
+END:VEVENT
+END:VCALENDAR

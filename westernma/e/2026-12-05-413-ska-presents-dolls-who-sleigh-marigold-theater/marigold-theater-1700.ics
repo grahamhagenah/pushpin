@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:efbd2968bf26128ab0f22f2fa0b097eb6c79b61b@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261205T220000Z
+DTEND:20261206T000000Z
+SUMMARY:413 Ska Presents – Dolls Who Sleigh
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:https://marigold.org/dollswhosleigh/
+URL:https://marigold.org/dollswhosleigh/
+END:VEVENT
+END:VCALENDAR

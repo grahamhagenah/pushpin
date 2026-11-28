@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:42f3aa47c6813fdf844764bb3a46c79fef50e58c@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T003000Z
+DTEND:20261206T023000Z
+SUMMARY:The Kwintet
+LOCATION:The Foundry\, 2 Harris St\, West Stockbridge\, MA 01266
+DESCRIPTION:https://thefoundryws.com/event/the-kwintet/
+URL:https://thefoundryws.com/event/the-kwintet/
+END:VEVENT
+END:VCALENDAR

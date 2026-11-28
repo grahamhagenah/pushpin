@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:86ef596a9aac3f8dec6d7cc52104818c77cfd8a7@pushpin.city
+DTSTAMP:20270206T000000Z
+DTSTART:20270207T000000Z
+DTEND:20270207T020000Z
+SUMMARY:Jazz Shares: Jason Robinson
+LOCATION:Bombyx\, 130 Pine St\, Florence\, MA 01062
+DESCRIPTION:https://bombyx.live/events/jazz-shares-jason-robinson/
+URL:https://bombyx.live/events/jazz-shares-jason-robinson/
+END:VEVENT
+END:VCALENDAR

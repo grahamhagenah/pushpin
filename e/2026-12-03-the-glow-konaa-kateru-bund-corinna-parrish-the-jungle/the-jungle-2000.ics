@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:89844c6b43ff9cd98a4160d765c76fb171372e8a@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:The Glow\, Konaa Kateru\, BUND\, Corinna Parrish
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/the-glow-konaa-kateru-bund-corinna
+ -parrish-tickets-2004850975236
+URL:https://www.eventbrite.com/e/the-glow-konaa-kateru-bund-corinna-parrish
+ -tickets-2004850975236
+END:VEVENT
+END:VCALENDAR

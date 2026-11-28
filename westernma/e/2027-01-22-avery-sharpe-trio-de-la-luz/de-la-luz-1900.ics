@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0c0d59996e7c1e1004e53e5bc0a68480b6823e4f@pushpin.city
+DTSTAMP:20270122T000000Z
+DTSTART:20270123T000000Z
+DTEND:20270123T020000Z
+SUMMARY:Avery Sharpe Trio
+LOCATION:De La Luz\, 114 Race St\, Holyoke\, MA 01040
+DESCRIPTION:https://delaluz.org/events/avery-sharpe-trio
+URL:https://delaluz.org/events/avery-sharpe-trio
+END:VEVENT
+END:VCALENDAR

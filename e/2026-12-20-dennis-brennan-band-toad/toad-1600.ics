@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7938151eab82c4d2697c62698e93fec6caa31aec@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T210000Z
+DTEND:20261220T230000Z
+SUMMARY:Dennis Brennan Band
+LOCATION:Toad\, 1912 Massachusetts Ave\, Cambridge\, MA 02140
+DESCRIPTION:https://www.mccarthystoad.com/calendar
+URL:https://www.mccarthystoad.com/calendar
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:89346102c318d1fadf4931d02e3675d03f4ade85@pushpin.city
+DTSTAMP:20270206T000000Z
+DTSTART:20270207T000000Z
+DTEND:20270207T020000Z
+SUMMARY:Bob Marley's B-Day / Reggae Winter Splash '27 ft Mighty Mystic (18+
+ )
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/bob-marleys-bday-reggae-winter-spl
+ ash-boston-massachusetts-02-06-2027/event/010065389E7E19D7
+URL:https://www.ticketmaster.com/bob-marleys-bday-reggae-winter-splash-bost
+ on-massachusetts-02-06-2027/event/010065389E7E19D7
+END:VEVENT
+END:VCALENDAR

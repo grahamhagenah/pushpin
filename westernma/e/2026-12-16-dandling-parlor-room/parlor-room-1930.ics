@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ee88de757f0a5b9fb2f8248e4106c690f9208e27@pushpin.city
+DTSTAMP:20261216T000000Z
+DTSTART:20261217T003000Z
+DTEND:20261217T023000Z
+SUMMARY:Dandling
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000CuA0zMAF
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0CuA0zMAF
+END:VEVENT
+END:VCALENDAR

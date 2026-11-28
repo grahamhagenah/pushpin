@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2af20646d3c965f49d834534d08301f7c66e0fa6@pushpin.city
+DTSTAMP:20270224T000000Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Marc & Ted Broussard
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000DBcliMAD
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0DBcliMAD
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Boston Public Library
+X-WR-CALDESC:What’s coming up at Boston Public Library\, from Pushpin Bos
+ ton.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:81d837c9494ef4a93e37c7d0c1a78a77f8566590@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Places Known and Remembered: An Art Exhibition by Laura Gatzos
+LOCATION:West Roxbury Library
+DESCRIPTION:through Jan 2\nThis exhibit by Laura Gatzos\, contains depictio
+ ns of familiar and comforting scenes and places we encounter as New Englan
+ ders. From local parks to rural roads\, from museums to comforting scenes 
+ of home\, the paintings in this collection invoke a sense of nostalgia and
+  wonderment and assert that beauty and color are a form of self-care."\nht
+ tps://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905b\nFrom Pushpin 
+ Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af1edbc901b02002cc8905b
+END:VEVENT
+BEGIN:VEVENT
+UID:243b6864273306a1b84739dfa8f332514bd2d223@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T203000Z
+DTEND:20261202T223000Z
+SUMMARY:Book Signing: Leslie Guity
+LOCATION:Shaw-Roxbury Library\, 149 Dudley Street\, Roxbury\, MA 02119
+DESCRIPTION:Author talk with Leslie Guity of Orangesticity\, author of I Am
+  Extraordinary! Join us for snacks\, books\, and conversation.\nhttps://bp
+ l.bibliocommons.com/events/6b05d7f95ce6ca0041ec395f\nFrom Pushpin Boston: 
+ https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6b05d7f95ce6ca0041ec395f
+END:VEVENT
+BEGIN:VEVENT
+UID:7642acb76f6c75d0db757a6a96342ad31e1e898c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T230000Z
+DTEND:20261203T010000Z
+SUMMARY:Author Talk: Carlton Champian - Notes to My Father
+LOCATION:Adams Street Library\, 690 Adams Street\, Dorchester\, MA 02122
+DESCRIPTION:Join Boston author Carlton Champian for a reading and conversat
+ ion centered on Notes to My Father\, a personal collection exploring fathe
+ rhood\, absence\, grief\, and healing.\nhttps://bpl.bibliocommons.com/even
+ ts/6aee234e9dbc2b002c93d361\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aee234e9dbc2b002c93d361
+END:VEVENT
+BEGIN:VEVENT
+UID:b51fe8f0741cd41e8836c0413d6c24bd649677fe@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T180000Z
+DTEND:20261204T200000Z
+SUMMARY:Charla En El Grupo De Lectura
+LOCATION:Connolly Library\, 433 Centre St\, Jamaica Plain\, MA 02130
+DESCRIPTION:La mula ciega por Karen Castañeda Una historia inspirada en ac
+ ontecimientos reales enlaza tres vidas como consecuencia de un plan monstr
+ uoso creado por un crimen organizado. Un malhechor\, una madre soltera y u
+ na mujer arrepentida desarrollan una trama llena de ambición\, dolor y ju
+ sticia. La aventura de María la lleva a destapar un caso terrorífico que
+  conmocionó todos los niveles políticos y sociales en las comunidades fr
+ onterizas de El Paso\, Texas\, y Ciudad Juárez En esta charla vamos a exp
+ lorar una conversación sobre la frontera\, la resiliencia\, la injusticia
+  constitucional y la importancia de contar historias que nacen de nuestra 
+ comunidad y en nuestra lenguas. Después\, tendremos una sesión de pregun
+ tas para conversar directamente con la autora.\nhttps://bpl.bibliocommons.
+ com/events/6aea362b035faf0033e12533\nFrom Pushpin Boston: https://pushpin.
+ city/
+URL:https://bpl.bibliocommons.com/events/6aea362b035faf0033e12533
+END:VEVENT
+BEGIN:VEVENT
+UID:a113775217db180434138a7bf4924c9d5b456e05@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Author Talk: Paul Lewis — Quothing "The Raven"
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Boston College Professor Emeritus Paul Lewis leads a discussion
+  of his new book\, Quothing "The Raven": The First Responses to America's 
+ Most Famous Poem.\nhttps://bpl.bibliocommons.com/events/6a8f3fed29a7dd0d67
+ 46ddcb\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6a8f3fed29a7dd0d6746ddcb
+END:VEVENT
+BEGIN:VEVENT
+UID:a8dbaf5ea1f49677760857299d32647a1fc88894@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+SUMMARY:Brighton on Atlascope: Exploring the Urban History of Brighton thro
+ ugh Maps
+LOCATION:Brighton Library\, 40 Academy Hill Rd\, Brighton\, MA 02135
+DESCRIPTION:How has the landscape of Brighton changed over time? How can yo
+ u use digital map collections to investigate the history of a house\, a ne
+ ighborhood\, or a city? How can the stories of places open up new perspect
+ ives on the past and present?\nhttps://bpl.bibliocommons.com/events/6acfc8
+ 6529c3d600332fe56f\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6acfc86529c3d600332fe56f
+END:VEVENT
+BEGIN:VEVENT
+UID:a774b567a747394b50ecc903b964ab7228fa5e40@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261207T230000Z
+DTEND:20261208T010000Z
+SUMMARY:Opera Night at the BPL: Songs of Light and Liberation: An Explorati
+ on of Many Faiths Through Music
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:In a season when many traditions gather around light\, hope\, a
+ nd the promise of freedom\, Boston Lyric Opera returns to the Boston Publi
+ c Library for an evening of music drawn from different faiths and shared h
+ uman stories.\nhttps://bpl.bibliocommons.com/events/6af88f47e5605400508c9a
+ ae\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af88f47e5605400508c9aae
+END:VEVENT
+BEGIN:VEVENT
+UID:d08ffcbd876ed17257bb272bc7508d711a74710d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261208T230000Z
+DTEND:20261209T010000Z
+SUMMARY:Author Talk: Steven Levitsky — How Democracies Die
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Author Steven Levitsky discusses his New York Times bestselling
+  nonfiction book\, How Democracies Die.\nhttps://bpl.bibliocommons.com/eve
+ nts/6ae24987198b996a80a93ffb\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6ae24987198b996a80a93ffb
+END:VEVENT
+BEGIN:VEVENT
+UID:4b07248f917aeb4e0578a14afddd23d6f94fc3f3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T173000Z
+DTEND:20261209T193000Z
+SUMMARY:State of the Library with BPL President David Leonard
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join Boston Public Library President David Leonard for the Stat
+ e of the Library.\nhttps://bpl.bibliocommons.com/events/6aeba3569d27a00045
+ 55bdf9\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aeba3569d27a0004555bdf9
+END:VEVENT
+BEGIN:VEVENT
+UID:e380ec30980d13c3cf13fcffa81f5f3a4816da78@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T233000Z
+DTEND:20261210T013000Z
+SUMMARY:Author Talk: Jason Allison—The Killing Yards
+LOCATION:South End Library\, 685 Tremont St\, Boston\, MA 02118
+DESCRIPTION:The Fall 2026 Author Talk Series\, presented by the Friends of 
+ the South End Library\, will wrap up with Jason Allison sharing his debut 
+ novel\, The Killing Yards. Please join us on Wednesday\, December 9 starti
+ ng at 6:30 pm at Union Church (Connection Room\, 485 Columbus Ave.) for a 
+ fun and lively conversation in this author talk series!\nhttps://bpl.bibli
+ ocommons.com/events/6aa9a8c9a5dbde002aa4cafc\nFrom Pushpin Boston: https:/
+ /pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aa9a8c9a5dbde002aa4cafc
+END:VEVENT
+BEGIN:VEVENT
+UID:e8c44d9dbc357434aa5bd024c27b28cb3f372eed@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T170000Z
+DTEND:20261210T190000Z
+SUMMARY:Author Talk: Cotten Seiler on “White Care”
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join Dickinson College professor Cotten Seiler for a conversati
+ on about his new book\, White Care. The book discusses how few of us\, goi
+ ng about our daily lives\, notice the infrastructure that surrounds us and
+  makes those lives possible. What also remains hidden in plain sight is ho
+ w public infrastructure in the United States has been shaped by theories o
+ f race and human evolution. Cotten Seiler’s White Care shows that\, from
+  the late 1800s to the present\, expert assessments of the quality of the 
+ national population have both driven and thwarted the state’s provision 
+ of infrastructures of water\, sanitation\, energy\, transportation\, recre
+ ation\, and education. If a nation’s infrastructure is a concrete measur
+ e of its belief in its population’s future\, what does the current state
+  of American infrastructure say about us?\nhttps://bpl.bibliocommons.com/e
+ vents/6aea33f296ec3a003adf1244\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aea33f296ec3a003adf1244
+END:VEVENT
+BEGIN:VEVENT
+UID:8ea7d418ff767b63f49a90a11502f2b5c1feda96@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T230000Z
+DTEND:20261211T010000Z
+SUMMARY:Book Launch & Author Talk: Michelle A. Gabow & Kate Rushin
+LOCATION:Jamaica Plain Library\, 30 South Street\, Jamaica Plain\, MA 02130
+DESCRIPTION:Michelle A. Gabow (playwright and author) will launch her fourt
+ h novel\, a simple queer incorrigible heartbreaking miraculous life\, an i
+ ntrospective work that exists in the space between fiction\, memoir and pr
+ ose poetry\, exploring aging\, grief\, memory and falling in love at any a
+ ge.\nhttps://bpl.bibliocommons.com/events/6af88e68e14c170074fef264\nFrom P
+ ushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6af88e68e14c170074fef264
+END:VEVENT
+BEGIN:VEVENT
+UID:1053abf53045a1bbfc1bc18b3bca43362048a478@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261229T230000Z
+DTEND:20261230T010000Z
+SUMMARY:Author Talk: Carlton Champian - Notes to My Father
+LOCATION:Mattapan Library\, 1350 Blue Hill Ave\, Mattapan\, MA 02126
+DESCRIPTION:What happens when a father’s absence becomes part of who you 
+ are? Join Boston-area author Carlton Champian for a reading and discussion
+  of his book\, Notes to My Father\, a deeply personal exploration of fathe
+ rhood\, abandonment\, identity\, and the journey of confronting what we in
+ herit.\nhttps://bpl.bibliocommons.com/events/6aea3330035faf0033e12227\nFro
+ m Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6aea3330035faf0033e12227
+END:VEVENT
+BEGIN:VEVENT
+UID:8c14f684ad1aae2d309c8c09279b1037c1c44dfc@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261231T170000Z
+DTEND:20261231T190000Z
+SUMMARY:First Night: Special Collections Open House
+LOCATION:Boston Public Library\, 700 Boylston Street\, Boston\, MA 02116
+DESCRIPTION:Join us for a New Year's Eve open house featuring historic maps
+  and photos of Back Bay and the Central Library in the McKim Exhibition Ha
+ ll. Co-sponsored by the Boston Public Library Special Collections and Leve
+ nthal Map and Education Center.\nhttps://bpl.bibliocommons.com/events/6adf
+ ab3f035faf0033df24dc\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6adfab3f035faf0033df24dc
+END:VEVENT
+BEGIN:VEVENT
+UID:14ae4f4079399b982cac482af061f6ffd54205e4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270128T230000Z
+DTEND:20270129T010000Z
+SUMMARY:Author Talk and Reading: Rob Quinn
+LOCATION:Hyde Park Library\, 35 Harvard Ave\, Hyde Park\, MA 02136
+DESCRIPTION:On the Other Side of the Street is Rob Quinn’s account of liv
+ ing through HIV\, serious illness\, addiction\, and the loss of a career a
+ nd identity he valued. Through the image of a street crossing\, he explore
+ s recognizing change\, accepting support\, and beginning again. Each chapt
+ er includes reflection questions and a self-care activity. At the reading\
+ , Rob will share passages and invite a community conversation about the cr
+ ossings in our own lives.\nhttps://bpl.bibliocommons.com/events/6abbc1e3eb
+ ad22004541bd03\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6abbc1e3ebad22004541bd03
+END:VEVENT
+BEGIN:VEVENT
+UID:0856e2efc87042cfc86fc08c979a5f931fc16bee@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270216T230000Z
+DTEND:20270217T010000Z
+SUMMARY:Hidden History of Black Boston (with Joel Mackall)
+LOCATION:Fields Corner Library\, 1520 Dorchester Ave\, Dorchester\, MA 0212
+ 2
+DESCRIPTION:Learn Boston's 400-year African-American history with Joel Mack
+ all.\nhttps://bpl.bibliocommons.com/events/6afc7b1ed7e98e002c53665e\nFrom 
+ Pushpin Boston: https://pushpin.city/
+URL:https://bpl.bibliocommons.com/events/6afc7b1ed7e98e002c53665e
+END:VEVENT
+END:VCALENDAR

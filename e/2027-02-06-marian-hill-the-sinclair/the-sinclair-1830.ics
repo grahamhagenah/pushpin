@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:594d8fc45fb034d9a75bd8b2ad2e18f69c939bfb@pushpin.city
+DTSTAMP:20270206T000000Z
+DTSTART:20270206T233000Z
+DTEND:20270207T013000Z
+SUMMARY:Marian Hill
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1602498
+URL:https://www.sinclaircambridge.com/events/detail/1602498
+END:VEVENT
+END:VCALENDAR

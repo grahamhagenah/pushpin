@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:30591e24830d084fbc145c850edc34706afdd183@pushpin.city
+DTSTAMP:20270218T000000Z
+DTSTART:20270218T233000Z
+DTEND:20270219T013000Z
+SUMMARY:Trail of Stars
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/trail-of-stars-f
+ y27/
+URL:https://www.theplatformkendall.org/productions/trail-of-stars-fy27/
+END:VEVENT
+END:VCALENDAR

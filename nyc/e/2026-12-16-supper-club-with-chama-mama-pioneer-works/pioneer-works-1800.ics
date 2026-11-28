@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4305ae007c1181c994399322a4ab7bd8b062a6bb@pushpin.city
+DTSTAMP:20261216T000000Z
+DTSTART:20261216T230000Z
+DTEND:20261217T010000Z
+SUMMARY:Supper Club with Chama Mama
+LOCATION:Pioneer Works\, 159 Pioneer St\, Brooklyn\, NY 11231
+DESCRIPTION:https://pioneerworks.org/programs/supper-club-with-chama-mama
+URL:https://pioneerworks.org/programs/supper-club-with-chama-mama
+END:VEVENT
+END:VCALENDAR

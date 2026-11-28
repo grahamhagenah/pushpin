@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e9945e24b48f61a43a09942f4b7e6d2fc6f08440@pushpin.city
+DTSTAMP:20270225T000000Z
+DTSTART:20270226T003000Z
+DTEND:20270226T023000Z
+SUMMARY:Crys Matthews
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000DCEFpMAP
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0DCEFpMAP
+END:VEVENT
+END:VCALENDAR

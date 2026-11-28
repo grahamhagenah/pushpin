@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:186b292fcce10934e276a8b704da96fb5337a175@pushpin.city
+DTSTAMP:20270203T000000Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Emily Wells - Mirror Father - a workshop performance
+LOCATION:National Sawdust\, 80 N 6th St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.nationalsawdust.org/event/emily-wells-mirror-father
+ -a-workshop-performance
+URL:https://www.nationalsawdust.org/event/emily-wells-mirror-father-a-works
+ hop-performance
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e6fb45b3a8fd92301c2251c686edce6e84ef3de4@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:Danny Bedrosian & Secret Army
+LOCATION:De La Luz\, 114 Race St\, Holyoke\, MA 01040
+DESCRIPTION:https://delaluz.org/events/danny-bedrosian-and-secret-army
+URL:https://delaluz.org/events/danny-bedrosian-and-secret-army
+END:VEVENT
+END:VCALENDAR

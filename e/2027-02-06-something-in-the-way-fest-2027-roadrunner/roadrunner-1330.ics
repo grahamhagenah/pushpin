@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:abd1687aae1ab1ab8faa73d55aab40f8db7e7c22@pushpin.city
+DTSTAMP:20270206T000000Z
+DTSTART:20270206T183000Z
+DTEND:20270206T203000Z
+SUMMARY:SOMETHING IN THE WAY FEST 2027
+LOCATION:Roadrunner\, 89 Guest St\, Boston\, MA 02135
+DESCRIPTION:https://www.axs.com/events/1613663/something-in-the-way-fest-20
+ 27-tickets
+URL:https://www.axs.com/events/1613663/something-in-the-way-fest-2027-ticke
+ ts
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e0499f0aa61569fdf9a864973f3327639847bd9f@pushpin.city
+DTSTAMP:20270210T000000Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Featured Artist of the Week: Dan Weintraub: Jerry Garcia Retrospect
+ ive with Story and Song
+LOCATION:Brooklyn Music Kitchen\, 177 Vanderbilt Ave\, Brooklyn\, NY 11205
+DESCRIPTION:https://dice.fm/event/6af5bf282f758d000129cf7a
+URL:https://dice.fm/event/6af5bf282f758d000129cf7a
+END:VEVENT
+END:VCALENDAR

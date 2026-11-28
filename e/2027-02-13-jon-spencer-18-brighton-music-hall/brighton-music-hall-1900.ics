@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:23170057711dffbcebfa50314518e24891dd668f@pushpin.city
+DTSTAMP:20270213T000000Z
+DTSTART:20270214T000000Z
+DTEND:20270214T020000Z
+SUMMARY:Jon Spencer (18+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/jon-spencer-18-boston-massachusett
+ s-02-13-2027/event/01006538CDEC1437
+URL:https://www.ticketmaster.com/jon-spencer-18-boston-massachusetts-02-13-
+ 2027/event/01006538CDEC1437
+END:VEVENT
+END:VCALENDAR

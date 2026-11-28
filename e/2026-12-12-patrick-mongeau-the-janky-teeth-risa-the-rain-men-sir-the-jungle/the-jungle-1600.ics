@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b191f4fbb23d34cc139c3310780fd8aae98f156c@pushpin.city
+DTSTAMP:20261212T000000Z
+DTSTART:20261212T210000Z
+DTEND:20261212T230000Z
+SUMMARY:Patrick Mongeau & The Janky Teeth\, Risa & The Rain Men\, SIR
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/patrick-mongeau-the-janky-teeth-ri
+ sa-the-rain-men-sir-tickets-2002749958037
+URL:https://www.eventbrite.com/e/patrick-mongeau-the-janky-teeth-risa-the-r
+ ain-men-sir-tickets-2002749958037
+END:VEVENT
+END:VCALENDAR

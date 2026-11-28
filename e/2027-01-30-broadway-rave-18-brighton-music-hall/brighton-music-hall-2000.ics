@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:30c528ad1696f5b256f33812e62967c63534d0b4@pushpin.city
+DTSTAMP:20270130T000000Z
+DTSTART:20270131T010000Z
+DTEND:20270131T030000Z
+SUMMARY:Broadway Rave (18+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/broadway-rave-18-boston-massachuse
+ tts-01-30-2027/event/01006572D199FA6B
+URL:https://www.ticketmaster.com/broadway-rave-18-boston-massachusetts-01-3
+ 0-2027/event/01006572D199FA6B
+END:VEVENT
+END:VCALENDAR

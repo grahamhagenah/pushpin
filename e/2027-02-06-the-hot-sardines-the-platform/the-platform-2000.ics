@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7bc6b85e063804631ca18ee4ccabab9753e0adaa@pushpin.city
+DTSTAMP:20270206T000000Z
+DTSTART:20270207T010000Z
+DTEND:20270207T030000Z
+SUMMARY:The Hot Sardines
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/the-hot-sardines
+ /
+URL:https://www.theplatformkendall.org/productions/the-hot-sardines/
+END:VEVENT
+END:VCALENDAR

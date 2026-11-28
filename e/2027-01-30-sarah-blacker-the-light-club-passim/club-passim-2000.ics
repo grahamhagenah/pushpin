@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5e041647a68b6d3361df0633ee774b5dec80b5d9@pushpin.city
+DTSTAMP:20270130T000000Z
+DTSTART:20270131T010000Z
+DTEND:20270131T030000Z
+SUMMARY:Sarah Blacker & The Light
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/sarah-blacker-the-ligh
+ t/
+URL:https://www.passim.org/live-music/events/sarah-blacker-the-light/
+END:VEVENT
+END:VCALENDAR

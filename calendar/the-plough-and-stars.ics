@@ -1,0 +1,373 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · The Plough and Stars
+X-WR-CALDESC:What’s coming up at The Plough and Stars\, from Pushpin Bost
+ on.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ae7bdd234b610356932739c727fa2137cfa0c1ea@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:Tom Hagerty Band
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cebe9b88dfcbc5f753e0489ab09d8e0e307d624e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:Bad Art Ensemble
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2853b2e8d8cc2a576fa972f61feff624a43e143a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:Dub Apocalypse
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:f13da262ebf995a9f365f6b6012e118bc09e4c08@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261202T030000Z
+DTEND:20261202T050000Z
+SUMMARY:Johnny Trama and The B3 Kings
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:9767caef8ea2a9e3054a822e4553847b625a26a3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T030000Z
+DTEND:20261204T050000Z
+SUMMARY:Fenno Street Jazz
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:d559b302595026e07b03122ff4358a71c746d31e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T030000Z
+DTEND:20261205T050000Z
+SUMMARY:The Spring Hill Rounders
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:f30244499687712449f0d0900736f968c9796a89@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T210000Z
+DTEND:20261205T230000Z
+SUMMARY:Randy Black and the Heathcroppers
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:1e3b73f5bde5ec824b84f545ab2510f5f1dd700d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T030000Z
+DTEND:20261206T050000Z
+SUMMARY:Emily Grogan Band
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5ef03337d2e0435e4995f9516bacbc47d0bc69@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T210000Z
+DTEND:20261206T230000Z
+SUMMARY:Sarah Levecque Band
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:53c25a04ef1fbc3dc3af201906b05f902a3506de@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261207T000000Z
+DTEND:20261207T020000Z
+SUMMARY:Philosophy Night at The Plough
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:Professor Sean Aas from Georgetown University\nhttps://calendar
+ .ploughandstars.com/events/calendar\nFrom Pushpin Boston: https://pushpin.
+ city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:92888f2381906afcfe0588623c6c8c5f6056a409@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T030000Z
+DTEND:20261209T050000Z
+SUMMARY:Johnny Trama and The B3 Kings
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cab80da6b518613b82e2feb34df08e3adbee1cc2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T030000Z
+DTEND:20261211T050000Z
+SUMMARY:Double Down with Tom Baker
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2c64fbdd70c0589911321afbe9ca010336f13c50@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T030000Z
+DTEND:20261212T050000Z
+SUMMARY:Summer Villains
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:422ab4173c4e3cdceab18b5dec2d7e90fdb906e2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T210000Z
+DTEND:20261212T230000Z
+SUMMARY:Josh Lederman and the Cambridge-Somerville All-Stars
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:9950f00eddb7618d3ad3973a1ad0ddb5881825f0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T030000Z
+DTEND:20261213T050000Z
+SUMMARY:Scott Damgaard
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:0c0c868af5bac850ab2a313c4ead3de6f218bda2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T210000Z
+DTEND:20261213T230000Z
+SUMMARY:Tom Hagerty Band
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:836e6f89f231973362db2221c455da426993af47@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Frank Morey
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:74c453e8aa74ce67a9d7b8ae59b039e897bf381b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261216T030000Z
+DTEND:20261216T050000Z
+SUMMARY:Johnny Trama and The B3 Kings
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:b942255d5f244233158cc1d9159877d52f007aef@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T030000Z
+DTEND:20261218T050000Z
+SUMMARY:Fat n’ Gristle Blues Band
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:7747cb3fb46d9bcac35176ac953902de4b90f8a1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T030000Z
+DTEND:20261219T050000Z
+SUMMARY:The Handymen
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:e8e74bec488e5af019608fa5cbb0707ad6070315@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T210000Z
+DTEND:20261219T230000Z
+SUMMARY:Mean Black Spider
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:049024b5541c0a67a3744113db02f04f91b294d7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T030000Z
+DTEND:20261220T050000Z
+SUMMARY:KaBeatles
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:Hosted By MC Kabir\nhttps://calendar.ploughandstars.com/events/
+ calendar\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:44551219f4c3ed1a10ae33fbf3c55173d44aa480@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T210000Z
+DTEND:20261220T230000Z
+SUMMARY:Adam Sherman
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:c6c0b8421eda17886792337b9cbf49e88f712a50@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261223T030000Z
+DTEND:20261223T050000Z
+SUMMARY:Johnny Trama and The B3 Kings
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:72d120e525b3d6a5b0f29e14636dc4a0c472d1b1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261226T210000Z
+DTEND:20261226T230000Z
+SUMMARY:Tom Hagerty Band
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:da82ac7abc886904935e4a3e0dc75f694c2a49b1@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261227T030000Z
+DTEND:20261227T050000Z
+SUMMARY:Bad Art Ensemble
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:4e9eecbafd831abb428c66260def631fe455cd16@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261227T210000Z
+DTEND:20261227T230000Z
+SUMMARY:Dub Apocalypse
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:f8442de2cf40263d17f97680cc969733e1cc9fe3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261230T030000Z
+DTEND:20261230T050000Z
+SUMMARY:Johnny Trama and The B3 Kings
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2a5499c12cf21599f6d80f34b2287d573fe95da9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270101T030000Z
+DTEND:20270101T050000Z
+SUMMARY:Samantha Farrell
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:NEW YEAR’S EVE $10 COVER\nhttps://calendar.ploughandstars.com
+ /events/calendar\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:db628338f92a6a8e2212491ffb610e552c0bcef8@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270128T023000Z
+DTEND:20270128T043000Z
+SUMMARY:Joe and The Door Guy
+LOCATION:The Plough and Stars\, 912 Massachusetts Ave\, Cambridge\, MA 0213
+ 9
+DESCRIPTION:https://calendar.ploughandstars.com/events/calendar\nFrom Pushp
+ in Boston: https://pushpin.city/
+URL:https://calendar.ploughandstars.com/events/calendar
+END:VEVENT
+END:VCALENDAR

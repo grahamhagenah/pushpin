@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f6f4268664dd1276f51af2e82cffca3e281f6e22@pushpin.city
+DTSTAMP:20270119T000000Z
+DTSTART:20270120T000000Z
+DTEND:20270120T020000Z
+SUMMARY:A.R.H.S. Jazz
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/arhs-jazz-2027
+URL:https://www.thedrakeamherst.org/events/arhs-jazz-2027
+END:VEVENT
+END:VCALENDAR

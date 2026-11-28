@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Marigold Theater
+X-WR-CALDESC:What’s coming up at Marigold Theater\, from Pushpin Western 
+ Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:0cdeb99dff57fdafd6ae662b27d63b8a216996f6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T013000Z
+DTEND:20261129T033000Z
+SUMMARY:THE WHIP APPEAL // THRASHER WHEAT
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:THE WHIP APPEAL // THRASHER WHEAT Looking for a great post holi
+ day hang? Come on down to Marigold to satisfy your Saturday Night Music Cr
+ avings with The Whip Appeal and Thrasher Wheat!\nhttps://marigold.org/the-
+ whip-appeal/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://marigold.org/the-whip-appeal/
+END:VEVENT
+BEGIN:VEVENT
+UID:2b81e5a21327c9adf87707622d189a1ac032c867@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T010000Z
+DTEND:20261205T030000Z
+SUMMARY:Swinging Steaks with Wishbone Zoe
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:Join us Friday\, December 4th for the return of Boston’s own\
+ , Swinging Steaks\, plus a killer opening set by local legend\, Wishbone Z
+ oe!\nhttps://marigold.org/swingingsteakswishbonezone/\nFrom Pushpin Wester
+ n Mass: https://pushpin.city/westernma/
+URL:https://marigold.org/swingingsteakswishbonezone/
+END:VEVENT
+BEGIN:VEVENT
+UID:250ad1a20f41ed784811e84db3469e35f90dd406@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T220000Z
+DTEND:20261206T000000Z
+SUMMARY:413 Ska Presents – Dolls Who Sleigh
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:413 SKA PRESENTS DOLLS WHO SLEIGH 🎄It’s the 3rd Annual 413
+  Ska Holiday Show – Dolls Who Sleigh!🎄 at the Marigold Theater in Eas
+ thampton MA Doped Up Dollies Skarmy Of Darkness & Marianne Toilet The XMas
+  Clown Saturday December 5th 2026 All Ages • 5pm doors • 6pm music $20
+  adv / $30 door / U13 free!\nhttps://marigold.org/dollswhosleigh/\nFrom Pu
+ shpin Western Mass: https://pushpin.city/westernma/
+URL:https://marigold.org/dollswhosleigh/
+END:VEVENT
+BEGIN:VEVENT
+UID:af59cd0473f6e98d36a335b5f2690d5cd6881630@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T003000Z
+DTEND:20261210T023000Z
+SUMMARY:Skyes Queer Curiosities: Return of the Childless Cat Ladies
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:Support Free Events\nhttps://marigold.org/skyes-queer-curiositi
+ es-return-of-the-childless-cat-ladies/\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://marigold.org/skyes-queer-curiosities-return-of-the-childless-ca
+ t-ladies/
+END:VEVENT
+BEGIN:VEVENT
+UID:65f77a751101310f46ce6971806357f70f801cf6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T010000Z
+DTEND:20261211T030000Z
+SUMMARY:KONTROL : KRAMPUS
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:Stomp your hooves\, grab your reeds\, and polish your horns- Kr
+ ampus Season is here. This December Kontrol celebrates the dark spaces bet
+ ween the bright lights. Join us as Azrael and Dyssident are joined by Boss
+  Salvage (Resonate) as they play the carols\, Sam and the Marigold provide
+  the spirits\, and YOU bring the sexy (as always).\nhttps://marigold.org/k
+ ontrol-krampus-2/\nFrom Pushpin Western Mass: https://pushpin.city/western
+ ma/
+URL:https://marigold.org/kontrol-krampus-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:bd128a202e41a11523ff2fe519761c9eb7e28e80@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T230000Z
+DTEND:20261212T010000Z
+SUMMARY:Wunnerful Show
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:Friday\, December 11\nhttps://marigold.org/wunnerful-show/\nFro
+ m Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://marigold.org/wunnerful-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:f765d4105c384e9b4b74ef3fa67bac71f84a946a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T010000Z
+DTEND:20261212T030000Z
+SUMMARY:Dance Yourself Clean
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:Support Free Events · Friday\, December 11\nhttps://marigold.o
+ rg/dance-yourself-clean/\nFrom Pushpin Western Mass: https://pushpin.city/
+ westernma/
+URL:https://marigold.org/dance-yourself-clean/
+END:VEVENT
+BEGIN:VEVENT
+UID:d604fd0d0541f779e9916f92dbacb72dcf54fc23@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:Honky Tonk Mash Up
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:Saturday\, December 12th\nhttps://marigold.org/honkytonk/\nFrom
+  Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://marigold.org/honkytonk/
+END:VEVENT
+BEGIN:VEVENT
+UID:a06e40f81ba9ecaf00e6f3aee380edd9d55f22b3@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261214T010000Z
+DTEND:20261214T030000Z
+SUMMARY:Jeff The Brotherhood With Cliffrose & Ian St George
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:JEFF THE BROTHERHOOD // CLIFFROSE // IAN ST GEORGE After a shor
+ t hiatus\, JEFF The Brotherhood is Coming to Marigold Theater on their las
+ t stop of their reunion tour! Get Your tickets now to see this Duo Perform
+  songs from albums “Heavy Days” “We Are The Champions” and “Zone
+ ”. Their style contains elements of psychedelic rock\, garage rock\, pun
+ k and pop. This Show will also feature artists cliffrose and Ian St George
+ .\nhttps://marigold.org/jeff-the-brotherhood-with-cliffrose-ian-st-george/
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://marigold.org/jeff-the-brotherhood-with-cliffrose-ian-st-george/
+END:VEVENT
+BEGIN:VEVENT
+UID:d520e33f3667224a35bc04a331e35b8ba8b449a7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T010000Z
+DTEND:20261220T030000Z
+SUMMARY:Puerto Rican Parranda
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:Saturday\, December 19th\nhttps://marigold.org/criollaparranda/
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://marigold.org/criollaparranda/
+END:VEVENT
+END:VCALENDAR

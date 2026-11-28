@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:15812fb390dc7aea8780acc5b2ff16942acd4ce9@pushpin.city
+DTSTAMP:20270209T000000Z
+DTSTART:20270210T010000Z
+DTEND:20270210T030000Z
+SUMMARY:Chinese New Year Concert
+LOCATION:Berklee Performance Center\, 136 Massachusetts Ave\, Boston\, MA 0
+ 2115
+DESCRIPTION:https://www.berklee.edu/BPC/events/chinese-new-year-concert-202
+ 7
+URL:https://www.berklee.edu/BPC/events/chinese-new-year-concert-2027
+END:VEVENT
+END:VCALENDAR

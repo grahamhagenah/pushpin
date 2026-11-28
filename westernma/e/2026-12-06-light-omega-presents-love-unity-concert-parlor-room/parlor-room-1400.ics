@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5cecbc999a9ca2b4b05da18b64af0e9f8baa1614@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T190000Z
+DTEND:20261206T210000Z
+SUMMARY:Light Omega Presents: Love/Unity Concert
+LOCATION:Parlor Room\, 32 Masonic St\, Northampton\, MA 01060
+DESCRIPTION:https://villageoflightinc-bloom.kindful.com/?campaign=1440745
+URL:https://villageoflightinc-bloom.kindful.com/?campaign=1440745
+END:VEVENT
+END:VCALENDAR

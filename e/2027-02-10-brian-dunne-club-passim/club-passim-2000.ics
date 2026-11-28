@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:95873c5550ecdf70191f9044796bbfd488afbc64@pushpin.city
+DTSTAMP:20270210T000000Z
+DTSTART:20270211T010000Z
+DTEND:20270211T030000Z
+SUMMARY:Brian Dunne
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/brian-dunne/
+URL:https://www.passim.org/live-music/events/brian-dunne/
+END:VEVENT
+END:VCALENDAR

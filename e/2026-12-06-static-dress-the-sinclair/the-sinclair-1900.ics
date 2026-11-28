@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a37fcd9a99a6cad9220058bde05efae2b2f93b0e@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261207T000000Z
+DTEND:20261207T020000Z
+SUMMARY:Static Dress
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1559261
+URL:https://www.sinclaircambridge.com/events/detail/1559261
+END:VEVENT
+END:VCALENDAR

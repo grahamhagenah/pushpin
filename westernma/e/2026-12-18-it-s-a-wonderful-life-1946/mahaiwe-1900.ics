@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f768aec5b1e81fd5c210b7f130e4d38ca542913d@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T000000Z
+DTEND:20261219T020000Z
+SUMMARY:It’s a Wonderful Life (1946)
+LOCATION:Mahaiwe\, 14 Castle Street\, Great Barrington\, MA
+DESCRIPTION:https://mahaiwe.org/event/its-a-wonderful-life-1946-5/
+URL:https://mahaiwe.org/event/its-a-wonderful-life-1946-5/
+END:VEVENT
+END:VCALENDAR

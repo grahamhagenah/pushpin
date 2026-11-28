@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:262a18b1ef7bbefa7eb19d1ba1746aff5ec3056f@pushpin.city
+DTSTAMP:20261130T000000Z
+DTSTART:20261130T203000Z
+DTEND:20261130T223000Z
+SUMMARY:The Hunger Games: Sunrise on the Reaping
+LOCATION:Kendall Square Cinema\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/83eac94b-
+ 6a2f-504f-9a19-2a2306c1c3d1
+URL:https://booking.landmarktheatres.com/launch/ticketing/83eac94b-6a2f-504
+ f-9a19-2a2306c1c3d1
+END:VEVENT
+END:VCALENDAR

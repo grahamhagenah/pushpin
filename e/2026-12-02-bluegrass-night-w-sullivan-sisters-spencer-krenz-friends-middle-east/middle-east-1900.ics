@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b14727ca2e5b726005799158bccd68206a3ad05f@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Bluegrass Night w/ Sullivan Sisters\, Spencer Krenz & Friends
+LOCATION:Middle East\, 472 Massachusetts Ave\, Cambridge\, MA 02139
+DESCRIPTION:https://www.ticketweb.com/event/bluegrass-night-w-sullivan-sist
+ ers-middle-east-upstairs-tickets/14454434?pl=mideastclub&REFID=clientsitew
+ p
+URL:https://www.ticketweb.com/event/bluegrass-night-w-sullivan-sisters-midd
+ le-east-upstairs-tickets/14454434?pl=mideastclub&REFID=clientsitewp
+END:VEVENT
+END:VCALENDAR

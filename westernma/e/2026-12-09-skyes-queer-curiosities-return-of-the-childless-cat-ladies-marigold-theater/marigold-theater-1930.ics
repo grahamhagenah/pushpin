@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8f20ee08c7e0cb2b52ee2be6f43db9b0bb22c614@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261210T003000Z
+DTEND:20261210T023000Z
+SUMMARY:Skyes Queer Curiosities: Return of the Childless Cat Ladies
+LOCATION:Marigold Theater\, 84 Cottage St\, Easthampton\, MA 01027
+DESCRIPTION:https://marigold.org/skyes-queer-curiosities-return-of-the-chil
+ dless-cat-ladies/
+URL:https://marigold.org/skyes-queer-curiosities-return-of-the-childless-ca
+ t-ladies/
+END:VEVENT
+END:VCALENDAR

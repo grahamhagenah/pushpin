@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e2de0ac0e6166c91f102de1ec4222f6fc6c53d48@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261209T233000Z
+DTEND:20261210T013000Z
+SUMMARY:Holiday Ghost Tales: A Benefit for The FOFIF
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/holiday-ghost-ta
+ les-fofif/
+URL:https://nitehawkcinema.com/williamsburg/movies/holiday-ghost-tales-fofi
+ f/
+END:VEVENT
+END:VCALENDAR

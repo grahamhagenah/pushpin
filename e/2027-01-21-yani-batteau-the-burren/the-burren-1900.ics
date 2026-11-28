@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:510213b09c4da4377ad8eecf094592608a3fb9bc@pushpin.city
+DTSTAMP:20270121T000000Z
+DTSTART:20270122T000000Z
+DTEND:20270122T020000Z
+SUMMARY:Yani Batteau
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1932
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1932
+END:VEVENT
+END:VCALENDAR

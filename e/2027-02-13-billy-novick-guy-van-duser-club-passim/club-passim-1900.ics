@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:129c6e4ee2f411393547c525d5154ff050683413@pushpin.city
+DTSTAMP:20270213T000000Z
+DTSTART:20270214T000000Z
+DTEND:20270214T020000Z
+SUMMARY:Billy Novick & Guy Van Duser
+LOCATION:Club Passim\, 47 Palmer St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.passim.org/live-music/events/billy-novick-guy-van-d
+ user/
+URL:https://www.passim.org/live-music/events/billy-novick-guy-van-duser/
+END:VEVENT
+END:VCALENDAR

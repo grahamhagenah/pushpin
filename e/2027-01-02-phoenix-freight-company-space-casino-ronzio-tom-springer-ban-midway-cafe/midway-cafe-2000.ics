@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7c6d1309d87c6dcaef2268b16038ca5372637804@pushpin.city
+DTSTAMP:20270102T000000Z
+DTSTART:20270103T010000Z
+DTEND:20270103T030000Z
+SUMMARY:Phoenix Freight Company | Space Casino | Ronzio | Tom Springer Band
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/2779/1798938000000
+URL:https://tockify.com/midwaycafejp/detail/2779/1798938000000
+END:VEVENT
+END:VCALENDAR

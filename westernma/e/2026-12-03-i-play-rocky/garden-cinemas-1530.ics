@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cbda0932fbdca6adbeb8f8ecfe013e7bdd4de41a@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261203T203000Z
+DTEND:20261203T223000Z
+SUMMARY:I Play Rocky
+LOCATION:Garden Cinemas\, 361 Main St\, Greenfield\, MA 01301
+DESCRIPTION:https://www.gardencinemas.net/
+URL:https://www.gardencinemas.net/
+END:VEVENT
+END:VCALENDAR

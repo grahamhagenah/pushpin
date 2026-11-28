@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:751f5ad568c56e394bc7fa281b653d9133cb01ae@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:The Weisstronauts' 28th Annual Holiday Jubilee
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/12/11/the-weisstronauts-
+ 28th-annual-holiday-jubilee
+URL:https://www.lilypadinman.com/home/2026/12/11/the-weisstronauts-28th-ann
+ ual-holiday-jubilee
+END:VEVENT
+END:VCALENDAR

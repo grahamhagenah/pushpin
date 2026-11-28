@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:de5859f74afa54796225ba9c95778a0837f6cd7b@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T000000Z
+DTEND:20261219T020000Z
+SUMMARY:TLI Presents: BSO Holiday Brass
+LOCATION:Tanglewood\, 297 West St\, Lenox\, MA 01240
+DESCRIPTION:https://www.bso.org/events/dec-2026-holiday-brass
+URL:https://www.bso.org/events/dec-2026-holiday-brass
+END:VEVENT
+END:VCALENDAR

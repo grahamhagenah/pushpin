@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fd39ad20113ba38f4415688f11e2e6140abc08bb@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T231500Z
+DTEND:20261130T011500Z
+SUMMARY:14th
+LOCATION:Kendall Square Cinema\, 355 Binney St\, Cambridge\, MA 02142
+DESCRIPTION:https://booking.landmarktheatres.com/launch/ticketing/9d4be180-
+ 941d-5ac2-9ef6-b2e835d4d5e6
+URL:https://booking.landmarktheatres.com/launch/ticketing/9d4be180-941d-5ac
+ 2-9ef6-b2e835d4d5e6
+END:VEVENT
+END:VCALENDAR

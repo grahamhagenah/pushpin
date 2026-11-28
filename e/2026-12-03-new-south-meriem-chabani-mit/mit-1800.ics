@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6cb992408f501627eee383d17bc005b8475a3194@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:New South—Meriem Chabani
+LOCATION:MIT\, 134 MASSACHUSETTS Avenue\, Cambridge\, MA 02139
+DESCRIPTION:https://calendar.mit.edu/event/new-southmeriem-chabani
+URL:https://calendar.mit.edu/event/new-southmeriem-chabani
+END:VEVENT
+END:VCALENDAR

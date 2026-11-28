@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:324eb3a3f5542d7fee9b5f3645e479f837c81567@pushpin.city
+DTSTAMP:20270211T000000Z
+DTSTART:20270212T003000Z
+DTEND:20270212T023000Z
+SUMMARY:The Buena Vista Orchestra
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/the-buena-vista-orchestra/
+URL:https://aomtheatre.com/aom_event/the-buena-vista-orchestra/
+END:VEVENT
+END:VCALENDAR

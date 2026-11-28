@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Spectacle
+X-WR-CALDESC:What’s coming up at Spectacle\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:a927915c01d2e99b07940179d22a0cdb9a7f70bf@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:Anime No Gogo
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/anime-no-gogo/\nFrom Pushpin N
+ YC: https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/anime-no-gogo/
+END:VEVENT
+BEGIN:VEVENT
+UID:c1a99bc9657d40c77b7f55516d51d412e3f36823@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261128T220000Z
+DTEND:20261129T000000Z
+SUMMARY:Far from Afghanistan
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/gianvito/\nFrom Pushpin NYC: h
+ ttps://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/gianvito/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffaf36649cc89880ca903fe59bbe206324d5df03@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+SUMMARY:Macbeth 3000
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/macbeth-3000-this-time-its-per
+ sonal/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/macbeth-3000-this-time-its-personal/
+END:VEVENT
+BEGIN:VEVENT
+UID:943d6c6777fd703703f9be3975826dfd8a5c7a38@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:The Hard Part Begins
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/journey-through-the-past-70s-c
+ anadian-classics/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/journey-through-the-past-70s-canadian-
+ classics/
+END:VEVENT
+BEGIN:VEVENT
+UID:87bc0046ebb5d52175d4bf910b73b098ff298802@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T045500Z
+DTEND:20261129T065500Z
+SUMMARY:Young Blondes Stalked and Murdered
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/young-blondes-stalked-and-murd
+ ered/\nFrom Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/young-blondes-stalked-and-murdered/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d3119a30524d7334888cca3fdb05e10d8853a1a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Blood Brunch
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/blood-brunch-2/\nFrom Pushpin 
+ NYC: https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/blood-brunch-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:035338e5ab62114137ae7c8c0a40f2775cc2c67e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T220000Z
+DTEND:20261130T000000Z
+SUMMARY:Diary of a School Teacher
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/diary-of-a-schoolteacher/\nFro
+ m Pushpin NYC: https://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/diary-of-a-schoolteacher/
+END:VEVENT
+BEGIN:VEVENT
+UID:38be9bd40836d362114e0a35128b35921e26c58f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T000000Z
+DTEND:20261201T020000Z
+SUMMARY:The Mad Songs of Fernanda Hussein
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/gianvito/\nFrom Pushpin NYC: h
+ ttps://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/gianvito/
+END:VEVENT
+BEGIN:VEVENT
+UID:72eea46673163d4f0154036c262f4fdcbf6a4653@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261201T030000Z
+DTEND:20261201T050000Z
+SUMMARY:Profit Motive and the Whispering Wind
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/gianvito/\nFrom Pushpin NYC: h
+ ttps://pushpin.city/nyc/
+URL:https://www.spectacletheater.com/gianvito/
+END:VEVENT
+END:VCALENDAR

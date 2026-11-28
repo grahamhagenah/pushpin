@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5e2f0a5efa3d38c69c886e89aeab715973181bd3@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261129T030000Z
+DTEND:20261129T050000Z
+SUMMARY:Club d’Elf feat Rob Compa\, Vicente Lebron Late Show
+LOCATION:Lizard Lounge\, 1667 Massachusetts Ave\, Cambridge\, MA 02138
+DESCRIPTION:https://lizardloungeclub.com/event/club-delf-feat-rob-compa-vic
+ ente-lebron-late-show/
+URL:https://lizardloungeclub.com/event/club-delf-feat-rob-compa-vicente-leb
+ ron-late-show/
+END:VEVENT
+END:VCALENDAR

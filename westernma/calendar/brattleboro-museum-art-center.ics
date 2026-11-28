@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Brattleboro Museum & Art Center
+X-WR-CALDESC:What’s coming up at Brattleboro Museum & Art Center\, from P
+ ushpin Western Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:e24aafa4d457defed13f359964204c12aedc9024@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T220000Z
+DTEND:20261205T000000Z
+SUMMARY:Gallery Walk at the Museum
+LOCATION:Brattleboro Museum & Art Center\, 10 Vernon St\, Brattleboro\, VT 
+ 05301
+DESCRIPTION:It’s the holiday season: Main Street is all lit up\, the Fest
+ ival of Miniatures is in full swing\, Brattleboro’s fantastic retailers 
+ are ready to meet all your holiday shopping needs\, and we’re staying op
+ en late!\nhttps://www.brattleboromuseum.org/event/gallery-walk-at-the-muse
+ um/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.brattleboromuseum.org/event/gallery-walk-at-the-museum/
+END:VEVENT
+BEGIN:VEVENT
+UID:6dfcd8a5f3475ca63cb0a8a3859767011da1e096@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T223000Z
+DTEND:20261210T003000Z
+SUMMARY:Art Talk: Amy Beecher on Glotech Cantata
+LOCATION:Brattleboro Museum & Art Center\, 10 Vernon St\, Brattleboro\, VT 
+ 05301
+DESCRIPTION:Amy Beecher discusses Glotech Cantata—a performance of moveme
+ nt\, sound\, and still images that interprets the dance between women and 
+ influencer marketing. Taking the Glotech LED facial mask as its motif\, th
+ e work meditates upon our era of aspirational social media\, where women a
+ re both the authors and the objects of images. This site-responsive perfor
+ mance uses “paintings”—large printed panels of still lifes\, masks\,
+  and color abstractions—as both props and a movable set that frame\, con
+ ceal\, and cast color onto dancers\, who pit improvised movements against 
+ stylized gestures and words.\nhttps://www.brattleboromuseum.org/event/art-
+ talk-amy-beecher-on-glotech-cantata/\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.brattleboromuseum.org/event/art-talk-amy-beecher-on-glotech
+ -cantata/
+END:VEVENT
+BEGIN:VEVENT
+UID:791f3e636994d6238418e25c7d8a6fc1a5715368@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T170000Z
+DTEND:20261213T190000Z
+SUMMARY:Glotech Cantata: A Performance of Images
+LOCATION:Brattleboro Museum & Art Center\, 10 Vernon St\, Brattleboro\, VT 
+ 05301
+DESCRIPTION:Glotech Cantata is an afternoon of movement\, sound\, and still
+  images that interprets the dance between women and influencer marketing. 
+ Taking the Glotech LED facial mask as its motif\, the work meditates upon 
+ our era of aspirational social media\, where women are both the authors an
+ d the objects of images. This site-responsive performance uses “painting
+ s”—large printed panels of still lifes\, masks\, and color abstraction
+ s—as both props and a movable set that frame\, conceal\, and cast color 
+ onto dancers\, who pit improvised movements against stylized gestures and 
+ words.\nhttps://www.brattleboromuseum.org/event/glotech-cantata-a-performa
+ nce-of-images/\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.brattleboromuseum.org/event/glotech-cantata-a-performance-o
+ f-images/
+END:VEVENT
+BEGIN:VEVENT
+UID:d4371e41ef1f91d55a33c4319c3eb660d1e9aa91@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Symposium: Immigrant Artists in Vermont
+LOCATION:Brattleboro Museum & Art Center\, 10 Vernon St\, Brattleboro\, VT 
+ 05301
+DESCRIPTION:What has drawn immigrant artists to Vermont over the past two c
+ enturies? How has Vermont shaped their work\, and how have these artists\,
+  in turn\, shaped Vermont’s evolving cultural identity?\nhttps://www.bra
+ ttleboromuseum.org/event/symposium-immigrant-artists-in-vermont/\nFrom Pus
+ hpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.brattleboromuseum.org/event/symposium-immigrant-artists-in-
+ vermont/
+END:VEVENT
+BEGIN:VEVENT
+UID:1bab9adc50208dec6166e5845da6b0e5efca1197@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270220T223000Z
+DTEND:20270221T003000Z
+SUMMARY:Art Talk: Sara Jimenez & Sarah Freeman
+LOCATION:Brattleboro Museum & Art Center\, 10 Vernon St\, Brattleboro\, VT 
+ 05301
+DESCRIPTION:Artist Sara Jimenez and curator Sarah Freeman discuss Jimenez
+ ’s installation the story never stops beginning or ending\, exploring ho
+ w textiles\, ceramics\, and collaged imagery bring together personal memor
+ y and histories of American colonization in the Philippines. Through layer
+ ed landscapes and sculptural forms honoring Filipino women and non-binary 
+ individuals\, Jimenez creates a space for reflection on history\, remembra
+ nce\, and care.\nhttps://www.brattleboromuseum.org/event/art-talk-sara-jim
+ enez-sarah-freeman/\nFrom Pushpin Western Mass: https://pushpin.city/weste
+ rnma/
+URL:https://www.brattleboromuseum.org/event/art-talk-sara-jimenez-sarah-fre
+ eman/
+END:VEVENT
+END:VCALENDAR

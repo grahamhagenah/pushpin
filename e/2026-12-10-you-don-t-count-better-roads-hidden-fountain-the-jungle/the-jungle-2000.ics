@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1c88b2677ef864f935a565c444e3daa6ae1fff3c@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T010000Z
+DTEND:20261211T030000Z
+SUMMARY:You Don't Count\, Better Roads\, Hidden Fountain
+LOCATION:The Jungle\, 6 Sanborn Ct\, Somerville\, MA 02143
+DESCRIPTION:https://www.eventbrite.com/e/you-dont-count-better-roads-hidden
+ -fountain-tickets-2005321073312
+URL:https://www.eventbrite.com/e/you-dont-count-better-roads-hidden-fountai
+ n-tickets-2005321073312
+END:VEVENT
+END:VCALENDAR

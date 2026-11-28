@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f93772994087094db8da862662c21eb16e027f5e@pushpin.city
+DTSTAMP:20261226T000000Z
+DTSTART:20261226T160000Z
+DTEND:20261226T180000Z
+SUMMARY:It's a Wonderful Life
+LOCATION:Nitehawk Williamsburg\, 136 Metropolitan Ave\, Brooklyn\, NY 11249
+DESCRIPTION:https://nitehawkcinema.com/williamsburg/movies/its-a-wonderful-
+ life/
+URL:https://nitehawkcinema.com/williamsburg/movies/its-a-wonderful-life/
+END:VEVENT
+END:VCALENDAR

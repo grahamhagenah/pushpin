@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Latchis Theatre
+X-WR-CALDESC:What’s coming up at Latchis Theatre\, from Pushpin Western M
+ ass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:2020c3d4e6b1e02fc02ba9d40f2711a4bf0c446e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:Joel Veena: Ragas & Sagas
+LOCATION:Latchis Theatre\, 50 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:Original and traditional music played on the Indian slide guita
+ r alongside dynamic storytelling\; fascinating tales from the lore of Hind
+ ustani music. Accompanied by Yousuf Kerai on tabla. An immersive performan
+ ce experience in which the rich atmosphere of traditional ragas is woven i
+ nto deftly told stories\; guiding and uplifting the imagination of the aud
+ ience while celebrating and continuing the rich tradition of Hindustani cl
+ assical music.\nhttps://latchis.com/event/joel-veena-ragas-sagas/\nFrom Pu
+ shpin Western Mass: https://pushpin.city/westernma/
+URL:https://latchis.com/event/joel-veena-ragas-sagas/
+END:VEVENT
+END:VCALENDAR

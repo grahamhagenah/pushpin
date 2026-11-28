@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f717f383f6d8f243cfd47dbeb31f778045911f8a@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:THE GREAT SILENCE (1968) + Paper Jays
+LOCATION:Epsilon Spires\, 190 Main St\, Brattleboro\, VT 05301
+DESCRIPTION:https://www.epsilonspires.org/event-info/the-great-silence-1968
+ -paper-jays
+URL:https://www.epsilonspires.org/event-info/the-great-silence-1968-paper-j
+ ays
+END:VEVENT
+END:VCALENDAR

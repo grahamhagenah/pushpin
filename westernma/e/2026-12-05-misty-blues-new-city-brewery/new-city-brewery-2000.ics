@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0a98c8c212acf6c4bbd4dd883a2565341ef8afaf@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Misty Blues
+LOCATION:New City Brewery\, 180 Pleasant St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.newcitybrewery.com/events-1/misty-blues
+URL:https://www.newcitybrewery.com/events-1/misty-blues
+END:VEVENT
+END:VCALENDAR

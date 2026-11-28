@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a496192020b441f796f9bba7a0b20dc137895fae@pushpin.city
+DTSTAMP:20270221T000000Z
+DTSTART:20270222T000000Z
+DTEND:20270222T020000Z
+SUMMARY:Swan Lake
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:https://www.symphonyhallspringfield.com/events/detail/swan-lake
+ -1
+URL:https://www.symphonyhallspringfield.com/events/detail/swan-lake-1
+END:VEVENT
+END:VCALENDAR

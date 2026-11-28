@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dc5ec2f3f2a91b8495ddddd16a522943a92ad032@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261219T203000Z
+DTEND:20261219T223000Z
+SUMMARY:Art Cinema for Tots: Tales from the Forest
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005138-art-cinema-for-tots-tale
+ s-from-the-forest/
+URL:https://metrograph.com/film/9999005138-art-cinema-for-tots-tales-from-t
+ he-forest/
+END:VEVENT
+END:VCALENDAR

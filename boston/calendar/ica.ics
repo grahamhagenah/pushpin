@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · ICA
+X-WR-CALDESC:What’s coming up at ICA\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:f8f0d6eee84ce4ec6a16170c0ab3c1aecfab5912@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T230000Z
+DTEND:20261205T010000Z
+SUMMARY:First Fridays: Made with Love
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:`Tis the season to celebrate local art and artists! Enjoy live 
+ performances and installations by the innovative artists recognized by WBU
+ R’s annual series\, “The Makers.” And get inspired by our 90 YEARS e
+ xhibition upstairs in the galleries!\nhttps://www.icaboston.org/events/fir
+ st-friday-made-with-love/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/first-friday-made-with-love/
+END:VEVENT
+BEGIN:VEVENT
+UID:c0478f1657fd0ec78e1fe06fabbacf6159cf96df@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T180000Z
+DTEND:20261205T200000Z
+SUMMARY:90 YEARS Exhibition Tour
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Engage with nine decades of ICA history during a guided tour of
+  90 YEARS. Led by a Graduate Student Lecturer\, deepen your understanding 
+ of exhibition artists and themes through guided close looking and discussi
+ on.\nhttps://www.icaboston.org/events/90-years-exhibition-tour/\nFrom Push
+ pin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/90-years-exhibition-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:b2e47d7d5bc20521ad2c229ff4a5a64d7bce01e9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:The Inevitable Return: Exploding Plastic Revisited
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:On October 29\, 1966\, the ICA/Boston hosted a groundbreaking m
+ ultimedia performance by Andy Warhol and the Velvet Underground under the 
+ enigmatic title “Exploding Plastic Inevitable.” Presented as part of W
+ arhol’s second-ever museum exhibition\, the event invited audiences to e
+ xperience a cacophony of durational light and sound activations\, meant to
+  challenge any expectations of instant pleasure or gratification. The Velv
+ et Underground had become well-known for their dark\, minimalist\, and occ
+ asionally abrasive sound. Among Warhol’s goals for the piece were to exp
+ lore the capacity to bestow renewed interest upon details that are often s
+ ubmerged in the normative\, evenly lit flow of time. In addition to live m
+ usic\, the night consisted of film projections\, a variety of strobe and s
+ potlights\, and choreographed dance\, to create a singular\, and confronta
+ tional\, total-art experience.\nhttps://www.icaboston.org/events/the-inevi
+ table-return-exploding-plastic-revisited/\nFrom Pushpin Boston: https://pu
+ shpin.city/
+URL:https://www.icaboston.org/events/the-inevitable-return-exploding-plasti
+ c-revisited/
+END:VEVENT
+BEGIN:VEVENT
+UID:252016abe9f5861ef14dafcfa8278a7241c5816c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T170000Z
+DTEND:20261213T190000Z
+SUMMARY:“Feel no guilt in your desire:” 90 YEARS Short Film Program
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Drop in for a looping series of short films in conjunction with
+  90 YEARS. Each of the following films were presented at the ICA during th
+ e 1980s\, a dynamic period for video art in Boston and beyond.\nhttps://ww
+ w.icaboston.org/events/90-years-short-film-program/\nFrom Pushpin Boston: 
+ https://pushpin.city/
+URL:https://www.icaboston.org/events/90-years-short-film-program/
+END:VEVENT
+BEGIN:VEVENT
+UID:87a5d8cd14ae81be5b1a99733b96b093ab7069d6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T190000Z
+DTEND:20261213T210000Z
+SUMMARY:Gallery Talk: Ruth Erickson on Leilah Babirye: Embaga ya Naki ne Na
+ ki (Wedding of Naki and Naki)
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:You’re invited to Leilah Babirye: Embaga ya Naki ne Naki (Wed
+ ding of Naki and Naki)!\nhttps://www.icaboston.org/events/gallery-talk-rut
+ h-erickson-on-leilah-babirye-embaga-ya-naki-ne-naki-wedding-of-naki-and-na
+ ki/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/gallery-talk-ruth-erickson-on-leilah-b
+ abirye-embaga-ya-naki-ne-naki-wedding-of-naki-and-naki/
+END:VEVENT
+BEGIN:VEVENT
+UID:b6c72881d1e418f9edb8909ccf475f5dd6328ff9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T000000Z
+DTEND:20261218T020000Z
+SUMMARY:Sundance Film Festival Shorts
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:The 2026 Sundance Film Festival Short Film Tour is a curated co
+ llection of six standout short films from this year’s Festival\, includi
+ ng three Festival Award-winning titles. This 99-minute program offers a mi
+ x of stories that highlight bold perspectives and next-gen storytellers.\n
+ https://www.icaboston.org/events/sundance-film-festival-shorts-2026/\nFrom
+  Pushpin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/sundance-film-festival-shorts-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:6045e6938be042385d9cc85c96591794455e5491@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Gallery Talk: Cynthia Daignault with Jeffrey De Blois on Cynthia Da
+ ignault: Valley
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Join exhibiting artist Cynthia Daignault and Mannion Family Cur
+ ator\, Jeff De Blois\, for a conversation exploring Cynthia Daignault: Val
+ ley. Learn from the artist about her process of “long-form painting” a
+ nd the undertaking of creating a painting a day for this monumental 96 pan
+ el installation.\nhttps://www.icaboston.org/events/gallery-talk-cynthia-da
+ ignault-with-jeffrey-de-blois/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/gallery-talk-cynthia-daignault-with-je
+ ffrey-de-blois/
+END:VEVENT
+BEGIN:VEVENT
+UID:bd7bbee85d1992689de925b74b5caf325009f457@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Andrew Schneider: NOWISWHENWEARE (the stars)
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:Every point in space occurs once at each moment in time.\nhttps
+ ://www.icaboston.org/events/andrew-schneider-nowiswhenweare-the-stars/\nFr
+ om Pushpin Boston: https://pushpin.city/
+URL:https://www.icaboston.org/events/andrew-schneider-nowiswhenweare-the-st
+ ars/
+END:VEVENT
+BEGIN:VEVENT
+UID:e7976c9df736d31cfa463b35353d256009106e25@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Ogemdi Ude: MAJOR
+LOCATION:ICA\, 25 Harbor Shore Dr\, Boston\, MA 02210
+DESCRIPTION:MAJOR is a dance theater project exploring the physicality\, hi
+ story\, sociopolitics\, and interiority of majorette dance\, a form that o
+ riginated in the American South within Historically Black Colleges and Uni
+ versities in the 1960s. These Black femme teams accompanied by marching ba
+ nds created a movement style that requires master showmanship with allegia
+ nce to count\, undulation\, groove\, and sensual yet strong performativity
+ .\nhttps://www.icaboston.org/events/ogemdi-ude-major/\nFrom Pushpin Boston
+ : https://pushpin.city/
+URL:https://www.icaboston.org/events/ogemdi-ude-major/
+END:VEVENT
+END:VCALENDAR

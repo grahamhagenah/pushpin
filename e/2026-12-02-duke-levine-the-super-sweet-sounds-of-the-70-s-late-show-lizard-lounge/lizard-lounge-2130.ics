@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6901538d334aab65abbda24f098cafb93626f892@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261203T023000Z
+DTEND:20261203T043000Z
+SUMMARY:Duke Levine & The Super Sweet Sounds Of The 70’s-Late Show
+LOCATION:Lizard Lounge\, 1667 Massachusetts Ave\, Cambridge\, MA 02138
+DESCRIPTION:https://lizardloungeclub.com/event/duke-levine-the-super-sweet-
+ sounds-of-the-70s-late-show-2/
+URL:https://lizardloungeclub.com/event/duke-levine-the-super-sweet-sounds-o
+ f-the-70s-late-show-2/
+END:VEVENT
+END:VCALENDAR

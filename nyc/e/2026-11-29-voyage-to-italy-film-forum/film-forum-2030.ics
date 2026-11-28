@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:352a613320a472ad9a01a2445a5aadecea356ec0@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261130T013000Z
+DTEND:20261130T033000Z
+SUMMARY:Voyage to Italy
+LOCATION:Film Forum\, 209 W Houston St\, New York\, NY 10014
+DESCRIPTION:https://filmforum.org/film/voyage-to-italy-rossellini-120
+URL:https://filmforum.org/film/voyage-to-italy-rossellini-120
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3f228ee993525b18e78e0ac3f505efe0008f41c5@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261209T223000Z
+DTEND:20261210T003000Z
+SUMMARY:Art Talk: Amy Beecher on Glotech Cantata
+LOCATION:Brattleboro Museum & Art Center\, 10 Vernon St\, Brattleboro\, VT 
+ 05301
+DESCRIPTION:https://www.brattleboromuseum.org/event/art-talk-amy-beecher-on
+ -glotech-cantata/
+URL:https://www.brattleboromuseum.org/event/art-talk-amy-beecher-on-glotech
+ -cantata/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d86f10909d235b19f5a837179c660e42921fdc88@pushpin.city
+DTSTAMP:20261213T000000Z
+DTSTART:20261213T200000Z
+DTEND:20261213T220000Z
+SUMMARY:Forever Simon & Garfunkel: Holiday Harmonies
+LOCATION:Next Stage Arts\, 15 Kimball Hill\, Putney\, VT 05346
+DESCRIPTION:https://tickets.venuepilot.com/e/forever-simon-garfunkel-holida
+ y-harmonies-2026-12-13-next-stage-arts-putney-2326ee
+URL:https://tickets.venuepilot.com/e/forever-simon-garfunkel-holiday-harmon
+ ies-2026-12-13-next-stage-arts-putney-2326ee
+END:VEVENT
+END:VCALENDAR

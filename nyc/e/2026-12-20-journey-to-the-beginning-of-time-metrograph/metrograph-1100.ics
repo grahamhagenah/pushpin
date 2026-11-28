@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:702b8c99c5d2b2b75c959318bd5fc011b9cbc678@pushpin.city
+DTSTAMP:20261220T000000Z
+DTSTART:20261220T160000Z
+DTEND:20261220T180000Z
+SUMMARY:Journey to the Beginning of Time
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005145-journey-to-the-beginning
+ -of-time/
+URL:https://metrograph.com/film/9999005145-journey-to-the-beginning-of-time
+ /
+END:VEVENT
+END:VCALENDAR

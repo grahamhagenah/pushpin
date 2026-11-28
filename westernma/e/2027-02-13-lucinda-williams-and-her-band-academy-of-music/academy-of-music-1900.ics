@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0a14618ddda04446f612bbbc5af5d2e26ecf966a@pushpin.city
+DTSTAMP:20270213T000000Z
+DTSTART:20270214T000000Z
+DTEND:20270214T020000Z
+SUMMARY:Lucinda Williams and Her Band
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/lucinda-williams-and-her-band/
+URL:https://aomtheatre.com/aom_event/lucinda-williams-and-her-band/
+END:VEVENT
+END:VCALENDAR

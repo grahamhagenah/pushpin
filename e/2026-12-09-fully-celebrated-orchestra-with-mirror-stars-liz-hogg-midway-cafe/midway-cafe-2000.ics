@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:27c2a8f6f7279749df77f595b41cb153fb28eebf@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261210T010000Z
+DTEND:20261210T030000Z
+SUMMARY:Fully Celebrated Orchestra with Mirror Stars + Liz Hogg
+LOCATION:Midway Cafe\, 3496 Washington St\, Boston\, MA 02130
+DESCRIPTION:https://tockify.com/midwaycafejp/detail/384/1796864400000
+URL:https://tockify.com/midwaycafejp/detail/384/1796864400000
+END:VEVENT
+END:VCALENDAR

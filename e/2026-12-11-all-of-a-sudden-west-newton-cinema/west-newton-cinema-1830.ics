@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a34ede93ea2d603c75ff16f9681422ae6cf11c71@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261211T233000Z
+DTEND:20261212T013000Z
+SUMMARY:All of a Sudden
+LOCATION:West Newton Cinema\, 1296 Washington St\, Newton\, MA 02465
+DESCRIPTION:https://www.westnewtoncinema.com/movie/all-of-a-sudden
+URL:https://www.westnewtoncinema.com/movie/all-of-a-sudden
+END:VEVENT
+END:VCALENDAR

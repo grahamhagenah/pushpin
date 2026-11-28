@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a6b99dd8ef7e1fc8e24ba52a4a2d2f8304fe1d3b@pushpin.city
+DTSTAMP:20261202T000000Z
+DTSTART:20261202T230000Z
+DTEND:20261203T010000Z
+SUMMARY:Brian O’Donovan Legacy Series: An Irish Christmas with JOHN DOYLE
+ \, CATHIE RYAN & MICK MCAULEY
+LOCATION:The Burren\, 247 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://tickets.24hourmusic.com/eventperformances.asp?evt=1926
+URL:https://tickets.24hourmusic.com/eventperformances.asp?evt=1926
+END:VEVENT
+END:VCALENDAR

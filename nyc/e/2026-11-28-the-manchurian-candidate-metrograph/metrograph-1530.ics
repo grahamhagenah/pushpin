@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:04159f0b67d7699252460a36adfbc12ea8015579@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261128T203000Z
+DTEND:20261128T223000Z
+SUMMARY:The Manchurian Candidate
+LOCATION:Metrograph\, 7 Ludlow St\, New York\, NY 10002
+DESCRIPTION:https://metrograph.com/film/9999005105-the-manchurian-candidate
+ /
+URL:https://metrograph.com/film/9999005105-the-manchurian-candidate/
+END:VEVENT
+END:VCALENDAR

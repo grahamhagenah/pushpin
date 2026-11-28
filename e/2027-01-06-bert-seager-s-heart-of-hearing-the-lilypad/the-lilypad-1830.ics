@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c39182df7c77c69ca974add0015d9d927ac63976@pushpin.city
+DTSTAMP:20270106T000000Z
+DTSTART:20270106T233000Z
+DTEND:20270107T013000Z
+SUMMARY:Bert Seager's Heart of Hearing
+LOCATION:The Lilypad\, 1353 Cambridge St\, Cambridge\, MA 02139
+DESCRIPTION:https://www.lilypadinman.com/home/2026/bert-seagers-heart-of-he
+ aring-8fawb-agw9f-5m54c-8fejp-lknk7
+URL:https://www.lilypadinman.com/home/2026/bert-seagers-heart-of-hearing-8f
+ awb-agw9f-5m54c-8fejp-lknk7
+END:VEVENT
+END:VCALENDAR

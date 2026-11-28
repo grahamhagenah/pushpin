@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ee79f02f93243096e2add7afaace7182a459e5@pushpin.city
+DTSTAMP:20261205T000000Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:Provenance / Discord / Your Arms Are My Legs
+LOCATION:The Heavy Culture\, 1 Northampton St\, Easthampton\, MA 01027
+DESCRIPTION:https://www.theheavyculture.coop/event-details-registration/pro
+ venance-discord-your-arms-are-my-legs
+URL:https://www.theheavyculture.coop/event-details-registration/provenance-
+ discord-your-arms-are-my-legs
+END:VEVENT
+END:VCALENDAR

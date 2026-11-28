@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6120cc16c34c86b39a70e3fc8d74400da2520a5c@pushpin.city
+DTSTAMP:20270114T000000Z
+DTSTART:20270115T003000Z
+DTEND:20270115T023000Z
+SUMMARY:Gretchen Parlato
+LOCATION:The Platform\, 315 Kendall St\, Cambridge\, MA 02142
+DESCRIPTION:https://www.theplatformkendall.org/productions/gretchen-parlato
+ /
+URL:https://www.theplatformkendall.org/productions/gretchen-parlato/
+END:VEVENT
+END:VCALENDAR

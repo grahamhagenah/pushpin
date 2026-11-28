@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4ae846e85fc0a23d398c702181cb84ec08f2cf03@pushpin.city
+DTSTAMP:20270214T000000Z
+DTSTART:20270214T190000Z
+DTEND:20270214T210000Z
+SUMMARY:Silver Chord Bowl
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/silver-chord-bowl/
+URL:https://aomtheatre.com/aom_event/silver-chord-bowl/
+END:VEVENT
+END:VCALENDAR

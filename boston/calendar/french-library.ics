@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · French Library
+X-WR-CALDESC:What’s coming up at French Library\, from Pushpin Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:801c80acb556e5294395f94911ee52a65ee2ff5e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T223000Z
+DTEND:20261210T003000Z
+SUMMARY:Casse-Noisette: A Holiday Tale in Music
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:The Arpeggione Ensemble presents a magical mini Nutcracker: Tch
+ aikovsky's music paired with French narration and illustrations from Dumas
+ 's Histoire d'un casse-noisette.\nhttps://frenchlibrary.org/events/french_
+ nutcracker-2026/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://frenchlibrary.org/events/french_nutcracker-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:630e7d0a5ed23a40d802ff65030052a6520ebd93@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261215T230000Z
+DTEND:20261216T010000Z
+SUMMARY:Ciné-Club: The Innocent by Louis Garrel
+LOCATION:French Library\, 53 Marlborough St\, Boston\, MA 02116
+DESCRIPTION:Part crime thriller\, part romantic comedy\, Louis Garrel’s T
+ he Innocent shows the dangerous and outlandish lengths two men go to for t
+ he women they love.\nhttps://frenchlibrary.org/events/the-innocent-decembe
+ r-2026/\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://frenchlibrary.org/events/the-innocent-december-2026/
+END:VEVENT
+END:VCALENDAR

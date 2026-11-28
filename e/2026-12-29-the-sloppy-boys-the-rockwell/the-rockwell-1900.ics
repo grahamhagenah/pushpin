@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:716c3581f6f0127d336133cc4de560c3905d0384@pushpin.city
+DTSTAMP:20261229T000000Z
+DTSTART:20261230T000000Z
+DTEND:20261230T020000Z
+SUMMARY:The Sloppy Boys
+LOCATION:The Rockwell\, 255 Elm St\, Somerville\, MA 02144
+DESCRIPTION:https://therockwell.org/calendar/the-sloppy-boys/
+URL:https://therockwell.org/calendar/the-sloppy-boys/
+END:VEVENT
+END:VCALENDAR

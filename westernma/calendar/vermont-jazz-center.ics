@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Vermont Jazz Center
+X-WR-CALDESC:What’s coming up at Vermont Jazz Center\, from Pushpin Weste
+ rn Mass.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:a193d1495768183044fd346bcf2655e3809bc9f7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:VJC Big Band Celebrates its 22nd Year w/ Vocalist Charenée Wade
+LOCATION:Vermont Jazz Center\, 72 Cotton Mill Hill\, Brattleboro\, VT 05301
+DESCRIPTION:A gala dance to support the VJC’s Scholarship Fund!\nhttps://
+ vtjazz.org/calendar/big-band-charenee-wade/\nFrom Pushpin Western Mass: ht
+ tps://pushpin.city/westernma/
+URL:https://vtjazz.org/calendar/big-band-charenee-wade/
+END:VEVENT
+BEGIN:VEVENT
+UID:4b4d0b8a2b190c0375bc6ffd43c61436e3dad9d6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T170000Z
+DTEND:20261205T190000Z
+SUMMARY:2026 Fall Semester Student Showcase
+LOCATION:Vermont Jazz Center\, 72 Cotton Mill Hill\, Brattleboro\, VT 05301
+DESCRIPTION:The Vermont Jazz Center (VJC) invites the community to celebrat
+ e the culmination of its fall semester at the Student Showcase on Saturday
+ \, December 5\, from 12:00 PM (noon) to 5:00 PM. Over the course of the af
+ ternoon\, ten ensembles will share the results of three months of study\, 
+ rehearsal\, and collaboration. Listeners can expect a mix of jazz standard
+ s\, Latin jazz\, samba percussion\, vocal harmonies\, improvisational fora
+ ys and spirited tunes from the Blue Note era.\nhttps://vtjazz.org/calendar
+ /2026-fall-semester-student-showcase/\nFrom Pushpin Western Mass: https://
+ pushpin.city/westernma/
+URL:https://vtjazz.org/calendar/2026-fall-semester-student-showcase/
+END:VEVENT
+BEGIN:VEVENT
+UID:06d29d2b3b671718196700e53d47ff4d86b79522@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270117T003000Z
+DTEND:20270117T023000Z
+SUMMARY:David Sánchez
+LOCATION:Vermont Jazz Center\, 72 Cotton Mill Hill\, Brattleboro\, VT 05301
+DESCRIPTION:Grammy Award-winning saxophonist David Sanchez is widely recogn
+ ized as one of the most distinguished saxophonists of his generation. Reno
+ wned for his unmistakable sound and remarkable command of the instrument\,
+  Sánchez brings together a deep understanding on jazz and Latin music wit
+ h the rich traditions that shaped both genres. The result is a distinctive
+  and compelling musical voice.\nhttps://vtjazz.org/calendar/david-sanchez/
+ \nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://vtjazz.org/calendar/david-sanchez/
+END:VEVENT
+BEGIN:VEVENT
+UID:640c6a999b673da3321e84b358850a67d27d9490@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270214T003000Z
+DTEND:20270214T023000Z
+SUMMARY:Joe Lovano Joyous Encounter Quartet
+LOCATION:Vermont Jazz Center\, 72 Cotton Mill Hill\, Brattleboro\, VT 05301
+DESCRIPTION:Grammy-winning saxophonist\, composer and producer Joe Lovano i
+ s fearless in finding new modes of artistic expression. With a Grammy Win 
+ for his 52nd Street Themes and 14 other nominations\, he has won DownBeat 
+ Magazine’s Critics and Readers Polls countless times as Tenor Saxophonis
+ t\, Musician of the Year\, Jazz Album of the Year and Triple Crowns from D
+ ownBeat. He has also received numerous awards from Jazz Times and the Jazz
+  Journalists Association for Tenor Saxophone\, Album of the Year and Music
+ ian of the Year.\nhttps://vtjazz.org/calendar/joe-lovano/\nFrom Pushpin We
+ stern Mass: https://pushpin.city/westernma/
+URL:https://vtjazz.org/calendar/joe-lovano/
+END:VEVENT
+END:VCALENDAR

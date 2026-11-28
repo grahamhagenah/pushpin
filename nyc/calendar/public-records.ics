@@ -1,0 +1,350 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin NYC · Public Records
+X-WR-CALDESC:What’s coming up at Public Records\, from Pushpin NYC.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:a85281e8d403c50fb342fa193797b5b08540d2c5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T040000Z
+DTEND:20261129T060000Z
+SUMMARY:Cinthie\, Amir Alexander / Snad\, Jenifa Mayanja / Edan
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6ac52f948b59950001c96544\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ac52f948b59950001c96544
+END:VEVENT
+BEGIN:VEVENT
+UID:78b68accc64734cd23842a286cc518f90bb0a272@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T210000Z
+DTEND:20261129T230000Z
+SUMMARY:The Atrium: Eli Escobar\, Jen Cardini
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6ac5338e9041160001159bd1\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ac5338e9041160001159bd1
+END:VEVENT
+BEGIN:VEVENT
+UID:45950aaf23394399a88f66a5546457fa57b6bf5b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Shane Butler - 'Heavy Debt' Record Release\, Silk Fence\, Strugglin
+ '
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6ac51193642c44000187a88a\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ac51193642c44000187a88a
+END:VEVENT
+BEGIN:VEVENT
+UID:d3238fcbb1a1931444b141817206f3a6d45051c9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261204T033000Z
+DTEND:20261204T053000Z
+SUMMARY:FACETIME: Victor Calderone [Techno Set]\, Eric Umble
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6aed0dfe1f4ae30001fce349\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aed0dfe1f4ae30001fce349
+END:VEVENT
+BEGIN:VEVENT
+UID:3c1827913fffe7114ea7ef363d6ad3c68958337c@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T040000Z
+DTEND:20261205T060000Z
+SUMMARY:GiGi FM\, Mui Mui / Markus Suckut\, Julia Govor / e-Lite
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6aed0f6e63da270001705bf7\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aed0f6e63da270001705bf7
+END:VEVENT
+BEGIN:VEVENT
+UID:bcd532c3ff226cec74e4b878cdf0786dbef14df5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T230000Z
+DTEND:20261206T010000Z
+SUMMARY:Lizzie Steiner - 'Reluctant Princess' Album Release\, Conversation\
+ , + Performance
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6ae0df0e76d4260001124ef6\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ae0df0e76d4260001124ef6
+END:VEVENT
+BEGIN:VEVENT
+UID:7d13e282a249c932cfbbfa1e86155a4adb4faf6b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:Genevieve Artadi ft. Louis Cole & Chiquita Magic
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6a74d8970eca9000014b5325\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a74d8970eca9000014b5325
+END:VEVENT
+BEGIN:VEVENT
+UID:f2a6181d299d62459dfe72a27c411b23ed70fdc9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T040000Z
+DTEND:20261206T060000Z
+SUMMARY:Timmy Regisford\, Lovie / GE-OLOGY
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6aed1037bc599a00012b5461\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aed1037bc599a00012b5461
+END:VEVENT
+BEGIN:VEVENT
+UID:cc929533830c5916f412d1442022c5545ea04458@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261206T210000Z
+DTEND:20261206T230000Z
+SUMMARY:Diva Diva: Jeffrey Sfire & Scotia\, Love Letters\, performance by K
+ andi Milk
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6aed117745019d0001748f65\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aed117745019d0001748f65
+END:VEVENT
+BEGIN:VEVENT
+UID:7770facc670414cafcb20143574fb5b60c8d31c0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261207T000000Z
+DTEND:20261207T020000Z
+SUMMARY:World Music Institute presents Laura Itandehui
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6a219a6f92e46b0001dcdf68\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a219a6f92e46b0001dcdf68
+END:VEVENT
+BEGIN:VEVENT
+UID:301bff5d1f5c180d1a4a001e41fc4d93a951b194@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261209T000000Z
+DTEND:20261209T020000Z
+SUMMARY:Maeta
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6af7796643605700018c7966\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af7796643605700018c7966
+END:VEVENT
+BEGIN:VEVENT
+UID:29695e3475d5596d00a8d499591e24aeedf36725@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Advance Base\, Karima Walker\, bobbie
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6aa1dc42049dd200011f3439\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aa1dc42049dd200011f3439
+END:VEVENT
+BEGIN:VEVENT
+UID:0a0178783e1b67a37a4ca7d1ba98bac046d91911@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:International Anthem presents Josh Johnson - ANIMATIVE with Anna Bu
+ tterss & Ben Lumsdaine
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6aa031c847090600015aa862\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aa031c847090600015aa862
+END:VEVENT
+BEGIN:VEVENT
+UID:eed92320c4fe99e565db98de39c04134d42bdd71@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:iiisa - ‘tanto te he querido’ Album Release with Efraín Rozas\
+ , MIRA MIRA
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6ace601e58973b0001aed249\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ace601e58973b0001aed249
+END:VEVENT
+BEGIN:VEVENT
+UID:5c174ee75983d5003da4188da2a6b9c9200f9ffe@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T040000Z
+DTEND:20261212T060000Z
+SUMMARY:Byron the Aquarius\, Marco Weibel / Jadon\, Infinite Jess / Zotos
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6aed128c9180b800017015a0\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aed128c9180b800017015a0
+END:VEVENT
+BEGIN:VEVENT
+UID:f54463733c0b280a70894c568715599894e091f0@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Magic Tuber Stringband\, Old Saw
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6a9f41c7204dde0001257f9c\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a9f41c7204dde0001257f9c
+END:VEVENT
+BEGIN:VEVENT
+UID:ec99cdd1a82951609b2453cf0b1933374b7869be@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T040000Z
+DTEND:20261213T060000Z
+SUMMARY:Moxie\, Shanti Celeste / Frank & Tony / A lana
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6aed13b21f4ae300010d9028\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aed13b21f4ae300010d9028
+END:VEVENT
+BEGIN:VEVENT
+UID:fcf70041da24bf1689bc71312193466dd2137139@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T210000Z
+DTEND:20261213T230000Z
+SUMMARY:LayeRhythm presents Triple Thread
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6ae10a397a04100001a5b749\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ae10a397a04100001a5b749
+END:VEVENT
+BEGIN:VEVENT
+UID:52e651645f7c40b934d8746d8d5a83319229834b@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261216T000000Z
+DTEND:20261216T020000Z
+SUMMARY:Femme Jam presents FEMME FEST
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6af8cecacf06d60001a102b5\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af8cecacf06d60001a102b5
+END:VEVENT
+BEGIN:VEVENT
+UID:cbe60400be678383ad59b4d8c2d7b190097c07a4@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T000000Z
+DTEND:20261218T020000Z
+SUMMARY:Trace Mountains\, Mallory Hawk\, The Big Net
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6ace63bb2f9e660001cbd03b\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6ace63bb2f9e660001cbd03b
+END:VEVENT
+BEGIN:VEVENT
+UID:0e513d1055ff26d31a71371ea30ed88470d489be@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T033000Z
+DTEND:20261218T053000Z
+SUMMARY:Echo Chamber S1.E05: Sam Binga
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6af79b9e4b81730001bfec05\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af79b9e4b81730001bfec05
+END:VEVENT
+BEGIN:VEVENT
+UID:7023a387c1dd50d72d3bb84a97764bbfd1e6096a@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261218T233000Z
+DTEND:20261219T013000Z
+SUMMARY:Spencer Zahn and friends play Vince Guaraldi’s 'A Charlie Brown C
+ hristmas' [Early Show]
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6aea21458723ec000177c929\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aea21458723ec000177c929
+END:VEVENT
+BEGIN:VEVENT
+UID:378e7cc946f5692506fe58b8dd1aced580e4684e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T013000Z
+DTEND:20261219T033000Z
+SUMMARY:Spencer Zahn and friends play Vince Guaraldi’s 'A Charlie Brown C
+ hristmas' [Late Show]
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6af497237525ea0001d0c8e8\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6af497237525ea0001d0c8e8
+END:VEVENT
+BEGIN:VEVENT
+UID:a5bc975db564cfeafecca35d1333f8ea3d837701@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261219T040000Z
+DTEND:20261219T060000Z
+SUMMARY:Andy Martin\, Iggy Nuclear / Insolate / Mr. Murray
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6aed148d59b3330001abb925\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aed148d59b3330001abb925
+END:VEVENT
+BEGIN:VEVENT
+UID:9e000e4756add142dbe76c8358ad30d9cee63929@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T000000Z
+DTEND:20261220T020000Z
+SUMMARY:Dos Santos
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6a4f68fcd92026000147141f\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6a4f68fcd92026000147141f
+END:VEVENT
+BEGIN:VEVENT
+UID:2042c330662cdff7b4c2bb9c8bd46d88ed300901@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T040000Z
+DTEND:20261220T060000Z
+SUMMARY:Simone de Kunovich / CARISTA\, Rose Kourts / Justin Strauss
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6aed15c5bc599a0001bf5d83\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aed15c5bc599a0001bf5d83
+END:VEVENT
+BEGIN:VEVENT
+UID:f21f4b6da6b6e3828a5eebc86c6496695e32e5c5@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261220T200000Z
+DTEND:20261220T220000Z
+SUMMARY:Shelter: A Trip Down Memory Lane
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6aed172363da270001e15518\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aed172363da270001e15518
+END:VEVENT
+BEGIN:VEVENT
+UID:018e24f5b123553e36e362577f610275944a9c7d@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261227T040000Z
+DTEND:20261227T060000Z
+SUMMARY:Oscar Nñ\, Will Automagic & S4M23\, HONEY B & DJ Shannon / Soul Su
+ mmit / DJ Scribe
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6aed21ec81a9b700012e6e4f\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aed21ec81a9b700012e6e4f
+END:VEVENT
+BEGIN:VEVENT
+UID:2d8da58ce61d8a1426f56071a8e3f4184fbba5bd@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261227T210000Z
+DTEND:20261227T230000Z
+SUMMARY:The Atrium: Eli Escobar Open To Close
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6aed87a27e987b000186f6d4\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6aed87a27e987b000186f6d4
+END:VEVENT
+BEGIN:VEVENT
+UID:bfc57982bd57b919126156f9154816fb182efc87@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270101T020000Z
+DTEND:20270101T040000Z
+SUMMARY:NYE: Cinthie & Jeremy Sylvester\, Fred P\, Kim Ann Foxman\, Love In
+ jection\, Nabihah Iqbal [DJ]\, Niyah West\, Subb-an
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+DESCRIPTION:https://dice.fm/event/6afc92463c94510001a22670\nFrom Pushpin NY
+ C: https://pushpin.city/nyc/
+URL:https://dice.fm/event/6afc92463c94510001a22670
+END:VEVENT
+END:VCALENDAR

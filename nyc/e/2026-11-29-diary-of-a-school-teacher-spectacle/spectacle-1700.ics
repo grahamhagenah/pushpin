@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:60414913306e665fbd9f1aa8c2da8d2e58741e20@pushpin.city
+DTSTAMP:20261129T000000Z
+DTSTART:20261129T220000Z
+DTEND:20261130T000000Z
+SUMMARY:Diary of a School Teacher
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/diary-of-a-schoolteacher/
+URL:https://www.spectacletheater.com/diary-of-a-schoolteacher/
+END:VEVENT
+END:VCALENDAR

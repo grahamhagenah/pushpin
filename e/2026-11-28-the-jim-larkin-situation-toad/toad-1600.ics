@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f7aaa09ddbfeea06c970de74cabd8403ed12cc07@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:The Jim Larkin Situation
+LOCATION:Toad\, 1912 Massachusetts Ave\, Cambridge\, MA 02140
+DESCRIPTION:https://www.mccarthystoad.com/calendar
+URL:https://www.mccarthystoad.com/calendar
+END:VEVENT
+END:VCALENDAR

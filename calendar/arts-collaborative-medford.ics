@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Boston · Arts Collaborative Medford
+X-WR-CALDESC:What’s coming up at Arts Collaborative Medford\, from Pushpi
+ n Boston.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:471d666881f3ad1d44a1001be8d1756aae61a741@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:An Evening of Scottish Fiddle
+LOCATION:Arts Collaborative Medford\, 162 Mystic Ave\, Medford\, MA 02155
+DESCRIPTION:An Evening of Scottish Fiddle\; featuring Isabel Oliart & Kyra 
+ Davies with Eamon Sefton on guitar Tickets: $20 in advance\, $25 at door\,
+  $15 for seniors This concert is part of the Trad on the Mystic organized 
+ by Ellery Klein and hosted at Arts Collaborative Medford Isabel Oliart is 
+ a Boston-based fiddler spanning the the worlds of Classical and Celtic fid
+ dle music. She earned a BA from New England Conservatory in 2019\, and an 
+ MA in Violin Performance from Boston University in 2024\, where she also w
+ on the Bach Competition.\nhttps://artscollabmedford.org/eventscalendar#!ev
+ ent/2026/12/11/an-evening-of-scottish-fiddle\nFrom Pushpin Boston: https:/
+ /pushpin.city/
+URL:https://artscollabmedford.org/eventscalendar#!event/2026/12/11/an-eveni
+ ng-of-scottish-fiddle
+END:VEVENT
+BEGIN:VEVENT
+UID:b809939524843102726aea74078b115577103feb@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Blizzard of Blues
+LOCATION:Arts Collaborative Medford\, 162 Mystic Ave\, Medford\, MA 02155
+DESCRIPTION:https://artscollabmedford.org/eventscalendar#!event/2026/12/12/
+ blizzard-of-blues\nFrom Pushpin Boston: https://pushpin.city/
+URL:https://artscollabmedford.org/eventscalendar#!event/2026/12/12/blizzard
+ -of-blues
+END:VEVENT
+END:VCALENDAR

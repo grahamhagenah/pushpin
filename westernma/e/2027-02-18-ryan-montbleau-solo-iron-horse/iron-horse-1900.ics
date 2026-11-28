@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b853e072d5b675ffd2b2a69a490214e2687aa50f@pushpin.city
+DTSTAMP:20270218T000000Z
+DTSTART:20270219T000000Z
+DTEND:20270219T020000Z
+SUMMARY:Ryan Montbleau (Solo)
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000DBErNMAX
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0DBErNMAX
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b4bf588c7db6b6abd77f6f795c56aaaca29c4a38@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261211T193000Z
+DTEND:20261211T213000Z
+SUMMARY:The Polar Express
+LOCATION:Beacon Cinema\, 57 North St\, Pittsfield\, MA 01201
+DESCRIPTION:https://www.phoenixmovies.net/movies/the-polar-express/HO000001
+ 01
+URL:https://www.phoenixmovies.net/movies/the-polar-express/HO00000101
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e2aae83e49f3f3a37229e893ee293d84f8430c31@pushpin.city
+DTSTAMP:20261218T000000Z
+DTSTART:20261219T003000Z
+DTEND:20261219T023000Z
+SUMMARY:Gogol Dreams of Gogol Dreaming
+LOCATION:CitySpace\, 43 Main St\, Easthampton\, MA 01027
+DESCRIPTION:https://tickets.venuepilot.com/e/cityspace-presents-gogol-dream
+ s-of-gogol-dreaming-2026-12-18-cityspace-easthampton-398b09
+URL:https://tickets.venuepilot.com/e/cityspace-presents-gogol-dreams-of-gog
+ ol-dreaming-2026-12-18-cityspace-easthampton-398b09
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8538b7d9fb207a1f00cdd0e6e9d582800b8af50f@pushpin.city
+DTSTAMP:20270128T000000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Kyle Sanna: Everything Again Is New (Live Coding with Ensemble)
+LOCATION:National Sawdust\, 80 N 6th St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.nationalsawdust.org/event/kyle-sanna-everything-aga
+ in-is-new-live-coding-with-ensemble-1-28-2027
+URL:https://www.nationalsawdust.org/event/kyle-sanna-everything-again-is-ne
+ w-live-coding-with-ensemble-1-28-2027
+END:VEVENT
+END:VCALENDAR

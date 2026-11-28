@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:875f5550fc0e879bc1f8a055d516750f0bfa7eff@pushpin.city
+DTSTAMP:20261128T000000Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:Anime No Gogo
+LOCATION:Spectacle\, 124 S 3rd St\, Brooklyn\, NY 11249
+DESCRIPTION:https://www.spectacletheater.com/anime-no-gogo/
+URL:https://www.spectacletheater.com/anime-no-gogo/
+END:VEVENT
+END:VCALENDAR

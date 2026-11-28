@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:237121fca46c1fcfe06fff9916964aa324efd066@pushpin.city
+DTSTAMP:20270221T000000Z
+DTSTART:20270221T234500Z
+DTEND:20270222T014500Z
+SUMMARY:strongboi
+LOCATION:The Sinclair\, 52 Church St\, Cambridge\, MA 02138
+DESCRIPTION:https://www.sinclaircambridge.com/events/detail/1475858
+URL:https://www.sinclaircambridge.com/events/detail/1475858
+END:VEVENT
+END:VCALENDAR

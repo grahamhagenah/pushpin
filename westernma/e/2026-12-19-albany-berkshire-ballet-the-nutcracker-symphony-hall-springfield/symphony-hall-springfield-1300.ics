@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:44cc98f47f879d5deeb6468c221d4054bbaff765@pushpin.city
+DTSTAMP:20261219T000000Z
+DTSTART:20261219T180000Z
+DTEND:20261219T200000Z
+SUMMARY:Albany Berkshire Ballet - The Nutcracker
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:https://www.symphonyhallspringfield.com/events/detail/thenutcra
+ cker
+URL:https://www.symphonyhallspringfield.com/events/detail/thenutcracker
+END:VEVENT
+END:VCALENDAR

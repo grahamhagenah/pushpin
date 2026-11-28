@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:523ac5754857d54f7433381f5df9f3b1622c84d3@pushpin.city
+DTSTAMP:20261230T000000Z
+DTSTART:20261231T000000Z
+DTEND:20261231T020000Z
+SUMMARY:Bach at New Year's - A Joyful Noise
+LOCATION:Academy of Music\, 274 Main St\, Northampton\, MA 01060
+DESCRIPTION:https://aomtheatre.com/aom_event/bach-at-new-years-a-joyful-noi
+ se/
+URL:https://aomtheatre.com/aom_event/bach-at-new-years-a-joyful-noise/
+END:VEVENT
+END:VCALENDAR

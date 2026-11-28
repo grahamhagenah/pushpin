@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3c2ed27c90a8ba57ea766b22042a3bac5491bca2@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261210T230000Z
+DTEND:20261211T010000Z
+SUMMARY:Book Launch & Author Talk: Michelle A. Gabow & Kate Rushin
+LOCATION:Jamaica Plain Library\, 30 South Street\, Jamaica Plain\, MA 02130
+DESCRIPTION:https://bpl.bibliocommons.com/events/6af88e68e14c170074fef264
+URL:https://bpl.bibliocommons.com/events/6af88e68e14c170074fef264
+END:VEVENT
+END:VCALENDAR

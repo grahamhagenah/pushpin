@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:90ff5849df98822c794f6328b8c5b7241790ed37@pushpin.city
+DTSTAMP:20261206T000000Z
+DTSTART:20261206T150000Z
+DTEND:20261206T170000Z
+SUMMARY:Chanukah Brunch Party with Myrtle Street Klezmer
+LOCATION:Northampton Center for the Arts\, 33 Hawley St\, Northampton\, MA 
+ 01060
+DESCRIPTION:https://www.nohoarts.org/chanukah-brunch-party
+URL:https://www.nohoarts.org/chanukah-brunch-party
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c188907d5d0c720a092468d718b70a2a28d13bad@pushpin.city
+DTSTAMP:20261211T000000Z
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+SUMMARY:Cinderella by The United European Ballet Company
+LOCATION:Symphony Hall Springfield\, 34 Court St\, Springfield\, MA 01103
+DESCRIPTION:https://www.symphonyhallspringfield.com/events/detail/the-unite
+ d-european-ballet-company-cinderella
+URL:https://www.symphonyhallspringfield.com/events/detail/the-united-europe
+ an-ballet-company-cinderella
+END:VEVENT
+END:VCALENDAR

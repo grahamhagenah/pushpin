@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin NYC//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a088d779b0382c64092f1686e1f9c011c652c1a9@pushpin.city
+DTSTAMP:20261209T000000Z
+DTSTART:20261210T011500Z
+DTEND:20261210T031500Z
+SUMMARY:Bill Moyers Journal: Rosedale: The Way It Is
+LOCATION:Anthology Film Archives\, 32 Second Ave\, New York\, NY 10003
+DESCRIPTION:https://www.anthologyfilmarchives.org/film_screenings/calendar?
+ view=list&month=12&year=2026#showing-62390
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=lis
+ t&month=12&year=2026#showing-62390
+END:VEVENT
+END:VCALENDAR

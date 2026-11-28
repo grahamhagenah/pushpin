@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pushpin Western Mass · Smith College
+X-WR-CALDESC:What’s coming up at Smith College\, from Pushpin Western Mas
+ s.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:528c7f943fb1d54bc39f910c983f7fb81d77715e@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261129T180000Z
+DTEND:20261129T200000Z
+SUMMARY:Western MA Yetzirah reading and Chanukah party
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:Reading by poets of Western MA Yetzirah followed by a pre-Chanu
+ kah party! All welcome.\nhttps://www.smith.edu/news-events/events/western-
+ ma-yetzirah-reading-and-chanukah-party\nFrom Pushpin Western Mass: https:/
+ /pushpin.city/westernma/
+URL:https://www.smith.edu/news-events/events/western-ma-yetzirah-reading-an
+ d-chanukah-party
+END:VEVENT
+BEGIN:VEVENT
+UID:7126507a720958b391933e1d196e9a3ef458dc39@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261203T003000Z
+DTEND:20261203T023000Z
+SUMMARY:Central Javanese Gamelan Fall Concert
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:The Smith College Gamelan Ensemble presents an evening of music
+  from Java\, Indonesia under the direc...\nhttps://www.smith.edu/news-even
+ ts/events/central-javanese-gamelan-fall-concert-0\nFrom Pushpin Western Ma
+ ss: https://pushpin.city/westernma/
+URL:https://www.smith.edu/news-events/events/central-javanese-gamelan-fall-
+ concert-0
+END:VEVENT
+BEGIN:VEVENT
+UID:abd04ecc44c59a4e65444e823ab5633f52a069a2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261205T003000Z
+DTEND:20261205T023000Z
+SUMMARY:Chinese Music Ensemble Fall Concert
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:Under the artistic direction of Chia-Yu Joy Lu\, the Chinese Mu
+ sic Ensemble presents a lively program...\nhttps://www.smith.edu/news-even
+ ts/events/chinese-music-ensemble-fall-concert-0\nFrom Pushpin Western Mass
+ : https://pushpin.city/westernma/
+URL:https://www.smith.edu/news-events/events/chinese-music-ensemble-fall-co
+ ncert-0
+END:VEVENT
+BEGIN:VEVENT
+UID:6dcd783b9e7916e135d9b14d84ab25ed8828f85f@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261208T003000Z
+DTEND:20261208T023000Z
+SUMMARY:Wind Ensemble Fall Concert: To Trip the Light Fantastic
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:Under the direction of Meghan MacFadden\, the Smith College Win
+ d Ensemble presents its fall concert\, ...\nhttps://www.smith.edu/news-eve
+ nts/events/wind-ensemble-fall-concert-trip-light-fantastic\nFrom Pushpin W
+ estern Mass: https://pushpin.city/westernma/
+URL:https://www.smith.edu/news-events/events/wind-ensemble-fall-concert-tri
+ p-light-fantastic
+END:VEVENT
+BEGIN:VEVENT
+UID:ea1504d5f2e167f3440f6c5f18c8ab3ca1093af9@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261212T003000Z
+DTEND:20261212T023000Z
+SUMMARY:Bare Bones Dance Concert
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:The Smith College Department of Dance presents Bare Bones\, an 
+ exciting showcase of dances choreograp...\nhttps://www.smith.edu/news-even
+ ts/events/bare-bones-dance-concert-0\nFrom Pushpin Western Mass: https://p
+ ushpin.city/westernma/
+URL:https://www.smith.edu/news-events/events/bare-bones-dance-concert-0
+END:VEVENT
+BEGIN:VEVENT
+UID:671a49b0588e1c7e2917e36dfd0058d1941b3be2@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261216T003000Z
+DTEND:20261216T023000Z
+SUMMARY:Fall Grad Dance Event
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:Catch an exciting first look at new work by Smith MFA first yea
+ r candidates: Claire Evangelho\, Laure...\nhttps://www.smith.edu/news-even
+ ts/events/fall-grad-dance-event-1\nFrom Pushpin Western Mass: https://push
+ pin.city/westernma/
+URL:https://www.smith.edu/news-events/events/fall-grad-dance-event-1
+END:VEVENT
+BEGIN:VEVENT
+UID:d4c53518d6b55c98857d1c26d08536e4c1465cc6@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20261216T003000Z
+DTEND:20261216T023000Z
+SUMMARY:Wailing Banshees Fall Concert: Celtic Creatures
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:The Wailing Banshees present a menagerie of creatures great and
+  small. Whether it’s the Fox on the P...\nhttps://www.smith.edu/news-eve
+ nts/events/wailing-banshees-fall-concert-celtic-creatures\nFrom Pushpin We
+ stern Mass: https://pushpin.city/westernma/
+URL:https://www.smith.edu/news-events/events/wailing-banshees-fall-concert-
+ celtic-creatures
+END:VEVENT
+BEGIN:VEVENT
+UID:ac6b89a55775c0d6c5b0ff86b84ec1d5972340a7@pushpin.city
+DTSTAMP:20261128T153847Z
+DTSTART:20270218T213000Z
+DTEND:20270218T233000Z
+SUMMARY:Reading by Novelist Megan Giddings
+LOCATION:Smith College\, 10 Elm St\, Northampton\, MA 01063
+DESCRIPTION:https://www.smith.edu/news-events/events/reading-novelist-megan
+ -giddings\nFrom Pushpin Western Mass: https://pushpin.city/westernma/
+URL:https://www.smith.edu/news-events/events/reading-novelist-megan-gidding
+ s
+END:VEVENT
+END:VCALENDAR

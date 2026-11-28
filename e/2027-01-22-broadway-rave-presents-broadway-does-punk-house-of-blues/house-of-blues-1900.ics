@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2aef5762bea74475fca6473ea68f67bbc1d28d4e@pushpin.city
+DTSTAMP:20270122T000000Z
+DTSTART:20270123T000000Z
+DTEND:20270123T020000Z
+SUMMARY:Broadway Rave Presents: Broadway Does Punk
+LOCATION:House of Blues\, 15 Lansdowne St\, Boston\, MA 02215
+DESCRIPTION:https://www.ticketmaster.com/broadway-rave-presents-broadway-do
+ es-punk-boston-massachusetts-01-22-2027/event/0100656DEDB65E46
+URL:https://www.ticketmaster.com/broadway-rave-presents-broadway-does-punk-
+ boston-massachusetts-01-22-2027/event/0100656DEDB65E46
+END:VEVENT
+END:VCALENDAR

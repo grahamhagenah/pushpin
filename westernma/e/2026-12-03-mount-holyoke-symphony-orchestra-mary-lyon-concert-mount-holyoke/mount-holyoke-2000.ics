@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0e25d8b046980aec8d2bed2064c3ebb6cced3f91@pushpin.city
+DTSTAMP:20261203T000000Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:Mount Holyoke Symphony Orchestra: Mary Lyon Concert
+LOCATION:Mount Holyoke\, 3 Gateway Road\, South Hadley\, MA
+DESCRIPTION:https://events.mtholyoke.edu/event/mary-lyon-concert-2026
+URL:https://events.mtholyoke.edu/event/mary-lyon-concert-2026
+END:VEVENT
+END:VCALENDAR

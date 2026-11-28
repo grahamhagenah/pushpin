@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:97bf0cd4b414deefea3bfa5603a8a7a86f805d72@pushpin.city
+DTSTAMP:20270216T000000Z
+DTSTART:20270217T000000Z
+DTEND:20270217T020000Z
+SUMMARY:An Evening With ALTAN
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a
+ 0SV500000BjaKLMAZ
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000
+ 0BjaKLMAZ
+END:VEVENT
+END:VCALENDAR

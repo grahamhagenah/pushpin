@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:127ec81e51dd7bc17c94f8a85cfec7b4e6febe29@pushpin.city
+DTSTAMP:20261210T000000Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:MASSive Desk Concert Series
+LOCATION:UMass Amherst\, 108 N Pleasant Street\, Amherst\, MA 01002
+DESCRIPTION:https://events.umass.edu/event/massive-desk-concert-series-767
+URL:https://events.umass.edu/event/massive-desk-concert-series-767
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f51e49df3586a9f95fe7ae93ae66cff121c8d8c6@pushpin.city
+DTSTAMP:20270130T000000Z
+DTSTART:20270131T000000Z
+DTEND:20270131T020000Z
+SUMMARY:NEPM’s Smart & Funny People Series Presents: Josh Gondelman
+LOCATION:Iron Horse\, 18 Center St\, Northampton\, MA 01060
+DESCRIPTION:https://theparlorroom.my.salesforce-sites.com/ticket/#/instance
+ s/a0FV500000NrySDMAZ
+URL:https://theparlorroom.my.salesforce-sites.com/ticket/#/instances/a0FV50
+ 0000NrySDMAZ
+END:VEVENT
+END:VCALENDAR

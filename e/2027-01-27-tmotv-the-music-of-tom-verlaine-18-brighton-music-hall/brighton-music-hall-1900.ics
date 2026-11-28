@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Boston//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:513b6a5fde66fb2e970f9fe587dcabfc6fcbd50a@pushpin.city
+DTSTAMP:20270127T000000Z
+DTSTART:20270128T000000Z
+DTEND:20270128T020000Z
+SUMMARY:TMOTV: The Music Of Tom Verlaine (18+)
+LOCATION:Brighton Music Hall\, 158 Brighton Ave\, Boston\, MA 02134
+DESCRIPTION:https://www.ticketmaster.com/tmotv-the-music-of-tom-verlaine-bo
+ ston-massachusetts-01-27-2027/event/01006549A111B587
+URL:https://www.ticketmaster.com/tmotv-the-music-of-tom-verlaine-boston-mas
+ sachusetts-01-27-2027/event/01006549A111B587
+END:VEVENT
+END:VCALENDAR

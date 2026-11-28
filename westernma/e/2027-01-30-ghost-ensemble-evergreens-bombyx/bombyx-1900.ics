@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b3da2fce62bfb1ae5c7d5365cc64465a678f7008@pushpin.city
+DTSTAMP:20270130T000000Z
+DTSTART:20270131T000000Z
+DTEND:20270131T020000Z
+SUMMARY:Ghost Ensemble: Evergreens
+LOCATION:Bombyx\, 130 Pine St\, Florence\, MA 01062
+DESCRIPTION:https://bombyx.live/events/ghost-ensemble-evergreens/
+URL:https://bombyx.live/events/ghost-ensemble-evergreens/
+END:VEVENT
+END:VCALENDAR

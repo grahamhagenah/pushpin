@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pushpin//Pushpin Western Mass//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7de8c0852c7b184bd600a33eb87dbfeba7dea11f@pushpin.city
+DTSTAMP:20270107T000000Z
+DTSTART:20270108T003000Z
+DTEND:20270108T023000Z
+SUMMARY:ARHS: Cabaret! 4th Annual
+LOCATION:The Drake\, 44 N Pleasant St\, Amherst\, MA 01002
+DESCRIPTION:https://www.thedrakeamherst.org/events/ahrs-cabaret-2027
+URL:https://www.thedrakeamherst.org/events/ahrs-cabaret-2027
+END:VEVENT
+END:VCALENDAR
