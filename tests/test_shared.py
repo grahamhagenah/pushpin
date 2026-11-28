@@ -63,6 +63,23 @@ class Fetch(unittest.TestCase):
         self.assertEqual(site.retry_after(limited("Fri, 27 Nov 2026 12:00:00 GMT")), 10, "or says it as a date")
 
 
+class Challenged(unittest.TestCase):
+    def test_a_bot_check_fails_saying_so_not_taken_for_an_empty_page(self):
+        class Answer:
+            status, headers = 202, {"sg-captcha": "challenge"}
+            def __enter__(self): return self
+            def __exit__(self, *_): return False
+            def geturl(self): return "https://www.somervilletheatre.com/wp-json/wp/v2/wp_theatre_prod"
+            def read(self): return b""
+
+        with mock.patch.object(site.urllib.request, "urlopen", lambda request, timeout: Answer()), \
+                mock.patch.object(site.time, "sleep", lambda seconds: None):
+            with self.assertRaises(ValueError) as failed:
+                site.fetch("https://www.somervilletheatre.com/wp-json/wp/v2/wp_theatre_prod", "x")
+        self.assertIn("HTTP 202", str(failed.exception), "the Somerville Theatre's host's, November 2026")
+        self.assertIn("sg-captcha: challenge", str(failed.exception))
+
+
 class Page(unittest.TestCase):
     def test_header_names_both_pages_marking_this_one(self):
         news = site.page("news", "Newsfeed", "<ul></ul>", updated=datetime(2026, 9, 12, tzinfo=timezone.utc))
