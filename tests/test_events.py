@@ -929,7 +929,8 @@ class WesternMass(unittest.TestCase):
         answer = json.loads((FIXTURES / "bso_search.json").read_text())
         asked = []
         post = lambda url, body, headers=None: asked.append((url, body)) or answer
-        with mock.patch.object(build, "post_json", post), mock.patch.object(build, "today", lambda: date(2026, 11, 24)):
+        with mock.patch.object(build, "post_json", post), mock.patch.object(build, "today", lambda: date(2026, 11, 24)), \
+                mock.patch.object(build, "sleep", lambda seconds: None):
             found = build.read_tanglewood(source("tanglewood", "https://www.bso.org/tanglewood", "music", "Tanglewood"))
         self.assertEqual(asked[0][1]["filters"], 'section:"Upcoming Events"', "only what's upcoming, from its search")
         self.assertEqual(len(found), 1, "Tanglewood's, not Symphony Hall's Messiah, nor its photography class")

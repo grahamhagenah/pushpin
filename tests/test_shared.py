@@ -30,6 +30,38 @@ class Fetch(unittest.TestCase):
         self.assertEqual(site.unpacked(raw.compress(page) + raw.flush(), "deflate"), page, "raw deflate too")
         self.assertEqual(site.unpacked(page, ""), page, "a plain one as it is")
 
+    def test_a_429_waited_out_for_as_long_as_it_asks(self):
+        import email.message
+        import urllib.error
+
+        def limited(after):
+            headers = email.message.Message()
+            if after is not None:
+                headers["Retry-After"] = after
+            return urllib.error.HTTPError("https://www.bso.org/events/x", 429, "Too Many Requests", headers, None)
+
+        class Answer:
+            headers = {}
+            def __enter__(self): return self
+            def __exit__(self, *_): return False
+            def geturl(self): return "https://www.bso.org/events/x"
+            def read(self): return b"page"
+
+        answers, waits = [limited("10"), Answer()], []
+
+        def opened(request, timeout):
+            answer = answers.pop(0)
+            if isinstance(answer, Exception):
+                raise answer
+            return answer
+
+        with mock.patch.object(site.urllib.request, "urlopen", opened), mock.patch.object(site.time, "sleep", waits.append):
+            self.assertEqual(site.fetch("https://www.bso.org/events/x", "x")[1], b"page", "bso.org's, November 2026")
+        self.assertEqual(waits, [10], "its Retry-After")
+        self.assertEqual(site.retry_after(limited("3600")), 30, "within reason")
+        self.assertEqual(site.retry_after(limited(None)), 10, "a little, where it doesn't say")
+        self.assertEqual(site.retry_after(limited("Fri, 27 Nov 2026 12:00:00 GMT")), 10, "or says it as a date")
+
 
 class Page(unittest.TestCase):
     def test_header_names_both_pages_marking_this_one(self):
