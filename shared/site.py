@@ -35,6 +35,7 @@ def fetch(url, user_agent, attempts=3, timeout=20, body=None, content_type=None,
     for attempt in range(attempts):
         try:
             with urllib.request.urlopen(request, timeout=timeout) as response:
+                challenged(response)
                 return response.geturl(), unpacked(response.read(), response.headers.get("Content-Encoding", ""))
         except Exception as error:
             # Timeouts, dropped connections and 5xx errors (like the 520s Cloudflare gives when a site's own
@@ -48,6 +49,15 @@ def fetch(url, user_agent, attempts=3, timeout=20, body=None, content_type=None,
             if not momentary or attempt == attempts - 1:
                 raise
             time.sleep(retry_after(error) if limited else 2 * (attempt + 1))
+
+
+def challenged(response):
+    """Fails a response that's a bot check, not the page: SiteGround's (the Somerville Theatre's and the Capitol's
+    host) answers some of GitHub's servers with an empty 202 and an sg-captcha header, which would otherwise pass
+    for an empty page. Said with its status and header, so the log shows what turned it away."""
+    said = response.headers.get("sg-captcha")
+    if said:
+        raise ValueError(f"its host's bot check turned it away (HTTP {response.status}, SiteGround's sg-captcha: {said})")
 
 
 def retry_after(error, longest=30):
