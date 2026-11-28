@@ -19,6 +19,7 @@ from concurrent.futures import Future, ThreadPoolExecutor
 from dataclasses import dataclass
 from datetime import date, datetime, time, timedelta, timezone
 from pathlib import Path
+from time import sleep
 from urllib.parse import quote as urllib_quote, unquote as urllib_unquote, urlencode, urljoin, urlsplit
 from zoneinfo import ZoneInfo
 
@@ -2218,6 +2219,7 @@ def read_foundry(source):
 # The Boston Symphony's site search (Algolia), which its events page searches with: its application, the
 # search-only key the page gives every visitor, and its index. Read only for what's in Lenox, Tanglewood's.
 BSO_SEARCH = ("T49PH09ZFX", "1cc6d592d0f49c7571c372cc99e54a50", "bso_prd_env_site_search")
+TANGLEWOOD_PACE = 1.5  # seconds between bso.org's pages, which it limits
 # What Tanglewood lists that isn't a show: its classes ("Introduction to Smartphone Photography") and workshops.
 TANGLEWOOD_SKIP = re.compile(r"\bintroduction to\b|\bworkshop\b|\bclass\b|\bphotograph", re.I)
 
@@ -2234,7 +2236,7 @@ def read_tanglewood(source):
                         "attributesToHighlight": []},
                        {"X-Algolia-Application-Id": app, "X-Algolia-API-Key": key})
     here, last = today(), window_end("music")
-    events = []
+    events, opened = [], 0
     for hit in answer.get("hits", []):
         first_said = ((hit.get("firstPerformanceDate") or {}).get("date") or "")[:10]
         last_said = ((hit.get("lastPerformanceDate") or {}).get("date") or first_said)[:10]
@@ -2245,7 +2247,12 @@ def read_tanglewood(source):
         if date.fromisoformat(last_said) < here or date.fromisoformat(first_said) > last:
             continue
         link = urljoin("https://www.bso.org/", hit.get("url") or "")
-        page = fetch(link)
+        # bso.org's Cloudflare answers 429 after eight or so pages asked for at once, so they're asked for a
+        # little apart, and a 429 is waited out for as long as it asks (shared.fetch) rather than failing it.
+        if opened:
+            sleep(TANGLEWOOD_PACE)
+        opened += 1
+        page = fetch(link, attempts=4)
         hall = re.search(r'<a href="https://www\.bso\.org/venues/[^"]+">([^<]+)</a>', page)
         where = text(hall.group(1)) if hall else ""
         if not re.search(r"\bLenox\b", where):
